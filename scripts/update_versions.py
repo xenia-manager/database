@@ -28,8 +28,8 @@ def fetch_latest_tag_string(repo_url):
         data = gh_get(repo_url)
         tag = data.get("tag_name")
         date = data.get("published_at") or data.get("created_at")
-        debug(f"Tag found: {tag}, date={date}")
-        return {"tag_name": tag, "date": date}
+        debug(f"Tag found: {tag}")
+        return tag
     except Exception as e:
         print(f"Error fetching {repo_url}: {e}", file=sys.stderr)
         return {"tag_name": None, "date": None}
