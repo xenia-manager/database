@@ -45,8 +45,6 @@ def fetch_all_releases(repo, per_page=100):
         if not batch:
             break
         releases.extend(batch)
-        if len(batch) < per_page:
-            break
         page += 1
     return releases
 
