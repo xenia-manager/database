@@ -3,7 +3,7 @@
   "DatabaseID": "181825",
   "ReleaseDate": "2009-02-04T00:00:00+00:00",
   "Overview": "R-Type Dimensions combines R-Type and R-Type II in one package. Both shoot-em-ups are exact ports from their arcade versions. New features include an enhanced 3D-graphics mode with two different camera angles and widescreen support. The player can switch between 2D and 3D at any time during the game.\n\nThe game contains two playing modes: classic and unlimited. Classic mode plays like regular R-Type, with a limited set of lives and re-spawn at a certain checkpoint within the level. Unlimited however gives the player an unlimited amount of lives, and re-spawn is instantaneous. In this mode, the player can compete to finish the game with as little extra lives as possible. Finishing games in Unlimited Mode also unlocks the stages for play in Classic Mode.\n\nR-Type Dimensions also benefits from Xbox Live enhancements such as leaderboards and online co-operative mode.",
-  "CommunityRating": "3.66666666666667",
+  "CommunityRating": "3.64285714285714",
   "ESRB": "E - Everyone",
   "Genres": "Shooter",
   "Developer": "Irem",
@@ -36,34 +36,22 @@
     "Box": {
       "Front": [
         {
-          "FileName": "ab6a1006-ea2c-4e65-a18b-0b7d6b5e2b09.png",
-          "Type": "Box - Front",
-          "Region": "World",
-          "CRC32": "165466937",
-          "URL": "http://images.launchbox-app.com/ab6a1006-ea2c-4e65-a18b-0b7d6b5e2b09.png"
-        },
-        {
           "FileName": "acfb9d84-5509-40fa-b05c-020d22ffa53f.jpg",
           "Type": "Box - Front",
           "Region": "World",
           "CRC32": "2486953662",
           "URL": "http://images.launchbox-app.com/acfb9d84-5509-40fa-b05c-020d22ffa53f.jpg"
+        },
+        {
+          "FileName": "ab6a1006-ea2c-4e65-a18b-0b7d6b5e2b09.png",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "165466937",
+          "URL": "http://images.launchbox-app.com/ab6a1006-ea2c-4e65-a18b-0b7d6b5e2b09.png"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "dbf1f9ac-dc9c-4f0e-b627-3e8bbc869d5a.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "1400256103",
-        "URL": "http://images.launchbox-app.com/dbf1f9ac-dc9c-4f0e-b627-3e8bbc869d5a.png"
-      },
-      {
-        "FileName": "5337da55-a582-4572-b635-577135ce8c24.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "3321248081",
-        "URL": "http://images.launchbox-app.com/5337da55-a582-4572-b635-577135ce8c24.png"
-      },
       {
         "FileName": "220388a2-04c3-429d-87e3-861864c97c8b.png",
         "Type": "Fanart - Disc",
@@ -75,6 +63,18 @@
         "Type": "Fanart - Disc",
         "CRC32": "484777303",
         "URL": "http://images.launchbox-app.com/e2b6c2b9-8fc2-4dea-887e-6244f7eeb825.png"
+      },
+      {
+        "FileName": "5337da55-a582-4572-b635-577135ce8c24.png",
+        "Type": "Fanart - Disc",
+        "CRC32": "3321248081",
+        "URL": "http://images.launchbox-app.com/5337da55-a582-4572-b635-577135ce8c24.png"
+      },
+      {
+        "FileName": "dbf1f9ac-dc9c-4f0e-b627-3e8bbc869d5a.png",
+        "Type": "Fanart - Disc",
+        "CRC32": "1400256103",
+        "URL": "http://images.launchbox-app.com/dbf1f9ac-dc9c-4f0e-b627-3e8bbc869d5a.png"
       }
     ],
     "Screenshots": [
