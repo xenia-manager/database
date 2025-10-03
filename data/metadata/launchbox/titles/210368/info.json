@@ -11,6 +11,15 @@
   "Developer": "Magic Pockets",
   "Publisher": "Activision",
   "Artwork": {
+    "Background": [
+      {
+        "FileName": "r2_5fd9cc48-b172-4539-9b1c-6df19bf43a08.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "229263332",
+        "URL": "http://images.launchbox-app.com/r2_5fd9cc48-b172-4539-9b1c-6df19bf43a08.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -22,18 +31,27 @@
         }
       ]
     },
-    "Screenshots": [
+    "Disc": [
       {
-        "FileName": "d1f921de-3661-478a-8208-aad395fabcde.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1047538854",
-        "URL": "http://images.launchbox-app.com/d1f921de-3661-478a-8208-aad395fabcde.jpg"
-      },
+        "FileName": "r2_1a603136-bf2a-42c2-9fe8-fcb3b852f22d.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1320554041",
+        "URL": "http://images.launchbox-app.com/r2_1a603136-bf2a-42c2-9fe8-fcb3b852f22d.png"
+      }
+    ],
+    "Screenshots": [
       {
         "FileName": "5bf35814-6ed4-445a-a65a-d095b32ba2ff.png",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1730303677",
         "URL": "http://images.launchbox-app.com/5bf35814-6ed4-445a-a65a-d095b32ba2ff.png"
+      },
+      {
+        "FileName": "d1f921de-3661-478a-8208-aad395fabcde.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1047538854",
+        "URL": "http://images.launchbox-app.com/d1f921de-3661-478a-8208-aad395fabcde.jpg"
       }
     ],
     "Other": [
