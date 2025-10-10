@@ -8,6 +8,31 @@
   "Developer": "Luxe",
   "Publisher": "Frontier Groove",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_b0eb6fb8-80e2-4459-89b2-5eed12a9c609.jpg",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1235618962",
+        "URL": "http://images.launchbox-app.com/r2_b0eb6fb8-80e2-4459-89b2-5eed12a9c609.jpg"
+      },
+      {
+        "FileName": "r2_a1771089-5776-42a1-864a-c4fb3a607948.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3779091830",
+        "URL": "http://images.launchbox-app.com/r2_a1771089-5776-42a1-864a-c4fb3a607948.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_a3b41c9b-faa9-4da7-90be-08e46e40a8fe.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "4011942310",
+        "URL": "http://images.launchbox-app.com/r2_a3b41c9b-faa9-4da7-90be-08e46e40a8fe.jpg"
+      }
+    ],
     "Box": {
       "Back": [
         {
@@ -26,6 +51,15 @@
           "CRC32": "1976668737",
           "URL": "http://images.launchbox-app.com/2850b48b-792c-49cc-b1d5-066621bdbf86.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_3d59e15f-2736-4388-a729-3235d29ee448.jpg",
+          "Type": "Box - Spine",
+          "Region": "Japan",
+          "CRC32": "1924611482",
+          "URL": "http://images.launchbox-app.com/r2_3d59e15f-2736-4388-a729-3235d29ee448.jpg"
+        }
       ]
     },
     "Disc": [
@@ -35,6 +69,15 @@
         "Region": "Japan",
         "CRC32": "595378279",
         "URL": "http://images.launchbox-app.com/r2_b08c101e-4bf3-4143-9f4a-9996d97c4af1.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_8a930d9f-2364-4532-9906-5cd301b53806.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2873066598",
+        "URL": "http://images.launchbox-app.com/r2_8a930d9f-2364-4532-9906-5cd301b53806.png"
       }
     ]
   }
