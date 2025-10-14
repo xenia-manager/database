@@ -9,6 +9,24 @@
   "Developer": "Double Fine Productions",
   "Publisher": "Midnight City",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_edd0f4b7-d7e9-43ab-9497-4aef55e13091.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "4119962034",
+        "URL": "http://images.launchbox-app.com/r2_edd0f4b7-d7e9-43ab-9497-4aef55e13091.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_81f57fdb-bf1e-40d0-9c47-4bb0b788f6ef.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3142190364",
+        "URL": "http://images.launchbox-app.com/r2_81f57fdb-bf1e-40d0-9c47-4bb0b788f6ef.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -17,8 +35,24 @@
           "Region": "United States",
           "CRC32": "2720867915",
           "URL": "http://images.launchbox-app.com/3e9f7d12-a550-4bf3-a478-0405bb82679b.jpg"
+        },
+        {
+          "FileName": "r2_edaa238e-e7d6-459a-b188-17e98afe6178.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "28550007",
+          "URL": "http://images.launchbox-app.com/r2_edaa238e-e7d6-459a-b188-17e98afe6178.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_53e89791-64fd-4003-b249-04c8e6e9c57c.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "3267777750",
+        "URL": "http://images.launchbox-app.com/r2_53e89791-64fd-4003-b249-04c8e6e9c57c.png"
+      }
+    ]
   }
 }
