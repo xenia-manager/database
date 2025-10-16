@@ -11,12 +11,21 @@
   "Developer": "Airtight Games",
   "Publisher": "Capcom",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_00ca60d5-c58c-4360-ba88-8ac4bd4319f8.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "2577512600",
+        "URL": "http://images.launchbox-app.com/r2_00ca60d5-c58c-4360-ba88-8ac4bd4319f8.png"
+      }
+    ],
     "Background": [
       {
-        "FileName": "a43fb3c3-1a54-4cf3-9071-d1426592ca08.jpg",
+        "FileName": "635b994a-5945-446c-9d85-21881fe0a48d.png",
         "Type": "Fanart - Background",
-        "CRC32": "1271852901",
-        "URL": "http://images.launchbox-app.com/a43fb3c3-1a54-4cf3-9071-d1426592ca08.jpg"
+        "CRC32": "327056693",
+        "URL": "http://images.launchbox-app.com/635b994a-5945-446c-9d85-21881fe0a48d.png"
       },
       {
         "FileName": "a560f615-00d3-4b28-bc66-af363494cc9e.jpg",
@@ -25,16 +34,23 @@
         "URL": "http://images.launchbox-app.com/a560f615-00d3-4b28-bc66-af363494cc9e.jpg"
       },
       {
-        "FileName": "635b994a-5945-446c-9d85-21881fe0a48d.png",
+        "FileName": "a43fb3c3-1a54-4cf3-9071-d1426592ca08.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "327056693",
-        "URL": "http://images.launchbox-app.com/635b994a-5945-446c-9d85-21881fe0a48d.png"
+        "CRC32": "1271852901",
+        "URL": "http://images.launchbox-app.com/a43fb3c3-1a54-4cf3-9071-d1426592ca08.jpg"
       },
       {
         "FileName": "a23bc449-4556-40a8-ba66-5e542bcb2132.jpg",
         "Type": "Fanart - Background",
         "CRC32": "1925880860",
         "URL": "http://images.launchbox-app.com/a23bc449-4556-40a8-ba66-5e542bcb2132.jpg"
+      },
+      {
+        "FileName": "r2_e3630272-705e-43b5-9e57-2cf230d4b2a3.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "1366028403",
+        "URL": "http://images.launchbox-app.com/r2_e3630272-705e-43b5-9e57-2cf230d4b2a3.jpg"
       }
     ],
     "Box": {
@@ -63,6 +79,13 @@
           "Region": "North America",
           "CRC32": "1061064695",
           "URL": "http://images.launchbox-app.com/2a1bb8d4-5cc3-4650-b64f-60b089c3087a.jpg"
+        },
+        {
+          "FileName": "r2_da3d37c5-3606-4fd8-9410-9a1d199ddd84.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "1424712429",
+          "URL": "http://images.launchbox-app.com/r2_da3d37c5-3606-4fd8-9410-9a1d199ddd84.jpg"
         }
       ],
       "Spine": [

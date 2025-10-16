@@ -6,21 +6,30 @@
   "ESRB": "E10+ - Everyone 10+",
   "Genres": null,
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_e881f1ab-b922-42cf-a718-c2fd7648431f.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "460567745",
+        "URL": "http://images.launchbox-app.com/r2_e881f1ab-b922-42cf-a718-c2fd7648431f.png"
+      }
+    ],
     "Box": {
       "3D": [
-        {
-          "FileName": "r2_f4af44be-cef0-4f86-aad3-7d50b93e8c2e.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
-          "CRC32": "602507119",
-          "URL": "http://images.launchbox-app.com/r2_f4af44be-cef0-4f86-aad3-7d50b93e8c2e.png"
-        },
         {
           "FileName": "r2_80bfd186-23db-48e3-a8ef-8a7326447747.png",
           "Type": "Box - 3D",
           "Region": "North America",
           "CRC32": "1584977679",
           "URL": "http://images.launchbox-app.com/r2_80bfd186-23db-48e3-a8ef-8a7326447747.png"
+        },
+        {
+          "FileName": "r2_f4af44be-cef0-4f86-aad3-7d50b93e8c2e.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "602507119",
+          "URL": "http://images.launchbox-app.com/r2_f4af44be-cef0-4f86-aad3-7d50b93e8c2e.png"
         }
       ],
       "Front": [
@@ -33,6 +42,15 @@
         }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_32caca5e-651a-49e1-9811-cbb096cc812d.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1802256459",
+        "URL": "http://images.launchbox-app.com/r2_32caca5e-651a-49e1-9811-cbb096cc812d.png"
+      }
+    ],
     "Other": [
       {
         "FileName": "1b6b18d0-d533-4dcd-95c0-f79fa6e7e0d3.png",
