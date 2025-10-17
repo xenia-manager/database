@@ -11,12 +11,28 @@
   "Developer": "Koei",
   "Publisher": "Tecmo Koei",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_ed559cf2-e8e1-4b06-b766-11da1526d81f.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "538329784",
+        "URL": "http://images.launchbox-app.com/r2_ed559cf2-e8e1-4b06-b766-11da1526d81f.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "8517e2a7-ae57-43bd-94f7-a3b653515eb5.png",
         "Type": "Fanart - Background",
         "CRC32": "2136217101",
         "URL": "http://images.launchbox-app.com/8517e2a7-ae57-43bd-94f7-a3b653515eb5.png"
+      },
+      {
+        "FileName": "r2_54d5ecd3-1c98-41db-8eee-b57ce99a6be2.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2990076046",
+        "URL": "http://images.launchbox-app.com/r2_54d5ecd3-1c98-41db-8eee-b57ce99a6be2.jpg"
       }
     ],
     "Box": {
@@ -71,6 +87,13 @@
         "Region": "Europe",
         "CRC32": "3983957823",
         "URL": "http://images.launchbox-app.com/32020420-637b-4187-a2bc-8e734fb35c9c.png"
+      },
+      {
+        "FileName": "r2_4e7de678-c8b7-47b2-8f8d-a46d93fcb41e.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1651507532",
+        "URL": "http://images.launchbox-app.com/r2_4e7de678-c8b7-47b2-8f8d-a46d93fcb41e.png"
       }
     ],
     "Screenshots": [
@@ -87,16 +110,16 @@
         "URL": "http://images.launchbox-app.com/1b303306-9640-487c-b7c3-e22d0fa46767.jpg"
       },
       {
-        "FileName": "3471efb3-162f-4d70-9b3c-2a5d26532392.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3272368304",
-        "URL": "http://images.launchbox-app.com/3471efb3-162f-4d70-9b3c-2a5d26532392.jpg"
-      },
-      {
         "FileName": "5ed18836-f009-4c7f-b051-3e485a1e82ee.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "639654594",
         "URL": "http://images.launchbox-app.com/5ed18836-f009-4c7f-b051-3e485a1e82ee.jpg"
+      },
+      {
+        "FileName": "3471efb3-162f-4d70-9b3c-2a5d26532392.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3272368304",
+        "URL": "http://images.launchbox-app.com/3471efb3-162f-4d70-9b3c-2a5d26532392.jpg"
       }
     ],
     "Other": [

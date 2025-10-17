@@ -11,6 +11,31 @@
   "Developer": "Milestone",
   "Publisher": "Black Bean Games",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_fc8cd771-0e74-4633-a529-d6539e0efb0a.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "739682770",
+        "URL": "http://images.launchbox-app.com/r2_fc8cd771-0e74-4633-a529-d6539e0efb0a.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_7351e529-4120-41cd-a78e-9d25cb771b59.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "4090178151",
+        "URL": "http://images.launchbox-app.com/r2_7351e529-4120-41cd-a78e-9d25cb771b59.jpg"
+      },
+      {
+        "FileName": "r2_6e42df6a-c977-4a6a-8adb-a538832a9287.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "26012754",
+        "URL": "http://images.launchbox-app.com/r2_6e42df6a-c977-4a6a-8adb-a538832a9287.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -28,6 +53,24 @@
           "URL": "http://images.launchbox-app.com/7fd0b237-a2f5-4af7-86a0-ba778047d2d8.jpg"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_c85b4c0a-c1e6-40c7-b77d-7fe2722f6d67.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "341440974",
+        "URL": "http://images.launchbox-app.com/r2_c85b4c0a-c1e6-40c7-b77d-7fe2722f6d67.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_71e0e9ee-9cec-4ff9-ad4a-dd61cd8fd33a.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2934634523",
+        "URL": "http://images.launchbox-app.com/r2_71e0e9ee-9cec-4ff9-ad4a-dd61cd8fd33a.png"
+      }
+    ]
   }
 }
