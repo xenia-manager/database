@@ -4,7 +4,7 @@
   "ReleaseDate": "2009-03-05T00:00:00+00:00",
   "Overview": "Produced by series veteran Jun Takeuchi, this next-generation follow-up to the terrifying series introduces the theme of escape as its core survival instinct. As Chris Redfield (former S.T.A.R.S. member and now part of the BSAA unit), your life is in danger as you strive to complete your most dangerous mission yet in a sweltering desert colony where a new breed of evil has been unleashed. Swarms of marauding evil beings will charge at you when your pulse is racing at a heart-shattering pace. Environments will play a bigger factor than ever here, using the power of next-gen systems to create a world where terror might lurk in any alcove or shadow. Powerful lighting effects overwhelm the player with mirage movement and blinding brilliance, and even in the light of day, there is no safe haven in this Resident Evil.",
   "VideoURL": "http://www.youtube.com/watch?v=xxJbz_3PKQo",
-  "CommunityRating": "4.14",
+  "CommunityRating": "4.17307692307692",
   "ESRB": "M - Mature",
   "Genres": "Action; Horror; Shooter",
   "Developer": "Capcom",
@@ -19,6 +19,18 @@
       }
     ],
     "Background": [
+      {
+        "FileName": "3ad8e884-7363-44c5-aab4-7f0b011a36e6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1257088164",
+        "URL": "http://images.launchbox-app.com/3ad8e884-7363-44c5-aab4-7f0b011a36e6.jpg"
+      },
+      {
+        "FileName": "3a733658-14cf-4801-ae02-3f3279aa5bc3.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "976421969",
+        "URL": "http://images.launchbox-app.com/3a733658-14cf-4801-ae02-3f3279aa5bc3.jpg"
+      },
       {
         "FileName": "0d4a3944-f234-4d07-96fd-3275b6db7cd5.jpg",
         "Type": "Fanart - Background",
@@ -36,18 +48,6 @@
         "Type": "Fanart - Background",
         "CRC32": "1108159865",
         "URL": "http://images.launchbox-app.com/c88d9a17-ce68-45ac-9c6f-cd8f4f50d26e.jpg"
-      },
-      {
-        "FileName": "3a733658-14cf-4801-ae02-3f3279aa5bc3.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "976421969",
-        "URL": "http://images.launchbox-app.com/3a733658-14cf-4801-ae02-3f3279aa5bc3.jpg"
-      },
-      {
-        "FileName": "3ad8e884-7363-44c5-aab4-7f0b011a36e6.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1257088164",
-        "URL": "http://images.launchbox-app.com/3ad8e884-7363-44c5-aab4-7f0b011a36e6.jpg"
       }
     ],
     "Box": {
@@ -104,6 +104,13 @@
           "URL": "http://images.launchbox-app.com/0db501d7-ff26-45cd-ad42-839ed39e2a2f.png"
         },
         {
+          "FileName": "a302aa0b-60be-4771-a80f-ea2908394751.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "121706328",
+          "URL": "http://images.launchbox-app.com/a302aa0b-60be-4771-a80f-ea2908394751.jpg"
+        },
+        {
           "FileName": "3a363cd7-0ea4-45c7-89ac-565e390ff0e8.jpg",
           "Type": "Box - Back",
           "Region": "North America",
@@ -116,13 +123,6 @@
           "Region": "North America",
           "CRC32": "361290963",
           "URL": "http://images.launchbox-app.com/05fa23c2-40ed-4165-82eb-013578a2f794.jpg"
-        },
-        {
-          "FileName": "a302aa0b-60be-4771-a80f-ea2908394751.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "121706328",
-          "URL": "http://images.launchbox-app.com/a302aa0b-60be-4771-a80f-ea2908394751.jpg"
         },
         {
           "FileName": "46fe2379-a068-4d8c-932d-196cf96f4db6.jpg",
@@ -190,18 +190,18 @@
           "URL": "http://images.launchbox-app.com/7e9ef6e3-4b22-4080-b540-27cf56d1d77e.png"
         },
         {
-          "FileName": "76bcc34e-623e-4c11-95c0-e8240c903591.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "915637924",
-          "URL": "http://images.launchbox-app.com/76bcc34e-623e-4c11-95c0-e8240c903591.jpg"
-        },
-        {
           "FileName": "365e02c4-ec14-4084-a98f-95bfdd0d8c3b.png",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "878446705",
           "URL": "http://images.launchbox-app.com/365e02c4-ec14-4084-a98f-95bfdd0d8c3b.png"
+        },
+        {
+          "FileName": "76bcc34e-623e-4c11-95c0-e8240c903591.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "915637924",
+          "URL": "http://images.launchbox-app.com/76bcc34e-623e-4c11-95c0-e8240c903591.jpg"
         },
         {
           "FileName": "c84de0b1-afb2-48a7-8456-41ad0440ebe5.jpg",
@@ -299,18 +299,18 @@
         "URL": "http://images.launchbox-app.com/6731b54f-6af7-4176-afff-3b87fc02311e.png"
       },
       {
-        "FileName": "ff41ef4b-fc6d-479d-9c7c-c0913a9dcfc2.png",
-        "Type": "Disc",
-        "Region": "World",
-        "CRC32": "2197540609",
-        "URL": "http://images.launchbox-app.com/ff41ef4b-fc6d-479d-9c7c-c0913a9dcfc2.png"
-      },
-      {
         "FileName": "ffa4ec8e-09b2-4b75-b0a2-f02fe2c4004e.png",
         "Type": "Disc",
         "Region": "World",
         "CRC32": "4095134919",
         "URL": "http://images.launchbox-app.com/ffa4ec8e-09b2-4b75-b0a2-f02fe2c4004e.png"
+      },
+      {
+        "FileName": "ff41ef4b-fc6d-479d-9c7c-c0913a9dcfc2.png",
+        "Type": "Disc",
+        "Region": "World",
+        "CRC32": "2197540609",
+        "URL": "http://images.launchbox-app.com/ff41ef4b-fc6d-479d-9c7c-c0913a9dcfc2.png"
       }
     ],
     "Other": [
