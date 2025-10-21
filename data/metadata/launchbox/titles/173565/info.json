@@ -8,6 +8,15 @@
   "Developer": "Torus Games",
   "Publisher": "Little Orbit",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_b3d8a019-d28a-4e39-a526-88af9ba35c0b.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3142772905",
+        "URL": "http://images.launchbox-app.com/r2_b3d8a019-d28a-4e39-a526-88af9ba35c0b.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "bb30abd4-b16b-43e3-aa9b-404f7fe80188.jpg",
@@ -15,9 +24,25 @@
         "Region": "Spain",
         "CRC32": "1577430674",
         "URL": "http://images.launchbox-app.com/bb30abd4-b16b-43e3-aa9b-404f7fe80188.jpg"
+      },
+      {
+        "FileName": "r2_2b898641-6f2f-49b0-8302-b47e8d1ef7ab.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3760745520",
+        "URL": "http://images.launchbox-app.com/r2_2b898641-6f2f-49b0-8302-b47e8d1ef7ab.jpg"
       }
     ],
     "Box": {
+      "Back": [
+        {
+          "FileName": "r2_7cdc9f72-17d3-4920-a86f-7d4e62296b52.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1531371286",
+          "URL": "http://images.launchbox-app.com/r2_7cdc9f72-17d3-4920-a86f-7d4e62296b52.jpg"
+        }
+      ],
       "Front": [
         {
           "FileName": "46bbb0f8-d56f-4490-a1f9-ecaf5b307109.png",
@@ -26,8 +51,26 @@
           "CRC32": "235569405",
           "URL": "http://images.launchbox-app.com/46bbb0f8-d56f-4490-a1f9-ecaf5b307109.png"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_08539809-d589-4d79-a46d-63daee887e3d.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2289639354",
+          "URL": "http://images.launchbox-app.com/r2_08539809-d589-4d79-a46d-63daee887e3d.jpg"
+        }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_b44544a5-739e-4350-b659-5524d7c6019f.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1024368012",
+        "URL": "http://images.launchbox-app.com/r2_b44544a5-739e-4350-b659-5524d7c6019f.png"
+      }
+    ],
     "Other": [
       {
         "FileName": "c20c757c-cb5b-48af-804f-36aeeebcbe34.png",
