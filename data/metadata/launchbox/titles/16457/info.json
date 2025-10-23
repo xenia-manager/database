@@ -10,6 +10,24 @@
   "Developer": "Left Field Productions",
   "Publisher": "Activision",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_790e37c2-22bd-447a-9194-e62af7d10b4a.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "2276825375",
+        "URL": "http://images.launchbox-app.com/r2_790e37c2-22bd-447a-9194-e62af7d10b4a.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_bf21a2c4-c451-496a-8839-03d90b178f64.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3948941935",
+        "URL": "http://images.launchbox-app.com/r2_bf21a2c4-c451-496a-8839-03d90b178f64.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -21,18 +39,18 @@
       ],
       "Back": [
         {
-          "FileName": "5246f527-a854-4e12-b513-368c290745bf.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "961140761",
-          "URL": "http://images.launchbox-app.com/5246f527-a854-4e12-b513-368c290745bf.jpg"
-        },
-        {
           "FileName": "d891ddcb-10cf-4822-8175-52acac8ba420.jpg",
           "Type": "Box - Back",
           "Region": "North America",
           "CRC32": "961140761",
           "URL": "http://images.launchbox-app.com/d891ddcb-10cf-4822-8175-52acac8ba420.jpg"
+        },
+        {
+          "FileName": "5246f527-a854-4e12-b513-368c290745bf.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "961140761",
+          "URL": "http://images.launchbox-app.com/5246f527-a854-4e12-b513-368c290745bf.jpg"
         }
       ],
       "Front": [
@@ -45,21 +63,30 @@
       ],
       "Spine": [
         {
-          "FileName": "809d28f3-06b2-4050-8bdf-d688b984f235.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "3800574250",
-          "URL": "http://images.launchbox-app.com/809d28f3-06b2-4050-8bdf-d688b984f235.jpg"
-        },
-        {
           "FileName": "dcc67fb6-f2dc-4e22-89ba-30a35a1b982e.jpg",
           "Type": "Box - Spine",
           "Region": "North America",
           "CRC32": "3800574250",
           "URL": "http://images.launchbox-app.com/dcc67fb6-f2dc-4e22-89ba-30a35a1b982e.jpg"
+        },
+        {
+          "FileName": "809d28f3-06b2-4050-8bdf-d688b984f235.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3800574250",
+          "URL": "http://images.launchbox-app.com/809d28f3-06b2-4050-8bdf-d688b984f235.jpg"
         }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_f0c18303-ff61-4ea0-bc28-36fccb6a3e90.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "75438148",
+        "URL": "http://images.launchbox-app.com/r2_f0c18303-ff61-4ea0-bc28-36fccb6a3e90.png"
+      }
+    ],
     "Other": [
       {
         "FileName": "3a60b8cc-eb80-419f-af20-4b998700538c.png",
