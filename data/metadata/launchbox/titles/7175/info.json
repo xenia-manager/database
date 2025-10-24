@@ -10,6 +10,24 @@
   "Developer": "Electronic Arts Chicago",
   "Publisher": "Electronic Arts",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_fe6502fd-74b5-4737-a924-3748550a85de.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3216288916",
+        "URL": "http://images.launchbox-app.com/r2_fe6502fd-74b5-4737-a924-3748550a85de.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_003cf7f7-2bb7-4e3a-bcd7-2454ef75a664.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "117185943",
+        "URL": "http://images.launchbox-app.com/r2_003cf7f7-2bb7-4e3a-bcd7-2454ef75a664.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -54,28 +72,28 @@
       ],
       "Spine": [
         {
-          "FileName": "1fa7c9aa-dac8-45a0-90c3-72d923267d91.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "2886916615",
-          "URL": "http://images.launchbox-app.com/1fa7c9aa-dac8-45a0-90c3-72d923267d91.jpg"
-        },
-        {
           "FileName": "8901f72c-6994-43c4-bcaf-731d96fd70d2.jpg",
           "Type": "Box - Spine",
           "Region": "North America",
           "CRC32": "886056647",
           "URL": "http://images.launchbox-app.com/8901f72c-6994-43c4-bcaf-731d96fd70d2.jpg"
+        },
+        {
+          "FileName": "1fa7c9aa-dac8-45a0-90c3-72d923267d91.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2886916615",
+          "URL": "http://images.launchbox-app.com/1fa7c9aa-dac8-45a0-90c3-72d923267d91.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "8f5ab7f9-30a5-4e5e-b721-20f75d1c0569.png",
+        "FileName": "r2_adda999c-0598-44e5-8341-06243ec05bcf.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "2577066379",
-        "URL": "http://images.launchbox-app.com/8f5ab7f9-30a5-4e5e-b721-20f75d1c0569.png"
+        "URL": "http://images.launchbox-app.com/r2_adda999c-0598-44e5-8341-06243ec05bcf.png"
       }
     ],
     "Other": [
