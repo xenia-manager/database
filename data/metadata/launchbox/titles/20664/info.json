@@ -10,6 +10,24 @@
   "Developer": "Capcom",
   "Publisher": "Microsoft",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_c74a2a5a-ce60-4a43-98d6-14a9b68672b4.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "408139714",
+        "URL": "http://images.launchbox-app.com/r2_c74a2a5a-ce60-4a43-98d6-14a9b68672b4.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_88f7d829-7ec6-4ecc-ba27-7064a24907e6.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "796540960",
+        "URL": "http://images.launchbox-app.com/r2_88f7d829-7ec6-4ecc-ba27-7064a24907e6.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -20,6 +38,15 @@
           "URL": "http://images.launchbox-app.com/31278242-96c9-4d40-b343-975a27baf362.png"
         }
       ],
+      "Back": [
+        {
+          "FileName": "r2_ddfdba45-15e0-40a8-8d34-884d35b84393.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2578815080",
+          "URL": "http://images.launchbox-app.com/r2_ddfdba45-15e0-40a8-8d34-884d35b84393.jpg"
+        }
+      ],
       "Front": [
         {
           "FileName": "2549a82a-0d5f-4fa9-ad22-92218d84b534.png",
@@ -27,16 +54,32 @@
           "Region": "North America",
           "CRC32": "1430341736",
           "URL": "http://images.launchbox-app.com/2549a82a-0d5f-4fa9-ad22-92218d84b534.png"
+        },
+        {
+          "FileName": "r2_70405837-9dfc-49f1-81cc-1070aae1eb39.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2172343108",
+          "URL": "http://images.launchbox-app.com/r2_70405837-9dfc-49f1-81cc-1070aae1eb39.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_4e55a8d3-1734-41cd-ae84-2fe9b153edf0.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2984781302",
+          "URL": "http://images.launchbox-app.com/r2_4e55a8d3-1734-41cd-ae84-2fe9b153edf0.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_738250db-1a4e-4f10-8739-ba754c1ef4d1.png",
+        "FileName": "r2_ef4c6afc-f602-4df2-a953-93f72a8ee9af.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "3575209501",
-        "URL": "http://images.launchbox-app.com/r2_738250db-1a4e-4f10-8739-ba754c1ef4d1.png"
+        "URL": "http://images.launchbox-app.com/r2_ef4c6afc-f602-4df2-a953-93f72a8ee9af.png"
       },
       {
         "FileName": "49b6bab9-b0cb-4ea9-99c6-aea610f52759.png",
