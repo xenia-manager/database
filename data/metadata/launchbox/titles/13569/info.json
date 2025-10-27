@@ -10,6 +10,31 @@
   "Developer": "Omega Force",
   "Publisher": "Koei",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_794fb48a-8561-451f-81a6-b47af9acb554.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3333164457",
+        "URL": "http://images.launchbox-app.com/r2_794fb48a-8561-451f-81a6-b47af9acb554.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_adcd661b-abd5-42ce-ab5b-992613aa19d4.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "378492188",
+        "URL": "http://images.launchbox-app.com/r2_adcd661b-abd5-42ce-ab5b-992613aa19d4.jpg"
+      },
+      {
+        "FileName": "r2_a53cb07b-0092-4160-b40d-f0ff2030a522.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "225069668",
+        "URL": "http://images.launchbox-app.com/r2_a53cb07b-0092-4160-b40d-f0ff2030a522.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -44,15 +69,24 @@
           "CRC32": "1542131703",
           "URL": "http://images.launchbox-app.com/e6597c88-72f8-45f7-8c65-70935356f5de.png"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_c4a46570-ea96-4c88-94a6-6c4b979d64a3.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1884542168",
+          "URL": "http://images.launchbox-app.com/r2_c4a46570-ea96-4c88-94a6-6c4b979d64a3.jpg"
+        }
       ]
     },
     "Disc": [
       {
-        "FileName": "942352ae-99ff-49a7-9dbd-c57299be1bce.png",
+        "FileName": "r2_bbe0d013-57dd-4297-820a-978a1d8064cb.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "2662833998",
-        "URL": "http://images.launchbox-app.com/942352ae-99ff-49a7-9dbd-c57299be1bce.png"
+        "URL": "http://images.launchbox-app.com/r2_bbe0d013-57dd-4297-820a-978a1d8064cb.png"
       }
     ],
     "Other": [
