@@ -11,6 +11,24 @@
   "Developer": "Electronic Arts Tiburon",
   "Publisher": "Electronic Arts",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_106eb091-ad5c-46bf-ba64-26c8c1c72c5a.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3132007672",
+        "URL": "http://images.launchbox-app.com/r2_106eb091-ad5c-46bf-ba64-26c8c1c72c5a.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_6f687ff5-85c8-4c68-9a01-dc696430d124.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "1349517512",
+        "URL": "http://images.launchbox-app.com/r2_6f687ff5-85c8-4c68-9a01-dc696430d124.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -21,6 +39,15 @@
           "URL": "http://images.launchbox-app.com/4c3db322-7050-4a23-b51c-2624e2067af7.png"
         }
       ],
+      "Back": [
+        {
+          "FileName": "r2_f4bf5e32-69c6-4e4e-b5b6-32026d344286.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2844267622",
+          "URL": "http://images.launchbox-app.com/r2_f4bf5e32-69c6-4e4e-b5b6-32026d344286.jpg"
+        }
+      ],
       "Front": [
         {
           "FileName": "d482004f-e449-47e5-9358-7f18db9d0eaa.jpg",
@@ -29,15 +56,24 @@
           "CRC32": "2326620041",
           "URL": "http://images.launchbox-app.com/d482004f-e449-47e5-9358-7f18db9d0eaa.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_c40fecdb-51ef-4bd3-b42f-0c4cddaad607.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2426630186",
+          "URL": "http://images.launchbox-app.com/r2_c40fecdb-51ef-4bd3-b42f-0c4cddaad607.jpg"
+        }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_52460706-be62-4a56-8ff7-fc9a3891b9e5.png",
+        "FileName": "r2_225e4627-7f35-4461-a862-0e72b697928c.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "2972928809",
-        "URL": "http://images.launchbox-app.com/r2_52460706-be62-4a56-8ff7-fc9a3891b9e5.png"
+        "URL": "http://images.launchbox-app.com/r2_225e4627-7f35-4461-a862-0e72b697928c.png"
       }
     ],
     "Other": [
