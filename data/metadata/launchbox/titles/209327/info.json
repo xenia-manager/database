@@ -9,6 +9,24 @@
   "Developer": "Blitz Arcade",
   "Publisher": "Microsoft Studios",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_d3474364-7f0a-4c6d-a7c0-eb583b0363dd.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "4274116837",
+        "URL": "http://images.launchbox-app.com/r2_d3474364-7f0a-4c6d-a7c0-eb583b0363dd.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_b1741e29-c343-4be9-a3b7-b431a56024c0.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3122938018",
+        "URL": "http://images.launchbox-app.com/r2_b1741e29-c343-4be9-a3b7-b431a56024c0.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -17,8 +35,24 @@
           "Region": "United States",
           "CRC32": "3188497792",
           "URL": "http://images.launchbox-app.com/e1ee1407-b2a8-41bc-af22-5ea7f04cd400.jpg"
+        },
+        {
+          "FileName": "r2_0e098b6b-763c-48c9-a40c-b16e95791ada.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "1106192033",
+          "URL": "http://images.launchbox-app.com/r2_0e098b6b-763c-48c9-a40c-b16e95791ada.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_8b6e8bbe-8572-43ea-b472-ccf504cae3e8.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "1933308961",
+        "URL": "http://images.launchbox-app.com/r2_8b6e8bbe-8572-43ea-b472-ccf504cae3e8.png"
+      }
+    ]
   }
 }

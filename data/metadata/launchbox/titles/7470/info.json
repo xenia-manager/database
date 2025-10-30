@@ -11,6 +11,31 @@
   "Developer": "FromSoftware",
   "Publisher": "Ubisoft",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_f1044288-197c-458e-991d-a58ec96f35b2.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1607447390",
+        "URL": "http://images.launchbox-app.com/r2_f1044288-197c-458e-991d-a58ec96f35b2.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_33f91492-fc04-428a-aa35-27161469205b.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2004288086",
+        "URL": "http://images.launchbox-app.com/r2_33f91492-fc04-428a-aa35-27161469205b.jpg"
+      },
+      {
+        "FileName": "r2_0f47472a-f816-4291-b233-e9fb08043300.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "4152405053",
+        "URL": "http://images.launchbox-app.com/r2_0f47472a-f816-4291-b233-e9fb08043300.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -35,7 +60,25 @@
           "CRC32": "204988801",
           "URL": "http://images.launchbox-app.com/2988b3e7-c05c-4894-b67f-f8d57087eaf4.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_0e034912-6117-4395-9dcf-9c2d2c6cc6c3.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2139733580",
+          "URL": "http://images.launchbox-app.com/r2_0e034912-6117-4395-9dcf-9c2d2c6cc6c3.jpg"
+        }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_85aec0c9-5a25-4dca-a4e9-72c0024092bf.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2766912508",
+        "URL": "http://images.launchbox-app.com/r2_85aec0c9-5a25-4dca-a4e9-72c0024092bf.png"
+      }
+    ]
   }
 }
