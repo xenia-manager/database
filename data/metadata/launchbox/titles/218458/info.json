@@ -7,7 +7,32 @@
   "Developer": "Experience",
   "Publisher": "Chunsoft",
   "Artwork": {
+    "Background": [
+      {
+        "FileName": "r2_1766db4c-91e0-4802-8773-1ceee1fd77e8.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "44319175",
+        "URL": "http://images.launchbox-app.com/r2_1766db4c-91e0-4802-8773-1ceee1fd77e8.jpg"
+      },
+      {
+        "FileName": "r2_e585618f-e2ad-4a86-84fc-ea6f8e7125af.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2271626970",
+        "URL": "http://images.launchbox-app.com/r2_e585618f-e2ad-4a86-84fc-ea6f8e7125af.jpg"
+      }
+    ],
     "Box": {
+      "Back": [
+        {
+          "FileName": "r2_4af8f9a6-187e-4955-8926-6c8d91990a2f.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "42434493",
+          "URL": "http://images.launchbox-app.com/r2_4af8f9a6-187e-4955-8926-6c8d91990a2f.jpg"
+        }
+      ],
       "Front": [
         {
           "FileName": "8af1b607-d65d-4b9f-892f-d6d7fa022ec9.jpg",
@@ -17,6 +42,15 @@
           "URL": "http://images.launchbox-app.com/8af1b607-d65d-4b9f-892f-d6d7fa022ec9.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_4bc2d7be-8f6a-4c3f-bb0a-0358a425d7e6.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "2596057587",
+        "URL": "http://images.launchbox-app.com/r2_4bc2d7be-8f6a-4c3f-bb0a-0358a425d7e6.png"
+      }
+    ]
   }
 }
