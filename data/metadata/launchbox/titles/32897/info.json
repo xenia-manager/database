@@ -10,6 +10,24 @@
   "Developer": "Fatshark",
   "Publisher": "Deep Silver",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_1dedd710-92c4-4f7f-a39b-d5ea183f9b72.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1661659395",
+        "URL": "http://images.launchbox-app.com/r2_1dedd710-92c4-4f7f-a39b-d5ea183f9b72.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_f76bddb1-64f2-41bf-a7d4-85ec645a65e6.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3538270164",
+        "URL": "http://images.launchbox-app.com/r2_f76bddb1-64f2-41bf-a7d4-85ec645a65e6.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -17,6 +35,15 @@
           "Type": "Box - 3D",
           "CRC32": "1809340212",
           "URL": "http://images.launchbox-app.com/05a81fb5-f46e-40bc-be22-1fec5abd6afc.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "r2_8a79e8c7-98c8-413f-bca2-e9b492754763.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "647678687",
+          "URL": "http://images.launchbox-app.com/r2_8a79e8c7-98c8-413f-bca2-e9b492754763.jpg"
         }
       ],
       "Front": [
@@ -34,6 +61,15 @@
           "CRC32": "1715910798",
           "URL": "http://images.launchbox-app.com/b09803fe-a520-4c40-b5ba-e3107a181636.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_f80be749-3f33-46f6-a0e9-1979352ffaf2.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2408604746",
+          "URL": "http://images.launchbox-app.com/r2_f80be749-3f33-46f6-a0e9-1979352ffaf2.jpg"
+        }
       ]
     },
     "Disc": [
@@ -43,6 +79,22 @@
         "Region": "Europe",
         "CRC32": "4031342488",
         "URL": "http://images.launchbox-app.com/e3f179d2-cd3e-49e3-b994-65d2779fcd8d.png"
+      },
+      {
+        "FileName": "r2_f1d84a28-501f-4263-a664-595722edda57.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "387586049",
+        "URL": "http://images.launchbox-app.com/r2_f1d84a28-501f-4263-a664-595722edda57.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_eccf2c99-9bb6-4ca2-b9ea-5bb95fda30d8.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "478853915",
+        "URL": "http://images.launchbox-app.com/r2_eccf2c99-9bb6-4ca2-b9ea-5bb95fda30d8.png"
       }
     ]
   }
