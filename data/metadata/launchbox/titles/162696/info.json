@@ -5,6 +5,24 @@
   "CommunityRating": "4.5",
   "Genres": null,
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_3cd5db91-6e00-49a0-b04f-a84f9dbb2fd5.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1047560143",
+        "URL": "http://images.launchbox-app.com/r2_3cd5db91-6e00-49a0-b04f-a84f9dbb2fd5.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_5c31bec9-16f4-425a-a29c-c193173bc46b.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "933600826",
+        "URL": "http://images.launchbox-app.com/r2_5c31bec9-16f4-425a-a29c-c193173bc46b.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -26,11 +44,20 @@
     },
     "Disc": [
       {
-        "FileName": "bf2f2020-5b61-4813-8ac8-d6d38e54a0a7.png",
+        "FileName": "r2_0499fc0d-231b-48da-81b0-fcb169f1a14b.png",
         "Type": "Disc",
         "Region": "World",
         "CRC32": "849506361",
-        "URL": "http://images.launchbox-app.com/bf2f2020-5b61-4813-8ac8-d6d38e54a0a7.png"
+        "URL": "http://images.launchbox-app.com/r2_0499fc0d-231b-48da-81b0-fcb169f1a14b.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_7a152777-0610-435c-871d-33da5b7be6d1.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "939058392",
+        "URL": "http://images.launchbox-app.com/r2_7a152777-0610-435c-871d-33da5b7be6d1.png"
       }
     ]
   }

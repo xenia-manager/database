@@ -9,12 +9,28 @@
   "Developer": "Codemasters Birmingham",
   "Publisher": "Codemasters",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_b5890f99-b714-4cfc-8936-59f84803d80b.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "2834797304",
+        "URL": "http://images.launchbox-app.com/r2_b5890f99-b714-4cfc-8936-59f84803d80b.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "9564d192-9af7-40c5-9556-09908c935682.jpg",
         "Type": "Fanart - Background",
         "CRC32": "756582837",
         "URL": "http://images.launchbox-app.com/9564d192-9af7-40c5-9556-09908c935682.jpg"
+      },
+      {
+        "FileName": "r2_752864ff-0c3d-442a-b0af-67e69e284978.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "460776539",
+        "URL": "http://images.launchbox-app.com/r2_752864ff-0c3d-442a-b0af-67e69e284978.jpg"
       }
     ],
     "Box": {
@@ -72,6 +88,15 @@
           "CRC32": "1922735015",
           "URL": "http://images.launchbox-app.com/945e6203-aac5-4839-8a00-72cb150a095d.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_29288296-1128-436b-96d6-44cb98902cc5.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1872705020",
+          "URL": "http://images.launchbox-app.com/r2_29288296-1128-436b-96d6-44cb98902cc5.jpg"
+        }
       ]
     },
     "Disc": [
@@ -88,14 +113,29 @@
         "Region": "Europe",
         "CRC32": "2299271339",
         "URL": "http://images.launchbox-app.com/6a0bc7b2-1297-47cb-bde5-48724aa840f2.png"
+      },
+      {
+        "FileName": "r2_509c409c-c5ad-4310-8e77-3f9c049275e8.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2273535950",
+        "URL": "http://images.launchbox-app.com/r2_509c409c-c5ad-4310-8e77-3f9c049275e8.png"
       }
     ],
     "Other": [
       {
-        "FileName": "616fd136-330c-4577-97a2-33ee9b466f0f.png",
+        "FileName": "r2_4986a4b2-061a-43da-a938-02e47cf9018a.png",
         "Type": "Clear Logo",
+        "Region": "World",
         "CRC32": "3944871144",
-        "URL": "http://images.launchbox-app.com/616fd136-330c-4577-97a2-33ee9b466f0f.png"
+        "URL": "http://images.launchbox-app.com/r2_4986a4b2-061a-43da-a938-02e47cf9018a.png"
+      },
+      {
+        "FileName": "r2_60a7ed50-1456-433f-88b3-3aa05de05a59.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "1829901244",
+        "URL": "http://images.launchbox-app.com/r2_60a7ed50-1456-433f-88b3-3aa05de05a59.png"
       }
     ]
   }

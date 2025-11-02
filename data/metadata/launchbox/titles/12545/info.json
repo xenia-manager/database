@@ -10,7 +10,34 @@
   "Developer": "Kid",
   "Publisher": "CyberFront",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_c0953c72-999f-43dc-82a5-1bd529dc6f5c.png",
+        "Type": "Banner",
+        "Region": "Japan",
+        "CRC32": "300186476",
+        "URL": "http://images.launchbox-app.com/r2_c0953c72-999f-43dc-82a5-1bd529dc6f5c.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_31ea0a3b-9288-421a-a0cb-f178b657bc61.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3986768544",
+        "URL": "http://images.launchbox-app.com/r2_31ea0a3b-9288-421a-a0cb-f178b657bc61.jpg"
+      }
+    ],
     "Box": {
+      "Back": [
+        {
+          "FileName": "r2_ee0b96f4-a72a-41f7-b196-6267d384379a.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "131299927",
+          "URL": "http://images.launchbox-app.com/r2_ee0b96f4-a72a-41f7-b196-6267d384379a.jpg"
+        }
+      ],
       "Front": [
         {
           "FileName": "0b82b4c7-216b-4578-87b1-d0ab50d936dd.jpg",
@@ -19,7 +46,34 @@
           "CRC32": "4053744269",
           "URL": "http://images.launchbox-app.com/0b82b4c7-216b-4578-87b1-d0ab50d936dd.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_93e523cf-69c5-42bf-820b-a71e9fda8985.jpg",
+          "Type": "Box - Spine",
+          "Region": "Japan",
+          "CRC32": "1848229895",
+          "URL": "http://images.launchbox-app.com/r2_93e523cf-69c5-42bf-820b-a71e9fda8985.jpg"
+        }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_fa5bd351-bf93-4d5d-9e24-c33f05ec95b5.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "1455152368",
+        "URL": "http://images.launchbox-app.com/r2_fa5bd351-bf93-4d5d-9e24-c33f05ec95b5.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_b2a037db-35cf-4f1d-ad9a-7227cf1b0cd5.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "1066671924",
+        "URL": "http://images.launchbox-app.com/r2_b2a037db-35cf-4f1d-ad9a-7227cf1b0cd5.png"
+      }
+    ]
   }
 }

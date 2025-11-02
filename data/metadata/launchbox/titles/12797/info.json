@@ -9,6 +9,24 @@
   "Developer": "Day 1 Studios",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_54464243-a26f-46e3-ac1b-30e647a18d71.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "36986439",
+        "URL": "http://images.launchbox-app.com/r2_54464243-a26f-46e3-ac1b-30e647a18d71.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_e0be0915-b974-45f2-a077-1baf7df32e8b.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2469269844",
+        "URL": "http://images.launchbox-app.com/r2_e0be0915-b974-45f2-a077-1baf7df32e8b.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -19,6 +37,15 @@
           "URL": "http://images.launchbox-app.com/r2_497360fc-d91a-4bc4-8cf9-d26e1d3e9056.png"
         }
       ],
+      "Back": [
+        {
+          "FileName": "r2_3370d777-9672-4590-ad25-f0fc037c06af.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4254705093",
+          "URL": "http://images.launchbox-app.com/r2_3370d777-9672-4590-ad25-f0fc037c06af.jpg"
+        }
+      ],
       "Front": [
         {
           "FileName": "3f4c5046-e587-42af-a220-74925e573aa9.jpg",
@@ -26,6 +53,15 @@
           "Region": "North America",
           "CRC32": "1912799854",
           "URL": "http://images.launchbox-app.com/3f4c5046-e587-42af-a220-74925e573aa9.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_c4058b85-b5ce-4bfb-997b-35ea07c1398a.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1204495086",
+          "URL": "http://images.launchbox-app.com/r2_c4058b85-b5ce-4bfb-997b-35ea07c1398a.jpg"
         }
       ]
     },
@@ -35,6 +71,13 @@
         "Type": "Disc",
         "CRC32": "689013099",
         "URL": "http://images.launchbox-app.com/3285e00f-9faf-4480-963c-2e129894d739.png"
+      },
+      {
+        "FileName": "r2_ca2c704a-8460-4bd7-9143-79bf89e5713d.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "322637443",
+        "URL": "http://images.launchbox-app.com/r2_ca2c704a-8460-4bd7-9143-79bf89e5713d.png"
       }
     ],
     "Other": [
