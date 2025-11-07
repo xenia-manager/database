@@ -10,18 +10,21 @@
   "Developer": "Red Storm Entertainment",
   "Publisher": "Ubisoft Entertainment",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_5d23a6c3-4c77-4912-a443-b74418edfbcf.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1775455956",
+        "URL": "http://images.launchbox-app.com/r2_5d23a6c3-4c77-4912-a443-b74418edfbcf.png"
+      }
+    ],
     "Background": [
       {
-        "FileName": "07c45103-2ff6-4024-ad18-5c87a153a193.jpg",
+        "FileName": "4174e480-de1f-4a6a-82b3-4f59223c99ee.png",
         "Type": "Fanart - Background",
-        "CRC32": "3395187419",
-        "URL": "http://images.launchbox-app.com/07c45103-2ff6-4024-ad18-5c87a153a193.jpg"
-      },
-      {
-        "FileName": "001dd40f-025f-4ce1-a567-0e517f31fa26.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3969935264",
-        "URL": "http://images.launchbox-app.com/001dd40f-025f-4ce1-a567-0e517f31fa26.jpg"
+        "CRC32": "3243576729",
+        "URL": "http://images.launchbox-app.com/4174e480-de1f-4a6a-82b3-4f59223c99ee.png"
       },
       {
         "FileName": "47d1f60c-7505-44de-be1f-ba1f85d6cec7.jpg",
@@ -30,10 +33,16 @@
         "URL": "http://images.launchbox-app.com/47d1f60c-7505-44de-be1f-ba1f85d6cec7.jpg"
       },
       {
-        "FileName": "4174e480-de1f-4a6a-82b3-4f59223c99ee.png",
+        "FileName": "001dd40f-025f-4ce1-a567-0e517f31fa26.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3243576729",
-        "URL": "http://images.launchbox-app.com/4174e480-de1f-4a6a-82b3-4f59223c99ee.png"
+        "CRC32": "3969935264",
+        "URL": "http://images.launchbox-app.com/001dd40f-025f-4ce1-a567-0e517f31fa26.jpg"
+      },
+      {
+        "FileName": "07c45103-2ff6-4024-ad18-5c87a153a193.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3395187419",
+        "URL": "http://images.launchbox-app.com/07c45103-2ff6-4024-ad18-5c87a153a193.jpg"
       }
     ],
     "Box": {
@@ -84,6 +93,15 @@
           "CRC32": "2268210331",
           "URL": "http://images.launchbox-app.com/00f9550c-4428-464c-aeb8-55b15baf1a83.png"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_02e8b8dc-3172-4f00-bbab-b048714e43d0.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3114692900",
+          "URL": "http://images.launchbox-app.com/r2_02e8b8dc-3172-4f00-bbab-b048714e43d0.jpg"
+        }
       ]
     },
     "Disc": [
@@ -105,10 +123,11 @@
     ],
     "Other": [
       {
-        "FileName": "b3ab9c36-e8f1-473c-af35-909c28b8c060.png",
+        "FileName": "r2_c7b1e7c9-c6e9-415e-b9af-24cc67a41029.png",
         "Type": "Clear Logo",
+        "Region": "World",
         "CRC32": "192773197",
-        "URL": "http://images.launchbox-app.com/b3ab9c36-e8f1-473c-af35-909c28b8c060.png"
+        "URL": "http://images.launchbox-app.com/r2_c7b1e7c9-c6e9-415e-b9af-24cc67a41029.png"
       }
     ]
   }

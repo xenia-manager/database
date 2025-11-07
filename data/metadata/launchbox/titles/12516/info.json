@@ -11,7 +11,32 @@
   "Developer": "Heavy Iron Studios",
   "Publisher": "Activision",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "0b40a5eb-29b7-4e90-97a4-db6a59e2ad29.png",
+        "Type": "Banner",
+        "CRC32": "286594952",
+        "URL": "http://images.launchbox-app.com/0b40a5eb-29b7-4e90-97a4-db6a59e2ad29.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "8784a605-f64a-48de-bb35-177fb7c816ad.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2952822184",
+        "URL": "http://images.launchbox-app.com/8784a605-f64a-48de-bb35-177fb7c816ad.jpg"
+      }
+    ],
     "Box": {
+      "Back": [
+        {
+          "FileName": "da57f344-e86b-44fd-b24b-ba314dc37752.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1709270746",
+          "URL": "http://images.launchbox-app.com/da57f344-e86b-44fd-b24b-ba314dc37752.jpg"
+        }
+      ],
       "Front": [
         {
           "FileName": "e4b4c046-23b5-4ca0-932e-598274bda6a2.jpg",
@@ -20,15 +45,24 @@
           "CRC32": "734231245",
           "URL": "http://images.launchbox-app.com/e4b4c046-23b5-4ca0-932e-598274bda6a2.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "ac2f6d6e-acbe-4778-9ad0-6c262dfd0087.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1245092412",
+          "URL": "http://images.launchbox-app.com/ac2f6d6e-acbe-4778-9ad0-6c262dfd0087.jpg"
+        }
       ]
     },
     "Disc": [
       {
-        "FileName": "55ba0984-88d2-4a62-a794-137807744ede.png",
+        "FileName": "b47d01ca-b8d6-42bd-911f-6a52a400a8ed.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "4047087298",
-        "URL": "http://images.launchbox-app.com/55ba0984-88d2-4a62-a794-137807744ede.png"
+        "URL": "http://images.launchbox-app.com/b47d01ca-b8d6-42bd-911f-6a52a400a8ed.png"
       }
     ],
     "Screenshots": [
