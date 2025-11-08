@@ -11,6 +11,15 @@
   "Developer": "Monolith Productions",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_a8ac247a-0a1c-453c-be74-2fd551a79df1.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1383050998",
+        "URL": "http://images.launchbox-app.com/r2_a8ac247a-0a1c-453c-be74-2fd551a79df1.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "30b59cc9-3969-4faf-8564-6bdcefd2ec58.jpg",
@@ -32,6 +41,7 @@
         {
           "FileName": "0862aa0d-4994-499b-9d1c-187d68dcecfc.jpg",
           "Type": "Box - Back",
+          "Region": "North America",
           "CRC32": "2774100702",
           "URL": "http://images.launchbox-app.com/0862aa0d-4994-499b-9d1c-187d68dcecfc.jpg"
         }
@@ -40,6 +50,7 @@
         {
           "FileName": "1853ce74-328c-4aa5-b8dd-8ee8e607fb6c.jpg",
           "Type": "Box - Front",
+          "Region": "North America",
           "CRC32": "1727023134",
           "URL": "http://images.launchbox-app.com/1853ce74-328c-4aa5-b8dd-8ee8e607fb6c.jpg"
         }
@@ -48,7 +59,7 @@
         {
           "FileName": "r2_2368dd19-f8b3-49da-a34d-43418a9254bc.jpg",
           "Type": "Box - Spine",
-          "Region": "South America",
+          "Region": "North America",
           "CRC32": "3441185714",
           "URL": "http://images.launchbox-app.com/r2_2368dd19-f8b3-49da-a34d-43418a9254bc.jpg"
         }

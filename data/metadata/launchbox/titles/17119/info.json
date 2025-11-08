@@ -8,6 +8,24 @@
   "Genres": "Racing",
   "Developer": "Koei Canada",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_bc594a1d-a3ac-4e7c-807a-3926bc246e8a.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3712446983",
+        "URL": "http://images.launchbox-app.com/r2_bc594a1d-a3ac-4e7c-807a-3926bc246e8a.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_5cc1cb0c-1f09-43b4-b5e3-904a7937032f.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2320540544",
+        "URL": "http://images.launchbox-app.com/r2_5cc1cb0c-1f09-43b4-b5e3-904a7937032f.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -18,6 +36,15 @@
           "URL": "http://images.launchbox-app.com/82d8612e-b979-417b-a60c-f224e0cd6775.png"
         }
       ],
+      "Back": [
+        {
+          "FileName": "r2_b31b9c44-f246-4632-bd2f-0aa887cf530f.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3113600591",
+          "URL": "http://images.launchbox-app.com/r2_b31b9c44-f246-4632-bd2f-0aa887cf530f.jpg"
+        }
+      ],
       "Front": [
         {
           "FileName": "4b202312-f1c1-4e4c-ac37-d1e70fe3c494.jpg",
@@ -25,6 +52,15 @@
           "Region": "North America",
           "CRC32": "3733261756",
           "URL": "http://images.launchbox-app.com/4b202312-f1c1-4e4c-ac37-d1e70fe3c494.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_f28f093e-91a9-4cf0-b015-d3c2338a8db2.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2747604113",
+          "URL": "http://images.launchbox-app.com/r2_f28f093e-91a9-4cf0-b015-d3c2338a8db2.jpg"
         }
       ]
     },
@@ -43,11 +79,11 @@
         "URL": "http://images.launchbox-app.com/01243874-33fe-4e96-9b04-c6f421885816.png"
       },
       {
-        "FileName": "2d09d756-cea2-4607-aab4-c90ab927a355.png",
+        "FileName": "r2_5d7ed8dc-5bbe-40fe-a0cb-cc4f83b38545.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "1129955219",
-        "URL": "http://images.launchbox-app.com/2d09d756-cea2-4607-aab4-c90ab927a355.png"
+        "URL": "http://images.launchbox-app.com/r2_5d7ed8dc-5bbe-40fe-a0cb-cc4f83b38545.png"
       }
     ],
     "Other": [
