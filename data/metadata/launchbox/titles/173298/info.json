@@ -8,6 +8,31 @@
   "Developer": "505 games",
   "Publisher": "505 Games",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_cb00cd29-2fb3-49d2-a0d4-5527ec673341.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3987160662",
+        "URL": "http://images.launchbox-app.com/r2_cb00cd29-2fb3-49d2-a0d4-5527ec673341.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_552b5c09-f74d-434d-8a38-add38005b950.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3675938993",
+        "URL": "http://images.launchbox-app.com/r2_552b5c09-f74d-434d-8a38-add38005b950.jpg"
+      },
+      {
+        "FileName": "r2_ededc9d4-a2c1-4cb8-bcd3-ef4bf1d3b089.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3531893125",
+        "URL": "http://images.launchbox-app.com/r2_ededc9d4-a2c1-4cb8-bcd3-ef4bf1d3b089.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -21,11 +46,20 @@
     },
     "Disc": [
       {
-        "FileName": "41774d54-a893-4156-8a55-6356236f35a8.jpg",
+        "FileName": "r2_8dc44edb-12f6-4241-8ead-2f9f67622d26.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "712002183",
-        "URL": "http://images.launchbox-app.com/41774d54-a893-4156-8a55-6356236f35a8.jpg"
+        "URL": "http://images.launchbox-app.com/r2_8dc44edb-12f6-4241-8ead-2f9f67622d26.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_47becab5-618d-4740-8380-a2d8cffe464f.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "1130868783",
+        "URL": "http://images.launchbox-app.com/r2_47becab5-618d-4740-8380-a2d8cffe464f.png"
       }
     ]
   }
