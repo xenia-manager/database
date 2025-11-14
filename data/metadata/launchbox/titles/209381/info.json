@@ -9,6 +9,31 @@
   "Developer": "Mediatonic",
   "Publisher": "Sold Out Sales & Marketing",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_eafd796f-c2c3-4a6d-87d4-875031f182d5.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3782491599",
+        "URL": "http://images.launchbox-app.com/r2_eafd796f-c2c3-4a6d-87d4-875031f182d5.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_11588355-48c0-4155-9277-41152735af75.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3300137400",
+        "URL": "http://images.launchbox-app.com/r2_11588355-48c0-4155-9277-41152735af75.jpg"
+      },
+      {
+        "FileName": "r2_b94e7d6e-b9ba-4ff3-911e-0749b1f39e01.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2806686881",
+        "URL": "http://images.launchbox-app.com/r2_b94e7d6e-b9ba-4ff3-911e-0749b1f39e01.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -17,8 +42,24 @@
           "Region": "United States",
           "CRC32": "180226772",
           "URL": "http://images.launchbox-app.com/cb2c54af-4e2f-495b-9a11-c14c525372d7.jpg"
+        },
+        {
+          "FileName": "r2_c3fae18d-60bb-44ce-802e-bb4943aa65a5.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3920875320",
+          "URL": "http://images.launchbox-app.com/r2_c3fae18d-60bb-44ce-802e-bb4943aa65a5.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_bbe37fa7-ab63-4dd8-8505-f16c272f95b2.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "3099991516",
+        "URL": "http://images.launchbox-app.com/r2_bbe37fa7-ab63-4dd8-8505-f16c272f95b2.png"
+      }
+    ]
   }
 }
