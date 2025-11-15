@@ -9,6 +9,15 @@
   "Developer": "Telltale Games",
   "Publisher": "Telltale Games",
   "Artwork": {
+    "Background": [
+      {
+        "FileName": "r2_88e46984-5ef6-4cad-8ce6-9fb350a93688.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3297308841",
+        "URL": "http://images.launchbox-app.com/r2_88e46984-5ef6-4cad-8ce6-9fb350a93688.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -19,6 +28,24 @@
           "URL": "http://images.launchbox-app.com/c3c7100c-da8e-49a3-94f0-c836674cc885.jpg"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_724560d3-534f-4f9c-8589-aa4b9432fe02.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2651005093",
+        "URL": "http://images.launchbox-app.com/r2_724560d3-534f-4f9c-8589-aa4b9432fe02.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_2114c5d2-3067-4263-bd3f-32ef3de1f334.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "667822594",
+        "URL": "http://images.launchbox-app.com/r2_2114c5d2-3067-4263-bd3f-32ef3de1f334.png"
+      }
+    ]
   }
 }

@@ -9,6 +9,15 @@
   "Developer": "SNK Playmore",
   "Publisher": "SNK Playmore",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_337ab1d8-ab8c-4c58-af73-5a65885824e5.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1554622691",
+        "URL": "http://images.launchbox-app.com/r2_337ab1d8-ab8c-4c58-af73-5a65885824e5.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "8f565f38-8093-46f2-8451-b3ef8ea63680.png",
@@ -31,8 +40,24 @@
           "Region": "United States",
           "CRC32": "1122274333",
           "URL": "http://images.launchbox-app.com/c49a755b-cbd1-4ef0-b035-019a56ca867a.jpg"
+        },
+        {
+          "FileName": "r2_dca6e76a-2540-4269-a533-a20b2bd7dede.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3298661619",
+          "URL": "http://images.launchbox-app.com/r2_dca6e76a-2540-4269-a533-a20b2bd7dede.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_12b3b07f-7340-4d33-9e83-3d1c76834a64.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2843478819",
+        "URL": "http://images.launchbox-app.com/r2_12b3b07f-7340-4d33-9e83-3d1c76834a64.png"
+      }
+    ]
   }
 }
