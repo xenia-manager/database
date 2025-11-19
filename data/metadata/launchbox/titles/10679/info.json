@@ -10,7 +10,22 @@
   "Developer": "Monolith Productions",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_6f988e51-b660-4d33-b3c5-84ef6beb6655.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1207546958",
+        "URL": "http://images.launchbox-app.com/r2_6f988e51-b660-4d33-b3c5-84ef6beb6655.png"
+      }
+    ],
     "Background": [
+      {
+        "FileName": "48b1acfd-ce93-4559-ac62-d2d8acfb3786.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3589668647",
+        "URL": "http://images.launchbox-app.com/48b1acfd-ce93-4559-ac62-d2d8acfb3786.jpg"
+      },
       {
         "FileName": "2c6487d6-4e16-41d5-975b-cef572509229.jpg",
         "Type": "Fanart - Background",
@@ -48,12 +63,6 @@
         "URL": "http://images.launchbox-app.com/9428f19f-daa9-49bf-be7a-40b4ca3a6448.jpg"
       },
       {
-        "FileName": "48b1acfd-ce93-4559-ac62-d2d8acfb3786.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3589668647",
-        "URL": "http://images.launchbox-app.com/48b1acfd-ce93-4559-ac62-d2d8acfb3786.jpg"
-      },
-      {
         "FileName": "8d9e04a9-9bec-4f2d-a17f-db2927db66e0.jpg",
         "Type": "Fanart - Background",
         "CRC32": "520565953",
@@ -75,6 +84,15 @@
           "URL": "http://images.launchbox-app.com/bd93714a-1b19-404f-96af-c2b8a901d3a6.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_b9cd48c0-6cd7-44db-be03-cf9f23fccd05.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2332497312",
+        "URL": "http://images.launchbox-app.com/r2_b9cd48c0-6cd7-44db-be03-cf9f23fccd05.png"
+      }
+    ]
   }
 }
