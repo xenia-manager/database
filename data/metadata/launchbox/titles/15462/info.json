@@ -2,10 +2,13 @@
   "Name": "Dungeon Defenders",
   "DatabaseID": "15462",
   "ReleaseDate": "2011-10-19T00:00:00+00:00",
-  "Overview": "Dungeon Defenders is a multiplayer video game developed by Trendy Entertainment that combines the genres of tower defense and action RPG. It is based on a showcase of the Unreal Engine named Dungeon Defense.[4] The game takes place in a fantasy setting where players control the young apprentices of wizards and warriors and defend against hordes of monsters.[5] Dungeon Defenders was announced on August 25, 2010, and has been released on Xbox Live Arcade, PlayStation Network and PC.[6] Support for the Move accessory is planned for inclusion in the PlayStation Network version.[7] Epic Games' Mark Rein has stated that there will be cross platform play between the PlayStation 3 and the PlayStation Vita.[8] The game was released on October 19, 2011 through Steam.[9]\n\nDungeon Defenders sold over 250,000 copies in first two weeks of release[10] and over 600,000 copies by the end of 2011.[11] By February 2012, the game's publisher reported over one million sales across Xbox Live, PlayStation Network, and Steam.[12]",
+  "Overview": "Dungeon Defenders is a hybrid multiplayer video game developed by Trendy Entertainment that combines the genres of tower defense and action role-playing game. It is based on a showcase of Unreal Engine 3 named Dungeon Defense. The game takes place in a fantasy setting where players control the young apprentices of wizards and warriors and defend against hordes of monsters. A sequel titled Dungeon Defenders II was released in 2015.\n\nGameplay\nDungeon Defenders is a mix of tower defense, role-playing, and action-adventure where one to four (sometimes up to six) players work together to protect one or more Eternia Crystals from being destroyed by waves of enemies which include goblins, archers, orcs, kobolds, ogres and other creatures. The game features a number of levels, consisting of around five total waves, through its campaign mode, or other levels as part of challenges; some of these levels may feature a final wave that includes a boss battle against a unique foe. The player characters, known as \"heroes\", defend crystals by either magically creating, maintaining, and upgrading towers or other defensive elements that damage or divert the enemy monsters, or by using melee and ranged attacks to defeat enemies directly. On easier difficulties, players have an indefinite amount of time prior to a wave to study the level's map to see where monsters will come from and the type or number of monsters, to place traps and defenses, and to manage the characters' equipment. Traps and defenses are limited by the available mana that the character has - more mana can be obtained by defeating monsters or opening chests that appear between waves - as well as a total \"defense units\" for the level, limiting the number of traps that can be placed. The characters can be damaged by enemy attacks, and can be killed in battle but will respawn after a few seconds, unless hardcore mode is selected. If an Eternia Crystal has taken too much damage, it will be destroyed and the players will lose that level. Successfully defending a wave will earn the characters experience points based on the difficulty plus additional bonuses, namely preventing any damage to the crystals; preventing damage to your character; and only using weapons, pets, and/or character abilities to kill monsters. Successfully completing all waves of a level will earn the players a large banked mana boost. Monsters will also drop items that can be sold for additional banked mana.\n\nThe difficulty of the level is set by the hosting player after choosing a level; the strength, number, and types of monsters that are faced are influenced by this selection and the number of players in the match, as well as the general quality of equipment that may be generated as rewards. The player has additional options, such as hardcore mode, which improves rewards, but prevents players from respawning during combat. On non-challenge levels, survival and \"pure strategy\" modes are unlocked after beating its campaign. These game modes have an extended number of waves which get progressively more difficult, but can yield better loot.\n\nFor the classic campaign levels (\"The Deeper Well\" to \"The Summit\"), players must work through each level before unlocking the next. They may return to any already cleared levels to try to improve their performance, challenge the level at a higher difficulty, or simply to grind for better rewards.\n\nCharacters are persistent for a player. The player can manage up to a finite number of characters, with 40 being the Steam version's limit, though they are kept separate between Trendy's ranked servers and for unranked play. The Steam version allows players to override their unranked characters with their ranked collection. Characters are selected from the available character classes: four were shipped with the game, while eight additional classes were added in the form of downloadable content on the Microsoft Windows version. Eight out of the twelve total classes have a unique set of defenses and a specific set of weapons that they can equip. The other four classes are gender counterparts to the original quartet. All classes have at least two special abilities exclusive to them.\n\nAs the character levels up with experience, the player can allocate points among a range of characteristics affecting the character or the defenses they summon. Additional bonuses to these characteristics can come from the equipment the character is equipped with. New equipment can be purchased using banked mana either in the game's store or in other players' auctions or collected from killing monsters, opening chests, or beating the level. Banked mana can be spent to upgrade equipment, allowing the player to improve the bonuses that the equipment provides to the characters or item-specific attributes, like a weapon's base damage, secondary/elemental damage, attack rate, projectiles fired per volley, and projectile velocity. The player maintains separate inventories of equipment across the ranked and unranked servers, but this inventory will be common for all of the player's characters in that mode.",
   "CommunityRating": "4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dungeon_Defenders",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": null,
+  "Genres": "Role-Playing",
+  "Developer": "Trendy Entertainment",
+  "Publisher": "Reverb Triple XP",
   "Artwork": {
     "Banner": [
       {
@@ -25,18 +28,18 @@
         "URL": "http://images.launchbox-app.com/r2_d4b42e31-3794-4aa4-bf7a-b8644c4c9bc7.jpg"
       },
       {
-        "FileName": "r2_576010ae-c200-46ae-87c1-44490192cf14.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "2390593500",
-        "URL": "http://images.launchbox-app.com/r2_576010ae-c200-46ae-87c1-44490192cf14.jpg"
-      },
-      {
         "FileName": "r2_04b2bd74-7d91-488c-894c-3300b424f12e.jpg",
         "Type": "Fanart - Background",
         "Region": "World",
         "CRC32": "412635957",
         "URL": "http://images.launchbox-app.com/r2_04b2bd74-7d91-488c-894c-3300b424f12e.jpg"
+      },
+      {
+        "FileName": "r2_576010ae-c200-46ae-87c1-44490192cf14.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2390593500",
+        "URL": "http://images.launchbox-app.com/r2_576010ae-c200-46ae-87c1-44490192cf14.jpg"
       }
     ],
     "Box": {
@@ -51,18 +54,18 @@
       ],
       "Front": [
         {
-          "FileName": "3ef07a21-275e-4c9d-9801-3a9098a48bf6.png",
-          "Type": "Box - Front",
-          "Region": "World",
-          "CRC32": "400742045",
-          "URL": "http://images.launchbox-app.com/3ef07a21-275e-4c9d-9801-3a9098a48bf6.png"
-        },
-        {
           "FileName": "c8d09deb-a952-422c-8882-2c3e5bee8950.jpg",
           "Type": "Box - Front",
           "Region": "World",
           "CRC32": "465647635",
           "URL": "http://images.launchbox-app.com/c8d09deb-a952-422c-8882-2c3e5bee8950.jpg"
+        },
+        {
+          "FileName": "3ef07a21-275e-4c9d-9801-3a9098a48bf6.png",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "400742045",
+          "URL": "http://images.launchbox-app.com/3ef07a21-275e-4c9d-9801-3a9098a48bf6.png"
         }
       ]
     },
@@ -77,16 +80,16 @@
     ],
     "Other": [
       {
-        "FileName": "34993a45-db13-4624-863a-726fd109b179.png",
-        "Type": "Clear Logo",
-        "CRC32": "3826464684",
-        "URL": "http://images.launchbox-app.com/34993a45-db13-4624-863a-726fd109b179.png"
-      },
-      {
         "FileName": "0c874a70-e96d-4337-a98e-0f6483b1a490.png",
         "Type": "Clear Logo",
         "CRC32": "954208816",
         "URL": "http://images.launchbox-app.com/0c874a70-e96d-4337-a98e-0f6483b1a490.png"
+      },
+      {
+        "FileName": "34993a45-db13-4624-863a-726fd109b179.png",
+        "Type": "Clear Logo",
+        "CRC32": "3826464684",
+        "URL": "http://images.launchbox-app.com/34993a45-db13-4624-863a-726fd109b179.png"
       }
     ]
   }
