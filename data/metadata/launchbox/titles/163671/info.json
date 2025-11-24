@@ -1,8 +1,13 @@
 {
   "Name": "Greed Corp",
   "DatabaseID": "163671",
+  "ReleaseDate": "2010-02-24T00:00:00+00:00",
+  "Overview": "Greed Corp is a turn-based game involving strategic battles on a map featuring a land collapsing mechanic. Players choose one of four factions (Freemen, Pirates, Cartel, Empire) in matches of around 20 minutes. The game also features a single player campaign for each faction.\n\nPlayers gain credits at the start of their turn and through harvesting layers of land. Built harvesters will slowly destroy the tile they are on and in the area around them. When players harvest too much, the playing field starts to crumble, making depleted tiles collapse. Tactics involve understanding the offensive value of a harvester as well, using it as a weapon and strategically causing destruction to both opponent and playing field.\n\nCredits may be spent on:\n\nHarvesters, in order to gain more credits and destroy nearby land\nArmories, in which to build troops\nTroops, in order to claim land, and attack other troops\nCannons and ammo, in order to shoot nearby enemies\nTransporters, in order to send troops to attack from a distance",
   "CommunityRating": "3.75",
-  "Genres": null,
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Greed_Corp",
+  "Genres": "Strategy",
+  "Developer": "W!Games",
+  "Publisher": "Valcon Games",
   "Artwork": {
     "Banner": [
       {
@@ -43,18 +48,18 @@
     },
     "Other": [
       {
-        "FileName": "r2_05142d0d-6409-42a1-8057-f58475c2016d.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "2884941462",
-        "URL": "http://images.launchbox-app.com/r2_05142d0d-6409-42a1-8057-f58475c2016d.png"
-      },
-      {
         "FileName": "r2_e1641fdf-9694-4f56-a50e-2ac0c97e3a43.png",
         "Type": "Clear Logo",
         "Region": "World",
         "CRC32": "3080193901",
         "URL": "http://images.launchbox-app.com/r2_e1641fdf-9694-4f56-a50e-2ac0c97e3a43.png"
+      },
+      {
+        "FileName": "r2_05142d0d-6409-42a1-8057-f58475c2016d.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2884941462",
+        "URL": "http://images.launchbox-app.com/r2_05142d0d-6409-42a1-8057-f58475c2016d.png"
       }
     ]
   }
