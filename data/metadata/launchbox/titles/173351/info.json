@@ -8,6 +8,31 @@
   "Developer": "Slitherine",
   "Publisher": "Slitherine",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_4fa785bc-ac9d-467a-a24a-6fe03228089b.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "4079396491",
+        "URL": "http://images.launchbox-app.com/r2_4fa785bc-ac9d-467a-a24a-6fe03228089b.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_13c3904a-2321-4629-913f-dec07630c727.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3390113352",
+        "URL": "http://images.launchbox-app.com/r2_13c3904a-2321-4629-913f-dec07630c727.jpg"
+      },
+      {
+        "FileName": "r2_4694e078-eb95-4111-ba43-339992de403c.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "930855100",
+        "URL": "http://images.launchbox-app.com/r2_4694e078-eb95-4111-ba43-339992de403c.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -29,11 +54,20 @@
     },
     "Disc": [
       {
-        "FileName": "r2_67dc7f3f-8f8e-4721-a016-7cc38241065b.png",
+        "FileName": "r2_f5ea62db-f56a-47e1-a080-878548f4c2c1.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "1737111518",
-        "URL": "http://images.launchbox-app.com/r2_67dc7f3f-8f8e-4721-a016-7cc38241065b.png"
+        "URL": "http://images.launchbox-app.com/r2_f5ea62db-f56a-47e1-a080-878548f4c2c1.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_56aa872d-9705-4be2-9f06-c8708ec5119f.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "3475473843",
+        "URL": "http://images.launchbox-app.com/r2_56aa872d-9705-4be2-9f06-c8708ec5119f.png"
       }
     ]
   }

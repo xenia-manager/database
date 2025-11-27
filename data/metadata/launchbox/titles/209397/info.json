@@ -9,6 +9,15 @@
   "Developer": "Brain Slap Studio",
   "Publisher": "Namco Bandai Games",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_89aea83f-7c01-468a-90df-0fd8bbe3ea9a.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3747826327",
+        "URL": "http://images.launchbox-app.com/r2_89aea83f-7c01-468a-90df-0fd8bbe3ea9a.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "r2_cd655a1f-5e20-406c-8c6c-b069cd6a758e.jpg",
@@ -26,8 +35,24 @@
           "Region": "United States",
           "CRC32": "4099305702",
           "URL": "http://images.launchbox-app.com/2d272b1d-e6ea-4342-81cf-7038e2947e0d.jpg"
+        },
+        {
+          "FileName": "r2_ecb3b7d9-cbab-4937-9a37-e1895450ed79.jpg",
+          "Type": "Fanart - Box - Front",
+          "Region": "World",
+          "CRC32": "1984051614",
+          "URL": "http://images.launchbox-app.com/r2_ecb3b7d9-cbab-4937-9a37-e1895450ed79.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_e36d00bc-3c41-49a6-a5fb-20adb62a719f.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2833966324",
+        "URL": "http://images.launchbox-app.com/r2_e36d00bc-3c41-49a6-a5fb-20adb62a719f.png"
+      }
+    ]
   }
 }
