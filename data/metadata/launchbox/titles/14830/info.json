@@ -10,6 +10,24 @@
   "Developer": "nFusion Interactive",
   "Publisher": "Midway Home Entertainment",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_6949022e-f8d2-461c-bd50-28e486aac4b6.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "2152187931",
+        "URL": "http://images.launchbox-app.com/r2_6949022e-f8d2-461c-bd50-28e486aac4b6.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_fb12a711-1a62-4c62-82bf-85918adca6f0.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "1979884773",
+        "URL": "http://images.launchbox-app.com/r2_fb12a711-1a62-4c62-82bf-85918adca6f0.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -22,18 +40,18 @@
       ],
       "Back": [
         {
-          "FileName": "d0541fca-2f9e-4bd4-973b-f242f33875c1.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "788529866",
-          "URL": "http://images.launchbox-app.com/d0541fca-2f9e-4bd4-973b-f242f33875c1.jpg"
-        },
-        {
           "FileName": "796f42c4-fc45-45df-97e9-d64ad602447c.jpg",
           "Type": "Box - Back",
           "Region": "North America",
           "CRC32": "2077557769",
           "URL": "http://images.launchbox-app.com/796f42c4-fc45-45df-97e9-d64ad602447c.jpg"
+        },
+        {
+          "FileName": "d0541fca-2f9e-4bd4-973b-f242f33875c1.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "788529866",
+          "URL": "http://images.launchbox-app.com/d0541fca-2f9e-4bd4-973b-f242f33875c1.jpg"
         }
       ],
       "Front": [
