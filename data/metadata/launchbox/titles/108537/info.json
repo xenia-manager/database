@@ -10,6 +10,31 @@
   "Developer": "Shadow Planet Productions",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_affe9c5e-79c2-4a97-9d39-57a8d93c2031.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3276900945",
+        "URL": "http://images.launchbox-app.com/r2_affe9c5e-79c2-4a97-9d39-57a8d93c2031.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_032a9b05-051d-4f4a-ad60-70e117580a4a.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "1334500674",
+        "URL": "http://images.launchbox-app.com/r2_032a9b05-051d-4f4a-ad60-70e117580a4a.jpg"
+      },
+      {
+        "FileName": "r2_159f6120-b9f5-4bc7-a76a-6309fbf5d50f.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "1524459589",
+        "URL": "http://images.launchbox-app.com/r2_159f6120-b9f5-4bc7-a76a-6309fbf5d50f.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -17,8 +42,24 @@
           "Type": "Box - Front",
           "CRC32": "1305245054",
           "URL": "http://images.launchbox-app.com/04c863ca-ad8a-4134-89d5-1ff7ec7cd96f.png"
+        },
+        {
+          "FileName": "r2_818094b1-f737-4941-affb-b18526ebc3c8.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2849884932",
+          "URL": "http://images.launchbox-app.com/r2_818094b1-f737-4941-affb-b18526ebc3c8.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_db5f4c1a-0c7e-4e5e-8ccb-bd9c5cb99d16.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "859620173",
+        "URL": "http://images.launchbox-app.com/r2_db5f4c1a-0c7e-4e5e-8ccb-bd9c5cb99d16.png"
+      }
+    ]
   }
 }
