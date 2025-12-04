@@ -11,12 +11,22 @@
   "Developer": "tri-Ace",
   "Publisher": "Square Enix",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_0a5091e2-b947-416a-9789-1c1a214bcb77.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3507566423",
+        "URL": "http://images.launchbox-app.com/r2_0a5091e2-b947-416a-9789-1c1a214bcb77.png"
+      }
+    ],
     "Background": [
       {
-        "FileName": "ecaacdd7-3c97-4839-9cc0-ef2319369fea.jpg",
+        "FileName": "r2_9eca797e-2b48-4f66-a9f3-2e3d3d3970f8.jpg",
         "Type": "Fanart - Background",
+        "Region": "World",
         "CRC32": "2120861537",
-        "URL": "http://images.launchbox-app.com/ecaacdd7-3c97-4839-9cc0-ef2319369fea.jpg"
+        "URL": "http://images.launchbox-app.com/r2_9eca797e-2b48-4f66-a9f3-2e3d3d3970f8.jpg"
       }
     ],
     "Box": {
@@ -54,6 +64,13 @@
           "URL": "http://images.launchbox-app.com/6a0d53df-6a12-42e6-9caa-92e17bc33e1a.jpg"
         },
         {
+          "FileName": "r2_957d26b3-b873-4195-9e0d-10b9b3de41ba.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "469525103",
+          "URL": "http://images.launchbox-app.com/r2_957d26b3-b873-4195-9e0d-10b9b3de41ba.jpg"
+        },
+        {
           "FileName": "0c9ac8ed-ccc3-4995-abc3-958ccd49f501.png",
           "Type": "Fanart - Box - Front",
           "Region": "Europe",
@@ -80,33 +97,34 @@
         "URL": "http://images.launchbox-app.com/68911851-8e6e-4e66-a837-8567eab5b77d.png"
       },
       {
-        "FileName": "dea788cd-6225-4c6d-8498-22674436d1c6.png",
+        "FileName": "r2_dbb2177c-9f11-491b-a281-be13c0d72c61.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "1897351890",
-        "URL": "http://images.launchbox-app.com/dea788cd-6225-4c6d-8498-22674436d1c6.png"
+        "URL": "http://images.launchbox-app.com/r2_dbb2177c-9f11-491b-a281-be13c0d72c61.png"
       }
     ],
     "Screenshots": [
-      {
-        "FileName": "93be1300-41ca-427f-91cd-d6ee7d14719b.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3853233253",
-        "URL": "http://images.launchbox-app.com/93be1300-41ca-427f-91cd-d6ee7d14719b.jpg"
-      },
       {
         "FileName": "5c627e0d-939c-4c86-8d53-547f0a483bdf.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3908459635",
         "URL": "http://images.launchbox-app.com/5c627e0d-939c-4c86-8d53-547f0a483bdf.jpg"
+      },
+      {
+        "FileName": "93be1300-41ca-427f-91cd-d6ee7d14719b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3853233253",
+        "URL": "http://images.launchbox-app.com/93be1300-41ca-427f-91cd-d6ee7d14719b.jpg"
       }
     ],
     "Other": [
       {
-        "FileName": "e1130cb2-f65f-4435-9303-597b70f8123b.png",
+        "FileName": "r2_0a255b9c-b83c-47aa-88ae-c7877586c5ad.png",
         "Type": "Clear Logo",
+        "Region": "World",
         "CRC32": "3976213863",
-        "URL": "http://images.launchbox-app.com/e1130cb2-f65f-4435-9303-597b70f8123b.png"
+        "URL": "http://images.launchbox-app.com/r2_0a255b9c-b83c-47aa-88ae-c7877586c5ad.png"
       }
     ]
   }
