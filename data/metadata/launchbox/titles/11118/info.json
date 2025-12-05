@@ -12,16 +12,16 @@
   "Artwork": {
     "Background": [
       {
-        "FileName": "c4281f33-7ae7-4662-976d-8caa4782ddff.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2381255938",
-        "URL": "http://images.launchbox-app.com/c4281f33-7ae7-4662-976d-8caa4782ddff.jpg"
-      },
-      {
         "FileName": "ff3e4352-c260-41b4-9301-3b916e3e29e6.jpg",
         "Type": "Fanart - Background",
         "CRC32": "2179639228",
         "URL": "http://images.launchbox-app.com/ff3e4352-c260-41b4-9301-3b916e3e29e6.jpg"
+      },
+      {
+        "FileName": "c4281f33-7ae7-4662-976d-8caa4782ddff.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2381255938",
+        "URL": "http://images.launchbox-app.com/c4281f33-7ae7-4662-976d-8caa4782ddff.jpg"
       }
     ],
     "Box": {
@@ -42,6 +42,13 @@
         }
       ],
       "Back": [
+        {
+          "FileName": "r2_3263ac77-4350-4642-b4b5-d8dc1b41be4f.jpg",
+          "Type": "Box - Back",
+          "Region": "Germany",
+          "CRC32": "593183947",
+          "URL": "http://images.launchbox-app.com/r2_3263ac77-4350-4642-b4b5-d8dc1b41be4f.jpg"
+        },
         {
           "FileName": "dab84704-13bc-4609-82c3-997c2ac42505.jpg",
           "Type": "Box - Back",
@@ -85,18 +92,18 @@
     },
     "Disc": [
       {
-        "FileName": "1bfd21ae-2b96-4602-a347-76169553d80e.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "3062268737",
-        "URL": "http://images.launchbox-app.com/1bfd21ae-2b96-4602-a347-76169553d80e.png"
-      },
-      {
         "FileName": "ad4a03e1-9de9-4384-b4a4-eb508d71149e.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "2726228266",
         "URL": "http://images.launchbox-app.com/ad4a03e1-9de9-4384-b4a4-eb508d71149e.png"
+      },
+      {
+        "FileName": "1bfd21ae-2b96-4602-a347-76169553d80e.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3062268737",
+        "URL": "http://images.launchbox-app.com/1bfd21ae-2b96-4602-a347-76169553d80e.png"
       }
     ],
     "Other": [
