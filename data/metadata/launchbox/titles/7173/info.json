@@ -11,12 +11,28 @@
   "Developer": "Team Ninja",
   "Publisher": "Tecmo",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_8aabf8f1-b12a-481d-9d1b-60793a44047f.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "4129500253",
+        "URL": "http://images.launchbox-app.com/r2_8aabf8f1-b12a-481d-9d1b-60793a44047f.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "fa571a3c-a17e-4555-84ed-65ed15fa8ae6.jpg",
         "Type": "Fanart - Background",
         "CRC32": "1682142310",
         "URL": "http://images.launchbox-app.com/fa571a3c-a17e-4555-84ed-65ed15fa8ae6.jpg"
+      },
+      {
+        "FileName": "r2_81a95f61-77ff-4e05-bf41-25d42b4036c8.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2655785890",
+        "URL": "http://images.launchbox-app.com/r2_81a95f61-77ff-4e05-bf41-25d42b4036c8.jpg"
       }
     ],
     "Box": {
@@ -116,16 +132,16 @@
     ],
     "Other": [
       {
-        "FileName": "ab770556-0290-47aa-9566-d783704d2e4e.png",
-        "Type": "Clear Logo",
-        "CRC32": "921552113",
-        "URL": "http://images.launchbox-app.com/ab770556-0290-47aa-9566-d783704d2e4e.png"
-      },
-      {
         "FileName": "03081141-870b-4396-b04b-095deec43489.png",
         "Type": "Clear Logo",
         "CRC32": "2806055065",
         "URL": "http://images.launchbox-app.com/03081141-870b-4396-b04b-095deec43489.png"
+      },
+      {
+        "FileName": "ab770556-0290-47aa-9566-d783704d2e4e.png",
+        "Type": "Clear Logo",
+        "CRC32": "921552113",
+        "URL": "http://images.launchbox-app.com/ab770556-0290-47aa-9566-d783704d2e4e.png"
       }
     ]
   }
