@@ -9,20 +9,30 @@
   "Developer": "Sega AM2",
   "Publisher": "Sega",
   "Artwork": {
+    "Background": [
+      {
+        "FileName": "r2_b1435eed-1452-4191-9eb0-b14733c9c184.png",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "4144649398",
+        "URL": "http://images.launchbox-app.com/r2_b1435eed-1452-4191-9eb0-b14733c9c184.png"
+      }
+    ],
     "Box": {
       "Front": [
-        {
-          "FileName": "8230595d-98e1-451d-a1da-7789c24d90ce.jpg",
-          "Type": "Box - Front",
-          "CRC32": "2134131539",
-          "URL": "http://images.launchbox-app.com/8230595d-98e1-451d-a1da-7789c24d90ce.jpg"
-        },
         {
           "FileName": "r2_5cadcb52-8f8f-4bea-87c5-da6bb440ef6a.jpg",
           "Type": "Box - Front",
           "Region": "Germany",
           "CRC32": "2222016498",
           "URL": "http://images.launchbox-app.com/r2_5cadcb52-8f8f-4bea-87c5-da6bb440ef6a.jpg"
+        },
+        {
+          "FileName": "8230595d-98e1-451d-a1da-7789c24d90ce.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2134131539",
+          "URL": "http://images.launchbox-app.com/8230595d-98e1-451d-a1da-7789c24d90ce.jpg"
         },
         {
           "FileName": "5fc61ebc-6560-4dfa-85ed-b96d64fb5000.jpg",
