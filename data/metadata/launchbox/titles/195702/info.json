@@ -10,6 +10,24 @@
   "Developer": "Lionhead Studios",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_c167939f-9428-4860-b046-212e9f2c4e4a.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1367100751",
+        "URL": "http://images.launchbox-app.com/r2_c167939f-9428-4860-b046-212e9f2c4e4a.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_5c3bf688-f285-4317-aafc-323233edb328.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "1509452054",
+        "URL": "http://images.launchbox-app.com/r2_5c3bf688-f285-4317-aafc-323233edb328.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -18,8 +36,24 @@
           "Region": "North America",
           "CRC32": "277552248",
           "URL": "http://images.launchbox-app.com/5f06ea88-3258-4d80-9ba8-b2fc43a797e4.jpg"
+        },
+        {
+          "FileName": "r2_e4337450-8b54-401b-a260-2d1a04905d22.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2195235261",
+          "URL": "http://images.launchbox-app.com/r2_e4337450-8b54-401b-a260-2d1a04905d22.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_05e54d4f-cfbc-46b1-87c3-fb96a67b92ad.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "607702047",
+        "URL": "http://images.launchbox-app.com/r2_05e54d4f-cfbc-46b1-87c3-fb96a67b92ad.png"
+      }
+    ]
   }
 }
