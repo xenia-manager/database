@@ -2,8 +2,7 @@ name: Database Updater
 
 on:
   schedule:
-    - cron: "0 * * * *"
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Daily at midnight
   workflow_dispatch:
     inputs:
       update_version:
@@ -42,290 +41,70 @@ env:
   XENIA_NETPLAY_REPO: AdrianCassar/Xenia-WebServices
 
 jobs:
-  update-version:
-    name: Update Xenia & Xenia Manager Version
+  update-database:
+    name: Update Database
     runs-on: ubuntu-latest
-    if: |
-      github.event_name == 'schedule' ||
-      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_version == 'true')
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.COMMIT_TOKEN }}
-          sparse-checkout: |
-            data/version.json
-            scripts/update_versions.py
-          sparse-checkout-cone-mode: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: python -m pip install --upgrade pip
+      - name: Cache Python dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
-      - name: Fetch Xenia versions
-        id: fetch_xenia_versions
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update Xenia & Xenia Manager Version
+        if: |
+          github.event_name == 'schedule' ||
+          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_version == 'true')
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: python scripts/update_versions.py
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'xeniamanager-ci'
-          git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
-          git add data/version.json
-          if git diff --cached --quiet; then
-            echo "No changes detected in version.json"
-            exit 0
-          fi
-
-          # Extract old and new version.json for diff
-          OLD_FILE=$(mktemp)
-          NEW_FILE=$(mktemp)
-          git show HEAD:data/version.json 2>/dev/null > $OLD_FILE || echo '{}' > $OLD_FILE
-          cat data/version.json > $NEW_FILE
-
-          # Generate semantic commit message
-          python - "$OLD_FILE" "$NEW_FILE" > commit_message.txt <<'EOF'
-          import json, sys
-
-          labels = {
-            "stable": "Xenia Manager Stable",
-            "experimental": "Xenia Manager Experimental",
-            "xenia.canary.tag_name": "Xenia Canary",
-            "xenia.netplay.stable.tag_name": "Xenia Netplay Stable",
-            "xenia.netplay.nightly.tag_name": "Xenia Netplay Nightly",
-            "xenia.mousehook.standard.tag_name": "Xenia Mousehook Standard",
-            "xenia.mousehook.netplay.tag_name": "Xenia Mousehook Netplay",
-          }
-
-          def get_nested(data, path):
-              cur = data
-              for p in path.split('.'):
-                  if isinstance(cur, dict) and p in cur:
-                      cur = cur[p]
-                  else:
-                      return None
-              return cur
-
-          with open(sys.argv[1]) as f:
-              old = json.load(f)
-          with open(sys.argv[2]) as f:
-              new = json.load(f)
-
-          changes = []
-          for path,label in labels.items():
-              before = get_nested(old, path)
-              after = get_nested(new, path)
-              if before != after and after:
-                  if before:
-                      changes.append(f"{label}: {before} → {after}")
-                  else:
-                      changes.append(f"{label}: added {after}")
-
-          if not changes:
-              print("chore: Update versions\n\n(no semantic version changes detected)")
-          else:
-              print("chore: Update versions\n")
-              for c in changes:
-                  print(f"- {c}")
-          EOF
-
-          echo "Generated commit message:"
-          cat commit_message.txt
-
-          git commit -F commit_message.txt
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin "${GITHUB_REF_NAME}"
-
-  update-canary-releases:
-    name: Update Xenia Canary Releases
-    runs-on: ubuntu-latest
-    if: |
-      (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 0')) ||
-      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_canary_releases == 'true')
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.COMMIT_TOKEN }}
-          sparse-checkout: |
-            data/xenia-releases/canary.json
-            scripts/releases-parser/canary.py
-          sparse-checkout-cone-mode: false
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: python -m pip install --upgrade pip
-
-      - name: Fetch Xenia Canary Releases
-        id: fetch_canary
+      - name: Update Xenia Canary Releases
+        if: |
+          (github.event_name == 'schedule') ||
+          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_canary_releases == 'true')
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: |
           set -e
           python scripts/releases-parser/canary.py
 
-      - name: Commit and push changes
+      - name: Update Game Compatibility Database
+        if: |
+          (github.event_name == 'schedule') ||
+          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_compatibility == 'true')
         run: |
-          git config --global user.name 'xeniamanager-ci'
-          git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
-
-          OLD_FILE=$(mktemp)
-          NEW_FILE=$(mktemp)
-          git show HEAD:data/xenia-releases/canary.json 2>/dev/null > $OLD_FILE || echo '[]' > $OLD_FILE
-          cat data/xenia-releases/canary.json > $NEW_FILE
-
-          # Determine commit message
-          python - <<'PYTHON' "$OLD_FILE" "$NEW_FILE" > commit_message.txt
-          import json, sys, os
-
-          old_path, new_path = sys.argv[1], sys.argv[2]
-
-          with open(old_path) as f:
-              try:
-                  old = json.load(f)
-              except:
-                  old = []
-
-          with open(new_path) as f:
-              new = json.load(f)
-
-          # Initial commit if old file is empty
-          if not old or not os.path.exists(old_path):
-              print("chore: Initial Xenia Canary Releases")
-              print("\n- First parsing of Xenia Canary Releases")
-              sys.exit(0)
-
-          def extract_tags(data):
-              return {r["tag_name"] for r in data}
-
-          old_tags = extract_tags(old)
-          new_tags = extract_tags(new)
-          added = sorted(new_tags - old_tags, reverse=True)
-
-          if not added:
-              print("chore: Update Xenia Canary Releases\n\n(no new tags detected)")
-          else:
-              print("chore: Update Xenia Canary Releases\n")
-              for tag in added:
-                  print(f"- Added new tag: {tag}")
-          PYTHON
-
-          git add data/xenia-releases/canary.json
-
-          # Check if there are changes
-          if git diff --cached --quiet; then
-            echo "No changes detected in canary.json"
-            exit 0
+          python scripts/game_compatibility.py --complete --debug
+          # Only run stable version on manual dispatch
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            python scripts/game_compatibility.py --stable --complete --debug
           fi
-
-          echo "Generated commit message:"
-          cat commit_message.txt
-
-          git commit -F commit_message.txt
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin "${GITHUB_REF_NAME}"
-
-  update-compatibility:
-    name: Update Game Compatibility Database
-    runs-on: ubuntu-latest
-    if: |
-      (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 0')) ||
-      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_compatibility == 'true')
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.COMMIT_TOKEN }}
-          sparse-checkout: |
-            data/game-compatibility/stable.json
-            data/game-compatibility/canary.json
-            scripts/game_compatibility.py
-          sparse-checkout-cone-mode: false
-
-      - name: Skip if not daily schedule
-        if: github.event_name == 'schedule'
-        run: |
-          if [ "$(date -u +%H)" != "00" ]; then
-            echo "Not the daily schedule, skipping job."
-            exit 0
-          fi
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
-      - name: Update game compatibility database (Canary)
-        run: python scripts/game_compatibility.py --complete --debug
         env:
           TOKEN: ${{ secrets.COMMIT_TOKEN }}
 
-      - name: Update game compatibility database (Stable)
-        if: github.event_name == 'workflow_dispatch'
-        run: python scripts/game_compatibility.py --stable --complete --debug
-        env:
-          TOKEN: ${{ secrets.COMMIT_TOKEN }}
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'xeniamanager-ci'
-          git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
-          git add data/game-compatibility/
-          if git diff --cached --quiet; then
-            echo "No changes detected in game compatibility database"
-            exit 0
-          fi
-          git commit -m "chore: Update game compatibility database"
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin "${GITHUB_REF_NAME}"
-
-  update-patches:
-    name: Update Game Patches
-    runs-on: ubuntu-latest
-    if: |
-      (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 0')) ||
-      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_patches == 'true')
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.COMMIT_TOKEN }}
-          sparse-checkout: |
-            data/patches/canary.json
-            data/patches/canary.tmp
-            data/patches/netplay.json
-            data/patches/netplay.tmp
-          sparse-checkout-cone-mode: false
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
-      - name: Fetch game patches
+      - name: Update Game Patches
+        if: |
+          (github.event_name == 'schedule') ||
+          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_patches == 'true')
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: |
@@ -376,40 +155,68 @@ jobs:
             "data/patches/netplay.json" \
             "netplay"
 
-      - name: Commit and push changes
+      - name: Update SDL GameControllerDB
+        if: |
+          (github.event_name == 'schedule') ||
+          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_gamecontrollerdb == 'true')
+        run: |
+          mkdir -p data
+          curl -sSL "https://raw.githubusercontent.com/mdqinc/SDL_GameControllerDB/master/gamecontrollerdb.txt" -o data/gamecontrollerdb.txt
+
+      - name: Setup Git config
         run: |
           git config --global user.name 'xeniamanager-ci'
           git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
-          git add data/patches/
+
+      - name: Commit and push changes
+        run: |
+          git add .
           if git diff --cached --quiet; then
-            echo "No changes detected in patch files"
+            echo "No changes detected, skipping commit"
             exit 0
           fi
-          git commit -m "chore: Update Xenia Canary & Netplay patches"
+
+          # Generate a comprehensive commit message
+          echo "chore: Update database files" > commit_message.txt
+          echo "" >> commit_message.txt
+
+          # Check what files changed and add to commit message
+          CHANGED_FILES=$(git diff --cached --name-only)
+          for file in $CHANGED_FILES; do
+            echo "- Updated $file" >> commit_message.txt
+          done
+
+          echo "Generated commit message:"
+          cat commit_message.txt
+
+          git commit -F commit_message.txt
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "${GITHUB_REF_NAME}"
 
-  update_launchbox_metadata:
+  update-launchbox-metadata:
     name: Update Launchbox Database Metadata
     if: |
-      (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 0')) ||
+      (github.event_name == 'schedule') ||
       (github.event_name == 'workflow_dispatch' && github.event.inputs.update_launchbox_metadata == 'true')
     runs-on: windows-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          sparse-checkout: |
-            data/metadata/launchbox/games.json
-            data/metadata/launchbox/search.json
-            data/metadata/launchbox/titles/
-            scripts/launchbox_metadata.py
-          sparse-checkout-cone-mode: false
+          token: ${{ secrets.COMMIT_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
+      - name: Cache Python dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~\AppData\Local\pip\Cache
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Download Metadata
         shell: pwsh
@@ -422,54 +229,33 @@ jobs:
       - name: Parse Metadata
         run: python scripts/launchbox_metadata.py --debug
 
+      - name: Setup Git config
+        shell: pwsh
+        run: |
+          git config --global user.name "xeniamanager-ci"
+          git config --global user.email "214508751+xeniamanager-ci@users.noreply.github.com"
+
+      - name: Commit and push changes
+        shell: pwsh
+        run: |
+          git add data/metadata/launchbox/
+          if (-not (git diff --cached --quiet)) {
+            echo "Changes detected in Launchbox metadata, committing..."
+            echo "chore: Update Launchbox Metadata" | Out-File -FilePath "commit_message.txt" -Encoding ASCII
+            echo "" | Out-File -FilePath "commit_message.txt" -Append -Encoding ASCII
+            echo "- Updated Launchbox game metadata" | Out-File -FilePath "commit_message.txt" -Append -Encoding ASCII
+
+            Get-Content "commit_message.txt"
+
+            git commit -F "commit_message.txt"
+            git pull --rebase origin $env:GITHUB_REF_NAME
+            git push origin $env:GITHUB_REF_NAME
+          } else {
+            echo "No changes detected in Launchbox metadata"
+          }
+
       - name: Cleanup temporary files
         shell: pwsh
         run: |
           Remove-Item -Path "Metadata.zip" -Force
           Remove-Item -Path "Metadata" -Recurse -Force
-
-      - name: Commit and push changes
-        shell: pwsh
-        run: |
-          git config --global user.name "xeniamanager-ci"
-          git config --global user.email "214508751+xeniamanager-ci@users.noreply.github.com"
-          git add data/metadata/launchbox/
-          if (-not (git diff --cached --quiet)) {
-            git commit -m "chore: Update Launchbox Metadata"
-            git pull --rebase origin $env:GITHUB_REF_NAME
-            git push origin $env:GITHUB_REF_NAME
-          }
-
-  update-gamecontrollerdb:
-    name: Update SDL GameControllerDB
-    runs-on: ubuntu-latest
-    if: |
-      (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 0')) ||
-      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_gamecontrollerdb == 'true')
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.COMMIT_TOKEN }}
-          sparse-checkout: |
-            data/gamecontrollerdb.txt
-          sparse-checkout-cone-mode: false
-
-      - name: Download gamecontrollerdb.txt
-        run: |
-          mkdir -p data
-          curl -sSL "https://raw.githubusercontent.com/mdqinc/SDL_GameControllerDB/master/gamecontrollerdb.txt" -o data/gamecontrollerdb.txt
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'xeniamanager-ci'
-          git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
-          git add data/gamecontrollerdb.txt
-          if git diff --cached --quiet; then
-            echo "No changes detected in gamecontrollerdb.txt"
-            exit 0
-          fi
-          git commit -m "chore: Update SDL GameControllerDB"
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin "${GITHUB_REF_NAME}"
