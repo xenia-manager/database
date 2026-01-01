@@ -11,6 +11,11 @@ on:
         required: false
         default: true
         type: boolean
+      update_canary_releases:
+        description: "Update Xenia Canary Releases"
+        required: false
+        default: true
+        type: boolean
       update_compatibility:
         description: "Update Game Compatibility Database"
         required: false
@@ -129,6 +134,100 @@ jobs:
               for c in changes:
                   print(f"- {c}")
           EOF
+
+          echo "Generated commit message:"
+          cat commit_message.txt
+
+          git commit -F commit_message.txt
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "${GITHUB_REF_NAME}"
+
+  update-canary-releases:
+    name: Update Xenia Canary Releases
+    runs-on: ubuntu-latest
+    if: |
+      (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 0')) ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_canary_releases == 'true')
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+          sparse-checkout: |
+            data/xenia-releases/canary.json
+            scripts/releases-parser/canary.py
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip
+
+      - name: Fetch Xenia Canary Releases
+        id: fetch_canary
+        env:
+          AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
+        run: |
+          set -e
+          python scripts/releases-parser/canary.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'xeniamanager-ci'
+          git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
+
+          OLD_FILE=$(mktemp)
+          NEW_FILE=$(mktemp)
+          git show HEAD:data/xenia-releases/canary.json 2>/dev/null > $OLD_FILE || echo '[]' > $OLD_FILE
+          cat data/xenia-releases/canary.json > $NEW_FILE
+
+          # Determine commit message
+          python - <<'PYTHON' "$OLD_FILE" "$NEW_FILE" > commit_message.txt
+          import json, sys, os
+
+          old_path, new_path = sys.argv[1], sys.argv[2]
+
+          with open(old_path) as f:
+              try:
+                  old = json.load(f)
+              except:
+                  old = []
+
+          with open(new_path) as f:
+              new = json.load(f)
+
+          # Initial commit if old file is empty
+          if not old or not os.path.exists(old_path):
+              print("chore: Initial Xenia Canary Releases")
+              print("\n- First parsing of Xenia Canary Releases")
+              sys.exit(0)
+
+          def extract_tags(data):
+              return {r["tag_name"] for r in data}
+
+          old_tags = extract_tags(old)
+          new_tags = extract_tags(new)
+          added = sorted(new_tags - old_tags, reverse=True)
+
+          if not added:
+              print("chore: Update Xenia Canary Releases\n\n(no new tags detected)")
+          else:
+              print("chore: Update Xenia Canary Releases\n")
+              for tag in added:
+                  print(f"- Added new tag: {tag}")
+          PYTHON
+
+          git add data/xenia-releases/canary.json
+
+          # Check if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes detected in canary.json"
+            exit 0
+          fi
 
           echo "Generated commit message:"
           cat commit_message.txt
