@@ -1,5 +1,100 @@
 [
   {
+    "tag_name": "beb5211",
+    "published_at": "2026-01-05T20:09:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/beb5211",
+    "changelog": {
+      "title": "[Memory] Use randomized values for scribble_heap instead of hardcoded one",
+      "changes": "This fixes Watchman - The End is Nigh which relay on UB on boot (OOR)\n\nThey're checking in hardcoded \"game:\" for '/' character.\nIf it doesn't exist then adds 0x7FFFFFFE to start address and start searching from that location downward"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/beb5211/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/beb5211/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "2e61df7",
+    "published_at": "2026-01-05T19:49:52Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/2e61df7",
+    "changelog": {
+      "title": "[XAM/USER] - Implement XamUserIsParentalControlled",
+      "changes": "- Implement XamUserIsParentalControlled which is used in 584807F7\n- Move some structs into xam.h"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2e61df7/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2e61df7/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "ccd5c50",
+    "published_at": "2026-01-05T19:24:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/ccd5c50",
+    "changelog": {
+      "title": "[XAM] Count empty path as exit request in XamLoaderGetLaunchData",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/ccd5c50/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/ccd5c50/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "b723d6e",
+    "published_at": "2026-01-05T18:44:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b723d6e",
+    "changelog": {
+      "title": "[UI] Free image data from stbi_load",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b723d6e/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b723d6e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "b8b33ec",
+    "published_at": "2026-01-05T18:23:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b8b33ec",
+    "changelog": {
+      "title": "[VFS] XContent: Added support for SVOD normal layout with multiple files",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b8b33ec/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b8b33ec/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "53c0178",
     "published_at": "2025-12-30T22:50:26Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/53c0178",
