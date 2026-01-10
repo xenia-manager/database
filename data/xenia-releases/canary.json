@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "dce4d38",
+    "published_at": "2026-01-09T08:25:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/dce4d38",
+    "changelog": {
+      "title": "[XAM] Fixed crash related to incorrect buffer size in UserPlaylist enum",
+      "changes": "- Replaced unk_ptr in XMP_CREATE_USER_PLAYLIST_ENUMERATOR\n- Simplified logic in achievements StringBuffer"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/dce4d38/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/dce4d38/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "4b73839",
     "published_at": "2026-01-06T17:42:27Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4b73839",
