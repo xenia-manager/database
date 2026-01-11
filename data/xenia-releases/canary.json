@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "81656a9",
+    "published_at": "2026-01-10T17:46:39Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/81656a9",
+    "changelog": {
+      "title": "[XAM] Fixed issue with error code being returned for local session",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/81656a9/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/81656a9/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "4b6ac45",
+    "published_at": "2026-01-10T17:13:46Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4b6ac45",
+    "changelog": {
+      "title": "[VFS/Posix] Fix Rename to properly handle guest paths",
+      "changes": "And ensure string_views aren't pointing at freed memory by saving\na reference to the result of path_to_utf8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4b6ac45/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4b6ac45/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "dce4d38",
     "published_at": "2026-01-09T08:25:45Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/dce4d38",
