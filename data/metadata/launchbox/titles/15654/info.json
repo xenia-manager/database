@@ -9,6 +9,15 @@
   "Developer": "Electronic Arts Bright Light",
   "Publisher": "Electronic Arts",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_88438261-4eab-4551-a83b-d09070ccdffa.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3335084779",
+        "URL": "http://images.launchbox-app.com/r2_88438261-4eab-4551-a83b-d09070ccdffa.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "e8a20923-7c19-46e8-b425-3b8be48f0ef0.jpg",
@@ -17,18 +26,18 @@
         "URL": "http://images.launchbox-app.com/e8a20923-7c19-46e8-b425-3b8be48f0ef0.jpg"
       },
       {
-        "FileName": "r2_fd28c4f0-e0a0-456c-8f5f-44c5dd3d94d7.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "364809895",
-        "URL": "http://images.launchbox-app.com/r2_fd28c4f0-e0a0-456c-8f5f-44c5dd3d94d7.jpg"
-      },
-      {
         "FileName": "r2_f34f3ee3-7e33-4f7d-ab02-e6e9b2685617.jpg",
         "Type": "Fanart - Background",
         "Region": "World",
         "CRC32": "186633238",
         "URL": "http://images.launchbox-app.com/r2_f34f3ee3-7e33-4f7d-ab02-e6e9b2685617.jpg"
+      },
+      {
+        "FileName": "r2_fd28c4f0-e0a0-456c-8f5f-44c5dd3d94d7.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "364809895",
+        "URL": "http://images.launchbox-app.com/r2_fd28c4f0-e0a0-456c-8f5f-44c5dd3d94d7.jpg"
       }
     ],
     "Box": {
@@ -39,6 +48,15 @@
           "Region": "Europe",
           "CRC32": "2791487074",
           "URL": "http://images.launchbox-app.com/7e7fe019-daa0-4060-a806-2d07bf3d85cf.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "r2_4c00f5c3-9efc-41b4-9736-a9e91703af43.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "764444002",
+          "URL": "http://images.launchbox-app.com/r2_4c00f5c3-9efc-41b4-9736-a9e91703af43.jpg"
         }
       ],
       "Front": [
@@ -82,6 +100,13 @@
         "Region": "Spain",
         "CRC32": "417770269",
         "URL": "http://images.launchbox-app.com/fae5afe0-4371-49d8-859e-b51a31c9e546.png"
+      },
+      {
+        "FileName": "r2_e8b0d602-ca8f-4a14-97f8-4bc5d068f85b.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "526525586",
+        "URL": "http://images.launchbox-app.com/r2_e8b0d602-ca8f-4a14-97f8-4bc5d068f85b.png"
       }
     ]
   }
