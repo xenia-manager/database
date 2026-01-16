@@ -11,6 +11,15 @@
   "Developer": "Electronic Arts Bright Light",
   "Publisher": "Electronic Arts",
   "Artwork": {
+    "Background": [
+      {
+        "FileName": "r2_360d79e9-f28c-4401-97fa-94ea300a2d11.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2803318729",
+        "URL": "http://images.launchbox-app.com/r2_360d79e9-f28c-4401-97fa-94ea300a2d11.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -20,6 +29,24 @@
           "URL": "http://images.launchbox-app.com/da358dfe-2fb5-4cf2-a710-97ab438d6fed.jpg"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_de1ca1f0-410b-42f8-8ac4-71ee7519ce76.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "671622551",
+        "URL": "http://images.launchbox-app.com/r2_de1ca1f0-410b-42f8-8ac4-71ee7519ce76.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_e4d06792-58d3-4d15-91e5-d9d31aa1e5a1.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2433607237",
+        "URL": "http://images.launchbox-app.com/r2_e4d06792-58d3-4d15-91e5-d9d31aa1e5a1.png"
+      }
+    ]
   }
 }
