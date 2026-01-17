@@ -3,12 +3,65 @@
   "DatabaseID": "209405",
   "ReleaseDate": "2009-09-23T00:00:00+00:00",
   "Overview": "Ion Assault is a twinstick shooter with a space ship, set in enclosed arenas in space similar to Geometry Wars. The left stick is used for movement and the right one for aiming, shown through a red laser. The goal is to survive waves of enemies and space debris (mainly rocks, splitting up into smaller elements similar to Asteroids), but there is a twist to it. Rather than shooting directly, the ship can activate a mass reactor, slightly slowing down movement, but it enables the ship to gather a large mass of ions floating in the arena and concentrate it around the ship. These can then be fired in the desired direction and the amount determines the damage. These ions ricochet off walls and can therefore target multiple enemies, or be caught, before they spread out in the playfield again. There are no other basic means of attack, so the \"bullets\" are all around the field to be gathered and recycled again.",
-  "CommunityRating": "1.75",
+  "CommunityRating": "2",
   "ESRB": "E10+ - Everyone 10+",
   "Genres": "Shooter",
   "Developer": "Coreplay",
   "Publisher": "Black",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_36979424-eb24-4be0-839b-5b9f683edec0.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "1902705601",
+        "URL": "http://images.launchbox-app.com/r2_36979424-eb24-4be0-839b-5b9f683edec0.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_be5bbaea-e2bf-4d46-8970-0154380f6961.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3145818333",
+        "URL": "http://images.launchbox-app.com/r2_be5bbaea-e2bf-4d46-8970-0154380f6961.jpg"
+      },
+      {
+        "FileName": "r2_08c02344-1f23-4bb5-8e7d-08ae263575f2.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "1156153815",
+        "URL": "http://images.launchbox-app.com/r2_08c02344-1f23-4bb5-8e7d-08ae263575f2.jpg"
+      },
+      {
+        "FileName": "r2_d8871fff-3f27-41f7-8041-5ce29d2705ec.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "232919593",
+        "URL": "http://images.launchbox-app.com/r2_d8871fff-3f27-41f7-8041-5ce29d2705ec.jpg"
+      },
+      {
+        "FileName": "r2_71228dc4-ae55-426a-8ca3-a5fef5545bfa.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "379180804",
+        "URL": "http://images.launchbox-app.com/r2_71228dc4-ae55-426a-8ca3-a5fef5545bfa.jpg"
+      },
+      {
+        "FileName": "r2_36d10567-97b5-462d-b64e-cf7f2f0d0400.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2996405379",
+        "URL": "http://images.launchbox-app.com/r2_36d10567-97b5-462d-b64e-cf7f2f0d0400.jpg"
+      },
+      {
+        "FileName": "r2_8099d48f-fc4c-4277-b5a5-9ca0e5b33d60.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3293117431",
+        "URL": "http://images.launchbox-app.com/r2_8099d48f-fc4c-4277-b5a5-9ca0e5b33d60.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -19,6 +72,15 @@
           "URL": "http://images.launchbox-app.com/145768f7-ae11-44bd-9d6b-3d7481aa832d.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_85c0c153-8e36-440e-8d77-3dcc96b42115.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "1222643456",
+        "URL": "http://images.launchbox-app.com/r2_85c0c153-8e36-440e-8d77-3dcc96b42115.png"
+      }
+    ]
   }
 }

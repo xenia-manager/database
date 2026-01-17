@@ -3,7 +3,7 @@
   "DatabaseID": "31673",
   "ReleaseDate": "2011-09-21T00:00:00+00:00",
   "Overview": "Crash! is an arcade game in the Burnout series of games, a series which focuses on racing, with added emphasis on crashing and causing damage in general, as well as to opponents.\n\nBurnout Crash! departs from the series' usual third person perspective, in favour of the top down perspective. The aim of the game is to cause as big a pile up as possible by causing a car pile up at one of 18 different motorway intersections by crashing a car at that given intersection. Score is awarded based in dollars ($), and is calculated by how much property damage is done. Players high scores can then be uploaded via EA's autolog to either Xbox Live or PSN. There are three games modes which can be chosen: the first is Road Trip - the basic game mode, the player crashes their car to cause a pile up, the second is Rush Hour - players have 90 seconds to cause as much destruction as possible, and the final mode is called Pile Up - the player must keep their Inferno multiplier up whilst causing destruction, once it hits zero, the game is over.\n\nOn the Xbox 360 version of the game, players can also use the Kinect sensor to control the car and cause the pile ups using hand gestures.",
-  "CommunityRating": "3.75",
+  "CommunityRating": "3.85714285714286",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Burnout_Crash!",
   "ESRB": "E10+ - Everyone 10+",
   "Genres": "Racing",
@@ -20,16 +20,10 @@
     ],
     "Background": [
       {
-        "FileName": "992ee565-e054-49b4-95d2-c91c714e6f38.png",
+        "FileName": "289d1a22-10aa-45a6-983e-f98c10380539.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "894926424",
-        "URL": "http://images.launchbox-app.com/992ee565-e054-49b4-95d2-c91c714e6f38.png"
-      },
-      {
-        "FileName": "975e7448-57d5-4d3f-8dee-d20567e47a0e.png",
-        "Type": "Fanart - Background",
-        "CRC32": "3160784610",
-        "URL": "http://images.launchbox-app.com/975e7448-57d5-4d3f-8dee-d20567e47a0e.png"
+        "CRC32": "4221530763",
+        "URL": "http://images.launchbox-app.com/289d1a22-10aa-45a6-983e-f98c10380539.jpg"
       },
       {
         "FileName": "188a3853-a1d1-41cb-8f6a-00e7a0976a24.png",
@@ -38,10 +32,16 @@
         "URL": "http://images.launchbox-app.com/188a3853-a1d1-41cb-8f6a-00e7a0976a24.png"
       },
       {
-        "FileName": "289d1a22-10aa-45a6-983e-f98c10380539.jpg",
+        "FileName": "975e7448-57d5-4d3f-8dee-d20567e47a0e.png",
         "Type": "Fanart - Background",
-        "CRC32": "4221530763",
-        "URL": "http://images.launchbox-app.com/289d1a22-10aa-45a6-983e-f98c10380539.jpg"
+        "CRC32": "3160784610",
+        "URL": "http://images.launchbox-app.com/975e7448-57d5-4d3f-8dee-d20567e47a0e.png"
+      },
+      {
+        "FileName": "992ee565-e054-49b4-95d2-c91c714e6f38.png",
+        "Type": "Fanart - Background",
+        "CRC32": "894926424",
+        "URL": "http://images.launchbox-app.com/992ee565-e054-49b4-95d2-c91c714e6f38.png"
       },
       {
         "FileName": "ffab3895-01b6-44d8-9545-7022f8c093ac.jpg",
@@ -78,18 +78,6 @@
     },
     "Disc": [
       {
-        "FileName": "a5e9ca28-106a-4c43-834e-b3dd4051173a.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "3145871538",
-        "URL": "http://images.launchbox-app.com/a5e9ca28-106a-4c43-834e-b3dd4051173a.png"
-      },
-      {
-        "FileName": "89d0cec0-6388-4d4c-b21f-1c35a5f9898d.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "1574930385",
-        "URL": "http://images.launchbox-app.com/89d0cec0-6388-4d4c-b21f-1c35a5f9898d.png"
-      },
-      {
         "FileName": "960fe784-64c0-4512-b758-7b3e8b146ea2.png",
         "Type": "Fanart - Disc",
         "CRC32": "3451338706",
@@ -100,6 +88,18 @@
         "Type": "Fanart - Disc",
         "CRC32": "779251356",
         "URL": "http://images.launchbox-app.com/6c568339-7bdf-48b8-afb6-5d3e7bb0953e.png"
+      },
+      {
+        "FileName": "89d0cec0-6388-4d4c-b21f-1c35a5f9898d.png",
+        "Type": "Fanart - Disc",
+        "CRC32": "1574930385",
+        "URL": "http://images.launchbox-app.com/89d0cec0-6388-4d4c-b21f-1c35a5f9898d.png"
+      },
+      {
+        "FileName": "a5e9ca28-106a-4c43-834e-b3dd4051173a.png",
+        "Type": "Fanart - Disc",
+        "CRC32": "3145871538",
+        "URL": "http://images.launchbox-app.com/a5e9ca28-106a-4c43-834e-b3dd4051173a.png"
       }
     ],
     "Screenshots": [
@@ -113,16 +113,16 @@
     ],
     "Other": [
       {
-        "FileName": "ca87afc4-2d10-496a-ba37-8b070ba5e179.png",
-        "Type": "Clear Logo",
-        "CRC32": "2842479299",
-        "URL": "http://images.launchbox-app.com/ca87afc4-2d10-496a-ba37-8b070ba5e179.png"
-      },
-      {
         "FileName": "aeeaddfc-31dc-4f2d-9ada-79e8462f11ed.png",
         "Type": "Clear Logo",
         "CRC32": "807533363",
         "URL": "http://images.launchbox-app.com/aeeaddfc-31dc-4f2d-9ada-79e8462f11ed.png"
+      },
+      {
+        "FileName": "ca87afc4-2d10-496a-ba37-8b070ba5e179.png",
+        "Type": "Clear Logo",
+        "CRC32": "2842479299",
+        "URL": "http://images.launchbox-app.com/ca87afc4-2d10-496a-ba37-8b070ba5e179.png"
       },
       {
         "FileName": "a94045c4-7d5a-448a-b0b1-be562a387bef.png",
