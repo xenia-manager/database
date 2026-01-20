@@ -11,6 +11,24 @@
   "Developer": "Cauldron",
   "Publisher": "Activision Value Publishing",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_3ae261b3-ccd0-4d93-8a30-afa000943c50.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3840711158",
+        "URL": "http://images.launchbox-app.com/r2_3ae261b3-ccd0-4d93-8a30-afa000943c50.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_5741ea08-59c0-4c00-b1e1-1714f2f45b86.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2744604968",
+        "URL": "http://images.launchbox-app.com/r2_5741ea08-59c0-4c00-b1e1-1714f2f45b86.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -45,15 +63,24 @@
           "CRC32": "3503607209",
           "URL": "http://images.launchbox-app.com/3b747b44-e64d-4def-b142-cd7e41b9fb62.png"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_d8e74d44-d179-4097-a0d1-2281dce3d012.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1306783800",
+          "URL": "http://images.launchbox-app.com/r2_d8e74d44-d179-4097-a0d1-2281dce3d012.jpg"
+        }
       ]
     },
     "Disc": [
       {
-        "FileName": "ecb57cfc-1534-4533-b37c-b0128476e6b1.png",
+        "FileName": "r2_f6e6f4d0-2559-4e79-a73d-b95997ecee3a.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "102859163",
-        "URL": "http://images.launchbox-app.com/ecb57cfc-1534-4533-b37c-b0128476e6b1.png"
+        "URL": "http://images.launchbox-app.com/r2_f6e6f4d0-2559-4e79-a73d-b95997ecee3a.png"
       }
     ],
     "Other": [

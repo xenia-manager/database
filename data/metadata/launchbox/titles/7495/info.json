@@ -11,6 +11,15 @@
   "Developer": "Avalanche Studios",
   "Publisher": "Eidos Interactive",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_9c190cde-43c2-4002-bc51-145b0e26249a.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3740185251",
+        "URL": "http://images.launchbox-app.com/r2_9c190cde-43c2-4002-bc51-145b0e26249a.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "3350e4f5-4c80-4f5c-8c35-f2cfd728e9f1.jpg",
@@ -47,13 +56,6 @@
       ],
       "Front": [
         {
-          "FileName": "r2_7c10e7d2-038c-4b02-9772-0c811aed972c.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "3238371677",
-          "URL": "http://images.launchbox-app.com/r2_7c10e7d2-038c-4b02-9772-0c811aed972c.jpg"
-        },
-        {
           "FileName": "c801109e-f7e9-4aa3-b58e-e5eb2ff74610.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
@@ -61,11 +63,25 @@
           "URL": "http://images.launchbox-app.com/c801109e-f7e9-4aa3-b58e-e5eb2ff74610.jpg"
         },
         {
+          "FileName": "r2_7c10e7d2-038c-4b02-9772-0c811aed972c.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3238371677",
+          "URL": "http://images.launchbox-app.com/r2_7c10e7d2-038c-4b02-9772-0c811aed972c.jpg"
+        },
+        {
           "FileName": "92de0b4e-db16-47ab-9cb9-a39b1a5fb315.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "2618768828",
           "URL": "http://images.launchbox-app.com/92de0b4e-db16-47ab-9cb9-a39b1a5fb315.jpg"
+        },
+        {
+          "FileName": "r2_c4b1dad0-d343-4a30-a5a4-7e4626b7cf58.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "343288638",
+          "URL": "http://images.launchbox-app.com/r2_c4b1dad0-d343-4a30-a5a4-7e4626b7cf58.jpg"
         }
       ]
     },
@@ -76,6 +92,13 @@
         "Region": "Europe",
         "CRC32": "339976323",
         "URL": "http://images.launchbox-app.com/7d4ac35a-8868-4800-86ef-d3ed932bc6a5.png"
+      },
+      {
+        "FileName": "r2_dec86d8f-4cde-4914-9360-73ced4f32995.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1976268339",
+        "URL": "http://images.launchbox-app.com/r2_dec86d8f-4cde-4914-9360-73ced4f32995.png"
       }
     ],
     "Other": [

@@ -9,12 +9,28 @@
   "Developer": "Telltale Games",
   "Publisher": "Telltale Games",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_27348562-a9e1-4b51-8fbe-e2134e22eaca.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3894117047",
+        "URL": "http://images.launchbox-app.com/r2_27348562-a9e1-4b51-8fbe-e2134e22eaca.png"
+      }
+    ],
     "Background": [
       {
         "FileName": "e8c23867-bd79-4b36-a912-4e04bbfd99b0.jpg",
         "Type": "Fanart - Background",
         "CRC32": "722164265",
         "URL": "http://images.launchbox-app.com/e8c23867-bd79-4b36-a912-4e04bbfd99b0.jpg"
+      },
+      {
+        "FileName": "r2_18b37b36-98bc-46c0-82d6-83280b11e295.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "761165076",
+        "URL": "http://images.launchbox-app.com/r2_18b37b36-98bc-46c0-82d6-83280b11e295.jpg"
       }
     ],
     "Box": {
@@ -38,11 +54,18 @@
       ],
       "Front": [
         {
-          "FileName": "25ce8ef8-d83a-4c32-947a-3eb1410b3025.jpg",
+          "FileName": "r2_a4ad5aca-85a1-4895-a3ff-b915764d79f1.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "2023414040",
-          "URL": "http://images.launchbox-app.com/25ce8ef8-d83a-4c32-947a-3eb1410b3025.jpg"
+          "URL": "http://images.launchbox-app.com/r2_a4ad5aca-85a1-4895-a3ff-b915764d79f1.jpg"
+        },
+        {
+          "FileName": "r2_2cf3e015-2c63-425f-866c-1c73d28677ee.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3824572344",
+          "URL": "http://images.launchbox-app.com/r2_2cf3e015-2c63-425f-866c-1c73d28677ee.jpg"
         },
         {
           "FileName": "35a295d5-e791-4b2a-94f3-c02e604a21a8.png",
@@ -55,11 +78,11 @@
     },
     "Disc": [
       {
-        "FileName": "42c032a4-5ae2-445e-827a-d4a22119da3a.png",
+        "FileName": "r2_0abf847c-bb4f-431c-9dfc-34a78bd9e2d8.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "3345586667",
-        "URL": "http://images.launchbox-app.com/42c032a4-5ae2-445e-827a-d4a22119da3a.png"
+        "URL": "http://images.launchbox-app.com/r2_0abf847c-bb4f-431c-9dfc-34a78bd9e2d8.png"
       }
     ]
   }
