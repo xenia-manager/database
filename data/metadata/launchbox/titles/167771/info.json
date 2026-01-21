@@ -8,6 +8,24 @@
   "Developer": "Hijinx Studios",
   "Publisher": "Konami Digital Entertainment",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_5a7b3d5e-4952-417b-995f-ef2397c10f25.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3344952956",
+        "URL": "http://images.launchbox-app.com/r2_5a7b3d5e-4952-417b-995f-ef2397c10f25.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_e33a2b62-0dad-4e88-a125-2a920b3b0128.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "2814397465",
+        "URL": "http://images.launchbox-app.com/r2_e33a2b62-0dad-4e88-a125-2a920b3b0128.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -15,6 +33,15 @@
           "Type": "Box - 3D",
           "CRC32": "3564522794",
           "URL": "http://images.launchbox-app.com/713ccbc9-1b78-4ba0-8274-abcdf0974b98.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "r2_a3893268-d69e-42fa-b0ed-6be4579a08b2.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2868718418",
+          "URL": "http://images.launchbox-app.com/r2_a3893268-d69e-42fa-b0ed-6be4579a08b2.jpg"
         }
       ],
       "Front": [
@@ -25,7 +52,25 @@
           "CRC32": "1651183502",
           "URL": "http://images.launchbox-app.com/f247254a-fc36-45dd-a49d-0a53aa3629c0.png"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_f5a2c294-2910-43fb-a563-bfdd6f975f9b.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "985345779",
+          "URL": "http://images.launchbox-app.com/r2_f5a2c294-2910-43fb-a563-bfdd6f975f9b.jpg"
+        }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_54cd1f8d-b7bf-4560-9ec5-ad1042d90c43.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "3569879617",
+        "URL": "http://images.launchbox-app.com/r2_54cd1f8d-b7bf-4560-9ec5-ad1042d90c43.png"
+      }
+    ]
   }
 }
