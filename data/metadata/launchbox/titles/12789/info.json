@@ -11,6 +11,22 @@
   "Developer": "Avalanche Software",
   "Publisher": "Disney Interactive Studios",
   "Artwork": {
+    "Background": [
+      {
+        "FileName": "r2_dd23d380-de8c-426f-9fed-5f0cd94ead5a.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "913631375",
+        "URL": "http://images.launchbox-app.com/r2_dd23d380-de8c-426f-9fed-5f0cd94ead5a.jpg"
+      },
+      {
+        "FileName": "r2_25f23e94-8c8e-496e-bd0e-30b08c9bc666.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "41506933",
+        "URL": "http://images.launchbox-app.com/r2_25f23e94-8c8e-496e-bd0e-30b08c9bc666.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -28,6 +44,13 @@
           "Region": "Germany",
           "CRC32": "128575142",
           "URL": "http://images.launchbox-app.com/r2_e304852b-91a8-459c-8b8b-89768e815343.jpg"
+        },
+        {
+          "FileName": "r2_e7c784a4-602c-400a-8336-e9b6c9bcf7e9.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "297156408",
+          "URL": "http://images.launchbox-app.com/r2_e7c784a4-602c-400a-8336-e9b6c9bcf7e9.jpg"
         }
       ],
       "Front": [
@@ -45,6 +68,15 @@
           "CRC32": "1301078099",
           "URL": "http://images.launchbox-app.com/39186ed2-51f1-4eff-9da7-b032c7c3ebc7.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_12ba1acd-0752-4ae2-ac66-0657fbbe2c5b.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3792225203",
+          "URL": "http://images.launchbox-app.com/r2_12ba1acd-0752-4ae2-ac66-0657fbbe2c5b.jpg"
+        }
       ]
     },
     "Disc": [
@@ -54,6 +86,29 @@
         "Region": "North America",
         "CRC32": "3411110852",
         "URL": "http://images.launchbox-app.com/r2_486d1aec-7b32-40fa-ad40-54e0d4bffcfe.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "r2_14d65acf-02a6-4c43-b0d9-06f6c6833f98.png",
+        "Type": "Screenshot - Game Title",
+        "Region": "World",
+        "CRC32": "2275085483",
+        "URL": "http://images.launchbox-app.com/r2_14d65acf-02a6-4c43-b0d9-06f6c6833f98.png"
+      },
+      {
+        "FileName": "r2_8084c047-9b8b-4a4b-bd18-ccc1f023fbf7.png",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "1585055310",
+        "URL": "http://images.launchbox-app.com/r2_8084c047-9b8b-4a4b-bd18-ccc1f023fbf7.png"
+      },
+      {
+        "FileName": "r2_8b671b5a-43ba-4474-b056-d48ebc955489.png",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "1923174261",
+        "URL": "http://images.launchbox-app.com/r2_8b671b5a-43ba-4474-b056-d48ebc955489.png"
       }
     ],
     "Other": [
