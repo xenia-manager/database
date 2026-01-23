@@ -10,6 +10,31 @@
   "Developer": "Grasshopper Manufacture",
   "Publisher": "Xseed Games",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_f5e4caea-0824-4922-91f2-3400f0439250.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "918420222",
+        "URL": "http://images.launchbox-app.com/r2_f5e4caea-0824-4922-91f2-3400f0439250.png"
+      },
+      {
+        "FileName": "r2_30464185-35eb-49ac-a882-107244c6a00a.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3193978635",
+        "URL": "http://images.launchbox-app.com/r2_30464185-35eb-49ac-a882-107244c6a00a.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_3292f4c5-3363-4621-b82b-49399fa963b1.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "1481571687",
+        "URL": "http://images.launchbox-app.com/r2_3292f4c5-3363-4621-b82b-49399fa963b1.jpg"
+      }
+    ],
     "Box": {
       "Back": [
         {
@@ -41,8 +66,33 @@
           "Region": "North America",
           "CRC32": "1282735843",
           "URL": "http://images.launchbox-app.com/9898c146-0653-475b-86a6-dfea56fa23fd.jpg"
+        },
+        {
+          "FileName": "r2_5d36bdbb-b033-4449-baaf-676212b7f02b.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "1026720580",
+          "URL": "http://images.launchbox-app.com/r2_5d36bdbb-b033-4449-baaf-676212b7f02b.jpg"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_c86a90ad-b893-4d38-8b3a-cbf34340ed8d.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2908542406",
+        "URL": "http://images.launchbox-app.com/r2_c86a90ad-b893-4d38-8b3a-cbf34340ed8d.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_a386ade8-2ac4-4d6a-ac1c-3714ba0051b6.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2000842447",
+        "URL": "http://images.launchbox-app.com/r2_a386ade8-2ac4-4d6a-ac1c-3714ba0051b6.png"
+      }
+    ]
   }
 }
