@@ -3,24 +3,35 @@
   "DatabaseID": "467147",
   "ReleaseDate": "2014-10-24T00:00:00+00:00",
   "Overview": "Check your phone to see where enemies are lurking as you hunt for items throughout the house. Dart through rooms and choose your hiding spots carefully. WARNING: Contains jump scares that will make your friends scream.",
-  "Genres": null,
+  "Genres": "Action",
   "Developer": "Chris Antoni",
   "Publisher": "Chris Antoni",
   "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "r2_80ea9355-835e-420f-89ee-aaaefa1869ad.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "4085425566",
+          "URL": "http://images.launchbox-app.com/r2_80ea9355-835e-420f-89ee-aaaefa1869ad.jpg"
+        }
+      ]
+    },
     "Screenshots": [
-      {
-        "FileName": "r2_72afa6f4-7dbd-49a0-afb9-95c4e74d1c76.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "2848182113",
-        "URL": "http://images.launchbox-app.com/r2_72afa6f4-7dbd-49a0-afb9-95c4e74d1c76.jpg"
-      },
       {
         "FileName": "r2_42a64255-4c75-4037-bd72-e4dde56c717f.jpg",
         "Type": "Screenshot - Gameplay",
         "Region": "World",
         "CRC32": "3866469780",
         "URL": "http://images.launchbox-app.com/r2_42a64255-4c75-4037-bd72-e4dde56c717f.jpg"
+      },
+      {
+        "FileName": "r2_72afa6f4-7dbd-49a0-afb9-95c4e74d1c76.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "2848182113",
+        "URL": "http://images.launchbox-app.com/r2_72afa6f4-7dbd-49a0-afb9-95c4e74d1c76.jpg"
       }
     ]
   }

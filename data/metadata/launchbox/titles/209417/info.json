@@ -9,6 +9,24 @@
   "Developer": "Regolith Games",
   "Publisher": "Konami",
   "Artwork": {
+    "Banner": [
+      {
+        "FileName": "r2_6ba56e9d-f812-4483-8693-5f4da2edebea.png",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "315772887",
+        "URL": "http://images.launchbox-app.com/r2_6ba56e9d-f812-4483-8693-5f4da2edebea.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "r2_933403dd-3e5d-45d5-9cf5-cf29af1583cb.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "128468619",
+        "URL": "http://images.launchbox-app.com/r2_933403dd-3e5d-45d5-9cf5-cf29af1583cb.jpg"
+      }
+    ],
     "Box": {
       "Front": [
         {
@@ -19,6 +37,15 @@
           "URL": "http://images.launchbox-app.com/dc866d7e-9ebe-4feb-94f0-5e6d3c1de486.png"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_a56aecae-de4c-4fe3-be14-7c2a37cd8d0b.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "1386015961",
+        "URL": "http://images.launchbox-app.com/r2_a56aecae-de4c-4fe3-be14-7c2a37cd8d0b.png"
+      }
+    ]
   }
 }
