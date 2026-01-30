@@ -1,5 +1,81 @@
 [
   {
+    "tag_name": "38ccc71",
+    "published_at": "2026-01-29T22:25:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/38ccc71",
+    "changelog": {
+      "title": "[XboxKrnl/Threading] - implement KeInitializeTimerEx",
+      "changes": "- Taken from Crispy's Nukernel build"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/38ccc71/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/38ccc71/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "e3c4b5a",
+    "published_at": "2026-01-29T21:58:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/e3c4b5a",
+    "changelog": {
+      "title": "refactor xenia-build printing functionality and add color to the outputs",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/e3c4b5a/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/e3c4b5a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "603355a",
+    "published_at": "2026-01-29T21:14:18Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/603355a",
+    "changelog": {
+      "title": "[XAM] Fixed enumeration of achievements once again",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/603355a/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/603355a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "2ba8207",
+    "published_at": "2026-01-29T20:01:04Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/2ba8207",
+    "changelog": {
+      "title": "[Kernel] Added stub for: NtCancelIoFile",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2ba8207/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2ba8207/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "ac6fd65",
     "published_at": "2026-01-28T07:48:28Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/ac6fd65",
