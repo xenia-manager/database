@@ -1,5 +1,39 @@
 [
   {
+    "tag_name": "78d700a",
+    "published_at": "2026-01-30T18:26:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/78d700a",
+    "changelog": {
+      "title": "[XAM/USER] - Add missing broadcast to XamUserWriteProfileSettings",
+      "changes": "-  Add missing broadcast to XamUserWriteProfileSettings"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/78d700a/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/78d700a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "a8fe466",
+    "published_at": "2026-01-30T18:05:13Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/a8fe466",
+    "changelog": {
+      "title": "[XEX] - log outputs",
+      "changes": "- Finish XEX_HEADER_XBOX360_LOGO, XEX_HEADER_FILE_FORMAT_INFO, XEX_HEADER_DELTA_PATCH_DESCRIPTOR, XEX_HEADER_SYSTEM_FLAGS_32, XEX_HEADER_ENABLED_FOR_CALLCAP, and XEX_HEADER_GAME_RATINGS\n- Add missing xex2_header_keys\n- Add flag name outputs\n- Removed magic number\n- Added X_FILE_CHARACTERISTICS to X_FILE_FS_DEVICE_INFORMATION"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/a8fe466/xenia_canary_linux.tar.xz"
+      }
+    ]
+  },
+  {
     "tag_name": "38ccc71",
     "published_at": "2026-01-29T22:25:29Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/38ccc71",
