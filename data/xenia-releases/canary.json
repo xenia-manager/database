@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "4dd0842",
+    "published_at": "2026-01-31T18:43:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4dd0842",
+    "changelog": {
+      "title": "[Kernel] Fixed incorrect amount of propagated notifications on boot",
+      "changes": "- Created dedicated method: IsUIActive"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4dd0842/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4dd0842/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "7e1506f",
+    "published_at": "2026-01-31T17:55:20Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/7e1506f",
+    "changelog": {
+      "title": "[Kernel] XThread: Added mutex to set_name.",
+      "changes": "There is a small chance that game will spam requests for thread name change which will cause invalid free"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/7e1506f/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/7e1506f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "78d700a",
     "published_at": "2026-01-30T18:26:59Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/78d700a",
