@@ -1,5 +1,35 @@
 [
   {
+    "tag_name": "60ffc2e",
+    "published_at": "2026-02-02T08:43:43Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/60ffc2e",
+    "changelog": {
+      "title": "[CI] Remove unneeded python-setup",
+      "changes": "The default Python version was updated so this is no longer necessary: https://github.com/actions/runner-images/blob/main/images/windows/Windows2025-Readme.md#language-and-runtime"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/60ffc2e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "385c6e1",
+    "published_at": "2026-02-02T08:37:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/385c6e1",
+    "changelog": {
+      "title": "[CI] Remove unneeded python-setup",
+      "changes": "The default Python version was updated so this is no longer necessary: https://github.com/actions/runner-images/blob/main/images/windows/Windows2025-Readme.md#language-and-runtime"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/385c6e1/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "4dd0842",
     "published_at": "2026-01-31T18:43:33Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4dd0842",
