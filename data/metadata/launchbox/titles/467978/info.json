@@ -7,14 +7,16 @@
   "Developer": "Redtalon",
   "Publisher": "Redtalon",
   "Artwork": {
-    "Screenshots": [
-      {
-        "FileName": "4be2dd4b-394c-4699-9879-f94a75210c85.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "2615108218",
-        "URL": "http://images.launchbox-app.com/4be2dd4b-394c-4699-9879-f94a75210c85.jpg"
-      }
-    ]
+    "Box": {
+      "Front": [
+        {
+          "FileName": "4be2dd4b-394c-4699-9879-f94a75210c85.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2615108218",
+          "URL": "http://images.launchbox-app.com/4be2dd4b-394c-4699-9879-f94a75210c85.jpg"
+        }
+      ]
+    }
   }
 }
