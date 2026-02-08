@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "ef65c67",
+    "published_at": "2026-02-07T21:46:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/ef65c67",
+    "changelog": {
+      "title": "[XAM] Cleanup user settings header to reduce including issues",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/ef65c67/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/ef65c67/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "1a96137",
+    "published_at": "2026-02-07T17:07:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/1a96137",
+    "changelog": {
+      "title": "Rework max anisotropy override to sampler creation (D3D12/Vulkan)",
+      "changes": "Revert ac6fd65 fetch additions and implement context-sensitive AF override."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/1a96137/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/1a96137/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "60ffc2e",
     "published_at": "2026-02-02T08:43:43Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/60ffc2e",
