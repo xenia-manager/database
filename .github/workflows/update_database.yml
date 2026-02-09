@@ -2,7 +2,9 @@ name: Database Updater
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at midnight
+    - cron: "0 0 * * *" # Daily at 00:00 (all updates)
+    - cron: "0 8 * * *" # Daily at 08:00 (version update only)
+    - cron: "0 16 * * *" # Daily at 16:00 (version update only)
   workflow_dispatch:
     inputs:
       update_version:
@@ -80,7 +82,7 @@ jobs:
 
       - name: Update Xenia Canary Releases
         if: |
-          (github.event_name == 'schedule') ||
+          github.event_name == 'schedule' ||
           (github.event_name == 'workflow_dispatch' && github.event.inputs.update_canary_releases == 'true')
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
@@ -90,7 +92,7 @@ jobs:
 
       - name: Update Game Compatibility Database
         if: |
-          (github.event_name == 'schedule') ||
+          (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
           (github.event_name == 'workflow_dispatch' && github.event.inputs.update_compatibility == 'true')
         run: |
           python scripts/game_compatibility.py --complete --debug
@@ -103,7 +105,7 @@ jobs:
 
       - name: Update Game Patches
         if: |
-          (github.event_name == 'schedule') ||
+          (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
           (github.event_name == 'workflow_dispatch' && github.event.inputs.update_patches == 'true')
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
@@ -157,7 +159,7 @@ jobs:
 
       - name: Update SDL GameControllerDB
         if: |
-          (github.event_name == 'schedule') ||
+          (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
           (github.event_name == 'workflow_dispatch' && github.event.inputs.update_gamecontrollerdb == 'true')
         run: |
           mkdir -p data
@@ -196,7 +198,7 @@ jobs:
   update-launchbox-metadata:
     name: Update Launchbox Database Metadata
     if: |
-      (github.event_name == 'schedule') ||
+      (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
       (github.event_name == 'workflow_dispatch' && github.event.inputs.update_launchbox_metadata == 'true')
     runs-on: windows-latest
     steps:
