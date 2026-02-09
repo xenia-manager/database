@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "8f5da61",
+    "published_at": "2026-02-08T22:21:07Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/8f5da61",
+    "changelog": {
+      "title": "[Kernel] Replaced Yield in XAudioGetVoiceCategoryVolumeChangeMask with NanoSleep",
+      "changes": "- Removed Yield in XamUserGetSigninState"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/8f5da61/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/8f5da61/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "56cff3a",
+    "published_at": "2026-02-08T17:12:05Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/56cff3a",
+    "changelog": {
+      "title": "[APP] Include title information in Win32 exception dialog",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/56cff3a/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/56cff3a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "ef65c67",
     "published_at": "2026-02-07T21:46:50Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/ef65c67",
