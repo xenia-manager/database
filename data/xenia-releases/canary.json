@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "14c2814",
+    "published_at": "2026-02-11T22:02:01Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/14c2814",
+    "changelog": {
+      "title": "[CPU] Fixed bug in VECTOR_SHL_V128 implementation",
+      "changes": "- For EmitInt8 there was missing check for & 7 which was causing graphical glitches in movies\n\n- There is probably similar bug in 16/32 version, but that's for another commit"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/14c2814/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/14c2814/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "3caf0d2",
+    "published_at": "2026-02-11T21:45:06Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/3caf0d2",
+    "changelog": {
+      "title": "[CPU] Fixed bug in VECTOR_SHL_V128 implementation",
+      "changes": "- For EmitInt8 there was missing check for & 7 which was causing graphical glitches in movies\n\n- There is probably similar bug in 16/32 version, but that's for another commit"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3caf0d2/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3caf0d2/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "8f5da61",
     "published_at": "2026-02-08T22:21:07Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/8f5da61",
