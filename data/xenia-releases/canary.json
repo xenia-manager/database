@@ -1,5 +1,81 @@
 [
   {
+    "tag_name": "15f61a1",
+    "published_at": "2026-02-13T08:29:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/15f61a1",
+    "changelog": {
+      "title": "[x64] Fix vector mask issue and add missing tests",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/15f61a1/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/15f61a1/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "435ea98",
+    "published_at": "2026-02-13T06:45:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/435ea98",
+    "changelog": {
+      "title": "[Testing] Make sure tests clean up shm resources on exit",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/435ea98/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/435ea98/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "4832bb4",
+    "published_at": "2026-02-13T05:51:36Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4832bb4",
+    "changelog": {
+      "title": "[Testing] Add some lvx* tests",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4832bb4/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4832bb4/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "09a15fb",
+    "published_at": "2026-02-13T04:52:54Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/09a15fb",
+    "changelog": {
+      "title": "[Testing] Get tests running (dirty hack for linux)",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/09a15fb/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/09a15fb/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "14c2814",
     "published_at": "2026-02-11T22:02:01Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/14c2814",
