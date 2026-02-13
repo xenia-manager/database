@@ -1,5 +1,233 @@
 [
   {
+    "tag_name": "1181540",
+    "published_at": "2026-02-13T16:19:26Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/1181540",
+    "changelog": {
+      "title": "[CPU] Fix f16 pack rounding and SHORT_2 test input",
+      "changes": "Add round-to-nearest-even to the fast float16 pack path by folding a\n0xFFF rounding bias into XMMF16PackLCPI0 and extracting bit 13 of the\nsource as the tie-breaker, matching the software fallback behavior.\n\nFix PACK_SHORT_2 test to use pre-biased float input (0x40400000 = 3.0)\nas the hardware expects, rather than raw 0.0f which is out of range."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/1181540/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/1181540/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "bb70e5c",
+    "published_at": "2026-02-13T15:58:02Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/bb70e5c",
+    "changelog": {
+      "title": "[CPU] Fix incorrect all_same detection in constant vector shift paths",
+      "changes": "The loop conditions `n < 8 - n` and `n < 4 - n` terminated early,\nonly checking the first half of elements. This caused EmitInt16 and\nEmitInt32 to incorrectly take the uniform shift path when trailing\nelements had different shift amounts.\n\nResolves potential issues in SHL, SHR, and SHA."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/bb70e5c/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/bb70e5c/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "10e8224",
+    "published_at": "2026-02-13T15:40:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/10e8224",
+    "changelog": {
+      "title": "[CPU] Use RAII lock_guard in GuestTrampolineGroup",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/10e8224/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/10e8224/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "643c136",
+    "published_at": "2026-02-13T15:12:34Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/643c136",
+    "changelog": {
+      "title": "[CPU] Correctly zero extend instead of sign extending",
+      "changes": "When performing unsigned multiplication on Linux/GCC,\nthe code incorrectly cast constant.i64 (which is a signed int64_t)\nto unsigned __int128. This caused sign extension when\nthe value should be treated as unsigned."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/643c136/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/643c136/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "3a6f63f",
+    "published_at": "2026-02-13T14:33:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/3a6f63f",
+    "changelog": {
+      "title": "Revert \"[x64] Zero extend on mov to 8bit register\"",
+      "changes": "This reverts commit 88b0aea272ac3dda9d84af3c09db36b72c65c396.\n\n(It needs to be applied after xbyak update)"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3a6f63f/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3a6f63f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "1182f9d",
+    "published_at": "2026-02-13T13:09:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/1182f9d",
+    "changelog": {
+      "title": "[x64] Add software fallback for PACK_FLOAT16_4",
+      "changes": "Current implementation has an off by 1 in rounding, should\nround up to even but doesn't. Need to figure out how to implement\nit properly so just leaving the software version here for later\nverification."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/1182f9d/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/1182f9d/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "fdb32b9",
+    "published_at": "2026-02-13T12:32:25Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/fdb32b9",
+    "changelog": {
+      "title": "[x64] Remove AVX512 optimization for vrefp",
+      "changes": "The precision is too low so it's more trouble than it's worth."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/fdb32b9/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/fdb32b9/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "77e320f",
+    "published_at": "2026-02-13T12:01:19Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/77e320f",
+    "changelog": {
+      "title": "[x64] Fix AVX2 optimization path for VECTOR_SHL_V128",
+      "changes": "Ensure the optimized path matches the fallback behavior"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/77e320f/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/77e320f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "b3a1316",
+    "published_at": "2026-02-13T11:39:20Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b3a1316",
+    "changelog": {
+      "title": "[x64] Fix AVX512 optimization path for vadduws",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b3a1316/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b3a1316/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "70c1092",
+    "published_at": "2026-02-13T11:17:32Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/70c1092",
+    "changelog": {
+      "title": "[x64] Fix AVX-512 vctuxs NaN handling",
+      "changes": "(using ordered comparison predicate)"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/70c1092/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/70c1092/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "f95ebb9",
+    "published_at": "2026-02-13T10:49:21Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/f95ebb9",
+    "changelog": {
+      "title": "[x64] Fix mismatched operand sizes in CNTLZ fallback",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f95ebb9/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f95ebb9/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "88b0aea",
+    "published_at": "2026-02-13T09:04:56Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/88b0aea",
+    "changelog": {
+      "title": "[x64] Zero extend on mov to 8bit register",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/88b0aea/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/88b0aea/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "15f61a1",
     "published_at": "2026-02-13T08:29:59Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/15f61a1",
