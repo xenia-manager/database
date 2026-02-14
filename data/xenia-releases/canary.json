@@ -1,5 +1,100 @@
 [
   {
+    "tag_name": "f2b9b57",
+    "published_at": "2026-02-13T17:48:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/f2b9b57",
+    "changelog": {
+      "title": "Reapply \"[x64] Zero extend on mov to 8bit register\"",
+      "changes": "This reverts commit 3a6f63f34f910991b5ac9da245a6b1e7a7727477.\n\n(The issue wasn't xbyak but rather cherrypick order wrt to\nother commits, xbyak upgrade was a red herring)"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f2b9b57/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f2b9b57/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "f5afafa",
+    "published_at": "2026-02-13T17:44:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/f5afafa",
+    "changelog": {
+      "title": "Ensure stack allocations maintain 16-byte alignment for AVX instructions",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f5afafa/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f5afafa/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "1548b4e",
+    "published_at": "2026-02-13T17:23:05Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/1548b4e",
+    "changelog": {
+      "title": "[CPU/PPC] Add VX128_2 VC field support for vperm128",
+      "changes": "Add 3-bit VC field to VX128_2 format structure to support\ninstructions like vperm128 that use 4 distinct vector operands.\n\nThe VC field occupies bits 6-8 of the instruction encoding."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/1548b4e/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/1548b4e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "9369464",
+    "published_at": "2026-02-13T17:03:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/9369464",
+    "changelog": {
+      "title": "[PPC] vsubcuw is actually implemented, enable it",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9369464/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9369464/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "83ff0c5",
+    "published_at": "2026-02-13T16:42:19Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/83ff0c5",
+    "changelog": {
+      "title": "[CPU] Set VSCR NJ (non-Java) bit",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/83ff0c5/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/83ff0c5/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "1181540",
     "published_at": "2026-02-13T16:19:26Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/1181540",
