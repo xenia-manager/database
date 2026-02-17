@@ -1,5 +1,77 @@
 [
   {
+    "tag_name": "434644c",
+    "published_at": "2026-02-17T08:21:56Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/434644c",
+    "changelog": {
+      "title": "Merge commit 'f2fabfdf0' into canary_experimental",
+      "changes": "Sync changes from master up to before the recent GPU changes, those will be\nmerged later"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/434644c/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/434644c/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "20b226d",
+    "published_at": "2026-02-17T06:52:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/20b226d",
+    "changelog": {
+      "title": "[Vulkan] Update glslang to 16.0.0 and introduce compat layer",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/20b226d/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/20b226d/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "cb6dfe4",
+    "published_at": "2026-02-17T06:19:00Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/cb6dfe4",
+    "changelog": {
+      "title": "[Vulkan] Update glslang to 16.0.0 and introduce compat layer",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/cb6dfe4/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "2d6b7c6",
+    "published_at": "2026-02-17T05:44:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/2d6b7c6",
+    "changelog": {
+      "title": "[XMA] Fix dedicated thread stalls by blocking guest audio thread",
+      "changes": "Includes various other thread safety and timing related adjustments"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2d6b7c6/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2d6b7c6/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "abaa0e4",
     "published_at": "2026-02-16T20:52:41Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/abaa0e4",
