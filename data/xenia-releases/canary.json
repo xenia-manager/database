@@ -1,5 +1,138 @@
 [
   {
+    "tag_name": "83d776f",
+    "published_at": "2026-02-17T15:23:54Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/83d776f",
+    "changelog": {
+      "title": "[Vulkan] Add tesselation support",
+      "changes": "Pretty much just following the D3D12 implementation"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/83d776f/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/83d776f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "48c13be",
+    "published_at": "2026-02-17T15:01:30Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/48c13be",
+    "changelog": {
+      "title": "[Vulkan] Add gamma_render_target_as_srgb support",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/48c13be/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/48c13be/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "5d74d69",
+    "published_at": "2026-02-17T14:06:30Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/5d74d69",
+    "changelog": {
+      "title": "[Vulkan] Alpha to coverage FSI implementation",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/5d74d69/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/5d74d69/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "75589de",
+    "published_at": "2026-02-17T13:36:02Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/75589de",
+    "changelog": {
+      "title": "[Vulkan] Ensure descriptor sets always initialized for user_clip_planes",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/75589de/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/75589de/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "0b7abf0",
+    "published_at": "2026-02-17T13:07:09Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/0b7abf0",
+    "changelog": {
+      "title": "[Vulkan] Add resolution scaling mips support",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/0b7abf0/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/0b7abf0/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "a092551",
+    "published_at": "2026-02-17T12:45:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/a092551",
+    "changelog": {
+      "title": "[Vulkan/D3D12] Validate upload range bounds before vastcpy",
+      "changes": "The D3D12 backend's existing check only validated the last page of the\nrange. The Vulkan backend had no check at all and did not respect the\ngpu_allow_invalid_upload_range cvar. Both now verify start and\nend pages are mapped before copying, preventing access violations when\ngames reference unmapped guest physical memory during transitions."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/a092551/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/a092551/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "ef505fb",
+    "published_at": "2026-02-17T09:14:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/ef505fb",
+    "changelog": {
+      "title": "[Vulkan] add no_discard_stencil_in_transfer_pipelines support",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/ef505fb/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/ef505fb/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "434644c",
     "published_at": "2026-02-17T08:21:56Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/434644c",
