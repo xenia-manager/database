@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "d974770",
+    "published_at": "2026-02-18T09:35:52Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/d974770",
+    "changelog": {
+      "title": "[XMA] Reserve headroom per decoded frame and account for it in gating",
+      "changes": "The 3-bit field at +24bit in DWORD 1 of the XMA context was named\nsubframe_skip_count but never actually used for skipping subframes.\nTesting across multiple titles (PGR4, Halo Reach) shows the field\nmight control extra output buffer blocks that must be reserved per decoded\nframe. Renaming the field to output_buffer_padding to reflect this\nobserved behavior and adding padding to the minimum output space threshold\n\nPdding blocks are reserved from the output budget after each frame is\nfully consumed, preventing the decoder from overrunning the space\nthat the game expects to remain free.\n\nThis is still likely not entirely correct but reduces some of the\nobserved noise in current implementation."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/d974770/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/d974770/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "83d776f",
     "published_at": "2026-02-17T15:23:54Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/83d776f",
