@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "b2b1307",
+    "published_at": "2026-02-19T22:31:46Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b2b1307",
+    "changelog": {
+      "title": "[XAM] Improvements to XamUserCheckPrivilege",
+      "changes": "- Handle case when XamUserCheckPrivilege receives ANY USER\n- Handle case when User is not live signed. This function returns NOT_LOGGED_IN for local accounts"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b2b1307/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b2b1307/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "9bfaff5",
+    "published_at": "2026-02-19T20:20:32Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/9bfaff5",
+    "changelog": {
+      "title": "[XAM] Fixed issue with XamContentCreate reassigning already assigned symlinks",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9bfaff5/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9bfaff5/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "d974770",
     "published_at": "2026-02-18T09:35:52Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/d974770",
