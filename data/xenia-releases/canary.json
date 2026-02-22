@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "9190ce3",
+    "published_at": "2026-02-22T11:48:46Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/9190ce3",
+    "changelog": {
+      "title": "Revert \"[CPU] Detect FPSCR exceptions in UpdateFPSCR for Rc=1 FPU instructions\"",
+      "changes": "This reverts commit a769d70761761dd773d70f4e442228ec6b8ede80.\nCauses audio issues in The Godfather"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9190ce3/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9190ce3/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "b2b1307",
     "published_at": "2026-02-19T22:31:46Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b2b1307",
