@@ -1,9 +1,14 @@
 {
   "Name": "Fantasia: Music Evolved",
   "DatabaseID": "30091",
-  "Overview": "Fantasia: Music Evolved is a 2014 motion-controlled music rhythm game developed by Harmonix for the Xbox 360 and Xbox One with Kinect. It is the interactive successor to Walt Disney's 1940 animated film Fantasia and its 1999 sequel Fantasia 2000, both upon which it is based.",
+  "ReleaseDate": "2014-10-21T00:00:00+00:00",
+  "Overview": "Fantasia: Music Evolved is a music and rhythm game that requires the Kinect peripheral to play. It is based on the animated films Fantasia (1940) and Fantasia 2000 (1999). The realms of Fantasia have been corrupted by Noise. As the sorcerer's newest apprentice, a reference to a segment of the first film, the player is tasked with fighting back the noise with the magic of music and light. This is accomplished by performing songs and exploring each realm to find hotspots and magical fragments.\n\nDuring gameplay, the player is tasked with sweeping, punching, and tracing their hands along with the various prompts that appear onscreen. As the player does this, they create their own unique mix of the song in real-time. This is accomplished by switching different instruments between three different versions of a song: the original, and two remixes, often in wildly different genres. This also affects what prompts a player will see during a song.\n\nAs the player explores each realm and earns fragments, they unlock Composition Spells. These appear during songs and require the player to hit a certain number of prompts before they activate. When activated, the player can create and record their own solos using the unique interface for each spell.\n\nThe game's track list includes several classical pieces as well as a number of pop, rock, and hip-hop tunes. The game also offers a cooperative/competitive two-player mode. Two players cooperate to create their own mix by choosing different instruments, while attempting to score the most points.",
   "CommunityRating": "3.33333333333333",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Fantasia:_Music_Evolved",
+  "ESRB": "E10+ - Everyone 10+",
   "Genres": "Music",
+  "Developer": "Harmonix",
+  "Publisher": "Disney Interactive",
   "Artwork": {
     "Box": {
       "3D": [
@@ -22,6 +27,13 @@
           "Region": "Germany",
           "CRC32": "1135555701",
           "URL": "http://images.launchbox-app.com/r2_89b03864-4c9b-4c11-8b84-6787f9bfa1ff.jpg"
+        },
+        {
+          "FileName": "r2_949c70b8-0c2f-43b0-b660-57c028c60abb.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3423361869",
+          "URL": "http://images.launchbox-app.com/r2_949c70b8-0c2f-43b0-b660-57c028c60abb.jpg"
         }
       ],
       "Front": [
@@ -40,10 +52,26 @@
           "URL": "http://images.launchbox-app.com/r2_6395dbe4-fbce-4914-b1d5-477ad0d442e4.jpg"
         },
         {
+          "FileName": "r2_9228a128-bb18-4f4e-baab-b34b173f6342.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1365275000",
+          "URL": "http://images.launchbox-app.com/r2_9228a128-bb18-4f4e-baab-b34b173f6342.jpg"
+        },
+        {
           "FileName": "dca2134c-3f17-4874-beda-c48aec6d8890.png",
           "Type": "Fanart - Box - Front",
           "CRC32": "1013199126",
           "URL": "http://images.launchbox-app.com/dca2134c-3f17-4874-beda-c48aec6d8890.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_1a01ec72-13ab-427a-a5b8-0e14ff90d7f1.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1422926420",
+          "URL": "http://images.launchbox-app.com/r2_1a01ec72-13ab-427a-a5b8-0e14ff90d7f1.jpg"
         }
       ]
     },
