@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "dd585ca",
+    "published_at": "2026-02-23T08:50:56Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/dd585ca",
+    "changelog": {
+      "title": "[XboxKrnl/Crypt] - Implement XeCrypt & XeKeys Functions (#566)",
+      "changes": "- Implement XeKeysGetConsoleID, XeKeysGetKeyProperties, XeCryptDesEcb, and XeCryptDesKey.\n- Stub XeCryptBnQwBeSigVerify, XeCryptRotSumSha, XeKeysGetKey, and XeKeysConsolePrivateKeySign."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/dd585ca/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/dd585ca/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "8d5565d",
     "published_at": "2026-02-23T08:28:08Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/8d5565d",
