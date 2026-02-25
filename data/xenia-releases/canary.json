@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "0676416",
+    "published_at": "2026-02-25T00:56:40Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/0676416",
+    "changelog": {
+      "title": "[GPU] Fix min/max blend operations to properly apply factors",
+      "changes": "Applies factors before the MIN/MAX operation - in FSI/ROV via runtime\nblending, in FBO/RTV by pre-multiplying shader output when dstFactor is\nONE only, as we don't have access to dest to provide full support as we\ndo in the FSI/ROV paths."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/0676416/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/0676416/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "337afcf",
+    "published_at": "2026-02-24T23:33:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/337afcf",
+    "changelog": {
+      "title": "[XMA] fix unsigned underflow when packet has no frames",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/337afcf/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/337afcf/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "dd585ca",
     "published_at": "2026-02-23T08:50:56Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/dd585ca",
