@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "125b4c8",
+    "published_at": "2026-02-26T06:21:32Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/125b4c8",
+    "changelog": {
+      "title": "[GPU] Ensure force_special_view checks swizzle signs before using signed",
+      "changes": "This was causing unnecessary logspam in Blue Dragon due to\nincorrectly trying to request signed when the fetch constants are\nunsigned"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/125b4c8/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/125b4c8/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "bc54720",
     "published_at": "2026-02-26T01:50:49Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/bc54720",
