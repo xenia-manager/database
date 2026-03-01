@@ -1,0 +1,53 @@
+{
+  "Name": "Hexement",
+  "DatabaseID": "470041",
+  "ReleaseDate": "2009-04-11T00:00:00+00:00",
+  "Overview": "Hexement is a falling block puzzle puzzle viewed from a slightly angled top-down perspective. Players rotate and position descending blocks made of connected hexagons, each representing one of three elemental types: land, water, or fire. The interaction between the falling block and the tile it lands on determines the outcome - hexagons may stack or transform. For example, placing water on water adds another layer, while dropping fire on water removes one.\n\nStrategic placement is essential, as terrain evolves dynamically. Volcanos form when fire is placed on fire or when neighboring tiles differ in height by more than four layers. These volcanos erupt after a fixed interval, introducing hazards that can destabilize the field. However, players can prevent eruptions by dropping water directly onto volcanos, which removes them. If no volcanos are present when an eruption is due, one is randomly created on the highest tile layer.\n\nThe game ends if water spills over the edge - triggered by placing water tiles on boundary hexagons - or if the field tilts due to uneven tile distribution. The objective is to survive as long as possible while accumulating points through block",
+  "VideoURL": "https://youtu.be/nuJARf4_YtU",
+  "Genres": "Puzzle",
+  "Developer": "7th Gear Productions",
+  "Publisher": "7th Gear Productions",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "585f58de-a06f-40fc-ab90-cdca9380e601.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3869820385",
+          "URL": "http://images.launchbox-app.com/585f58de-a06f-40fc-ab90-cdca9380e601.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "ba10c0e3-ff54-4d24-9b7f-f270383608a6.jpg",
+        "Type": "Screenshot - Game Title",
+        "Region": "World",
+        "CRC32": "1778508319",
+        "URL": "http://images.launchbox-app.com/ba10c0e3-ff54-4d24-9b7f-f270383608a6.jpg"
+      },
+      {
+        "FileName": "0a87aa95-ef43-497e-b897-0c0e299470ad.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "2600741894",
+        "URL": "http://images.launchbox-app.com/0a87aa95-ef43-497e-b897-0c0e299470ad.jpg"
+      },
+      {
+        "FileName": "1a978ba5-5cd5-43d6-be11-1d363bda992c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "124074590",
+        "URL": "http://images.launchbox-app.com/1a978ba5-5cd5-43d6-be11-1d363bda992c.jpg"
+      },
+      {
+        "FileName": "2aa5071e-748a-4532-a6b0-ccb2b155c255.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "1431933112",
+        "URL": "http://images.launchbox-app.com/2aa5071e-748a-4532-a6b0-ccb2b155c255.jpg"
+      }
+    ]
+  }
+}
