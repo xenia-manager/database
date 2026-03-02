@@ -10,12 +10,22 @@
   "Publisher": "THQ",
   "Artwork": {
     "Box": {
+      "Back": [
+        {
+          "FileName": "r2_15d9b1a2-cae9-4fc4-83e9-a83d77be941d.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "848696901",
+          "URL": "http://images.launchbox-app.com/r2_15d9b1a2-cae9-4fc4-83e9-a83d77be941d.jpg"
+        }
+      ],
       "Front": [
         {
-          "FileName": "d0a70070-daae-4c6a-b8ef-15c03c3d5694.jpg",
+          "FileName": "r2_a5af1ad4-40b1-409f-9922-b337506a87af.jpg",
           "Type": "Box - Front",
+          "Region": "North America",
           "CRC32": "2629904467",
-          "URL": "http://images.launchbox-app.com/d0a70070-daae-4c6a-b8ef-15c03c3d5694.jpg"
+          "URL": "http://images.launchbox-app.com/r2_a5af1ad4-40b1-409f-9922-b337506a87af.jpg"
         }
       ]
     },
@@ -33,16 +43,16 @@
         "URL": "http://images.launchbox-app.com/7a0638c0-93df-4b78-ba19-1c622e2d2106.jpg"
       },
       {
-        "FileName": "601f04fd-b548-42e0-9e89-9855570b70ca.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2055108915",
-        "URL": "http://images.launchbox-app.com/601f04fd-b548-42e0-9e89-9855570b70ca.jpg"
-      },
-      {
         "FileName": "6ca6d71c-93be-49f0-9501-604700a4cd11.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "544557174",
         "URL": "http://images.launchbox-app.com/6ca6d71c-93be-49f0-9501-604700a4cd11.jpg"
+      },
+      {
+        "FileName": "601f04fd-b548-42e0-9e89-9855570b70ca.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2055108915",
+        "URL": "http://images.launchbox-app.com/601f04fd-b548-42e0-9e89-9855570b70ca.jpg"
       }
     ]
   }
