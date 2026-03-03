@@ -1,5 +1,62 @@
 [
   {
+    "tag_name": "f2ac39c",
+    "published_at": "2026-03-03T07:43:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/f2ac39c",
+    "changelog": {
+      "title": "[Build] Generate shaders on build instead of having them checked in",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f2ac39c/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f2ac39c/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "2eea146",
+    "published_at": "2026-03-03T05:48:43Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/2eea146",
+    "changelog": {
+      "title": "[GPU] Fix k_16_16 and k_16_16_16_16 EDRAM packing clamping (#898)",
+      "changes": "Replaces the UNorm packing functions with custom Edram functions to preserve the native [-32.0, 32.0] float range and scale mathematically instead of using saturate(). Fixes displaced water meshes in games like Mercenaries 2."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2eea146/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2eea146/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "b9b09fc",
+    "published_at": "2026-03-03T04:58:27Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b9b09fc",
+    "changelog": {
+      "title": "[GPU] Fix k_16_16 and k_16_16_16_16 EDRAM packing clamping (#898)",
+      "changes": "Replaces the UNorm packing functions with custom Edram functions to preserve the native [-32.0, 32.0] float range and scale mathematically instead of using saturate(). Fixes displaced water meshes in games like Mercenaries 2."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b9b09fc/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b9b09fc/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "48111e8",
     "published_at": "2026-03-01T08:02:14Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/48111e8",
