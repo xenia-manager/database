@@ -1,5 +1,62 @@
 [
   {
+    "tag_name": "a171069",
+    "published_at": "2026-03-04T12:22:23Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/a171069",
+    "changelog": {
+      "title": "[UI] Fix use-after-free in NoProfileDialog when closing",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/a171069/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/a171069/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "2de05ef",
+    "published_at": "2026-03-04T11:18:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/2de05ef",
+    "changelog": {
+      "title": "[3PP] Removed reference to premake modules",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2de05ef/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2de05ef/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "71c5702",
+    "published_at": "2026-03-04T08:58:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/71c5702",
+    "changelog": {
+      "title": "[Build] Convert build system to raw cmake and remove premake layer",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/71c5702/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/71c5702/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "f1bfb94",
     "published_at": "2026-03-04T05:10:42Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/f1bfb94",
