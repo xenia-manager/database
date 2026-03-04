@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "f1bfb94",
+    "published_at": "2026-03-04T05:10:42Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/f1bfb94",
+    "changelog": {
+      "title": "[Build] Remove /all_resources_bound from FXC shader compilation flags (#901)",
+      "changes": "The /all_resources_bound flag alters the generated DXBC bytecode by changing dcl_globalFlags, register allocation and instruction scheduling. This causes rendering artifacts (blue lightning/flash glitches) at scaled draw resolutions. The other FXC flags (/O3, /Qstrip_*, /Gfp) are retained as they do not affect the executable shader bytecode."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f1bfb94/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f1bfb94/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "4757ab0",
+    "published_at": "2026-03-04T04:47:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4757ab0",
+    "changelog": {
+      "title": "[APU] Fix ffmpeg upgrade related logspam",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4757ab0/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4757ab0/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "d6ed83f",
     "published_at": "2026-03-04T01:35:50Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/d6ed83f",
