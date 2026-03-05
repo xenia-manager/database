@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "086decf",
+    "published_at": "2026-03-05T07:40:02Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/086decf",
+    "changelog": {
+      "title": "[Build] Enable test discovery in VS Test Explorer",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/086decf/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/086decf/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "16d2cc0",
+    "published_at": "2026-03-05T06:33:46Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/16d2cc0",
+    "changelog": {
+      "title": "[GPU] Use UNorm not signed EDRAM encoding in k_16_16 resolve packing.",
+      "changes": "The original commit (2eea146b) correctly added kXenosFormat_16_16_EDRAM\ncase labels and fixed the unpack clamp from -1.0 to -32.0, but\nincorrectly changed the resolve pack functions from UNorm to signed EDRAM\nencoding. The resolve destination is a regular texture sampled as UNorm\n[0,1], not EDRAM. Using EDRAM packing double-encodes the [-32,32]\nscaling, crushing all values by ~64x and caused visual issues\nparticularly in UE3 titles.\n\nThe bytecode submitted with the change was actually correct, but the\nsource had additional incorrect pieces that only manifested when shaders\nwere rebuilt."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/16d2cc0/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/16d2cc0/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "a171069",
     "published_at": "2026-03-04T12:22:23Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/a171069",
