@@ -1,5 +1,62 @@
 [
   {
+    "tag_name": "2912da0",
+    "published_at": "2026-03-06T14:24:03Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/2912da0",
+    "changelog": {
+      "title": "[D3D12] Fix gamma_unorm16 render target transfer shaders",
+      "changes": "Gamma stored as R16G16B16A16_UNORM is 64bpp in host memory but\nrepresents a single 32bpp pixel, unlike true 64bpp formats which pack\ntwo 32bpp pixels together. Separate dest_is_gamma_unorm16 from\ndest_is_64bpp to avoid incorrect coordinate transforms.\n\nAdd output paths for gamma_unorm16 destinations:\n- gamma\u2192gamma: direct passthrough (already linear in R16G16B16A16)\n- k_8_8_8_8\u2192gamma: convert gamma-encoded source to linear\n- Cross-format packed EDRAM: midpoint encoding to survive UNORM16\n  quantization round-trip through PreSaturatedLinearToPWLGamma\n\nFixes red bleeding in Halo Reach, image halving in Just Cause 2,\nPortal not rendering, and black rock/plant textures in Halo Reach."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2912da0/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/2912da0/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "8fc42eb",
+    "published_at": "2026-03-06T11:43:36Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/8fc42eb",
+    "changelog": {
+      "title": "[D3D12] Fix gamma_unorm16 render target transfer shaders",
+      "changes": "Gamma stored as R16G16B16A16_UNORM is 64bpp in host memory but\nrepresents a single 32bpp pixel, unlike true 64bpp formats which pack\ntwo 32bpp pixels together. Separate dest_is_gamma_unorm16 from\ndest_is_64bpp to avoid incorrect coordinate transforms.\n\nAdd output paths for gamma_unorm16 destinations:\n- gamma\u2192gamma: direct passthrough (already linear in R16G16B16A16)\n- k_8_8_8_8\u2192gamma: convert gamma-encoded source to linear\n- Cross-format packed EDRAM: midpoint encoding to survive UNORM16\n  quantization round-trip through PreSaturatedLinearToPWLGamma\n\nFixes red bleeding in Halo Reach, image halving in Just Cause 2,\nPortal not rendering, and black rock/plant textures in Halo Reach."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/8fc42eb/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/8fc42eb/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "b1fb926",
+    "published_at": "2026-03-06T09:47:48Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b1fb926",
+    "changelog": {
+      "title": "[D3D12] Fix gamma_unorm16 render target transfer shaders",
+      "changes": "Gamma stored as R16G16B16A16_UNORM is 64bpp in host memory but\nrepresents a single 32bpp pixel, unlike true 64bpp formats which pack\ntwo 32bpp pixels together. Separate dest_is_gamma_unorm16 from\ndest_is_64bpp to avoid incorrect coordinate transforms.\n\nAdd output paths for gamma_unorm16 destinations:\n- gamma\u2192gamma: direct passthrough (already linear in R16G16B16A16)\n- k_8_8_8_8\u2192gamma: convert gamma-encoded source to linear\n- Cross-format packed EDRAM: midpoint encoding to survive UNORM16\n  quantization round-trip through PreSaturatedLinearToPWLGamma\n\nFixes red bleeding in Halo Reach, image halving in Just Cause 2,\nPortal not rendering, and black rock/plant textures in Halo Reach."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b1fb926/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b1fb926/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "086decf",
     "published_at": "2026-03-05T07:40:02Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/086decf",
