@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "10cecae",
+    "published_at": "2026-03-07T04:02:44Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/10cecae",
+    "changelog": {
+      "title": "[XMA] Fixed min output space gating to match Consume() write granularity",
+      "changes": "The decoder gate required a full frame of free blocks (4 mono / 8 stereo +\npadding) before allowing a decode pass, but Consume() only writes\nsubframe_decode_count blocks per call. Games like TGM Ace with\nsubframe_decode_count=2 on a small ring buffer could never meet the old\nthreshold, causing a permanent decoder stall."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/10cecae/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/10cecae/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "e8263d3",
+    "published_at": "2026-03-07T02:58:38Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/e8263d3",
+    "changelog": {
+      "title": "[XboxKrnl/Audio] Corrected XMASetLoopData's pointer type.",
+      "changes": "Fixed an issue where bgm was not looping for games that uses looping feature."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/e8263d3/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/e8263d3/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "4b0007b",
     "published_at": "2026-03-06T20:08:55Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4b0007b",
