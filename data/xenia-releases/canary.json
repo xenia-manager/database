@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "b5a7767",
+    "published_at": "2026-03-07T23:00:22Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b5a7767",
+    "changelog": {
+      "title": "[XAM] Added some missing user settings.",
+      "changes": "Names put according to findings in: 54510896"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b5a7767/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b5a7767/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "9e5fc57",
+    "published_at": "2026-03-07T19:47:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/9e5fc57",
+    "changelog": {
+      "title": "[Cmake] Added directory tree to VS solution.",
+      "changes": "This recreates structure from premake almost 1:1"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9e5fc57/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9e5fc57/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "a26bbaa",
     "published_at": "2026-03-07T11:28:30Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/a26bbaa",
