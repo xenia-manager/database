@@ -1,5 +1,62 @@
 [
   {
+    "tag_name": "77535b7",
+    "published_at": "2026-03-08T15:51:38Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/77535b7",
+    "changelog": {
+      "title": "[Base] Replace CRITICAL_SECTION with SRWLOCK based mutexes",
+      "changes": "xe_fast_mutex now also asserts on recursive lock attempts"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/77535b7/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/77535b7/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "de63bb1",
+    "published_at": "2026-03-08T15:39:03Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/de63bb1",
+    "changelog": {
+      "title": "[Base] Use function-local static for global_mutex",
+      "changes": "File-scope static initialization order is undefined across translation\nunits. Code that acquires the global critical region during early startup\ncould run before the mutex constructor, operating on uninitialized state.\nA function-local static is constructed on first use, guaranteeing the\nmutex is initialized before any caller can access it."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/de63bb1/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/de63bb1/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "eb914ae",
+    "published_at": "2026-03-08T15:28:07Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/eb914ae",
+    "changelog": {
+      "title": "[Kernel] Return null on handle type mismatch instead of asserting",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/eb914ae/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/eb914ae/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "b5a7767",
     "published_at": "2026-03-07T23:00:22Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b5a7767",
