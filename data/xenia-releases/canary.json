@@ -1,5 +1,62 @@
 [
   {
+    "tag_name": "50ef5c2",
+    "published_at": "2026-03-09T07:36:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/50ef5c2",
+    "changelog": {
+      "title": "[Kernel] Fix data race on XFile position",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/50ef5c2/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/50ef5c2/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "74ab733",
+    "published_at": "2026-03-09T05:40:42Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/74ab733",
+    "changelog": {
+      "title": "[CPU/Thread] setup r[2] constant value, only used by HV afaik",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/74ab733/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/74ab733/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "37fabb9",
+    "published_at": "2026-03-09T04:05:09Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/37fabb9",
+    "changelog": {
+      "title": "[GPU] Ensure vsync works correctly on Linux.",
+      "changes": "Linux scheduler quantum is 4-10ms so requesting 15ms sleep ends\nup sleeping 16-19ms and overshoots our target causing games to run\nat 57fps"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/37fabb9/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/37fabb9/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "4537a52",
     "published_at": "2026-03-09T01:11:50Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4537a52",
