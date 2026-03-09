@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "64e51c5",
+    "published_at": "2026-03-09T16:12:27Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/64e51c5",
+    "changelog": {
+      "title": "[GPU] Add vulkan shader disk storage / startup loading",
+      "changes": "Big refactor of the shader storage to allow both backends to share code"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/64e51c5/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/64e51c5/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "19c5401",
+    "published_at": "2026-03-09T12:59:44Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/19c5401",
+    "changelog": {
+      "title": "[GPU] Revert SPIR-V version back to 1.0 for internal shaders",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/19c5401/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/19c5401/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "50ef5c2",
     "published_at": "2026-03-09T07:36:45Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/50ef5c2",
