@@ -1,5 +1,62 @@
 [
   {
+    "tag_name": "4537a52",
+    "published_at": "2026-03-09T01:11:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4537a52",
+    "changelog": {
+      "title": "Simplify vsync handling and ensure it works correctly on Linux.",
+      "changes": "Linux scheduler quantum is 4-10ms so requesting 15ms sleep ends\nup sleeping 16-19ms and overshoots our target causing games to run\nat 57fps\n\nThe new behavior essentially makes it behave as if vsync isn't set\nand fps limit is 60 (as advertized)."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4537a52/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/4537a52/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "02fccd9",
+    "published_at": "2026-03-09T00:20:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/02fccd9",
+    "changelog": {
+      "title": "[Kernel/XMP] Add title-specific file I/O hooks for XMP volume sync",
+      "changes": "Some games persist BGM volume through their own save files but never\ncall XMPSetVolume. Add a TitlePatch system that intercepts NtReadFile/\nNtWriteFile to apply game-specific logic as well as logic to identify\nthe memory location that the volume data is read into and monitor that\nmemory location for changes, updating XMP player volume if it changes\nduring gameplay.\n\nIncludes patches for known games with this issue:\nDead or Alive Xtreme 2 (544307D2), PGR4 (4D5307F9) and PGR3 (4D5307D1)"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/02fccd9/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/02fccd9/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "54400cb",
+    "published_at": "2026-03-08T21:23:36Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/54400cb",
+    "changelog": {
+      "title": "[Build] Integration with CLion",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/54400cb/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/54400cb/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "77535b7",
     "published_at": "2026-03-08T15:51:38Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/77535b7",
