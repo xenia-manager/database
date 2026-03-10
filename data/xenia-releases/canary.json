@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "c4bd0c3",
+    "published_at": "2026-03-10T08:12:42Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/c4bd0c3",
+    "changelog": {
+      "title": "[Testing] Inclrease timer test timeout and update default test targets",
+      "changes": "The threading test is verifying that the timer fires, not that it fires\nwithin a specific timeout, so increasing to 100 to keep it from failing\nrandomly. Also removing xenia-cpu-ppc-tests from list of default targets\nas they take forever to run, they can still be run run using xb test\nwith --target xenia-cpu-ppc-tests explicitly."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/c4bd0c3/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/c4bd0c3/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "d1ad597",
     "published_at": "2026-03-09T21:12:10Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/d1ad597",
