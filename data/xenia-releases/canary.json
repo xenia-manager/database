@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "b24ea8e",
+    "published_at": "2026-03-10T15:37:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b24ea8e",
+    "changelog": {
+      "title": "[CPU/XThread] Add DWARF .eh_frame unwind info for JIT code on Linux",
+      "changes": "Generate per-function CIE+FDE records and register them via\n__register_frame so the C++ exception unwinder can propagate through\nJIT frames. Replace setjmp/longjmp fiber reentry with throw/catch\non Linux to ensure destructors and RAII guards run during fiber\nstack switches."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b24ea8e/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b24ea8e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "c4bd0c3",
     "published_at": "2026-03-10T08:12:42Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/c4bd0c3",
