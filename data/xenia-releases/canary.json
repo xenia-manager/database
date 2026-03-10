@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "d1ad597",
+    "published_at": "2026-03-09T21:12:10Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/d1ad597",
+    "changelog": {
+      "title": "[GPU] Vulkan: Fixed FSI render target path",
+      "changes": "AlphaToMask was causing crashes on linux due to missing SelectionMerge"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/d1ad597/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/d1ad597/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "ce94f7f",
+    "published_at": "2026-03-09T19:00:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/ce94f7f",
+    "changelog": {
+      "title": "[Base] Win-Style assertion on linux. No more forced termination while debugging",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/ce94f7f/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/ce94f7f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "64e51c5",
     "published_at": "2026-03-09T16:12:27Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/64e51c5",
