@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "3b8debc",
+    "published_at": "2026-03-12T07:03:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/3b8debc",
+    "changelog": {
+      "title": "[Memory] Fix watch race condition causing crashes on Linux",
+      "changes": "When two threads fault on the same watched page, the second thread may\nfind the watch already cleared by the first. TriggerCallbacks returned\nfalse in this case, leaving the SIGSEGV unhandled. Return true instead\nso the instruction retries \u2014 the page is already unprotected.\n\nThis is the signal-safe equivalent of the QueryProtect check that\nhandles the same race on Windows. Fixes a regression from dbd58b."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3b8debc/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3b8debc/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "5f62db9",
     "published_at": "2026-03-11T19:15:48Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/5f62db9",
