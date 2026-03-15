@@ -1,5 +1,81 @@
 [
   {
+    "tag_name": "dfd450f",
+    "published_at": "2026-03-14T23:29:38Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/dfd450f",
+    "changelog": {
+      "title": "[UI] Slightly improved performance of on screen notifications and achievements",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/dfd450f/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/dfd450f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "3f74dfe",
+    "published_at": "2026-03-14T23:08:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/3f74dfe",
+    "changelog": {
+      "title": "[XAM] Improved gamertag validation",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3f74dfe/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3f74dfe/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "8ccf01d",
+    "published_at": "2026-03-14T22:45:10Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/8ccf01d",
+    "changelog": {
+      "title": "[UI] Update gamertag input field only on change",
+      "changes": "No need to validate gamertag every frame"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/8ccf01d/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/8ccf01d/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "d37c22a",
+    "published_at": "2026-03-14T22:19:05Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/d37c22a",
+    "changelog": {
+      "title": "[HID] Redesigned support for Portals",
+      "changes": "- Added hotplug support on Windows\n- Added support for XamInputNonControllerGetRawEx & XamInputNonControllerSetRawEx"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/d37c22a/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/d37c22a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "3b8debc",
     "published_at": "2026-03-12T07:03:51Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/3b8debc",
