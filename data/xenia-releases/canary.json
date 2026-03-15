@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "9666ce1",
+    "published_at": "2026-03-15T11:47:11Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/9666ce1",
+    "changelog": {
+      "title": "[Build] Remove stale xenia-hid-skylander references from CMakeLists",
+      "changes": "d37c22aa replaced skylander with the new portal HID library but\nmissed updating three CMakeLists.txt files. No replacement needed\nsince xenia-hid already links xenia-hid-portal transitively."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9666ce1/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9666ce1/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "fdd583e",
+    "published_at": "2026-03-15T09:02:26Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/fdd583e",
+    "changelog": {
+      "title": "[GPU/WGF] Fix resolve_fast_32bpp_4xmsaa sample addressing",
+      "changes": "For 4xMSAA 32bpp, samples 2/3 add a +4 byte horizontal offset to the\nEDRAM address. The old typed buffer code (Buffer<uint4>) implicitly\ntruncated this offset via integer division (>> 2), and the .yw swizzle\ncompensated by selecting odd elements within the aligned uint4 load.\n\nAfter the ByteAddressBuffer conversion, Load4 uses the exact byte\naddress including the +4 offset, shifting the load window by one dword.\nThe .yw swizzle then picks samples from the wrong pixels, causing\nvisual artifacts like vertical streaks in Resident Evil 5.\n\nFix by aligning the load address down to 16 bytes and selecting the\nswizzle based on whether the address was offset."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/fdd583e/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/fdd583e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "7f189f2",
     "published_at": "2026-03-15T07:54:59Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/7f189f2",
