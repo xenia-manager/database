@@ -8,6 +8,15 @@
   "Publisher": "Banpresto",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_505b6987-4bce-42d9-8e0e-93189db166f6.png",
+          "Type": "Box - 3D",
+          "Region": "Japan",
+          "CRC32": "893380620",
+          "URL": "http://images.launchbox-app.com/r2_505b6987-4bce-42d9-8e0e-93189db166f6.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "16a8081b-72c8-4d00-82cb-38322b3fe903.jpg",
@@ -25,7 +34,34 @@
           "CRC32": "4091552082",
           "URL": "http://images.launchbox-app.com/3f8f449c-624c-4225-8c45-1b3e0c60802c.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_dcffbce1-b15b-40cf-88fd-c75b1b2246f4.png",
+          "Type": "Box - Spine",
+          "Region": "Japan",
+          "CRC32": "3288609255",
+          "URL": "http://images.launchbox-app.com/r2_dcffbce1-b15b-40cf-88fd-c75b1b2246f4.png"
+        }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_9372bb05-4c20-45be-9dea-088c926f3559.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "563154908",
+        "URL": "http://images.launchbox-app.com/r2_9372bb05-4c20-45be-9dea-088c926f3559.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_b05fa1a9-0afd-4f33-8162-7c7e1eb7b587.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "1706354646",
+        "URL": "http://images.launchbox-app.com/r2_b05fa1a9-0afd-4f33-8162-7c7e1eb7b587.png"
+      }
+    ]
   }
 }
