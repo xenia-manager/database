@@ -1,5 +1,43 @@
 [
   {
+    "tag_name": "61639c8",
+    "published_at": "2026-03-16T00:46:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/61639c8",
+    "changelog": {
+      "title": "[Threading/Posix] Fix issue with nested suspend",
+      "changes": "When SuspendThread is called on an already-suspended thread, it would send\nanother pthread_kill signal, which would nest signal handlers and create\nmultiple outstanding sem_wait calls while Resume only posts once when count\nreaches 0. Instead we increment suspend count and skip redundant signal."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/61639c8/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/61639c8/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "5e636ac",
+    "published_at": "2026-03-15T18:14:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/5e636ac",
+    "changelog": {
+      "title": "[x64] Implement missing byte-swap store/load paths",
+      "changes": "Fill in all unimplemented LOAD_STORE_BYTE_SWAP code paths in the x64\nbackend that previously hit assert_false or assert_always and add\ntests"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/5e636ac/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/5e636ac/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "9666ce1",
     "published_at": "2026-03-15T11:47:11Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/9666ce1",
