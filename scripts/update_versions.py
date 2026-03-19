@@ -84,7 +84,7 @@ def fetch_all_releases(repo, per_page=100):
 
 
 def fetch_latest_canary():
-    repo = "xenia-canary/xenia-canary-releases"
+    repo = "xenia-canary/xenia-canary"
     debug(f"Fetching latest release for {repo}")
     try:
         latest = gh_get(f"{GITHUB_API}/{repo}/releases/latest")
