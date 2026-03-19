@@ -35,6 +35,40 @@ def fetch_latest_tag_string(repo_url):
         return {"tag_name": None, "date": None}
 
 
+def fetch_xenia_manager_data():
+    stable_tag = fetch_latest_tag_string(
+        f"{GITHUB_API}/xenia-manager/xenia-manager/releases/latest"
+    )
+    experimental_tag = fetch_latest_tag_string(
+        f"{GITHUB_API}/xenia-manager/experimental-builds/releases/latest"
+    )
+
+    def get_download_url(repo):
+        try:
+            data = gh_get(f"{GITHUB_API}/{repo}/releases/latest")
+            assets = [a for a in data.get("assets", [])]
+            return assets[0].get("browser_download_url") if assets else None
+        except Exception as e:
+            debug(f"Error fetching download URL for {repo}: {e}")
+            return None
+
+    return {
+        # Old format for backwards compatibility
+        "stable": stable_tag,
+        "experimental": experimental_tag,
+        # New format with tag_name and url
+        "xenia_manager": {
+            "stable": {
+                "tag_name": stable_tag,
+                "url": get_download_url("xenia-manager/xenia-manager"),
+            },
+            "experimental": {
+                "tag_name": experimental_tag,
+                "url": get_download_url("xenia-manager/experimental-builds"),
+            },
+        },
+    }
+
 # ----- Canary (sort releases explicitly) -----
 def fetch_all_releases(repo, per_page=100):
     releases = []
@@ -150,12 +184,7 @@ def fetch_mousehook_versions():
 debug("=== Starting version fetch process ===")
 
 fetched_data = {
-    "stable": fetch_latest_tag_string(
-        f"{GITHUB_API}/xenia-manager/xenia-manager/releases/latest"
-    ),
-    "experimental": fetch_latest_tag_string(
-        f"{GITHUB_API}/xenia-manager/experimental-builds/releases/latest"
-    ),
+    **fetch_xenia_manager_data(),
     "xenia": {
         "canary": fetch_latest_canary(),
         "netplay": {
