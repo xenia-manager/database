@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "c50b036",
+    "published_at": "2026-03-19T07:09:20Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/c50b036",
+    "changelog": {
+      "title": "[Build] Fix `discord-rpc` multi-arch builds",
+      "changes": "RapidJson needs to be configured to use NEON rather than SSE4.2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/c50b036/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/c50b036/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "c651641",
     "published_at": "2026-03-18T21:43:41Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/c651641",
