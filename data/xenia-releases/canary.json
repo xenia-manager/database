@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "9a06a19",
+    "published_at": "2026-03-21T15:11:57Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/9a06a19",
+    "changelog": {
+      "title": "[Testing] Parallel execution for ppc tests on posix",
+      "changes": "On posix run tests in parallel using a thread pool with fork-per-test\nisolation (ported from edge).\nOn all platforms add progress output showing suite name and test count,\nas well as elapsed time in the summary."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9a06a19/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9a06a19/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "bc37068",
     "published_at": "2026-03-21T06:37:46Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/bc37068",
