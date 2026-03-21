@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "bc37068",
+    "published_at": "2026-03-21T06:37:46Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/bc37068",
+    "changelog": {
+      "title": "[x64] Fix AVX-512 VECTOR_DENORMFLUSH merge-masking & FpRangeSign values",
+      "changes": "Copy src1 into dest before the masked vrangeps so that unmasked lanes\n(normal/inf/NaN values) are preserved via merge-masking. Previously,\nwhen the register allocator assigned different physical registers for\ndest and src1, unmasked lanes would retain stale values from dest.\n\nTested with Intel SDE and AVX-512 cpu to verify.\n\nAlso shift unused FpRangeSign constants into bits [3:2] of the vrangeps\nimmediate, matching the Intel encoding. Only one used in the code was 0\nso it was already correct by accident but using the others in the future\nwould produce incorrect results."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/bc37068/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/bc37068/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "50ccad7",
     "published_at": "2026-03-20T21:43:32Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/50ccad7",
