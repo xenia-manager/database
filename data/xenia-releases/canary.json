@@ -1,5 +1,96 @@
 [
   {
+    "tag_name": "50ccad7",
+    "published_at": "2026-03-20T21:43:32Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/50ccad7",
+    "changelog": {
+      "title": "[Testing] Add 'VECTOR_DENORMFLUSH_F32' unit test",
+      "changes": "Unit tests the `OPCODE_VECTOR_DENORMFLUSH` implementation in isolation."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/50ccad7/xenia_canary_linux.tar.xz"
+      }
+    ]
+  },
+  {
+    "tag_name": "b1983ba",
+    "published_at": "2026-03-20T20:55:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/b1983ba",
+    "changelog": {
+      "title": "[x64] Add `GFNI` optimization for single-byte vector splats",
+      "changes": "Use the `vgf2p8affineqb` instruction to splat byte-values across a whole\nregister without having to touch memory."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b1983ba/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/b1983ba/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "28c224e",
+    "published_at": "2026-03-20T20:14:55Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/28c224e",
+    "changelog": {
+      "title": "[x64] Add `GFNI` optimization for single-byte vector splats",
+      "changes": "Use the `vgf2p8affineqb` instruction to splat byte-values across a whole\nregister without having to touch memory."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/28c224e/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/28c224e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "207ea02",
+    "published_at": "2026-03-20T17:41:09Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/207ea02",
+    "changelog": {
+      "title": "[3PP/Build/ARM64] Add missing asm/alignment macros to FFmpeg",
+      "changes": ""
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/207ea02/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/207ea02/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "acb2156",
+    "published_at": "2026-03-20T16:59:44Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/acb2156",
+    "changelog": {
+      "title": "[Memory] Handle host page sizes larger than 4KB in heap operations",
+      "changes": "Adds support for systems with host pages > 4KB (some Linux distros,\nMacOS) where guest 4KB page operations can't map 1:1 to host mprotect calls.\nNo-op on windows and posix systems with 4KB page size.\n\nCo-authored-by: Will Martin <wmarti@bu.edu>"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/acb2156/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/acb2156/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "c50b036",
     "published_at": "2026-03-19T07:09:20Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/c50b036",
