@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "883c203",
+    "published_at": "2026-03-22T07:43:16Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/883c203",
+    "changelog": {
+      "title": "[ARM64] Initial commit for arm64 backend",
+      "changes": "Based entirely off existing xbyak x86 implementation and available\ntests. Still needs a lot of optimization and testing on non-Windows\nplatforms.\n\nSo far passes all tests and boots at least some games on Windows."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/883c203/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/883c203/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "022a29f",
     "published_at": "2026-03-21T21:32:17Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/022a29f",
