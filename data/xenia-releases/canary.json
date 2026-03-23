@@ -1,5 +1,81 @@
 [
   {
+    "tag_name": "a88cd5d",
+    "published_at": "2026-03-23T08:09:40Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/a88cd5d",
+    "changelog": {
+      "title": "[a64] Fix MSVC-ARM64 `MemoryBarrier` preprocessor conflict (#927)",
+      "changes": "Fixes a build error on MSVC when building for ARM."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/a88cd5d/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/a88cd5d/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "f2a90ce",
+    "published_at": "2026-03-23T07:30:21Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/f2a90ce",
+    "changelog": {
+      "title": "[a64] Optimize `mov+dup` idioms into `movi` (#928)",
+      "changes": "Rather than using a `mov` and vector-`dup` for vector-splats, just use the `movi` instruction where applicable(8-bit element-splats).\nEventually we might want to detect opportunities to use `FMOV` and the 64-bit form of `MOVI` over in `LoadV128Const`."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f2a90ce/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/f2a90ce/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "be64fb1",
+    "published_at": "2026-03-23T05:02:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/be64fb1",
+    "changelog": {
+      "title": "[CPU/A64] Add PPC FP state handling",
+      "changes": "Track PPC scalar FP state in the backend context and restore it at\nhost/guest boundaries so translated FP code has a stable rounding mode.\n\nConvert remaining VMX sequences to scoped EmitWithVmxFpcr. Remove\nunnecessary ChangeFpcrMode from sequences that only call native helpers.\n\nCo-Authored-By: Reality <reality@xenios.jp>"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/be64fb1/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/be64fb1/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "3747f5e",
+    "published_at": "2026-03-23T04:41:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/3747f5e",
+    "changelog": {
+      "title": "[x64] Restore FP rounding mode after host callbacks",
+      "changes": "Add MXCSR restore to the x64 GuestToHostThunk so host callbacks can't\nleak their rounding state into subsequent guest FP operations."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3747f5e/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/3747f5e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "ecd7501",
     "published_at": "2026-03-23T02:03:16Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/ecd7501",
