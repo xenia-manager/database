@@ -89,13 +89,18 @@ def fetch_latest_canary(old_version=None):
         # Find the latest release that doesn't contain "experimental" in tag name
         for rel in releases:
             tag = rel.get("tag_name", "").lower()
-            if "experimental" in tag:
+            # Skip if tag is exactly "experimental" (no SHA prefix)
+            if tag == "experimental":
                 continue
             assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
             if assets:
                 asset = assets[0]
+                # Get target_commitish (full commit SHA) from the release
+                target_commitish = rel.get("target_commitish", "")
+                # Use target_commitish (short 7 chars) as tag_name, fall back to tag if missing
+                tag_name = target_commitish[:7] if target_commitish else (rel.get("tag_name")[:7] if rel.get("tag_name") else None)
                 return {
-                    "tag_name": rel.get("tag_name"),
+                    "tag_name": tag_name,
                     "date": rel.get("published_at") or rel.get("created_at"),
                     "url": asset.get("browser_download_url"),
                 }
@@ -112,7 +117,7 @@ def fetch_netplay_stable():
     rel = gh_get(f"{GITHUB_API}/AdrianCassar/xenia-canary/releases/latest")
     assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
     return {
-        "tag_name": rel.get("tag_name"),
+        "tag_name": rel.get("tag_name")[:7] if rel.get("tag_name") else None,
         "date": rel.get("published_at") or rel.get("created_at"),
         "url": assets[0].get("browser_download_url") if assets else None,
     }

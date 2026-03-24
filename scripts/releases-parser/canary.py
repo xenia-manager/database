@@ -92,7 +92,8 @@ def process_releases(raw_releases, repo: str):
     results = []
     for rel in raw_releases:
         tag = rel.get("tag_name", "")
-        if "canary_experimental" in tag.lower() or tag.lower() == "experimental":
+        # Skip tags that are ONLY "experimental" but keep ones with commit SHA (e.g., 8911a3b_experimental)
+        if tag.lower() == "experimental" or tag.lower() == "canary_experimental":
             debug(f"Skipping experimental release: {tag}")
             continue
         assets = [
@@ -113,16 +114,32 @@ def process_releases(raw_releases, repo: str):
             commit_info = fetch_commit_details(repo, tag)
             title, changes = commit_info["title"], commit_info["changes"]
 
+        # Use target_commitish (short 7 chars) as tag_name, fall back to tag if missing
+        target_commitish = rel.get("target_commitish", "")
+        tag_name = (
+            target_commitish[:7] if target_commitish else (tag[:7] if tag else None)
+        )
+
         results.append(
             {
-                "tag_name": tag,
+                "tag_name": tag_name,
+                "target_commitish": target_commitish if target_commitish else None,
                 "published_at": rel.get("published_at"),
                 "url": rel.get("html_url"),
+                "commit_url": (
+                    f"https://github.com/xenia-canary/xenia-canary/commit/{target_commitish}"
+                    if target_commitish
+                    else (
+                        f"https://github.com/xenia-canary/xenia-canary/commit/{tag}"
+                        if tag
+                        else None
+                    )
+                ),
                 "changelog": {"title": title, "changes": changes},
                 "assets": assets,
             }
         )
-        debug(f"Prepared release {tag} with {len(assets)} assets")
+        debug(f"Prepared release {tag_name} with {len(assets)} assets")
     return results
 
 
@@ -145,7 +162,12 @@ else:
 
     existing_dict = {r["tag_name"]: r for r in existing}
     # Filter out experimental tags from existing_tags to avoid stopping early
-    existing_tags = {tag for tag in existing_dict.keys() if "experimental" not in tag.lower()}
+    # Skip only exact "experimental" and "canary_experimental" tags, keep SHA+experimental (e.g., 8911a3b_experimental)
+    existing_tags = {
+        tag
+        for tag in existing_dict.keys()
+        if tag.lower() != "experimental" and "canary_experimental" not in tag.lower()
+    }
 
     raw_releases = fetch_releases("xenia-canary/xenia-canary", existing_tags)
     processed_releases = process_releases(raw_releases, "xenia-canary/xenia-canary")
