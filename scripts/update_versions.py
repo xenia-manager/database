@@ -70,60 +70,46 @@ def fetch_xenia_manager_data():
     }
 
 # ----- Canary (sort releases explicitly) -----
-def fetch_all_releases(repo, per_page=100):
-    releases = []
-    page = 1
-    while True:
-        url = f"{GITHUB_API}/{repo}/releases?per_page={per_page}&page={page}"
-        batch = gh_get(url)
-        if not batch:
-            break
-        releases.extend(batch)
-        page += 1
-    return releases
-
-
-def fetch_latest_canary():
-    repo = "xenia-canary/xenia-canary-releases"
+def fetch_latest_canary(old_version=None):
+    repo = "xenia-canary/xenia-canary"
     debug(f"Fetching latest release for {repo}")
+
+    # Fetch only the first page of releases
     try:
-        latest = gh_get(f"{GITHUB_API}/{repo}/releases/latest")
-        tag = latest.get("tag_name", "").lower()
-        if "canary_experimental" in tag:
-            raise Exception(
-                "Default experimental release tag, fallback to all releases"
-            )
-        assets = [a for a in latest.get("assets", []) if "windows" in a["name"].lower()]
-        if assets:
-            asset = assets[0]
-            return {
-                "tag_name": latest.get("tag_name"),
-                "date": latest.get("published_at") or latest.get("created_at"),
-                "url": asset.get("browser_download_url"),
-            }
+        releases = gh_get(f"{GITHUB_API}/{repo}/releases?per_page=100&page=1")
+        if not releases:
+            debug("No releases found, using old version")
+            return old_version
+
+        # Sort by release date (newest first)
+        releases.sort(
+            key=lambda r: r.get("published_at") or r.get("created_at") or "", reverse=True
+        )
+
+        # Find the latest release that doesn't contain "experimental" in tag name
+        for rel in releases:
+            tag = rel.get("tag_name", "").lower()
+            # Skip if tag is exactly "experimental" (no SHA prefix)
+            if tag == "experimental":
+                continue
+            assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
+            if assets:
+                asset = assets[0]
+                # Get target_commitish (full commit SHA) from the release
+                target_commitish = rel.get("target_commitish", "")
+                # Use target_commitish (short 7 chars) as tag_name, fall back to tag if missing
+                tag_name = target_commitish[:7] if target_commitish else (rel.get("tag_name")[:7] if rel.get("tag_name") else None)
+                return {
+                    "tag_name": tag_name,
+                    "date": rel.get("published_at") or rel.get("created_at"),
+                    "url": asset.get("browser_download_url"),
+                }
+
+        debug("No non-experimental release found, using old version")
+        return old_version
     except Exception as e:
-        debug(f"Error fetching latest release: {e}, falling back to all releases")
-
-    releases = fetch_all_releases(repo)
-    if not releases:
-        return {"tag_name": None, "url": None, "date": None}
-    releases.sort(
-        key=lambda r: r.get("published_at") or r.get("created_at") or "", reverse=True
-    )
-
-    for rel in releases:
-        tag = rel.get("tag_name", "").lower()
-        if "canary_experimental" in tag:
-            continue
-        assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
-        if assets:
-            asset = assets[0]
-            return {
-                "tag_name": rel.get("tag_name"),
-                "date": rel.get("published_at") or rel.get("created_at"),
-                "url": asset.get("browser_download_url"),
-            }
-    return {"tag_name": None, "url": None, "date": None}
+        debug(f"Error fetching releases: {e}, using old version")
+        return old_version
 
 
 # ----- Netplay stable -----
@@ -131,7 +117,7 @@ def fetch_netplay_stable():
     rel = gh_get(f"{GITHUB_API}/AdrianCassar/xenia-canary/releases/latest")
     assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
     return {
-        "tag_name": rel.get("tag_name"),
+        "tag_name": rel.get("tag_name")[:7] if rel.get("tag_name") else None,
         "date": rel.get("published_at") or rel.get("created_at"),
         "url": assets[0].get("browser_download_url") if assets else None,
     }
@@ -183,10 +169,21 @@ def fetch_mousehook_versions():
 # ----- MAIN -----
 debug("=== Starting version fetch process ===")
 
+# Load existing version.json to use as fallback
+old_data = {}
+if os.path.exists("data/version.json"):
+    try:
+        with open("data/version.json", "r", encoding="utf-8") as f:
+            old_data = json.load(f)
+    except Exception as e:
+        debug(f"Error loading old version.json: {e}")
+
+old_canary = old_data.get("xenia", {}).get("canary")
+
 fetched_data = {
     **fetch_xenia_manager_data(),
     "xenia": {
-        "canary": fetch_latest_canary(),
+        "canary": fetch_latest_canary(old_canary),
         "netplay": {
             "stable": fetch_netplay_stable(),
             "nightly": fetch_netplay_nightly(),
