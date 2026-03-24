@@ -1,5 +1,100 @@
 [
   {
+    "tag_name": "02d2cb5",
+    "published_at": "2026-03-24T06:36:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/02d2cb5",
+    "changelog": {
+      "title": "[A64] Add v8-v15 to allocatable VEC pool",
+      "changes": "Expands the vector register allocator from 20 to 28 registers by\nincluding v8-v15. The HostToGuestThunk now saves/restores full Q8-Q15\n(128-bit) instead of just D8-D15, and the GuestToHostThunk adds Q8-Q15\nto its save/restore set since AAPCS64 only preserves their lower 64\nbits across C calls.\n\nReduces register pressure for VMX-heavy guest code at the cost of\nslightly larger thunk stack frames."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/02d2cb5/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/02d2cb5/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "756ae7a",
+    "published_at": "2026-03-24T06:27:00Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/756ae7a",
+    "changelog": {
+      "title": "[A64] Dedicate x19 as backend context pointer",
+      "changes": "Reserves x19 to permanently hold the A64BackendContext pointer\n(x20 - sizeof(A64BackendContext)), set once in the HostToGuestThunk.\nSince x19 is AAPCS64 callee-saved, it survives all host calls for free.\n\nEliminates repeated 2-instruction mov+sub sequences in stackpoint\npush/pop, stack synchronization, FPCR management, and reserved\nload/store paths.\n\nReduces allocatable GPRs from 8 to 7 (like on x64)."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/756ae7a/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/756ae7a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "cfc1e4d",
+    "published_at": "2026-03-24T05:14:43Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/cfc1e4d",
+    "changelog": {
+      "title": "[a64] Optimize `EmitD3DCOLOR` constants",
+      "changes": "`3.0` works with `fmov`"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/cfc1e4d/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/cfc1e4d/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "39706a0",
+    "published_at": "2026-03-24T05:07:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/39706a0",
+    "changelog": {
+      "title": "[a64] Avoid `LoadV128Const` scratch-memory usage",
+      "changes": "Use the provided scratch register-index, defaults to W0/X0, and insert 64-bit elements directly into the vector-register rather than writing/reading to scratch memory."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/39706a0/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/39706a0/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "aff3999",
+    "published_at": "2026-03-24T04:46:57Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/aff3999",
+    "changelog": {
+      "title": "[a64] Fix debug break trap codes",
+      "changes": "The `BRK` instruction code needs to be specified correctly so that a debugger can handle it properly(and continue from it). `brk 0xF000` implements a debug-breakpoint that can be continued from, and `brk 0xF001` is implemented an assertion failing. Any other codes like `0` and `F1` will not be able to be continued from or handled correctly by debuggers.\n\nThese seem to be standard brk codes:\n```\nBreakpoint    0xF000\nAssert        0xF001\nDebug Service 0xF002\nFastfail      0xF003\nDivide by 0   0xF004\n```"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/aff3999/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/aff3999/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "4ed7fa3",
     "published_at": "2026-03-23T20:46:46Z",
     "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/4ed7fa3",
