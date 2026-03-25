@@ -1,6 +1,10 @@
 import json, urllib.request, os, sys
+from pathlib import Path
 
 GITHUB_API = "https://api.github.com/repos"
+
+# Base directory (project root)
+BASE_DIR = Path(__file__).parent.parent
 
 
 def debug(msg):
@@ -69,8 +73,54 @@ def fetch_xenia_manager_data():
         },
     }
 
-# ----- Canary (sort releases explicitly) -----
+# ----- Canary (read from canary.json) -----
 def fetch_latest_canary(old_version=None):
+    """Read the latest canary release from canary.json (already fetched by canary.py)."""
+    canary_path = BASE_DIR / "data" / "xenia-releases" / "canary.json"
+
+    # Try to load canary.json
+    if not os.path.exists(canary_path):
+        debug("canary.json not found, falling back to API fetch")
+        return _fetch_canary_from_api(old_version)
+
+    try:
+        with open(canary_path, "r", encoding="utf-8") as f:
+            releases = json.load(f)
+
+        if not releases:
+            debug("No releases in canary.json, using old version")
+            return old_version
+
+        # First release is the newest (already sorted by canary.py)
+        latest = releases[0]
+        tag_name = latest.get("tag_name")
+        target_commitish = latest.get("target_commitish", "")
+        published_at = latest.get("published_at")
+        assets = latest.get("assets", [])
+
+        # Find Windows asset
+        windows_asset = None
+        for asset in assets:
+            if "windows" in asset.get("name", "").lower():
+                windows_asset = asset
+                break
+
+        if not windows_asset:
+            debug("No Windows asset found in canary.json, using old version")
+            return old_version
+
+        return {
+            "tag_name": tag_name,
+            "date": published_at,
+            "url": windows_asset.get("url"),
+        }
+    except Exception as e:
+        debug(f"Error reading canary.json: {e}, falling back to API fetch")
+        return _fetch_canary_from_api(old_version)
+
+
+def _fetch_canary_from_api(old_version=None):
+    """Fallback: Fetch latest canary from GitHub API (old behavior)."""
     repo = "xenia-canary/xenia-canary"
     debug(f"Fetching latest release for {repo}")
 
@@ -83,7 +133,8 @@ def fetch_latest_canary(old_version=None):
 
         # Sort by release date (newest first)
         releases.sort(
-            key=lambda r: r.get("published_at") or r.get("created_at") or "", reverse=True
+            key=lambda r: r.get("published_at") or r.get("created_at") or "",
+            reverse=True,
         )
 
         # Find the latest release that doesn't contain "experimental" in tag name
@@ -92,13 +143,19 @@ def fetch_latest_canary(old_version=None):
             # Skip if tag is exactly "experimental" (no SHA prefix)
             if tag == "experimental":
                 continue
-            assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
+            assets = [
+                a for a in rel.get("assets", []) if "windows" in a["name"].lower()
+            ]
             if assets:
                 asset = assets[0]
                 # Get target_commitish (full commit SHA) from the release
                 target_commitish = rel.get("target_commitish", "")
                 # Use target_commitish (short 7 chars) as tag_name, fall back to tag if missing
-                tag_name = target_commitish[:7] if target_commitish else (rel.get("tag_name")[:7] if rel.get("tag_name") else None)
+                tag_name = (
+                    target_commitish[:7]
+                    if target_commitish
+                    else (rel.get("tag_name")[:7] if rel.get("tag_name") else None)
+                )
                 return {
                     "tag_name": tag_name,
                     "date": rel.get("published_at") or rel.get("created_at"),

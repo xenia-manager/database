@@ -1,10 +1,115 @@
 [
   {
+    "tag_name": "b6ad99e",
+    "target_commitish": "b6ad99ee21695955a78082fda748bd7aaaf1cf97",
+    "published_at": "2026-03-25T07:47:10Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b6ad99e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b6ad99ee21695955a78082fda748bd7aaaf1cf97",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [A64] Add thread-safe atomics to A64Function (`b6ad99e`)\n- [A64] Use shifted immediate for 0x1000 add in ComputeMemoryAddress (`0e05b92`)\n- [Testing] Add tests for AND_NOT, TRUNCATE, VECTOR_COMPARE_SGE/UGE (`d731a01`)\n- [A64] Fix epilog label memory leak in ARM64 emitter (`e54a053`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/dd3ffeb...b6ad99e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b6ad99e/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b6ad99e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "dd3ffeb",
+    "target_commitish": "dd3ffeb9cb11f8bd0135ee9261f08776b08fb0be",
+    "published_at": "2026-03-25T05:55:13Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/dd3ffeb",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/dd3ffeb9cb11f8bd0135ee9261f08776b08fb0be",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [a64] Implement `FEAT_LSE` optimizations (`dd3ffeb`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/bf83c4e...dd3ffeb"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dd3ffeb/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dd3ffeb/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "bf83c4e",
+    "target_commitish": "bf83c4e9f5b21cb525f1275dfa13d4a56e78c102",
+    "published_at": "2026-03-25T04:54:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/bf83c4e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/bf83c4e9f5b21cb525f1275dfa13d4a56e78c102",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [a64] Implement `OPCODE_CACHE_CONTROL` store (`bf83c4e`)\n- [a64] Implement raw clock with `CNTVCT_EL0` (`5b9c13b`)\n- [A64] Fix ARM64 DWARF/SEH unwind info and add registration test (`680aeaf`)\n- [A64] Inline all vector C helpers using NEON/GPR and add some tests (`6e557ab`)\n- [A64] Fix SET_NJM to update cached fpcr_vmx (`ef13662`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c4f4412...bf83c4e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/bf83c4e/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/bf83c4e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "c4f4412",
+    "target_commitish": "c4f4412df9c7f8ab0078fb613ce014179ea2c001",
+    "published_at": "2026-03-24T21:58:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c4f4412",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c4f4412df9c7f8ab0078fb613ce014179ea2c001",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [Xam/Info] - Implement GetSystemTimeAsFileTime & QueryPerformanceFrequency (`c4f4412`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7928966...c4f4412"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c4f4412/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c4f4412/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "canary_",
     "target_commitish": "canary_experimental",
     "published_at": "2026-03-24T21:14:49Z",
     "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7928966",
     "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/canary_experimental",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [CI] Trying to fix releases ordering (`7928966`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2fa6942...7928966"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7928966/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7928966/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "7928966",
+    "target_commitish": "7928966babf50b1467fde61a57219b9346ef07c3",
+    "published_at": "2026-03-24T21:14:49Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7928966",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7928966babf50b1467fde61a57219b9346ef07c3",
     "changelog": {
       "title": "### Changes",
       "changes": "- [CI] Trying to fix releases ordering (`7928966`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2fa6942...7928966"

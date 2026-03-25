@@ -1,6 +1,15 @@
-import json, urllib.request, os, sys
+import json
+import urllib.request
+import os
+import sys
+import re
+from pathlib import Path
 
 GITHUB_API = "https://api.github.com/repos"
+GITHUB_COMMIT_URL = "https://github.com/xenia-canary/xenia-canary/commit/"
+
+# Base directory (project root)
+BASE_DIR = Path(__file__).parent.parent.parent
 
 
 def debug(msg):
@@ -37,6 +46,73 @@ def split_changes(body: str):
     return {"title": title, "changes": changes}
 
 
+async def fetch_full_shas_batch_with_crawlee(short_shas: list[str]) -> dict[str, str]:
+    """Fetch multiple full commit SHAs from GitHub using Crawlee in batch."""
+    try:
+        from crawlee import ConcurrencySettings, Request
+        from crawlee.crawlers import BeautifulSoupCrawler, BeautifulSoupCrawlingContext
+
+        results = {}
+
+        crawler = BeautifulSoupCrawler(
+            max_requests_per_crawl=len(short_shas),
+            concurrency_settings=ConcurrencySettings(max_concurrency=10),
+        )
+
+        @crawler.router.default_handler
+        async def request_handler(context: BeautifulSoupCrawlingContext) -> None:
+            short_sha = context.request.user_data.get("short_sha")
+            soup = context.soup
+
+            # Method 1: Check og:url meta tag
+            og_url = soup.find("meta", property="og:url")
+            if og_url and og_url.get("content"):
+                match = re.search(r"commit/([a-f0-9]{40})", og_url.get("content"))
+                if match:
+                    results[short_sha] = match.group(1)
+                    debug(f"  ✓ {short_sha} -> {match.group(1)}")
+                    return
+
+            # Method 2: Check data-copied attribute
+            copied = soup.find(attrs={"data-copied": re.compile(r"^[a-f0-9]{40}$")})
+            if copied:
+                full_sha = copied.get("data-copied")
+                results[short_sha] = full_sha
+                debug(f"  ✓ {short_sha} -> {full_sha}")
+                return
+
+            # Method 3: Check code element with commit-sha class
+            code = soup.find("code", class_=re.compile(r"commit-sha"))
+            if code:
+                match = re.search(r"([a-f0-9]{40})", code.get_text())
+                if match:
+                    results[short_sha] = match.group(1)
+                    debug(f"  ✓ {short_sha} -> {match.group(1)}")
+                    return
+
+            debug(f"  ✗ Failed to extract SHA for {short_sha}")
+
+        requests = [
+            Request.from_url(
+                f"{GITHUB_COMMIT_URL}{short_sha}", user_data={"short_sha": short_sha}
+            )
+            for short_sha in short_shas
+        ]
+
+        await crawler.run(requests)
+        return results
+    except Exception as e:
+        debug(f"Failed to fetch full SHAs with Crawlee: {e}")
+        return {}
+
+
+def fetch_full_shas_batch(short_shas: list[str]) -> dict[str, str]:
+    """Fetch multiple full commit SHAs from GitHub commit pages."""
+    import asyncio
+
+    return asyncio.run(fetch_full_shas_batch_with_crawlee(short_shas))
+
+
 def fetch_commit_details(repo: str, tag: str):
     """Fetch commit from release tag and parse its message into title/body."""
     url = f"{GITHUB_API}/xenia-canary/xenia-canary/commits/{tag}"
@@ -53,48 +129,57 @@ def fetch_commit_details(repo: str, tag: str):
 
 
 def fetch_releases(repo: str, existing_tags=None):
-    """Fetch releases page by page. If existing_tags is provided, stop when reaching a known tag."""
-    releases = []
+    """Fetch all releases page by page first, then filter if existing_tags is provided."""
+    all_releases = []
     page = 1
     per_page = 100
+
+    # Phase 1: Fetch ALL releases from GitHub API first
     while True:
         url = f"{GITHUB_API}/{repo}/releases?per_page={per_page}&page={page}"
-        batch = gh_get(url)
+        try:
+            batch = gh_get(url)
+        except Exception as e:
+            debug(f"Error fetching page {page} for {repo}: {e}")
+            debug(f"Stopping fetch, assuming final page reached.")
+            break
         if not batch or len(batch) == 0:
-            debug(f"No more releases on page {page} for {repo}, stopping.")
+            debug(f"No more releases on {repo}, page {page}, stopping.")
             break
         debug(f"Fetched {len(batch)} releases from {repo}, page {page}")
-
-        # If we have existing tags, check if we've reached a known release
-        if existing_tags:
-            found_existing = False
-            for rel in batch:
-                if rel.get("tag_name") in existing_tags:
-                    debug(
-                        f"Found existing tag {rel.get('tag_name')} on page {page}, stopping."
-                    )
-                    found_existing = True
-                    break
-            # Add all new releases from this page (before the existing tag)
-            if found_existing:
-                for rel in batch:
-                    if rel.get("tag_name") not in existing_tags:
-                        releases.append(rel)
-                return releases
-            debug(f"No existing tags found on page {page}, continuing.")
-
-        releases.extend(batch)
+        all_releases.extend(batch)
         page += 1
-    return releases
+
+    debug(f"Total releases fetched from {repo}: {len(all_releases)}")
+
+    # Phase 2: Filter releases if existing_tags is provided
+    if existing_tags:
+        filtered_releases = []
+        for rel in all_releases:
+            if rel.get("tag_name") not in existing_tags:
+                filtered_releases.append(rel)
+            else:
+                # Stop when we hit an existing tag (releases are ordered by date)
+                debug(f"Found existing tag {rel.get('tag_name')}, stopping filter.")
+                break
+        debug(f"New releases after filtering: {len(filtered_releases)}")
+        return filtered_releases
+
+    return all_releases
 
 
 def process_releases(raw_releases, repo: str):
     results = []
+    # Collect entries that need full SHA fetching
+    entries_needing_sha = []
+
     for rel in raw_releases:
         tag = rel.get("tag_name", "")
-        # Skip tags that are ONLY "experimental" but keep ones with commit SHA (e.g., 8911a3b_experimental)
-        if tag.lower() == "experimental" or tag.lower() == "canary_experimental":
-            debug(f"Skipping experimental release: {tag}")
+        # Extract SHA from tag (first 7 characters if it's a valid hex SHA)
+        # Handles formats: "8911a3b", "8911a3b_canary_experimental", etc.
+        sha = tag[:7] if len(tag) >= 7 else tag
+        if len(sha) != 7 or not all(c in "0123456789abcdef" for c in sha.lower()):
+            debug(f"Skipping invalid release tag: {tag}")
             continue
         assets = [
             {"name": a["name"], "url": a["browser_download_url"]}
@@ -116,19 +201,45 @@ def process_releases(raw_releases, repo: str):
 
         # Use target_commitish (short 7 chars) as tag_name, fall back to tag if missing
         target_commitish = rel.get("target_commitish", "")
-        tag_name = (
-            target_commitish[:7] if target_commitish else (tag[:7] if tag else None)
-        )
+
+        # Validate target_commitish is a commit SHA, not a branch name
+        if target_commitish and (
+            len(target_commitish) < 7
+            or not all(c in "0123456789abcdef" for c in target_commitish[:7].lower())
+        ):
+            # target_commitish is invalid (e.g., "canary_experimental"), use tag instead
+            tag_name = tag[:7] if tag else None
+            # Store the tag's SHA for later full SHA fetching
+            short_sha = tag[:7] if tag else None
+            entries_needing_sha.append(
+                {
+                    "result_index": len(results),
+                    "short_sha": short_sha,
+                }
+            )
+        else:
+            tag_name = (
+                target_commitish[:7] if target_commitish else (tag[:7] if tag else None)
+            )
+            short_sha = target_commitish if target_commitish else tag
+            # Check if it's a short SHA (7 chars) that needs to be expanded
+            if len(short_sha) == 7:
+                entries_needing_sha.append(
+                    {
+                        "result_index": len(results),
+                        "short_sha": short_sha,
+                    }
+                )
 
         results.append(
             {
                 "tag_name": tag_name,
-                "target_commitish": target_commitish if target_commitish else None,
+                "target_commitish": short_sha if short_sha else None,
                 "published_at": rel.get("published_at"),
                 "url": rel.get("html_url"),
                 "commit_url": (
-                    f"https://github.com/xenia-canary/xenia-canary/commit/{target_commitish}"
-                    if target_commitish
+                    f"https://github.com/xenia-canary/xenia-canary/commit/{short_sha}"
+                    if short_sha
                     else (
                         f"https://github.com/xenia-canary/xenia-canary/commit/{tag}"
                         if tag
@@ -140,6 +251,32 @@ def process_releases(raw_releases, repo: str):
             }
         )
         debug(f"Prepared release {tag_name} with {len(assets)} assets")
+
+    # Fetch full SHAs for entries that need them (batch processing)
+    if entries_needing_sha:
+        unique_shas = list(
+            set(
+                entry["short_sha"]
+                for entry in entries_needing_sha
+                if entry["short_sha"]
+            )
+        )
+        debug(f"Fetching full SHAs for {len(unique_shas)} unique entries...")
+        full_shas = fetch_full_shas_batch(unique_shas)
+
+        # Update results with fetched full SHAs
+        for entry in entries_needing_sha:
+            short_sha = entry["short_sha"]
+            if short_sha and short_sha in full_shas:
+                result_index = entry["result_index"]
+                full_sha = full_shas[short_sha]
+                results[result_index]["target_commitish"] = full_sha
+                results[result_index]["commit_url"] = f"{GITHUB_COMMIT_URL}{full_sha}"
+            elif short_sha:
+                debug(
+                    f"  ✗ Failed to fetch full SHA for {short_sha}, keeping short SHA"
+                )
+
     return results
 
 
