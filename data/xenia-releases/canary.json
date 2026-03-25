@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "canary_",
+    "target_commitish": "canary_experimental",
+    "published_at": "2026-03-24T21:14:49Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7928966",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/canary_experimental",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [CI] Trying to fix releases ordering (`7928966`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2fa6942...7928966"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7928966/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7928966/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "2fa6942",
+    "target_commitish": "2fa69428539e3f04f130f164a034f02dd0d0edfa",
+    "published_at": "2026-03-24T20:32:55Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2fa6942",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2fa69428539e3f04f130f164a034f02dd0d0edfa",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [CI] Fixed incorrect release title (missing _<branch_name>) (`2fa6942`)\n- [Notes] Updated README.md with new release links (`0434624`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/83802fb...2fa6942"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2fa6942/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2fa6942/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "83802fb",
+    "target_commitish": "83802fbb6699c6e112628680ac659f8f839155c9",
+    "published_at": "2026-03-24T19:41:21Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/83802fb",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/83802fbb6699c6e112628680ac659f8f839155c9",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [CI] Fixed tag name & removed duplicated notes on release (`83802fb`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8911a3b_canary_experimental...83802fb"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/83802fb/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/83802fb/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "8911a3b",
     "target_commitish": "8911a3b7d814034ba9dbc489c4a986a6af23ad5d",
     "published_at": "2026-03-24T07:39:01Z",
