@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "e0fcf29",
+    "target_commitish": "e0fcf29d4ba67dabe80283e471efd808173041e3",
+    "published_at": "2026-03-25T19:24:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e0fcf29",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e0fcf29d4ba67dabe80283e471efd808173041e3",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- Revert \"[CI] Trying to fix releases ordering\" (`e0fcf29`)\n- [APP] Check for null-ptr in input_system while calling OnUsbDeviceChanged (`c2a8dc4`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b6ad99e...e0fcf29"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e0fcf29/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e0fcf29/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "b6ad99e",
     "target_commitish": "b6ad99ee21695955a78082fda748bd7aaaf1cf97",
     "published_at": "2026-03-25T07:47:10Z",
