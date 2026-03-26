@@ -40,6 +40,12 @@ def gh_get(url):
 def split_changes(body: str):
     if not body:
         return {"title": "", "changes": ""}
+
+    # If body starts with "### Changes", strip it and use commit message for title
+    if body.startswith("### Changes"):
+        changes = body.replace("### Changes", "", 1).strip()
+        return {"title": "", "changes": changes}
+
     parts = body.split("\n\n", 1)
     title = parts[0].strip()
     changes = parts[1].strip() if len(parts) > 1 else ""
@@ -198,6 +204,13 @@ def process_releases(raw_releases, repo: str):
             debug(f"No changelog for {tag}, fetching commit info from repo")
             commit_info = fetch_commit_details(repo, tag)
             title, changes = commit_info["title"], commit_info["changes"]
+
+        # --- Fallback to release name if title still empty ---
+        if not title:
+            release_name = rel.get("name", "")
+            if release_name:
+                debug(f"Using release name as title for {tag}: {release_name}")
+                title = release_name
 
         # Use target_commitish (short 7 chars) as tag_name, fall back to tag if missing
         target_commitish = rel.get("target_commitish", "")
