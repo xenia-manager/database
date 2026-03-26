@@ -1,23 +1,23 @@
 {
-  "Name": "invAIders",
-  "DatabaseID": "470202",
-  "ReleaseDate": "2011-07-30T00:00:00+00:00",
-  "Overview": "invAIders is a Shoot'em up powered by a Genetic Algorithm.\n\nThe Genetic Algorithm evolves the enemy AI based on the player's performance. As the player gets better, so does the AI.\n\nThe question is, can you evolve faster?",
-  "VideoURL": "https://youtu.be/LVq7fBBkzEI",
-  "Genres": "Shooter",
-  "Developer": "Martian Face Games",
-  "Publisher": "Martian Face Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "ce1a51c3-0842-4782-8bf0-407b7021f387.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "522503667",
+          "FileName": "ce1a51c3-0842-4782-8bf0-407b7021f387.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ce1a51c3-0842-4782-8bf0-407b7021f387.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "470202",
+  "Developer": "Martian Face Games",
+  "Genres": "Shooter",
+  "Name": "invAIders",
+  "Overview": "invAIders is a Shoot'em up powered by a Genetic Algorithm.\n\nThe Genetic Algorithm evolves the enemy AI based on the player's performance. As the player gets better, so does the AI.\n\nThe question is, can you evolve faster?",
+  "Publisher": "Martian Face Games",
+  "ReleaseDate": "2011-07-30T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/LVq7fBBkzEI"
 }

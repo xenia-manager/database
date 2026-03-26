@@ -1,104 +1,104 @@
 {
-  "Name": "Monster Madness: Battle for Suburbia",
-  "DatabaseID": "15921",
-  "ReleaseDate": "2007-06-12T00:00:00+00:00",
-  "Overview": "\"Brrrrraaaaiiiinnnnssss!\" Load your shotgun, zombies have run amuck in town and it's up to four teenagers to defend their suburbia in this 3rd person shooter while seeking to find the cause of this invasion. In single player mode (which also can be played in co-op with up to three friends), you go through five areas: Shopping Maul, High School Hell, Cemetery Scary, and Evil Castle. Each area has 3 to 5 stages. \n\nYou choose one of the characters to play as, each with their own special abilities: Zack the geek uses ax-type weapons, Carrie the Goth likes swords, Andy the surfer dude uses random objects like toilet plungers and does a Neo-like spin on his weapon to kick enemies around him, and Jennifer the dumb blonde cheerleader has dual batons which can be spun into a tornado-like effect. New weapons and weapon upgrades can be bought from the local mechanic with collected items found throughout each level, and with tokens dropped when zombies die. By using their favorite melee weapon, each character can make a special attack move when their power bar is at maximum level from killing enemies. There's also 16 unique guns built from 25 different weapon parts found in each level and with 3 different upgradable levels of power. Other weapons include wacky ones like lawnmowers, nailguns, cellphone tazers, bicycle grenade launchers, defribulators, and CD shooters, as well as more traditional Molotov cocktails, rocket launchers, and pipe shotguns. Later in the game, even vehicles and ships can be used such as a UFO which has a laser death beam. \n\nUsing the Unreal Engine 3 and Ageia's PhysX enables realistic physics-based destruction along with detailed lighting, environmental and character details. The plot is moved forward by comic-strip cut scenes, including showing the name and abilities of new zombie mutations as they first appear. The multiplayer modes include a four-player deathmatch on a single computer, or a sixteen player game online or over LAN.",
-  "CommunityRating": "4",
-  "ESRB": "T - Teen",
-  "Genres": null,
   "Artwork": {
     "Banner": [
       {
+        "CRC32": "1399502802",
         "FileName": "2503b7ca-58f4-4a2c-bd57-f5bbdc4aeeaa.png",
         "Type": "Banner",
-        "CRC32": "1399502802",
         "URL": "http://images.launchbox-app.com/2503b7ca-58f4-4a2c-bd57-f5bbdc4aeeaa.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "cb17db7f-84a9-4eba-bc7a-c43dab191d5b.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2467935782",
+          "FileName": "cb17db7f-84a9-4eba-bc7a-c43dab191d5b.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/cb17db7f-84a9-4eba-bc7a-c43dab191d5b.png"
         }
       ],
       "Back": [
         {
-          "FileName": "0a2d5eb9-f8ae-4087-a2fd-e82feb26d9db.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2845182895",
+          "FileName": "0a2d5eb9-f8ae-4087-a2fd-e82feb26d9db.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/0a2d5eb9-f8ae-4087-a2fd-e82feb26d9db.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_22adbf2e-34e7-428c-b12b-f17917baeaef.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2681718691",
+          "FileName": "r2_22adbf2e-34e7-428c-b12b-f17917baeaef.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_22adbf2e-34e7-428c-b12b-f17917baeaef.jpg"
         },
         {
-          "FileName": "c16456e2-a385-4937-9340-9251d3e88997.jpg",
-          "Type": "Box - Front",
+          "CRC32": "902968662",
+          "FileName": "429d88bb-ddb6-4ff7-a0fd-ee841253330b.jpg",
           "Region": "North America",
-          "CRC32": "2080452812",
-          "URL": "http://images.launchbox-app.com/c16456e2-a385-4937-9340-9251d3e88997.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/429d88bb-ddb6-4ff7-a0fd-ee841253330b.jpg"
         },
         {
-          "FileName": "429d88bb-ddb6-4ff7-a0fd-ee841253330b.jpg",
-          "Type": "Box - Front",
+          "CRC32": "2080452812",
+          "FileName": "c16456e2-a385-4937-9340-9251d3e88997.jpg",
           "Region": "North America",
-          "CRC32": "902968662",
-          "URL": "http://images.launchbox-app.com/429d88bb-ddb6-4ff7-a0fd-ee841253330b.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/c16456e2-a385-4937-9340-9251d3e88997.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "d77f61f0-a85a-4a1e-998e-8b825f62edb0.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "960484223",
+          "FileName": "d77f61f0-a85a-4a1e-998e-8b825f62edb0.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/d77f61f0-a85a-4a1e-998e-8b825f62edb0.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "4bebc722-0d86-45bc-a351-3e4d8de42321.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "278672012",
+        "FileName": "4bebc722-0d86-45bc-a351-3e4d8de42321.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/4bebc722-0d86-45bc-a351-3e4d8de42321.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "afb4988c-eab9-428e-8572-8ff39b468730.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3177462606",
-        "URL": "http://images.launchbox-app.com/afb4988c-eab9-428e-8572-8ff39b468730.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_f1066b0e-8753-4c2c-826f-78980f0347a4.png",
-        "Type": "Clear Logo",
+        "CRC32": "3698690927",
+        "FileName": "r2_329ea83e-d433-411d-b177-2e69e9582c14.png",
         "Region": "World",
-        "CRC32": "830464590",
-        "URL": "http://images.launchbox-app.com/r2_f1066b0e-8753-4c2c-826f-78980f0347a4.png"
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_329ea83e-d433-411d-b177-2e69e9582c14.png"
       },
       {
-        "FileName": "r2_329ea83e-d433-411d-b177-2e69e9582c14.png",
-        "Type": "Clear Logo",
+        "CRC32": "830464590",
+        "FileName": "r2_f1066b0e-8753-4c2c-826f-78980f0347a4.png",
         "Region": "World",
-        "CRC32": "3698690927",
-        "URL": "http://images.launchbox-app.com/r2_329ea83e-d433-411d-b177-2e69e9582c14.png"
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_f1066b0e-8753-4c2c-826f-78980f0347a4.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3177462606",
+        "FileName": "afb4988c-eab9-428e-8572-8ff39b468730.png",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/afb4988c-eab9-428e-8572-8ff39b468730.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "15921",
+  "ESRB": "T - Teen",
+  "Genres": null,
+  "Name": "Monster Madness: Battle for Suburbia",
+  "Overview": "\"Brrrrraaaaiiiinnnnssss!\" Load your shotgun, zombies have run amuck in town and it's up to four teenagers to defend their suburbia in this 3rd person shooter while seeking to find the cause of this invasion. In single player mode (which also can be played in co-op with up to three friends), you go through five areas: Shopping Maul, High School Hell, Cemetery Scary, and Evil Castle. Each area has 3 to 5 stages. \n\nYou choose one of the characters to play as, each with their own special abilities: Zack the geek uses ax-type weapons, Carrie the Goth likes swords, Andy the surfer dude uses random objects like toilet plungers and does a Neo-like spin on his weapon to kick enemies around him, and Jennifer the dumb blonde cheerleader has dual batons which can be spun into a tornado-like effect. New weapons and weapon upgrades can be bought from the local mechanic with collected items found throughout each level, and with tokens dropped when zombies die. By using their favorite melee weapon, each character can make a special attack move when their power bar is at maximum level from killing enemies. There's also 16 unique guns built from 25 different weapon parts found in each level and with 3 different upgradable levels of power. Other weapons include wacky ones like lawnmowers, nailguns, cellphone tazers, bicycle grenade launchers, defribulators, and CD shooters, as well as more traditional Molotov cocktails, rocket launchers, and pipe shotguns. Later in the game, even vehicles and ships can be used such as a UFO which has a laser death beam. \n\nUsing the Unreal Engine 3 and Ageia's PhysX enables realistic physics-based destruction along with detailed lighting, environmental and character details. The plot is moved forward by comic-strip cut scenes, including showing the name and abilities of new zombie mutations as they first appear. The multiplayer modes include a four-player deathmatch on a single computer, or a sixteen player game online or over LAN.",
+  "ReleaseDate": "2007-06-12T00:00:00+00:00"
 }

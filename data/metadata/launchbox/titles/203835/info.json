@@ -1,79 +1,79 @@
 {
-  "Name": "Football Manager 2006",
-  "DatabaseID": "203835",
-  "ReleaseDate": "2005-10-21T00:00:00+00:00",
-  "Overview": "Football Manager 2006 (also known as Worldwide Soccer Manager 2006 in North America) is a 2005 football management simulation game. FM2006 was the second game in the Football Manager series. It is available for PC, Mac, and PSP platforms and was released in the United Kingdom on 21 October 2005. On the same day as the game's release, Sports Interactive also released a patch to fix some bugs discovered during the Beta and Gold stages of development. In its first week of release, it became the second-fastest-selling PC game of all-time in the UK. It was also the first game in the series to be released on an Xbox console. In April 2006, an Xbox 360 version was released. It was succeeded by Football Manager 2007.\n\nGameplay\nFM06 features similar gameplay to that of the Football Manager series. Gameplay consists of taking charge of a professional association football team, as the team manager. Players can sign football players to contracts, manage finances for the club, and give team talks to players. FM06 is a simulation of real world management, with the player being judged on various factors by the club's AI owners and board.\n\nFM06 adjusts some gameplay that was found in the original football manager release. These adjustments include team-talks, simplified training and in-game help screens. As has been customary with the series a beta demo of the game was released on 12 September 2005. This was later followed on 30 September by a gold demo. This is a cut-down, limited time version of the full game which is sent to the game manufacturers.",
-  "CommunityRating": "0.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Football_Manager_2006",
-  "ESRB": "E - Everyone",
-  "Genres": "Construction and Management Simulation; Sports",
-  "Developer": "Sports Interactive",
-  "Publisher": "Sega",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_0beb4a9c-bf97-4482-9bb9-14418cdd6a08.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1261424784",
-        "URL": "http://images.launchbox-app.com/r2_0beb4a9c-bf97-4482-9bb9-14418cdd6a08.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_267599ce-a1f1-4f60-b048-b5ccade4c665.jpeg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "103168430",
+        "FileName": "r2_267599ce-a1f1-4f60-b048-b5ccade4c665.jpeg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_267599ce-a1f1-4f60-b048-b5ccade4c665.jpeg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1261424784",
+        "FileName": "r2_0beb4a9c-bf97-4482-9bb9-14418cdd6a08.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_0beb4a9c-bf97-4482-9bb9-14418cdd6a08.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_65447063-79fb-4354-bba3-491653bba0ac.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "143555167",
+          "FileName": "r2_65447063-79fb-4354-bba3-491653bba0ac.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_65447063-79fb-4354-bba3-491653bba0ac.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_4bfe0cdd-9f63-4c95-833e-942829342224.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "3638083202",
+          "FileName": "r2_4bfe0cdd-9f63-4c95-833e-942829342224.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_4bfe0cdd-9f63-4c95-833e-942829342224.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_f026f6ee-aed2-43f4-950e-5cd3525ccd39.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "2185232789",
+          "FileName": "r2_f026f6ee-aed2-43f4-950e-5cd3525ccd39.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_f026f6ee-aed2-43f4-950e-5cd3525ccd39.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_457c6e60-8f77-44ee-84a6-6c010f68d480.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "3483296979",
+        "FileName": "r2_457c6e60-8f77-44ee-84a6-6c010f68d480.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_457c6e60-8f77-44ee-84a6-6c010f68d480.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_0b189e5f-c3a1-4a3c-9203-14ca0d7b2f7f.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3444355035",
+        "FileName": "r2_0b189e5f-c3a1-4a3c-9203-14ca0d7b2f7f.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_0b189e5f-c3a1-4a3c-9203-14ca0d7b2f7f.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "0.5",
+  "DatabaseID": "203835",
+  "Developer": "Sports Interactive",
+  "ESRB": "E - Everyone",
+  "Genres": "Construction and Management Simulation; Sports",
+  "Name": "Football Manager 2006",
+  "Overview": "Football Manager 2006 (also known as Worldwide Soccer Manager 2006 in North America) is a 2005 football management simulation game. FM2006 was the second game in the Football Manager series. It is available for PC, Mac, and PSP platforms and was released in the United Kingdom on 21 October 2005. On the same day as the game's release, Sports Interactive also released a patch to fix some bugs discovered during the Beta and Gold stages of development. In its first week of release, it became the second-fastest-selling PC game of all-time in the UK. It was also the first game in the series to be released on an Xbox console. In April 2006, an Xbox 360 version was released. It was succeeded by Football Manager 2007.\n\nGameplay\nFM06 features similar gameplay to that of the Football Manager series. Gameplay consists of taking charge of a professional association football team, as the team manager. Players can sign football players to contracts, manage finances for the club, and give team talks to players. FM06 is a simulation of real world management, with the player being judged on various factors by the club's AI owners and board.\n\nFM06 adjusts some gameplay that was found in the original football manager release. These adjustments include team-talks, simplified training and in-game help screens. As has been customary with the series a beta demo of the game was released on 12 September 2005. This was later followed on 30 September by a gold demo. This is a cut-down, limited time version of the full game which is sent to the game manufacturers.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2005-10-21T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Football_Manager_2006"
 }

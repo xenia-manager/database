@@ -1,55 +1,55 @@
 {
-  "Name": "Gin Rummy",
-  "DatabaseID": "181822",
-  "ReleaseDate": "2008-09-03T00:00:00+00:00",
-  "Overview": "Gin Rummy is an electronic simulation of the card game of the same name. Generally it is a two-player game, but this version supports up to four players online with teams of two playing against each other. A standard deck of 52 cards is used and they each receive a ranking, from ace (one point) to the three face cards (Jack, Queen King) worth ten points. The dealer deals ten cards to each player. Two piles are made in the middle: a discard pile (face-up) and the stock pile (face-down). Each turn players draw one card, from any pile, and also have to discard one card. The goal of the game is to score most points by forming melds (consists of sets and runs) and eliminating deadwood. A set is three or four cards of the same rank (three times a five for instance) and a run is three or more cards of the same suit in consecutive order (four, five, and six of spades for instance). The useless cards that remain in the player's hand are the deadwood.\n\nThe game can be ended by a player who has a hand of sets and runs and the points value of the remaining deadwood totals equal or less than ten points. This is called knocking. Knocking is optional when the above requirements are met and required when the deadwood equals zero (called \"going Gin\"). At that moment the other player still has a chance to win. When a player announces to knock, he lays his hand out with the melds and deadwood separated. The other player can then reduce his deadwood by laying off any cards that fit into the first player's meld, thereby reducing his deadwood. A lay-off is not allowed when the first player went Gin. After that, the points are counted, along with different types of bonus scores.\n\nThe game is played from a first-person perspective and includes a tutorial to get familiar with the rules of Gin Rummy. The game supports the Vision camera. While playing cards can also be sorted manually to get a good overview. The game includes different variants of Gin, each with their own rules:\n\nClassic Gin Rummy\nOklahoma Gin\nHollywood Gin\n3-hand Gin\nSpeed Gin Rimmy\nCustom Gin Rummy where you can alter the rules",
-  "CommunityRating": "3.33333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Gin_Rummy_(video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Strategy",
-  "Developer": "Sierra Online - Shanghai",
-  "Publisher": "Sierra Online",
   "Artwork": {
     "Banner": [
       {
-        "FileName": "r2_faf0b996-fa84-4609-8dce-28ef2288388a.png",
-        "Type": "Banner",
-        "Region": "World",
         "CRC32": "3539284540",
+        "FileName": "r2_faf0b996-fa84-4609-8dce-28ef2288388a.png",
+        "Region": "World",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/r2_faf0b996-fa84-4609-8dce-28ef2288388a.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_24c65297-6c59-45fd-8011-46d7fbebb35f.jpg",
-          "Type": "Box - Front",
+          "CRC32": "4252274426",
+          "FileName": "f797e34e-5ba7-42fc-8608-53b8d4904213.jpg",
           "Region": "World",
-          "CRC32": "4219505777",
-          "URL": "http://images.launchbox-app.com/r2_24c65297-6c59-45fd-8011-46d7fbebb35f.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/f797e34e-5ba7-42fc-8608-53b8d4904213.jpg"
         },
         {
-          "FileName": "f797e34e-5ba7-42fc-8608-53b8d4904213.jpg",
-          "Type": "Box - Front",
+          "CRC32": "4219505777",
+          "FileName": "r2_24c65297-6c59-45fd-8011-46d7fbebb35f.jpg",
           "Region": "World",
-          "CRC32": "4252274426",
-          "URL": "http://images.launchbox-app.com/f797e34e-5ba7-42fc-8608-53b8d4904213.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_24c65297-6c59-45fd-8011-46d7fbebb35f.jpg"
         }
       ]
     },
     "Screenshots": [
       {
+        "CRC32": "1488108858",
         "FileName": "1e71df34-6f58-4f3c-9ff4-ef795a23732a.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "1488108858",
         "URL": "http://images.launchbox-app.com/1e71df34-6f58-4f3c-9ff4-ef795a23732a.jpg"
       },
       {
+        "CRC32": "3066075190",
         "FileName": "abeefcc7-a4ad-4f7b-9570-728e4dd0d65e.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3066075190",
         "URL": "http://images.launchbox-app.com/abeefcc7-a4ad-4f7b-9570-728e4dd0d65e.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.33333333333333",
+  "DatabaseID": "181822",
+  "Developer": "Sierra Online - Shanghai",
+  "ESRB": "E - Everyone",
+  "Genres": "Strategy",
+  "Name": "Gin Rummy",
+  "Overview": "Gin Rummy is an electronic simulation of the card game of the same name. Generally it is a two-player game, but this version supports up to four players online with teams of two playing against each other. A standard deck of 52 cards is used and they each receive a ranking, from ace (one point) to the three face cards (Jack, Queen King) worth ten points. The dealer deals ten cards to each player. Two piles are made in the middle: a discard pile (face-up) and the stock pile (face-down). Each turn players draw one card, from any pile, and also have to discard one card. The goal of the game is to score most points by forming melds (consists of sets and runs) and eliminating deadwood. A set is three or four cards of the same rank (three times a five for instance) and a run is three or more cards of the same suit in consecutive order (four, five, and six of spades for instance). The useless cards that remain in the player's hand are the deadwood.\n\nThe game can be ended by a player who has a hand of sets and runs and the points value of the remaining deadwood totals equal or less than ten points. This is called knocking. Knocking is optional when the above requirements are met and required when the deadwood equals zero (called \"going Gin\"). At that moment the other player still has a chance to win. When a player announces to knock, he lays his hand out with the melds and deadwood separated. The other player can then reduce his deadwood by laying off any cards that fit into the first player's meld, thereby reducing his deadwood. A lay-off is not allowed when the first player went Gin. After that, the points are counted, along with different types of bonus scores.\n\nThe game is played from a first-person perspective and includes a tutorial to get familiar with the rules of Gin Rummy. The game supports the Vision camera. While playing cards can also be sorted manually to get a good overview. The game includes different variants of Gin, each with their own rules:\n\nClassic Gin Rummy\nOklahoma Gin\nHollywood Gin\n3-hand Gin\nSpeed Gin Rimmy\nCustom Gin Rummy where you can alter the rules",
+  "Publisher": "Sierra Online",
+  "ReleaseDate": "2008-09-03T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Gin_Rummy_(video_game)"
 }

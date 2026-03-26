@@ -1,38 +1,38 @@
 {
-  "Name": "2048: Xbox 360 Edition",
-  "DatabaseID": "466880",
-  "ReleaseDate": "2014-04-18T00:00:00+00:00",
-  "Overview": "The latest mobile gaming craze arrives on Xbox 360! As addictive as ever, and complete with online scoreboards. Based on 2048 by Gabriele Cirulli.",
-  "Genres": "Puzzle",
-  "Developer": "RenderCode Games",
-  "Publisher": "RenderCode Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "8713165a-d050-4cbe-afab-fc70b4003fdb.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1574448669",
+          "FileName": "8713165a-d050-4cbe-afab-fc70b4003fdb.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8713165a-d050-4cbe-afab-fc70b4003fdb.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "ee64a15f-1740-4711-aca0-4ebe35ef6e6e.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1320694060",
+        "FileName": "6035524e-d13d-4d7e-bab7-9cfab07e5f52.jpg",
         "Region": "World",
-        "CRC32": "4289094540",
-        "URL": "http://images.launchbox-app.com/ee64a15f-1740-4711-aca0-4ebe35ef6e6e.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/6035524e-d13d-4d7e-bab7-9cfab07e5f52.jpg"
       },
       {
-        "FileName": "6035524e-d13d-4d7e-bab7-9cfab07e5f52.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "4289094540",
+        "FileName": "ee64a15f-1740-4711-aca0-4ebe35ef6e6e.jpg",
         "Region": "World",
-        "CRC32": "1320694060",
-        "URL": "http://images.launchbox-app.com/6035524e-d13d-4d7e-bab7-9cfab07e5f52.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ee64a15f-1740-4711-aca0-4ebe35ef6e6e.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "466880",
+  "Developer": "RenderCode Games",
+  "Genres": "Puzzle",
+  "Name": "2048: Xbox 360 Edition",
+  "Overview": "The latest mobile gaming craze arrives on Xbox 360! As addictive as ever, and complete with online scoreboards. Based on 2048 by Gabriele Cirulli.",
+  "Publisher": "RenderCode Games",
+  "ReleaseDate": "2014-04-18T00:00:00+00:00"
 }

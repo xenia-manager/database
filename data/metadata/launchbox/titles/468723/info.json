@@ -1,32 +1,32 @@
 {
-  "Name": "Cute Pets",
-  "DatabaseID": "468723",
-  "ReleaseDate": "2011-03-18T00:00:00+00:00",
-  "Overview": "Match 3 or more Pets to uncover the cute picture.",
-  "VideoURL": "https://youtu.be/fMbJQabm25M",
-  "Genres": "Puzzle",
-  "Developer": "Latin Soul Studio",
-  "Publisher": "Latin Soul Studio",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "e929cfaf-5fea-4e47-b16b-d2c316280bb9.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3720605746",
+          "FileName": "e929cfaf-5fea-4e47-b16b-d2c316280bb9.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e929cfaf-5fea-4e47-b16b-d2c316280bb9.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "a37e982b-0e23-4524-a65a-2d3e5f634a4a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2544362918",
+        "FileName": "a37e982b-0e23-4524-a65a-2d3e5f634a4a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/a37e982b-0e23-4524-a65a-2d3e5f634a4a.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468723",
+  "Developer": "Latin Soul Studio",
+  "Genres": "Puzzle",
+  "Name": "Cute Pets",
+  "Overview": "Match 3 or more Pets to uncover the cute picture.",
+  "Publisher": "Latin Soul Studio",
+  "ReleaseDate": "2011-03-18T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/fMbJQabm25M"
 }

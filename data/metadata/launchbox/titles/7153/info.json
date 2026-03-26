@@ -1,138 +1,138 @@
 {
-  "Name": "Bully: Scholarship Edition",
-  "DatabaseID": "7153",
-  "ReleaseDate": "2008-03-04T00:00:00+00:00",
-  "Overview": "Scholarship Edition is an updated version of the original Bully and this version is the first release of the game on the Xbox 360, Wii and PC. The Windows and the Xbox 360 version are almost identical, and the Wii version was updated by a different development studio.\n\nThis edition enhances the original game with eight new missions, four new school classes (biology, music, maths and geography), improved visuals, new characters, an off-line multiplayer mode with mini-games, unlockables and a grading system.",
-  "CommunityRating": "4.2",
-  "ESRB": "T - Teen",
-  "Genres": "Action; Adventure",
-  "Developer": "Mad Doc Software",
-  "Publisher": "Rockstar Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "4a57f15d-e70a-4f0f-a7ed-3bc54137b3d2.png",
-        "Type": "Banner",
-        "CRC32": "496814461",
-        "URL": "http://images.launchbox-app.com/4a57f15d-e70a-4f0f-a7ed-3bc54137b3d2.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2042984376",
         "FileName": "4b704cb6-c604-4167-94e6-c40b8b9b258b.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2042984376",
         "URL": "http://images.launchbox-app.com/4b704cb6-c604-4167-94e6-c40b8b9b258b.jpg"
       },
       {
-        "FileName": "ffd08bef-07af-4b63-a1f2-4b7b199c053d.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2960838436",
-        "URL": "http://images.launchbox-app.com/ffd08bef-07af-4b63-a1f2-4b7b199c053d.jpg"
-      },
-      {
+        "CRC32": "4071038310",
         "FileName": "5447c871-8033-417a-bb50-3ac6490b6306.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4071038310",
         "URL": "http://images.launchbox-app.com/5447c871-8033-417a-bb50-3ac6490b6306.jpg"
+      },
+      {
+        "CRC32": "2960838436",
+        "FileName": "ffd08bef-07af-4b63-a1f2-4b7b199c053d.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/ffd08bef-07af-4b63-a1f2-4b7b199c053d.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "496814461",
+        "FileName": "4a57f15d-e70a-4f0f-a7ed-3bc54137b3d2.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/4a57f15d-e70a-4f0f-a7ed-3bc54137b3d2.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_611492f5-98d1-4858-947a-44cb02f1e359.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1518685946",
+          "FileName": "r2_611492f5-98d1-4858-947a-44cb02f1e359.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_611492f5-98d1-4858-947a-44cb02f1e359.png"
         },
         {
-          "FileName": "43f35c03-e8ff-4b17-8210-15ad2c56b2cd.png",
-          "Type": "Box - 3D",
-          "Region": "United Kingdom",
           "CRC32": "1818116083",
+          "FileName": "43f35c03-e8ff-4b17-8210-15ad2c56b2cd.png",
+          "Region": "United Kingdom",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/43f35c03-e8ff-4b17-8210-15ad2c56b2cd.png"
         }
       ],
       "Back": [
         {
-          "FileName": "4cfc3793-310a-479b-964c-9698db1cc1be.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3669591490",
+          "FileName": "4cfc3793-310a-479b-964c-9698db1cc1be.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/4cfc3793-310a-479b-964c-9698db1cc1be.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_619f7605-a410-406e-b2b6-b158fa3384e0.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1818070374",
+          "FileName": "r2_619f7605-a410-406e-b2b6-b158fa3384e0.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_619f7605-a410-406e-b2b6-b158fa3384e0.jpg"
         },
         {
-          "FileName": "c2c00b1c-5102-4020-9336-4298b1f6c3b4.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2324498063",
+          "FileName": "c2c00b1c-5102-4020-9336-4298b1f6c3b4.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c2c00b1c-5102-4020-9336-4298b1f6c3b4.jpg"
         },
         {
-          "FileName": "86903bd1-a916-44a0-ab24-220479d3ebda.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2146740105",
+          "FileName": "86903bd1-a916-44a0-ab24-220479d3ebda.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/86903bd1-a916-44a0-ab24-220479d3ebda.jpg"
         },
         {
-          "FileName": "c6e7e389-d4e3-47a9-b242-5ea156a360b2.jpg",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "World",
           "CRC32": "296657811",
+          "FileName": "c6e7e389-d4e3-47a9-b242-5ea156a360b2.jpg",
+          "Region": "World",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/c6e7e389-d4e3-47a9-b242-5ea156a360b2.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "2db591cd-c731-41a0-b5bb-93e13af2fadc.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2752807796",
+          "FileName": "2db591cd-c731-41a0-b5bb-93e13af2fadc.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/2db591cd-c731-41a0-b5bb-93e13af2fadc.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "2d42a4f8-4098-41a1-a72b-dd94135a949c.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1421296381",
+        "FileName": "2d42a4f8-4098-41a1-a72b-dd94135a949c.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/2d42a4f8-4098-41a1-a72b-dd94135a949c.png"
       },
       {
-        "FileName": "73acb82b-f25b-49b4-97b6-cc06f6c9e23a.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "2565067141",
+        "FileName": "73acb82b-f25b-49b4-97b6-cc06f6c9e23a.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/73acb82b-f25b-49b4-97b6-cc06f6c9e23a.png"
       },
       {
-        "FileName": "c40f4421-4925-4b7a-91a3-0b342d5777e9.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "4184905769",
+        "FileName": "c40f4421-4925-4b7a-91a3-0b342d5777e9.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c40f4421-4925-4b7a-91a3-0b342d5777e9.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3032171801",
         "FileName": "fa6eaa66-58c3-4d4e-8a03-39ae256cee7d.png",
         "Type": "Clear Logo",
-        "CRC32": "3032171801",
         "URL": "http://images.launchbox-app.com/fa6eaa66-58c3-4d4e-8a03-39ae256cee7d.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.2",
+  "DatabaseID": "7153",
+  "Developer": "Mad Doc Software",
+  "ESRB": "T - Teen",
+  "Genres": "Action; Adventure",
+  "Name": "Bully: Scholarship Edition",
+  "Overview": "Scholarship Edition is an updated version of the original Bully and this version is the first release of the game on the Xbox 360, Wii and PC. The Windows and the Xbox 360 version are almost identical, and the Wii version was updated by a different development studio.\n\nThis edition enhances the original game with eight new missions, four new school classes (biology, music, maths and geography), improved visuals, new characters, an off-line multiplayer mode with mini-games, unlockables and a grading system.",
+  "Publisher": "Rockstar Games",
+  "ReleaseDate": "2008-03-04T00:00:00+00:00"
 }

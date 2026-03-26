@@ -1,57 +1,57 @@
 {
-  "Name": "Just Dance 4",
-  "DatabaseID": "13290",
-  "ReleaseDate": "2012-10-09T00:00:00+00:00",
-  "Overview": "Just Dance 4 features more than 40 new tracks, ranging from chart-topping Billboard hits to classic dance party tracks. Whether it's pop, Hip-Hop, rock, R&B, country or funk, there is something for everyone.",
-  "VideoURL": "http://www.youtube.com/watch?v=https://fOWsdeqbVE0",
-  "CommunityRating": "4",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Music",
-  "Developer": "Ubisoft",
-  "Publisher": "Ubisoft",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "1316517539",
           "FileName": "0c55f46d-53ae-4741-b839-f4afce30ab6d.png",
           "Type": "Box - 3D",
-          "CRC32": "1316517539",
           "URL": "http://images.launchbox-app.com/0c55f46d-53ae-4741-b839-f4afce30ab6d.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_9390671e-3ec8-44bc-b6fc-ffb284caa757.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1022516351",
+          "FileName": "r2_9390671e-3ec8-44bc-b6fc-ffb284caa757.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_9390671e-3ec8-44bc-b6fc-ffb284caa757.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "1369768152",
           "FileName": "327829c5-349d-4e6a-9789-0fe453492aae.jpg",
           "Type": "Box - Front",
-          "CRC32": "1369768152",
           "URL": "http://images.launchbox-app.com/327829c5-349d-4e6a-9789-0fe453492aae.jpg"
         },
         {
-          "FileName": "r2_def81bcc-b04c-4f7f-a955-d1b333e0c5b3.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "526921553",
+          "FileName": "r2_def81bcc-b04c-4f7f-a955-d1b333e0c5b3.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_def81bcc-b04c-4f7f-a955-d1b333e0c5b3.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "29a30c35-7916-4d00-9ec1-f8a290b2bfbb.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "104727812",
+        "FileName": "29a30c35-7916-4d00-9ec1-f8a290b2bfbb.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/29a30c35-7916-4d00-9ec1-f8a290b2bfbb.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "13290",
+  "Developer": "Ubisoft",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Music",
+  "Name": "Just Dance 4",
+  "Overview": "Just Dance 4 features more than 40 new tracks, ranging from chart-topping Billboard hits to classic dance party tracks. Whether it's pop, Hip-Hop, rock, R&B, country or funk, there is something for everyone.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2012-10-09T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=https://fOWsdeqbVE0"
 }

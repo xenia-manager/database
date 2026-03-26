@@ -1,88 +1,88 @@
 {
-  "Name": "Viking: Battle for Asgard",
-  "DatabaseID": "72",
-  "ReleaseDate": "2008-03-25T00:00:00+00:00",
-  "Overview": "Viking: Battle for Asgard thrusts players into a twisted mythological world overrun with demonic warriors unleashed by Hel, the Norse goddess of death. As Skarin, a rage-fueled Viking hero, players will wage all-out war to free mankind from the grip of evil and ultimate annihilation. Enemies will suffer graphic dismemberment with disturbing realism from an array of Skarin's melee, range and magic attacks.",
-  "VideoURL": "https://www.youtube.com/watch?v=PwL9WoUILVo",
-  "CommunityRating": "2.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Viking:_Battle_for_Asgard",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Adventure",
-  "Developer": "Creative Assembly",
-  "Publisher": "Sega",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3372535384",
         "FileName": "68f2b3e0-e48e-4ca1-ba57-c538a55dfa7c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3372535384",
         "URL": "http://images.launchbox-app.com/68f2b3e0-e48e-4ca1-ba57-c538a55dfa7c.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "2897414168",
           "FileName": "2f6f87ce-196b-4936-b17f-cc337c53d5ba.png",
           "Type": "Box - 3D",
-          "CRC32": "2897414168",
           "URL": "http://images.launchbox-app.com/2f6f87ce-196b-4936-b17f-cc337c53d5ba.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "4217113919",
           "FileName": "91fc0f12-dc9d-4e22-b1b0-4fcb0d260997.jpg",
           "Type": "Box - Back",
-          "CRC32": "4217113919",
           "URL": "http://images.launchbox-app.com/91fc0f12-dc9d-4e22-b1b0-4fcb0d260997.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "df2b9ec5-c851-4fd0-8d8e-39f52d4e8a3d.png",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2474883002",
+          "FileName": "df2b9ec5-c851-4fd0-8d8e-39f52d4e8a3d.png",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/df2b9ec5-c851-4fd0-8d8e-39f52d4e8a3d.png"
         },
         {
-          "FileName": "r2_e76e60fc-1b51-461e-9161-d6890f93d3c4.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2270491584",
+          "FileName": "r2_e76e60fc-1b51-461e-9161-d6890f93d3c4.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_e76e60fc-1b51-461e-9161-d6890f93d3c4.jpg"
         },
         {
-          "FileName": "r2_8bc490d1-a9c8-40da-93a7-8c34aa911e84.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3146239865",
+          "FileName": "r2_8bc490d1-a9c8-40da-93a7-8c34aa911e84.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_8bc490d1-a9c8-40da-93a7-8c34aa911e84.jpg"
         },
         {
-          "FileName": "r2_843d62ca-1c45-4f80-a395-39a412e82ecc.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2796374872",
+          "FileName": "r2_843d62ca-1c45-4f80-a395-39a412e82ecc.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_843d62ca-1c45-4f80-a395-39a412e82ecc.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_9f03a482-4e6a-48f3-9185-9d61f9c2c9f1.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "399805975",
+        "FileName": "r2_9f03a482-4e6a-48f3-9185-9d61f9c2c9f1.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_9f03a482-4e6a-48f3-9185-9d61f9c2c9f1.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3394560425",
         "FileName": "1049a531-278f-475b-ab31-45bccab45cd6.png",
         "Type": "Clear Logo",
-        "CRC32": "3394560425",
         "URL": "http://images.launchbox-app.com/1049a531-278f-475b-ab31-45bccab45cd6.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.5",
+  "DatabaseID": "72",
+  "Developer": "Creative Assembly",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Adventure",
+  "Name": "Viking: Battle for Asgard",
+  "Overview": "Viking: Battle for Asgard thrusts players into a twisted mythological world overrun with demonic warriors unleashed by Hel, the Norse goddess of death. As Skarin, a rage-fueled Viking hero, players will wage all-out war to free mankind from the grip of evil and ultimate annihilation. Enemies will suffer graphic dismemberment with disturbing realism from an array of Skarin's melee, range and magic attacks.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2008-03-25T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=PwL9WoUILVo",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Viking:_Battle_for_Asgard"
 }

@@ -1,22 +1,22 @@
 {
-  "Name": "Ant General",
-  "DatabaseID": "467114",
-  "ReleaseDate": "2012-08-10T00:00:00+00:00",
-  "Overview": "Ant General is a turn-based strategy game where you control an army of ants.",
-  "Genres": "Strategy",
-  "Developer": "Torito Software",
-  "Publisher": "Torito Software",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "97165877-d9b2-4e86-bd70-a6a5ba5d0dbd.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "220250246",
+          "FileName": "97165877-d9b2-4e86-bd70-a6a5ba5d0dbd.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/97165877-d9b2-4e86-bd70-a6a5ba5d0dbd.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "467114",
+  "Developer": "Torito Software",
+  "Genres": "Strategy",
+  "Name": "Ant General",
+  "Overview": "Ant General is a turn-based strategy game where you control an army of ants.",
+  "Publisher": "Torito Software",
+  "ReleaseDate": "2012-08-10T00:00:00+00:00"
 }

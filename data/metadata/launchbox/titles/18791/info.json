@@ -1,71 +1,71 @@
 {
-  "Name": "Snoopy Flying Ace",
-  "DatabaseID": "18791",
-  "ReleaseDate": "2010-06-02T00:00:00+00:00",
-  "Overview": "Take your Avatar to new heights with Snoopy and the rest of the Peanuts gang, for the aerial duel of the century! Master the single player and co-op challenges between root beers at the Officers Club, then try your skills online in 9 different solo and team games. With simple flight controls and a hangar full of customizable planes and weapons, all you need are nerves of steel to climb the Leaderboards and become a Flying Ace.",
-  "VideoURL": "https://www.youtube.com/watch?v=60e1UrVn7H8",
-  "CommunityRating": "4.35714285714286",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Snoopy_Flying_Ace",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Flight Simulator; Shooter",
-  "Developer": "Smart Bomb Interactive",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "b34d5610-25cf-4951-bcfc-86b34d0d4299.png",
-        "Type": "Banner",
-        "CRC32": "3817016931",
-        "URL": "http://images.launchbox-app.com/b34d5610-25cf-4951-bcfc-86b34d0d4299.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "e6a6f3a0-bc73-4570-83b1-81960ae40a38.png",
-        "Type": "Fanart - Background",
-        "CRC32": "2129321617",
-        "URL": "http://images.launchbox-app.com/e6a6f3a0-bc73-4570-83b1-81960ae40a38.png"
-      },
-      {
+        "CRC32": "3298828701",
         "FileName": "59a32410-6efb-4e67-8346-ba008b88f496.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3298828701",
         "URL": "http://images.launchbox-app.com/59a32410-6efb-4e67-8346-ba008b88f496.jpg"
+      },
+      {
+        "CRC32": "2129321617",
+        "FileName": "e6a6f3a0-bc73-4570-83b1-81960ae40a38.png",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/e6a6f3a0-bc73-4570-83b1-81960ae40a38.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3817016931",
+        "FileName": "b34d5610-25cf-4951-bcfc-86b34d0d4299.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/b34d5610-25cf-4951-bcfc-86b34d0d4299.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "07c8a4c3-ca92-402e-9685-90a2486bc282.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "945687003",
+          "FileName": "07c8a4c3-ca92-402e-9685-90a2486bc282.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/07c8a4c3-ca92-402e-9685-90a2486bc282.jpg"
         },
         {
-          "FileName": "3fee5cf4-d201-4ab7-86be-31dbf684c810.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "World",
           "CRC32": "4037736869",
+          "FileName": "3fee5cf4-d201-4ab7-86be-31dbf684c810.png",
+          "Region": "World",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/3fee5cf4-d201-4ab7-86be-31dbf684c810.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "510255d4-a9ad-401c-adbe-e6597df4f22f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2299903380",
-        "URL": "http://images.launchbox-app.com/510255d4-a9ad-401c-adbe-e6597df4f22f.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "2083795690",
         "FileName": "560cf7f0-de8d-45e8-bcf0-577636ce10ea.png",
         "Type": "Clear Logo",
-        "CRC32": "2083795690",
         "URL": "http://images.launchbox-app.com/560cf7f0-de8d-45e8-bcf0-577636ce10ea.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2299903380",
+        "FileName": "510255d4-a9ad-401c-adbe-e6597df4f22f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/510255d4-a9ad-401c-adbe-e6597df4f22f.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.35714285714286",
+  "DatabaseID": "18791",
+  "Developer": "Smart Bomb Interactive",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Flight Simulator; Shooter",
+  "Name": "Snoopy Flying Ace",
+  "Overview": "Take your Avatar to new heights with Snoopy and the rest of the Peanuts gang, for the aerial duel of the century! Master the single player and co-op challenges between root beers at the Officers Club, then try your skills online in 9 different solo and team games. With simple flight controls and a hangar full of customizable planes and weapons, all you need are nerves of steel to climb the Leaderboards and become a Flying Ace.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2010-06-02T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=60e1UrVn7H8",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Snoopy_Flying_Ace"
 }

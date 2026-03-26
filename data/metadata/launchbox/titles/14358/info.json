@@ -1,153 +1,153 @@
 {
-  "Name": "Deathsmiles",
-  "DatabaseID": "14358",
-  "ReleaseDate": "2009-04-23T00:00:00+00:00",
-  "Overview": "Gilverado is a curious mystical kingdom of magic, monsters, and lost souls. Recently, overwhelming numbers of demonic creatures have appeared within the kingdom. Four young girls, taken from the human realm years before and raised as witches with incredible powers, have taken it upon themselves to find the source and put a stop to it.\n\nDeathsmiles is a scrolling \"bullet hell\"-style shooter with a gothic horror theme. Choosing from one of four lolita-style girls, the player must blast their way through seven-plus stages. Unlike many games of this type, enemies appear from all directions, and the player is able to fire to both the left and right. Each character also has a companion familiar who will assist with special attacks, and there are also magic spells that act as screen-clearing bombs. There are multiple paths through the game, multiple difficulty levels for each stage, and numerous optional areas and secret bosses to challenge.\n\nThere are several game modes included. Arcade mode is a direct port of the original arcade release. Ver 1.1 Arrange mode adds the ability to directly control the familiars, and rearranges the stages. Xbox 360 mode features updated graphics, but is otherwise identical to Arcade mode. Lastly, Mega Black Mode (included with English releases, available as DLC in Japanese releases) adds a fifth playable character, a new stage and boss, and an additional extreme difficulty level. All modes can be played two-player simultaneous, including co-op over Xbox Live.",
-  "VideoURL": "http://www.youtube.com/watch?v=lzzetoCS-w4",
-  "CommunityRating": "4.15",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Deathsmiles",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "Cave",
-  "Publisher": "Cave",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7e6523ac-136d-4d8d-8502-e1276f326129.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "2710469749",
-        "URL": "http://images.launchbox-app.com/r2_7e6523ac-136d-4d8d-8502-e1276f326129.png"
-      },
-      {
-        "FileName": "r2_ec480d43-f879-4754-ad39-9139ca1697dd.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "4188374833",
-        "URL": "http://images.launchbox-app.com/r2_ec480d43-f879-4754-ad39-9139ca1697dd.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_b04261d0-024c-41d8-84d8-96240118863c.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "4260147737",
-        "URL": "http://images.launchbox-app.com/r2_b04261d0-024c-41d8-84d8-96240118863c.jpg"
-      },
-      {
-        "FileName": "r2_6f859ff5-6565-49d5-b585-6c468a220372.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "3128838198",
-        "URL": "http://images.launchbox-app.com/r2_6f859ff5-6565-49d5-b585-6c468a220372.jpg"
-      },
-      {
-        "FileName": "r2_1bb7a98f-1b56-4b94-ae13-83c68af4a15e.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "4108086153",
+        "FileName": "r2_1bb7a98f-1b56-4b94-ae13-83c68af4a15e.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_1bb7a98f-1b56-4b94-ae13-83c68af4a15e.jpg"
       },
       {
-        "FileName": "r2_34f8ec0f-0068-4c04-8475-48e1c3f7c1d9.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2282438706",
+        "FileName": "r2_34f8ec0f-0068-4c04-8475-48e1c3f7c1d9.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_34f8ec0f-0068-4c04-8475-48e1c3f7c1d9.jpg"
       },
       {
-        "FileName": "r2_6f37b197-6184-4f69-af38-272ba668a6c0.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2152568669",
+        "FileName": "r2_6f37b197-6184-4f69-af38-272ba668a6c0.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_6f37b197-6184-4f69-af38-272ba668a6c0.jpg"
+      },
+      {
+        "CRC32": "3128838198",
+        "FileName": "r2_6f859ff5-6565-49d5-b585-6c468a220372.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_6f859ff5-6565-49d5-b585-6c468a220372.jpg"
+      },
+      {
+        "CRC32": "4260147737",
+        "FileName": "r2_b04261d0-024c-41d8-84d8-96240118863c.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_b04261d0-024c-41d8-84d8-96240118863c.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2710469749",
+        "FileName": "r2_7e6523ac-136d-4d8d-8502-e1276f326129.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7e6523ac-136d-4d8d-8502-e1276f326129.png"
+      },
+      {
+        "CRC32": "4188374833",
+        "FileName": "r2_ec480d43-f879-4754-ad39-9139ca1697dd.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_ec480d43-f879-4754-ad39-9139ca1697dd.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "1912235315",
           "FileName": "1da0d9b5-01ca-4dfc-b1b5-aa60aa6e6c41.png",
           "Type": "Box - 3D",
-          "CRC32": "1912235315",
           "URL": "http://images.launchbox-app.com/1da0d9b5-01ca-4dfc-b1b5-aa60aa6e6c41.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "2170255169",
           "FileName": "27026079-69b7-49d6-8dab-974e4db620ba.jpg",
           "Type": "Box - Back",
-          "CRC32": "2170255169",
           "URL": "http://images.launchbox-app.com/27026079-69b7-49d6-8dab-974e4db620ba.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "3212980376",
           "FileName": "596090e4-0501-4833-9649-3012fc8a06d6.jpg",
           "Type": "Box - Front",
-          "CRC32": "3212980376",
           "URL": "http://images.launchbox-app.com/596090e4-0501-4833-9649-3012fc8a06d6.jpg"
         },
         {
-          "FileName": "r2_0afeb86c-d8a3-4399-aa39-58bfe5dfe992.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2099129141",
+          "FileName": "r2_0afeb86c-d8a3-4399-aa39-58bfe5dfe992.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_0afeb86c-d8a3-4399-aa39-58bfe5dfe992.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "9042299c-da85-456b-a250-01a19f0ab9cb.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "746833684",
+          "FileName": "9042299c-da85-456b-a250-01a19f0ab9cb.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/9042299c-da85-456b-a250-01a19f0ab9cb.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_eadad52a-cac2-4504-b646-79915f2200b0.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3649538984",
+        "FileName": "r2_eadad52a-cac2-4504-b646-79915f2200b0.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_eadad52a-cac2-4504-b646-79915f2200b0.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "47bdec30-05ea-4d4f-a079-7d85e811b1de.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "3057490107",
-        "URL": "http://images.launchbox-app.com/47bdec30-05ea-4d4f-a079-7d85e811b1de.jpg"
-      },
-      {
-        "FileName": "7a2f3588-1b40-43dd-bd12-e64a6ea2e6d4.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "58658207",
-        "URL": "http://images.launchbox-app.com/7a2f3588-1b40-43dd-bd12-e64a6ea2e6d4.jpg"
-      },
-      {
-        "FileName": "ca27c0f5-2bc7-44f7-86b5-ffca4508d38c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2781723120",
-        "URL": "http://images.launchbox-app.com/ca27c0f5-2bc7-44f7-86b5-ffca4508d38c.jpg"
-      },
-      {
-        "FileName": "dd0427f1-fbe2-4b44-b84c-7bc9adc1fca6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2462079599",
-        "URL": "http://images.launchbox-app.com/dd0427f1-fbe2-4b44-b84c-7bc9adc1fca6.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "3232982303",
         "FileName": "8c57f7f8-957f-4b2e-ba03-c5680e6df944.png",
         "Type": "Clear Logo",
-        "CRC32": "3232982303",
         "URL": "http://images.launchbox-app.com/8c57f7f8-957f-4b2e-ba03-c5680e6df944.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3057490107",
+        "FileName": "47bdec30-05ea-4d4f-a079-7d85e811b1de.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/47bdec30-05ea-4d4f-a079-7d85e811b1de.jpg"
+      },
+      {
+        "CRC32": "58658207",
+        "FileName": "7a2f3588-1b40-43dd-bd12-e64a6ea2e6d4.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/7a2f3588-1b40-43dd-bd12-e64a6ea2e6d4.jpg"
+      },
+      {
+        "CRC32": "2781723120",
+        "FileName": "ca27c0f5-2bc7-44f7-86b5-ffca4508d38c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ca27c0f5-2bc7-44f7-86b5-ffca4508d38c.jpg"
+      },
+      {
+        "CRC32": "2462079599",
+        "FileName": "dd0427f1-fbe2-4b44-b84c-7bc9adc1fca6.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/dd0427f1-fbe2-4b44-b84c-7bc9adc1fca6.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.15",
+  "DatabaseID": "14358",
+  "Developer": "Cave",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Deathsmiles",
+  "Overview": "Gilverado is a curious mystical kingdom of magic, monsters, and lost souls. Recently, overwhelming numbers of demonic creatures have appeared within the kingdom. Four young girls, taken from the human realm years before and raised as witches with incredible powers, have taken it upon themselves to find the source and put a stop to it.\n\nDeathsmiles is a scrolling \"bullet hell\"-style shooter with a gothic horror theme. Choosing from one of four lolita-style girls, the player must blast their way through seven-plus stages. Unlike many games of this type, enemies appear from all directions, and the player is able to fire to both the left and right. Each character also has a companion familiar who will assist with special attacks, and there are also magic spells that act as screen-clearing bombs. There are multiple paths through the game, multiple difficulty levels for each stage, and numerous optional areas and secret bosses to challenge.\n\nThere are several game modes included. Arcade mode is a direct port of the original arcade release. Ver 1.1 Arrange mode adds the ability to directly control the familiars, and rearranges the stages. Xbox 360 mode features updated graphics, but is otherwise identical to Arcade mode. Lastly, Mega Black Mode (included with English releases, available as DLC in Japanese releases) adds a fifth playable character, a new stage and boss, and an additional extreme difficulty level. All modes can be played two-player simultaneous, including co-op over Xbox Live.",
+  "Publisher": "Cave",
+  "ReleaseDate": "2009-04-23T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=lzzetoCS-w4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Deathsmiles"
 }

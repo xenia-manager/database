@@ -1,64 +1,64 @@
 {
-  "Name": "Virtua Tennis 3",
-  "DatabaseID": "7699",
-  "ReleaseDate": "2007-03-20T00:00:00+00:00",
-  "Overview": "Virtua Tennis 3 (Sega Professional Tennis: Power Smash 3 in Japan) is the second arcade game sequel to Sega's tennis game franchise, Virtua Tennis. The arcade version of Virtua Tennis 3 is powered by the PC-based Sega Lindbergh arcade system board. Ports for the PC, Xbox 360, PlayStation Portable and PlayStation 3 consoles are also available with a traditional collection of tennis minigames that the home versions of Virtua Tennis are known for. In 2009, Sega updated and re-created Virtua Tennis 3 in Virtua Tennis 2009.",
-  "VideoURL": "http://www.youtube.com/watch?v=hhPJsK76dvI",
-  "CommunityRating": "3.5",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Sumo Digital",
-  "Publisher": "Sega",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "1569900308",
           "FileName": "1ad00d51-482e-4211-ab0f-21e9aca3f996.png",
           "Type": "Box - 3D",
-          "CRC32": "1569900308",
           "URL": "http://images.launchbox-app.com/1ad00d51-482e-4211-ab0f-21e9aca3f996.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "3440509635",
           "FileName": "0961ea43-1cb7-4cc5-b63e-037ae3ee13f7.jpg",
           "Type": "Box - Back",
-          "CRC32": "3440509635",
           "URL": "http://images.launchbox-app.com/0961ea43-1cb7-4cc5-b63e-037ae3ee13f7.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "2592660704",
           "FileName": "98297b65-4e0c-4ba7-8590-fb5c3b8b30c9.jpg",
           "Type": "Box - Front",
-          "CRC32": "2592660704",
           "URL": "http://images.launchbox-app.com/98297b65-4e0c-4ba7-8590-fb5c3b8b30c9.jpg"
         },
         {
-          "FileName": "r2_6440b445-26b5-4e9e-a42b-eedc5e341489.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3491696789",
+          "FileName": "r2_6440b445-26b5-4e9e-a42b-eedc5e341489.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_6440b445-26b5-4e9e-a42b-eedc5e341489.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "22c35dc7-4351-4d7c-8b2d-9c33ed0b95fb.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "824130578",
+        "FileName": "22c35dc7-4351-4d7c-8b2d-9c33ed0b95fb.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/22c35dc7-4351-4d7c-8b2d-9c33ed0b95fb.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1203160125",
         "FileName": "f3643b96-67ee-4f43-a561-892208d5b3df.png",
         "Type": "Clear Logo",
-        "CRC32": "1203160125",
         "URL": "http://images.launchbox-app.com/f3643b96-67ee-4f43-a561-892208d5b3df.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "7699",
+  "Developer": "Sumo Digital",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Virtua Tennis 3",
+  "Overview": "Virtua Tennis 3 (Sega Professional Tennis: Power Smash 3 in Japan) is the second arcade game sequel to Sega's tennis game franchise, Virtua Tennis. The arcade version of Virtua Tennis 3 is powered by the PC-based Sega Lindbergh arcade system board. Ports for the PC, Xbox 360, PlayStation Portable and PlayStation 3 consoles are also available with a traditional collection of tennis minigames that the home versions of Virtua Tennis are known for. In 2009, Sega updated and re-created Virtua Tennis 3 in Virtua Tennis 2009.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2007-03-20T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=hhPJsK76dvI"
 }

@@ -1,109 +1,109 @@
 {
-  "Name": "DoDonPachi Dai-Ou-Jou Black Label Extra",
-  "DatabaseID": "202599",
-  "ReleaseDate": "2010-02-19T00:00:00+00:00",
-  "Overview": "DoDonPachi DaiOuJou is the fourth arcade game in Cave's DonPachi series. The history section of DoDonPachi Resurrection on iPhone calls it \"DoDonPachi Blissful Death\" in localisation. CAVE later ported the game to iOS under this localised name.\n\nThe Xbox 360 port includes the original and Black Label editions of the game, as well as online score ranking, replay saving, enhanced graphics, and Xbox Live Marketplace content. There is an Xbox 360 original mode for beginners named the \"X Mode\", where a new Element Doll named Piper is introduced.",
-  "CommunityRating": "3.95",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/DoDonPachi_DaiOuJou",
-  "ESRB": "Not Rated",
-  "Genres": null,
-  "Developer": "5pb.",
-  "Publisher": "5pb.",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_c8d85366-c6cd-4698-9c11-ad56e8752745.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "1246773870",
-        "URL": "http://images.launchbox-app.com/r2_c8d85366-c6cd-4698-9c11-ad56e8752745.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_2f99aea8-0701-4319-a6ce-38cfb005f482.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2160250821",
+        "FileName": "r2_2f99aea8-0701-4319-a6ce-38cfb005f482.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_2f99aea8-0701-4319-a6ce-38cfb005f482.jpg"
       },
       {
-        "FileName": "r2_8dff11d1-8558-4627-9e7c-2d48dcdb8a41.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "4139282796",
+        "FileName": "r2_62911350-1405-4d53-acd8-5253b2550f96.jpg",
         "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_62911350-1405-4d53-acd8-5253b2550f96.jpg"
+      },
+      {
         "CRC32": "4141435665",
+        "FileName": "r2_8dff11d1-8558-4627-9e7c-2d48dcdb8a41.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8dff11d1-8558-4627-9e7c-2d48dcdb8a41.jpg"
       },
       {
-        "FileName": "r2_d607b2b2-026b-4880-b84b-4bb854728613.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "512187962",
-        "URL": "http://images.launchbox-app.com/r2_d607b2b2-026b-4880-b84b-4bb854728613.jpg"
-      },
-      {
-        "FileName": "r2_62911350-1405-4d53-acd8-5253b2550f96.jpg",
-        "Type": "Fanart - Background",
+        "FileName": "r2_d607b2b2-026b-4880-b84b-4bb854728613.jpg",
         "Region": "World",
-        "CRC32": "4139282796",
-        "URL": "http://images.launchbox-app.com/r2_62911350-1405-4d53-acd8-5253b2550f96.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_d607b2b2-026b-4880-b84b-4bb854728613.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1246773870",
+        "FileName": "r2_c8d85366-c6cd-4698-9c11-ad56e8752745.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_c8d85366-c6cd-4698-9c11-ad56e8752745.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_1a7de139-8d2a-4245-b8e7-e78a4eaa1fa1.png",
-          "Type": "Box - 3D",
-          "Region": "Japan",
           "CRC32": "1990731035",
+          "FileName": "r2_1a7de139-8d2a-4245-b8e7-e78a4eaa1fa1.png",
+          "Region": "Japan",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_1a7de139-8d2a-4245-b8e7-e78a4eaa1fa1.png"
         }
       ],
       "Back": [
         {
-          "FileName": "624a7616-2ed1-48fd-a06a-88da1008e52a.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "1977702604",
+          "FileName": "624a7616-2ed1-48fd-a06a-88da1008e52a.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/624a7616-2ed1-48fd-a06a-88da1008e52a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "885ac66a-6d84-4944-8ad1-4b3dcb296c3b.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "1960049368",
+          "FileName": "885ac66a-6d84-4944-8ad1-4b3dcb296c3b.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/885ac66a-6d84-4944-8ad1-4b3dcb296c3b.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "5b058fda-a7af-4fc3-bbbf-aaf0bbd2fa04.jpg",
-          "Type": "Box - Spine",
-          "Region": "Japan",
           "CRC32": "955295152",
+          "FileName": "5b058fda-a7af-4fc3-bbbf-aaf0bbd2fa04.jpg",
+          "Region": "Japan",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/5b058fda-a7af-4fc3-bbbf-aaf0bbd2fa04.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_c7405e0f-3716-412a-bbc1-eae49787ba6d.png",
-        "Type": "Disc",
-        "Region": "Japan",
         "CRC32": "2371270228",
+        "FileName": "r2_c7405e0f-3716-412a-bbc1-eae49787ba6d.png",
+        "Region": "Japan",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_c7405e0f-3716-412a-bbc1-eae49787ba6d.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_3b3b6bac-1b1d-4104-b7a5-737f10e68f3c.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "710876063",
+        "FileName": "r2_3b3b6bac-1b1d-4104-b7a5-737f10e68f3c.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_3b3b6bac-1b1d-4104-b7a5-737f10e68f3c.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.95",
+  "DatabaseID": "202599",
+  "Developer": "5pb.",
+  "ESRB": "Not Rated",
+  "Genres": null,
+  "Name": "DoDonPachi Dai-Ou-Jou Black Label Extra",
+  "Overview": "DoDonPachi DaiOuJou is the fourth arcade game in Cave's DonPachi series. The history section of DoDonPachi Resurrection on iPhone calls it \"DoDonPachi Blissful Death\" in localisation. CAVE later ported the game to iOS under this localised name.\n\nThe Xbox 360 port includes the original and Black Label editions of the game, as well as online score ranking, replay saving, enhanced graphics, and Xbox Live Marketplace content. There is an Xbox 360 original mode for beginners named the \"X Mode\", where a new Element Doll named Piper is introduced.",
+  "Publisher": "5pb.",
+  "ReleaseDate": "2010-02-19T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/DoDonPachi_DaiOuJou"
 }

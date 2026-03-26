@@ -1,133 +1,133 @@
 {
-  "Name": "Mushihimesama Futari Ver 1.5",
-  "DatabaseID": "23723",
-  "ReleaseDate": "2009-11-26T00:00:00+00:00",
-  "Overview": "Mushihimesama Futari (虫姫さまふたり Mushihime-sama Futari?, lit. \"Bug Princess Duo\"), a bullet hell shooter by Cave, was released in arcades on October 27, 2006 and as a sequel to Mushihimesama. Mushihimesama Futari was released on the Xbox 360 in Japan on November 26, 2009. In April 2012, Cave released a port of the game on the iOS platforms, titled Bug Princess 2 (Mushihimesama was also released on the platforms titled Bug Princess).\n\nThe Xbox 360 release includes Version 1.5, Novice and Arrange game modes. The player can select between original arcade graphics, and new high resolution graphics. The players can play the game in tate (vertical monitor), with numerous graphical options, including scanlines. The Xbox 360 exclusive arrange mode allows 1 player only to play through the game with special rules. If a player is a hit they do not die and instead a bomb is launched on contact (unless the player does not have any bombs), the player is allowed to switch between controlling Reco or Palm, with the non-active character ghosting alongside the active one while shooting, changing also generates a temporary shield. Selecting shot type is not available in this mode however.",
-  "CommunityRating": "4.34615384615385",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Mushihimesama_Futari",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "Cave",
-  "Publisher": "Cave",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_831b32a1-3793-4105-a01f-028c1e5e50f0.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "3042518962",
-        "URL": "http://images.launchbox-app.com/r2_831b32a1-3793-4105-a01f-028c1e5e50f0.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_f68e4ade-e6be-4c74-9529-dae5b3918310.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "2086955129",
+        "FileName": "r2_0f066c6e-4914-416a-92ad-65d7c0e504c1.jpg",
         "Region": "World",
-        "CRC32": "3611939235",
-        "URL": "http://images.launchbox-app.com/r2_f68e4ade-e6be-4c74-9529-dae5b3918310.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_0f066c6e-4914-416a-92ad-65d7c0e504c1.jpg"
       },
       {
-        "FileName": "r2_6b91b544-f48b-4de4-bfa3-96f8a36907a2.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "3384404112",
-        "URL": "http://images.launchbox-app.com/r2_6b91b544-f48b-4de4-bfa3-96f8a36907a2.jpg"
-      },
-      {
-        "FileName": "r2_d6a2c2bc-8a25-4d74-94ad-0431643b6898.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "2481392768",
-        "URL": "http://images.launchbox-app.com/r2_d6a2c2bc-8a25-4d74-94ad-0431643b6898.jpg"
-      },
-      {
-        "FileName": "r2_5c31f7b2-355f-469a-b79a-c1d010ab3ecf.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1980811807",
+        "FileName": "r2_5c31f7b2-355f-469a-b79a-c1d010ab3ecf.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_5c31f7b2-355f-469a-b79a-c1d010ab3ecf.jpg"
       },
       {
-        "FileName": "r2_0f066c6e-4914-416a-92ad-65d7c0e504c1.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3384404112",
+        "FileName": "r2_6b91b544-f48b-4de4-bfa3-96f8a36907a2.jpg",
         "Region": "World",
-        "CRC32": "2086955129",
-        "URL": "http://images.launchbox-app.com/r2_0f066c6e-4914-416a-92ad-65d7c0e504c1.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_6b91b544-f48b-4de4-bfa3-96f8a36907a2.jpg"
+      },
+      {
+        "CRC32": "2481392768",
+        "FileName": "r2_d6a2c2bc-8a25-4d74-94ad-0431643b6898.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_d6a2c2bc-8a25-4d74-94ad-0431643b6898.jpg"
+      },
+      {
+        "CRC32": "3611939235",
+        "FileName": "r2_f68e4ade-e6be-4c74-9529-dae5b3918310.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_f68e4ade-e6be-4c74-9529-dae5b3918310.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3042518962",
+        "FileName": "r2_831b32a1-3793-4105-a01f-028c1e5e50f0.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_831b32a1-3793-4105-a01f-028c1e5e50f0.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "c053f3b5-8636-4134-bd39-bf9ed5f47109.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "1748950795",
+          "FileName": "c053f3b5-8636-4134-bd39-bf9ed5f47109.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/c053f3b5-8636-4134-bd39-bf9ed5f47109.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "9d0567f2-d400-4302-ba79-726fc74d1e64.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "7475914",
+          "FileName": "9d0567f2-d400-4302-ba79-726fc74d1e64.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9d0567f2-d400-4302-ba79-726fc74d1e64.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "3c35a3c6-2a90-4e19-b43e-95597eea9232.jpg",
-          "Type": "Box - Spine",
-          "Region": "Japan",
           "CRC32": "835222879",
+          "FileName": "3c35a3c6-2a90-4e19-b43e-95597eea9232.jpg",
+          "Region": "Japan",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/3c35a3c6-2a90-4e19-b43e-95597eea9232.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_39618127-7047-4e3b-944d-e4674eebd1a8.png",
-        "Type": "Disc",
-        "Region": "Japan",
         "CRC32": "615132909",
+        "FileName": "r2_39618127-7047-4e3b-944d-e4674eebd1a8.png",
+        "Region": "Japan",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_39618127-7047-4e3b-944d-e4674eebd1a8.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "bceb4ee6-cd92-4fbc-8895-c4205f76ef38.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "2504598228",
-        "URL": "http://images.launchbox-app.com/bceb4ee6-cd92-4fbc-8895-c4205f76ef38.jpg"
-      },
-      {
-        "FileName": "2ef63d04-47c9-4f35-b576-c20d3cb32600.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "678162375",
-        "URL": "http://images.launchbox-app.com/2ef63d04-47c9-4f35-b576-c20d3cb32600.jpg"
-      },
-      {
-        "FileName": "39033119-da46-4a1a-be42-4df3c29d317f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3210959454",
-        "URL": "http://images.launchbox-app.com/39033119-da46-4a1a-be42-4df3c29d317f.jpg"
-      },
-      {
-        "FileName": "5653f43e-d270-4aec-933e-cfcc053ff44c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3992964242",
-        "URL": "http://images.launchbox-app.com/5653f43e-d270-4aec-933e-cfcc053ff44c.jpg"
       }
     ],
     "Other": [
       {
-        "FileName": "5355d121-4c36-47b2-8edd-94c72d341f4b.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "442549247",
+        "FileName": "5355d121-4c36-47b2-8edd-94c72d341f4b.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/5355d121-4c36-47b2-8edd-94c72d341f4b.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2504598228",
+        "FileName": "bceb4ee6-cd92-4fbc-8895-c4205f76ef38.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/bceb4ee6-cd92-4fbc-8895-c4205f76ef38.jpg"
+      },
+      {
+        "CRC32": "678162375",
+        "FileName": "2ef63d04-47c9-4f35-b576-c20d3cb32600.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/2ef63d04-47c9-4f35-b576-c20d3cb32600.jpg"
+      },
+      {
+        "CRC32": "3210959454",
+        "FileName": "39033119-da46-4a1a-be42-4df3c29d317f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/39033119-da46-4a1a-be42-4df3c29d317f.jpg"
+      },
+      {
+        "CRC32": "3992964242",
+        "FileName": "5653f43e-d270-4aec-933e-cfcc053ff44c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/5653f43e-d270-4aec-933e-cfcc053ff44c.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.34615384615385",
+  "DatabaseID": "23723",
+  "Developer": "Cave",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "Mushihimesama Futari Ver 1.5",
+  "Overview": "Mushihimesama Futari (虫姫さまふたり Mushihime-sama Futari?, lit. \"Bug Princess Duo\"), a bullet hell shooter by Cave, was released in arcades on October 27, 2006 and as a sequel to Mushihimesama. Mushihimesama Futari was released on the Xbox 360 in Japan on November 26, 2009. In April 2012, Cave released a port of the game on the iOS platforms, titled Bug Princess 2 (Mushihimesama was also released on the platforms titled Bug Princess).\n\nThe Xbox 360 release includes Version 1.5, Novice and Arrange game modes. The player can select between original arcade graphics, and new high resolution graphics. The players can play the game in tate (vertical monitor), with numerous graphical options, including scanlines. The Xbox 360 exclusive arrange mode allows 1 player only to play through the game with special rules. If a player is a hit they do not die and instead a bomb is launched on contact (unless the player does not have any bombs), the player is allowed to switch between controlling Reco or Palm, with the non-active character ghosting alongside the active one while shooting, changing also generates a temporary shield. Selecting shot type is not available in this mode however.",
+  "Publisher": "Cave",
+  "ReleaseDate": "2009-11-26T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Mushihimesama_Futari"
 }

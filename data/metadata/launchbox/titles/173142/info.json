@@ -1,77 +1,77 @@
 {
-  "Name": "BandFuse: Rock Legends",
-  "DatabaseID": "173142",
-  "ReleaseDate": "2013-11-19T00:00:00+00:00",
-  "Overview": "BandFuse: Rock Legends provides an authentic pick up and play experience for musicians of all skill levels. Whether you’ve never held a guitar or bass before or you are already the lead guitarist in your own band, BandFuse: Rock Legends will have you rockin’ out with your favorite songs in minutes. Vocalists can enjoy karaoke style or scored vocalist mode with instruction on proper singing technique.",
-  "CommunityRating": "5",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Realta Entertainment Group",
-  "Publisher": "Mastiff",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_76328afb-bd0b-4a55-a8ab-a8a87c88e1f0.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1852919623",
-        "URL": "http://images.launchbox-app.com/r2_76328afb-bd0b-4a55-a8ab-a8a87c88e1f0.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_e6d28294-96ee-4534-bb11-c2fa6f23ae0e.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3960992354",
+        "FileName": "r2_e6d28294-96ee-4534-bb11-c2fa6f23ae0e.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_e6d28294-96ee-4534-bb11-c2fa6f23ae0e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1852919623",
+        "FileName": "r2_76328afb-bd0b-4a55-a8ab-a8a87c88e1f0.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_76328afb-bd0b-4a55-a8ab-a8a87c88e1f0.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_6fe7f7ac-6308-4b21-8698-b156ce37a601.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "22938767",
+          "FileName": "r2_6fe7f7ac-6308-4b21-8698-b156ce37a601.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_6fe7f7ac-6308-4b21-8698-b156ce37a601.png"
         }
       ],
       "Back": [
         {
-          "FileName": "fc870beb-5871-4d14-a4e6-d0fe3da1f9d2.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1148749425",
+          "FileName": "fc870beb-5871-4d14-a4e6-d0fe3da1f9d2.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/fc870beb-5871-4d14-a4e6-d0fe3da1f9d2.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "27ea9409-3884-481c-96be-ca4272a25d72.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2948316174",
+          "FileName": "27ea9409-3884-481c-96be-ca4272a25d72.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/27ea9409-3884-481c-96be-ca4272a25d72.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "b1d38f57-82e0-4329-95d0-dbe299a5b990.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1782043135",
+        "FileName": "b1d38f57-82e0-4329-95d0-dbe299a5b990.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/b1d38f57-82e0-4329-95d0-dbe299a5b990.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "331025173",
         "FileName": "b92a0718-c2ed-4198-8592-2d9e955e0bf2.png",
         "Type": "Clear Logo",
-        "CRC32": "331025173",
         "URL": "http://images.launchbox-app.com/b92a0718-c2ed-4198-8592-2d9e955e0bf2.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "5",
+  "DatabaseID": "173142",
+  "Developer": "Realta Entertainment Group",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "BandFuse: Rock Legends",
+  "Overview": "BandFuse: Rock Legends provides an authentic pick up and play experience for musicians of all skill levels. Whether you’ve never held a guitar or bass before or you are already the lead guitarist in your own band, BandFuse: Rock Legends will have you rockin’ out with your favorite songs in minutes. Vocalists can enjoy karaoke style or scored vocalist mode with instruction on proper singing technique.",
+  "Publisher": "Mastiff",
+  "ReleaseDate": "2013-11-19T00:00:00+00:00"
 }

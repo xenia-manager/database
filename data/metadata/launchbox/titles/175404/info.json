@@ -1,74 +1,74 @@
 {
-  "Name": "Syberia II",
-  "DatabaseID": "175404",
-  "ReleaseDate": "2015-05-13T00:00:00+00:00",
-  "Overview": "Syberia II is a graphic adventure developed and published by MC2-Microïds. As a continuation to Syberia, it is a third-person puzzle-solving game. Stylistically identical to the first Syberia, Syberia II improves upon the first game by introducing more realistic character animation. The game includes a recap of the first chapter, so it does not require the player to have experienced the first game.\n\nSyberia II achieved global sales of 600,000 units by early 2006. The game was received favorably by critics.\n\nLike its predecessor, Syberia II is a third-person, mouse-driven adventure game in which the player must solve various puzzles and follow certain procedures in order for the linear storyline to proceed. As a pure graphical adventure game, Syberia follows the guidelines first introduced by LucasArts: it is impossible to die or to get stuck at any moment in the game, which allows the user to become fully immersed in Syberia's universe without the fear of making a mistake or the constant need to save the game.",
-  "VideoURL": "https://www.metacritic.com/game/xbox-360/syberia-ii",
-  "CommunityRating": "3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Syberia_II",
-  "ESRB": "T - Teen",
-  "Genres": "Adventure",
-  "Developer": "MC2-Microïds",
-  "Publisher": "MC2-Microïds",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3697080011",
         "FileName": "c33d66fc-6ccb-46d1-a283-4f485b357eed.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3697080011",
         "URL": "http://images.launchbox-app.com/c33d66fc-6ccb-46d1-a283-4f485b357eed.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "267b0926-463e-40d3-a54b-f345ddded934.jpg",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "2510145612",
+          "FileName": "267b0926-463e-40d3-a54b-f345ddded934.jpg",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/267b0926-463e-40d3-a54b-f345ddded934.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "3774464837",
+        "FileName": "4b856e6c-f87f-4270-9c83-17c08dfed7a1.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/4b856e6c-f87f-4270-9c83-17c08dfed7a1.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "3194199185",
+        "FileName": "827643d1-6654-43ae-afd5-34b9de43b008.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/827643d1-6654-43ae-afd5-34b9de43b008.jpg"
+      },
+      {
+        "CRC32": "3881237036",
         "FileName": "99df984d-2c31-4a9f-b167-8419f9b0cd4b.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3881237036",
         "URL": "http://images.launchbox-app.com/99df984d-2c31-4a9f-b167-8419f9b0cd4b.jpg"
       },
       {
-        "FileName": "ed99f88e-6d45-4843-b4ba-6a48176144de.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2599810509",
-        "URL": "http://images.launchbox-app.com/ed99f88e-6d45-4843-b4ba-6a48176144de.jpg"
-      },
-      {
-        "FileName": "f0f9d6a2-fdf5-40eb-8f15-c4bbbf85421e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1596367239",
-        "URL": "http://images.launchbox-app.com/f0f9d6a2-fdf5-40eb-8f15-c4bbbf85421e.jpg"
-      },
-      {
+        "CRC32": "3417962357",
         "FileName": "e3174aa3-337b-4fe9-9df2-d25b5c1ed869.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3417962357",
         "URL": "http://images.launchbox-app.com/e3174aa3-337b-4fe9-9df2-d25b5c1ed869.jpg"
       },
       {
-        "FileName": "827643d1-6654-43ae-afd5-34b9de43b008.jpg",
+        "CRC32": "2599810509",
+        "FileName": "ed99f88e-6d45-4843-b4ba-6a48176144de.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3194199185",
-        "URL": "http://images.launchbox-app.com/827643d1-6654-43ae-afd5-34b9de43b008.jpg"
-      }
-    ],
-    "Other": [
+        "URL": "http://images.launchbox-app.com/ed99f88e-6d45-4843-b4ba-6a48176144de.jpg"
+      },
       {
-        "FileName": "4b856e6c-f87f-4270-9c83-17c08dfed7a1.png",
-        "Type": "Clear Logo",
-        "CRC32": "3774464837",
-        "URL": "http://images.launchbox-app.com/4b856e6c-f87f-4270-9c83-17c08dfed7a1.png"
+        "CRC32": "1596367239",
+        "FileName": "f0f9d6a2-fdf5-40eb-8f15-c4bbbf85421e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f0f9d6a2-fdf5-40eb-8f15-c4bbbf85421e.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "175404",
+  "Developer": "MC2-Microïds",
+  "ESRB": "T - Teen",
+  "Genres": "Adventure",
+  "Name": "Syberia II",
+  "Overview": "Syberia II is a graphic adventure developed and published by MC2-Microïds. As a continuation to Syberia, it is a third-person puzzle-solving game. Stylistically identical to the first Syberia, Syberia II improves upon the first game by introducing more realistic character animation. The game includes a recap of the first chapter, so it does not require the player to have experienced the first game.\n\nSyberia II achieved global sales of 600,000 units by early 2006. The game was received favorably by critics.\n\nLike its predecessor, Syberia II is a third-person, mouse-driven adventure game in which the player must solve various puzzles and follow certain procedures in order for the linear storyline to proceed. As a pure graphical adventure game, Syberia follows the guidelines first introduced by LucasArts: it is impossible to die or to get stuck at any moment in the game, which allows the user to become fully immersed in Syberia's universe without the fear of making a mistake or the constant need to save the game.",
+  "Publisher": "MC2-Microïds",
+  "ReleaseDate": "2015-05-13T00:00:00+00:00",
+  "VideoURL": "https://www.metacritic.com/game/xbox-360/syberia-ii",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Syberia_II"
 }

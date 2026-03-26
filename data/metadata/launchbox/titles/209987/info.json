@@ -1,55 +1,55 @@
 {
-  "Name": "Voodoo Dice",
-  "DatabaseID": "209987",
-  "ReleaseDate": "2010-05-26T00:00:00+00:00",
-  "Overview": "Mixing action based and puzzle mechanics in a 3D world, Voodoo Dice is an innovative, challenging puzzler that plays with your mind to lead you to solve puzzles in unique and interesting ways.\n\nVoodoo Dice is an action puzzle game produced by French studio Exkee and distributed by Ubisoft on Xbox Live Arcade, PlayStation Network, and WiiWare. In Voodoo Dice, the player rolls dice through a path containing barriers, switches, conveyors and trap doors. The game consists of 60 single-player levels and 20 multiplayer levels. There are four multiplayer play modes (arcade, race mode, flag mode, tactic mode). In single-player mode, the player must finish each level within a set time limit in order to win achievements.",
-  "CommunityRating": "3.66666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Voodoo_Dice",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "Exkee",
-  "Publisher": "Ubisoft",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1311694025",
         "FileName": "49525a84-f92d-491e-9e14-caa7d1381b87.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1311694025",
         "URL": "http://images.launchbox-app.com/49525a84-f92d-491e-9e14-caa7d1381b87.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "f070810f-1930-4ea1-a8ea-b0aa4d911f3d.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1462976559",
+          "FileName": "f070810f-1930-4ea1-a8ea-b0aa4d911f3d.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f070810f-1930-4ea1-a8ea-b0aa4d911f3d.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "3019673155",
+        "FileName": "c28c4199-5010-4150-8efe-1fe99df48355.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/c28c4199-5010-4150-8efe-1fe99df48355.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "137594590",
         "FileName": "1dcdb7d9-f7f7-40d9-9813-3e060f11eb97.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "137594590",
         "URL": "http://images.launchbox-app.com/1dcdb7d9-f7f7-40d9-9813-3e060f11eb97.jpg"
       },
       {
+        "CRC32": "1571038191",
         "FileName": "6050c7e9-36c2-4675-8822-669a9f1ebcfa.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1571038191",
         "URL": "http://images.launchbox-app.com/6050c7e9-36c2-4675-8822-669a9f1ebcfa.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "c28c4199-5010-4150-8efe-1fe99df48355.png",
-        "Type": "Clear Logo",
-        "CRC32": "3019673155",
-        "URL": "http://images.launchbox-app.com/c28c4199-5010-4150-8efe-1fe99df48355.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.66666666666667",
+  "DatabaseID": "209987",
+  "Developer": "Exkee",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Voodoo Dice",
+  "Overview": "Mixing action based and puzzle mechanics in a 3D world, Voodoo Dice is an innovative, challenging puzzler that plays with your mind to lead you to solve puzzles in unique and interesting ways.\n\nVoodoo Dice is an action puzzle game produced by French studio Exkee and distributed by Ubisoft on Xbox Live Arcade, PlayStation Network, and WiiWare. In Voodoo Dice, the player rolls dice through a path containing barriers, switches, conveyors and trap doors. The game consists of 60 single-player levels and 20 multiplayer levels. There are four multiplayer play modes (arcade, race mode, flag mode, tactic mode). In single-player mode, the player must finish each level within a set time limit in order to win achievements.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2010-05-26T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Voodoo_Dice"
 }

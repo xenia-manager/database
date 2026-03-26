@@ -1,23 +1,23 @@
 {
-  "Name": "Contagion",
-  "DatabaseID": "468603",
-  "ReleaseDate": "2009-08-14T00:00:00+00:00",
-  "Overview": "A 3D action-strategy game in which the player is to maintain the stability of planet SL-49 by raising and herding a breed of bugs whose spores are capable of powering machines that keep their universe in equilibrium.",
-  "VideoURL": "https://youtu.be/XpEMlkA5x20",
-  "Genres": "Puzzle",
-  "Developer": "Trailer Matze",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "c63e0572-dab9-445c-8b81-c5362f8e7481.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1650070905",
+          "FileName": "c63e0572-dab9-445c-8b81-c5362f8e7481.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c63e0572-dab9-445c-8b81-c5362f8e7481.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468603",
+  "Developer": "Trailer Matze",
+  "Genres": "Puzzle",
+  "Name": "Contagion",
+  "Overview": "A 3D action-strategy game in which the player is to maintain the stability of planet SL-49 by raising and herding a breed of bugs whose spores are capable of powering machines that keep their universe in equilibrium.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2009-08-14T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/XpEMlkA5x20"
 }

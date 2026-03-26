@@ -1,85 +1,85 @@
 {
-  "Name": "NeoGeo Battle Coliseum",
-  "DatabaseID": "163598",
-  "ReleaseDate": "2010-06-09T00:00:00+00:00",
-  "Overview": "NeoGeo Battle Coliseum assembles 40 characters from past NeoGeo fighters and action games into one big tag-team brawl, along with some new ones. The characters represent the games King of Fighters, Fatal Fury, Mark of the Wolves, Samurai Shodown, Art of Fighting, Last Blade, King of the Monsters, World Heroes, Athena, Aggressors of Dark Kombat, Kizuna Encounter: Super Tag Battle and Metal Slug. The two new characters are Ai and Yuki, along with a secret character not found in the arcade version. The background graphics have been improved, there is newly arranged music, a colour edit mode, command editor function and a new Tag Play mode.",
-  "VideoURL": "https://www.youtube.com/watch?v=nytTbyg6ZVc",
-  "CommunityRating": "3.07142857142857",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Neo_Geo_Battle_Coliseum",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "SNK Playmore",
-  "Publisher": "SNK Playmore",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "856a0ece-872c-415d-a537-067016deac5d.png",
-        "Type": "Banner",
-        "CRC32": "1542971798",
-        "URL": "http://images.launchbox-app.com/856a0ece-872c-415d-a537-067016deac5d.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2065500011",
         "FileName": "59ec7017-9434-44bd-8bbc-d967325d65fa.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2065500011",
         "URL": "http://images.launchbox-app.com/59ec7017-9434-44bd-8bbc-d967325d65fa.jpg"
       },
       {
+        "CRC32": "2811912",
         "FileName": "e3fd4513-6a4e-4193-8854-d6c494f630a2.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2811912",
         "URL": "http://images.launchbox-app.com/e3fd4513-6a4e-4193-8854-d6c494f630a2.jpg"
       },
       {
+        "CRC32": "2669474461",
         "FileName": "fb0b6c66-9920-4b37-b705-50bae6e688c8.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2669474461",
         "URL": "http://images.launchbox-app.com/fb0b6c66-9920-4b37-b705-50bae6e688c8.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1542971798",
+        "FileName": "856a0ece-872c-415d-a537-067016deac5d.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/856a0ece-872c-415d-a537-067016deac5d.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "d8e0496a-a50e-4742-b3db-17ac021e8158.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "84357947",
+          "FileName": "d8e0496a-a50e-4742-b3db-17ac021e8158.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/d8e0496a-a50e-4742-b3db-17ac021e8158.png"
         }
       ],
       "Front": [
         {
-          "FileName": "1a584fb2-4946-4823-ab3c-416c4eb6b63c.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3010625012",
+          "FileName": "1a584fb2-4946-4823-ab3c-416c4eb6b63c.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1a584fb2-4946-4823-ab3c-416c4eb6b63c.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "768259735",
+        "FileName": "7136e3bf-805d-484d-963b-eb4fa9476b43.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/7136e3bf-805d-484d-963b-eb4fa9476b43.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "1045204937",
         "FileName": "e9abca9a-eaef-4973-8339-61f40c10df3d.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "1045204937",
         "URL": "http://images.launchbox-app.com/e9abca9a-eaef-4973-8339-61f40c10df3d.jpg"
       },
       {
+        "CRC32": "3193613265",
         "FileName": "9246953c-9051-46fb-bf28-5b07c7effa16.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "3193613265",
         "URL": "http://images.launchbox-app.com/9246953c-9051-46fb-bf28-5b07c7effa16.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "7136e3bf-805d-484d-963b-eb4fa9476b43.png",
-        "Type": "Clear Logo",
-        "CRC32": "768259735",
-        "URL": "http://images.launchbox-app.com/7136e3bf-805d-484d-963b-eb4fa9476b43.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.07142857142857",
+  "DatabaseID": "163598",
+  "Developer": "SNK Playmore",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "NeoGeo Battle Coliseum",
+  "Overview": "NeoGeo Battle Coliseum assembles 40 characters from past NeoGeo fighters and action games into one big tag-team brawl, along with some new ones. The characters represent the games King of Fighters, Fatal Fury, Mark of the Wolves, Samurai Shodown, Art of Fighting, Last Blade, King of the Monsters, World Heroes, Athena, Aggressors of Dark Kombat, Kizuna Encounter: Super Tag Battle and Metal Slug. The two new characters are Ai and Yuki, along with a secret character not found in the arcade version. The background graphics have been improved, there is newly arranged music, a colour edit mode, command editor function and a new Tag Play mode.",
+  "Publisher": "SNK Playmore",
+  "ReleaseDate": "2010-06-09T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=nytTbyg6ZVc",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Neo_Geo_Battle_Coliseum"
 }

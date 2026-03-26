@@ -1,49 +1,49 @@
 {
-  "Name": "NCAA Football 11",
-  "DatabaseID": "7549",
-  "ReleaseDate": "2010-07-13T00:00:00+00:00",
-  "Overview": "NCAA Football 11 is a college football video game created by EA Sports and developed by EA Tiburon. It is the successor to NCAA Football 10 in the NCAA Football series. It was released on July 13, 2010 for the PlayStation 2, PlayStation 3, Xbox 360. A handheld version was released for iOS on June 24, 2010.",
-  "CommunityRating": "4.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/NCAA_Football_11",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Canada",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "1900775320",
           "FileName": "d39505ba-36ce-4437-8b61-4cba16c374d9.png",
           "Type": "Box - 3D",
-          "CRC32": "1900775320",
           "URL": "http://images.launchbox-app.com/d39505ba-36ce-4437-8b61-4cba16c374d9.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "3473515708",
           "FileName": "d82cb35c-e503-4237-af58-a954753738cc.jpg",
           "Type": "Box - Back",
-          "CRC32": "3473515708",
           "URL": "http://images.launchbox-app.com/d82cb35c-e503-4237-af58-a954753738cc.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "3920381436",
           "FileName": "efb2bee0-dc0a-455f-a828-171aae385d24.jpg",
           "Type": "Box - Front",
-          "CRC32": "3920381436",
           "URL": "http://images.launchbox-app.com/efb2bee0-dc0a-455f-a828-171aae385d24.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_c9dfb46b-e056-408c-86ad-705baded247d.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3856347838",
+        "FileName": "r2_c9dfb46b-e056-408c-86ad-705baded247d.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_c9dfb46b-e056-408c-86ad-705baded247d.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "7549",
+  "Developer": "Electronic Arts Canada",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "NCAA Football 11",
+  "Overview": "NCAA Football 11 is a college football video game created by EA Sports and developed by EA Tiburon. It is the successor to NCAA Football 10 in the NCAA Football series. It was released on July 13, 2010 for the PlayStation 2, PlayStation 3, Xbox 360. A handheld version was released for iOS on June 24, 2010.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2010-07-13T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/NCAA_Football_11"
 }

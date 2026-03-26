@@ -1,52 +1,52 @@
 {
-  "Name": "Kukaku",
-  "DatabaseID": "470706",
-  "ReleaseDate": "2010-02-25T00:00:00+00:00",
-  "Overview": "Kukaku is a 2-player competitive puzzle game where the player must shoot colored blocks in order to match them. The player can fire blocks onto their field from the side; if three or more of the same color touch, they are destroyed, causing blocks to appear on the opponent's side and raising their tension bar. If the tension bar for a player fills completely, their entire field is moved one square closer to their launcher, and if the blocks reach the end of the field, the other player wins. There are versus CPU and survival modes for one player, as well as a two-player versus mode.",
-  "Genres": "Puzzle",
-  "Developer": "Repixel8",
-  "Publisher": "Repixel8",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "f2422992-9e13-4888-88f0-593fd23d0959.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2658135660",
+          "FileName": "f2422992-9e13-4888-88f0-593fd23d0959.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f2422992-9e13-4888-88f0-593fd23d0959.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "ffa1beb6-e1f2-47e2-b06f-75bdc71193b0.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3580760451",
+        "FileName": "b50d975d-890a-4ecc-a89b-b2b706379abd.jpg",
         "Region": "World",
-        "CRC32": "2886310938",
-        "URL": "http://images.launchbox-app.com/ffa1beb6-e1f2-47e2-b06f-75bdc71193b0.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/b50d975d-890a-4ecc-a89b-b2b706379abd.jpg"
       },
       {
-        "FileName": "f6b2edd0-8437-43b3-ba1e-1fed0cda50a1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "3119708279",
-        "URL": "http://images.launchbox-app.com/f6b2edd0-8437-43b3-ba1e-1fed0cda50a1.jpg"
-      },
-      {
-        "FileName": "ed9db799-f35d-4115-9da9-afc7d69cd7c1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3715684519",
+        "FileName": "ed9db799-f35d-4115-9da9-afc7d69cd7c1.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/ed9db799-f35d-4115-9da9-afc7d69cd7c1.jpg"
       },
       {
-        "FileName": "b50d975d-890a-4ecc-a89b-b2b706379abd.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3119708279",
+        "FileName": "f6b2edd0-8437-43b3-ba1e-1fed0cda50a1.jpg",
         "Region": "World",
-        "CRC32": "3580760451",
-        "URL": "http://images.launchbox-app.com/b50d975d-890a-4ecc-a89b-b2b706379abd.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f6b2edd0-8437-43b3-ba1e-1fed0cda50a1.jpg"
+      },
+      {
+        "CRC32": "2886310938",
+        "FileName": "ffa1beb6-e1f2-47e2-b06f-75bdc71193b0.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ffa1beb6-e1f2-47e2-b06f-75bdc71193b0.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "470706",
+  "Developer": "Repixel8",
+  "Genres": "Puzzle",
+  "Name": "Kukaku",
+  "Overview": "Kukaku is a 2-player competitive puzzle game where the player must shoot colored blocks in order to match them. The player can fire blocks onto their field from the side; if three or more of the same color touch, they are destroyed, causing blocks to appear on the opponent's side and raising their tension bar. If the tension bar for a player fills completely, their entire field is moved one square closer to their launcher, and if the blocks reach the end of the field, the other player wins. There are versus CPU and survival modes for one player, as well as a two-player versus mode.",
+  "Publisher": "Repixel8",
+  "ReleaseDate": "2010-02-25T00:00:00+00:00"
 }

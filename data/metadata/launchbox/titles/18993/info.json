@@ -1,67 +1,67 @@
 {
-  "Name": "Dust: An Elysian Tail",
-  "DatabaseID": "18993",
-  "ReleaseDate": "2012-08-15T00:00:00+00:00",
-  "Overview": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond. At your disposal is the mythical Blade of Ahrah, capable of turning its wielder into an unstoppable force of nature, and the blade's diminutive guardian, Fidget. Battle dozens of enemies at once with an easy-to-learn, difficult-to-master combat system, take on a variety of quests from friendly villagers, discover ancient secrets and powerful upgrades hidden throughout the massive, open world, and uncover the story of an ancient civilization on the brink of extinction as you fight to uncover your own past.",
-  "VideoURL": "https://www.youtube.com/watch?v=TRnImjMHN9c",
-  "CommunityRating": "3.96153846153846",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dust:_An_Elysian_Tail",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action; Beat 'em Up; Role-Playing",
-  "Developer": "Humble Hearts",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7c217d0b-4c81-4164-8854-95bff99f24bc.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3625616994",
-        "URL": "http://images.launchbox-app.com/r2_7c217d0b-4c81-4164-8854-95bff99f24bc.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3348717109",
         "FileName": "4ca0a9d2-a686-4907-8214-2669fb5dab3c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3348717109",
         "URL": "http://images.launchbox-app.com/4ca0a9d2-a686-4907-8214-2669fb5dab3c.jpg"
       },
       {
-        "FileName": "r2_54f93792-f2b4-40ca-a5c7-8e26a907c17e.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3510873618",
+        "FileName": "r2_54f93792-f2b4-40ca-a5c7-8e26a907c17e.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_54f93792-f2b4-40ca-a5c7-8e26a907c17e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3625616994",
+        "FileName": "r2_7c217d0b-4c81-4164-8854-95bff99f24bc.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7c217d0b-4c81-4164-8854-95bff99f24bc.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "6876b71d-034e-46ac-b931-be4a999ca75e.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2496730005",
+          "FileName": "6876b71d-034e-46ac-b931-be4a999ca75e.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/6876b71d-034e-46ac-b931-be4a999ca75e.png"
         }
       ],
       "Front": [
         {
-          "FileName": "551d9d06-32aa-4cf4-be23-1a608dd2d7ad.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "599123197",
+          "FileName": "551d9d06-32aa-4cf4-be23-1a608dd2d7ad.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/551d9d06-32aa-4cf4-be23-1a608dd2d7ad.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "2308451084",
         "FileName": "55b75147-245b-4358-bd2e-3871b7420b84.png",
         "Type": "Clear Logo",
-        "CRC32": "2308451084",
         "URL": "http://images.launchbox-app.com/55b75147-245b-4358-bd2e-3871b7420b84.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.96153846153846",
+  "DatabaseID": "18993",
+  "Developer": "Humble Hearts",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action; Beat 'em Up; Role-Playing",
+  "Name": "Dust: An Elysian Tail",
+  "Overview": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond. At your disposal is the mythical Blade of Ahrah, capable of turning its wielder into an unstoppable force of nature, and the blade's diminutive guardian, Fidget. Battle dozens of enemies at once with an easy-to-learn, difficult-to-master combat system, take on a variety of quests from friendly villagers, discover ancient secrets and powerful upgrades hidden throughout the massive, open world, and uncover the story of an ancient civilization on the brink of extinction as you fight to uncover your own past.",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2012-08-15T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=TRnImjMHN9c",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dust:_An_Elysian_Tail"
 }

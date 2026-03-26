@@ -1,115 +1,115 @@
 {
-  "Name": "Battle: Los Angeles",
-  "DatabaseID": "19589",
-  "ReleaseDate": "2011-03-11T00:00:00+00:00",
-  "Overview": "Players will have the opportunity to relive the thrill of the movie as they assume the role of Corporal Lee Imlay and fight alongside characters from the film and defend the city of Los Angeles from attacks from unknown forces.",
-  "CommunityRating": "3.3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Battle:_Los_Angeles_(video_game%29",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "Saber Interactive",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "fdadf104-eafc-4838-bbf0-d56acdc92f60.png",
-        "Type": "Banner",
-        "CRC32": "1286276044",
-        "URL": "http://images.launchbox-app.com/fdadf104-eafc-4838-bbf0-d56acdc92f60.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3051079516",
         "FileName": "574f416d-0681-42c9-a972-8d6799632f26.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3051079516",
         "URL": "http://images.launchbox-app.com/574f416d-0681-42c9-a972-8d6799632f26.jpg"
       },
       {
+        "CRC32": "3747901069",
         "FileName": "e398d286-eb54-4d41-a109-abadc220eaac.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3747901069",
         "URL": "http://images.launchbox-app.com/e398d286-eb54-4d41-a109-abadc220eaac.jpg"
       }
     ],
+    "Banner": [
+      {
+        "CRC32": "1286276044",
+        "FileName": "fdadf104-eafc-4838-bbf0-d56acdc92f60.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/fdadf104-eafc-4838-bbf0-d56acdc92f60.png"
+      }
+    ],
     "Box": {
+      "Back": [
+        {
+          "CRC32": "706341843",
+          "FileName": "0b7e0fa6-45b6-4293-b972-5669e98d37fb.jpg",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/0b7e0fa6-45b6-4293-b972-5669e98d37fb.jpg"
+        },
+        {
+          "CRC32": "822629563",
+          "FileName": "876b1718-6ae0-4847-87ed-77da68b028a4.jpg",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/876b1718-6ae0-4847-87ed-77da68b028a4.jpg"
+        },
+        {
+          "CRC32": "1963281840",
+          "FileName": "f555032b-abfb-4bab-b849-f6a1e65a4a2e.jpg",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/f555032b-abfb-4bab-b849-f6a1e65a4a2e.jpg"
+        }
+      ],
       "Front": [
         {
+          "CRC32": "350562649",
           "FileName": "cf76d5e0-2ccd-49cb-acba-54d7bb5a8bca.jpg",
           "Type": "Box - Front",
-          "CRC32": "350562649",
           "URL": "http://images.launchbox-app.com/cf76d5e0-2ccd-49cb-acba-54d7bb5a8bca.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "7c2e6172-ef12-4ddb-a883-1f7ce549a158.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "2276340866",
-          "URL": "http://images.launchbox-app.com/7c2e6172-ef12-4ddb-a883-1f7ce549a158.jpg"
-        },
-        {
-          "FileName": "53c642e6-b860-4044-8134-5b08ad96db7c.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3569505459",
+          "FileName": "53c642e6-b860-4044-8134-5b08ad96db7c.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/53c642e6-b860-4044-8134-5b08ad96db7c.jpg"
-        }
-      ],
-      "Back": [
-        {
-          "FileName": "876b1718-6ae0-4847-87ed-77da68b028a4.jpg",
-          "Type": "Fanart - Box - Back",
-          "CRC32": "822629563",
-          "URL": "http://images.launchbox-app.com/876b1718-6ae0-4847-87ed-77da68b028a4.jpg"
         },
         {
-          "FileName": "0b7e0fa6-45b6-4293-b972-5669e98d37fb.jpg",
-          "Type": "Fanart - Box - Back",
-          "CRC32": "706341843",
-          "URL": "http://images.launchbox-app.com/0b7e0fa6-45b6-4293-b972-5669e98d37fb.jpg"
-        },
-        {
-          "FileName": "f555032b-abfb-4bab-b849-f6a1e65a4a2e.jpg",
-          "Type": "Fanart - Box - Back",
-          "CRC32": "1963281840",
-          "URL": "http://images.launchbox-app.com/f555032b-abfb-4bab-b849-f6a1e65a4a2e.jpg"
+          "CRC32": "2276340866",
+          "FileName": "7c2e6172-ef12-4ddb-a883-1f7ce549a158.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/7c2e6172-ef12-4ddb-a883-1f7ce549a158.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2057928384",
+        "FileName": "687379d3-2870-4190-8c1f-3144a4006931.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/687379d3-2870-4190-8c1f-3144a4006931.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "2333811245",
+        "FileName": "8459a902-a4ba-4d79-bbde-119121d29e31.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8459a902-a4ba-4d79-bbde-119121d29e31.jpg"
+      },
+      {
+        "CRC32": "671152068",
         "FileName": "9c1d21ff-571f-4bc2-a1df-124bfc995740.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "671152068",
         "URL": "http://images.launchbox-app.com/9c1d21ff-571f-4bc2-a1df-124bfc995740.jpg"
       },
       {
+        "CRC32": "2489399175",
         "FileName": "cc0dc3fe-de35-4f01-8956-809e1fe36d56.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2489399175",
         "URL": "http://images.launchbox-app.com/cc0dc3fe-de35-4f01-8956-809e1fe36d56.jpg"
       },
       {
+        "CRC32": "592421732",
         "FileName": "f4cce025-8e3c-4bcc-9634-47b38a58900a.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "592421732",
         "URL": "http://images.launchbox-app.com/f4cce025-8e3c-4bcc-9634-47b38a58900a.jpg"
-      },
-      {
-        "FileName": "8459a902-a4ba-4d79-bbde-119121d29e31.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2333811245",
-        "URL": "http://images.launchbox-app.com/8459a902-a4ba-4d79-bbde-119121d29e31.jpg"
-      }
-    ],
-    "Other": [
-      {
-        "FileName": "687379d3-2870-4190-8c1f-3144a4006931.png",
-        "Type": "Clear Logo",
-        "CRC32": "2057928384",
-        "URL": "http://images.launchbox-app.com/687379d3-2870-4190-8c1f-3144a4006931.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.3",
+  "DatabaseID": "19589",
+  "Developer": "Saber Interactive",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Battle: Los Angeles",
+  "Overview": "Players will have the opportunity to relive the thrill of the movie as they assume the role of Corporal Lee Imlay and fight alongside characters from the film and defend the city of Los Angeles from attacks from unknown forces.",
+  "ReleaseDate": "2011-03-11T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Battle:_Los_Angeles_(video_game%29"
 }

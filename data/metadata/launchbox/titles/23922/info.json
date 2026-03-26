@@ -1,82 +1,82 @@
 {
-  "Name": "Dream C Club",
-  "DatabaseID": "23922",
-  "ReleaseDate": "2009-08-27T00:00:00+00:00",
-  "Overview": "The goal of the game is to achieve a happy ending with a hostess working at the club by repeatedly visiting her there and eventually winning her heart. Visiting the club costs money which is raised by doing part-time jobs which are performed by simply selecting one work option from among two to four, after which the result of your work is immediately displayed and money is collected.",
-  "CommunityRating": "3",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Life Simulation; Strategy",
-  "Developer": "Tamsoft",
-  "Publisher": "505 Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_8f69ca60-a5e6-4be4-bbfa-30d6976cb685.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "709815845",
-        "URL": "http://images.launchbox-app.com/r2_8f69ca60-a5e6-4be4-bbfa-30d6976cb685.png"
-      },
-      {
-        "FileName": "r2_4f189805-15fc-4356-bfd7-05fd5c240ee0.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "2194990290",
-        "URL": "http://images.launchbox-app.com/r2_4f189805-15fc-4356-bfd7-05fd5c240ee0.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_4e766b44-8247-4294-8d09-1104a57c2baa.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1863684564",
+        "FileName": "r2_4e766b44-8247-4294-8d09-1104a57c2baa.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_4e766b44-8247-4294-8d09-1104a57c2baa.jpg"
       },
       {
-        "FileName": "r2_cb4cb1ae-0ca9-41a8-9177-681cf9a08502.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2514055103",
+        "FileName": "r2_cb4cb1ae-0ca9-41a8-9177-681cf9a08502.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_cb4cb1ae-0ca9-41a8-9177-681cf9a08502.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2194990290",
+        "FileName": "r2_4f189805-15fc-4356-bfd7-05fd5c240ee0.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_4f189805-15fc-4356-bfd7-05fd5c240ee0.png"
+      },
+      {
+        "CRC32": "709815845",
+        "FileName": "r2_8f69ca60-a5e6-4be4-bbfa-30d6976cb685.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_8f69ca60-a5e6-4be4-bbfa-30d6976cb685.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_0ae42b4b-bd6b-4132-9316-006962ea7f33.png",
-          "Type": "Box - 3D",
-          "Region": "Japan",
           "CRC32": "689688593",
+          "FileName": "r2_0ae42b4b-bd6b-4132-9316-006962ea7f33.png",
+          "Region": "Japan",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_0ae42b4b-bd6b-4132-9316-006962ea7f33.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "2829602878",
           "FileName": "a13387fc-1aa6-4ee0-bd64-4699782e0d5f.jpg",
           "Type": "Box - Front",
-          "CRC32": "2829602878",
           "URL": "http://images.launchbox-app.com/a13387fc-1aa6-4ee0-bd64-4699782e0d5f.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_3b8d8246-62da-483e-8ea5-032a8be093b6.png",
-        "Type": "Disc",
-        "Region": "Japan",
         "CRC32": "4119539889",
+        "FileName": "r2_3b8d8246-62da-483e-8ea5-032a8be093b6.png",
+        "Region": "Japan",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_3b8d8246-62da-483e-8ea5-032a8be093b6.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_376d18b0-983d-4e8e-8b9e-d7c347992a64.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "3127181742",
+        "FileName": "r2_376d18b0-983d-4e8e-8b9e-d7c347992a64.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_376d18b0-983d-4e8e-8b9e-d7c347992a64.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "23922",
+  "Developer": "Tamsoft",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Life Simulation; Strategy",
+  "Name": "Dream C Club",
+  "Overview": "The goal of the game is to achieve a happy ending with a hostess working at the club by repeatedly visiting her there and eventually winning her heart. Visiting the club costs money which is raised by doing part-time jobs which are performed by simply selecting one work option from among two to four, after which the result of your work is immediately displayed and money is collected.",
+  "Publisher": "505 Games",
+  "ReleaseDate": "2009-08-27T00:00:00+00:00"
 }

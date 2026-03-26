@@ -1,35 +1,35 @@
 {
-  "Name": "Super Robot Wars XO",
-  "DatabaseID": "162238",
-  "Genres": null,
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "8599e987-bb6c-48f7-a0c0-ebbaa4b37fd9.png",
-          "Type": "Box - 3D",
-          "Region": "Japan",
           "CRC32": "235989106",
+          "FileName": "8599e987-bb6c-48f7-a0c0-ebbaa4b37fd9.png",
+          "Region": "Japan",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/8599e987-bb6c-48f7-a0c0-ebbaa4b37fd9.png"
         }
       ],
       "Front": [
         {
-          "FileName": "ab7a1224-adf6-4622-8a54-2ec96e22471d.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "4046023738",
+          "FileName": "ab7a1224-adf6-4622-8a54-2ec96e22471d.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ab7a1224-adf6-4622-8a54-2ec96e22471d.jpg"
         }
       ]
     },
     "Icon": [
       {
+        "CRC32": "3326926014",
         "FileName": "d90d36aa-d4ae-44cd-b651-c7bb8ea1086c.png",
         "Type": "Icon",
-        "CRC32": "3326926014",
         "URL": "http://images.launchbox-app.com/d90d36aa-d4ae-44cd-b651-c7bb8ea1086c.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "162238",
+  "Genres": null,
+  "Name": "Super Robot Wars XO"
 }

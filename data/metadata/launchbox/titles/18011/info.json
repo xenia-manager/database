@@ -1,90 +1,90 @@
 {
-  "Name": "Disney Infinity",
-  "DatabaseID": "18011",
-  "ReleaseDate": "2013-08-18T00:00:00+00:00",
-  "Overview": "Disney Infinity is an action-adventure game similar to the Skylanders franchise where physical figurines are used to interact with the game. The main difference in approach is that Infinity focuses more on character creation and experimentation with the different elements. The starter version of the game comes with the infinity base and three figurines (Sulley, Mr. Incredible and Jack Sparrow). The base consists of two spots to place figurines that are then imported into the game as playable characters. It also has a hexagonal spot to place up to three power discs. These add enhancements to the game such as changes in the terrain, background, new vehicles or weapons. Red ability discs are placed underneath a character on the base as perks, with a maximum of two per character and four in total. Orange toy discs add gadgets and vehicles. Purple customization discs alter the environment and sky. For orange and purple discs only a maximum of three at a time is allowed. Discs are sold separately in series, blind packages and through specific promotions and retailers. The same goes for figurines and Play Sets. There are also rare discs with a hologram in the middle.",
-  "VideoURL": "https://www.youtube.com/watch?v=5RNlHufWHyY",
-  "CommunityRating": "4.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Disney_Infinity_(video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action; Adventure",
-  "Developer": "Avalanche Software",
-  "Publisher": "Disney Interactive Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_6c8e788e-2b49-4225-9611-ca19dc469985.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "466055291",
-        "URL": "http://images.launchbox-app.com/r2_6c8e788e-2b49-4225-9611-ca19dc469985.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "406869201",
         "FileName": "c8762df1-ef57-4026-9c3c-6948ac6b3116.png",
         "Type": "Fanart - Background",
-        "CRC32": "406869201",
         "URL": "http://images.launchbox-app.com/c8762df1-ef57-4026-9c3c-6948ac6b3116.png"
       },
       {
-        "FileName": "r2_a7586939-8d6e-4790-96f4-ae52674bc8c5.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3504711942",
+        "FileName": "r2_a7586939-8d6e-4790-96f4-ae52674bc8c5.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_a7586939-8d6e-4790-96f4-ae52674bc8c5.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "466055291",
+        "FileName": "r2_6c8e788e-2b49-4225-9611-ca19dc469985.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_6c8e788e-2b49-4225-9611-ca19dc469985.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_38466122-c941-4681-9059-e4db7b098ddf.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "852912301",
+          "FileName": "r2_38466122-c941-4681-9059-e4db7b098ddf.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_38466122-c941-4681-9059-e4db7b098ddf.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "657638158",
           "FileName": "c4fdedda-6a2f-4160-895f-9b7a0f123aa5.jpg",
           "Type": "Box - Front",
-          "CRC32": "657638158",
           "URL": "http://images.launchbox-app.com/c4fdedda-6a2f-4160-895f-9b7a0f123aa5.jpg"
         },
         {
-          "FileName": "r2_6ffb2fb5-04c9-427d-8b15-8af18b997999.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2076596695",
+          "FileName": "r2_6ffb2fb5-04c9-427d-8b15-8af18b997999.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_6ffb2fb5-04c9-427d-8b15-8af18b997999.jpg"
         },
         {
-          "FileName": "c9a1a5f6-048a-4a5b-b801-f87986be4d5f.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "641498276",
+          "FileName": "c9a1a5f6-048a-4a5b-b801-f87986be4d5f.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c9a1a5f6-048a-4a5b-b801-f87986be4d5f.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_b91f4edf-0a76-48bf-84e5-d8e3fffa6d53.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3831042488",
+        "FileName": "r2_b91f4edf-0a76-48bf-84e5-d8e3fffa6d53.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_b91f4edf-0a76-48bf-84e5-d8e3fffa6d53.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_53bcdffb-582e-4392-8b7d-b3cdb02ae40f.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "1178616430",
+        "FileName": "r2_53bcdffb-582e-4392-8b7d-b3cdb02ae40f.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_53bcdffb-582e-4392-8b7d-b3cdb02ae40f.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "18011",
+  "Developer": "Avalanche Software",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action; Adventure",
+  "Name": "Disney Infinity",
+  "Overview": "Disney Infinity is an action-adventure game similar to the Skylanders franchise where physical figurines are used to interact with the game. The main difference in approach is that Infinity focuses more on character creation and experimentation with the different elements. The starter version of the game comes with the infinity base and three figurines (Sulley, Mr. Incredible and Jack Sparrow). The base consists of two spots to place figurines that are then imported into the game as playable characters. It also has a hexagonal spot to place up to three power discs. These add enhancements to the game such as changes in the terrain, background, new vehicles or weapons. Red ability discs are placed underneath a character on the base as perks, with a maximum of two per character and four in total. Orange toy discs add gadgets and vehicles. Purple customization discs alter the environment and sky. For orange and purple discs only a maximum of three at a time is allowed. Discs are sold separately in series, blind packages and through specific promotions and retailers. The same goes for figurines and Play Sets. There are also rare discs with a hologram in the middle.",
+  "Publisher": "Disney Interactive Studios",
+  "ReleaseDate": "2013-08-18T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=5RNlHufWHyY",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Disney_Infinity_(video_game)"
 }

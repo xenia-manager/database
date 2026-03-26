@@ -1,23 +1,23 @@
 {
-  "Name": "Boss",
-  "DatabaseID": "468230",
-  "ReleaseDate": "2013-06-26T00:00:00+00:00",
-  "Overview": "Build and defend an empire.",
-  "VideoURL": "https://youtu.be/21xTUqNyMcE",
-  "Genres": "Strategy",
-  "Developer": "Nocturnal Studio",
-  "Publisher": "Nocturnal Studio",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "07adffa5-b1ab-41d6-8a7c-55164fd0953f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4083310040",
+          "FileName": "07adffa5-b1ab-41d6-8a7c-55164fd0953f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/07adffa5-b1ab-41d6-8a7c-55164fd0953f.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468230",
+  "Developer": "Nocturnal Studio",
+  "Genres": "Strategy",
+  "Name": "Boss",
+  "Overview": "Build and defend an empire.",
+  "Publisher": "Nocturnal Studio",
+  "ReleaseDate": "2013-06-26T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/21xTUqNyMcE"
 }

@@ -1,84 +1,84 @@
 {
-  "Name": "Hot Wheels: World's Best Driver",
-  "DatabaseID": "17835",
-  "ReleaseDate": "2013-09-17T00:00:00+00:00",
-  "Overview": "Do you have what it takes to be the World's Best Driver? \n\nGear up for the most intense challenges only Hot Wheels can deliver! Pick your team, choose your ride and go for it! Get behind the wheel of thrilling Hot Wheels vehicles while joining the elite ranks of Team Hot Wheels. Compete in dozens of unique, fast-paced, re-playable challenges all highlighting the different driving styles of Team Hot Wheels: the speed record-breaking Green Team, the show-stopping stunts of the Red Team, the high-tech precision of the Blue Team and the world record-breaking jumps of the Yellow Team. Do you have what it takes to be the World's Best Driver?",
-  "VideoURL": "https://www.youtube.com/watch?v=HnGBnYqPcdU",
-  "CommunityRating": "4.25",
-  "WikipediaURL": "en.wikipedia.org/wiki/Hot_Wheels_World%27s_Best_Driver",
-  "ESRB": "E - Everyone",
-  "Genres": "Racing",
-  "Developer": "Firebrand Games and Entertainment",
-  "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_d0b4576f-2eef-481b-9d5b-b05f3d4c8029.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1863996971",
-        "URL": "http://images.launchbox-app.com/r2_d0b4576f-2eef-481b-9d5b-b05f3d4c8029.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_148699c1-725b-4d29-8e8c-86f6e0d03f8b.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1054239262",
+        "FileName": "r2_148699c1-725b-4d29-8e8c-86f6e0d03f8b.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_148699c1-725b-4d29-8e8c-86f6e0d03f8b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1863996971",
+        "FileName": "r2_d0b4576f-2eef-481b-9d5b-b05f3d4c8029.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_d0b4576f-2eef-481b-9d5b-b05f3d4c8029.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "0fe58ab5-0b2a-48f0-9887-44d3b309ec73.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "237831321",
+          "FileName": "0fe58ab5-0b2a-48f0-9887-44d3b309ec73.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/0fe58ab5-0b2a-48f0-9887-44d3b309ec73.png"
         }
       ],
       "Front": [
         {
-          "FileName": "b10784da-ed41-4266-81c6-20bec8d83ef9.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1969836254",
+          "FileName": "b10784da-ed41-4266-81c6-20bec8d83ef9.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b10784da-ed41-4266-81c6-20bec8d83ef9.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_30cbc751-ba6f-4b0c-aa38-4e036c85ae69.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "212077248",
+        "FileName": "r2_30cbc751-ba6f-4b0c-aa38-4e036c85ae69.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_30cbc751-ba6f-4b0c-aa38-4e036c85ae69.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "e3f1aca1-0575-4a6a-8a4a-312d57ffb1db.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1761026694",
-        "URL": "http://images.launchbox-app.com/e3f1aca1-0575-4a6a-8a4a-312d57ffb1db.png"
-      },
-      {
-        "FileName": "f48ca68f-74a0-45c4-9ae8-2906b606dad9.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2607803846",
-        "URL": "http://images.launchbox-app.com/f48ca68f-74a0-45c4-9ae8-2906b606dad9.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "312639622",
         "FileName": "29f8b231-1d71-4370-97a3-15a9965423f1.png",
         "Type": "Clear Logo",
-        "CRC32": "312639622",
         "URL": "http://images.launchbox-app.com/29f8b231-1d71-4370-97a3-15a9965423f1.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1761026694",
+        "FileName": "e3f1aca1-0575-4a6a-8a4a-312d57ffb1db.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/e3f1aca1-0575-4a6a-8a4a-312d57ffb1db.png"
+      },
+      {
+        "CRC32": "2607803846",
+        "FileName": "f48ca68f-74a0-45c4-9ae8-2906b606dad9.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f48ca68f-74a0-45c4-9ae8-2906b606dad9.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.25",
+  "DatabaseID": "17835",
+  "Developer": "Firebrand Games and Entertainment",
+  "ESRB": "E - Everyone",
+  "Genres": "Racing",
+  "Name": "Hot Wheels: World's Best Driver",
+  "Overview": "Do you have what it takes to be the World's Best Driver? \n\nGear up for the most intense challenges only Hot Wheels can deliver! Pick your team, choose your ride and go for it! Get behind the wheel of thrilling Hot Wheels vehicles while joining the elite ranks of Team Hot Wheels. Compete in dozens of unique, fast-paced, re-playable challenges all highlighting the different driving styles of Team Hot Wheels: the speed record-breaking Green Team, the show-stopping stunts of the Red Team, the high-tech precision of the Blue Team and the world record-breaking jumps of the Yellow Team. Do you have what it takes to be the World's Best Driver?",
+  "Publisher": "Warner Bros. Interactive Entertainment",
+  "ReleaseDate": "2013-09-17T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=HnGBnYqPcdU",
+  "WikipediaURL": "en.wikipedia.org/wiki/Hot_Wheels_World%27s_Best_Driver"
 }

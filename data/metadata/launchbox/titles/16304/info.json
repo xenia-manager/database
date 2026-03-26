@@ -1,71 +1,71 @@
 {
-  "Name": "Rayman 3 HD",
-  "DatabaseID": "16304",
-  "ReleaseDate": "2012-03-21T00:00:00+00:00",
-  "Overview": "Embark on a fantastic and humorous journey with Rayman and Globox to save the Crossroad of Dreams. Masterfully enhanced with eye-popping High Definition visuals and sounds, Rayman 3 HD is the definitive version of Rayman 3 Hoodlum Havoc, and a must-play for all Rayman fans and platform adventure game enthusiasts. Run, jump, and punch your way through the game battling the mysterious Hoodlums and their minions.",
-  "VideoURL": "https://www.youtube.com/watch?v=ln_JMmOaD2Y",
-  "CommunityRating": "4.16666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Rayman_3:_Hoodlum_Havoc#HD_version",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Platform",
-  "Developer": "Ubisoft Montpellier",
-  "Publisher": "Ubisoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "85efb32c-9a8a-4f3c-8389-ef019990e98c.png",
-        "Type": "Banner",
-        "CRC32": "3290059609",
-        "URL": "http://images.launchbox-app.com/85efb32c-9a8a-4f3c-8389-ef019990e98c.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "cf880bb1-d62b-4c28-9749-7d1cb3eddbad.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1267126594",
-        "URL": "http://images.launchbox-app.com/cf880bb1-d62b-4c28-9749-7d1cb3eddbad.jpg"
-      },
-      {
+        "CRC32": "1645397939",
         "FileName": "bdd9ea50-0925-4621-ac7d-e49e7e76905f.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1645397939",
         "URL": "http://images.launchbox-app.com/bdd9ea50-0925-4621-ac7d-e49e7e76905f.jpg"
+      },
+      {
+        "CRC32": "1267126594",
+        "FileName": "cf880bb1-d62b-4c28-9749-7d1cb3eddbad.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/cf880bb1-d62b-4c28-9749-7d1cb3eddbad.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3290059609",
+        "FileName": "85efb32c-9a8a-4f3c-8389-ef019990e98c.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/85efb32c-9a8a-4f3c-8389-ef019990e98c.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "4045717845",
           "FileName": "4eb963db-7682-4ee5-9e2b-f24858d98220.jpg",
           "Type": "Box - Front",
-          "CRC32": "4045717845",
           "URL": "http://images.launchbox-app.com/4eb963db-7682-4ee5-9e2b-f24858d98220.jpg"
         },
         {
-          "FileName": "3f9980c0-51c3-4a15-a3d1-20a6c98ee055.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "965404596",
+          "FileName": "3f9980c0-51c3-4a15-a3d1-20a6c98ee055.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/3f9980c0-51c3-4a15-a3d1-20a6c98ee055.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "86a5127e-1ebc-4748-bb6c-7c28ae0081d1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "North America",
-        "CRC32": "3758444511",
-        "URL": "http://images.launchbox-app.com/86a5127e-1ebc-4748-bb6c-7c28ae0081d1.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "1556505546",
         "FileName": "7a4ad079-d5fe-4676-b78f-55a792ff6ee7.png",
         "Type": "Clear Logo",
-        "CRC32": "1556505546",
         "URL": "http://images.launchbox-app.com/7a4ad079-d5fe-4676-b78f-55a792ff6ee7.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3758444511",
+        "FileName": "86a5127e-1ebc-4748-bb6c-7c28ae0081d1.jpg",
+        "Region": "North America",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/86a5127e-1ebc-4748-bb6c-7c28ae0081d1.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.16666666666667",
+  "DatabaseID": "16304",
+  "Developer": "Ubisoft Montpellier",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Platform",
+  "Name": "Rayman 3 HD",
+  "Overview": "Embark on a fantastic and humorous journey with Rayman and Globox to save the Crossroad of Dreams. Masterfully enhanced with eye-popping High Definition visuals and sounds, Rayman 3 HD is the definitive version of Rayman 3 Hoodlum Havoc, and a must-play for all Rayman fans and platform adventure game enthusiasts. Run, jump, and punch your way through the game battling the mysterious Hoodlums and their minions.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2012-03-21T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=ln_JMmOaD2Y",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Rayman_3:_Hoodlum_Havoc#HD_version"
 }

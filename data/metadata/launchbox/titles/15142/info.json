@@ -1,78 +1,78 @@
 {
-  "Name": "Cabela's Big Game Hunter 2010",
-  "DatabaseID": "15142",
-  "ReleaseDate": "2009-09-29T00:00:00+00:00",
-  "Overview": "The player is a man named Jack, who is trying to become a member of a hunting club named the Order of Orion. Terrain is one thing the player needs to focus on. Falling off ledges or logs, or stepping on noisy terrain could cause failure in the hunt. Aggressive animals, such as bear, will attack the player, which also results in hunt failure. Game like African buffalo, impala, and kudu are more challenging than deer, elk, and bighorn.",
-  "CommunityRating": "3.83333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Cabela%27s_Big_Game_Hunter_2010",
-  "ESRB": "T - Teen",
-  "Genres": "Sports",
-  "Developer": "Cauldron",
-  "Publisher": "Activision Publishing",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_4af8107c-0314-4c22-83e7-f566353d45d2.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "824506621",
-        "URL": "http://images.launchbox-app.com/r2_4af8107c-0314-4c22-83e7-f566353d45d2.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_0250787f-a736-433f-9092-d01174a657b0.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1038746934",
+        "FileName": "r2_0250787f-a736-433f-9092-d01174a657b0.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_0250787f-a736-433f-9092-d01174a657b0.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "824506621",
+        "FileName": "r2_4af8107c-0314-4c22-83e7-f566353d45d2.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_4af8107c-0314-4c22-83e7-f566353d45d2.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "f0d89681-9e3f-4774-b773-433e6e557d60.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2813585096",
+          "FileName": "f0d89681-9e3f-4774-b773-433e6e557d60.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/f0d89681-9e3f-4774-b773-433e6e557d60.png"
         }
       ],
       "Back": [
         {
-          "FileName": "d7100950-b203-42ba-a467-323d6d459fc0.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "724252824",
+          "FileName": "d7100950-b203-42ba-a467-323d6d459fc0.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/d7100950-b203-42ba-a467-323d6d459fc0.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "c04490c7-1602-4d84-a27e-87509cc0c61e.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "4096633076",
+          "FileName": "c04490c7-1602-4d84-a27e-87509cc0c61e.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c04490c7-1602-4d84-a27e-87509cc0c61e.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "67a00d09-9025-4d79-a399-e2f512c6654d.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "4083105001",
+        "FileName": "67a00d09-9025-4d79-a399-e2f512c6654d.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/67a00d09-9025-4d79-a399-e2f512c6654d.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1969154882",
         "FileName": "1358a4d5-8d8a-414e-80ad-119e63fbc93c.png",
         "Type": "Clear Logo",
-        "CRC32": "1969154882",
         "URL": "http://images.launchbox-app.com/1358a4d5-8d8a-414e-80ad-119e63fbc93c.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.83333333333333",
+  "DatabaseID": "15142",
+  "Developer": "Cauldron",
+  "ESRB": "T - Teen",
+  "Genres": "Sports",
+  "Name": "Cabela's Big Game Hunter 2010",
+  "Overview": "The player is a man named Jack, who is trying to become a member of a hunting club named the Order of Orion. Terrain is one thing the player needs to focus on. Falling off ledges or logs, or stepping on noisy terrain could cause failure in the hunt. Aggressive animals, such as bear, will attack the player, which also results in hunt failure. Game like African buffalo, impala, and kudu are more challenging than deer, elk, and bighorn.",
+  "Publisher": "Activision Publishing",
+  "ReleaseDate": "2009-09-29T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Cabela%27s_Big_Game_Hunter_2010"
 }

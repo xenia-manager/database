@@ -1,23 +1,23 @@
 {
-  "Name": "Flappy Feathers",
-  "DatabaseID": "469526",
-  "ReleaseDate": "2014-03-12T00:00:00+00:00",
-  "Overview": "Help Flappy in this addicting and challenging game!",
-  "VideoURL": "https://youtu.be/KjorWy8gIvE",
-  "Genres": "Action",
-  "Developer": "RicolaVG",
-  "Publisher": "RicolaVG",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "e35fcb25-572d-4a4b-8055-bccfdc5b96ca.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "716548714",
+          "FileName": "e35fcb25-572d-4a4b-8055-bccfdc5b96ca.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e35fcb25-572d-4a4b-8055-bccfdc5b96ca.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469526",
+  "Developer": "RicolaVG",
+  "Genres": "Action",
+  "Name": "Flappy Feathers",
+  "Overview": "Help Flappy in this addicting and challenging game!",
+  "Publisher": "RicolaVG",
+  "ReleaseDate": "2014-03-12T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/KjorWy8gIvE"
 }

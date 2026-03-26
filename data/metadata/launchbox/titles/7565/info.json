@@ -1,113 +1,113 @@
 {
-  "Name": "Project Sylpheed: Arc of Deception",
-  "DatabaseID": "7565",
-  "ReleaseDate": "2007-07-10T00:00:00+00:00",
-  "Overview": "Project Sylpheed is an arcade-style shooter and is the follow-up to Silpheed: The Lost Planet on the PlayStation 2. The game's story takes place in the year 2632, five hundred years after humanity left the solar system. Under Earth's rule, 11 different star systems have now been terraformed and colonized. However, there are a number of groups who object to Earth's rule and desire independence; four of them have joined forces and formed a rebel group called the ADAN Freedom Alliance. The main characters in the story are Katana Faraway, Ellen Bernstein, and Margras Mason; all are young pilots having just joined the Earth's military, the Terra Central Armed Forces (TCAF). Following a suspicious accident, Margras joins the opposing ADAN forces to fight against his former friends and home planet. You control Katana in the game, and as missions are completed the story progresses.\n\nWhile previous Silpheed games utilized a top down view of the action, Project Sylpheed features a fully 3-D view from either just behind your ship, or a first person view from within it. During the game you'll need to complete a series of missions; these are varied and include having to destroy all opponents in an area or defend an allied ship from attack. Initially there are fewer enemies and you don't have powerful weaponry, but as the game progresses the enemy increases in count and abilities and you can upgrade your ship with more powerful weapons. During a mission several sub-objectives may also become available which can be completed (some of the sub-objectives also unlock Xbox 360 Achievements when completed).",
-  "VideoURL": "https://www.youtube.com/watch?v=MXH-3LwLF5o",
-  "CommunityRating": "3.67857142857143",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Project_Sylpheed",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "Game Arts",
-  "Publisher": "Square Enix",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "4bfa0110-44e1-4bc0-be25-67f369acbcd5.png",
-        "Type": "Banner",
-        "CRC32": "3676554048",
-        "URL": "http://images.launchbox-app.com/4bfa0110-44e1-4bc0-be25-67f369acbcd5.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1345140373",
         "FileName": "18cb1217-4039-4709-a200-400613f049e4.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1345140373",
         "URL": "http://images.launchbox-app.com/18cb1217-4039-4709-a200-400613f049e4.jpg"
       },
       {
+        "CRC32": "2485267554",
         "FileName": "d3620a6c-7a98-4b5e-a9a9-328912e7b69d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2485267554",
         "URL": "http://images.launchbox-app.com/d3620a6c-7a98-4b5e-a9a9-328912e7b69d.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3676554048",
+        "FileName": "4bfa0110-44e1-4bc0-be25-67f369acbcd5.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/4bfa0110-44e1-4bc0-be25-67f369acbcd5.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "61bcba1d-6bf9-4899-be3e-ff84f9722772.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "4219995617",
+          "FileName": "61bcba1d-6bf9-4899-be3e-ff84f9722772.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/61bcba1d-6bf9-4899-be3e-ff84f9722772.png"
         }
       ],
       "Back": [
         {
-          "FileName": "2f909d34-ca39-45a9-85d0-b59604960b95.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "360488319",
+          "FileName": "2f909d34-ca39-45a9-85d0-b59604960b95.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/2f909d34-ca39-45a9-85d0-b59604960b95.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_7c627795-5ec8-4a3e-9209-61f40c45e0d1.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1665510965",
+          "FileName": "r2_7c627795-5ec8-4a3e-9209-61f40c45e0d1.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_7c627795-5ec8-4a3e-9209-61f40c45e0d1.jpg"
         },
         {
-          "FileName": "fd20a58e-40ec-47b2-8b72-5eaf20bae259.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1200099742",
+          "FileName": "fd20a58e-40ec-47b2-8b72-5eaf20bae259.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/fd20a58e-40ec-47b2-8b72-5eaf20bae259.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "6621eecd-3733-44dc-8986-4e25019f8856.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2975129813",
+          "FileName": "6621eecd-3733-44dc-8986-4e25019f8856.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/6621eecd-3733-44dc-8986-4e25019f8856.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_874674ff-6009-4db2-bb75-e84dbdf942e7.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "1886989335",
+        "FileName": "r2_874674ff-6009-4db2-bb75-e84dbdf942e7.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_874674ff-6009-4db2-bb75-e84dbdf942e7.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "71ae510b-8f76-432c-bf43-527a2195aa29.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1561497963",
-        "URL": "http://images.launchbox-app.com/71ae510b-8f76-432c-bf43-527a2195aa29.png"
-      },
-      {
-        "FileName": "7b32204e-7f30-4beb-acef-0330251f0864.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4132475977",
-        "URL": "http://images.launchbox-app.com/7b32204e-7f30-4beb-acef-0330251f0864.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "1017853081",
         "FileName": "0f906118-fb1a-4668-b151-29b6b7cd19c4.png",
         "Type": "Clear Logo",
-        "CRC32": "1017853081",
         "URL": "http://images.launchbox-app.com/0f906118-fb1a-4668-b151-29b6b7cd19c4.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1561497963",
+        "FileName": "71ae510b-8f76-432c-bf43-527a2195aa29.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/71ae510b-8f76-432c-bf43-527a2195aa29.png"
+      },
+      {
+        "CRC32": "4132475977",
+        "FileName": "7b32204e-7f30-4beb-acef-0330251f0864.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7b32204e-7f30-4beb-acef-0330251f0864.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.67857142857143",
+  "DatabaseID": "7565",
+  "Developer": "Game Arts",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Project Sylpheed: Arc of Deception",
+  "Overview": "Project Sylpheed is an arcade-style shooter and is the follow-up to Silpheed: The Lost Planet on the PlayStation 2. The game's story takes place in the year 2632, five hundred years after humanity left the solar system. Under Earth's rule, 11 different star systems have now been terraformed and colonized. However, there are a number of groups who object to Earth's rule and desire independence; four of them have joined forces and formed a rebel group called the ADAN Freedom Alliance. The main characters in the story are Katana Faraway, Ellen Bernstein, and Margras Mason; all are young pilots having just joined the Earth's military, the Terra Central Armed Forces (TCAF). Following a suspicious accident, Margras joins the opposing ADAN forces to fight against his former friends and home planet. You control Katana in the game, and as missions are completed the story progresses.\n\nWhile previous Silpheed games utilized a top down view of the action, Project Sylpheed features a fully 3-D view from either just behind your ship, or a first person view from within it. During the game you'll need to complete a series of missions; these are varied and include having to destroy all opponents in an area or defend an allied ship from attack. Initially there are fewer enemies and you don't have powerful weaponry, but as the game progresses the enemy increases in count and abilities and you can upgrade your ship with more powerful weapons. During a mission several sub-objectives may also become available which can be completed (some of the sub-objectives also unlock Xbox 360 Achievements when completed).",
+  "Publisher": "Square Enix",
+  "ReleaseDate": "2007-07-10T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=MXH-3LwLF5o",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Project_Sylpheed"
 }

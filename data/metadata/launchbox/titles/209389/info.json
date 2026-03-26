@@ -1,70 +1,70 @@
 {
-  "Name": "Giana Sisters: Twisted Dreams",
-  "DatabaseID": "209389",
-  "ReleaseDate": "2013-03-21T00:00:00+00:00",
-  "Overview": "Rescue the Giana Sisters in this fast-paced platform game! Jump through tricky levels and transform in an instant from cute to rebellious and back. The entire environment changes with you in real time, including the soundtrack, which was produced by sound magician Chris Hülsbeck. Use your skills, solve challenging puzzles, and defeat nasty end bosses. Start an unusual adventure in this dreamlike remake, and experience the rebirth of a real cult classic of the 80s!",
-  "CommunityRating": "3.14285714285714",
-  "ESRB": "E - Everyone",
-  "Genres": "Platform",
-  "Developer": "Black Forest Games",
-  "Publisher": "bitComposer Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_d4882974-1380-48c2-88cf-719138294890.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1074565120",
-        "URL": "http://images.launchbox-app.com/r2_d4882974-1380-48c2-88cf-719138294890.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "4211351855",
         "FileName": "96c64b7e-d61a-4d86-b186-a3ce2d15943d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4211351855",
         "URL": "http://images.launchbox-app.com/96c64b7e-d61a-4d86-b186-a3ce2d15943d.jpg"
       },
       {
-        "FileName": "r2_d29a1a0e-f526-4a96-8006-b2865dd17101.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3839745228",
+        "FileName": "r2_d29a1a0e-f526-4a96-8006-b2865dd17101.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_d29a1a0e-f526-4a96-8006-b2865dd17101.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1074565120",
+        "FileName": "r2_d4882974-1380-48c2-88cf-719138294890.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_d4882974-1380-48c2-88cf-719138294890.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "8300d961-9d41-4753-b342-bd43ee678f79.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "285066715",
+          "FileName": "8300d961-9d41-4753-b342-bd43ee678f79.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8300d961-9d41-4753-b342-bd43ee678f79.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "3477579873",
+        "FileName": "097e7865-ee93-4c36-8993-bf88aa938ef9.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/097e7865-ee93-4c36-8993-bf88aa938ef9.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "426631807",
         "FileName": "632f4076-660a-44e2-9b65-2c963e0a43e7.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "426631807",
         "URL": "http://images.launchbox-app.com/632f4076-660a-44e2-9b65-2c963e0a43e7.jpg"
       },
       {
+        "CRC32": "967036148",
         "FileName": "a977e715-b93c-4e87-ada2-d0e9087e5ae0.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "967036148",
         "URL": "http://images.launchbox-app.com/a977e715-b93c-4e87-ada2-d0e9087e5ae0.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "097e7865-ee93-4c36-8993-bf88aa938ef9.png",
-        "Type": "Clear Logo",
-        "CRC32": "3477579873",
-        "URL": "http://images.launchbox-app.com/097e7865-ee93-4c36-8993-bf88aa938ef9.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.14285714285714",
+  "DatabaseID": "209389",
+  "Developer": "Black Forest Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Platform",
+  "Name": "Giana Sisters: Twisted Dreams",
+  "Overview": "Rescue the Giana Sisters in this fast-paced platform game! Jump through tricky levels and transform in an instant from cute to rebellious and back. The entire environment changes with you in real time, including the soundtrack, which was produced by sound magician Chris Hülsbeck. Use your skills, solve challenging puzzles, and defeat nasty end bosses. Start an unusual adventure in this dreamlike remake, and experience the rebirth of a real cult classic of the 80s!",
+  "Publisher": "bitComposer Entertainment",
+  "ReleaseDate": "2013-03-21T00:00:00+00:00"
 }

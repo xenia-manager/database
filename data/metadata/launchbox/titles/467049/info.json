@@ -1,38 +1,38 @@
 {
-  "Name": "Aliens Go Boom",
-  "DatabaseID": "467049",
-  "ReleaseDate": "2010-03-26T00:00:00+00:00",
-  "Overview": "Aliens Go Boom is a side scrolling shooter in which aliens have invaded earth. The player takes control of a fighter plane and must shoot through multiple levels taking out alien turrets in order to score as many points as possible.",
-  "Genres": "Shooter",
-  "Developer": "Omnisu",
-  "Publisher": "Omnisu",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "8bdd372b-64b6-4bb2-9b3f-157ec3618f35.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1133462856",
+          "FileName": "8bdd372b-64b6-4bb2-9b3f-157ec3618f35.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8bdd372b-64b6-4bb2-9b3f-157ec3618f35.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "b957c4f6-8c93-48e6-a8df-7a727655d533.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3975458283",
+        "FileName": "8e3c69e0-2208-4b51-8949-fca5c397cd41.jpg",
         "Region": "World",
-        "CRC32": "2323876140",
-        "URL": "http://images.launchbox-app.com/b957c4f6-8c93-48e6-a8df-7a727655d533.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8e3c69e0-2208-4b51-8949-fca5c397cd41.jpg"
       },
       {
-        "FileName": "8e3c69e0-2208-4b51-8949-fca5c397cd41.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2323876140",
+        "FileName": "b957c4f6-8c93-48e6-a8df-7a727655d533.jpg",
         "Region": "World",
-        "CRC32": "3975458283",
-        "URL": "http://images.launchbox-app.com/8e3c69e0-2208-4b51-8949-fca5c397cd41.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/b957c4f6-8c93-48e6-a8df-7a727655d533.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467049",
+  "Developer": "Omnisu",
+  "Genres": "Shooter",
+  "Name": "Aliens Go Boom",
+  "Overview": "Aliens Go Boom is a side scrolling shooter in which aliens have invaded earth. The player takes control of a fighter plane and must shoot through multiple levels taking out alien turrets in order to score as many points as possible.",
+  "Publisher": "Omnisu",
+  "ReleaseDate": "2010-03-26T00:00:00+00:00"
 }

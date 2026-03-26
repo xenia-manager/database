@@ -1,51 +1,51 @@
 {
-  "Name": "Instant Brain",
-  "DatabaseID": "458654",
-  "ReleaseDate": "2011-11-11T00:00:00+00:00",
-  "Overview": "The story is set in a futuristic world, virtual Japan, around 30–40 years and revolves around the showbiz in the future. The player play as lead character, Zenya Harataki, who has lost all memory of his life prior to six years ago.\n\nHataraki somehow gets involved in a conspiracy that is connected to his lost memories, and a dark incident from the past centred in the showbiz. To progress through the game, the player use his camera — dubbed the “Exporger” – and take pictures that allows him to get scoops before other reporters, as well as finding clues to his past.",
-  "VideoURL": "https://www.youtube.com/watch?v=regLr1fZP80",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Instant_Brain",
-  "Genres": "Visual Novel",
-  "Developer": "Design Factory",
-  "Publisher": "Cave",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_52b18161-3434-46c1-8a7c-5d6509613f87.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2655970913",
-        "URL": "http://images.launchbox-app.com/r2_52b18161-3434-46c1-8a7c-5d6509613f87.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_8c03fb1f-04c4-4ae7-a040-1538317c9889.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1089692767",
+        "FileName": "r2_8c03fb1f-04c4-4ae7-a040-1538317c9889.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8c03fb1f-04c4-4ae7-a040-1538317c9889.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2655970913",
+        "FileName": "r2_52b18161-3434-46c1-8a7c-5d6509613f87.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_52b18161-3434-46c1-8a7c-5d6509613f87.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "20aea679-5377-488d-a152-417cf01590e4.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "1074880697",
+          "FileName": "20aea679-5377-488d-a152-417cf01590e4.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/20aea679-5377-488d-a152-417cf01590e4.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_fbe1c934-bf28-4b07-97dd-3feb9fa1457c.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2925366224",
+        "FileName": "r2_fbe1c934-bf28-4b07-97dd-3feb9fa1457c.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_fbe1c934-bf28-4b07-97dd-3feb9fa1457c.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "458654",
+  "Developer": "Design Factory",
+  "Genres": "Visual Novel",
+  "Name": "Instant Brain",
+  "Overview": "The story is set in a futuristic world, virtual Japan, around 30–40 years and revolves around the showbiz in the future. The player play as lead character, Zenya Harataki, who has lost all memory of his life prior to six years ago.\n\nHataraki somehow gets involved in a conspiracy that is connected to his lost memories, and a dark incident from the past centred in the showbiz. To progress through the game, the player use his camera — dubbed the “Exporger” – and take pictures that allows him to get scoops before other reporters, as well as finding clues to his past.",
+  "Publisher": "Cave",
+  "ReleaseDate": "2011-11-11T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=regLr1fZP80",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Instant_Brain"
 }

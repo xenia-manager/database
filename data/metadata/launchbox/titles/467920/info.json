@@ -1,45 +1,45 @@
 {
-  "Name": "Bad Atom Episode 1",
-  "DatabaseID": "467920",
-  "ReleaseDate": "2008-11-15T00:00:00+00:00",
-  "Overview": "Bad Atom is a 3D Sci-Fi shooter where David Malcolm, a well respected pilot, takes on the responsibility to help create an experimental intergalactic weapon.",
-  "Genres": "Shooter",
-  "Developer": "kstrat2001",
-  "Publisher": "kstrat2001",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "cb20ed3c-5f92-47bd-b600-fd5a0ce960a0.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "111869175",
+          "FileName": "cb20ed3c-5f92-47bd-b600-fd5a0ce960a0.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/cb20ed3c-5f92-47bd-b600-fd5a0ce960a0.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "28b003af-92f4-43e0-8cfe-4dd5991f6e44.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2277267470",
+        "FileName": "28b003af-92f4-43e0-8cfe-4dd5991f6e44.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/28b003af-92f4-43e0-8cfe-4dd5991f6e44.jpg"
       },
       {
-        "FileName": "88992b25-746c-461a-996b-072645dd8a49.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3480389537",
+        "FileName": "2bc63c47-49e0-46e8-b14b-3b425f4e6ed5.jpg",
         "Region": "World",
-        "CRC32": "4055321265",
-        "URL": "http://images.launchbox-app.com/88992b25-746c-461a-996b-072645dd8a49.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/2bc63c47-49e0-46e8-b14b-3b425f4e6ed5.jpg"
       },
       {
-        "FileName": "2bc63c47-49e0-46e8-b14b-3b425f4e6ed5.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "4055321265",
+        "FileName": "88992b25-746c-461a-996b-072645dd8a49.jpg",
         "Region": "World",
-        "CRC32": "3480389537",
-        "URL": "http://images.launchbox-app.com/2bc63c47-49e0-46e8-b14b-3b425f4e6ed5.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/88992b25-746c-461a-996b-072645dd8a49.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467920",
+  "Developer": "kstrat2001",
+  "Genres": "Shooter",
+  "Name": "Bad Atom Episode 1",
+  "Overview": "Bad Atom is a 3D Sci-Fi shooter where David Malcolm, a well respected pilot, takes on the responsibility to help create an experimental intergalactic weapon.",
+  "Publisher": "kstrat2001",
+  "ReleaseDate": "2008-11-15T00:00:00+00:00"
 }

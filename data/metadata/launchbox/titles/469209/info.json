@@ -1,53 +1,53 @@
 {
-  "Name": "Endless Swarm",
-  "DatabaseID": "469209",
-  "ReleaseDate": "2008-11-15T00:00:00+00:00",
-  "Overview": "Endless Swarm is a strategy game with slight tower defense mechanics. At the bottom of the screen, there are ten spaces; two of them are occupied by factories while the player can build towers in the other ones. Those shoot at the space ships which come flying in and try to destroy everything. The player entity is the constructor which can moved horizontally, build or repair towers or manually aim towers. Building costs resources which are left behind by slain enemies (there is a dedicated button to leech those) or produced by the factories.\n\nAdditionally the constructor can shield a building or use one of three superpowers (kill all enemies on screen, repair all towers, shield everything for a time). This costs energy which builds up over time. After each wave, the factories are repaired, enemy force becomes stronger and towers can be upgraded. When the constructor dies, it gets reconstructed by the factories - if both are destroyed, the game is over.",
-  "VideoURL": "https://youtu.be/oNGD9DGPnec",
-  "Genres": "Strategy",
-  "Developer": "Altered Reality Entertainment",
-  "Publisher": "Altered Reality Entertainment",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "71278d58-5e48-413a-92e2-1c06732a2991.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "565840563",
+          "FileName": "71278d58-5e48-413a-92e2-1c06732a2991.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/71278d58-5e48-413a-92e2-1c06732a2991.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "c521262c-1369-4693-a90f-92096d0c63c0.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "3128416632",
+        "FileName": "c521262c-1369-4693-a90f-92096d0c63c0.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/c521262c-1369-4693-a90f-92096d0c63c0.jpg"
       },
       {
-        "FileName": "e765ea43-57e4-4ad1-992c-cd3050e31faa.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "656188963",
-        "URL": "http://images.launchbox-app.com/e765ea43-57e4-4ad1-992c-cd3050e31faa.jpg"
-      },
-      {
-        "FileName": "7bbb2eb1-b9a8-4279-93d3-80b49884b31d.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1231686473",
+        "FileName": "7bbb2eb1-b9a8-4279-93d3-80b49884b31d.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/7bbb2eb1-b9a8-4279-93d3-80b49884b31d.jpg"
       },
       {
-        "FileName": "e9400564-4cda-47c7-86c4-a621b5e9a146.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "656188963",
+        "FileName": "e765ea43-57e4-4ad1-992c-cd3050e31faa.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/e765ea43-57e4-4ad1-992c-cd3050e31faa.jpg"
+      },
+      {
         "CRC32": "930581143",
+        "FileName": "e9400564-4cda-47c7-86c4-a621b5e9a146.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/e9400564-4cda-47c7-86c4-a621b5e9a146.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469209",
+  "Developer": "Altered Reality Entertainment",
+  "Genres": "Strategy",
+  "Name": "Endless Swarm",
+  "Overview": "Endless Swarm is a strategy game with slight tower defense mechanics. At the bottom of the screen, there are ten spaces; two of them are occupied by factories while the player can build towers in the other ones. Those shoot at the space ships which come flying in and try to destroy everything. The player entity is the constructor which can moved horizontally, build or repair towers or manually aim towers. Building costs resources which are left behind by slain enemies (there is a dedicated button to leech those) or produced by the factories.\n\nAdditionally the constructor can shield a building or use one of three superpowers (kill all enemies on screen, repair all towers, shield everything for a time). This costs energy which builds up over time. After each wave, the factories are repaired, enemy force becomes stronger and towers can be upgraded. When the constructor dies, it gets reconstructed by the factories - if both are destroyed, the game is over.",
+  "Publisher": "Altered Reality Entertainment",
+  "ReleaseDate": "2008-11-15T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/oNGD9DGPnec"
 }

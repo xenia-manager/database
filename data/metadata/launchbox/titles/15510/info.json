@@ -1,179 +1,179 @@
 {
-  "Name": "FaceBreaker",
-  "DatabaseID": "15510",
-  "ReleaseDate": "2008-09-05T00:00:00+00:00",
-  "Overview": "Arcade-style boxing!  Fast, responsive controls let you brutalize and humiliate your opponent in seconds.  Brawl for it all.  Pugilze your way to the top in single-player mode.  Ruin friendships in Couch Royale, or take on the world's best fighters online.  Put your own face in the game or upload user-created boxers via EA Sports world.",
-  "VideoURL": "https://www.youtube.com/watch?v=FPFNPWwQSoE",
-  "CommunityRating": "2.75",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/FaceBreaker",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "Electronic Arts Canada",
-  "Publisher": "Electronic Arts",
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "750426938",
+        "FileName": "2b07fd91-b52f-4e6e-b509-22df2703564a.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/2b07fd91-b52f-4e6e-b509-22df2703564a.jpg"
+      }
+    ],
     "Banner": [
       {
-        "FileName": "9acd9585-316c-40a5-9a4b-f3d42b3e9d63.jpg",
-        "Type": "Banner",
-        "Region": "Europe",
         "CRC32": "3998663334",
+        "FileName": "9acd9585-316c-40a5-9a4b-f3d42b3e9d63.jpg",
+        "Region": "Europe",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/9acd9585-316c-40a5-9a4b-f3d42b3e9d63.jpg"
       },
       {
-        "FileName": "4b602e62-624a-4fb9-9b36-627d5d92adb7.jpg",
-        "Type": "Banner",
-        "Region": "North America",
         "CRC32": "1842197710",
+        "FileName": "4b602e62-624a-4fb9-9b36-627d5d92adb7.jpg",
+        "Region": "North America",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/4b602e62-624a-4fb9-9b36-627d5d92adb7.jpg"
       },
       {
-        "FileName": "r2_3abd163b-c6e7-42c9-84fc-d9a112d8c03e.png",
-        "Type": "Banner",
-        "Region": "World",
         "CRC32": "1478758545",
-        "URL": "http://images.launchbox-app.com/r2_3abd163b-c6e7-42c9-84fc-d9a112d8c03e.png"
-      }
-    ],
-    "Background": [
-      {
-        "FileName": "2b07fd91-b52f-4e6e-b509-22df2703564a.jpg",
-        "Type": "Fanart - Background",
+        "FileName": "r2_3abd163b-c6e7-42c9-84fc-d9a112d8c03e.png",
         "Region": "World",
-        "CRC32": "750426938",
-        "URL": "http://images.launchbox-app.com/2b07fd91-b52f-4e6e-b509-22df2703564a.jpg"
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_3abd163b-c6e7-42c9-84fc-d9a112d8c03e.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "182b31b5-9b5e-459d-a58f-b7a9a909c723.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1865221887",
+          "FileName": "182b31b5-9b5e-459d-a58f-b7a9a909c723.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/182b31b5-9b5e-459d-a58f-b7a9a909c723.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_0927ffe3-9aa7-45bc-9b8d-3c6e1c712a0f.jpg",
-          "Type": "Box - Back",
-          "Region": "Australia",
           "CRC32": "3458445884",
+          "FileName": "r2_0927ffe3-9aa7-45bc-9b8d-3c6e1c712a0f.jpg",
+          "Region": "Australia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_0927ffe3-9aa7-45bc-9b8d-3c6e1c712a0f.jpg"
         },
         {
-          "FileName": "0f5ecc38-a571-483f-8e36-e25d2fb5a09d.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "699794029",
+          "FileName": "0f5ecc38-a571-483f-8e36-e25d2fb5a09d.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/0f5ecc38-a571-483f-8e36-e25d2fb5a09d.jpg"
         },
         {
-          "FileName": "3f069d85-35ce-49fe-a34c-91709b524395.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1919548316",
+          "FileName": "3f069d85-35ce-49fe-a34c-91709b524395.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/3f069d85-35ce-49fe-a34c-91709b524395.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "27f9987b-e4d5-4f7c-9f1e-6571c1f85558.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "3768199809",
+          "FileName": "27f9987b-e4d5-4f7c-9f1e-6571c1f85558.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/27f9987b-e4d5-4f7c-9f1e-6571c1f85558.jpg"
         },
         {
-          "FileName": "c2ede076-c808-4273-bf70-610e817f50fb.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "3458445884",
+          "FileName": "c2ede076-c808-4273-bf70-610e817f50fb.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c2ede076-c808-4273-bf70-610e817f50fb.jpg"
         },
         {
-          "FileName": "83765e1e-60ed-497c-95a7-0f05b3e4270e.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "230673622",
+          "FileName": "83765e1e-60ed-497c-95a7-0f05b3e4270e.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/83765e1e-60ed-497c-95a7-0f05b3e4270e.jpg"
         },
         {
-          "FileName": "r2_6eaafe33-282b-4ddf-84d6-3b5e103c5ebe.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3884142012",
+          "FileName": "r2_6eaafe33-282b-4ddf-84d6-3b5e103c5ebe.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_6eaafe33-282b-4ddf-84d6-3b5e103c5ebe.jpg"
         },
         {
-          "FileName": "b03f6659-f337-4b36-a434-1c8c3680a011.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "249667167",
+          "FileName": "b03f6659-f337-4b36-a434-1c8c3680a011.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b03f6659-f337-4b36-a434-1c8c3680a011.jpg"
         },
         {
-          "FileName": "e55dad1e-3932-4f24-8eb7-c7c338d6e866.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "645635562",
+          "FileName": "e55dad1e-3932-4f24-8eb7-c7c338d6e866.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/e55dad1e-3932-4f24-8eb7-c7c338d6e866.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_719e7fc6-9a3b-4262-855c-40d662216b65.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "937223250",
+          "FileName": "r2_719e7fc6-9a3b-4262-855c-40d662216b65.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_719e7fc6-9a3b-4262-855c-40d662216b65.jpg"
         },
         {
-          "FileName": "r2_dc0df2f4-5b3c-48e3-970c-0d4c80a612e6.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1846177311",
+          "FileName": "r2_dc0df2f4-5b3c-48e3-970c-0d4c80a612e6.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_dc0df2f4-5b3c-48e3-970c-0d4c80a612e6.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_1e81a6e2-08f6-4007-a0af-55dc160bb3e7.png",
-        "Type": "Disc",
-        "Region": "Australia",
         "CRC32": "1838278289",
+        "FileName": "r2_1e81a6e2-08f6-4007-a0af-55dc160bb3e7.png",
+        "Region": "Australia",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_1e81a6e2-08f6-4007-a0af-55dc160bb3e7.png"
       },
       {
-        "FileName": "r2_68b6d9b0-d2a3-4307-8fb8-880c3db0c8a1.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "3249565558",
+        "FileName": "r2_68b6d9b0-d2a3-4307-8fb8-880c3db0c8a1.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_68b6d9b0-d2a3-4307-8fb8-880c3db0c8a1.png"
       },
       {
-        "FileName": "r2_0f88f2c6-5fc0-4637-ad2e-debfafa00679.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1797056610",
+        "FileName": "r2_0f88f2c6-5fc0-4637-ad2e-debfafa00679.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_0f88f2c6-5fc0-4637-ad2e-debfafa00679.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "208547347",
         "FileName": "694cf6e8-5c00-487e-bf31-0cbbd340ca55.png",
         "Type": "Clear Logo",
-        "CRC32": "208547347",
         "URL": "http://images.launchbox-app.com/694cf6e8-5c00-487e-bf31-0cbbd340ca55.png"
       },
       {
-        "FileName": "602ff507-9782-4b15-b70b-cfc54bf710d5.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1073923098",
+        "FileName": "602ff507-9782-4b15-b70b-cfc54bf710d5.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/602ff507-9782-4b15-b70b-cfc54bf710d5.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.75",
+  "DatabaseID": "15510",
+  "Developer": "Electronic Arts Canada",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "FaceBreaker",
+  "Overview": "Arcade-style boxing!  Fast, responsive controls let you brutalize and humiliate your opponent in seconds.  Brawl for it all.  Pugilze your way to the top in single-player mode.  Ruin friendships in Couch Royale, or take on the world's best fighters online.  Put your own face in the game or upload user-created boxers via EA Sports world.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2008-09-05T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=FPFNPWwQSoE",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/FaceBreaker"
 }

@@ -1,74 +1,74 @@
 {
-  "Name": "Defense Technica",
-  "DatabaseID": "209317",
-  "ReleaseDate": "2014-04-23T00:00:00+00:00",
-  "Overview": "The new revolution of Tower defence! Defence Technica! A project 'Noah' is now released to defeat the cruel invader Hergus and save the world. You should defend the core and struggle against the constantly rushing enemy in the battlefield where attack paths and the land, or weather are changed in real-time. You will be amazed at the gorgeous landscape in the beautiful graphic of Defence Technica. Upgrade various weapons to the enemy's attribute. Predict and decide promptly how and when to counterattack in response to their changing moving route. Play your own game with more meticolous and strategic system.",
-  "CommunityRating": "3.5",
-  "ESRB": "E - Everyone",
-  "Genres": "Strategy",
-  "Developer": "Kuno Interactive",
-  "Publisher": "CyberFront",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "82d83dce-799c-4dff-811e-b238565bbec3.png",
-        "Type": "Banner",
-        "CRC32": "3433342309",
-        "URL": "http://images.launchbox-app.com/82d83dce-799c-4dff-811e-b238565bbec3.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3884646584",
         "FileName": "b91ceb38-da8d-4983-b1b8-82dadf58b435.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3884646584",
         "URL": "http://images.launchbox-app.com/b91ceb38-da8d-4983-b1b8-82dadf58b435.jpg"
       },
       {
+        "CRC32": "3561567741",
         "FileName": "cf8079fb-4a56-4a6f-a6a6-0713b829ada7.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3561567741",
         "URL": "http://images.launchbox-app.com/cf8079fb-4a56-4a6f-a6a6-0713b829ada7.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3433342309",
+        "FileName": "82d83dce-799c-4dff-811e-b238565bbec3.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/82d83dce-799c-4dff-811e-b238565bbec3.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "871fa201-5cef-4ede-9c81-c31c53dcfbb6.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2001208920",
+          "FileName": "871fa201-5cef-4ede-9c81-c31c53dcfbb6.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/871fa201-5cef-4ede-9c81-c31c53dcfbb6.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "682333212",
+        "FileName": "376a9caf-e580-4e12-ada6-170e86d708ec.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/376a9caf-e580-4e12-ada6-170e86d708ec.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "586975913",
         "FileName": "37cf7b2e-fca3-4424-9dca-d218a97cd87b.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "586975913",
         "URL": "http://images.launchbox-app.com/37cf7b2e-fca3-4424-9dca-d218a97cd87b.jpg"
       },
       {
+        "CRC32": "521356601",
         "FileName": "af91fca5-c204-47eb-b4c0-63a1aba2fd34.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "521356601",
         "URL": "http://images.launchbox-app.com/af91fca5-c204-47eb-b4c0-63a1aba2fd34.jpg"
       },
       {
+        "CRC32": "4109682482",
         "FileName": "f2680d99-b958-4748-8fc5-ee10120b779c.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "4109682482",
         "URL": "http://images.launchbox-app.com/f2680d99-b958-4748-8fc5-ee10120b779c.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "376a9caf-e580-4e12-ada6-170e86d708ec.png",
-        "Type": "Clear Logo",
-        "CRC32": "682333212",
-        "URL": "http://images.launchbox-app.com/376a9caf-e580-4e12-ada6-170e86d708ec.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "209317",
+  "Developer": "Kuno Interactive",
+  "ESRB": "E - Everyone",
+  "Genres": "Strategy",
+  "Name": "Defense Technica",
+  "Overview": "The new revolution of Tower defence! Defence Technica! A project 'Noah' is now released to defeat the cruel invader Hergus and save the world. You should defend the core and struggle against the constantly rushing enemy in the battlefield where attack paths and the land, or weather are changed in real-time. You will be amazed at the gorgeous landscape in the beautiful graphic of Defence Technica. Upgrade various weapons to the enemy's attribute. Predict and decide promptly how and when to counterattack in response to their changing moving route. Play your own game with more meticolous and strategic system.",
+  "Publisher": "CyberFront",
+  "ReleaseDate": "2014-04-23T00:00:00+00:00"
 }

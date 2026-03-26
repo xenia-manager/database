@@ -1,36 +1,36 @@
 {
-  "Name": "Monster Hunter Frontier G",
-  "DatabaseID": "34009",
-  "Overview": "This HD edition of Capcom's creature-hunting game is the second in the Frontier series of online Monster Hunter games, made for savage action with multiple players in online hunting parties. The G version includes added monsters, weapons & armor, skills, battlefields and elementals.",
-  "CommunityRating": "3.66666666666667",
-  "Genres": "MMO; Role-Playing",
-  "Developer": "Capcom",
   "Artwork": {
     "Box": {
       "Front": [
         {
+          "CRC32": "3987589496",
           "FileName": "777a47d6-933f-45fe-aa9c-7d4b2e9f3aed.jpg",
           "Type": "Box - Front",
-          "CRC32": "3987589496",
           "URL": "http://images.launchbox-app.com/777a47d6-933f-45fe-aa9c-7d4b2e9f3aed.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "4540e781-45c0-48c0-931d-af9452bb2f91.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "81348456",
-        "URL": "http://images.launchbox-app.com/4540e781-45c0-48c0-931d-af9452bb2f91.png"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "1811230403",
         "FileName": "4232af62-eeae-4225-9a3d-11510b63b95e.png",
         "Type": "Clear Logo",
-        "CRC32": "1811230403",
         "URL": "http://images.launchbox-app.com/4232af62-eeae-4225-9a3d-11510b63b95e.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "81348456",
+        "FileName": "4540e781-45c0-48c0-931d-af9452bb2f91.png",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/4540e781-45c0-48c0-931d-af9452bb2f91.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.66666666666667",
+  "DatabaseID": "34009",
+  "Developer": "Capcom",
+  "Genres": "MMO; Role-Playing",
+  "Name": "Monster Hunter Frontier G",
+  "Overview": "This HD edition of Capcom's creature-hunting game is the second in the Frontier series of online Monster Hunter games, made for savage action with multiple players in online hunting parties. The G version includes added monsters, weapons & armor, skills, battlefields and elementals."
 }

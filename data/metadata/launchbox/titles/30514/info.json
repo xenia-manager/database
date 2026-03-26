@@ -1,41 +1,41 @@
 {
-  "Name": "Swarm",
-  "DatabaseID": "30514",
-  "ReleaseDate": "2011-03-23T00:00:00+00:00",
-  "Overview": "Swarm is a platform game where the player controls 50 small blue creatures, called swarmites. With these swarmites, the player has to collect DNA to safe their race. When the player controls the swarmites, all 50 are controlled at the same this. Every swarmite does have its own AI, which causes the interaction to be a lot more dynamic. For example, walking around an object may cause several swarmites to walk around the other side of the object than the other part.\n\nThe title is marked by its dark humor, since the game has a lot of ways the swarmites can die, from falling to their deaths to burning alive. To complete a mission successfully, at least one swarmite must be alive at the end of the level. The game does support checkpoints from which the player can restart when all swarmites are dead.\n\nTo unlock further levels, a minimum set of points must be obtained. These points are obtained by collecting the DNA. Most of the time these DNA can only be obtained when several swarmites are alive. So it's best to keep as many swarmites alive as possible.",
-  "CommunityRating": "3.6",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Swarm_(2011_video_game)",
-  "ESRB": "T - Teen",
-  "Genres": "Action; Platform",
-  "Developer": "Hothead Games",
-  "Publisher": "Ignition Entertainment",
   "Artwork": {
     "Banner": [
       {
-        "FileName": "r2_a0885b59-785b-4744-b5a6-43b543d0d7e5.png",
-        "Type": "Banner",
-        "Region": "United States",
         "CRC32": "3461165583",
+        "FileName": "r2_a0885b59-785b-4744-b5a6-43b543d0d7e5.png",
+        "Region": "United States",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/r2_a0885b59-785b-4744-b5a6-43b543d0d7e5.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "9df6bc2a-d37d-4f7d-8c50-2768f613c389.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2583035523",
+          "FileName": "9df6bc2a-d37d-4f7d-8c50-2768f613c389.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9df6bc2a-d37d-4f7d-8c50-2768f613c389.jpg"
         },
         {
-          "FileName": "9f1d8cc5-24af-4df2-a8b9-c6ed42617539.jpg",
-          "Type": "Fanart - Box - Front",
-          "Region": "United States",
           "CRC32": "1145004930",
+          "FileName": "9f1d8cc5-24af-4df2-a8b9-c6ed42617539.jpg",
+          "Region": "United States",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/9f1d8cc5-24af-4df2-a8b9-c6ed42617539.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "3.6",
+  "DatabaseID": "30514",
+  "Developer": "Hothead Games",
+  "ESRB": "T - Teen",
+  "Genres": "Action; Platform",
+  "Name": "Swarm",
+  "Overview": "Swarm is a platform game where the player controls 50 small blue creatures, called swarmites. With these swarmites, the player has to collect DNA to safe their race. When the player controls the swarmites, all 50 are controlled at the same this. Every swarmite does have its own AI, which causes the interaction to be a lot more dynamic. For example, walking around an object may cause several swarmites to walk around the other side of the object than the other part.\n\nThe title is marked by its dark humor, since the game has a lot of ways the swarmites can die, from falling to their deaths to burning alive. To complete a mission successfully, at least one swarmite must be alive at the end of the level. The game does support checkpoints from which the player can restart when all swarmites are dead.\n\nTo unlock further levels, a minimum set of points must be obtained. These points are obtained by collecting the DNA. Most of the time these DNA can only be obtained when several swarmites are alive. So it's best to keep as many swarmites alive as possible.",
+  "Publisher": "Ignition Entertainment",
+  "ReleaseDate": "2011-03-23T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Swarm_(2011_video_game)"
 }

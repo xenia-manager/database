@@ -1,32 +1,32 @@
 {
-  "Name": "radiangames Ballistic",
-  "DatabaseID": "155150",
-  "ReleaseDate": "2011-01-28T00:00:00+00:00",
-  "Overview": "Go Ballistic in the most intense twin-stick shooter ever. With co-op play, 9 game-changing ship enhancements, infinite waves, 5 unique challenges, online scoreboards (Gold membership required), and thousands of explosions per minute, Ballistic is the ultimate twin-stick shooter. Ballistic is the seventh and final game in the highly-rated radiangames series.",
-  "VideoURL": "https://www.youtube.com/watch?v=b6S6O4d8-gk",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "radiangames",
-  "Publisher": "radiangames",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3812164190",
         "FileName": "98dff94c-4159-4b88-a616-973f0dd9e432.png",
         "Type": "Fanart - Background",
-        "CRC32": "3812164190",
         "URL": "http://images.launchbox-app.com/98dff94c-4159-4b88-a616-973f0dd9e432.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "4f20633a-304a-48ef-a178-1510f42b1f5a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1086593489",
+          "FileName": "4f20633a-304a-48ef-a178-1510f42b1f5a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4f20633a-304a-48ef-a178-1510f42b1f5a.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "155150",
+  "Developer": "radiangames",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "radiangames Ballistic",
+  "Overview": "Go Ballistic in the most intense twin-stick shooter ever. With co-op play, 9 game-changing ship enhancements, infinite waves, 5 unique challenges, online scoreboards (Gold membership required), and thousands of explosions per minute, Ballistic is the ultimate twin-stick shooter. Ballistic is the seventh and final game in the highly-rated radiangames series.",
+  "Publisher": "radiangames",
+  "ReleaseDate": "2011-01-28T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=b6S6O4d8-gk"
 }

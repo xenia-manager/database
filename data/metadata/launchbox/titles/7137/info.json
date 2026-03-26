@@ -1,93 +1,93 @@
 {
-  "Name": "All-Pro Football 2K8",
-  "DatabaseID": "7137",
-  "ReleaseDate": "2007-07-16T00:00:00+00:00",
-  "Overview": "All-Pro Football 2K8 features a fictional league called the \"All-Pro League\", or 'APL'. The APL consists of 24 teams that are grouped into six divisions of four teams each. The league runs a sixteen-game schedule and holds a championship game at the end of the playoffs, similar to the NFL.\n\nSince the exclusivity deal the NFL has with EA only covers active players, 2K contracted the individual rights to over 240 retired NFL players to appear in the game.\n\nEven though there are no NFL teams in the game, the player can still create teams that resemble their NFL counterparts. A Create-a-Player feature allows the player to add in players that were not included in the roster, such as Hall of Fame linebacker Lawrence Taylor.\n\nWhile the game includes teams representing Los Angeles and Las Vegas, neither of which have an NFL team, there are no teams representing Buffalo, Kansas City, Baltimore, Jacksonville, Tennessee, Indianapolis, San Diego, or New Orleans—all cities with real NFL teams. Cleveland and Cincinnati are both represented by a team representing Ohio, and only one team represents the San Francisco Bay Area instead of two. Green Bay is not represented, but a city nearby, Milwaukee, is instead.",
-  "VideoURL": "https://www.youtube.com/watch?v=W_XbJpZPtqc",
-  "CommunityRating": "3.91666666666667",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Sports",
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "1860797250",
+        "FileName": "ff81b725-5644-4aa9-a4a4-ae14f7e46f06.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/ff81b725-5644-4aa9-a4a4-ae14f7e46f06.jpg"
+      }
+    ],
     "Banner": [
       {
+        "CRC32": "2489834013",
         "FileName": "04a8ba6c-4686-48c0-b4bb-a23319a358ce.png",
         "Type": "Banner",
-        "CRC32": "2489834013",
         "URL": "http://images.launchbox-app.com/04a8ba6c-4686-48c0-b4bb-a23319a358ce.png"
       },
       {
+        "CRC32": "2464498967",
         "FileName": "d195cbba-9a97-44e9-9601-75fa14c34028.jpg",
         "Type": "Banner",
-        "CRC32": "2464498967",
         "URL": "http://images.launchbox-app.com/d195cbba-9a97-44e9-9601-75fa14c34028.jpg"
-      }
-    ],
-    "Background": [
-      {
-        "FileName": "ff81b725-5644-4aa9-a4a4-ae14f7e46f06.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1860797250",
-        "URL": "http://images.launchbox-app.com/ff81b725-5644-4aa9-a4a4-ae14f7e46f06.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "224766655",
           "FileName": "f5a6692b-2a51-4979-81c4-f2a6a6988809.png",
           "Type": "Box - 3D",
-          "CRC32": "224766655",
           "URL": "http://images.launchbox-app.com/f5a6692b-2a51-4979-81c4-f2a6a6988809.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "918254070",
           "FileName": "66635265-8852-48df-aff8-5fa19c40ec3c.jpg",
           "Type": "Box - Back",
-          "CRC32": "918254070",
           "URL": "http://images.launchbox-app.com/66635265-8852-48df-aff8-5fa19c40ec3c.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "768091185",
           "FileName": "4c78031d-c9e3-4169-b270-4e02e4868b76.jpg",
           "Type": "Box - Front",
-          "CRC32": "768091185",
           "URL": "http://images.launchbox-app.com/4c78031d-c9e3-4169-b270-4e02e4868b76.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "f121d545-7eb2-4422-8fc3-a2e9e20bda4a.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1502016181",
+          "FileName": "f121d545-7eb2-4422-8fc3-a2e9e20bda4a.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/f121d545-7eb2-4422-8fc3-a2e9e20bda4a.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "e503604d-ea55-46ac-bb70-e51b769dcb94.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1428348692",
+        "FileName": "e503604d-ea55-46ac-bb70-e51b769dcb94.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/e503604d-ea55-46ac-bb70-e51b769dcb94.png"
       }
     ],
     "Other": [
       {
-        "FileName": "d8bd83a4-8e70-48a3-abd2-cbfda4abf0a5.jpg",
-        "Type": "Advertisement Flyer - Front",
-        "Region": "North America",
         "CRC32": "753505341",
+        "FileName": "d8bd83a4-8e70-48a3-abd2-cbfda4abf0a5.jpg",
+        "Region": "North America",
+        "Type": "Advertisement Flyer - Front",
         "URL": "http://images.launchbox-app.com/d8bd83a4-8e70-48a3-abd2-cbfda4abf0a5.jpg"
       },
       {
+        "CRC32": "348097693",
         "FileName": "5a88f59a-6738-4aa0-94e5-4b5ae29ba603.png",
         "Type": "Clear Logo",
-        "CRC32": "348097693",
         "URL": "http://images.launchbox-app.com/5a88f59a-6738-4aa0-94e5-4b5ae29ba603.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.91666666666667",
+  "DatabaseID": "7137",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Sports",
+  "Name": "All-Pro Football 2K8",
+  "Overview": "All-Pro Football 2K8 features a fictional league called the \"All-Pro League\", or 'APL'. The APL consists of 24 teams that are grouped into six divisions of four teams each. The league runs a sixteen-game schedule and holds a championship game at the end of the playoffs, similar to the NFL.\n\nSince the exclusivity deal the NFL has with EA only covers active players, 2K contracted the individual rights to over 240 retired NFL players to appear in the game.\n\nEven though there are no NFL teams in the game, the player can still create teams that resemble their NFL counterparts. A Create-a-Player feature allows the player to add in players that were not included in the roster, such as Hall of Fame linebacker Lawrence Taylor.\n\nWhile the game includes teams representing Los Angeles and Las Vegas, neither of which have an NFL team, there are no teams representing Buffalo, Kansas City, Baltimore, Jacksonville, Tennessee, Indianapolis, San Diego, or New Orleans—all cities with real NFL teams. Cleveland and Cincinnati are both represented by a team representing Ohio, and only one team represents the San Francisco Bay Area instead of two. Green Bay is not represented, but a city nearby, Milwaukee, is instead.",
+  "ReleaseDate": "2007-07-16T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=W_XbJpZPtqc"
 }

@@ -1,166 +1,166 @@
 {
-  "Name": "Back to the Future: The Game: 30th Anniversary Edition",
-  "DatabaseID": "99942",
-  "ReleaseDate": "2015-10-13T00:00:00+00:00",
-  "Overview": "Six months after Back to the Future Part III, the DeLorean time machine mysteriously returns to Hill Valley – driverless! Marty McFly must once again go back in time, or else the space-time continuum will be forever unraveled!  Featuring Christopher Lloyd as Doc Brown, Tom Wilson as Biff Tannen, and Claudia Wells as Jennifer Parker, with a special appearance by Michael J. Fox, and introducing A.J. LoCascio voicing Marty McFly. Created in cooperation with movie series Co-Writer and Producer, Bob Gale.  Includes an exclusive retrospective behind the scenes video, featuring an interview with Bob Gale, and others involved in the creation of the game!",
-  "VideoURL": "https://youtu.be/jBdXEDRQsaA",
-  "CommunityRating": "3.375",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Back_to_the_Future:_The_Game",
-  "ESRB": "T - Teen",
-  "Genres": "Adventure",
-  "Developer": "Telltale",
-  "Publisher": "Telltale",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "db36fad2-6dd5-435d-95a1-d92a0f591e82.png",
-        "Type": "Banner",
-        "CRC32": "357004913",
-        "URL": "http://images.launchbox-app.com/db36fad2-6dd5-435d-95a1-d92a0f591e82.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1273062808",
         "FileName": "127b3aaa-0651-410a-aae8-1f371dce5c0a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1273062808",
         "URL": "http://images.launchbox-app.com/127b3aaa-0651-410a-aae8-1f371dce5c0a.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "357004913",
+        "FileName": "db36fad2-6dd5-435d-95a1-d92a0f591e82.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/db36fad2-6dd5-435d-95a1-d92a0f591e82.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "76501120-49bf-40bb-a11a-43b54b318ff9.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "914081041",
+          "FileName": "76501120-49bf-40bb-a11a-43b54b318ff9.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/76501120-49bf-40bb-a11a-43b54b318ff9.png"
         }
       ],
       "Back": [
         {
-          "FileName": "28083063-2fd5-4d22-a4f8-b425fa2749d3.jpg",
-          "Type": "Box - Back",
-          "Region": "Australia",
           "CRC32": "3331472956",
+          "FileName": "28083063-2fd5-4d22-a4f8-b425fa2749d3.jpg",
+          "Region": "Australia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/28083063-2fd5-4d22-a4f8-b425fa2749d3.jpg"
         },
         {
-          "FileName": "8161eb06-ca5f-4a83-ac32-ee2b00ea3439.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "1112684703",
+          "FileName": "8161eb06-ca5f-4a83-ac32-ee2b00ea3439.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/8161eb06-ca5f-4a83-ac32-ee2b00ea3439.jpg"
         },
         {
-          "FileName": "2d3bba97-cc7e-45a7-b66c-890fae1a319e.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2195348714",
+          "FileName": "2d3bba97-cc7e-45a7-b66c-890fae1a319e.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/2d3bba97-cc7e-45a7-b66c-890fae1a319e.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "943d9f17-4110-453d-8cf2-f70679cac577.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "472480047",
+          "FileName": "943d9f17-4110-453d-8cf2-f70679cac577.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/943d9f17-4110-453d-8cf2-f70679cac577.jpg"
         },
         {
-          "FileName": "a60aee3c-97fa-4718-9f67-cca5e6461546.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2216476560",
+          "FileName": "a60aee3c-97fa-4718-9f67-cca5e6461546.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a60aee3c-97fa-4718-9f67-cca5e6461546.jpg"
         },
         {
-          "FileName": "b540122a-1a4e-45e3-a182-f73d4fa406f8.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "470135467",
+          "FileName": "b540122a-1a4e-45e3-a182-f73d4fa406f8.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b540122a-1a4e-45e3-a182-f73d4fa406f8.jpg"
         },
         {
-          "FileName": "7df0add3-a5d5-4051-87c4-46bf5cb39d5c.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "645192322",
+          "FileName": "7df0add3-a5d5-4051-87c4-46bf5cb39d5c.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/7df0add3-a5d5-4051-87c4-46bf5cb39d5c.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "338e2ff3-ee1b-43f5-b50c-129a10a0606b.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1500354613",
+          "FileName": "338e2ff3-ee1b-43f5-b50c-129a10a0606b.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/338e2ff3-ee1b-43f5-b50c-129a10a0606b.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "faf9af51-0754-4b15-91dc-5bd05c802788.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1964142999",
+        "FileName": "faf9af51-0754-4b15-91dc-5bd05c802788.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/faf9af51-0754-4b15-91dc-5bd05c802788.png"
       },
       {
-        "FileName": "0cc91ad1-d0cf-499a-9cb1-ea011e568127.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "3481131807",
+        "FileName": "0cc91ad1-d0cf-499a-9cb1-ea011e568127.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/0cc91ad1-d0cf-499a-9cb1-ea011e568127.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "c87e525c-72f7-4bb5-8cd0-b15df2e76eb2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3594122257",
-        "URL": "http://images.launchbox-app.com/c87e525c-72f7-4bb5-8cd0-b15df2e76eb2.jpg"
-      },
-      {
-        "FileName": "755c8cc6-f25f-449e-823b-952d7a1c1e29.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3061994290",
-        "URL": "http://images.launchbox-app.com/755c8cc6-f25f-449e-823b-952d7a1c1e29.jpg"
-      },
-      {
-        "FileName": "e3072080-d2a1-46c4-9ef3-3db8093f20f4.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1020162835",
-        "URL": "http://images.launchbox-app.com/e3072080-d2a1-46c4-9ef3-3db8093f20f4.jpg"
-      },
-      {
-        "FileName": "38d6e3d2-bc72-4636-8314-c59244c1fed2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3330363422",
-        "URL": "http://images.launchbox-app.com/38d6e3d2-bc72-4636-8314-c59244c1fed2.jpg"
-      },
-      {
-        "FileName": "635f3053-d1e3-4a4f-9a19-d26d2406b678.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1882697544",
-        "URL": "http://images.launchbox-app.com/635f3053-d1e3-4a4f-9a19-d26d2406b678.jpg"
-      },
-      {
-        "FileName": "177aa1c2-c525-41c6-8164-856007bc1107.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3779005999",
-        "URL": "http://images.launchbox-app.com/177aa1c2-c525-41c6-8164-856007bc1107.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "197563813",
         "FileName": "f0573598-c216-4f82-ab74-25337f9ff4ac.png",
         "Type": "Clear Logo",
-        "CRC32": "197563813",
         "URL": "http://images.launchbox-app.com/f0573598-c216-4f82-ab74-25337f9ff4ac.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3779005999",
+        "FileName": "177aa1c2-c525-41c6-8164-856007bc1107.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/177aa1c2-c525-41c6-8164-856007bc1107.jpg"
+      },
+      {
+        "CRC32": "3330363422",
+        "FileName": "38d6e3d2-bc72-4636-8314-c59244c1fed2.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/38d6e3d2-bc72-4636-8314-c59244c1fed2.jpg"
+      },
+      {
+        "CRC32": "1882697544",
+        "FileName": "635f3053-d1e3-4a4f-9a19-d26d2406b678.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/635f3053-d1e3-4a4f-9a19-d26d2406b678.jpg"
+      },
+      {
+        "CRC32": "3061994290",
+        "FileName": "755c8cc6-f25f-449e-823b-952d7a1c1e29.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/755c8cc6-f25f-449e-823b-952d7a1c1e29.jpg"
+      },
+      {
+        "CRC32": "3594122257",
+        "FileName": "c87e525c-72f7-4bb5-8cd0-b15df2e76eb2.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c87e525c-72f7-4bb5-8cd0-b15df2e76eb2.jpg"
+      },
+      {
+        "CRC32": "1020162835",
+        "FileName": "e3072080-d2a1-46c4-9ef3-3db8093f20f4.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/e3072080-d2a1-46c4-9ef3-3db8093f20f4.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.375",
+  "DatabaseID": "99942",
+  "Developer": "Telltale",
+  "ESRB": "T - Teen",
+  "Genres": "Adventure",
+  "Name": "Back to the Future: The Game: 30th Anniversary Edition",
+  "Overview": "Six months after Back to the Future Part III, the DeLorean time machine mysteriously returns to Hill Valley – driverless! Marty McFly must once again go back in time, or else the space-time continuum will be forever unraveled!  Featuring Christopher Lloyd as Doc Brown, Tom Wilson as Biff Tannen, and Claudia Wells as Jennifer Parker, with a special appearance by Michael J. Fox, and introducing A.J. LoCascio voicing Marty McFly. Created in cooperation with movie series Co-Writer and Producer, Bob Gale.  Includes an exclusive retrospective behind the scenes video, featuring an interview with Bob Gale, and others involved in the creation of the game!",
+  "Publisher": "Telltale",
+  "ReleaseDate": "2015-10-13T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/jBdXEDRQsaA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Back_to_the_Future:_The_Game"
 }

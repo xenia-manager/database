@@ -1,138 +1,138 @@
 {
-  "Name": "2014 Fifa World Cup Brazil",
-  "DatabaseID": "167765",
-  "ReleaseDate": "2014-04-15T00:00:00+00:00",
-  "Overview": "2014 FIFA World Cup Brazil is a reworked version of FIFA 14 tailored for the world cup event in Brazil. Fully licensed as usual, it includes all 203 official FIFA country teams, their players and the real stadia. The different game modes include the qualification phase, exhibition matches, and the world cup itself. It is also possible to alter history and qualify with a team that did not make it to the real world cup. There is a mode to become the captain of your country where an individual player goes through training and matches competing against other team members to become captain. Road to Rio de Janeiro allows players to compete in an online tournament across the 12 venues of the cup. There are various kill games and both offline and online multiplayer matches are supported. EA Talk Radio offers a selection of duos that provide commentary for matches.\n\nDespite extensive borrowing from FIFA 14, there are also a number of changes. There are for instance new and additional animations for the players and the crowds have various details and attributes that refer to the countries' teams and colours. The appearance of the real coaches has been simulated and the game often cuts away to scenes of fans celebrating at home. The defense AI has been made looser, making it easier to break through. It also has become much more viable to launch long distance shots as there is a much higher chance of scoring than usual, leading to more spectacular goals. The keepers however have received an ability boost and will prevent scores from getting out of hand. Penalties have been made easier to perform, but keepers have more options to distract the strikers. Scoring from corners has been made harder as defenders will now jump up and will prevent attackers from cutting in unobstructed. This also applies to crosses that are now more often intercepted and headers feel less overpowered compared to previous titles. Other gameplay changes affect dribbling, an increased accuracy in passing and first-touch mechanics. Overall, the game mechanics have been made more accessible.",
-  "VideoURL": "https://www.youtube.com/watch?v=uO1HNUoDzxQ",
-  "CommunityRating": "3.20833333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_Brazil_(video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Canada",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_644cf909-1af8-4991-a722-b4bb3b2099f5.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "539493678",
-        "URL": "http://images.launchbox-app.com/r2_644cf909-1af8-4991-a722-b4bb3b2099f5.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_3478c64e-629c-4e07-b70a-1ed7351602dd.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2454919444",
+        "FileName": "r2_3478c64e-629c-4e07-b70a-1ed7351602dd.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_3478c64e-629c-4e07-b70a-1ed7351602dd.jpg"
       },
       {
-        "FileName": "r2_b16e39d7-e415-4f51-b0e8-280efe342fc7.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "4187242079",
+        "FileName": "r2_b16e39d7-e415-4f51-b0e8-280efe342fc7.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_b16e39d7-e415-4f51-b0e8-280efe342fc7.jpg"
       },
       {
-        "FileName": "r2_f4e6a44e-33b3-4056-a606-3ca119741075.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3145849346",
+        "FileName": "r2_f4e6a44e-33b3-4056-a606-3ca119741075.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_f4e6a44e-33b3-4056-a606-3ca119741075.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "539493678",
+        "FileName": "r2_644cf909-1af8-4991-a722-b4bb3b2099f5.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_644cf909-1af8-4991-a722-b4bb3b2099f5.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "7e8638a0-7e42-48fd-8c0d-898d4aee28f7.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1138066274",
+          "FileName": "7e8638a0-7e42-48fd-8c0d-898d4aee28f7.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/7e8638a0-7e42-48fd-8c0d-898d4aee28f7.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_4ae22039-4872-4d51-9e68-b02102cc2e05.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3600424048",
+          "FileName": "r2_4ae22039-4872-4d51-9e68-b02102cc2e05.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_4ae22039-4872-4d51-9e68-b02102cc2e05.jpg"
         },
         {
-          "FileName": "r2_187d8984-9ae5-4019-895a-f58b4c2cd51b.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1641035837",
+          "FileName": "r2_187d8984-9ae5-4019-895a-f58b4c2cd51b.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_187d8984-9ae5-4019-895a-f58b4c2cd51b.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "e7e97ff8-2dff-41b5-bb04-aade4491031d.png",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "648529457",
+          "FileName": "e7e97ff8-2dff-41b5-bb04-aade4491031d.png",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e7e97ff8-2dff-41b5-bb04-aade4491031d.png"
         },
         {
-          "FileName": "r2_2a3ba68c-a0c7-429c-a752-eb11254da95e.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2945708447",
+          "FileName": "r2_2a3ba68c-a0c7-429c-a752-eb11254da95e.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_2a3ba68c-a0c7-429c-a752-eb11254da95e.jpg"
         },
         {
-          "FileName": "40b8f25c-6698-47e3-ba22-227dd4a8f241.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "323272864",
+          "FileName": "40b8f25c-6698-47e3-ba22-227dd4a8f241.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/40b8f25c-6698-47e3-ba22-227dd4a8f241.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_227bd4c1-3374-4822-b713-1432b493fc34.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2155065257",
+          "FileName": "r2_227bd4c1-3374-4822-b713-1432b493fc34.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_227bd4c1-3374-4822-b713-1432b493fc34.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "63c3f36d-7719-43c2-b4fc-3b0f5e524a37.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "3923806260",
+        "FileName": "63c3f36d-7719-43c2-b4fc-3b0f5e524a37.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/63c3f36d-7719-43c2-b4fc-3b0f5e524a37.png"
       },
       {
-        "FileName": "r2_548ba6d2-7c6d-4ad1-b45b-1e670c19a935.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "812549987",
+        "FileName": "r2_548ba6d2-7c6d-4ad1-b45b-1e670c19a935.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_548ba6d2-7c6d-4ad1-b45b-1e670c19a935.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "c5f37781-9a64-4e4a-86aa-b152d9e11b2e.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "301515375",
-        "URL": "http://images.launchbox-app.com/c5f37781-9a64-4e4a-86aa-b152d9e11b2e.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1123220397",
         "FileName": "1e6b9900-847f-4394-9c95-a720f5b43363.png",
         "Type": "Clear Logo",
-        "CRC32": "1123220397",
         "URL": "http://images.launchbox-app.com/1e6b9900-847f-4394-9c95-a720f5b43363.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "301515375",
+        "FileName": "c5f37781-9a64-4e4a-86aa-b152d9e11b2e.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/c5f37781-9a64-4e4a-86aa-b152d9e11b2e.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.20833333333333",
+  "DatabaseID": "167765",
+  "Developer": "Electronic Arts Canada",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "2014 Fifa World Cup Brazil",
+  "Overview": "2014 FIFA World Cup Brazil is a reworked version of FIFA 14 tailored for the world cup event in Brazil. Fully licensed as usual, it includes all 203 official FIFA country teams, their players and the real stadia. The different game modes include the qualification phase, exhibition matches, and the world cup itself. It is also possible to alter history and qualify with a team that did not make it to the real world cup. There is a mode to become the captain of your country where an individual player goes through training and matches competing against other team members to become captain. Road to Rio de Janeiro allows players to compete in an online tournament across the 12 venues of the cup. There are various kill games and both offline and online multiplayer matches are supported. EA Talk Radio offers a selection of duos that provide commentary for matches.\n\nDespite extensive borrowing from FIFA 14, there are also a number of changes. There are for instance new and additional animations for the players and the crowds have various details and attributes that refer to the countries' teams and colours. The appearance of the real coaches has been simulated and the game often cuts away to scenes of fans celebrating at home. The defense AI has been made looser, making it easier to break through. It also has become much more viable to launch long distance shots as there is a much higher chance of scoring than usual, leading to more spectacular goals. The keepers however have received an ability boost and will prevent scores from getting out of hand. Penalties have been made easier to perform, but keepers have more options to distract the strikers. Scoring from corners has been made harder as defenders will now jump up and will prevent attackers from cutting in unobstructed. This also applies to crosses that are now more often intercepted and headers feel less overpowered compared to previous titles. Other gameplay changes affect dribbling, an increased accuracy in passing and first-touch mechanics. Overall, the game mechanics have been made more accessible.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2014-04-15T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=uO1HNUoDzxQ",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_Brazil_(video_game)"
 }

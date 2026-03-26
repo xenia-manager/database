@@ -1,143 +1,143 @@
 {
-  "Name": "Blur",
-  "DatabaseID": "13089",
-  "ReleaseDate": "2010-05-25T00:00:00+00:00",
-  "Overview": "Blur is the ultimate powered-up racing experience, dropping you into electrified action with a mass of cars targeting the finish line and battling each other as they trade paint in both single player and multiplayer action. Travel the globe from LA and San Francisco to Spain, the UK and more to take on the best the streets have to offer. Utilize an arsenal of power-ups like nitro speed boosts, shock attacks, defensive shields, and landmines to beat your rivals across the finish line. You choose how and when to use your arsenal of power-ups for ultimate impact in a race where the outcome is never certain. \n\nIn Blur the storyline plays out in the single player campaign. Here players assume the role of an up-and-coming racer who is looking to make a name for himself in the underground racing scene, but the competition is fierce. As you take on the series of races, you'll meet a bunch of recurring characters. Some of these characters will be rivals, others perhaps will act as mentors, and some may be something else entirely. The only thing that is certain in the world of Blur is that in a race there are winners and losers, and racers will do anything to reach the finish line first.",
-  "VideoURL": "https://www.youtube.com/watch?v=G2sv2SqTyJ4",
-  "CommunityRating": "4.53333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Blur_(video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Racing",
-  "Developer": "Bizarre Creations",
-  "Publisher": "Activision Publishing",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "e9e3923b-7013-45f1-b430-ff7acff6d427.png",
-        "Type": "Banner",
-        "CRC32": "2464932858",
-        "URL": "http://images.launchbox-app.com/e9e3923b-7013-45f1-b430-ff7acff6d427.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2326070010",
         "FileName": "5a69e2c0-390e-46c0-8b12-fdce72d6d05f.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2326070010",
         "URL": "http://images.launchbox-app.com/5a69e2c0-390e-46c0-8b12-fdce72d6d05f.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2464932858",
+        "FileName": "e9e3923b-7013-45f1-b430-ff7acff6d427.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/e9e3923b-7013-45f1-b430-ff7acff6d427.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "18e9b374-cf78-42cf-a0ab-050cf8f01385.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2200324320",
+          "FileName": "18e9b374-cf78-42cf-a0ab-050cf8f01385.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/18e9b374-cf78-42cf-a0ab-050cf8f01385.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_7649e7ef-f424-49ea-b971-0d59816a6399.png",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "3735999151",
+          "FileName": "r2_7649e7ef-f424-49ea-b971-0d59816a6399.png",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_7649e7ef-f424-49ea-b971-0d59816a6399.png"
         },
         {
-          "FileName": "r2_719e6ba6-18f1-4e7d-8ebb-6ee2376466a7.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3484423345",
+          "FileName": "r2_719e6ba6-18f1-4e7d-8ebb-6ee2376466a7.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_719e6ba6-18f1-4e7d-8ebb-6ee2376466a7.jpg"
         },
         {
-          "FileName": "81ded292-2760-4526-8de3-fc17948fda4b.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1303682408",
+          "FileName": "81ded292-2760-4526-8de3-fc17948fda4b.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/81ded292-2760-4526-8de3-fc17948fda4b.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_c071a345-2d0b-42cf-8835-c305aba087f2.png",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "3707925483",
+          "FileName": "r2_c071a345-2d0b-42cf-8835-c305aba087f2.png",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_c071a345-2d0b-42cf-8835-c305aba087f2.png"
         },
         {
-          "FileName": "r2_b5193ab8-a368-4383-aaf2-ccc77cd14d71.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1746664539",
+          "FileName": "r2_b5193ab8-a368-4383-aaf2-ccc77cd14d71.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_b5193ab8-a368-4383-aaf2-ccc77cd14d71.jpg"
         },
         {
-          "FileName": "eb9b575f-2816-40f3-8c8c-4198571dc4e0.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2107461943",
+          "FileName": "eb9b575f-2816-40f3-8c8c-4198571dc4e0.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/eb9b575f-2816-40f3-8c8c-4198571dc4e0.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_82648afc-42e1-43f6-926b-867920acd261.png",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "3945852902",
+          "FileName": "r2_82648afc-42e1-43f6-926b-867920acd261.png",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_82648afc-42e1-43f6-926b-867920acd261.png"
         },
         {
-          "FileName": "515417e8-7a79-40ce-acc7-0eb52722bc63.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "804698181",
+          "FileName": "515417e8-7a79-40ce-acc7-0eb52722bc63.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/515417e8-7a79-40ce-acc7-0eb52722bc63.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_1ff4927d-7e85-4008-8098-27a20518b0f7.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "1291255733",
+        "FileName": "r2_1ff4927d-7e85-4008-8098-27a20518b0f7.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_1ff4927d-7e85-4008-8098-27a20518b0f7.png"
       },
       {
-        "FileName": "8e1d2860-7f60-4161-b32b-5274bb48b6e4.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3787786073",
+        "FileName": "8e1d2860-7f60-4161-b32b-5274bb48b6e4.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/8e1d2860-7f60-4161-b32b-5274bb48b6e4.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "06772d34-9fdd-403b-8bb9-e590058da4f7.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1740107317",
-        "URL": "http://images.launchbox-app.com/06772d34-9fdd-403b-8bb9-e590058da4f7.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "3592178342",
         "FileName": "f184e42d-88a7-4fc0-8a38-e183de6cfdc3.png",
         "Type": "Clear Logo",
-        "CRC32": "3592178342",
         "URL": "http://images.launchbox-app.com/f184e42d-88a7-4fc0-8a38-e183de6cfdc3.png"
       },
       {
-        "FileName": "r2_8e75ae30-a5cd-46f5-9cf6-5646a4df2d82.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "2894648494",
+        "FileName": "r2_8e75ae30-a5cd-46f5-9cf6-5646a4df2d82.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_8e75ae30-a5cd-46f5-9cf6-5646a4df2d82.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1740107317",
+        "FileName": "06772d34-9fdd-403b-8bb9-e590058da4f7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/06772d34-9fdd-403b-8bb9-e590058da4f7.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.53333333333333",
+  "DatabaseID": "13089",
+  "Developer": "Bizarre Creations",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Racing",
+  "Name": "Blur",
+  "Overview": "Blur is the ultimate powered-up racing experience, dropping you into electrified action with a mass of cars targeting the finish line and battling each other as they trade paint in both single player and multiplayer action. Travel the globe from LA and San Francisco to Spain, the UK and more to take on the best the streets have to offer. Utilize an arsenal of power-ups like nitro speed boosts, shock attacks, defensive shields, and landmines to beat your rivals across the finish line. You choose how and when to use your arsenal of power-ups for ultimate impact in a race where the outcome is never certain. \n\nIn Blur the storyline plays out in the single player campaign. Here players assume the role of an up-and-coming racer who is looking to make a name for himself in the underground racing scene, but the competition is fierce. As you take on the series of races, you'll meet a bunch of recurring characters. Some of these characters will be rivals, others perhaps will act as mentors, and some may be something else entirely. The only thing that is certain in the world of Blur is that in a race there are winners and losers, and racers will do anything to reach the finish line first.",
+  "Publisher": "Activision Publishing",
+  "ReleaseDate": "2010-05-25T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=G2sv2SqTyJ4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Blur_(video_game)"
 }

@@ -1,72 +1,72 @@
 {
-  "Name": "NBA 2K18",
-  "DatabaseID": "173600",
-  "ReleaseDate": "2017-09-15T00:00:00+00:00",
-  "Overview": "The highest rated annual sports title of this console generation returns with NBA 2K18, featuring unparalleled authenticity and improvements on the court.\n\nThe future of sports career modes has arrived, allowing you to play the game the way you like. Build your career in NBA games, hit the courts in The Playground Park, join the Pro-Am circuit, or explore the shops and venues in an all-new open neighborhood setting. Featuring new MyPLAYER upgrade and endorsement systems, our biggest cast of characters to date including NBA players, and so much more.",
-  "CommunityRating": "4",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Visual Concepts Entertainment",
-  "Publisher": "2K Games",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "790933202",
         "FileName": "90d1996f-8247-4d82-8826-1df541fc0c91.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "790933202",
         "URL": "http://images.launchbox-app.com/90d1996f-8247-4d82-8826-1df541fc0c91.jpg"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_4a55798d-348a-40d4-af99-fd203ee556ef.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "961776773",
+          "FileName": "r2_4a55798d-348a-40d4-af99-fd203ee556ef.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_4a55798d-348a-40d4-af99-fd203ee556ef.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_59779bca-940f-41c2-bc78-97537040879a.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1820510755",
+          "FileName": "r2_59779bca-940f-41c2-bc78-97537040879a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_59779bca-940f-41c2-bc78-97537040879a.jpg"
         },
         {
-          "FileName": "7590120f-684f-4ece-8fe8-cc4376b972a1.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2293626514",
+          "FileName": "7590120f-684f-4ece-8fe8-cc4376b972a1.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7590120f-684f-4ece-8fe8-cc4376b972a1.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "a6f6f33b-631a-4a00-bb16-c3d693f7c7ec.jpg",
-        "Type": "Disc",
+        "CRC32": "2350077752",
+        "FileName": "88d455c5-f770-42e0-b05d-fc2750d94531.jpg",
         "Region": "North America",
-        "CRC32": "2618186292",
-        "URL": "http://images.launchbox-app.com/a6f6f33b-631a-4a00-bb16-c3d693f7c7ec.jpg"
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/88d455c5-f770-42e0-b05d-fc2750d94531.jpg"
       },
       {
-        "FileName": "88d455c5-f770-42e0-b05d-fc2750d94531.jpg",
-        "Type": "Disc",
+        "CRC32": "2618186292",
+        "FileName": "a6f6f33b-631a-4a00-bb16-c3d693f7c7ec.jpg",
         "Region": "North America",
-        "CRC32": "2350077752",
-        "URL": "http://images.launchbox-app.com/88d455c5-f770-42e0-b05d-fc2750d94531.jpg"
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/a6f6f33b-631a-4a00-bb16-c3d693f7c7ec.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "2918789405",
         "FileName": "8cd81714-b520-4372-acab-21e961945bb2.png",
         "Type": "Clear Logo",
-        "CRC32": "2918789405",
         "URL": "http://images.launchbox-app.com/8cd81714-b520-4372-acab-21e961945bb2.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "173600",
+  "Developer": "Visual Concepts Entertainment",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "NBA 2K18",
+  "Overview": "The highest rated annual sports title of this console generation returns with NBA 2K18, featuring unparalleled authenticity and improvements on the court.\n\nThe future of sports career modes has arrived, allowing you to play the game the way you like. Build your career in NBA games, hit the courts in The Playground Park, join the Pro-Am circuit, or explore the shops and venues in an all-new open neighborhood setting. Featuring new MyPLAYER upgrade and endorsement systems, our biggest cast of characters to date including NBA players, and so much more.",
+  "Publisher": "2K Games",
+  "ReleaseDate": "2017-09-15T00:00:00+00:00"
 }

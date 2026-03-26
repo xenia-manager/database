@@ -1,33 +1,33 @@
 {
-  "Name": "Sonic the Hedgehog 3",
-  "DatabaseID": "129037",
-  "ReleaseDate": "2009-06-10T00:00:00+00:00",
-  "Overview": "In single player mode, the player can choose to play solo, as either Sonic or Tails, or as a team, controlling Sonic, with the AI controlling Tails, which is the default configuration. Another player may take control of Tails at any time by using a controller plugged into port 2. The object of the game is to progress through the levels. In order to completely finish the game, seven Chaos Emeralds must also be collected from the special stages.",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3",
-  "ESRB": "E - Everyone",
-  "Genres": "Adventure",
-  "Developer": "Sega",
-  "Publisher": "Sega",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3628567233",
         "FileName": "5c7821e8-399c-432f-9416-70dea8550f0c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3628567233",
         "URL": "http://images.launchbox-app.com/5c7821e8-399c-432f-9416-70dea8550f0c.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "68597799-d213-4f6d-9048-20a170efd17e.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "3556163225",
+          "FileName": "68597799-d213-4f6d-9048-20a170efd17e.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/68597799-d213-4f6d-9048-20a170efd17e.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "129037",
+  "Developer": "Sega",
+  "ESRB": "E - Everyone",
+  "Genres": "Adventure",
+  "Name": "Sonic the Hedgehog 3",
+  "Overview": "In single player mode, the player can choose to play solo, as either Sonic or Tails, or as a team, controlling Sonic, with the AI controlling Tails, which is the default configuration. Another player may take control of Tails at any time by using a controller plugged into port 2. The object of the game is to progress through the levels. In order to completely finish the game, seven Chaos Emeralds must also be collected from the special stages.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2009-06-10T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3"
 }

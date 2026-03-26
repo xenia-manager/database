@@ -1,116 +1,116 @@
 {
-  "Name": "Dynasty Warriors 6: Empires",
-  "DatabaseID": "13569",
-  "ReleaseDate": "2009-06-23T00:00:00+00:00",
-  "Overview": "Designed for the legions of Dynasty Warriors fans, DYNASTY WARRIORS 6: Empires is game that brings together the best aspects of the action and strategy genres. In this latest edition, players can experience Ancient China's greatest and most glorious war as an all-powerful lord or as an officer. As a lord, gamers must think strategically. By deciding when to attack, when to resist invasion, or when to initiate policies, a lord can expand their power and influence. An easy-to-learn card collecting system lets players enact policies that will increase their empire's strength, improve the abilities of their forces, and more. The cards that a player receives will depend on the attributes of the officers and their army. Players can also pledge their allegiance to a kingdom to become an officer. As an officer, players can suggest policies in the kingdom's war council, complete missions for rewards, or even turn against their ruler should relations sour. Most eagerly awaited by fans is a game mode that allows players to create their own warrior. DYNASTY WARRIORS 6: Empires features an extensive character editing system with options to customize a warrior's gender, build, skin tone, facial features, voice, clothing, weapon and more. Whomever players choose to be, they can now use mountain ledges and waterways to infiltrate enemy bases and launch surprise attacks on supply depots to change the flow of battle.",
-  "VideoURL": "http://www.youtube.com/watch?v=lEVrzPmq2f4",
-  "CommunityRating": "4.5",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "Omega Force",
-  "Publisher": "Koei",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_794fb48a-8561-451f-81a6-b47af9acb554.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3333164457",
-        "URL": "http://images.launchbox-app.com/r2_794fb48a-8561-451f-81a6-b47af9acb554.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_a53cb07b-0092-4160-b40d-f0ff2030a522.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "225069668",
+        "FileName": "r2_a53cb07b-0092-4160-b40d-f0ff2030a522.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_a53cb07b-0092-4160-b40d-f0ff2030a522.jpg"
       },
       {
-        "FileName": "r2_adcd661b-abd5-42ce-ab5b-992613aa19d4.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "378492188",
+        "FileName": "r2_adcd661b-abd5-42ce-ab5b-992613aa19d4.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_adcd661b-abd5-42ce-ab5b-992613aa19d4.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3333164457",
+        "FileName": "r2_794fb48a-8561-451f-81a6-b47af9acb554.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_794fb48a-8561-451f-81a6-b47af9acb554.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "97d614d0-7ad7-42fc-8b24-5029e54a3a2a.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3970685349",
+          "FileName": "97d614d0-7ad7-42fc-8b24-5029e54a3a2a.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/97d614d0-7ad7-42fc-8b24-5029e54a3a2a.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_3e06657f-d7d3-4484-a81c-7431c977b83a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2595136009",
+          "FileName": "r2_3e06657f-d7d3-4484-a81c-7431c977b83a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_3e06657f-d7d3-4484-a81c-7431c977b83a.jpg"
         },
         {
-          "FileName": "d82d8dda-8446-4545-b638-fc5b5ffc9fb6.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2832247771",
+          "FileName": "d82d8dda-8446-4545-b638-fc5b5ffc9fb6.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/d82d8dda-8446-4545-b638-fc5b5ffc9fb6.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_b67711e9-45fa-4164-b32e-9748db3b469a.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "73779946",
+          "FileName": "r2_b67711e9-45fa-4164-b32e-9748db3b469a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_b67711e9-45fa-4164-b32e-9748db3b469a.jpg"
         },
         {
-          "FileName": "242afaf9-e092-4e16-b0ce-38d9dec6a49a.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1355391457",
+          "FileName": "242afaf9-e092-4e16-b0ce-38d9dec6a49a.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/242afaf9-e092-4e16-b0ce-38d9dec6a49a.jpg"
         },
         {
-          "FileName": "e6597c88-72f8-45f7-8c65-70935356f5de.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1542131703",
+          "FileName": "e6597c88-72f8-45f7-8c65-70935356f5de.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/e6597c88-72f8-45f7-8c65-70935356f5de.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_c4a46570-ea96-4c88-94a6-6c4b979d64a3.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1884542168",
+          "FileName": "r2_c4a46570-ea96-4c88-94a6-6c4b979d64a3.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_c4a46570-ea96-4c88-94a6-6c4b979d64a3.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_bbe0d013-57dd-4297-820a-978a1d8064cb.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2662833998",
+        "FileName": "r2_bbe0d013-57dd-4297-820a-978a1d8064cb.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_bbe0d013-57dd-4297-820a-978a1d8064cb.png"
       }
     ],
     "Other": [
       {
-        "FileName": "6f25add1-853b-4167-ad1c-291afa5ee39a.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "131354738",
+        "FileName": "6f25add1-853b-4167-ad1c-291afa5ee39a.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/6f25add1-853b-4167-ad1c-291afa5ee39a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "13569",
+  "Developer": "Omega Force",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "Dynasty Warriors 6: Empires",
+  "Overview": "Designed for the legions of Dynasty Warriors fans, DYNASTY WARRIORS 6: Empires is game that brings together the best aspects of the action and strategy genres. In this latest edition, players can experience Ancient China's greatest and most glorious war as an all-powerful lord or as an officer. As a lord, gamers must think strategically. By deciding when to attack, when to resist invasion, or when to initiate policies, a lord can expand their power and influence. An easy-to-learn card collecting system lets players enact policies that will increase their empire's strength, improve the abilities of their forces, and more. The cards that a player receives will depend on the attributes of the officers and their army. Players can also pledge their allegiance to a kingdom to become an officer. As an officer, players can suggest policies in the kingdom's war council, complete missions for rewards, or even turn against their ruler should relations sour. Most eagerly awaited by fans is a game mode that allows players to create their own warrior. DYNASTY WARRIORS 6: Empires features an extensive character editing system with options to customize a warrior's gender, build, skin tone, facial features, voice, clothing, weapon and more. Whomever players choose to be, they can now use mountain ledges and waterways to infiltrate enemy bases and launch surprise attacks on supply depots to change the flow of battle.",
+  "Publisher": "Koei",
+  "ReleaseDate": "2009-06-23T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=lEVrzPmq2f4"
 }

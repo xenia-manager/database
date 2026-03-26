@@ -1,139 +1,139 @@
 {
-  "Name": "Call of Duty: Ghosts",
-  "DatabaseID": "18217",
-  "ReleaseDate": "2013-11-05T00:00:00+00:00",
-  "Overview": "Call of Duty: Ghosts takes place following a catastrophic event that changed the global balance of powers in the world. As a result, the United States is no longer recognized as a superpower. Ten years after the event, an unseen enemy emerges as a threat, but the remnants of US special forces from every branch came together to create an elite group of soldiers known as the \"Ghosts\", who are determined to eradicate all threats to protect the weak and the remains of America.",
-  "VideoURL": "http://www.youtube.com/watch?v=Zxnx3W-HA18",
-  "CommunityRating": "3.61111111111111",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty:_Ghosts",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter; Stealth",
-  "Developer": "Infinity Ward",
-  "Publisher": "Activision",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "7f3fb740-be0f-4949-b693-020e84ffce4f.png",
-        "Type": "Banner",
-        "CRC32": "239181443",
-        "URL": "http://images.launchbox-app.com/7f3fb740-be0f-4949-b693-020e84ffce4f.png"
-      },
-      {
-        "FileName": "0b945451-6ebc-4ba9-b77d-774278d836ed.png",
-        "Type": "Banner",
-        "CRC32": "1243368006",
-        "URL": "http://images.launchbox-app.com/0b945451-6ebc-4ba9-b77d-774278d836ed.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3925909173",
+        "FileName": "6a9301fa-dbd3-465f-898b-6bbaf21949ee.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/6a9301fa-dbd3-465f-898b-6bbaf21949ee.jpg"
+      },
+      {
+        "CRC32": "1354532061",
         "FileName": "99bf3570-31d4-42b9-94d7-bd4f12f7ffaf.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1354532061",
         "URL": "http://images.launchbox-app.com/99bf3570-31d4-42b9-94d7-bd4f12f7ffaf.jpg"
       },
       {
+        "CRC32": "545541237",
         "FileName": "cbe784d1-5333-4d23-ab7a-19125f6862d7.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "545541237",
         "URL": "http://images.launchbox-app.com/cbe784d1-5333-4d23-ab7a-19125f6862d7.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1243368006",
+        "FileName": "0b945451-6ebc-4ba9-b77d-774278d836ed.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/0b945451-6ebc-4ba9-b77d-774278d836ed.png"
       },
       {
-        "FileName": "6a9301fa-dbd3-465f-898b-6bbaf21949ee.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3925909173",
-        "URL": "http://images.launchbox-app.com/6a9301fa-dbd3-465f-898b-6bbaf21949ee.jpg"
+        "CRC32": "239181443",
+        "FileName": "7f3fb740-be0f-4949-b693-020e84ffce4f.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/7f3fb740-be0f-4949-b693-020e84ffce4f.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "289500f6-50c1-4e83-8bdb-72839fe85bd6.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "4293110429",
+          "FileName": "289500f6-50c1-4e83-8bdb-72839fe85bd6.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/289500f6-50c1-4e83-8bdb-72839fe85bd6.png"
         },
         {
-          "FileName": "r2_cdacf016-2fea-40de-ae66-4d2c7abfc909.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3726460334",
+          "FileName": "r2_cdacf016-2fea-40de-ae66-4d2c7abfc909.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_cdacf016-2fea-40de-ae66-4d2c7abfc909.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_95e27813-b094-469f-b0de-3003f7fb7f88.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "780102618",
+          "FileName": "r2_95e27813-b094-469f-b0de-3003f7fb7f88.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_95e27813-b094-469f-b0de-3003f7fb7f88.jpg"
         },
         {
-          "FileName": "7d530dcc-7a68-44f3-bd51-568ad99d1d1b.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "305246080",
+          "FileName": "7d530dcc-7a68-44f3-bd51-568ad99d1d1b.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/7d530dcc-7a68-44f3-bd51-568ad99d1d1b.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a23ae39c-dc1c-46af-a957-ca0f57532b74.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "685703496",
+          "FileName": "r2_a23ae39c-dc1c-46af-a957-ca0f57532b74.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a23ae39c-dc1c-46af-a957-ca0f57532b74.jpg"
         },
         {
-          "FileName": "4d490557-42b4-46cc-be48-d92d432b8579.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3893211051",
+          "FileName": "4d490557-42b4-46cc-be48-d92d432b8579.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4d490557-42b4-46cc-be48-d92d432b8579.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "df0c43db-7069-4697-a80d-5da56f59955c.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1088216063",
+          "FileName": "df0c43db-7069-4697-a80d-5da56f59955c.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/df0c43db-7069-4697-a80d-5da56f59955c.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_61ef7896-382d-439d-a543-0475384afb07.png",
-        "Type": "Disc",
+        "CRC32": "1178192586",
+        "FileName": "f328fd0e-e827-4117-859d-8b84cf4d7417.png",
         "Region": "North America",
-        "CRC32": "2537489502",
-        "URL": "http://images.launchbox-app.com/r2_61ef7896-382d-439d-a543-0475384afb07.png"
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/f328fd0e-e827-4117-859d-8b84cf4d7417.png"
       },
       {
-        "FileName": "r2_596d1186-9fba-4be6-b14c-17772c8d783b.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2634850691",
+        "FileName": "r2_596d1186-9fba-4be6-b14c-17772c8d783b.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_596d1186-9fba-4be6-b14c-17772c8d783b.png"
       },
       {
-        "FileName": "f328fd0e-e827-4117-859d-8b84cf4d7417.png",
-        "Type": "Disc",
+        "CRC32": "2537489502",
+        "FileName": "r2_61ef7896-382d-439d-a543-0475384afb07.png",
         "Region": "North America",
-        "CRC32": "1178192586",
-        "URL": "http://images.launchbox-app.com/f328fd0e-e827-4117-859d-8b84cf4d7417.png"
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_61ef7896-382d-439d-a543-0475384afb07.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3549591289",
         "FileName": "9511e0aa-b24e-4a00-ad07-bf72510bae7c.png",
         "Type": "Clear Logo",
-        "CRC32": "3549591289",
         "URL": "http://images.launchbox-app.com/9511e0aa-b24e-4a00-ad07-bf72510bae7c.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.61111111111111",
+  "DatabaseID": "18217",
+  "Developer": "Infinity Ward",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter; Stealth",
+  "Name": "Call of Duty: Ghosts",
+  "Overview": "Call of Duty: Ghosts takes place following a catastrophic event that changed the global balance of powers in the world. As a result, the United States is no longer recognized as a superpower. Ten years after the event, an unseen enemy emerges as a threat, but the remnants of US special forces from every branch came together to create an elite group of soldiers known as the \"Ghosts\", who are determined to eradicate all threats to protect the weak and the remains of America.",
+  "Publisher": "Activision",
+  "ReleaseDate": "2013-11-05T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=Zxnx3W-HA18",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty:_Ghosts"
 }

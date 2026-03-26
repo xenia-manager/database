@@ -1,38 +1,38 @@
 {
-  "Name": "Audio Diagnostics",
-  "DatabaseID": "467305",
-  "ReleaseDate": "2010-01-10T00:00:00+00:00",
-  "Overview": "Audio Diagnostics contains a series of interactive tests to help you get the most out of your entertainment centers audio system. Audio Diagnostics will assist you in tasks such as setting up and positions your speakers, and gives you a rough idea of the overall quality of your audio system.",
-  "Genres": null,
-  "Developer": "DigitalDNA Games",
-  "Publisher": "DigitalDNA Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "725c72b1-caa3-4529-99ea-aa462fc012d2.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2480575428",
+          "FileName": "725c72b1-caa3-4529-99ea-aa462fc012d2.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/725c72b1-caa3-4529-99ea-aa462fc012d2.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "5b8c492a-23e5-4bcb-b359-c8c06304e1c4.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3028591245",
+        "FileName": "0f03f123-bb83-4042-87a3-13a0a5fbe602.jpg",
         "Region": "World",
-        "CRC32": "1628002478",
-        "URL": "http://images.launchbox-app.com/5b8c492a-23e5-4bcb-b359-c8c06304e1c4.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/0f03f123-bb83-4042-87a3-13a0a5fbe602.jpg"
       },
       {
-        "FileName": "0f03f123-bb83-4042-87a3-13a0a5fbe602.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1628002478",
+        "FileName": "5b8c492a-23e5-4bcb-b359-c8c06304e1c4.jpg",
         "Region": "World",
-        "CRC32": "3028591245",
-        "URL": "http://images.launchbox-app.com/0f03f123-bb83-4042-87a3-13a0a5fbe602.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/5b8c492a-23e5-4bcb-b359-c8c06304e1c4.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467305",
+  "Developer": "DigitalDNA Games",
+  "Genres": null,
+  "Name": "Audio Diagnostics",
+  "Overview": "Audio Diagnostics contains a series of interactive tests to help you get the most out of your entertainment centers audio system. Audio Diagnostics will assist you in tasks such as setting up and positions your speakers, and gives you a rough idea of the overall quality of your audio system.",
+  "Publisher": "DigitalDNA Games",
+  "ReleaseDate": "2010-01-10T00:00:00+00:00"
 }

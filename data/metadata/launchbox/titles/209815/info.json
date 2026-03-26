@@ -1,40 +1,40 @@
 {
-  "Name": "Rekoil: Liberator",
-  "DatabaseID": "209815",
-  "ReleaseDate": "2014-01-29T00:00:00+00:00",
-  "Overview": "Frag your enemies back to the stone age! Set in a world devastated by an unrelenting pandemic, Rekoil is a fast action & highly balanced arena shooter that allows players to frag each other to oblivion. With 7 different game modes, 10 maps, & 40 different weapons, Rekoil is the action FPS refined to its purest form ensuring the fun is maximized & the best player with the greatest skills & most points wins. Whether you enjoy run & gun, or prefer a tactical setup, play the way you want to play.",
-  "CommunityRating": "5",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Plastic Piranha",
-  "Publisher": "505 Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "1ffbc42d-544d-4a88-bf5f-a0413143d77c.png",
-        "Type": "Banner",
-        "CRC32": "1570456870",
-        "URL": "http://images.launchbox-app.com/1ffbc42d-544d-4a88-bf5f-a0413143d77c.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1242260167",
         "FileName": "886053d4-b1fd-461d-88fc-716385e99d71.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1242260167",
         "URL": "http://images.launchbox-app.com/886053d4-b1fd-461d-88fc-716385e99d71.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1570456870",
+        "FileName": "1ffbc42d-544d-4a88-bf5f-a0413143d77c.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/1ffbc42d-544d-4a88-bf5f-a0413143d77c.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "74ebef33-f2e7-4a30-8504-980701e0992c.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2816573559",
+          "FileName": "74ebef33-f2e7-4a30-8504-980701e0992c.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/74ebef33-f2e7-4a30-8504-980701e0992c.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "5",
+  "DatabaseID": "209815",
+  "Developer": "Plastic Piranha",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Rekoil: Liberator",
+  "Overview": "Frag your enemies back to the stone age! Set in a world devastated by an unrelenting pandemic, Rekoil is a fast action & highly balanced arena shooter that allows players to frag each other to oblivion. With 7 different game modes, 10 maps, & 40 different weapons, Rekoil is the action FPS refined to its purest form ensuring the fun is maximized & the best player with the greatest skills & most points wins. Whether you enjoy run & gun, or prefer a tactical setup, play the way you want to play.",
+  "Publisher": "505 Games",
+  "ReleaseDate": "2014-01-29T00:00:00+00:00"
 }

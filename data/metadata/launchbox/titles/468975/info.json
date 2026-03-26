@@ -1,23 +1,23 @@
 {
-  "Name": "DoCoNoid",
-  "DatabaseID": "468975",
-  "ReleaseDate": "2013-06-05T00:00:00+00:00",
-  "Overview": "A Classic clone with special features.",
-  "VideoURL": "https://youtu.be/J71VDVtQQmU",
-  "Genres": "Action",
-  "Developer": "eots",
-  "Publisher": "eots",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "888a4a25-d9a3-4deb-ae01-10c08f51e702.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1299590028",
+          "FileName": "888a4a25-d9a3-4deb-ae01-10c08f51e702.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/888a4a25-d9a3-4deb-ae01-10c08f51e702.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468975",
+  "Developer": "eots",
+  "Genres": "Action",
+  "Name": "DoCoNoid",
+  "Overview": "A Classic clone with special features.",
+  "Publisher": "eots",
+  "ReleaseDate": "2013-06-05T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/J71VDVtQQmU"
 }

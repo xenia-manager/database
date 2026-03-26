@@ -1,153 +1,153 @@
 {
-  "Name": "Bomberman Live: Battlefest",
-  "DatabaseID": "96109",
-  "ReleaseDate": "2010-12-08T00:00:00+00:00",
-  "Overview": "The gameplay follows the traditional Bomberman gameplay. Players must use bombs to blow up and defeat other players. The players must blow up bricks that stand in the way to make way to access other players. Blowing up bricks will give power ups such as increased speed or blast length. The last person standing in each round is the winner. If no players remain, a draw is declared",
-  "VideoURL": "https://www.youtube.com/watch?v=GfByyNW_FGc",
-  "CommunityRating": "3.47727272727273",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Bomberman_Live:_Battlefest",
-  "ESRB": "E - Everyone",
-  "Genres": "Strategy",
-  "Developer": "Pi Studios",
-  "Publisher": "Hudson Entertainment",
   "Artwork": {
     "Arcade": [
       {
+        "CRC32": "2777616035",
         "FileName": "4ab7b556-57c7-43ba-b6b8-650d6d253296.png",
         "Type": "Arcade - Controls Information",
-        "CRC32": "2777616035",
         "URL": "http://images.launchbox-app.com/4ab7b556-57c7-43ba-b6b8-650d6d253296.png"
-      }
-    ],
-    "Banner": [
-      {
-        "FileName": "059a4581-a564-4e8e-bb63-9ff7846cd436.png",
-        "Type": "Banner",
-        "CRC32": "3926404170",
-        "URL": "http://images.launchbox-app.com/059a4581-a564-4e8e-bb63-9ff7846cd436.png"
       }
     ],
     "Background": [
       {
-        "FileName": "a2ab5151-f97d-4ca0-9c17-10124ff4fc0f.png",
-        "Type": "Fanart - Background",
-        "CRC32": "1353367322",
-        "URL": "http://images.launchbox-app.com/a2ab5151-f97d-4ca0-9c17-10124ff4fc0f.png"
-      },
-      {
-        "FileName": "0eccc8b4-3116-49d1-a085-e0538f3c1aff.png",
-        "Type": "Fanart - Background",
-        "CRC32": "2541662096",
-        "URL": "http://images.launchbox-app.com/0eccc8b4-3116-49d1-a085-e0538f3c1aff.png"
-      },
-      {
+        "CRC32": "1629288701",
         "FileName": "0d104433-e07e-4183-aee8-cc7751785919.png",
         "Type": "Fanart - Background",
-        "CRC32": "1629288701",
         "URL": "http://images.launchbox-app.com/0d104433-e07e-4183-aee8-cc7751785919.png"
       },
       {
+        "CRC32": "2522858743",
+        "FileName": "0d8926c3-fc09-4b2a-9b06-9b11db689edf.png",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/0d8926c3-fc09-4b2a-9b06-9b11db689edf.png"
+      },
+      {
+        "CRC32": "2541662096",
+        "FileName": "0eccc8b4-3116-49d1-a085-e0538f3c1aff.png",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/0eccc8b4-3116-49d1-a085-e0538f3c1aff.png"
+      },
+      {
+        "CRC32": "3751236785",
         "FileName": "8fc7ba9b-f854-4c35-82e2-5ba3770e7858.png",
         "Type": "Fanart - Background",
-        "CRC32": "3751236785",
         "URL": "http://images.launchbox-app.com/8fc7ba9b-f854-4c35-82e2-5ba3770e7858.png"
       },
       {
-        "FileName": "0d8926c3-fc09-4b2a-9b06-9b11db689edf.png",
+        "CRC32": "1353367322",
+        "FileName": "a2ab5151-f97d-4ca0-9c17-10124ff4fc0f.png",
         "Type": "Fanart - Background",
-        "CRC32": "2522858743",
-        "URL": "http://images.launchbox-app.com/0d8926c3-fc09-4b2a-9b06-9b11db689edf.png"
+        "URL": "http://images.launchbox-app.com/a2ab5151-f97d-4ca0-9c17-10124ff4fc0f.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3926404170",
+        "FileName": "059a4581-a564-4e8e-bb63-9ff7846cd436.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/059a4581-a564-4e8e-bb63-9ff7846cd436.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "65a23aca-5fbf-4aba-aa26-33939b41117d.png",
-          "Type": "Box - 3D",
-          "Region": "World",
           "CRC32": "1861962162",
+          "FileName": "65a23aca-5fbf-4aba-aa26-33939b41117d.png",
+          "Region": "World",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/65a23aca-5fbf-4aba-aa26-33939b41117d.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "2581567394",
           "FileName": "65c90f44-d339-4164-ac10-3667723b5f57.png",
           "Type": "Box - Front",
-          "CRC32": "2581567394",
           "URL": "http://images.launchbox-app.com/65c90f44-d339-4164-ac10-3667723b5f57.png"
         },
         {
-          "FileName": "48416cf3-7cb9-4840-8ca4-5c4b06cd5122.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4166385949",
+          "FileName": "48416cf3-7cb9-4840-8ca4-5c4b06cd5122.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/48416cf3-7cb9-4840-8ca4-5c4b06cd5122.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "973dca58-f5df-46a4-86e8-448cc4f3f1dc.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "3605636077",
-        "URL": "http://images.launchbox-app.com/973dca58-f5df-46a4-86e8-448cc4f3f1dc.png"
-      },
-      {
+        "CRC32": "2762901868",
         "FileName": "569269be-9e11-47dc-94e2-5c7cd742317e.png",
         "Type": "Fanart - Disc",
-        "CRC32": "2762901868",
         "URL": "http://images.launchbox-app.com/569269be-9e11-47dc-94e2-5c7cd742317e.png"
+      },
+      {
+        "CRC32": "3605636077",
+        "FileName": "973dca58-f5df-46a4-86e8-448cc4f3f1dc.png",
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/973dca58-f5df-46a4-86e8-448cc4f3f1dc.png"
       }
     ],
     "Icon": [
       {
-        "FileName": "r2_8a89219f-ba40-4d3d-8c0f-54ce288b776d.png",
-        "Type": "Icon",
-        "Region": "World",
         "CRC32": "2218062982",
+        "FileName": "r2_8a89219f-ba40-4d3d-8c0f-54ce288b776d.png",
+        "Region": "World",
+        "Type": "Icon",
         "URL": "http://images.launchbox-app.com/r2_8a89219f-ba40-4d3d-8c0f-54ce288b776d.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "9e2d4891-73c2-4776-9b05-87adb0a6e5f4.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "79595165",
-        "URL": "http://images.launchbox-app.com/9e2d4891-73c2-4776-9b05-87adb0a6e5f4.jpg"
-      },
-      {
-        "FileName": "528e4f5f-c1f5-4736-afa8-695baa402595.png",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "3046143983",
-        "URL": "http://images.launchbox-app.com/528e4f5f-c1f5-4736-afa8-695baa402595.png"
-      },
-      {
-        "FileName": "db3a6646-c1ef-4f47-8628-9b8cc2200ec2.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1490917337",
-        "URL": "http://images.launchbox-app.com/db3a6646-c1ef-4f47-8628-9b8cc2200ec2.jpg"
-      },
-      {
-        "FileName": "9e146da8-fd8f-4e3b-bb16-ad249f203a10.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2155239914",
-        "URL": "http://images.launchbox-app.com/9e146da8-fd8f-4e3b-bb16-ad249f203a10.jpg"
-      },
-      {
-        "FileName": "f8afb3ec-957a-4fc5-92ba-41475ac2c3c9.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1443638825",
-        "URL": "http://images.launchbox-app.com/f8afb3ec-957a-4fc5-92ba-41475ac2c3c9.jpg"
       }
     ],
     "Other": [
       {
-        "FileName": "21ab66d9-7d16-46f7-8593-31e4fa064b0b.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1916565207",
+        "FileName": "21ab66d9-7d16-46f7-8593-31e4fa064b0b.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/21ab66d9-7d16-46f7-8593-31e4fa064b0b.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3046143983",
+        "FileName": "528e4f5f-c1f5-4736-afa8-695baa402595.png",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/528e4f5f-c1f5-4736-afa8-695baa402595.png"
+      },
+      {
+        "CRC32": "79595165",
+        "FileName": "9e2d4891-73c2-4776-9b05-87adb0a6e5f4.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/9e2d4891-73c2-4776-9b05-87adb0a6e5f4.jpg"
+      },
+      {
+        "CRC32": "1490917337",
+        "FileName": "db3a6646-c1ef-4f47-8628-9b8cc2200ec2.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/db3a6646-c1ef-4f47-8628-9b8cc2200ec2.jpg"
+      },
+      {
+        "CRC32": "2155239914",
+        "FileName": "9e146da8-fd8f-4e3b-bb16-ad249f203a10.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/9e146da8-fd8f-4e3b-bb16-ad249f203a10.jpg"
+      },
+      {
+        "CRC32": "1443638825",
+        "FileName": "f8afb3ec-957a-4fc5-92ba-41475ac2c3c9.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f8afb3ec-957a-4fc5-92ba-41475ac2c3c9.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.47727272727273",
+  "DatabaseID": "96109",
+  "Developer": "Pi Studios",
+  "ESRB": "E - Everyone",
+  "Genres": "Strategy",
+  "Name": "Bomberman Live: Battlefest",
+  "Overview": "The gameplay follows the traditional Bomberman gameplay. Players must use bombs to blow up and defeat other players. The players must blow up bricks that stand in the way to make way to access other players. Blowing up bricks will give power ups such as increased speed or blast length. The last person standing in each round is the winner. If no players remain, a draw is declared",
+  "Publisher": "Hudson Entertainment",
+  "ReleaseDate": "2010-12-08T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=GfByyNW_FGc",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Bomberman_Live:_Battlefest"
 }

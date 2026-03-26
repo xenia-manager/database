@@ -1,42 +1,42 @@
 {
-  "Name": "Rugby League Live",
-  "DatabaseID": "16385",
-  "ReleaseDate": "2010-11-05T00:00:00+00:00",
-  "Overview": "Rugby League Live is a sports game based on Rugby league. It was released in Australia on September 2, New Zealand on August 27, and United Kingdom and France on November 5, 2010 for PlayStation 3 and Xbox 360.[1] The Microsoft Windows port of game was released in February 2011.[2]",
-  "VideoURL": "https://www.youtube.com/watch?v=e2jMvVWk03I",
-  "CommunityRating": "2",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Rugby_League_Live",
-  "ESRB": "Not Rated",
-  "Genres": "Sports",
-  "Developer": "Big Ant Studios",
-  "Publisher": "Tru Blu Entertainment",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "931879074",
           "FileName": "c784447b-5639-478e-ab2c-f6f1769d3928.png",
           "Type": "Box - 3D",
-          "CRC32": "931879074",
           "URL": "http://images.launchbox-app.com/c784447b-5639-478e-ab2c-f6f1769d3928.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "2545310087",
           "FileName": "d5f75aea-b10a-4a60-8db8-e0f5c211ca33.jpg",
           "Type": "Box - Front",
-          "CRC32": "2545310087",
           "URL": "http://images.launchbox-app.com/d5f75aea-b10a-4a60-8db8-e0f5c211ca33.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "e60de831-b0ad-4db0-9a82-6f5e9a1d4de0.png",
-        "Type": "Clear Logo",
-        "Region": "Australia",
         "CRC32": "2833802818",
+        "FileName": "e60de831-b0ad-4db0-9a82-6f5e9a1d4de0.png",
+        "Region": "Australia",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/e60de831-b0ad-4db0-9a82-6f5e9a1d4de0.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2",
+  "DatabaseID": "16385",
+  "Developer": "Big Ant Studios",
+  "ESRB": "Not Rated",
+  "Genres": "Sports",
+  "Name": "Rugby League Live",
+  "Overview": "Rugby League Live is a sports game based on Rugby league. It was released in Australia on September 2, New Zealand on August 27, and United Kingdom and France on November 5, 2010 for PlayStation 3 and Xbox 360.[1] The Microsoft Windows port of game was released in February 2011.[2]",
+  "Publisher": "Tru Blu Entertainment",
+  "ReleaseDate": "2010-11-05T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=e2jMvVWk03I",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Rugby_League_Live"
 }

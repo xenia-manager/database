@@ -1,50 +1,50 @@
 {
-  "Name": "Jam Live Music Arcade",
-  "DatabaseID": "209411",
-  "ReleaseDate": "2012-03-28T00:00:00+00:00",
-  "Overview": "JAM Live Music Arcade is a robust musical experience of creative freedom. Through your guitar peripheral or controller, take control of all aspects of a song: guitar, bass, drums, vocals, synth and more. Featuring music from Modest Mouse, Fallout Boy, Atmosphere and much more, JAM has over 30 tracks from Rock, Pop, Hip Hop and techno. Be the DJ, producer and band leader in the live music sandbox or take on the arcade challenge.",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Frima Studio",
-  "Publisher": "505 Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_9281502b-300e-4e11-b0af-49eb00f65da9.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2531607314",
-        "URL": "http://images.launchbox-app.com/r2_9281502b-300e-4e11-b0af-49eb00f65da9.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_ad8704aa-7086-4966-9b2b-1c0cb7f54cc8.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "4043232066",
+        "FileName": "r2_ad8704aa-7086-4966-9b2b-1c0cb7f54cc8.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_ad8704aa-7086-4966-9b2b-1c0cb7f54cc8.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2531607314",
+        "FileName": "r2_9281502b-300e-4e11-b0af-49eb00f65da9.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_9281502b-300e-4e11-b0af-49eb00f65da9.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "51259518-76ec-49d7-a990-c9bd1a4db4d0.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2864436404",
+          "FileName": "51259518-76ec-49d7-a990-c9bd1a4db4d0.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/51259518-76ec-49d7-a990-c9bd1a4db4d0.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_b82d4bba-be9f-4774-947a-2c94b6d2e41a.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3587172054",
+        "FileName": "r2_b82d4bba-be9f-4774-947a-2c94b6d2e41a.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_b82d4bba-be9f-4774-947a-2c94b6d2e41a.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "209411",
+  "Developer": "Frima Studio",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "Jam Live Music Arcade",
+  "Overview": "JAM Live Music Arcade is a robust musical experience of creative freedom. Through your guitar peripheral or controller, take control of all aspects of a song: guitar, bass, drums, vocals, synth and more. Featuring music from Modest Mouse, Fallout Boy, Atmosphere and much more, JAM has over 30 tracks from Rock, Pop, Hip Hop and techno. Be the DJ, producer and band leader in the live music sandbox or take on the arcade challenge.",
+  "Publisher": "505 Games",
+  "ReleaseDate": "2012-03-28T00:00:00+00:00"
 }

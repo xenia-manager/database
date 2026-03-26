@@ -1,112 +1,112 @@
 {
-  "Name": "Enchanted Arms",
-  "DatabaseID": "7470",
-  "ReleaseDate": "2006-01-12T00:00:00+00:00",
-  "Overview": "Enchanted Arms is a turn-based role playing game. In quest mode you control Atsuma and can explore the many locations of the games world. There are other characters you can talk to and various items to find; as you progress through the game the story unfolds through numerous cut-scenes. While exploring battles will be randomly encountered; battles take place on a 6x4 grid (each side can utilize 3x4 squares on the grid). On each turn you may move your characters within the grid (movement may be limited depending on the character) and select an attack. A variety of skills and attacks are available for each character, and as you level up additional abilities can be learned.",
-  "VideoURL": "https://www.youtube.com/watch?v=r8CdPcosFqk",
-  "CommunityRating": "3.1",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Enchanted_Arms",
-  "ESRB": "T - Teen",
-  "Genres": "Role-Playing",
-  "Developer": "FromSoftware",
-  "Publisher": "Ubisoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_f1044288-197c-458e-991d-a58ec96f35b2.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1607447390",
-        "URL": "http://images.launchbox-app.com/r2_f1044288-197c-458e-991d-a58ec96f35b2.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_33f91492-fc04-428a-aa35-27161469205b.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "4152405053",
+        "FileName": "r2_0f47472a-f816-4291-b233-e9fb08043300.jpg",
         "Region": "World",
-        "CRC32": "2004288086",
-        "URL": "http://images.launchbox-app.com/r2_33f91492-fc04-428a-aa35-27161469205b.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_0f47472a-f816-4291-b233-e9fb08043300.jpg"
       },
       {
-        "FileName": "r2_0f47472a-f816-4291-b233-e9fb08043300.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "2004288086",
+        "FileName": "r2_33f91492-fc04-428a-aa35-27161469205b.jpg",
         "Region": "World",
-        "CRC32": "4152405053",
-        "URL": "http://images.launchbox-app.com/r2_0f47472a-f816-4291-b233-e9fb08043300.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_33f91492-fc04-428a-aa35-27161469205b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1607447390",
+        "FileName": "r2_f1044288-197c-458e-991d-a58ec96f35b2.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_f1044288-197c-458e-991d-a58ec96f35b2.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "753313604",
           "FileName": "fcd79ed7-d1fb-421c-b60c-f0737530cb75.png",
           "Type": "Box - 3D",
-          "CRC32": "753313604",
           "URL": "http://images.launchbox-app.com/fcd79ed7-d1fb-421c-b60c-f0737530cb75.png"
         },
         {
-          "FileName": "r2_38769432-88ed-4776-ac07-4981a6c24842.png",
-          "Type": "Box - 3D",
-          "Region": "Japan",
           "CRC32": "1735373849",
+          "FileName": "r2_38769432-88ed-4776-ac07-4981a6c24842.png",
+          "Region": "Japan",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_38769432-88ed-4776-ac07-4981a6c24842.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "3932854475",
           "FileName": "c114f8bd-3763-4467-a6d1-31a3ca51fd9e.jpg",
           "Type": "Box - Back",
-          "CRC32": "3932854475",
           "URL": "http://images.launchbox-app.com/c114f8bd-3763-4467-a6d1-31a3ca51fd9e.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "204988801",
           "FileName": "2988b3e7-c05c-4894-b67f-f8d57087eaf4.jpg",
           "Type": "Box - Front",
-          "CRC32": "204988801",
           "URL": "http://images.launchbox-app.com/2988b3e7-c05c-4894-b67f-f8d57087eaf4.jpg"
         },
         {
-          "FileName": "r2_8ccf53d2-bc33-4c31-afb6-3ab2dbc0bb3a.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2459748286",
+          "FileName": "r2_8ccf53d2-bc33-4c31-afb6-3ab2dbc0bb3a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_8ccf53d2-bc33-4c31-afb6-3ab2dbc0bb3a.jpg"
         },
         {
-          "FileName": "r2_eb5758bb-c0da-4237-909d-bdd35529746d.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "2513363392",
+          "FileName": "r2_eb5758bb-c0da-4237-909d-bdd35529746d.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_eb5758bb-c0da-4237-909d-bdd35529746d.jpg"
         },
         {
-          "FileName": "r2_379d1def-2e8b-46af-97cf-a049c29b5102.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3586861488",
+          "FileName": "r2_379d1def-2e8b-46af-97cf-a049c29b5102.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_379d1def-2e8b-46af-97cf-a049c29b5102.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_0e034912-6117-4395-9dcf-9c2d2c6cc6c3.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2139733580",
+          "FileName": "r2_0e034912-6117-4395-9dcf-9c2d2c6cc6c3.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_0e034912-6117-4395-9dcf-9c2d2c6cc6c3.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_85aec0c9-5a25-4dca-a4e9-72c0024092bf.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2766912508",
+        "FileName": "r2_85aec0c9-5a25-4dca-a4e9-72c0024092bf.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_85aec0c9-5a25-4dca-a4e9-72c0024092bf.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.1",
+  "DatabaseID": "7470",
+  "Developer": "FromSoftware",
+  "ESRB": "T - Teen",
+  "Genres": "Role-Playing",
+  "Name": "Enchanted Arms",
+  "Overview": "Enchanted Arms is a turn-based role playing game. In quest mode you control Atsuma and can explore the many locations of the games world. There are other characters you can talk to and various items to find; as you progress through the game the story unfolds through numerous cut-scenes. While exploring battles will be randomly encountered; battles take place on a 6x4 grid (each side can utilize 3x4 squares on the grid). On each turn you may move your characters within the grid (movement may be limited depending on the character) and select an attack. A variety of skills and attacks are available for each character, and as you level up additional abilities can be learned.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2006-01-12T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=r8CdPcosFqk",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Enchanted_Arms"
 }

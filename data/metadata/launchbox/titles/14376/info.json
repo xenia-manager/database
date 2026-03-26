@@ -1,120 +1,120 @@
 {
-  "Name": "Zoids Assault",
-  "DatabaseID": "14376",
-  "ReleaseDate": "2008-09-01T00:00:00+00:00",
-  "Overview": "Zoids Assault is the re-imagining of the Zoids universe based on the toy model franchise. It is a strategy game with RPG elements that features giant robots. The player takes charge of Maroll's 99th Zoid Platoon, Mace Squad, and leads a covert mission behind enemy lines into Jamil alongside Sgt. Jessica Lambert and the commando squad known as Katana. The zoids can be customized with parts claimed from defeated foes to build up a force that can get a stronger grip on the battlefield.\n\nSince story's setting places the player working behind enemy lines, he is constantly outgunned and outmanned at nearly every turn. The player controls a squad of five zoid pilots that have a different role in the squad. They need to be managed in terms of special skills, weapon/armor loadout, and can be customized with different color schemes.\n\nBecause of the long odds facing the mission, mastering cover fire, coordinated fire, and the EMP systems will be the key to leading Mace Squad to victory, with the aim to bring the shadows of a 10-year-old conflict to the light of day.",
-  "VideoURL": "https://www.youtube.com/watch?v=qDEKW98DuGw",
-  "CommunityRating": "3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/List_of_Zoids_video_games#Zoids_Assault_(Xbox_360)",
-  "ESRB": "T - Teen",
-  "Genres": "Role-Playing; Strategy",
-  "Developer": "SE Mobile & Online",
-  "Publisher": "Atlus U.S.A.",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "36dcb487-138a-419d-8bad-9a27a18d8a14.png",
-        "Type": "Banner",
-        "CRC32": "537009342",
-        "URL": "http://images.launchbox-app.com/36dcb487-138a-419d-8bad-9a27a18d8a14.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1554377017",
         "FileName": "22699fdb-1d57-4ab2-8467-1bb507cc1ba6.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1554377017",
         "URL": "http://images.launchbox-app.com/22699fdb-1d57-4ab2-8467-1bb507cc1ba6.jpg"
       },
       {
+        "CRC32": "494314583",
         "FileName": "884b8f32-55bb-488e-b643-ff40f3d56f56.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "494314583",
         "URL": "http://images.launchbox-app.com/884b8f32-55bb-488e-b643-ff40f3d56f56.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "537009342",
+        "FileName": "36dcb487-138a-419d-8bad-9a27a18d8a14.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/36dcb487-138a-419d-8bad-9a27a18d8a14.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "5f8a5545-2300-45a7-bce0-10a69645a3a5.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1287280291",
+          "FileName": "5f8a5545-2300-45a7-bce0-10a69645a3a5.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/5f8a5545-2300-45a7-bce0-10a69645a3a5.png"
         }
       ],
       "Back": [
         {
-          "FileName": "e8c69ae3-cb53-43b2-a6ee-c5aa834ae868.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "3802056179",
+          "FileName": "e8c69ae3-cb53-43b2-a6ee-c5aa834ae868.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/e8c69ae3-cb53-43b2-a6ee-c5aa834ae868.jpg"
         },
         {
-          "FileName": "efe4e1cb-afd6-443e-898d-db24f70d066c.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3406099370",
+          "FileName": "efe4e1cb-afd6-443e-898d-db24f70d066c.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/efe4e1cb-afd6-443e-898d-db24f70d066c.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "cb261760-e8d5-4ce2-9e6e-2ff9b5c45b51.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "2555194492",
+          "FileName": "cb261760-e8d5-4ce2-9e6e-2ff9b5c45b51.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/cb261760-e8d5-4ce2-9e6e-2ff9b5c45b51.jpg"
         },
         {
-          "FileName": "b1f0975d-0320-467d-8123-f7aae484d892.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3039878935",
+          "FileName": "b1f0975d-0320-467d-8123-f7aae484d892.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b1f0975d-0320-467d-8123-f7aae484d892.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "677cb80f-adc5-483d-b413-c2ad6030897a.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2180728293",
+          "FileName": "677cb80f-adc5-483d-b413-c2ad6030897a.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/677cb80f-adc5-483d-b413-c2ad6030897a.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "baea0642-7af2-4b9e-8d2f-b34852712ea5.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3900154589",
+        "FileName": "baea0642-7af2-4b9e-8d2f-b34852712ea5.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/baea0642-7af2-4b9e-8d2f-b34852712ea5.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "d31f7247-0ac7-4b9f-b71f-8186fc445199.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "987098799",
-        "URL": "http://images.launchbox-app.com/d31f7247-0ac7-4b9f-b71f-8186fc445199.png"
-      },
-      {
-        "FileName": "c14b2bbb-5940-4425-9c64-21029372b833.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4246775993",
-        "URL": "http://images.launchbox-app.com/c14b2bbb-5940-4425-9c64-21029372b833.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "2783794455",
         "FileName": "c341cb56-9757-4fc8-a2e5-96f823fea2fa.png",
         "Type": "Clear Logo",
-        "CRC32": "2783794455",
         "URL": "http://images.launchbox-app.com/c341cb56-9757-4fc8-a2e5-96f823fea2fa.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "987098799",
+        "FileName": "d31f7247-0ac7-4b9f-b71f-8186fc445199.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/d31f7247-0ac7-4b9f-b71f-8186fc445199.png"
+      },
+      {
+        "CRC32": "4246775993",
+        "FileName": "c14b2bbb-5940-4425-9c64-21029372b833.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c14b2bbb-5940-4425-9c64-21029372b833.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "14376",
+  "Developer": "SE Mobile & Online",
+  "ESRB": "T - Teen",
+  "Genres": "Role-Playing; Strategy",
+  "Name": "Zoids Assault",
+  "Overview": "Zoids Assault is the re-imagining of the Zoids universe based on the toy model franchise. It is a strategy game with RPG elements that features giant robots. The player takes charge of Maroll's 99th Zoid Platoon, Mace Squad, and leads a covert mission behind enemy lines into Jamil alongside Sgt. Jessica Lambert and the commando squad known as Katana. The zoids can be customized with parts claimed from defeated foes to build up a force that can get a stronger grip on the battlefield.\n\nSince story's setting places the player working behind enemy lines, he is constantly outgunned and outmanned at nearly every turn. The player controls a squad of five zoid pilots that have a different role in the squad. They need to be managed in terms of special skills, weapon/armor loadout, and can be customized with different color schemes.\n\nBecause of the long odds facing the mission, mastering cover fire, coordinated fire, and the EMP systems will be the key to leading Mace Squad to victory, with the aim to bring the shadows of a 10-year-old conflict to the light of day.",
+  "Publisher": "Atlus U.S.A.",
+  "ReleaseDate": "2008-09-01T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=qDEKW98DuGw",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/List_of_Zoids_video_games#Zoids_Assault_(Xbox_360)"
 }

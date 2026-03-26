@@ -1,32 +1,32 @@
 {
-  "Name": "Endless Midnight: Zombie Swarm",
-  "DatabaseID": "155172",
-  "ReleaseDate": "2011-05-04T00:00:00+00:00",
-  "Overview": "Blast your way through a horde of zombies with a top-notch arsenal! Compete for high scores and gain a variety of medals through challenging game modes.",
-  "VideoURL": "https://www.youtube.com/watch?v=a0WoSUisMYQ",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "tgfcoder",
-  "Publisher": "tgfcoder",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "618311405",
         "FileName": "b4b19e33-8607-4b4e-b3f8-2713bd17fd64.png",
         "Type": "Fanart - Background",
-        "CRC32": "618311405",
         "URL": "http://images.launchbox-app.com/b4b19e33-8607-4b4e-b3f8-2713bd17fd64.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "5b49e5ea-ec30-496d-838e-d2911f21ebb5.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1634901803",
+          "FileName": "5b49e5ea-ec30-496d-838e-d2911f21ebb5.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5b49e5ea-ec30-496d-838e-d2911f21ebb5.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "155172",
+  "Developer": "tgfcoder",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "Endless Midnight: Zombie Swarm",
+  "Overview": "Blast your way through a horde of zombies with a top-notch arsenal! Compete for high scores and gain a variety of medals through challenging game modes.",
+  "Publisher": "tgfcoder",
+  "ReleaseDate": "2011-05-04T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=a0WoSUisMYQ"
 }

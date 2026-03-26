@@ -1,66 +1,66 @@
 {
-  "Name": "Greed Corp",
-  "DatabaseID": "163671",
-  "ReleaseDate": "2010-02-24T00:00:00+00:00",
-  "Overview": "Greed Corp is a turn-based game involving strategic battles on a map featuring a land collapsing mechanic. Players choose one of four factions (Freemen, Pirates, Cartel, Empire) in matches of around 20 minutes. The game also features a single player campaign for each faction.\n\nPlayers gain credits at the start of their turn and through harvesting layers of land. Built harvesters will slowly destroy the tile they are on and in the area around them. When players harvest too much, the playing field starts to crumble, making depleted tiles collapse. Tactics involve understanding the offensive value of a harvester as well, using it as a weapon and strategically causing destruction to both opponent and playing field.\n\nCredits may be spent on:\n\nHarvesters, in order to gain more credits and destroy nearby land\nArmories, in which to build troops\nTroops, in order to claim land, and attack other troops\nCannons and ammo, in order to shoot nearby enemies\nTransporters, in order to send troops to attack from a distance",
-  "CommunityRating": "3.7",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Greed_Corp",
-  "Genres": "Strategy",
-  "Developer": "W!Games",
-  "Publisher": "Valcon Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7b4bfd28-6471-4b5a-a215-faa027bc83f1.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1322209725",
-        "URL": "http://images.launchbox-app.com/r2_7b4bfd28-6471-4b5a-a215-faa027bc83f1.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_8e866b6b-c3ad-4958-b0d1-7f928d6f3de8.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1474530564",
+        "FileName": "r2_8e866b6b-c3ad-4958-b0d1-7f928d6f3de8.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8e866b6b-c3ad-4958-b0d1-7f928d6f3de8.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1322209725",
+        "FileName": "r2_7b4bfd28-6471-4b5a-a215-faa027bc83f1.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7b4bfd28-6471-4b5a-a215-faa027bc83f1.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "4036151005",
           "FileName": "cab0c5d2-42d8-431c-a581-bed8baf6c80e.png",
           "Type": "Box - 3D",
-          "CRC32": "4036151005",
           "URL": "http://images.launchbox-app.com/cab0c5d2-42d8-431c-a581-bed8baf6c80e.png"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_2fa23438-5e59-44fd-b99a-424a0026dfed.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2353363621",
+          "FileName": "r2_2fa23438-5e59-44fd-b99a-424a0026dfed.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_2fa23438-5e59-44fd-b99a-424a0026dfed.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_05142d0d-6409-42a1-8057-f58475c2016d.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2884941462",
+        "FileName": "r2_05142d0d-6409-42a1-8057-f58475c2016d.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_05142d0d-6409-42a1-8057-f58475c2016d.png"
       },
       {
-        "FileName": "r2_e1641fdf-9694-4f56-a50e-2ac0c97e3a43.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3080193901",
+        "FileName": "r2_e1641fdf-9694-4f56-a50e-2ac0c97e3a43.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_e1641fdf-9694-4f56-a50e-2ac0c97e3a43.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.7",
+  "DatabaseID": "163671",
+  "Developer": "W!Games",
+  "Genres": "Strategy",
+  "Name": "Greed Corp",
+  "Overview": "Greed Corp is a turn-based game involving strategic battles on a map featuring a land collapsing mechanic. Players choose one of four factions (Freemen, Pirates, Cartel, Empire) in matches of around 20 minutes. The game also features a single player campaign for each faction.\n\nPlayers gain credits at the start of their turn and through harvesting layers of land. Built harvesters will slowly destroy the tile they are on and in the area around them. When players harvest too much, the playing field starts to crumble, making depleted tiles collapse. Tactics involve understanding the offensive value of a harvester as well, using it as a weapon and strategically causing destruction to both opponent and playing field.\n\nCredits may be spent on:\n\nHarvesters, in order to gain more credits and destroy nearby land\nArmories, in which to build troops\nTroops, in order to claim land, and attack other troops\nCannons and ammo, in order to shoot nearby enemies\nTransporters, in order to send troops to attack from a distance",
+  "Publisher": "Valcon Games",
+  "ReleaseDate": "2010-02-24T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Greed_Corp"
 }

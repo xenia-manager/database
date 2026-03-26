@@ -1,46 +1,46 @@
 {
-  "Name": "Galactic Conquest",
-  "DatabaseID": "469677",
-  "ReleaseDate": "2013-01-17T00:00:00+00:00",
-  "Overview": "Galactic Conquest is a old school RTS where you retake the galaxy from the evil Arachnid Empire.\n\nSpecialize your planets and fight back with five different types of ships in fleet-style space combat. Or fight your friends in two-player online multiplayer space battles.",
-  "VideoURL": "https://youtu.be/lbaSfOtc94A",
-  "Genres": "Strategy",
-  "Developer": "Ralem Productions",
-  "Publisher": "Ralem Productions",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "194d56e4-7784-4339-8d8d-79ee9c5e3029.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3819489025",
+          "FileName": "194d56e4-7784-4339-8d8d-79ee9c5e3029.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/194d56e4-7784-4339-8d8d-79ee9c5e3029.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "f7292359-fe13-4315-8ce4-2228b92714c9.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "2505596894",
-        "URL": "http://images.launchbox-app.com/f7292359-fe13-4315-8ce4-2228b92714c9.jpg"
-      },
-      {
-        "FileName": "59a1bc58-6cac-43db-9d1a-a7bc8efb2cfc.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3058643797",
+        "FileName": "59a1bc58-6cac-43db-9d1a-a7bc8efb2cfc.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/59a1bc58-6cac-43db-9d1a-a7bc8efb2cfc.jpg"
       },
       {
-        "FileName": "9f62f8f8-3b34-491c-8890-52d7412ec84a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1356820680",
+        "FileName": "9f62f8f8-3b34-491c-8890-52d7412ec84a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/9f62f8f8-3b34-491c-8890-52d7412ec84a.jpg"
+      },
+      {
+        "CRC32": "2505596894",
+        "FileName": "f7292359-fe13-4315-8ce4-2228b92714c9.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f7292359-fe13-4315-8ce4-2228b92714c9.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469677",
+  "Developer": "Ralem Productions",
+  "Genres": "Strategy",
+  "Name": "Galactic Conquest",
+  "Overview": "Galactic Conquest is a old school RTS where you retake the galaxy from the evil Arachnid Empire.\n\nSpecialize your planets and fight back with five different types of ships in fleet-style space combat. Or fight your friends in two-player online multiplayer space battles.",
+  "Publisher": "Ralem Productions",
+  "ReleaseDate": "2013-01-17T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/lbaSfOtc94A"
 }

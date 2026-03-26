@@ -1,139 +1,139 @@
 {
-  "Name": "Ghostbusters: The Video Game",
-  "DatabaseID": "7482",
-  "ReleaseDate": "2009-06-16T00:00:00+00:00",
-  "Overview": "Ghostbusters: The Video Game follows the player's character as a new recruit in the Ghostbusters, a team of parapsychologists who pursue and capture ghosts. The player is equipped with a \"Proton Pack\" and a ghost trap to fight and capture ghosts. The game's plot is set two years after Ghostbusters II, around Thanksgiving in 1991, with the Ghostbusters team training the player's character while investigating paranormal activities in New York.",
-  "VideoURL": "https://www.youtube.com/watch?v=udgwgcKorN8",
-  "CommunityRating": "4.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Ghostbusters:_The_Video_Game",
-  "ESRB": "T - Teen",
-  "Genres": "Action",
-  "Developer": "Terminal Reality",
-  "Publisher": "Atari",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_2d6b8319-464d-48cd-9b23-6b810aea94a2.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1733645416",
-        "URL": "http://images.launchbox-app.com/r2_2d6b8319-464d-48cd-9b23-6b810aea94a2.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1376689416",
         "FileName": "db23d497-9183-4ab9-a182-48a3f96f3287.png",
         "Type": "Fanart - Background",
-        "CRC32": "1376689416",
         "URL": "http://images.launchbox-app.com/db23d497-9183-4ab9-a182-48a3f96f3287.png"
       },
       {
-        "FileName": "r2_f9547b0b-1fe5-4144-82e0-e46860f465ea.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "588204582",
+        "FileName": "r2_645c1209-ce72-4b2c-9919-b7f88c6b9c82.jpg",
         "Region": "World",
-        "CRC32": "3975073280",
-        "URL": "http://images.launchbox-app.com/r2_f9547b0b-1fe5-4144-82e0-e46860f465ea.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_645c1209-ce72-4b2c-9919-b7f88c6b9c82.jpg"
       },
       {
-        "FileName": "r2_645c1209-ce72-4b2c-9919-b7f88c6b9c82.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3975073280",
+        "FileName": "r2_f9547b0b-1fe5-4144-82e0-e46860f465ea.jpg",
         "Region": "World",
-        "CRC32": "588204582",
-        "URL": "http://images.launchbox-app.com/r2_645c1209-ce72-4b2c-9919-b7f88c6b9c82.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_f9547b0b-1fe5-4144-82e0-e46860f465ea.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1733645416",
+        "FileName": "r2_2d6b8319-464d-48cd-9b23-6b810aea94a2.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_2d6b8319-464d-48cd-9b23-6b810aea94a2.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "f26b4cb6-2391-4a15-a290-06cb77cb7080.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1399841843",
+          "FileName": "f26b4cb6-2391-4a15-a290-06cb77cb7080.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/f26b4cb6-2391-4a15-a290-06cb77cb7080.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_6283276d-d43f-490f-b439-88eea73d84f5.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2429313443",
+          "FileName": "r2_6283276d-d43f-490f-b439-88eea73d84f5.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_6283276d-d43f-490f-b439-88eea73d84f5.jpg"
         },
         {
-          "FileName": "71630255-52de-4416-8d00-d89398ce1d9b.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2486114251",
+          "FileName": "71630255-52de-4416-8d00-d89398ce1d9b.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/71630255-52de-4416-8d00-d89398ce1d9b.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_59883d46-d241-4d77-bcd6-07d61d63beaa.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3636509220",
+          "FileName": "r2_59883d46-d241-4d77-bcd6-07d61d63beaa.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_59883d46-d241-4d77-bcd6-07d61d63beaa.jpg"
         },
         {
-          "FileName": "4d013ceb-d4ed-436c-967b-30a35e0b8cf7.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1713011473",
+          "FileName": "4d013ceb-d4ed-436c-967b-30a35e0b8cf7.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4d013ceb-d4ed-436c-967b-30a35e0b8cf7.jpg"
         },
         {
-          "FileName": "r2_dac30164-0fa0-4e54-8d30-4d1e7ec72244.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "645046009",
+          "FileName": "r2_dac30164-0fa0-4e54-8d30-4d1e7ec72244.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_dac30164-0fa0-4e54-8d30-4d1e7ec72244.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "ed17650f-1e49-47d6-ae00-809a6c35575b.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1715810793",
+          "FileName": "ed17650f-1e49-47d6-ae00-809a6c35575b.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/ed17650f-1e49-47d6-ae00-809a6c35575b.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "32262858-1072-43b1-9258-70e10942e9e5.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "717403457",
-        "URL": "http://images.launchbox-app.com/32262858-1072-43b1-9258-70e10942e9e5.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "dc594c90-72af-4060-8842-7426482d0274.jpg",
-        "Type": "Screenshot - Gameplay",
+        "FileName": "32262858-1072-43b1-9258-70e10942e9e5.png",
         "Region": "North America",
-        "CRC32": "2271090529",
-        "URL": "http://images.launchbox-app.com/dc594c90-72af-4060-8842-7426482d0274.jpg"
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/32262858-1072-43b1-9258-70e10942e9e5.png"
       }
     ],
     "Other": [
       {
-        "FileName": "68918cde-5faa-436d-bb0c-505cbc0d99d9.png",
-        "Type": "Clear Logo",
-        "Region": "Spain",
         "CRC32": "3482603989",
+        "FileName": "68918cde-5faa-436d-bb0c-505cbc0d99d9.png",
+        "Region": "Spain",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/68918cde-5faa-436d-bb0c-505cbc0d99d9.png"
       },
       {
-        "FileName": "853333ea-0a6b-4099-a510-e87c2f3886d0.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1531955011",
+        "FileName": "853333ea-0a6b-4099-a510-e87c2f3886d0.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/853333ea-0a6b-4099-a510-e87c2f3886d0.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2271090529",
+        "FileName": "dc594c90-72af-4060-8842-7426482d0274.jpg",
+        "Region": "North America",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/dc594c90-72af-4060-8842-7426482d0274.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "7482",
+  "Developer": "Terminal Reality",
+  "ESRB": "T - Teen",
+  "Genres": "Action",
+  "Name": "Ghostbusters: The Video Game",
+  "Overview": "Ghostbusters: The Video Game follows the player's character as a new recruit in the Ghostbusters, a team of parapsychologists who pursue and capture ghosts. The player is equipped with a \"Proton Pack\" and a ghost trap to fight and capture ghosts. The game's plot is set two years after Ghostbusters II, around Thanksgiving in 1991, with the Ghostbusters team training the player's character while investigating paranormal activities in New York.",
+  "Publisher": "Atari",
+  "ReleaseDate": "2009-06-16T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=udgwgcKorN8",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Ghostbusters:_The_Video_Game"
 }

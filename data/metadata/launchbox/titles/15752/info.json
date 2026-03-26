@@ -1,44 +1,44 @@
 {
-  "Name": "Le Tour de France",
-  "DatabaseID": "15752",
-  "ReleaseDate": "2011-07-01T00:00:00+00:00",
-  "Overview": "Le Tour de France is a cycling game which, unsurprisingly, covers the most prominent professional cycling tour; the Tour de France. In contrast to the Pro Cycling Manager series from the same developer, the player does not take control over a whole team but only a single athlete. \n\nIt is still more a game of tactics, though. The rider, who takes one of the typical cycling roles, does automatically move forward and the player only gently steers into the general direction and controls speed changes (breaking and attacking). However, energy management is of the most importance - trying to get a fast lead is useless when the rider is exhausted after half of the stage. There is also the option to communicate with other athletes from the same team in order to coordinate tactical maneuvers. The player does not have to personally play all of the tour; a few sections per stage can be simulated by the AI based on parameters set by the player beforehand.",
-  "CommunityRating": "3",
-  "Genres": "Racing; Sports",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "f03a7cef-2609-4af3-bb81-0ab58c716bdd.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2911104233",
+          "FileName": "f03a7cef-2609-4af3-bb81-0ab58c716bdd.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f03a7cef-2609-4af3-bb81-0ab58c716bdd.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "2a6a35bb-2f50-4754-bb66-2f2b22279002.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "250141677",
+        "FileName": "2a6a35bb-2f50-4754-bb66-2f2b22279002.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/2a6a35bb-2f50-4754-bb66-2f2b22279002.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3903440549",
         "FileName": "2c3400d5-cea3-4b68-b939-12afe18b880a.png",
         "Type": "Clear Logo",
-        "CRC32": "3903440549",
         "URL": "http://images.launchbox-app.com/2c3400d5-cea3-4b68-b939-12afe18b880a.png"
       },
       {
+        "CRC32": "2364095838",
         "FileName": "3ffbd02b-b3d3-418d-915c-d4bde914c677.png",
         "Type": "Clear Logo",
-        "CRC32": "2364095838",
         "URL": "http://images.launchbox-app.com/3ffbd02b-b3d3-418d-915c-d4bde914c677.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "15752",
+  "Genres": "Racing; Sports",
+  "Name": "Le Tour de France",
+  "Overview": "Le Tour de France is a cycling game which, unsurprisingly, covers the most prominent professional cycling tour; the Tour de France. In contrast to the Pro Cycling Manager series from the same developer, the player does not take control over a whole team but only a single athlete. \n\nIt is still more a game of tactics, though. The rider, who takes one of the typical cycling roles, does automatically move forward and the player only gently steers into the general direction and controls speed changes (breaking and attacking). However, energy management is of the most importance - trying to get a fast lead is useless when the rider is exhausted after half of the stage. There is also the option to communicate with other athletes from the same team in order to coordinate tactical maneuvers. The player does not have to personally play all of the tour; a few sections per stage can be simulated by the AI based on parameters set by the player beforehand.",
+  "ReleaseDate": "2011-07-01T00:00:00+00:00"
 }

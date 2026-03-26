@@ -1,48 +1,48 @@
 {
-  "Name": "SBK Superbike World Championship",
-  "DatabaseID": "16430",
-  "ReleaseDate": "2008-11-08T00:00:00+00:00",
-  "Overview": "SBK-X: Superbike World Championship is a motorcycle racing game developed by Milestone s.r.l. and published by Black Bean Games in 2010. The game features three modes of gameplay: the arcade mode, the simulation mode and the multiplayer mode. Also for the first time in the series the game features the Superstock and Supersport championships. There are also the new career mode, composed of eight years, starting at the STK.",
-  "VideoURL": "https://www.youtube.com/watch?app=desktop&v=NEDlkW8mxZ8",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/SBK-08:_Superbike_World_Championship",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Racing; Sports",
-  "Developer": "Black Bean Games",
-  "Publisher": "Milestone",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "2047244927",
           "FileName": "bae69cd3-c4e6-493e-bdde-3ea3c0846355.png",
           "Type": "Box - 3D",
-          "CRC32": "2047244927",
           "URL": "http://images.launchbox-app.com/bae69cd3-c4e6-493e-bdde-3ea3c0846355.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "4209242920",
           "FileName": "54561588-f349-4cf7-a716-e541cf0b95e7.jpg",
           "Type": "Box - Front",
-          "CRC32": "4209242920",
           "URL": "http://images.launchbox-app.com/54561588-f349-4cf7-a716-e541cf0b95e7.jpg"
         },
         {
-          "FileName": "r2_75c76034-347b-4d66-b9e0-54d57b777549.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2729161749",
+          "FileName": "r2_75c76034-347b-4d66-b9e0-54d57b777549.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_75c76034-347b-4d66-b9e0-54d57b777549.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_7defd9a9-a493-4dff-8c81-5e5c50e48c04.png",
-        "Type": "Disc",
-        "Region": "Australia",
         "CRC32": "3744464831",
+        "FileName": "r2_7defd9a9-a493-4dff-8c81-5e5c50e48c04.png",
+        "Region": "Australia",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_7defd9a9-a493-4dff-8c81-5e5c50e48c04.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "16430",
+  "Developer": "Black Bean Games",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Racing; Sports",
+  "Name": "SBK Superbike World Championship",
+  "Overview": "SBK-X: Superbike World Championship is a motorcycle racing game developed by Milestone s.r.l. and published by Black Bean Games in 2010. The game features three modes of gameplay: the arcade mode, the simulation mode and the multiplayer mode. Also for the first time in the series the game features the Superstock and Supersport championships. There are also the new career mode, composed of eight years, starting at the STK.",
+  "Publisher": "Milestone",
+  "ReleaseDate": "2008-11-08T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?app=desktop&v=NEDlkW8mxZ8",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/SBK-08:_Superbike_World_Championship"
 }

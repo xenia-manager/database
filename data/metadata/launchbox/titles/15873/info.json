@@ -1,181 +1,181 @@
 {
-  "Name": "Mega Man 10",
-  "DatabaseID": "15873",
-  "ReleaseDate": "2010-03-31T00:00:00+00:00",
-  "Overview": "20XX. A virus called Roboenza starts infecting robots, rendering them useless. Humankind would be helpless enough without the aid of their robot assistants - but the worst is yet to come! The second phase of the illness causes the infected robots to turn against their masters and try to take over the world! Dr. Wily claims to have built a medicine making machine to cure the epidemic, but it has been stolen by the berserk robots. Mega Man must fight eight violent robots to retrieve the machine and save the world.\n\nMega Man 10 retains the 8-bitish graphical style and gameplay of its predecessor Mega Man 9 and the old NES titles. The player must again jump, run and shoot his way through 8 stages filled with robotic enemies, destroy the Robot Master at the end of the stage and take his weapon to be used against further enemies.\n\nMega Man still can't slide or charge his weapon as he could in Mega Man 3 and 4, respectively, but you can also play as Proto Man who has both of these abilities and his trademark shield to block projectiles - however, Proto Man takes twice as much damage from enemy attacks. Bass will also be a playable character via downloadable content, and will be able to aim his gun at 45-degree angles.\n\nLike Mega Man 9, this game also features a Time Attack mode and Challenges, where the player must race against the clock or beat the game under certain conditions, such as never dying or beating all the bosses using only the standard Mega Buster weapon. The game also has separate Challenge Rooms, where the player must clear a room under different conditions given at the beginning of the Challenge.",
-  "CommunityRating": "3.35714285714286",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Mega_Man_10",
-  "ESRB": "E - Everyone",
-  "Genres": "Platform; Shooter",
-  "Developer": "Inti Creates",
-  "Publisher": "Capcom",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "e7ac4380-57b5-47e0-88a3-492a8e1f45d2.png",
-        "Type": "Banner",
-        "CRC32": "1861691511",
-        "URL": "http://images.launchbox-app.com/e7ac4380-57b5-47e0-88a3-492a8e1f45d2.png"
-      },
-      {
-        "FileName": "530c8979-8100-4034-a3c6-2af43d2ef2ea.png",
-        "Type": "Banner",
-        "CRC32": "946831412",
-        "URL": "http://images.launchbox-app.com/530c8979-8100-4034-a3c6-2af43d2ef2ea.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "b50b0fef-ebfb-4678-8413-577037392562.png",
-        "Type": "Fanart - Background",
-        "CRC32": "2225402911",
-        "URL": "http://images.launchbox-app.com/b50b0fef-ebfb-4678-8413-577037392562.png"
-      },
-      {
-        "FileName": "d9f0efc2-b348-4b38-a380-b248ff667453.png",
-        "Type": "Fanart - Background",
-        "CRC32": "433285869",
-        "URL": "http://images.launchbox-app.com/d9f0efc2-b348-4b38-a380-b248ff667453.png"
-      },
-      {
+        "CRC32": "1582543083",
         "FileName": "5ee6b28f-6f05-4558-bf31-ec4482ca3f89.png",
         "Type": "Fanart - Background",
-        "CRC32": "1582543083",
         "URL": "http://images.launchbox-app.com/5ee6b28f-6f05-4558-bf31-ec4482ca3f89.png"
       },
       {
-        "FileName": "d827be07-05a0-425c-995a-7f7e15ab9509.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1315423576",
-        "URL": "http://images.launchbox-app.com/d827be07-05a0-425c-995a-7f7e15ab9509.jpg"
-      },
-      {
-        "FileName": "f41b5205-26f8-4aac-876b-7e71a1d8b15a.png",
-        "Type": "Fanart - Background",
-        "CRC32": "1811266805",
-        "URL": "http://images.launchbox-app.com/f41b5205-26f8-4aac-876b-7e71a1d8b15a.png"
-      },
-      {
+        "CRC32": "3221878122",
         "FileName": "756add9c-b166-4e2c-b0ac-963e4f56e1aa.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3221878122",
         "URL": "http://images.launchbox-app.com/756add9c-b166-4e2c-b0ac-963e4f56e1aa.jpg"
       },
       {
+        "CRC32": "3516826257",
         "FileName": "809d3614-29e3-47c3-87ab-22ec8a47e9d3.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3516826257",
         "URL": "http://images.launchbox-app.com/809d3614-29e3-47c3-87ab-22ec8a47e9d3.jpg"
+      },
+      {
+        "CRC32": "2225402911",
+        "FileName": "b50b0fef-ebfb-4678-8413-577037392562.png",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/b50b0fef-ebfb-4678-8413-577037392562.png"
+      },
+      {
+        "CRC32": "1315423576",
+        "FileName": "d827be07-05a0-425c-995a-7f7e15ab9509.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/d827be07-05a0-425c-995a-7f7e15ab9509.jpg"
+      },
+      {
+        "CRC32": "433285869",
+        "FileName": "d9f0efc2-b348-4b38-a380-b248ff667453.png",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/d9f0efc2-b348-4b38-a380-b248ff667453.png"
+      },
+      {
+        "CRC32": "1811266805",
+        "FileName": "f41b5205-26f8-4aac-876b-7e71a1d8b15a.png",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/f41b5205-26f8-4aac-876b-7e71a1d8b15a.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "946831412",
+        "FileName": "530c8979-8100-4034-a3c6-2af43d2ef2ea.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/530c8979-8100-4034-a3c6-2af43d2ef2ea.png"
+      },
+      {
+        "CRC32": "1861691511",
+        "FileName": "e7ac4380-57b5-47e0-88a3-492a8e1f45d2.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/e7ac4380-57b5-47e0-88a3-492a8e1f45d2.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "779a6e02-0379-4867-b2d9-6838f98ad4ed.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3080987602",
+          "FileName": "779a6e02-0379-4867-b2d9-6838f98ad4ed.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/779a6e02-0379-4867-b2d9-6838f98ad4ed.jpg"
         },
         {
-          "FileName": "f06638c0-c130-41b5-b830-c7ec14ae7834.jpg",
+          "CRC32": "3312510727",
+          "FileName": "20d594d3-775b-4c80-9611-f625e401850b.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "1979632513",
-          "URL": "http://images.launchbox-app.com/f06638c0-c130-41b5-b830-c7ec14ae7834.jpg"
+          "URL": "http://images.launchbox-app.com/20d594d3-775b-4c80-9611-f625e401850b.jpg"
         },
         {
-          "FileName": "f36163ec-a6b5-4ed7-a37b-9f5994bd2338.jpg",
-          "Type": "Fanart - Box - Front",
-          "CRC32": "1665669611",
-          "URL": "http://images.launchbox-app.com/f36163ec-a6b5-4ed7-a37b-9f5994bd2338.jpg"
-        },
-        {
+          "CRC32": "3571196802",
           "FileName": "cba73cdd-5c1e-4635-97dd-0bb44c858a14.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "3571196802",
           "URL": "http://images.launchbox-app.com/cba73cdd-5c1e-4635-97dd-0bb44c858a14.jpg"
         },
         {
+          "CRC32": "1937498685",
           "FileName": "d17f8014-5752-4843-a96f-5668a7946123.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "1937498685",
           "URL": "http://images.launchbox-app.com/d17f8014-5752-4843-a96f-5668a7946123.jpg"
         },
         {
-          "FileName": "20d594d3-775b-4c80-9611-f625e401850b.jpg",
+          "CRC32": "1979632513",
+          "FileName": "f06638c0-c130-41b5-b830-c7ec14ae7834.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "3312510727",
-          "URL": "http://images.launchbox-app.com/20d594d3-775b-4c80-9611-f625e401850b.jpg"
+          "URL": "http://images.launchbox-app.com/f06638c0-c130-41b5-b830-c7ec14ae7834.jpg"
+        },
+        {
+          "CRC32": "1665669611",
+          "FileName": "f36163ec-a6b5-4ed7-a37b-9f5994bd2338.jpg",
+          "Type": "Fanart - Box - Front",
+          "URL": "http://images.launchbox-app.com/f36163ec-a6b5-4ed7-a37b-9f5994bd2338.jpg"
         }
       ]
     },
     "Disc": [
       {
+        "CRC32": "1065807573",
+        "FileName": "1f359aad-245d-43f8-a2e1-f9c4ac64e358.png",
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/1f359aad-245d-43f8-a2e1-f9c4ac64e358.png"
+      },
+      {
+        "CRC32": "1507090993",
         "FileName": "21208aa5-916e-4fc4-abce-148e2b7e46b9.png",
         "Type": "Fanart - Disc",
-        "CRC32": "1507090993",
         "URL": "http://images.launchbox-app.com/21208aa5-916e-4fc4-abce-148e2b7e46b9.png"
       },
       {
-        "FileName": "89b09a1f-bd59-4acd-b2e3-16016cda19f3.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "2879248052",
-        "URL": "http://images.launchbox-app.com/89b09a1f-bd59-4acd-b2e3-16016cda19f3.png"
-      },
-      {
-        "FileName": "bf74b5c4-281f-473c-9988-9f255d5dded3.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "3677525741",
-        "URL": "http://images.launchbox-app.com/bf74b5c4-281f-473c-9988-9f255d5dded3.png"
-      },
-      {
+        "CRC32": "1973509829",
         "FileName": "5edcff5d-095e-442a-8955-4ea020b91673.png",
         "Type": "Fanart - Disc",
-        "CRC32": "1973509829",
         "URL": "http://images.launchbox-app.com/5edcff5d-095e-442a-8955-4ea020b91673.png"
       },
       {
+        "CRC32": "1398566582",
         "FileName": "77c7f28a-136f-4489-8fe6-d91d794ab583.png",
         "Type": "Fanart - Disc",
-        "CRC32": "1398566582",
         "URL": "http://images.launchbox-app.com/77c7f28a-136f-4489-8fe6-d91d794ab583.png"
       },
       {
-        "FileName": "1f359aad-245d-43f8-a2e1-f9c4ac64e358.png",
+        "CRC32": "2879248052",
+        "FileName": "89b09a1f-bd59-4acd-b2e3-16016cda19f3.png",
         "Type": "Fanart - Disc",
-        "CRC32": "1065807573",
-        "URL": "http://images.launchbox-app.com/1f359aad-245d-43f8-a2e1-f9c4ac64e358.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "ad80ec3c-05ff-41f0-80a0-0f71b5ba667f.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1036927332",
-        "URL": "http://images.launchbox-app.com/ad80ec3c-05ff-41f0-80a0-0f71b5ba667f.png"
+        "URL": "http://images.launchbox-app.com/89b09a1f-bd59-4acd-b2e3-16016cda19f3.png"
       },
       {
-        "FileName": "d31d56ca-05e1-4043-9cdc-5a9a85525bcc.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "87881845",
-        "URL": "http://images.launchbox-app.com/d31d56ca-05e1-4043-9cdc-5a9a85525bcc.jpg"
+        "CRC32": "3677525741",
+        "FileName": "bf74b5c4-281f-473c-9988-9f255d5dded3.png",
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/bf74b5c4-281f-473c-9988-9f255d5dded3.png"
       }
     ],
     "Other": [
       {
-        "FileName": "f98d91ef-b768-4b98-9403-16f607f369cb.png",
-        "Type": "Clear Logo",
+        "CRC32": "3858727720",
+        "FileName": "702ae320-d0d1-4477-8a6c-953549f2eea8.png",
         "Region": "World",
-        "CRC32": "3662139283",
-        "URL": "http://images.launchbox-app.com/f98d91ef-b768-4b98-9403-16f607f369cb.png"
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/702ae320-d0d1-4477-8a6c-953549f2eea8.png"
       },
       {
-        "FileName": "702ae320-d0d1-4477-8a6c-953549f2eea8.png",
-        "Type": "Clear Logo",
+        "CRC32": "3662139283",
+        "FileName": "f98d91ef-b768-4b98-9403-16f607f369cb.png",
         "Region": "World",
-        "CRC32": "3858727720",
-        "URL": "http://images.launchbox-app.com/702ae320-d0d1-4477-8a6c-953549f2eea8.png"
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/f98d91ef-b768-4b98-9403-16f607f369cb.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1036927332",
+        "FileName": "ad80ec3c-05ff-41f0-80a0-0f71b5ba667f.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/ad80ec3c-05ff-41f0-80a0-0f71b5ba667f.png"
+      },
+      {
+        "CRC32": "87881845",
+        "FileName": "d31d56ca-05e1-4043-9cdc-5a9a85525bcc.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d31d56ca-05e1-4043-9cdc-5a9a85525bcc.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.35714285714286",
+  "DatabaseID": "15873",
+  "Developer": "Inti Creates",
+  "ESRB": "E - Everyone",
+  "Genres": "Platform; Shooter",
+  "Name": "Mega Man 10",
+  "Overview": "20XX. A virus called Roboenza starts infecting robots, rendering them useless. Humankind would be helpless enough without the aid of their robot assistants - but the worst is yet to come! The second phase of the illness causes the infected robots to turn against their masters and try to take over the world! Dr. Wily claims to have built a medicine making machine to cure the epidemic, but it has been stolen by the berserk robots. Mega Man must fight eight violent robots to retrieve the machine and save the world.\n\nMega Man 10 retains the 8-bitish graphical style and gameplay of its predecessor Mega Man 9 and the old NES titles. The player must again jump, run and shoot his way through 8 stages filled with robotic enemies, destroy the Robot Master at the end of the stage and take his weapon to be used against further enemies.\n\nMega Man still can't slide or charge his weapon as he could in Mega Man 3 and 4, respectively, but you can also play as Proto Man who has both of these abilities and his trademark shield to block projectiles - however, Proto Man takes twice as much damage from enemy attacks. Bass will also be a playable character via downloadable content, and will be able to aim his gun at 45-degree angles.\n\nLike Mega Man 9, this game also features a Time Attack mode and Challenges, where the player must race against the clock or beat the game under certain conditions, such as never dying or beating all the bosses using only the standard Mega Buster weapon. The game also has separate Challenge Rooms, where the player must clear a room under different conditions given at the beginning of the Challenge.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2010-03-31T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Mega_Man_10"
 }

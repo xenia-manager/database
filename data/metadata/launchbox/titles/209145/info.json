@@ -1,54 +1,54 @@
 {
-  "Name": "Bang Bang Racing",
-  "DatabaseID": "209145",
-  "ReleaseDate": "2012-06-06T00:00:00+00:00",
-  "Overview": "Put the pedal to the metal with Bang Bang Racing, a brand new top-down arcade car racer perfect for every speed demon in the family! Choose from 20 sleek cars in four different categories (muscle cars, Evo GT, Protech and open-wheel formula cars), eight different skins and nine exotic, reversible and variable tracks around the world. Cones and exploding barrels will challenge your driving skills on snow, water, sand and oil covered tracks. You can also take the race to 4-player split-screen multiplayer to show your friends or family who the daddy is!",
-  "CommunityRating": "3.75",
-  "ESRB": "E - Everyone",
-  "Genres": "Racing",
-  "Developer": "Digital Reality Software",
-  "Publisher": "Digital Reality Software",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "15bd4a2b-f7bf-4bd6-a89f-d91be802cf5b.png",
-        "Type": "Banner",
-        "CRC32": "3103491838",
-        "URL": "http://images.launchbox-app.com/15bd4a2b-f7bf-4bd6-a89f-d91be802cf5b.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "c4699ff0-ab82-494d-9447-bebc7355bcd8.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1361981387",
-        "URL": "http://images.launchbox-app.com/c4699ff0-ab82-494d-9447-bebc7355bcd8.jpg"
-      },
-      {
+        "CRC32": "4279573344",
         "FileName": "96334818-6f4e-4bba-a84c-c65ec8ec9d33.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4279573344",
         "URL": "http://images.launchbox-app.com/96334818-6f4e-4bba-a84c-c65ec8ec9d33.jpg"
+      },
+      {
+        "CRC32": "1361981387",
+        "FileName": "c4699ff0-ab82-494d-9447-bebc7355bcd8.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/c4699ff0-ab82-494d-9447-bebc7355bcd8.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3103491838",
+        "FileName": "15bd4a2b-f7bf-4bd6-a89f-d91be802cf5b.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/15bd4a2b-f7bf-4bd6-a89f-d91be802cf5b.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "e4898610-928b-41a9-8073-41b1358d2532.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "1272126041",
+          "FileName": "e4898610-928b-41a9-8073-41b1358d2532.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e4898610-928b-41a9-8073-41b1358d2532.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "2767188947",
         "FileName": "8b982e22-d2cd-4a71-84f4-d626b9412a58.png",
         "Type": "Clear Logo",
-        "CRC32": "2767188947",
         "URL": "http://images.launchbox-app.com/8b982e22-d2cd-4a71-84f4-d626b9412a58.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.75",
+  "DatabaseID": "209145",
+  "Developer": "Digital Reality Software",
+  "ESRB": "E - Everyone",
+  "Genres": "Racing",
+  "Name": "Bang Bang Racing",
+  "Overview": "Put the pedal to the metal with Bang Bang Racing, a brand new top-down arcade car racer perfect for every speed demon in the family! Choose from 20 sleek cars in four different categories (muscle cars, Evo GT, Protech and open-wheel formula cars), eight different skins and nine exotic, reversible and variable tracks around the world. Cones and exploding barrels will challenge your driving skills on snow, water, sand and oil covered tracks. You can also take the race to 4-player split-screen multiplayer to show your friends or family who the daddy is!",
+  "Publisher": "Digital Reality Software",
+  "ReleaseDate": "2012-06-06T00:00:00+00:00"
 }

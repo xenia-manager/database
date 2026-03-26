@@ -1,60 +1,60 @@
 {
-  "Name": "Cyber Troopers Virtual On",
-  "DatabaseID": "158410",
-  "ReleaseDate": "2013-02-13T00:00:00+00:00",
-  "Overview": "Virtual On: Cyber Troopers (電脳戦機バーチャロン Dennō Senki Bācharon) is a 1996 video game developed and published by Sega. A 3D fighting game featuring robots, it was released in arcades and for Sega Saturn and PC, all in both America and Japan. There were also two-player online versions of the game released in America and Japan for the Sega Saturn using the NetLink and XBAND services. Initially the game was to be released under the title \"Virtual On\" in Japan and \"Cyber Troopers\" in North America, but ultimately these two names were combined into a single title for both regions.\n\nA remake was released for the PlayStation 2 on October 25, 2007, as part of the Sega Ages 2500 line, featuring improved framerates, music and additional features not found in the original versions. The original game was also rereleased on Xbox Live Arcade and PlayStation Network as a part of the Sega Model 2 Collection. In 2018 Sega announced that they would be releasing the game for the PlayStation 4.\n\nA twin stick controller was developed and released for the Saturn specifically to be used with Virtual On.",
-  "CommunityRating": "3.33333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Virtual_On:_Cyber_Troopers",
-  "Genres": "Fighting; Shooter",
-  "Developer": "Sega AM3",
-  "Publisher": "Sega",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_4b684f1b-4d44-48de-887e-602c1de23cae.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2574915516",
-        "URL": "http://images.launchbox-app.com/r2_4b684f1b-4d44-48de-887e-602c1de23cae.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_baec573b-510f-47c1-87d6-3edc1b941388.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "688681672",
+        "FileName": "r2_baec573b-510f-47c1-87d6-3edc1b941388.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_baec573b-510f-47c1-87d6-3edc1b941388.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2574915516",
+        "FileName": "r2_4b684f1b-4d44-48de-887e-602c1de23cae.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_4b684f1b-4d44-48de-887e-602c1de23cae.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "a467aada-8873-48d2-9957-74f5754c413b.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "788361356",
+          "FileName": "a467aada-8873-48d2-9957-74f5754c413b.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a467aada-8873-48d2-9957-74f5754c413b.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "66feece5-f975-4f7f-84c6-056b4087ecf8.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "Japan",
-        "CRC32": "3885552541",
-        "URL": "http://images.launchbox-app.com/66feece5-f975-4f7f-84c6-056b4087ecf8.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "8095258b-accf-4ffe-86af-bca62e8440cc.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "3853668902",
+        "FileName": "8095258b-accf-4ffe-86af-bca62e8440cc.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/8095258b-accf-4ffe-86af-bca62e8440cc.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3885552541",
+        "FileName": "66feece5-f975-4f7f-84c6-056b4087ecf8.jpg",
+        "Region": "Japan",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/66feece5-f975-4f7f-84c6-056b4087ecf8.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.33333333333333",
+  "DatabaseID": "158410",
+  "Developer": "Sega AM3",
+  "Genres": "Fighting; Shooter",
+  "Name": "Cyber Troopers Virtual On",
+  "Overview": "Virtual On: Cyber Troopers (電脳戦機バーチャロン Dennō Senki Bācharon) is a 1996 video game developed and published by Sega. A 3D fighting game featuring robots, it was released in arcades and for Sega Saturn and PC, all in both America and Japan. There were also two-player online versions of the game released in America and Japan for the Sega Saturn using the NetLink and XBAND services. Initially the game was to be released under the title \"Virtual On\" in Japan and \"Cyber Troopers\" in North America, but ultimately these two names were combined into a single title for both regions.\n\nA remake was released for the PlayStation 2 on October 25, 2007, as part of the Sega Ages 2500 line, featuring improved framerates, music and additional features not found in the original versions. The original game was also rereleased on Xbox Live Arcade and PlayStation Network as a part of the Sega Model 2 Collection. In 2018 Sega announced that they would be releasing the game for the PlayStation 4.\n\nA twin stick controller was developed and released for the Saturn specifically to be used with Virtual On.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2013-02-13T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Virtual_On:_Cyber_Troopers"
 }

@@ -1,34 +1,34 @@
 {
-  "Name": "Penny Arcade's On the Rain-Slick Precipice of Darkness 3",
-  "DatabaseID": "106327",
-  "ReleaseDate": "2012-06-25T00:00:00+00:00",
-  "Overview": "The Startling Developments Detective Agency springs into action as On the Rain-Slick Precipice of Darkness 3 begins, set in motion by a call from a mysterious source. The ever escalating perils on the Rain-Slick Precipice of Darkness will season our tender heroes to their very core! Expect cunning evil doctors, a series of unexplainable thefts, a mysterious book of power, enigmatic supernatural forces, hoboids, roboids, time travelling dinosaurs, and more!",
-  "VideoURL": "https://www.youtube.com/watch?v=zwQN7Hoy7mA",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Penny_Arcade_Adventures%3A_On_the_Rain-Slick_Precipice_of_Darkness",
-  "ESRB": "Not Rated",
-  "Genres": "Role-Playing",
-  "Developer": "Zeboyd Games",
-  "Publisher": "Penny Arcade",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "559227178",
         "FileName": "ca6e7c60-c7fc-49be-a710-e17a392b5e49.png",
         "Type": "Fanart - Background",
-        "CRC32": "559227178",
         "URL": "http://images.launchbox-app.com/ca6e7c60-c7fc-49be-a710-e17a392b5e49.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "0dc75748-6dcd-4fd4-9b7a-e4f230956f0f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3216263218",
+          "FileName": "0dc75748-6dcd-4fd4-9b7a-e4f230956f0f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0dc75748-6dcd-4fd4-9b7a-e4f230956f0f.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "106327",
+  "Developer": "Zeboyd Games",
+  "ESRB": "Not Rated",
+  "Genres": "Role-Playing",
+  "Name": "Penny Arcade's On the Rain-Slick Precipice of Darkness 3",
+  "Overview": "The Startling Developments Detective Agency springs into action as On the Rain-Slick Precipice of Darkness 3 begins, set in motion by a call from a mysterious source. The ever escalating perils on the Rain-Slick Precipice of Darkness will season our tender heroes to their very core! Expect cunning evil doctors, a series of unexplainable thefts, a mysterious book of power, enigmatic supernatural forces, hoboids, roboids, time travelling dinosaurs, and more!",
+  "Publisher": "Penny Arcade",
+  "ReleaseDate": "2012-06-25T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=zwQN7Hoy7mA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Penny_Arcade_Adventures%3A_On_the_Rain-Slick_Precipice_of_Darkness"
 }

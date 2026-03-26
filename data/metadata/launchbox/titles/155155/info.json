@@ -1,32 +1,32 @@
 {
-  "Name": "radiangames Fireball",
-  "DatabaseID": "155155",
-  "ReleaseDate": "2010-11-11T00:00:00+00:00",
-  "Overview": "Dodge. Trigger. Destroy! Be the Fireball! Fireball is an arcade game all about dodging the massive hoard of evil icy enemies and leaving them in shards. Trigger devastating explosion chains and go for huge combos and scores as you compete against yourself, your friends, and the best in the world thanks to online scoreboards.",
-  "VideoURL": "https://www.youtube.com/watch?v=ZP8c3IMFVu4",
-  "ESRB": "Not Rated",
-  "Genres": "Action",
-  "Developer": "radiangames",
-  "Publisher": "radiangames",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "435915132",
         "FileName": "dff8715b-0b63-4a0a-a399-19642c0235d7.png",
         "Type": "Fanart - Background",
-        "CRC32": "435915132",
         "URL": "http://images.launchbox-app.com/dff8715b-0b63-4a0a-a399-19642c0235d7.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "614dde29-28f8-4eb5-b7d4-9d40e6ddbc13.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1119392174",
+          "FileName": "614dde29-28f8-4eb5-b7d4-9d40e6ddbc13.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/614dde29-28f8-4eb5-b7d4-9d40e6ddbc13.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "155155",
+  "Developer": "radiangames",
+  "ESRB": "Not Rated",
+  "Genres": "Action",
+  "Name": "radiangames Fireball",
+  "Overview": "Dodge. Trigger. Destroy! Be the Fireball! Fireball is an arcade game all about dodging the massive hoard of evil icy enemies and leaving them in shards. Trigger devastating explosion chains and go for huge combos and scores as you compete against yourself, your friends, and the best in the world thanks to online scoreboards.",
+  "Publisher": "radiangames",
+  "ReleaseDate": "2010-11-11T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=ZP8c3IMFVu4"
 }

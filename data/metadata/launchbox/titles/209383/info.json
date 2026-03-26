@@ -1,51 +1,51 @@
 {
-  "Name": "Fret Nice",
-  "DatabaseID": "209383",
-  "ReleaseDate": "2010-02-17T00:00:00+00:00",
-  "Overview": "FRET NICE™ is a 2D platformer that’ll rock your world. Control your character through funky-fresh stages to explore hidden areas, collect items, and clash note-for-note with outrageous, heavy metal bosses! Rock out by blasting enemies with riff combos and creating your own sounds with each “strum” of a chord!",
-  "CommunityRating": "2",
-  "ESRB": "E - Everyone",
-  "Genres": "Platform",
-  "Developer": "Pieces Interactive",
-  "Publisher": "Tecmo",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_dde79ce3-ecca-47b1-a0a0-2e2d44863fdb.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2517025900",
-        "URL": "http://images.launchbox-app.com/r2_dde79ce3-ecca-47b1-a0a0-2e2d44863fdb.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_fa2de173-d8e0-40d5-8aff-879ba548fa62.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "130893588",
+        "FileName": "r2_fa2de173-d8e0-40d5-8aff-879ba548fa62.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_fa2de173-d8e0-40d5-8aff-879ba548fa62.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2517025900",
+        "FileName": "r2_dde79ce3-ecca-47b1-a0a0-2e2d44863fdb.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_dde79ce3-ecca-47b1-a0a0-2e2d44863fdb.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "40d455e1-3639-4d7f-bce5-bdfc5cb9d412.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "93503998",
+          "FileName": "40d455e1-3639-4d7f-bce5-bdfc5cb9d412.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/40d455e1-3639-4d7f-bce5-bdfc5cb9d412.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_717ef2aa-f7ad-439b-990d-fac17e361a4d.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "4169016943",
+        "FileName": "r2_717ef2aa-f7ad-439b-990d-fac17e361a4d.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_717ef2aa-f7ad-439b-990d-fac17e361a4d.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2",
+  "DatabaseID": "209383",
+  "Developer": "Pieces Interactive",
+  "ESRB": "E - Everyone",
+  "Genres": "Platform",
+  "Name": "Fret Nice",
+  "Overview": "FRET NICE™ is a 2D platformer that’ll rock your world. Control your character through funky-fresh stages to explore hidden areas, collect items, and clash note-for-note with outrageous, heavy metal bosses! Rock out by blasting enemies with riff combos and creating your own sounds with each “strum” of a chord!",
+  "Publisher": "Tecmo",
+  "ReleaseDate": "2010-02-17T00:00:00+00:00"
 }

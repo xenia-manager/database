@@ -1,38 +1,38 @@
 {
-  "Name": "Academy Trivia",
-  "DatabaseID": "466940",
-  "ReleaseDate": "2010-06-22T00:00:00+00:00",
-  "Overview": "Academy Trivia is a trivia game with more than 4,000 questions that cover eight subjects. It also has a more challenging Academy Mode. The gameplay starts with a 3D wheel being spun that has all the categories on them to decide the topic for the questions. Players then compete against one another to see who can answer the most questions accurately. The game supports up to four players locally and there are also bonus rounds.",
-  "Genres": "Quiz",
-  "Developer": "persepee",
-  "Publisher": "persepee",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "f36d5338-88c0-4323-8c78-871bf60e514b.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2493157112",
+          "FileName": "f36d5338-88c0-4323-8c78-871bf60e514b.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f36d5338-88c0-4323-8c78-871bf60e514b.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "9a8fdb5c-ee89-4d1b-a244-b6106cb53f24.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3408952154",
+        "FileName": "7a4a61fc-2d01-4164-881c-cb966715774e.jpg",
         "Region": "World",
-        "CRC32": "2532674271",
-        "URL": "http://images.launchbox-app.com/9a8fdb5c-ee89-4d1b-a244-b6106cb53f24.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7a4a61fc-2d01-4164-881c-cb966715774e.jpg"
       },
       {
-        "FileName": "7a4a61fc-2d01-4164-881c-cb966715774e.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2532674271",
+        "FileName": "9a8fdb5c-ee89-4d1b-a244-b6106cb53f24.jpg",
         "Region": "World",
-        "CRC32": "3408952154",
-        "URL": "http://images.launchbox-app.com/7a4a61fc-2d01-4164-881c-cb966715774e.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/9a8fdb5c-ee89-4d1b-a244-b6106cb53f24.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "466940",
+  "Developer": "persepee",
+  "Genres": "Quiz",
+  "Name": "Academy Trivia",
+  "Overview": "Academy Trivia is a trivia game with more than 4,000 questions that cover eight subjects. It also has a more challenging Academy Mode. The gameplay starts with a 3D wheel being spun that has all the categories on them to decide the topic for the questions. Players then compete against one another to see who can answer the most questions accurately. The game supports up to four players locally and there are also bonus rounds.",
+  "Publisher": "persepee",
+  "ReleaseDate": "2010-06-22T00:00:00+00:00"
 }

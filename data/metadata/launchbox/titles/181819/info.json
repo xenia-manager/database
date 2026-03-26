@@ -1,72 +1,72 @@
 {
-  "Name": "Frogger 2",
-  "DatabaseID": "181819",
-  "ReleaseDate": "2008-06-11T00:00:00+00:00",
-  "Overview": "Frogger 2 is a top-down platform game largely based around the gameplay of the original Frogger. The introduction story tells how the alien Pico is forced to land in Firefly Swamp where Frogger resides. His space ship broke down in different pieces and Frogger promises to collect them all. He progresses through different stages where he needs to hop over water, lava, and through a factory.\n\nUsing the analog stick or the D-pad it is possible to hop in four directions, as if the level is divided into tiles, and often Frogger has to pass over moving objects quickly, just like the logs in the original game. He can stretch his tongue to collect coins and musical notes. When four of the latter have been collected, he is warped to a bonus level. Levels are split up into different sections with checkpoints and are rendered in a 4:3 ratio with a pattern filling the rest of the background.\n\nSingleplayer is available as a Story mode and Time Trials. Multiplayer is supported online with four different modes, for instance racing to a finish line while hindering each other with the tongue, or guarding a jewel as long as possible.",
-  "CommunityRating": "3.33333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Frogger_2_(2008_video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Action",
-  "Developer": "Voltex",
-  "Publisher": "Konami Digital Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "975fcefe-b7a0-4622-bb8b-6a676e38e659.png",
-        "Type": "Banner",
-        "CRC32": "2115213494",
-        "URL": "http://images.launchbox-app.com/975fcefe-b7a0-4622-bb8b-6a676e38e659.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_d6a381d9-0b0d-4cbc-b8c7-85e6cc663626.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2319333801",
+        "FileName": "r2_d6a381d9-0b0d-4cbc-b8c7-85e6cc663626.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_d6a381d9-0b0d-4cbc-b8c7-85e6cc663626.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2115213494",
+        "FileName": "975fcefe-b7a0-4622-bb8b-6a676e38e659.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/975fcefe-b7a0-4622-bb8b-6a676e38e659.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_4242341d-28fc-4e38-9bd1-8293535f43b7.jpg",
-          "Type": "Box - Front",
+          "CRC32": "2974803517",
+          "FileName": "e6c93dd8-e199-4c36-bdc0-6f629a0f9031.jpg",
           "Region": "World",
-          "CRC32": "1799643500",
-          "URL": "http://images.launchbox-app.com/r2_4242341d-28fc-4e38-9bd1-8293535f43b7.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/e6c93dd8-e199-4c36-bdc0-6f629a0f9031.jpg"
         },
         {
-          "FileName": "e6c93dd8-e199-4c36-bdc0-6f629a0f9031.jpg",
-          "Type": "Box - Front",
+          "CRC32": "1799643500",
+          "FileName": "r2_4242341d-28fc-4e38-9bd1-8293535f43b7.jpg",
           "Region": "World",
-          "CRC32": "2974803517",
-          "URL": "http://images.launchbox-app.com/e6c93dd8-e199-4c36-bdc0-6f629a0f9031.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_4242341d-28fc-4e38-9bd1-8293535f43b7.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "b31cc5b4-5508-4629-b3b5-669316968e80.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1192895554",
-        "URL": "http://images.launchbox-app.com/b31cc5b4-5508-4629-b3b5-669316968e80.jpg"
-      },
-      {
-        "FileName": "170c512d-6036-4cd6-ad0b-5233ea9b7317.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "866417483",
-        "URL": "http://images.launchbox-app.com/170c512d-6036-4cd6-ad0b-5233ea9b7317.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "r2_b79bb31a-20ea-49bb-b8fe-ed05f436df27.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "320950302",
+        "FileName": "r2_b79bb31a-20ea-49bb-b8fe-ed05f436df27.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_b79bb31a-20ea-49bb-b8fe-ed05f436df27.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "866417483",
+        "FileName": "170c512d-6036-4cd6-ad0b-5233ea9b7317.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/170c512d-6036-4cd6-ad0b-5233ea9b7317.jpg"
+      },
+      {
+        "CRC32": "1192895554",
+        "FileName": "b31cc5b4-5508-4629-b3b5-669316968e80.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/b31cc5b4-5508-4629-b3b5-669316968e80.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.33333333333333",
+  "DatabaseID": "181819",
+  "Developer": "Voltex",
+  "ESRB": "E - Everyone",
+  "Genres": "Action",
+  "Name": "Frogger 2",
+  "Overview": "Frogger 2 is a top-down platform game largely based around the gameplay of the original Frogger. The introduction story tells how the alien Pico is forced to land in Firefly Swamp where Frogger resides. His space ship broke down in different pieces and Frogger promises to collect them all. He progresses through different stages where he needs to hop over water, lava, and through a factory.\n\nUsing the analog stick or the D-pad it is possible to hop in four directions, as if the level is divided into tiles, and often Frogger has to pass over moving objects quickly, just like the logs in the original game. He can stretch his tongue to collect coins and musical notes. When four of the latter have been collected, he is warped to a bonus level. Levels are split up into different sections with checkpoints and are rendered in a 4:3 ratio with a pattern filling the rest of the background.\n\nSingleplayer is available as a Story mode and Time Trials. Multiplayer is supported online with four different modes, for instance racing to a finish line while hindering each other with the tongue, or guarding a jewel as long as possible.",
+  "Publisher": "Konami Digital Entertainment",
+  "ReleaseDate": "2008-06-11T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Frogger_2_(2008_video_game)"
 }

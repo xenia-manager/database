@@ -1,195 +1,195 @@
 {
-  "Name": "Dynasty Warriors: Gundam 2",
-  "DatabaseID": "13885",
-  "ReleaseDate": "2009-04-22T00:00:00+00:00",
-  "Overview": "Dynasty Warriors: Gundam 2 combines the devastating power of the mobile suit, the rich legacy of the anime Gundam universe, and the furious tactical action gameplay of the Dynasty Warriors series. For the first time, engage in melee battles against colossal enemies such as the Psycho Gundam who can quickly reconfigure their bodies into titanic mobile fortresses. Prepare to head off into the furthest reaches of space and wage war against legions of enemy mobile suits.",
-  "VideoURL": "http://www.youtube.com/watch?v=sxMwc22B9Ew",
-  "CommunityRating": "4.1",
-  "ESRB": "T - Teen",
-  "Genres": "Action; Fighting; Strategy",
-  "Developer": "Omega Force",
-  "Publisher": "Namco Bandai",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "6e02fc50-467e-44bf-99ce-58a43c3d2593.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "515510617",
-        "URL": "http://images.launchbox-app.com/6e02fc50-467e-44bf-99ce-58a43c3d2593.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "b9afcf23-7054-463e-8290-9e4fe8e6e757.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "1618693130",
-        "URL": "http://images.launchbox-app.com/b9afcf23-7054-463e-8290-9e4fe8e6e757.jpg"
-      },
-      {
-        "FileName": "9deecc48-172c-4ffb-b72f-2dc23605bfce.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "478907845",
-        "URL": "http://images.launchbox-app.com/9deecc48-172c-4ffb-b72f-2dc23605bfce.jpg"
-      },
-      {
-        "FileName": "14d72217-9b84-4ef3-9628-a7d2e4f23d79.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2197469098",
+        "FileName": "14d72217-9b84-4ef3-9628-a7d2e4f23d79.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/14d72217-9b84-4ef3-9628-a7d2e4f23d79.jpg"
       },
       {
-        "FileName": "8bf1c12e-e025-41e2-9611-b1b55c842200.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "2890492543",
+        "FileName": "27d8a91d-ac2a-4c98-8c7c-c4bf313bd97d.jpg",
         "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/27d8a91d-ac2a-4c98-8c7c-c4bf313bd97d.jpg"
+      },
+      {
         "CRC32": "4278098183",
+        "FileName": "8bf1c12e-e025-41e2-9611-b1b55c842200.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/8bf1c12e-e025-41e2-9611-b1b55c842200.jpg"
       },
       {
-        "FileName": "27d8a91d-ac2a-4c98-8c7c-c4bf313bd97d.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "478907845",
+        "FileName": "9deecc48-172c-4ffb-b72f-2dc23605bfce.jpg",
         "Region": "World",
-        "CRC32": "2890492543",
-        "URL": "http://images.launchbox-app.com/27d8a91d-ac2a-4c98-8c7c-c4bf313bd97d.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/9deecc48-172c-4ffb-b72f-2dc23605bfce.jpg"
+      },
+      {
+        "CRC32": "1618693130",
+        "FileName": "b9afcf23-7054-463e-8290-9e4fe8e6e757.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/b9afcf23-7054-463e-8290-9e4fe8e6e757.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "515510617",
+        "FileName": "6e02fc50-467e-44bf-99ce-58a43c3d2593.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/6e02fc50-467e-44bf-99ce-58a43c3d2593.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "2b2355e8-59a7-4ba6-8ca0-d3c477b533fd.png",
-          "Type": "Box - 3D",
-          "Region": "Oceania",
           "CRC32": "1048641774",
+          "FileName": "2b2355e8-59a7-4ba6-8ca0-d3c477b533fd.png",
+          "Region": "Oceania",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/2b2355e8-59a7-4ba6-8ca0-d3c477b533fd.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_742c54c9-8a1b-4387-a2f0-dc121944318e.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2884895400",
+          "FileName": "r2_742c54c9-8a1b-4387-a2f0-dc121944318e.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_742c54c9-8a1b-4387-a2f0-dc121944318e.jpg"
         },
         {
-          "FileName": "04896d3f-ddc8-4213-80b3-cd34ecc0d935.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3321170395",
+          "FileName": "04896d3f-ddc8-4213-80b3-cd34ecc0d935.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/04896d3f-ddc8-4213-80b3-cd34ecc0d935.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_742c5160-d26e-48ae-9644-139d1b4a27f8.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2237349129",
+          "FileName": "r2_742c5160-d26e-48ae-9644-139d1b4a27f8.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_742c5160-d26e-48ae-9644-139d1b4a27f8.jpg"
         },
         {
-          "FileName": "39ece778-b0ab-4406-9cd1-7a3401e276ce.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1379119564",
+          "FileName": "39ece778-b0ab-4406-9cd1-7a3401e276ce.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/39ece778-b0ab-4406-9cd1-7a3401e276ce.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "1a4611fa-32bd-4e5b-9768-6ac892dcdffd.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3688325689",
+          "FileName": "1a4611fa-32bd-4e5b-9768-6ac892dcdffd.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/1a4611fa-32bd-4e5b-9768-6ac892dcdffd.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "36c87130-7011-4e10-81d3-f761f3fb1b24.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "4042945050",
+        "FileName": "36c87130-7011-4e10-81d3-f761f3fb1b24.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/36c87130-7011-4e10-81d3-f761f3fb1b24.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "e6b8c97e-0304-4aa9-80b2-70b04df617d3.jpg",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
-        "CRC32": "1338130502",
-        "URL": "http://images.launchbox-app.com/e6b8c97e-0304-4aa9-80b2-70b04df617d3.jpg"
-      },
-      {
-        "FileName": "69b5edc6-ea31-4335-b6a7-74b31f47899c.jpg",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
-        "CRC32": "3215381694",
-        "URL": "http://images.launchbox-app.com/69b5edc6-ea31-4335-b6a7-74b31f47899c.jpg"
-      },
-      {
-        "FileName": "115eb61e-352e-4f30-8d54-8621e86efc94.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
-        "CRC32": "3980415465",
-        "URL": "http://images.launchbox-app.com/115eb61e-352e-4f30-8d54-8621e86efc94.jpg"
-      },
-      {
-        "FileName": "d6e454b9-a74a-4dc0-955e-ca275ba1b9cb.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1700389969",
-        "URL": "http://images.launchbox-app.com/d6e454b9-a74a-4dc0-955e-ca275ba1b9cb.jpg"
-      },
-      {
-        "FileName": "82425f82-6f69-4a59-94c8-d801d3cb03b2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "4274094347",
-        "URL": "http://images.launchbox-app.com/82425f82-6f69-4a59-94c8-d801d3cb03b2.jpg"
-      },
-      {
-        "FileName": "073edf31-528b-4758-bcc4-9459eae9a8fe.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "4227817006",
-        "URL": "http://images.launchbox-app.com/073edf31-528b-4758-bcc4-9459eae9a8fe.jpg"
-      },
-      {
-        "FileName": "1be61b6b-003a-4e3d-a1d4-96b5f8b7945a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1340993782",
-        "URL": "http://images.launchbox-app.com/1be61b6b-003a-4e3d-a1d4-96b5f8b7945a.jpg"
-      },
-      {
-        "FileName": "00d407ea-dcac-41df-8dc7-15ea5ad49721.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1568629052",
-        "URL": "http://images.launchbox-app.com/00d407ea-dcac-41df-8dc7-15ea5ad49721.jpg"
-      },
-      {
-        "FileName": "64e0cd67-1a8d-48d1-8e95-ea35ff0c2504.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "4281091959",
-        "URL": "http://images.launchbox-app.com/64e0cd67-1a8d-48d1-8e95-ea35ff0c2504.jpg"
       }
     ],
     "Other": [
       {
-        "FileName": "e457a4c3-2eab-43b7-85a0-19b4d76b5a0b.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "4236053968",
+        "FileName": "e457a4c3-2eab-43b7-85a0-19b4d76b5a0b.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/e457a4c3-2eab-43b7-85a0-19b4d76b5a0b.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3215381694",
+        "FileName": "69b5edc6-ea31-4335-b6a7-74b31f47899c.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/69b5edc6-ea31-4335-b6a7-74b31f47899c.jpg"
+      },
+      {
+        "CRC32": "1338130502",
+        "FileName": "e6b8c97e-0304-4aa9-80b2-70b04df617d3.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/e6b8c97e-0304-4aa9-80b2-70b04df617d3.jpg"
+      },
+      {
+        "CRC32": "3980415465",
+        "FileName": "115eb61e-352e-4f30-8d54-8621e86efc94.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/115eb61e-352e-4f30-8d54-8621e86efc94.jpg"
+      },
+      {
+        "CRC32": "1568629052",
+        "FileName": "00d407ea-dcac-41df-8dc7-15ea5ad49721.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/00d407ea-dcac-41df-8dc7-15ea5ad49721.jpg"
+      },
+      {
+        "CRC32": "4227817006",
+        "FileName": "073edf31-528b-4758-bcc4-9459eae9a8fe.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/073edf31-528b-4758-bcc4-9459eae9a8fe.jpg"
+      },
+      {
+        "CRC32": "1340993782",
+        "FileName": "1be61b6b-003a-4e3d-a1d4-96b5f8b7945a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/1be61b6b-003a-4e3d-a1d4-96b5f8b7945a.jpg"
+      },
+      {
+        "CRC32": "4281091959",
+        "FileName": "64e0cd67-1a8d-48d1-8e95-ea35ff0c2504.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/64e0cd67-1a8d-48d1-8e95-ea35ff0c2504.jpg"
+      },
+      {
+        "CRC32": "4274094347",
+        "FileName": "82425f82-6f69-4a59-94c8-d801d3cb03b2.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/82425f82-6f69-4a59-94c8-d801d3cb03b2.jpg"
+      },
+      {
+        "CRC32": "1700389969",
+        "FileName": "d6e454b9-a74a-4dc0-955e-ca275ba1b9cb.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d6e454b9-a74a-4dc0-955e-ca275ba1b9cb.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.1",
+  "DatabaseID": "13885",
+  "Developer": "Omega Force",
+  "ESRB": "T - Teen",
+  "Genres": "Action; Fighting; Strategy",
+  "Name": "Dynasty Warriors: Gundam 2",
+  "Overview": "Dynasty Warriors: Gundam 2 combines the devastating power of the mobile suit, the rich legacy of the anime Gundam universe, and the furious tactical action gameplay of the Dynasty Warriors series. For the first time, engage in melee battles against colossal enemies such as the Psycho Gundam who can quickly reconfigure their bodies into titanic mobile fortresses. Prepare to head off into the furthest reaches of space and wage war against legions of enemy mobile suits.",
+  "Publisher": "Namco Bandai",
+  "ReleaseDate": "2009-04-22T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=sxMwc22B9Ew"
 }

@@ -1,53 +1,53 @@
 {
-  "Name": "Flap",
-  "DatabaseID": "469519",
-  "ReleaseDate": "2011-05-01T00:00:00+00:00",
-  "Overview": "In Flap you are Sir Erin. A brave knight on a quest to free the land of Erda from the rampaging Soastiks. The Soastiks are building magic standing stones to extract the Mana from the ground. Destroy the Soastiks to release Erda from their clutches! Flap is a simple sprite game designed for the Xbox 360. It is simple to control and has a range of levels designed for all the family.",
-  "VideoURL": "https://youtu.be/sRTRfOQUEcc",
-  "Genres": "Action",
-  "Developer": "Hal Angseesing",
-  "Publisher": "Hal Angseesing",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "81893afd-4cb3-402e-8355-d1209899f72f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3980159002",
+          "FileName": "81893afd-4cb3-402e-8355-d1209899f72f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/81893afd-4cb3-402e-8355-d1209899f72f.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "19c4a2f9-13c2-4a32-a0f2-5ea5d782ec93.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1151132724",
-        "URL": "http://images.launchbox-app.com/19c4a2f9-13c2-4a32-a0f2-5ea5d782ec93.jpg"
-      },
-      {
-        "FileName": "05c34d1f-bc76-44c4-9280-69e9ed6bf16b.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "438908619",
+        "FileName": "05c34d1f-bc76-44c4-9280-69e9ed6bf16b.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/05c34d1f-bc76-44c4-9280-69e9ed6bf16b.jpg"
       },
       {
-        "FileName": "afcde1a8-d106-4019-af42-5973cc27679c.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1151132724",
+        "FileName": "19c4a2f9-13c2-4a32-a0f2-5ea5d782ec93.jpg",
         "Region": "World",
-        "CRC32": "2409317670",
-        "URL": "http://images.launchbox-app.com/afcde1a8-d106-4019-af42-5973cc27679c.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/19c4a2f9-13c2-4a32-a0f2-5ea5d782ec93.jpg"
       },
       {
-        "FileName": "7cce83b2-cae7-4913-b33a-d2c4f6000a6e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2053954480",
+        "FileName": "7cce83b2-cae7-4913-b33a-d2c4f6000a6e.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/7cce83b2-cae7-4913-b33a-d2c4f6000a6e.jpg"
+      },
+      {
+        "CRC32": "2409317670",
+        "FileName": "afcde1a8-d106-4019-af42-5973cc27679c.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/afcde1a8-d106-4019-af42-5973cc27679c.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469519",
+  "Developer": "Hal Angseesing",
+  "Genres": "Action",
+  "Name": "Flap",
+  "Overview": "In Flap you are Sir Erin. A brave knight on a quest to free the land of Erda from the rampaging Soastiks. The Soastiks are building magic standing stones to extract the Mana from the ground. Destroy the Soastiks to release Erda from their clutches! Flap is a simple sprite game designed for the Xbox 360. It is simple to control and has a range of levels designed for all the family.",
+  "Publisher": "Hal Angseesing",
+  "ReleaseDate": "2011-05-01T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/sRTRfOQUEcc"
 }

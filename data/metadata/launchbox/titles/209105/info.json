@@ -1,98 +1,98 @@
 {
-  "Name": "American Mensa Academy",
-  "DatabaseID": "209105",
-  "ReleaseDate": "2012-12-12T00:00:00+00:00",
-  "Overview": "Get ready to stretch your grey matter as you put yourself through more than 100 interesting and challenging puzzles designed to stretch and train your brain in key areas including logic, language, visual and more. Mensa Academy is the only brain training game backed by Mensa, the high IQ society, so for the first time you’ll be able to put all that practice into action by taking on real Mensa-style questions, like the ones you see in the Mensa IQ tests. What will your Mensa Academy score be?",
-  "CommunityRating": "3.5",
-  "ESRB": "E - Everyone",
-  "Genres": "Education",
-  "Developer": "Silverball Studios",
-  "Publisher": "Square Enix",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "6c50a027-3cbb-4dc5-94c8-0e1c2e4cd996.png",
-        "Type": "Banner",
-        "CRC32": "4018506894",
-        "URL": "http://images.launchbox-app.com/6c50a027-3cbb-4dc5-94c8-0e1c2e4cd996.png"
-      },
-      {
-        "FileName": "d8f01b37-308b-4bb4-9119-2dd49263e077.png",
-        "Type": "Banner",
-        "CRC32": "1414990665",
-        "URL": "http://images.launchbox-app.com/d8f01b37-308b-4bb4-9119-2dd49263e077.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1702941307",
         "FileName": "0e0cc2e7-52f6-40ae-97cf-a7adab939e98.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1702941307",
         "URL": "http://images.launchbox-app.com/0e0cc2e7-52f6-40ae-97cf-a7adab939e98.jpg"
       },
       {
+        "CRC32": "3499625049",
         "FileName": "dc382b03-487d-4b06-92a3-dc2fc332e524.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3499625049",
         "URL": "http://images.launchbox-app.com/dc382b03-487d-4b06-92a3-dc2fc332e524.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4018506894",
+        "FileName": "6c50a027-3cbb-4dc5-94c8-0e1c2e4cd996.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/6c50a027-3cbb-4dc5-94c8-0e1c2e4cd996.png"
+      },
+      {
+        "CRC32": "1414990665",
+        "FileName": "d8f01b37-308b-4bb4-9119-2dd49263e077.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/d8f01b37-308b-4bb4-9119-2dd49263e077.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "4e5249bd-0d16-4605-af6b-d5951b2199d8.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "727389908",
+          "FileName": "4e5249bd-0d16-4605-af6b-d5951b2199d8.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4e5249bd-0d16-4605-af6b-d5951b2199d8.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2100188432",
+        "FileName": "5c63c379-d5eb-40f4-9f7a-607c9f966d29.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/5c63c379-d5eb-40f4-9f7a-607c9f966d29.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "2397207190",
         "FileName": "3a9f4d21-beb5-4a23-942d-66182a69eb9c.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2397207190",
         "URL": "http://images.launchbox-app.com/3a9f4d21-beb5-4a23-942d-66182a69eb9c.jpg"
       },
       {
-        "FileName": "c4fe84e8-4410-4031-af32-48b3cab4c241.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3435998257",
-        "URL": "http://images.launchbox-app.com/c4fe84e8-4410-4031-af32-48b3cab4c241.jpg"
-      },
-      {
+        "CRC32": "1828598634",
         "FileName": "67affe72-faca-4727-9baf-788a86f3d86c.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1828598634",
         "URL": "http://images.launchbox-app.com/67affe72-faca-4727-9baf-788a86f3d86c.jpg"
       },
       {
-        "FileName": "9393999f-2536-4e2e-bcf8-61e1fb4653e6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1035060038",
-        "URL": "http://images.launchbox-app.com/9393999f-2536-4e2e-bcf8-61e1fb4653e6.jpg"
-      },
-      {
+        "CRC32": "1609418507",
         "FileName": "8745e09f-b61f-4b73-b57c-86a0a2a0f608.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1609418507",
         "URL": "http://images.launchbox-app.com/8745e09f-b61f-4b73-b57c-86a0a2a0f608.jpg"
       },
       {
+        "CRC32": "1035060038",
+        "FileName": "9393999f-2536-4e2e-bcf8-61e1fb4653e6.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/9393999f-2536-4e2e-bcf8-61e1fb4653e6.jpg"
+      },
+      {
+        "CRC32": "3435998257",
+        "FileName": "c4fe84e8-4410-4031-af32-48b3cab4c241.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c4fe84e8-4410-4031-af32-48b3cab4c241.jpg"
+      },
+      {
+        "CRC32": "2780863741",
         "FileName": "c8e741cf-f11e-417b-9975-022209c3daa1.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2780863741",
         "URL": "http://images.launchbox-app.com/c8e741cf-f11e-417b-9975-022209c3daa1.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "5c63c379-d5eb-40f4-9f7a-607c9f966d29.png",
-        "Type": "Clear Logo",
-        "CRC32": "2100188432",
-        "URL": "http://images.launchbox-app.com/5c63c379-d5eb-40f4-9f7a-607c9f966d29.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "209105",
+  "Developer": "Silverball Studios",
+  "ESRB": "E - Everyone",
+  "Genres": "Education",
+  "Name": "American Mensa Academy",
+  "Overview": "Get ready to stretch your grey matter as you put yourself through more than 100 interesting and challenging puzzles designed to stretch and train your brain in key areas including logic, language, visual and more. Mensa Academy is the only brain training game backed by Mensa, the high IQ society, so for the first time you’ll be able to put all that practice into action by taking on real Mensa-style questions, like the ones you see in the Mensa IQ tests. What will your Mensa Academy score be?",
+  "Publisher": "Square Enix",
+  "ReleaseDate": "2012-12-12T00:00:00+00:00"
 }

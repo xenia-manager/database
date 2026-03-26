@@ -1,92 +1,92 @@
 {
-  "Name": "Guitar Hero III: Legends of Rock",
-  "DatabaseID": "7488",
-  "ReleaseDate": "2007-10-28T00:00:00+00:00",
-  "Overview": "Rock out to the third entry in in Red Octane's music series for guitar gods! Songs for Guitar Hero III include Barracuda by Heart, Sabotage by Beastie Boys, Rock And Roll All Nite by Kiss, and much more! In addition, players can experience an incredible number of added features and explosive content including a new multiplayer action-inspired battle mode, grueling boss battles, a bevy of exclusive unlockable content and authentic rock venues.",
-  "VideoURL": "http://www.youtube.com/watch?v=zp4N5yQrfcY",
-  "CommunityRating": "4.07142857142857",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_III:_Legends_of_Rock",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Neversoft Entertainment",
-  "Publisher": "RedOctane",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_3aa4d1e9-2d7c-48ef-9858-28b679bb5aab.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "4162211729",
-        "URL": "http://images.launchbox-app.com/r2_3aa4d1e9-2d7c-48ef-9858-28b679bb5aab.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "549199778",
         "FileName": "2317a5c3-32ba-40e2-8b04-3cff2fe55bc3.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "549199778",
         "URL": "http://images.launchbox-app.com/2317a5c3-32ba-40e2-8b04-3cff2fe55bc3.jpg"
       },
       {
-        "FileName": "r2_4dc0de8b-c3be-4d35-a5d5-d0a112204685.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2575055909",
+        "FileName": "r2_4dc0de8b-c3be-4d35-a5d5-d0a112204685.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_4dc0de8b-c3be-4d35-a5d5-d0a112204685.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4162211729",
+        "FileName": "r2_3aa4d1e9-2d7c-48ef-9858-28b679bb5aab.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_3aa4d1e9-2d7c-48ef-9858-28b679bb5aab.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "f326ab03-3df1-46a9-b9b4-9bb24b3bac39.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2666934324",
+          "FileName": "f326ab03-3df1-46a9-b9b4-9bb24b3bac39.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/f326ab03-3df1-46a9-b9b4-9bb24b3bac39.png"
         }
       ],
       "Back": [
         {
-          "FileName": "087206a9-917d-42f8-a8bd-2eedcdc5579f.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "892401950",
+          "FileName": "087206a9-917d-42f8-a8bd-2eedcdc5579f.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/087206a9-917d-42f8-a8bd-2eedcdc5579f.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_31585e8c-432b-4756-8771-1ad8fe4a4e2f.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2462937572",
+          "FileName": "r2_31585e8c-432b-4756-8771-1ad8fe4a4e2f.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_31585e8c-432b-4756-8771-1ad8fe4a4e2f.jpg"
         },
         {
-          "FileName": "48527de7-3230-419b-a406-c1859faa5b38.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2353115286",
+          "FileName": "48527de7-3230-419b-a406-c1859faa5b38.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/48527de7-3230-419b-a406-c1859faa5b38.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_872b6cfd-ea27-4f93-918f-9e334dc8c145.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1643186794",
+        "FileName": "r2_872b6cfd-ea27-4f93-918f-9e334dc8c145.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_872b6cfd-ea27-4f93-918f-9e334dc8c145.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1132110640",
         "FileName": "f68a2243-09dd-4d48-af1e-8f4f5f139ff8.png",
         "Type": "Clear Logo",
-        "CRC32": "1132110640",
         "URL": "http://images.launchbox-app.com/f68a2243-09dd-4d48-af1e-8f4f5f139ff8.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.07142857142857",
+  "DatabaseID": "7488",
+  "Developer": "Neversoft Entertainment",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "Guitar Hero III: Legends of Rock",
+  "Overview": "Rock out to the third entry in in Red Octane's music series for guitar gods! Songs for Guitar Hero III include Barracuda by Heart, Sabotage by Beastie Boys, Rock And Roll All Nite by Kiss, and much more! In addition, players can experience an incredible number of added features and explosive content including a new multiplayer action-inspired battle mode, grueling boss battles, a bevy of exclusive unlockable content and authentic rock venues.",
+  "Publisher": "RedOctane",
+  "ReleaseDate": "2007-10-28T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=zp4N5yQrfcY",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_III:_Legends_of_Rock"
 }

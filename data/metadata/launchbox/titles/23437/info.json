@@ -1,53 +1,53 @@
 {
-  "Name": "Super Time Force",
-  "DatabaseID": "23437",
-  "ReleaseDate": "2014-05-15T00:00:00+00:00",
-  "Overview": "Super Time Force is an action-packed platformer with a time-travelling twist! You’re in control of time itself, bending and stretching it to your advantage on the battlefield. Rewind time and choose when to jump back into the action, teaming-up with your past selves in a unique single-player co-op experience! Take control of up to 16 unique characters, and battle across 6 different time periods, from the long-ago past to the far-away future.",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Super_Time_Force",
-  "Genres": "Adventure; Platform; Shooter",
-  "Developer": "Capybara Games",
-  "Publisher": "Microsoft",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "4102452902",
         "FileName": "d76b707a-bc2b-4d2d-852f-437635d8bc78.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4102452902",
         "URL": "http://images.launchbox-app.com/d76b707a-bc2b-4d2d-852f-437635d8bc78.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "3118566738",
           "FileName": "b9c78a96-c9d2-44a7-8b03-38b8032702e0.jpg",
           "Type": "Box - Front",
-          "CRC32": "3118566738",
           "URL": "http://images.launchbox-app.com/b9c78a96-c9d2-44a7-8b03-38b8032702e0.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "568770",
+        "FileName": "60ffa4cc-78d8-4d75-a335-2056490d2d47.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/60ffa4cc-78d8-4d75-a335-2056490d2d47.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "2527608838",
         "FileName": "44a01f75-6253-4718-b791-eb37e2201abc.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2527608838",
         "URL": "http://images.launchbox-app.com/44a01f75-6253-4718-b791-eb37e2201abc.jpg"
       },
       {
+        "CRC32": "1899483270",
         "FileName": "d09d88e3-6836-4557-b5b7-12e5fa54b73e.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1899483270",
         "URL": "http://images.launchbox-app.com/d09d88e3-6836-4557-b5b7-12e5fa54b73e.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "60ffa4cc-78d8-4d75-a335-2056490d2d47.png",
-        "Type": "Clear Logo",
-        "CRC32": "568770",
-        "URL": "http://images.launchbox-app.com/60ffa4cc-78d8-4d75-a335-2056490d2d47.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "23437",
+  "Developer": "Capybara Games",
+  "Genres": "Adventure; Platform; Shooter",
+  "Name": "Super Time Force",
+  "Overview": "Super Time Force is an action-packed platformer with a time-travelling twist! You’re in control of time itself, bending and stretching it to your advantage on the battlefield. Rewind time and choose when to jump back into the action, teaming-up with your past selves in a unique single-player co-op experience! Take control of up to 16 unique characters, and battle across 6 different time periods, from the long-ago past to the far-away future.",
+  "Publisher": "Microsoft",
+  "ReleaseDate": "2014-05-15T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Super_Time_Force"
 }

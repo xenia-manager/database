@@ -1,64 +1,64 @@
 {
-  "Name": "Dragon's Lair",
-  "DatabaseID": "209324",
-  "ReleaseDate": "2012-05-18T00:00:00+00:00",
-  "Overview": "Dragon's Lair, one of the most beloved arcade games of all time can now be enjoyed from the comfort of your couch. This fully arcade authentic version is fully playable with Kinect or the Xbox 360 controller so you can really show how well you wield Dirk's sword. Included with this ultimate edition are bonus Avatar items, Gamerpics and even a full watch feature to sit back and enjoy Don Bluth's stunning animation. In Dragon's Lair, you play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Find your way through the castle of a dark wizard, who has enchanted it with treacherous monsters and obstacles. Lead on adventurer. Your quest awaits!",
-  "CommunityRating": "3.15",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
-  "Developer": "Digital Leisure",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "35af87f0-636d-45b7-935d-ee533b0700b9.png",
-        "Type": "Banner",
-        "CRC32": "2914163485",
-        "URL": "http://images.launchbox-app.com/35af87f0-636d-45b7-935d-ee533b0700b9.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "725151864",
         "FileName": "5112e51f-b4b6-4eb4-9f26-c986d000b77e.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "725151864",
         "URL": "http://images.launchbox-app.com/5112e51f-b4b6-4eb4-9f26-c986d000b77e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2914163485",
+        "FileName": "35af87f0-636d-45b7-935d-ee533b0700b9.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/35af87f0-636d-45b7-935d-ee533b0700b9.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "6b7bb0d5-31b9-4750-9caa-3af553c32ee2.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4149592696",
+          "FileName": "6b7bb0d5-31b9-4750-9caa-3af553c32ee2.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6b7bb0d5-31b9-4750-9caa-3af553c32ee2.jpg"
         },
         {
-          "FileName": "106d6265-0f77-4d61-9804-a465c3a406b0.jpg",
-          "Type": "Fanart - Box - Front",
-          "Region": "North America",
           "CRC32": "532846119",
+          "FileName": "106d6265-0f77-4d61-9804-a465c3a406b0.jpg",
+          "Region": "North America",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/106d6265-0f77-4d61-9804-a465c3a406b0.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "2783898f-c018-4fa1-b380-075a8d39273f.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
         "CRC32": "2618267970",
+        "FileName": "2783898f-c018-4fa1-b380-075a8d39273f.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/2783898f-c018-4fa1-b380-075a8d39273f.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1362243281",
         "FileName": "3168fdc3-a30c-45bf-9d13-8e2372db73eb.png",
         "Type": "Clear Logo",
-        "CRC32": "1362243281",
         "URL": "http://images.launchbox-app.com/3168fdc3-a30c-45bf-9d13-8e2372db73eb.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.15",
+  "DatabaseID": "209324",
+  "Developer": "Digital Leisure",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action",
+  "Name": "Dragon's Lair",
+  "Overview": "Dragon's Lair, one of the most beloved arcade games of all time can now be enjoyed from the comfort of your couch. This fully arcade authentic version is fully playable with Kinect or the Xbox 360 controller so you can really show how well you wield Dirk's sword. Included with this ultimate edition are bonus Avatar items, Gamerpics and even a full watch feature to sit back and enjoy Don Bluth's stunning animation. In Dragon's Lair, you play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Find your way through the castle of a dark wizard, who has enchanted it with treacherous monsters and obstacles. Lead on adventurer. Your quest awaits!",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2012-05-18T00:00:00+00:00"
 }

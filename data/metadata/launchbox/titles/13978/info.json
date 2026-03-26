@@ -1,130 +1,130 @@
 {
-  "Name": "BlazBlue: Continuum Shift Extend",
-  "DatabaseID": "13978",
-  "ReleaseDate": "2012-02-14T00:00:00+00:00",
-  "Overview": "BlazBlue: Continuum Shift (ブレイブルー コンティニュアム シフト BureiBurū: Kontinyuamu Shifuto?) is a 2009 fighting game developed by Arc System Works as an official sequel to BlazBlue: Calamity Trigger. As with the previous game, the game first came to arcades before both the Xbox 360 and PlayStation 3 versions as the game was currently released for the Taito Type X2 arcade system board, with a 16:9 ratio and 768p resolution.\n\nRevisions entitled BlazBlue: Continuum Shift II and BlazBlue: Continuum Shift Extend were released in arcades in 2010-2011. They were later ported to the PlayStation 3, PlayStation Portable, Nintendo 3DS, and Windows.",
-  "CommunityRating": "3.38888888888889",
-  "Genres": "Fighting",
-  "Developer": "Arc System Works",
-  "Publisher": "Aksys Games Localization",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "073e19c8-6318-4038-87ff-1e1f52ae646a.png",
-        "Type": "Banner",
-        "CRC32": "4183478009",
-        "URL": "http://images.launchbox-app.com/073e19c8-6318-4038-87ff-1e1f52ae646a.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "763460307",
         "FileName": "a0aa266a-1948-45f9-8d95-65b51753ff68.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "763460307",
         "URL": "http://images.launchbox-app.com/a0aa266a-1948-45f9-8d95-65b51753ff68.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4183478009",
+        "FileName": "073e19c8-6318-4038-87ff-1e1f52ae646a.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/073e19c8-6318-4038-87ff-1e1f52ae646a.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "cfda39a4-6d3f-4316-a88e-5008b51a5675.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "93743944",
+          "FileName": "cfda39a4-6d3f-4316-a88e-5008b51a5675.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/cfda39a4-6d3f-4316-a88e-5008b51a5675.png"
         },
         {
-          "FileName": "r2_3a7a786f-7419-4f31-bdea-e6de8d6b3992.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1333237374",
+          "FileName": "r2_3a7a786f-7419-4f31-bdea-e6de8d6b3992.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_3a7a786f-7419-4f31-bdea-e6de8d6b3992.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_099cde7a-97cb-4763-ba54-351872ba138b.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "4288833885",
+          "FileName": "r2_099cde7a-97cb-4763-ba54-351872ba138b.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_099cde7a-97cb-4763-ba54-351872ba138b.jpg"
         },
         {
-          "FileName": "32484ac6-3421-4a95-9151-e1a9c02fa3b4.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "488910218",
+          "FileName": "32484ac6-3421-4a95-9151-e1a9c02fa3b4.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/32484ac6-3421-4a95-9151-e1a9c02fa3b4.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_28507ab1-f78f-4f9c-89b1-b50298449693.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1427122422",
+          "FileName": "r2_28507ab1-f78f-4f9c-89b1-b50298449693.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_28507ab1-f78f-4f9c-89b1-b50298449693.jpg"
         },
         {
-          "FileName": "ca1957d7-97e7-442d-b76e-e59d05c89cb5.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "763386226",
+          "FileName": "ca1957d7-97e7-442d-b76e-e59d05c89cb5.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ca1957d7-97e7-442d-b76e-e59d05c89cb5.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "e19d0c5d-fcd5-4124-ac6c-5bca8f0df978.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2833773470",
+          "FileName": "e19d0c5d-fcd5-4124-ac6c-5bca8f0df978.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/e19d0c5d-fcd5-4124-ac6c-5bca8f0df978.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "409a1f35-6842-4ace-8308-38758d2adc1d.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "517162265",
+        "FileName": "409a1f35-6842-4ace-8308-38758d2adc1d.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/409a1f35-6842-4ace-8308-38758d2adc1d.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "39c85874-a940-4f3e-b4ae-eee4d4a63da7.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "571863830",
-        "URL": "http://images.launchbox-app.com/39c85874-a940-4f3e-b4ae-eee4d4a63da7.jpg"
-      },
-      {
-        "FileName": "c80b50b5-40bc-4078-8c4e-9e59142e632f.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1353483346",
-        "URL": "http://images.launchbox-app.com/c80b50b5-40bc-4078-8c4e-9e59142e632f.jpg"
-      },
-      {
-        "FileName": "99052021-c6b9-4714-a7d0-a1d1828f2629.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2149787447",
-        "URL": "http://images.launchbox-app.com/99052021-c6b9-4714-a7d0-a1d1828f2629.jpg"
-      },
-      {
-        "FileName": "44743165-0815-4a98-b834-30411f50dec1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "205848593",
-        "URL": "http://images.launchbox-app.com/44743165-0815-4a98-b834-30411f50dec1.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "1857889992",
         "FileName": "c528b854-bfc2-47ed-86ae-aed89fb6c8a7.png",
         "Type": "Clear Logo",
-        "CRC32": "1857889992",
         "URL": "http://images.launchbox-app.com/c528b854-bfc2-47ed-86ae-aed89fb6c8a7.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "571863830",
+        "FileName": "39c85874-a940-4f3e-b4ae-eee4d4a63da7.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/39c85874-a940-4f3e-b4ae-eee4d4a63da7.jpg"
+      },
+      {
+        "CRC32": "1353483346",
+        "FileName": "c80b50b5-40bc-4078-8c4e-9e59142e632f.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/c80b50b5-40bc-4078-8c4e-9e59142e632f.jpg"
+      },
+      {
+        "CRC32": "205848593",
+        "FileName": "44743165-0815-4a98-b834-30411f50dec1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/44743165-0815-4a98-b834-30411f50dec1.jpg"
+      },
+      {
+        "CRC32": "2149787447",
+        "FileName": "99052021-c6b9-4714-a7d0-a1d1828f2629.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/99052021-c6b9-4714-a7d0-a1d1828f2629.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.38888888888889",
+  "DatabaseID": "13978",
+  "Developer": "Arc System Works",
+  "Genres": "Fighting",
+  "Name": "BlazBlue: Continuum Shift Extend",
+  "Overview": "BlazBlue: Continuum Shift (ブレイブルー コンティニュアム シフト BureiBurū: Kontinyuamu Shifuto?) is a 2009 fighting game developed by Arc System Works as an official sequel to BlazBlue: Calamity Trigger. As with the previous game, the game first came to arcades before both the Xbox 360 and PlayStation 3 versions as the game was currently released for the Taito Type X2 arcade system board, with a 16:9 ratio and 768p resolution.\n\nRevisions entitled BlazBlue: Continuum Shift II and BlazBlue: Continuum Shift Extend were released in arcades in 2010-2011. They were later ported to the PlayStation 3, PlayStation Portable, Nintendo 3DS, and Windows.",
+  "Publisher": "Aksys Games Localization",
+  "ReleaseDate": "2012-02-14T00:00:00+00:00"
 }

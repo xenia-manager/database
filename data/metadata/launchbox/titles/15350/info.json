@@ -1,127 +1,127 @@
 {
-  "Name": "Castlevania: Harmony of Despair",
-  "DatabaseID": "15350",
-  "ReleaseDate": "2010-08-04T00:00:00+00:00",
-  "Overview": "Castlevania: Harmony of Despair, known in Japan as Akumajō Dracula: Harmony of Despair (悪魔城ドラキュラ ハーモニー オブ ディスペアー?, officially translated Devil's Castle Dracula: Harmony of Despair), is a crossover platform-adventure game that features a new map system which allows players to see the current quest map's entire setup, as well as up to six players at once over Xbox Live. The game was first leaked as an OFLCA Rating on May 27, 2010, then officially announced for Xbox Live Summer of Gaming 2010. Later in the year, the game was unveiled as a playable demo in the Konami booth at the E3 Convention of 2010. It was released worldwide on August 4, 2010 for the Xbox Live Arcade and September 27, 2011 for the PlayStation Network.",
-  "CommunityRating": "3.57894736842105",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Castlevania:_Harmony_of_Despair",
-  "ESRB": "T - Teen",
-  "Genres": "Action; Platform",
-  "Developer": "Konami",
-  "Publisher": "Konami",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "e781ad18-2cf2-49d0-8498-0a1a299054cf.png",
-        "Type": "Banner",
-        "CRC32": "107673825",
-        "URL": "http://images.launchbox-app.com/e781ad18-2cf2-49d0-8498-0a1a299054cf.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_3b6fd0c8-65d6-4830-90e2-ef976d763244.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1575145739",
+        "FileName": "r2_3b6fd0c8-65d6-4830-90e2-ef976d763244.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_3b6fd0c8-65d6-4830-90e2-ef976d763244.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "107673825",
+        "FileName": "e781ad18-2cf2-49d0-8498-0a1a299054cf.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/e781ad18-2cf2-49d0-8498-0a1a299054cf.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "3372039828",
           "FileName": "c7a15bc8-a94c-4f0a-8dd8-f19cce0485be.jpg",
           "Type": "Box - Front",
-          "CRC32": "3372039828",
           "URL": "http://images.launchbox-app.com/c7a15bc8-a94c-4f0a-8dd8-f19cce0485be.jpg"
         },
         {
+          "CRC32": "745324186",
           "FileName": "28b17312-c817-4905-832c-bd62c9c7839f.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "745324186",
           "URL": "http://images.launchbox-app.com/28b17312-c817-4905-832c-bd62c9c7839f.jpg"
         }
       ]
     },
     "Disc": [
       {
+        "CRC32": "2700501292",
         "FileName": "ab4eb57f-0920-4042-b0b0-48d7cd9fb277.png",
         "Type": "Fanart - Disc",
-        "CRC32": "2700501292",
         "URL": "http://images.launchbox-app.com/ab4eb57f-0920-4042-b0b0-48d7cd9fb277.png"
       },
       {
-        "FileName": "84cb1719-2f75-4940-ace6-8f491f6297b1.png",
-        "Type": "Fanart - Disc",
+        "CRC32": "3012941737",
+        "FileName": "75262c89-ed65-4823-9d13-2a5aa7a5465a.png",
         "Region": "North America",
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/75262c89-ed65-4823-9d13-2a5aa7a5465a.png"
+      },
+      {
         "CRC32": "2279956104",
+        "FileName": "84cb1719-2f75-4940-ace6-8f491f6297b1.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/84cb1719-2f75-4940-ace6-8f491f6297b1.png"
       },
       {
-        "FileName": "bdb59a48-edf0-47a2-917c-a1d03f214edd.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
-        "CRC32": "1856996605",
-        "URL": "http://images.launchbox-app.com/bdb59a48-edf0-47a2-917c-a1d03f214edd.png"
-      },
-      {
-        "FileName": "9b06e996-e442-464c-a3bc-ca5d6f122e42.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
         "CRC32": "2943011441",
+        "FileName": "9b06e996-e442-464c-a3bc-ca5d6f122e42.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/9b06e996-e442-464c-a3bc-ca5d6f122e42.png"
       },
       {
-        "FileName": "75262c89-ed65-4823-9d13-2a5aa7a5465a.png",
-        "Type": "Fanart - Disc",
+        "CRC32": "1856996605",
+        "FileName": "bdb59a48-edf0-47a2-917c-a1d03f214edd.png",
         "Region": "North America",
-        "CRC32": "3012941737",
-        "URL": "http://images.launchbox-app.com/75262c89-ed65-4823-9d13-2a5aa7a5465a.png"
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/bdb59a48-edf0-47a2-917c-a1d03f214edd.png"
       }
     ],
     "Icon": [
       {
-        "FileName": "r2_cf51aa7b-60a4-4856-adfa-ba8f05feb0a9.png",
-        "Type": "Icon",
-        "Region": "World",
         "CRC32": "2628345046",
+        "FileName": "r2_cf51aa7b-60a4-4856-adfa-ba8f05feb0a9.png",
+        "Region": "World",
+        "Type": "Icon",
         "URL": "http://images.launchbox-app.com/r2_cf51aa7b-60a4-4856-adfa-ba8f05feb0a9.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "82fd9258-90c4-4d78-9c42-f8e222f6aacb.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3329951332",
-        "URL": "http://images.launchbox-app.com/82fd9258-90c4-4d78-9c42-f8e222f6aacb.jpg"
-      },
-      {
-        "FileName": "bf61e73e-7958-4c4c-826e-a9539ee3f239.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2919582885",
-        "URL": "http://images.launchbox-app.com/bf61e73e-7958-4c4c-826e-a9539ee3f239.jpg"
-      },
-      {
-        "FileName": "91f29ef5-ad1c-4071-9849-57d8a79286fd.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3994376651",
-        "URL": "http://images.launchbox-app.com/91f29ef5-ad1c-4071-9849-57d8a79286fd.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "3363129384",
         "FileName": "1260ede2-126e-4b3c-9e40-6ca328ca5d89.png",
         "Type": "Clear Logo",
-        "CRC32": "3363129384",
         "URL": "http://images.launchbox-app.com/1260ede2-126e-4b3c-9e40-6ca328ca5d89.png"
       },
       {
-        "FileName": "d41be3f2-2834-4b18-a7cf-cafe83621b01.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "951906658",
+        "FileName": "d41be3f2-2834-4b18-a7cf-cafe83621b01.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/d41be3f2-2834-4b18-a7cf-cafe83621b01.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3329951332",
+        "FileName": "82fd9258-90c4-4d78-9c42-f8e222f6aacb.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/82fd9258-90c4-4d78-9c42-f8e222f6aacb.jpg"
+      },
+      {
+        "CRC32": "3994376651",
+        "FileName": "91f29ef5-ad1c-4071-9849-57d8a79286fd.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/91f29ef5-ad1c-4071-9849-57d8a79286fd.jpg"
+      },
+      {
+        "CRC32": "2919582885",
+        "FileName": "bf61e73e-7958-4c4c-826e-a9539ee3f239.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/bf61e73e-7958-4c4c-826e-a9539ee3f239.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.57894736842105",
+  "DatabaseID": "15350",
+  "Developer": "Konami",
+  "ESRB": "T - Teen",
+  "Genres": "Action; Platform",
+  "Name": "Castlevania: Harmony of Despair",
+  "Overview": "Castlevania: Harmony of Despair, known in Japan as Akumajō Dracula: Harmony of Despair (悪魔城ドラキュラ ハーモニー オブ ディスペアー?, officially translated Devil's Castle Dracula: Harmony of Despair), is a crossover platform-adventure game that features a new map system which allows players to see the current quest map's entire setup, as well as up to six players at once over Xbox Live. The game was first leaked as an OFLCA Rating on May 27, 2010, then officially announced for Xbox Live Summer of Gaming 2010. Later in the year, the game was unveiled as a playable demo in the Konami booth at the E3 Convention of 2010. It was released worldwide on August 4, 2010 for the Xbox Live Arcade and September 27, 2011 for the PlayStation Network.",
+  "Publisher": "Konami",
+  "ReleaseDate": "2010-08-04T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Castlevania:_Harmony_of_Despair"
 }

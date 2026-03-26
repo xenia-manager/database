@@ -1,22 +1,22 @@
 {
-  "Name": "Fish Racer Arcade",
-  "DatabaseID": "469501",
-  "ReleaseDate": "2009-04-01T00:00:00+00:00",
-  "Overview": "Race through the sea while avoiding obstacles and your opponents. Collect powerups to give youself that extra edge. The last fish swimming wins!",
-  "Genres": "Action",
-  "Developer": "Kytin",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "5ffee606-0b18-4c2f-b18c-3c9b1cd87694.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "117959262",
+          "FileName": "5ffee606-0b18-4c2f-b18c-3c9b1cd87694.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5ffee606-0b18-4c2f-b18c-3c9b1cd87694.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469501",
+  "Developer": "Kytin",
+  "Genres": "Action",
+  "Name": "Fish Racer Arcade",
+  "Overview": "Race through the sea while avoiding obstacles and your opponents. Collect powerups to give youself that extra edge. The last fish swimming wins!",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2009-04-01T00:00:00+00:00"
 }

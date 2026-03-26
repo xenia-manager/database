@@ -1,38 +1,38 @@
 {
-  "Name": "Angle of Attack",
-  "DatabaseID": "467091",
-  "ReleaseDate": "2010-11-15T00:00:00+00:00",
-  "Overview": "Angle of Attack is similar to the XBLA game Geometry Wars: Retro Evolved, with a bit of strategy added into the mix. The player controls a triangle-shaped ship, which must collect as many 'nodes' as possible by using collection droids to obtain them. But the player will have to defend them as they collect the nodes, as they don't have any weapons. There is a co operative game mode for up to four players to join forces and collect nodes, which can be played on a single Xbox 360.",
-  "Genres": "Shooter",
-  "Developer": "Fun Factory",
-  "Publisher": "Fun Factory",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "1a2a00e1-e877-4e04-9f7f-cf2519e6152a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3006344492",
+          "FileName": "1a2a00e1-e877-4e04-9f7f-cf2519e6152a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1a2a00e1-e877-4e04-9f7f-cf2519e6152a.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "c8e1f676-0b6d-42a0-b7c3-e68f64f2ba50.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3040429429",
+        "FileName": "7521525e-c5b6-4c6f-998d-0a1dff2e248d.jpg",
         "Region": "World",
-        "CRC32": "1171940607",
-        "URL": "http://images.launchbox-app.com/c8e1f676-0b6d-42a0-b7c3-e68f64f2ba50.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7521525e-c5b6-4c6f-998d-0a1dff2e248d.jpg"
       },
       {
-        "FileName": "7521525e-c5b6-4c6f-998d-0a1dff2e248d.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1171940607",
+        "FileName": "c8e1f676-0b6d-42a0-b7c3-e68f64f2ba50.jpg",
         "Region": "World",
-        "CRC32": "3040429429",
-        "URL": "http://images.launchbox-app.com/7521525e-c5b6-4c6f-998d-0a1dff2e248d.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c8e1f676-0b6d-42a0-b7c3-e68f64f2ba50.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467091",
+  "Developer": "Fun Factory",
+  "Genres": "Shooter",
+  "Name": "Angle of Attack",
+  "Overview": "Angle of Attack is similar to the XBLA game Geometry Wars: Retro Evolved, with a bit of strategy added into the mix. The player controls a triangle-shaped ship, which must collect as many 'nodes' as possible by using collection droids to obtain them. But the player will have to defend them as they collect the nodes, as they don't have any weapons. There is a co operative game mode for up to four players to join forces and collect nodes, which can be played on a single Xbox 360.",
+  "Publisher": "Fun Factory",
+  "ReleaseDate": "2010-11-15T00:00:00+00:00"
 }

@@ -1,65 +1,65 @@
 {
-  "Name": "Final Fight: Double Impact",
-  "DatabaseID": "15567",
-  "ReleaseDate": "2010-04-14T00:00:00+00:00",
-  "Overview": "Final Fight: Double Impact is a combined release of the arcade versions of Final Fight and Magic Sword. Both games have been optimized for HD, and allow for drop-in drop-out co-op for two players local or online.\n\nIn Final Fight, players must rescue Mayor Haggar's daughter from the street gang holding her for ransom. Playing as either Guy (a martial artist), Cody (a street brawler), or Haggar (a professional wrestler), the player(s) must beat waves of thugs and end-of-level bosses to find Jessica. Players can find and pick up temporary weapons like knives and steel pipes to use, as well as food items to repair their health. There are seven levels in all, and between some levels are minigames such as destroying a parked car or smashing panes of glass in a factory.\n\nIn Magic Sword, players climb a tower packed with monsters, with each level acting as a floor of the tower. The player uses swords and magic to defeat their foes, both of which can be upgraded with items found in treasure chests or after defeating bosses. During their climb, players can use keys to rescue A.I. controlled prisoners, who will fight alongside the players for a short time.",
-  "CommunityRating": "3.875",
-  "ESRB": "T - Teen",
-  "Genres": "Beat 'em Up",
-  "Developer": "Proper Games",
-  "Publisher": "Capcom",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_8ef4612a-09fc-4b6d-8838-a418fcf7aefb.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "557948736",
-        "URL": "http://images.launchbox-app.com/r2_8ef4612a-09fc-4b6d-8838-a418fcf7aefb.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_ffce32dd-d3a2-4e4a-aedb-36ba814581d6.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2113201973",
+        "FileName": "r2_ffce32dd-d3a2-4e4a-aedb-36ba814581d6.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_ffce32dd-d3a2-4e4a-aedb-36ba814581d6.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "557948736",
+        "FileName": "r2_8ef4612a-09fc-4b6d-8838-a418fcf7aefb.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_8ef4612a-09fc-4b6d-8838-a418fcf7aefb.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "1415154651",
           "FileName": "cc897277-9fa0-40ce-921e-ae2c5828e661.jpg",
           "Type": "Box - Front",
-          "CRC32": "1415154651",
           "URL": "http://images.launchbox-app.com/cc897277-9fa0-40ce-921e-ae2c5828e661.jpg"
         },
         {
-          "FileName": "r2_3fb9e60a-9e4b-43a3-89a3-fa6d4d7f9f11.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "433318768",
+          "FileName": "r2_3fb9e60a-9e4b-43a3-89a3-fa6d4d7f9f11.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_3fb9e60a-9e4b-43a3-89a3-fa6d4d7f9f11.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "c40ad405-674d-4d98-bcb1-c9f67b6d34a9.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "France",
-        "CRC32": "3631995553",
-        "URL": "http://images.launchbox-app.com/c40ad405-674d-4d98-bcb1-c9f67b6d34a9.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "528425962",
         "FileName": "c2f74ae5-2a51-41c4-b51e-942ff74cc831.png",
         "Type": "Clear Logo",
-        "CRC32": "528425962",
         "URL": "http://images.launchbox-app.com/c2f74ae5-2a51-41c4-b51e-942ff74cc831.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3631995553",
+        "FileName": "c40ad405-674d-4d98-bcb1-c9f67b6d34a9.jpg",
+        "Region": "France",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/c40ad405-674d-4d98-bcb1-c9f67b6d34a9.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.875",
+  "DatabaseID": "15567",
+  "Developer": "Proper Games",
+  "ESRB": "T - Teen",
+  "Genres": "Beat 'em Up",
+  "Name": "Final Fight: Double Impact",
+  "Overview": "Final Fight: Double Impact is a combined release of the arcade versions of Final Fight and Magic Sword. Both games have been optimized for HD, and allow for drop-in drop-out co-op for two players local or online.\n\nIn Final Fight, players must rescue Mayor Haggar's daughter from the street gang holding her for ransom. Playing as either Guy (a martial artist), Cody (a street brawler), or Haggar (a professional wrestler), the player(s) must beat waves of thugs and end-of-level bosses to find Jessica. Players can find and pick up temporary weapons like knives and steel pipes to use, as well as food items to repair their health. There are seven levels in all, and between some levels are minigames such as destroying a parked car or smashing panes of glass in a factory.\n\nIn Magic Sword, players climb a tower packed with monsters, with each level acting as a floor of the tower. The player uses swords and magic to defeat their foes, both of which can be upgraded with items found in treasure chests or after defeating bosses. During their climb, players can use keys to rescue A.I. controlled prisoners, who will fight alongside the players for a short time.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2010-04-14T00:00:00+00:00"
 }

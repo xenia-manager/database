@@ -1,105 +1,105 @@
 {
-  "Name": "Dungeons & Dragons: Daggerdale",
-  "DatabaseID": "129024",
-  "ReleaseDate": "2011-05-25T00:00:00+00:00",
-  "Overview": "Daggerdale features third person real-time tactics combat, questing, character development, and exploration.\nTwo modes, campaign and freeplay, have been announced. Single and multiplayer modes also exist for the game, including split-screen multiplayer for up to four players. While some gameplay elements were borrowed from Baldur's Gate: Dark Alliance, developers stated that this was only the linear part of the game and that the gameplay was inspired from Dungeons & Dragons: Heroes.\n\nThe game makes use of the four main D&D character classes: clerics, rogues, wizards and fighters, as well as the four main races, dwarves, elves, halflings and humans. Some customization of the characters is provided as a player earns experience in the game, and character progression advances as per a limited set of 4th Edition Dungeons and Dragons rules for both class and race. Further customization is achieved through loot and equipment drops. Character level advancement is currently limited to level 10.",
-  "CommunityRating": "3.58333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%3A_Daggerdale",
-  "ESRB": "T - Teen",
-  "Genres": "Action",
-  "Developer": "Bedlam Games",
-  "Publisher": "Atari",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "4e043e67-74e0-4ff9-b398-d76acb105046.png",
-        "Type": "Banner",
-        "CRC32": "2823208744",
-        "URL": "http://images.launchbox-app.com/4e043e67-74e0-4ff9-b398-d76acb105046.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3420697190",
         "FileName": "27ebf654-8c46-4862-9acf-6507af4fc4d0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3420697190",
         "URL": "http://images.launchbox-app.com/27ebf654-8c46-4862-9acf-6507af4fc4d0.jpg"
       },
       {
-        "FileName": "r2_014d4c33-0d1a-4e13-a4bc-b2adc809ecce.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3962860090",
+        "FileName": "r2_014d4c33-0d1a-4e13-a4bc-b2adc809ecce.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_014d4c33-0d1a-4e13-a4bc-b2adc809ecce.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2823208744",
+        "FileName": "4e043e67-74e0-4ff9-b398-d76acb105046.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/4e043e67-74e0-4ff9-b398-d76acb105046.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_f9c61543-e019-4c3f-bfef-e63bad90ed1d.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "374289607",
+          "FileName": "r2_f9c61543-e019-4c3f-bfef-e63bad90ed1d.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_f9c61543-e019-4c3f-bfef-e63bad90ed1d.png"
         }
       ],
       "Front": [
         {
-          "FileName": "485435ff-7003-4c94-a20d-6637176a211a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3652448704",
+          "FileName": "485435ff-7003-4c94-a20d-6637176a211a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/485435ff-7003-4c94-a20d-6637176a211a.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "88353b52-d225-4d29-8fc5-4af46ec46a3e.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "1892019119",
-        "URL": "http://images.launchbox-app.com/88353b52-d225-4d29-8fc5-4af46ec46a3e.jpg"
-      },
-      {
-        "FileName": "4c23c6d4-9c59-447c-90dc-70f8ac22b0e8.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1627020875",
-        "URL": "http://images.launchbox-app.com/4c23c6d4-9c59-447c-90dc-70f8ac22b0e8.jpg"
-      },
-      {
-        "FileName": "cc19e4bd-1ec3-4cde-be97-58006ae78f82.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3045017255",
-        "URL": "http://images.launchbox-app.com/cc19e4bd-1ec3-4cde-be97-58006ae78f82.jpg"
-      },
-      {
-        "FileName": "28d860e9-38a7-4562-aedb-e729fe0248ea.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "420961886",
-        "URL": "http://images.launchbox-app.com/28d860e9-38a7-4562-aedb-e729fe0248ea.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "1232716461",
         "FileName": "eea0c524-7f5b-4453-9515-1b9ba419a2df.png",
         "Type": "Clear Logo",
-        "CRC32": "1232716461",
         "URL": "http://images.launchbox-app.com/eea0c524-7f5b-4453-9515-1b9ba419a2df.png"
       },
       {
-        "FileName": "r2_3cfd5336-4737-44a8-a308-3673e2e8f87b.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2761307231",
+        "FileName": "r2_3cfd5336-4737-44a8-a308-3673e2e8f87b.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_3cfd5336-4737-44a8-a308-3673e2e8f87b.png"
       },
       {
-        "FileName": "r2_d8b4d31c-126e-4a7e-92df-8624a022953d.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3154362360",
+        "FileName": "r2_d8b4d31c-126e-4a7e-92df-8624a022953d.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_d8b4d31c-126e-4a7e-92df-8624a022953d.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1892019119",
+        "FileName": "88353b52-d225-4d29-8fc5-4af46ec46a3e.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/88353b52-d225-4d29-8fc5-4af46ec46a3e.jpg"
+      },
+      {
+        "CRC32": "1627020875",
+        "FileName": "4c23c6d4-9c59-447c-90dc-70f8ac22b0e8.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/4c23c6d4-9c59-447c-90dc-70f8ac22b0e8.jpg"
+      },
+      {
+        "CRC32": "420961886",
+        "FileName": "28d860e9-38a7-4562-aedb-e729fe0248ea.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/28d860e9-38a7-4562-aedb-e729fe0248ea.jpg"
+      },
+      {
+        "CRC32": "3045017255",
+        "FileName": "cc19e4bd-1ec3-4cde-be97-58006ae78f82.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/cc19e4bd-1ec3-4cde-be97-58006ae78f82.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.58333333333333",
+  "DatabaseID": "129024",
+  "Developer": "Bedlam Games",
+  "ESRB": "T - Teen",
+  "Genres": "Action",
+  "Name": "Dungeons & Dragons: Daggerdale",
+  "Overview": "Daggerdale features third person real-time tactics combat, questing, character development, and exploration.\nTwo modes, campaign and freeplay, have been announced. Single and multiplayer modes also exist for the game, including split-screen multiplayer for up to four players. While some gameplay elements were borrowed from Baldur's Gate: Dark Alliance, developers stated that this was only the linear part of the game and that the gameplay was inspired from Dungeons & Dragons: Heroes.\n\nThe game makes use of the four main D&D character classes: clerics, rogues, wizards and fighters, as well as the four main races, dwarves, elves, halflings and humans. Some customization of the characters is provided as a player earns experience in the game, and character progression advances as per a limited set of 4th Edition Dungeons and Dragons rules for both class and race. Further customization is achieved through loot and equipment drops. Character level advancement is currently limited to level 10.",
+  "Publisher": "Atari",
+  "ReleaseDate": "2011-05-25T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%3A_Daggerdale"
 }

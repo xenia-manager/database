@@ -1,97 +1,97 @@
 {
-  "Name": "Ketsui: Kizuna Jigoku Tachi Extra",
-  "DatabaseID": "203852",
-  "ReleaseDate": "2013-07-25T00:00:00+00:00",
-  "Overview": "In the year 2054, chaos spreads over the globe as global warming finally exacts its toll on Earth: the ice caps quickly melt, causing a tremendous series of cataclysms and for entire nations to disappear under the sea. The near apocalyptic setting and the quickly depleting resources of the remaining dry lands force nations into constant war, eventually culminating into World War III; all efforts by the United Nations to cease hostilities are thwarted by a seemingly endless supply of technologically advanced weaponry being sold to each side of every conflict. After investigation, the source is tracked back to EVAC Industry co. ltd, an arms dealer who's been reaping tremendously high profits from the situation, at times directly intervening to fuel the hostilities with utter disregard towards human lives; any attempt to negotiate with the board of directors has utterly failed, the earnings having proven high enough for the company to build its own cities, shipyards, defensive emplacements and even a private airport, to the point of assembling its own army of extremely well equipped mercenary troops.\n\nBeing unable to enter the fray officially, the UN sets up a strike team of four pilots, each pair given one of two advanced helicopters: the plan is to simulate a rebellion within EVAC forces and bring down the company's headquarters, where research on a series of tremendous warmachines is taking place; for this reason, the planes both bear EVAC insignia and callsigns and are built according to stolen prototype blueprints - by no means, in success or failure, must the operation be traced back to the United Nations. However, for all this secrecy to be effective, even in victories the assault choppers will have to be destroyed... and the pilots killed. However, to compensate for their sacrifice, the UN shall fulfill one of their wishes, no matter what it is. And this, on board a stolen EVAC carrier plane, is how the story begins...",
-  "CommunityRating": "4.16666666666667",
-  "Genres": "Shooter",
-  "Developer": "Tachyon",
-  "Publisher": "5pb.",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_653a3536-9098-458d-a31e-68da1d66ea76.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "3082049111",
-        "URL": "http://images.launchbox-app.com/r2_653a3536-9098-458d-a31e-68da1d66ea76.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_80a4b4f7-0acd-4a1e-bd1d-16a961aff512.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "1174472877",
-        "URL": "http://images.launchbox-app.com/r2_80a4b4f7-0acd-4a1e-bd1d-16a961aff512.jpg"
-      },
-      {
-        "FileName": "r2_04038b86-dec0-48f1-8eb2-1628950de68d.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1845931808",
+        "FileName": "r2_04038b86-dec0-48f1-8eb2-1628950de68d.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_04038b86-dec0-48f1-8eb2-1628950de68d.jpg"
       },
       {
-        "FileName": "r2_e8b25648-0924-494c-b3ab-93b5a471b446.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1174472877",
+        "FileName": "r2_80a4b4f7-0acd-4a1e-bd1d-16a961aff512.jpg",
         "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_80a4b4f7-0acd-4a1e-bd1d-16a961aff512.jpg"
+      },
+      {
         "CRC32": "3026322403",
+        "FileName": "r2_e8b25648-0924-494c-b3ab-93b5a471b446.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_e8b25648-0924-494c-b3ab-93b5a471b446.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3082049111",
+        "FileName": "r2_653a3536-9098-458d-a31e-68da1d66ea76.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_653a3536-9098-458d-a31e-68da1d66ea76.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "7a1fc451-bdaf-49a9-8469-afe019fe3e90.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "247212126",
+          "FileName": "7a1fc451-bdaf-49a9-8469-afe019fe3e90.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/7a1fc451-bdaf-49a9-8469-afe019fe3e90.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "52938d96-7d48-4750-87f0-e3e8fccf5fbc.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "1651436231",
+          "FileName": "52938d96-7d48-4750-87f0-e3e8fccf5fbc.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/52938d96-7d48-4750-87f0-e3e8fccf5fbc.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "095d36b6-87d2-44cf-b640-55511e1541e9.jpg",
-          "Type": "Box - Spine",
-          "Region": "Japan",
           "CRC32": "2338225768",
+          "FileName": "095d36b6-87d2-44cf-b640-55511e1541e9.jpg",
+          "Region": "Japan",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/095d36b6-87d2-44cf-b640-55511e1541e9.jpg"
         },
         {
-          "FileName": "5d2ab131-e54c-4728-8fca-fac6c29fe265.png",
-          "Type": "Box - Spine",
-          "Region": "Japan",
           "CRC32": "464118950",
+          "FileName": "5d2ab131-e54c-4728-8fca-fac6c29fe265.png",
+          "Region": "Japan",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/5d2ab131-e54c-4728-8fca-fac6c29fe265.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "1dbdf706-5964-4d82-af59-1e7c5f64e4e7.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2468615567",
-        "URL": "http://images.launchbox-app.com/1dbdf706-5964-4d82-af59-1e7c5f64e4e7.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "1f4b1457-42a3-4daa-8375-cb7f23aa9739.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "464118950",
+        "FileName": "1f4b1457-42a3-4daa-8375-cb7f23aa9739.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/1f4b1457-42a3-4daa-8375-cb7f23aa9739.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2468615567",
+        "FileName": "1dbdf706-5964-4d82-af59-1e7c5f64e4e7.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/1dbdf706-5964-4d82-af59-1e7c5f64e4e7.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.16666666666667",
+  "DatabaseID": "203852",
+  "Developer": "Tachyon",
+  "Genres": "Shooter",
+  "Name": "Ketsui: Kizuna Jigoku Tachi Extra",
+  "Overview": "In the year 2054, chaos spreads over the globe as global warming finally exacts its toll on Earth: the ice caps quickly melt, causing a tremendous series of cataclysms and for entire nations to disappear under the sea. The near apocalyptic setting and the quickly depleting resources of the remaining dry lands force nations into constant war, eventually culminating into World War III; all efforts by the United Nations to cease hostilities are thwarted by a seemingly endless supply of technologically advanced weaponry being sold to each side of every conflict. After investigation, the source is tracked back to EVAC Industry co. ltd, an arms dealer who's been reaping tremendously high profits from the situation, at times directly intervening to fuel the hostilities with utter disregard towards human lives; any attempt to negotiate with the board of directors has utterly failed, the earnings having proven high enough for the company to build its own cities, shipyards, defensive emplacements and even a private airport, to the point of assembling its own army of extremely well equipped mercenary troops.\n\nBeing unable to enter the fray officially, the UN sets up a strike team of four pilots, each pair given one of two advanced helicopters: the plan is to simulate a rebellion within EVAC forces and bring down the company's headquarters, where research on a series of tremendous warmachines is taking place; for this reason, the planes both bear EVAC insignia and callsigns and are built according to stolen prototype blueprints - by no means, in success or failure, must the operation be traced back to the United Nations. However, for all this secrecy to be effective, even in victories the assault choppers will have to be destroyed... and the pilots killed. However, to compensate for their sacrifice, the UN shall fulfill one of their wishes, no matter what it is. And this, on board a stolen EVAC carrier plane, is how the story begins...",
+  "Publisher": "5pb.",
+  "ReleaseDate": "2013-07-25T00:00:00+00:00"
 }

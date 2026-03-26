@@ -1,169 +1,169 @@
 {
-  "Name": "Call of Duty 2",
-  "DatabaseID": "7158",
-  "ReleaseDate": "2005-10-25T00:00:00+00:00",
-  "Overview": "Call of Duty 2 redefines the cinematic intensity and chaos of battle as seen through the eyes of ordinary soldiers fighting together in epic WWII conflicts. The sequel to 2003's Call of Duty, winner of over 80 Game of the Year awards, Call of Duty 2 offers more immense, more intense, more realistic battles than ever before, thanks to the stunning visuals of the new COD2 engine. \n\nThe #1 WWII shooter development team returns with an amazing new experience. All-new, unprecedented enhancements from stunningly realistic graphics to seamless gameplay, thanks to the revolutionary COD2 engine, groundbreaking AI, and choice-based gameplay innovations. Beautifully rendered snow, rain, fog, and smoke, combined with dynamic lighting and shadows, make this the most intense WWII shooter yet. \n\nCall of Duty 2 brings you bigger battles, with more tanks, troops, and explosions on-screen, and bigger scope, with a wide range of locales and environments across the European Theater. Fight \"The Desert Fox\" across the scorching sands of North Africa as wave upon wave of tanks clash in the desert. Use rocket-propelled grappling hooks alongside your Army Ranger squad to storm and scale the cliffs of Pointe du Hoc against a relentless German counter assault, and slog through urban chaos as a tank hunter in war-torn Russia.",
-  "VideoURL": "https://www.youtube.com/watch?v=Yh9V77xd8o8",
-  "CommunityRating": "3.70833333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty_2",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "Infinity Ward",
-  "Publisher": "Activision",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "58be4c9d-f2c8-45c0-a251-ef0544d5cb83.jpg",
-        "Type": "Banner",
-        "CRC32": "2419966455",
-        "URL": "http://images.launchbox-app.com/58be4c9d-f2c8-45c0-a251-ef0544d5cb83.jpg"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1340829464",
         "FileName": "8427bace-6f2a-4514-a710-a6a440a177fc.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1340829464",
         "URL": "http://images.launchbox-app.com/8427bace-6f2a-4514-a710-a6a440a177fc.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2419966455",
+        "FileName": "58be4c9d-f2c8-45c0-a251-ef0544d5cb83.jpg",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/58be4c9d-f2c8-45c0-a251-ef0544d5cb83.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "299312bb-d7ab-4194-84f9-a6a96d7d2e36.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "1487909796",
+          "FileName": "299312bb-d7ab-4194-84f9-a6a96d7d2e36.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/299312bb-d7ab-4194-84f9-a6a96d7d2e36.png"
         },
         {
-          "FileName": "r2_d5966db8-319d-4ef5-801f-14db9a23653c.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "831900993",
+          "FileName": "r2_d5966db8-319d-4ef5-801f-14db9a23653c.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_d5966db8-319d-4ef5-801f-14db9a23653c.png"
         }
       ],
       "Back": [
         {
-          "FileName": "981977bc-bb69-47ae-9f85-2edc4aed6496.png",
-          "Type": "Box - Back",
-          "Region": "Korea",
           "CRC32": "340780820",
+          "FileName": "981977bc-bb69-47ae-9f85-2edc4aed6496.png",
+          "Region": "Korea",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/981977bc-bb69-47ae-9f85-2edc4aed6496.png"
         },
         {
-          "FileName": "a697b706-6ad3-4b57-87c3-bdc116f799c6.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "333586969",
+          "FileName": "a697b706-6ad3-4b57-87c3-bdc116f799c6.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/a697b706-6ad3-4b57-87c3-bdc116f799c6.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_bc29dedf-7fc6-4189-9146-85f5f3c3efb3.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "667295392",
-          "URL": "http://images.launchbox-app.com/r2_bc29dedf-7fc6-4189-9146-85f5f3c3efb3.jpg"
-        },
-        {
-          "FileName": "r2_47b92d51-7859-4872-8278-445494cd3245.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2707084044",
+          "FileName": "r2_47b92d51-7859-4872-8278-445494cd3245.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_47b92d51-7859-4872-8278-445494cd3245.jpg"
         },
         {
-          "FileName": "e1391e80-f8de-446e-9732-0b712ab8172c.png",
+          "CRC32": "667295392",
+          "FileName": "r2_bc29dedf-7fc6-4189-9146-85f5f3c3efb3.jpg",
+          "Region": "Germany",
           "Type": "Box - Front",
-          "Region": "Korea",
+          "URL": "http://images.launchbox-app.com/r2_bc29dedf-7fc6-4189-9146-85f5f3c3efb3.jpg"
+        },
+        {
           "CRC32": "2423465354",
+          "FileName": "e1391e80-f8de-446e-9732-0b712ab8172c.png",
+          "Region": "Korea",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e1391e80-f8de-446e-9732-0b712ab8172c.png"
         },
         {
-          "FileName": "26fc863a-4d9c-409f-83b6-6cc38ef45bf5.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "325458297",
+          "FileName": "26fc863a-4d9c-409f-83b6-6cc38ef45bf5.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/26fc863a-4d9c-409f-83b6-6cc38ef45bf5.jpg"
         },
         {
-          "FileName": "51501e6c-92fd-4670-8a21-d15573c856a0.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "992038265",
+          "FileName": "51501e6c-92fd-4670-8a21-d15573c856a0.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/51501e6c-92fd-4670-8a21-d15573c856a0.jpg"
         },
         {
-          "FileName": "19631524-91f0-4091-8f37-c12090a7c7d4.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1122378555",
+          "FileName": "19631524-91f0-4091-8f37-c12090a7c7d4.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/19631524-91f0-4091-8f37-c12090a7c7d4.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "d3b846c5-6de4-4b43-ac8f-378d9f6d0245.png",
-          "Type": "Box - Spine",
-          "Region": "Korea",
           "CRC32": "4200754786",
+          "FileName": "d3b846c5-6de4-4b43-ac8f-378d9f6d0245.png",
+          "Region": "Korea",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/d3b846c5-6de4-4b43-ac8f-378d9f6d0245.png"
         },
         {
-          "FileName": "e42083b2-2c40-45f9-82aa-d0527444b5a6.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "353720641",
+          "FileName": "e42083b2-2c40-45f9-82aa-d0527444b5a6.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/e42083b2-2c40-45f9-82aa-d0527444b5a6.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "ba858148-83ec-4f80-9a2a-04698ff899a0.png",
-        "Type": "Disc",
-        "Region": "Korea",
         "CRC32": "3409130737",
+        "FileName": "ba858148-83ec-4f80-9a2a-04698ff899a0.png",
+        "Region": "Korea",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/ba858148-83ec-4f80-9a2a-04698ff899a0.png"
       },
       {
-        "FileName": "b3b08093-92a2-43f8-bb07-9698fffa94a8.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "727262584",
+        "FileName": "b3b08093-92a2-43f8-bb07-9698fffa94a8.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/b3b08093-92a2-43f8-bb07-9698fffa94a8.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "b0bd3dff-1d9b-4989-834f-9582880198a6.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "930708597",
-        "URL": "http://images.launchbox-app.com/b0bd3dff-1d9b-4989-834f-9582880198a6.jpg"
-      },
-      {
-        "FileName": "e81e8467-17e8-481e-aeeb-0c9f9da9b20c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1419808977",
-        "URL": "http://images.launchbox-app.com/e81e8467-17e8-481e-aeeb-0c9f9da9b20c.jpg"
-      },
-      {
-        "FileName": "f7518f90-0e04-4a91-bdb0-cd36015c3678.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3803453367",
-        "URL": "http://images.launchbox-app.com/f7518f90-0e04-4a91-bdb0-cd36015c3678.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "983194819",
         "FileName": "faad10df-b92e-43ac-8bb6-7a5575c6af00.png",
         "Type": "Clear Logo",
-        "CRC32": "983194819",
         "URL": "http://images.launchbox-app.com/faad10df-b92e-43ac-8bb6-7a5575c6af00.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "930708597",
+        "FileName": "b0bd3dff-1d9b-4989-834f-9582880198a6.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/b0bd3dff-1d9b-4989-834f-9582880198a6.jpg"
+      },
+      {
+        "CRC32": "1419808977",
+        "FileName": "e81e8467-17e8-481e-aeeb-0c9f9da9b20c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/e81e8467-17e8-481e-aeeb-0c9f9da9b20c.jpg"
+      },
+      {
+        "CRC32": "3803453367",
+        "FileName": "f7518f90-0e04-4a91-bdb0-cd36015c3678.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f7518f90-0e04-4a91-bdb0-cd36015c3678.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.70833333333333",
+  "DatabaseID": "7158",
+  "Developer": "Infinity Ward",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Call of Duty 2",
+  "Overview": "Call of Duty 2 redefines the cinematic intensity and chaos of battle as seen through the eyes of ordinary soldiers fighting together in epic WWII conflicts. The sequel to 2003's Call of Duty, winner of over 80 Game of the Year awards, Call of Duty 2 offers more immense, more intense, more realistic battles than ever before, thanks to the stunning visuals of the new COD2 engine. \n\nThe #1 WWII shooter development team returns with an amazing new experience. All-new, unprecedented enhancements from stunningly realistic graphics to seamless gameplay, thanks to the revolutionary COD2 engine, groundbreaking AI, and choice-based gameplay innovations. Beautifully rendered snow, rain, fog, and smoke, combined with dynamic lighting and shadows, make this the most intense WWII shooter yet. \n\nCall of Duty 2 brings you bigger battles, with more tanks, troops, and explosions on-screen, and bigger scope, with a wide range of locales and environments across the European Theater. Fight \"The Desert Fox\" across the scorching sands of North Africa as wave upon wave of tanks clash in the desert. Use rocket-propelled grappling hooks alongside your Army Ranger squad to storm and scale the cliffs of Pointe du Hoc against a relentless German counter assault, and slog through urban chaos as a tank hunter in war-torn Russia.",
+  "Publisher": "Activision",
+  "ReleaseDate": "2005-10-25T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=Yh9V77xd8o8",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty_2"
 }

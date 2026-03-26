@@ -1,58 +1,58 @@
 {
-  "Name": "Dungeons & Dragons: Chronicles of Mystara",
-  "DatabaseID": "17296",
-  "ReleaseDate": "2013-06-18T00:00:00+00:00",
-  "Overview": "As the first modern role playing game, the Dungeons & Dragons franchise from Wizards of the Coast gave birth to numerous products including two arcade titles from Capcom, Dungeons & Dragons: Tower of Doom and its sequel Dungeons & Dragons: Shadow over Mystara. Both these titles are now being re-released with updated HD graphics and a wealth of other enhancements as a definitive double pack entitled Dungeons & Dragons: Chronicles of Mystara.",
-  "CommunityRating": "3.96428571428571",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%3A_Chronicles_of_Mystara",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting; Role-Playing",
-  "Developer": "Capcom",
-  "Publisher": "Capcom",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_5ded1cb0-23b3-47b1-8f6f-de0589d8af97.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1130696550",
-        "URL": "http://images.launchbox-app.com/r2_5ded1cb0-23b3-47b1-8f6f-de0589d8af97.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_bda6f9ce-db39-4ff7-b8a7-d5aa25319af7.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3306528481",
+        "FileName": "r2_bda6f9ce-db39-4ff7-b8a7-d5aa25319af7.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_bda6f9ce-db39-4ff7-b8a7-d5aa25319af7.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1130696550",
+        "FileName": "r2_5ded1cb0-23b3-47b1-8f6f-de0589d8af97.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_5ded1cb0-23b3-47b1-8f6f-de0589d8af97.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "8a746458-d62f-43b2-8fe0-8696caf4ab1a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3848844112",
+          "FileName": "8a746458-d62f-43b2-8fe0-8696caf4ab1a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8a746458-d62f-43b2-8fe0-8696caf4ab1a.jpg"
         },
         {
-          "FileName": "r2_01542945-4c7f-4554-9903-9cb8858b261b.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2917677429",
+          "FileName": "r2_01542945-4c7f-4554-9903-9cb8858b261b.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_01542945-4c7f-4554-9903-9cb8858b261b.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "2092114516",
         "FileName": "9a92918c-686d-420d-bdbf-3ba4ec2787f3.png",
         "Type": "Clear Logo",
-        "CRC32": "2092114516",
         "URL": "http://images.launchbox-app.com/9a92918c-686d-420d-bdbf-3ba4ec2787f3.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.96428571428571",
+  "DatabaseID": "17296",
+  "Developer": "Capcom",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting; Role-Playing",
+  "Name": "Dungeons & Dragons: Chronicles of Mystara",
+  "Overview": "As the first modern role playing game, the Dungeons & Dragons franchise from Wizards of the Coast gave birth to numerous products including two arcade titles from Capcom, Dungeons & Dragons: Tower of Doom and its sequel Dungeons & Dragons: Shadow over Mystara. Both these titles are now being re-released with updated HD graphics and a wealth of other enhancements as a definitive double pack entitled Dungeons & Dragons: Chronicles of Mystara.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2013-06-18T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%3A_Chronicles_of_Mystara"
 }

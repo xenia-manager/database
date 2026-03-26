@@ -1,100 +1,100 @@
 {
-  "Name": "Apache: Air Assault",
-  "DatabaseID": "12589",
-  "ReleaseDate": "2010-11-16T00:00:00+00:00",
-  "Overview": "Apache: Air Assault features more than 16 multi-stage missions involving air and ground strike operations off the coast of Africa, the mountains of the Middle East and the jungles of Central America, each meticulously created using high resolution map data from real-world satellite photography. Apache helicopters are some of the most sophisticated combat aircraft on the planet - the player gets to fly multiple variations of them, each with their own extreme firepower and highly-detailed damage modeling.",
-  "VideoURL": "https://www.youtube.com/watch?v=HnPr2V0sqTA",
-  "CommunityRating": "4.33333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Apache:_Air_Assault",
-  "ESRB": "T - Teen",
-  "Genres": "Flight Simulator",
-  "Developer": "Gaijin Entertainment",
-  "Publisher": "Activision Publishing",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_9d1d82a6-5e61-4bbb-a09c-26e6f48fd4dc.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1711709987",
-        "URL": "http://images.launchbox-app.com/r2_9d1d82a6-5e61-4bbb-a09c-26e6f48fd4dc.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_78693c1c-0fc9-4800-9f41-ffa56c33ccd8.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3748723152",
+        "FileName": "r2_78693c1c-0fc9-4800-9f41-ffa56c33ccd8.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_78693c1c-0fc9-4800-9f41-ffa56c33ccd8.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1711709987",
+        "FileName": "r2_9d1d82a6-5e61-4bbb-a09c-26e6f48fd4dc.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_9d1d82a6-5e61-4bbb-a09c-26e6f48fd4dc.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "6cea63f7-8392-40ae-99eb-251875c7a486.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "795099541",
+          "FileName": "6cea63f7-8392-40ae-99eb-251875c7a486.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/6cea63f7-8392-40ae-99eb-251875c7a486.png"
         },
         {
-          "FileName": "r2_97e36b8d-4ba2-4ba8-97bc-d952eb35f7d0.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3479848296",
+          "FileName": "r2_97e36b8d-4ba2-4ba8-97bc-d952eb35f7d0.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_97e36b8d-4ba2-4ba8-97bc-d952eb35f7d0.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_cf0d09ca-a0f4-48d4-a1b4-b6f594662ea6.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3215814914",
+          "FileName": "r2_cf0d09ca-a0f4-48d4-a1b4-b6f594662ea6.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_cf0d09ca-a0f4-48d4-a1b4-b6f594662ea6.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a6cc432d-3260-4870-8733-c5323569c0ee.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1576379332",
+          "FileName": "r2_a6cc432d-3260-4870-8733-c5323569c0ee.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a6cc432d-3260-4870-8733-c5323569c0ee.jpg"
         },
         {
-          "FileName": "ead27815-1371-4e06-bacf-1aa0efbc3179.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1331385486",
+          "FileName": "ead27815-1371-4e06-bacf-1aa0efbc3179.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ead27815-1371-4e06-bacf-1aa0efbc3179.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "28c7db3d-b08f-4fee-acab-13eb13fc07e3.png",
-        "Type": "Disc",
-        "Region": "Germany",
         "CRC32": "3651495437",
+        "FileName": "28c7db3d-b08f-4fee-acab-13eb13fc07e3.png",
+        "Region": "Germany",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/28c7db3d-b08f-4fee-acab-13eb13fc07e3.png"
       },
       {
-        "FileName": "6d4b7cdf-fe51-4b1c-9b90-15a48068d258.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "4172916155",
+        "FileName": "6d4b7cdf-fe51-4b1c-9b90-15a48068d258.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/6d4b7cdf-fe51-4b1c-9b90-15a48068d258.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1950742609",
         "FileName": "45543c76-b518-4cda-81bb-bdaa510664ef.png",
         "Type": "Clear Logo",
-        "CRC32": "1950742609",
         "URL": "http://images.launchbox-app.com/45543c76-b518-4cda-81bb-bdaa510664ef.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.33333333333333",
+  "DatabaseID": "12589",
+  "Developer": "Gaijin Entertainment",
+  "ESRB": "T - Teen",
+  "Genres": "Flight Simulator",
+  "Name": "Apache: Air Assault",
+  "Overview": "Apache: Air Assault features more than 16 multi-stage missions involving air and ground strike operations off the coast of Africa, the mountains of the Middle East and the jungles of Central America, each meticulously created using high resolution map data from real-world satellite photography. Apache helicopters are some of the most sophisticated combat aircraft on the planet - the player gets to fly multiple variations of them, each with their own extreme firepower and highly-detailed damage modeling.",
+  "Publisher": "Activision Publishing",
+  "ReleaseDate": "2010-11-16T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=HnPr2V0sqTA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Apache:_Air_Assault"
 }

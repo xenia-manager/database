@@ -1,136 +1,136 @@
 {
-  "Name": "Blood Bowl",
-  "DatabaseID": "15633",
-  "ReleaseDate": "2009-11-27T00:00:00+00:00",
-  "Overview": "Blood Bowl is an official video game adaptation of the table-top game of the same name but is not a remake of the first Blood Bowl. Instead the game is the in-official successor to Chaos League: Sudden Death and builds upon its features.\n\nBased on the Living Rulebook 5.0 ruleset, Blood Bowl is a dark fantasy version of American Football with 11 players per team beating each other to death in order to get a touchdown. The game features eighth races with different strength and weaknesses including the fast but weak Goblins, the flexible but mediocre Humans and the powerful but slow Orcs. The player can either play fast games with pre-defined teams or enter the heart of the game: the campaign. In the campaign the player creates a new team from scratch trying to bring it up to the top of the ranking of the current Blood Bowl-season. To accomplish this goal the player has to buy players with different attributes and skills, close sponsor contracts to earn additional money and decide how to influence the upcoming game by bribing the referee, buying potions for his team and other illegal activities. His players also gain experience points during a match especially for scoring touchdowns or by downing enemy players. Once they gain a level up, they can learn an additional skill like blocking.\n\nOnce the team stands, the game begins with the option to play either in real-time- or turn-based-mode. The turn-based-mode is very close to the table-top game with 8 rounds per half-time, turnover-events and manual dice rolls. Although the real-time-mode also features dice rolls, they are done behind the players backs and the outcome of each action is determined by one or more skill checks. The game grid is also still divided into squares but these are invisible now. The most important difference is that in real-time-mode the player can give orders to more than one player at all times and other elements like turnover-events are removed. If the player still needs time to think about his moves, he can activate the concentration mode which pauses the game and allows him to give orders without pressure.\n\nThe game features several multiplayer-modes including hot seat in which two players can play on one machine in turn-based-mode against each other and worldwide open and private online-leagues for which the players are able to create up to 32 teams.",
-  "CommunityRating": "3.83333333333333",
-  "ESRB": "T - Teen",
-  "Genres": "Strategy",
-  "Developer": "Cyanide",
-  "Publisher": "Focus Home Interactive",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "4e3e7dfc-5ffe-4a04-8751-f0b1e3153fff.png",
-        "Type": "Banner",
-        "CRC32": "2771569009",
-        "URL": "http://images.launchbox-app.com/4e3e7dfc-5ffe-4a04-8751-f0b1e3153fff.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "275474456",
         "FileName": "7f422e52-0640-487e-8b20-83386a6af053.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "275474456",
         "URL": "http://images.launchbox-app.com/7f422e52-0640-487e-8b20-83386a6af053.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2771569009",
+        "FileName": "4e3e7dfc-5ffe-4a04-8751-f0b1e3153fff.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/4e3e7dfc-5ffe-4a04-8751-f0b1e3153fff.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_c49a6204-62a6-4ab4-96c6-e5854a35b87c.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3897361158",
+          "FileName": "r2_c49a6204-62a6-4ab4-96c6-e5854a35b87c.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_c49a6204-62a6-4ab4-96c6-e5854a35b87c.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_7539b7d8-c1d6-436f-afd2-13c3baeedee7.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1340147403",
+          "FileName": "r2_7539b7d8-c1d6-436f-afd2-13c3baeedee7.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_7539b7d8-c1d6-436f-afd2-13c3baeedee7.jpg"
         },
         {
-          "FileName": "49da70b1-8d29-472a-b17b-3b33fa8b188a.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "4160424850",
+          "FileName": "49da70b1-8d29-472a-b17b-3b33fa8b188a.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/49da70b1-8d29-472a-b17b-3b33fa8b188a.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "1916518281",
           "FileName": "8c9ecb06-a9e4-4f08-97e7-f20220f8706c.jpg",
           "Type": "Box - Front",
-          "CRC32": "1916518281",
           "URL": "http://images.launchbox-app.com/8c9ecb06-a9e4-4f08-97e7-f20220f8706c.jpg"
         },
         {
-          "FileName": "r2_961a376e-7f9f-470d-89fe-e7a5226e498b.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "3552133601",
+          "FileName": "r2_961a376e-7f9f-470d-89fe-e7a5226e498b.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_961a376e-7f9f-470d-89fe-e7a5226e498b.jpg"
         },
         {
-          "FileName": "869f0b9b-3fdb-4660-b1ab-d9baf1951902.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2318042623",
+          "FileName": "869f0b9b-3fdb-4660-b1ab-d9baf1951902.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/869f0b9b-3fdb-4660-b1ab-d9baf1951902.jpg"
         },
         {
+          "CRC32": "1501459289",
           "FileName": "db66e81f-fede-440f-a788-2f7b1295c4a6.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "1501459289",
           "URL": "http://images.launchbox-app.com/db66e81f-fede-440f-a788-2f7b1295c4a6.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "1999315d-0d46-4572-b1df-f470b3ab4f7d.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "4156424430",
+          "FileName": "1999315d-0d46-4572-b1df-f470b3ab4f7d.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/1999315d-0d46-4572-b1df-f470b3ab4f7d.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "3ab60320-83e7-4cf6-b65a-ec78ada742b8.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1328785360",
+        "FileName": "3ab60320-83e7-4cf6-b65a-ec78ada742b8.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/3ab60320-83e7-4cf6-b65a-ec78ada742b8.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "3376d2ec-8b3a-4d1a-ba31-587f25b4c3fe.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "439329280",
-        "URL": "http://images.launchbox-app.com/3376d2ec-8b3a-4d1a-ba31-587f25b4c3fe.jpg"
-      },
-      {
-        "FileName": "9af459d7-c48b-45d7-bb78-d6a0e9d17861.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "331788583",
-        "URL": "http://images.launchbox-app.com/9af459d7-c48b-45d7-bb78-d6a0e9d17861.jpg"
-      },
-      {
-        "FileName": "d37cb797-592d-4049-8c5b-0cbf33764a53.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2730216246",
-        "URL": "http://images.launchbox-app.com/d37cb797-592d-4049-8c5b-0cbf33764a53.jpg"
-      },
-      {
-        "FileName": "19ee7349-1e26-41e4-8c19-5a8e318d5e2b.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3080813629",
-        "URL": "http://images.launchbox-app.com/19ee7349-1e26-41e4-8c19-5a8e318d5e2b.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "4254918680",
         "FileName": "f0583265-b284-465f-a448-2185877334dc.png",
         "Type": "Clear Logo",
-        "CRC32": "4254918680",
         "URL": "http://images.launchbox-app.com/f0583265-b284-465f-a448-2185877334dc.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "439329280",
+        "FileName": "3376d2ec-8b3a-4d1a-ba31-587f25b4c3fe.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/3376d2ec-8b3a-4d1a-ba31-587f25b4c3fe.jpg"
+      },
+      {
+        "CRC32": "3080813629",
+        "FileName": "19ee7349-1e26-41e4-8c19-5a8e318d5e2b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/19ee7349-1e26-41e4-8c19-5a8e318d5e2b.jpg"
+      },
+      {
+        "CRC32": "331788583",
+        "FileName": "9af459d7-c48b-45d7-bb78-d6a0e9d17861.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/9af459d7-c48b-45d7-bb78-d6a0e9d17861.jpg"
+      },
+      {
+        "CRC32": "2730216246",
+        "FileName": "d37cb797-592d-4049-8c5b-0cbf33764a53.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d37cb797-592d-4049-8c5b-0cbf33764a53.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.83333333333333",
+  "DatabaseID": "15633",
+  "Developer": "Cyanide",
+  "ESRB": "T - Teen",
+  "Genres": "Strategy",
+  "Name": "Blood Bowl",
+  "Overview": "Blood Bowl is an official video game adaptation of the table-top game of the same name but is not a remake of the first Blood Bowl. Instead the game is the in-official successor to Chaos League: Sudden Death and builds upon its features.\n\nBased on the Living Rulebook 5.0 ruleset, Blood Bowl is a dark fantasy version of American Football with 11 players per team beating each other to death in order to get a touchdown. The game features eighth races with different strength and weaknesses including the fast but weak Goblins, the flexible but mediocre Humans and the powerful but slow Orcs. The player can either play fast games with pre-defined teams or enter the heart of the game: the campaign. In the campaign the player creates a new team from scratch trying to bring it up to the top of the ranking of the current Blood Bowl-season. To accomplish this goal the player has to buy players with different attributes and skills, close sponsor contracts to earn additional money and decide how to influence the upcoming game by bribing the referee, buying potions for his team and other illegal activities. His players also gain experience points during a match especially for scoring touchdowns or by downing enemy players. Once they gain a level up, they can learn an additional skill like blocking.\n\nOnce the team stands, the game begins with the option to play either in real-time- or turn-based-mode. The turn-based-mode is very close to the table-top game with 8 rounds per half-time, turnover-events and manual dice rolls. Although the real-time-mode also features dice rolls, they are done behind the players backs and the outcome of each action is determined by one or more skill checks. The game grid is also still divided into squares but these are invisible now. The most important difference is that in real-time-mode the player can give orders to more than one player at all times and other elements like turnover-events are removed. If the player still needs time to think about his moves, he can activate the concentration mode which pauses the game and allows him to give orders without pressure.\n\nThe game features several multiplayer-modes including hot seat in which two players can play on one machine in turn-based-mode against each other and worldwide open and private online-leagues for which the players are able to create up to 32 teams.",
+  "Publisher": "Focus Home Interactive",
+  "ReleaseDate": "2009-11-27T00:00:00+00:00"
 }

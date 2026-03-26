@@ -1,58 +1,58 @@
 {
-  "Name": "Alien Rage",
-  "DatabaseID": "209097",
-  "ReleaseDate": "2013-10-18T00:00:00+00:00",
-  "Overview": "Alien Rage is an action-packed, hard-core first-person shooter that will have you facing off against armies of the nastiest Alien forces ever encountered. Battle beastly-sized bosses relentlessly attacking you from every direction, hell-bent on taking you down. Tons of powerful dual-mode weapons, 14 intense levels, massive shootouts, destructible environments and over-the-top fast paced gameplay",
-  "CommunityRating": "3.7",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Alien_Rage",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "CI Games",
-  "Publisher": "CI Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "df0dcffe-1591-42f0-b1ed-c6dc0f904f5b.png",
-        "Type": "Banner",
-        "CRC32": "703744143",
-        "URL": "http://images.launchbox-app.com/df0dcffe-1591-42f0-b1ed-c6dc0f904f5b.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "278452836",
         "FileName": "48366f4d-fb21-4b40-96a8-3eacebbc2d8e.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "278452836",
         "URL": "http://images.launchbox-app.com/48366f4d-fb21-4b40-96a8-3eacebbc2d8e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "703744143",
+        "FileName": "df0dcffe-1591-42f0-b1ed-c6dc0f904f5b.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/df0dcffe-1591-42f0-b1ed-c6dc0f904f5b.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "6290a579-0390-4f70-b951-6d921c44737f.png",
-          "Type": "Box - 3D",
-          "Region": "World",
           "CRC32": "391975496",
+          "FileName": "6290a579-0390-4f70-b951-6d921c44737f.png",
+          "Region": "World",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/6290a579-0390-4f70-b951-6d921c44737f.png"
         }
       ],
       "Front": [
         {
-          "FileName": "f34b70ac-4114-46ea-b328-87c8a09b80a9.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1363196745",
+          "FileName": "f34b70ac-4114-46ea-b328-87c8a09b80a9.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f34b70ac-4114-46ea-b328-87c8a09b80a9.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "4293921271",
         "FileName": "e9165be6-5af4-4458-bdaf-7b1bb7b8a5ee.png",
         "Type": "Clear Logo",
-        "CRC32": "4293921271",
         "URL": "http://images.launchbox-app.com/e9165be6-5af4-4458-bdaf-7b1bb7b8a5ee.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.7",
+  "DatabaseID": "209097",
+  "Developer": "CI Games",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Alien Rage",
+  "Overview": "Alien Rage is an action-packed, hard-core first-person shooter that will have you facing off against armies of the nastiest Alien forces ever encountered. Battle beastly-sized bosses relentlessly attacking you from every direction, hell-bent on taking you down. Tons of powerful dual-mode weapons, 14 intense levels, massive shootouts, destructible environments and over-the-top fast paced gameplay",
+  "Publisher": "CI Games",
+  "ReleaseDate": "2013-10-18T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Alien_Rage"
 }

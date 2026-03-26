@@ -1,83 +1,83 @@
 {
-  "Name": "Tropico 3",
-  "DatabaseID": "13852",
-  "ReleaseDate": "2009-11-13T00:00:00+00:00",
-  "Overview": "With Tropico 3 the series returns to its roots, playing once again during the time-period 1950-2000. Being more of a remake, than a real successor, the game once again gives the player full control over a banana republic in the Caribbean. To successfully live through his term in office, El Presidente needs to build a booming economy and keep his inhabitants happy as well as the USA and USSR.\n\nMost of the city is built by the player himself including apartment buildings and streets. While some buildings need space to do their job (like farms), others need a road-connection or don't function without electricity. The only buildings that pop up automatically are homes of poor people. To build up his city, the player of course needs money. Money is earned several different ways. Every year the player gets foreign aid from the superpowers. Several times a year a tanker comes by and transports away export goods like oil (the new resource in Tropico 3) or bananas, also bringing money in. Another way to earn money is to make the island tourist friendly and rip them off while they are visiting. The least of the players income comes from his own people who pay lease, use the available entertainment program and such. How much everything costs is determined by the player. He is also responsible for employing from overseas, if the required expertise isn't yet available on his island which on the other hand enrages the Nationalists on the island. The Nationalists are one of the many groups of people the player needs to make happy besides each individual themselves.\n\nIn addition each citizen is his or her own entity, with their own names, relationships to other citizens, wants and desires. Some feel the need to excel in studies, others seek religious enlightenment, some just want to have a good time. They even take political affiliations and work towards those ends. The citizens do not blindly follow orders, they must be persuaded through meeting their desires, or just pure greed or terror meaning bribing them or putting out a contract on them. The latter is especially useful to keep the rebels at bay but if all fails and the rebels attack, the player's army as well as himself engage in an automatic battle until only one side stands. The game ends if the palace is blown up, the player doesn't get re-elected or the USA/USSR decide that El Presidente has become a pain in the butt. In addition the missions in the campaign feature objectives like have 150 tourists visit the island.\n\nBesides the new 3D-engine, the biggest change in comparison to Tropico is the inclusion of a 3D-Avatar of the player inside the game. Generated at the beginning from scratch or by using one of the pre-existing characters like Fidel Castro, the avatar can be sent around the island, visiting production facilities or construction sites to temporarily increase the production and building speed. The avatar can also be send to the palace where he holds a speech and increases the freedom of the listing inhabitants.\n\nThe game features an editor that doesn't allow the player to create a new island, those are pre-defined or random generated, but instead allows him to build a new challenge with its own goals, events and difficulty-settings. These challenges can then be uploaded onto the Tropico 3-server and everyone can try and beat the current highscore on that map. No other multiplayer-mode is available.",
-  "VideoURL": "https://www.youtube.com/watch?v=AuXjAM9GUwI",
-  "CommunityRating": "2.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Tropico_3",
-  "ESRB": "T - Teen",
-  "Genres": "Strategy",
-  "Developer": "Haemimont Games",
-  "Publisher": "Kalypso Media",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "321379252",
         "FileName": "bb5e0e47-1e50-4c66-a331-509b87aa4ba8.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "321379252",
         "URL": "http://images.launchbox-app.com/bb5e0e47-1e50-4c66-a331-509b87aa4ba8.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "b18223f1-08fa-486c-8a8f-c53bde40f338.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3729023354",
+          "FileName": "b18223f1-08fa-486c-8a8f-c53bde40f338.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/b18223f1-08fa-486c-8a8f-c53bde40f338.png"
         }
       ],
       "Back": [
         {
-          "FileName": "4c36544f-d5c3-45d9-8700-7212b800ffc1.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "2201011751",
+          "FileName": "4c36544f-d5c3-45d9-8700-7212b800ffc1.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/4c36544f-d5c3-45d9-8700-7212b800ffc1.jpg"
         },
         {
-          "FileName": "r2_0ecde214-78f7-40d0-a6f1-b978d6dde06a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "834205821",
+          "FileName": "r2_0ecde214-78f7-40d0-a6f1-b978d6dde06a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_0ecde214-78f7-40d0-a6f1-b978d6dde06a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "432c740e-8a53-4b5b-b271-f2b070ddb382.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "163550053",
+          "FileName": "432c740e-8a53-4b5b-b271-f2b070ddb382.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/432c740e-8a53-4b5b-b271-f2b070ddb382.jpg"
         },
         {
-          "FileName": "r2_15039eca-3ec4-4f19-8f18-db2e234f4bbc.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1462202706",
+          "FileName": "r2_15039eca-3ec4-4f19-8f18-db2e234f4bbc.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_15039eca-3ec4-4f19-8f18-db2e234f4bbc.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "396c7d3e-3956-480a-aa56-cd0af0f67ae7.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "172601454",
+        "FileName": "396c7d3e-3956-480a-aa56-cd0af0f67ae7.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/396c7d3e-3956-480a-aa56-cd0af0f67ae7.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1147954364",
         "FileName": "9ef90bd5-8fee-4d62-832a-2af24893f645.png",
         "Type": "Clear Logo",
-        "CRC32": "1147954364",
         "URL": "http://images.launchbox-app.com/9ef90bd5-8fee-4d62-832a-2af24893f645.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.5",
+  "DatabaseID": "13852",
+  "Developer": "Haemimont Games",
+  "ESRB": "T - Teen",
+  "Genres": "Strategy",
+  "Name": "Tropico 3",
+  "Overview": "With Tropico 3 the series returns to its roots, playing once again during the time-period 1950-2000. Being more of a remake, than a real successor, the game once again gives the player full control over a banana republic in the Caribbean. To successfully live through his term in office, El Presidente needs to build a booming economy and keep his inhabitants happy as well as the USA and USSR.\n\nMost of the city is built by the player himself including apartment buildings and streets. While some buildings need space to do their job (like farms), others need a road-connection or don't function without electricity. The only buildings that pop up automatically are homes of poor people. To build up his city, the player of course needs money. Money is earned several different ways. Every year the player gets foreign aid from the superpowers. Several times a year a tanker comes by and transports away export goods like oil (the new resource in Tropico 3) or bananas, also bringing money in. Another way to earn money is to make the island tourist friendly and rip them off while they are visiting. The least of the players income comes from his own people who pay lease, use the available entertainment program and such. How much everything costs is determined by the player. He is also responsible for employing from overseas, if the required expertise isn't yet available on his island which on the other hand enrages the Nationalists on the island. The Nationalists are one of the many groups of people the player needs to make happy besides each individual themselves.\n\nIn addition each citizen is his or her own entity, with their own names, relationships to other citizens, wants and desires. Some feel the need to excel in studies, others seek religious enlightenment, some just want to have a good time. They even take political affiliations and work towards those ends. The citizens do not blindly follow orders, they must be persuaded through meeting their desires, or just pure greed or terror meaning bribing them or putting out a contract on them. The latter is especially useful to keep the rebels at bay but if all fails and the rebels attack, the player's army as well as himself engage in an automatic battle until only one side stands. The game ends if the palace is blown up, the player doesn't get re-elected or the USA/USSR decide that El Presidente has become a pain in the butt. In addition the missions in the campaign feature objectives like have 150 tourists visit the island.\n\nBesides the new 3D-engine, the biggest change in comparison to Tropico is the inclusion of a 3D-Avatar of the player inside the game. Generated at the beginning from scratch or by using one of the pre-existing characters like Fidel Castro, the avatar can be sent around the island, visiting production facilities or construction sites to temporarily increase the production and building speed. The avatar can also be send to the palace where he holds a speech and increases the freedom of the listing inhabitants.\n\nThe game features an editor that doesn't allow the player to create a new island, those are pre-defined or random generated, but instead allows him to build a new challenge with its own goals, events and difficulty-settings. These challenges can then be uploaded onto the Tropico 3-server and everyone can try and beat the current highscore on that map. No other multiplayer-mode is available.",
+  "Publisher": "Kalypso Media",
+  "ReleaseDate": "2009-11-13T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=AuXjAM9GUwI",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Tropico_3"
 }

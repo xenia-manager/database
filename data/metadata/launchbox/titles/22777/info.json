@@ -1,86 +1,86 @@
 {
-  "Name": "Madden NFL 15",
-  "DatabaseID": "22777",
-  "ReleaseDate": "2014-08-26T00:00:00+00:00",
-  "Overview": "Madden NFL 15 transforms you into your rival's worst nightmare with a new breed of defense built to challenge the best offenses in the NFL. An all-new intuitive tackling system and improved coverage logic make defense exciting and fun to play. Learn and hone your skills in the Gauntlet, an all-new mode in Skills Trainer that will take your new abilities through the ultimate test in intense conditions and challenges. Whether building your legacy in Connected Franchise or a dynasty in Ultimate Team, it's not just football, it's Madden Season!",
-  "VideoURL": "http://www.youtube.com/watch?v=-DL0W9AUCuY",
-  "CommunityRating": "4.25",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "4233535584",
         "FileName": "a9cd3342-9aca-459b-b58c-1bd52619612c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4233535584",
         "URL": "http://images.launchbox-app.com/a9cd3342-9aca-459b-b58c-1bd52619612c.jpg"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_c2befa8c-471c-4a79-90ca-bd5896dc4f89.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2079904407",
+          "FileName": "r2_c2befa8c-471c-4a79-90ca-bd5896dc4f89.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_c2befa8c-471c-4a79-90ca-bd5896dc4f89.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_609a3ffa-d846-4fab-bbcb-a0e71c6c03b4.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "4058703743",
+          "FileName": "r2_609a3ffa-d846-4fab-bbcb-a0e71c6c03b4.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_609a3ffa-d846-4fab-bbcb-a0e71c6c03b4.jpg"
         },
         {
-          "FileName": "8fb3ff43-ece0-476e-acf2-c11eae927b64.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1651754963",
+          "FileName": "8fb3ff43-ece0-476e-acf2-c11eae927b64.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8fb3ff43-ece0-476e-acf2-c11eae927b64.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "af149176-b198-4a65-a7ba-3b5a01bd95c5.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3779343899",
+        "FileName": "af149176-b198-4a65-a7ba-3b5a01bd95c5.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/af149176-b198-4a65-a7ba-3b5a01bd95c5.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "7f0439b3-7481-4e7f-a880-9d537ae3d836.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1716907370",
-        "URL": "http://images.launchbox-app.com/7f0439b3-7481-4e7f-a880-9d537ae3d836.jpg"
-      },
-      {
-        "FileName": "d4a65a22-4743-49bf-af33-efd67a767485.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1601484766",
-        "URL": "http://images.launchbox-app.com/d4a65a22-4743-49bf-af33-efd67a767485.jpg"
-      },
-      {
-        "FileName": "72390f84-ec26-4881-aac1-ef7c66a68c10.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "807487313",
-        "URL": "http://images.launchbox-app.com/72390f84-ec26-4881-aac1-ef7c66a68c10.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "3052701568",
         "FileName": "b30cdb31-ea28-47a4-a189-49466848c71a.png",
         "Type": "Clear Logo",
-        "CRC32": "3052701568",
         "URL": "http://images.launchbox-app.com/b30cdb31-ea28-47a4-a189-49466848c71a.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "807487313",
+        "FileName": "72390f84-ec26-4881-aac1-ef7c66a68c10.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/72390f84-ec26-4881-aac1-ef7c66a68c10.jpg"
+      },
+      {
+        "CRC32": "1716907370",
+        "FileName": "7f0439b3-7481-4e7f-a880-9d537ae3d836.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7f0439b3-7481-4e7f-a880-9d537ae3d836.jpg"
+      },
+      {
+        "CRC32": "1601484766",
+        "FileName": "d4a65a22-4743-49bf-af33-efd67a767485.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d4a65a22-4743-49bf-af33-efd67a767485.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.25",
+  "DatabaseID": "22777",
+  "Developer": "Electronic Arts",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Madden NFL 15",
+  "Overview": "Madden NFL 15 transforms you into your rival's worst nightmare with a new breed of defense built to challenge the best offenses in the NFL. An all-new intuitive tackling system and improved coverage logic make defense exciting and fun to play. Learn and hone your skills in the Gauntlet, an all-new mode in Skills Trainer that will take your new abilities through the ultimate test in intense conditions and challenges. Whether building your legacy in Connected Franchise or a dynasty in Ultimate Team, it's not just football, it's Madden Season!",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2014-08-26T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=-DL0W9AUCuY"
 }

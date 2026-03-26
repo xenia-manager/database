@@ -1,23 +1,23 @@
 {
-  "Name": "Human Invasion",
-  "DatabaseID": "470106",
-  "ReleaseDate": "2010-09-04T00:00:00+00:00",
-  "Overview": "Defend your alien home world against 10 incoming waves of heavily armed human invaders.",
-  "VideoURL": "https://youtu.be/fBwHPcUQSLQ",
-  "Genres": "Action",
-  "Developer": "RainForest",
-  "Publisher": "Alejandro Gonzalez Perez",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "ab7596dc-0daa-4025-95e4-4e9f7cfbd942.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "320634540",
+          "FileName": "ab7596dc-0daa-4025-95e4-4e9f7cfbd942.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ab7596dc-0daa-4025-95e4-4e9f7cfbd942.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "470106",
+  "Developer": "RainForest",
+  "Genres": "Action",
+  "Name": "Human Invasion",
+  "Overview": "Defend your alien home world against 10 incoming waves of heavily armed human invaders.",
+  "Publisher": "Alejandro Gonzalez Perez",
+  "ReleaseDate": "2010-09-04T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/fBwHPcUQSLQ"
 }

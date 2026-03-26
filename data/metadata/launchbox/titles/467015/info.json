@@ -1,38 +1,38 @@
 {
-  "Name": "Airport Anarchy",
-  "DatabaseID": "467015",
-  "ReleaseDate": "2013-05-17T00:00:00+00:00",
-  "Overview": "Airport Anarchy is a game where you must complete flights while managing the flow of aircraft to and from the airport. In arcade mode you earn more points the quicker you deal with aircraft, while Endless mode won't finish until there's a crash!",
-  "Genres": "Action",
-  "Developer": "RZ Games",
-  "Publisher": "RZ Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "0a28f9b8-0f9c-4fa4-a31c-7b38fa0473e5.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3898224354",
+          "FileName": "0a28f9b8-0f9c-4fa4-a31c-7b38fa0473e5.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0a28f9b8-0f9c-4fa4-a31c-7b38fa0473e5.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "abe1446b-5a6e-4c4c-9fb6-c4570c454e06.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1517199020",
+        "FileName": "8c05ab29-d422-4c1d-a8cb-76194e847cba.jpg",
         "Region": "World",
-        "CRC32": "3056580221",
-        "URL": "http://images.launchbox-app.com/abe1446b-5a6e-4c4c-9fb6-c4570c454e06.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8c05ab29-d422-4c1d-a8cb-76194e847cba.jpg"
       },
       {
-        "FileName": "8c05ab29-d422-4c1d-a8cb-76194e847cba.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3056580221",
+        "FileName": "abe1446b-5a6e-4c4c-9fb6-c4570c454e06.jpg",
         "Region": "World",
-        "CRC32": "1517199020",
-        "URL": "http://images.launchbox-app.com/8c05ab29-d422-4c1d-a8cb-76194e847cba.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/abe1446b-5a6e-4c4c-9fb6-c4570c454e06.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467015",
+  "Developer": "RZ Games",
+  "Genres": "Action",
+  "Name": "Airport Anarchy",
+  "Overview": "Airport Anarchy is a game where you must complete flights while managing the flow of aircraft to and from the airport. In arcade mode you earn more points the quicker you deal with aircraft, while Endless mode won't finish until there's a crash!",
+  "Publisher": "RZ Games",
+  "ReleaseDate": "2013-05-17T00:00:00+00:00"
 }

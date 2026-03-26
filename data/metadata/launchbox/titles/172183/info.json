@@ -1,104 +1,104 @@
 {
-  "Name": "Halo: Spartan Assault",
-  "DatabaseID": "172183",
-  "ReleaseDate": "2013-07-18T00:00:00+00:00",
-  "Overview": "Halo: Spartan Assault is a spin-off from the main games in the Halo series. The game brings the familiar Halo gameplay to a top-down perspective.\n\nIn the game the player takes control of Spartans Sarah Palmer and Edward Davis and replays missions in a simulator of various battles in which they took part fighting against the Covenant. The game takes place between the events of Halo 3 and 4. The game uses twin-stick controls and allows the use of familiar halo weaponry, such as the Assault Rifle, Battle Rifle, Needler and Energy Rifle. In various missions it is also possible to take control of various vehicles, both from the UNSC and Covenant.\n\nThe game features five campaigns with five missions each. Each campaign has distinct environments and missions have different objectives, ranging between defending a base, escort, clearing areas or reaching a certain location. A sixth campaign can be bought as DLC on the Windows (Phone/Tablet/PC) version of the game. This DLC is included by default in the console version of the game.\n\nAfter completing each level, a number of stars (bronze, silver, gold) is earned based on the number of points scored during a level. Depending on the number of stars, the player earns experience. Experience can be used to purchase better weapons, abilities and boosters at the start of a level.\n\nLevels can also be played with \"Skulls\", up to two modifiers that make the game more difficult, but give the player a multiplier in experience points once completed. Skulls include such things as making enemies tougher, giving the player only shields but no health, or only allowing shields to recharge when meleeing an enemy.\n\nThe game also comes with weekly challenges and specific challenges for each level that allow the player to unlock additional rewards.\n\nThe console version of the game comes with five two player co-op missions in which players must complete defend or destroy objectives in levels swarming with huge hordes of Flood.",
-  "VideoURL": "https://www.youtube.com/watch?v=7UqED_Yi3yA",
-  "CommunityRating": "2.83333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Halo:_Spartan_Assault",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "343 Industries",
-  "Publisher": "Microsoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "d0fde635-8916-47f2-96cd-951ab1163495.jpg",
-        "Type": "Banner",
-        "CRC32": "901048799",
-        "URL": "http://images.launchbox-app.com/d0fde635-8916-47f2-96cd-951ab1163495.jpg"
-      },
-      {
-        "FileName": "r2_5909bffa-ca9c-4be5-87e7-15030a426625.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3341246337",
-        "URL": "http://images.launchbox-app.com/r2_5909bffa-ca9c-4be5-87e7-15030a426625.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2849943495",
         "FileName": "a0c5fd81-c3eb-42a0-9a1e-b6d5ad8ce085.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2849943495",
         "URL": "http://images.launchbox-app.com/a0c5fd81-c3eb-42a0-9a1e-b6d5ad8ce085.jpg"
       },
       {
-        "FileName": "r2_dd038204-770f-4ce6-abb4-a4a5df4f5b26.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "308348389",
+        "FileName": "r2_dd038204-770f-4ce6-abb4-a4a5df4f5b26.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_dd038204-770f-4ce6-abb4-a4a5df4f5b26.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "901048799",
+        "FileName": "d0fde635-8916-47f2-96cd-951ab1163495.jpg",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/d0fde635-8916-47f2-96cd-951ab1163495.jpg"
+      },
+      {
+        "CRC32": "3341246337",
+        "FileName": "r2_5909bffa-ca9c-4be5-87e7-15030a426625.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_5909bffa-ca9c-4be5-87e7-15030a426625.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "5e1def70-056c-4d4b-96bf-82c696d81ea0.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3283652131",
+          "FileName": "5e1def70-056c-4d4b-96bf-82c696d81ea0.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5e1def70-056c-4d4b-96bf-82c696d81ea0.jpg"
         },
         {
-          "FileName": "r2_f79d8321-ad3d-4018-bead-eaf4919b8c12.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1068321326",
+          "FileName": "r2_f79d8321-ad3d-4018-bead-eaf4919b8c12.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f79d8321-ad3d-4018-bead-eaf4919b8c12.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "ee57f253-1162-4315-aed2-0374d0d1059c.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "3323555516",
-        "URL": "http://images.launchbox-app.com/ee57f253-1162-4315-aed2-0374d0d1059c.jpg"
-      },
-      {
-        "FileName": "d5fb629c-04d5-427e-9d18-a23d3c2f9565.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1465879893",
-        "URL": "http://images.launchbox-app.com/d5fb629c-04d5-427e-9d18-a23d3c2f9565.jpg"
-      },
-      {
-        "FileName": "6fafb6f8-10f8-4c33-b002-d35eb13496e1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3585736949",
-        "URL": "http://images.launchbox-app.com/6fafb6f8-10f8-4c33-b002-d35eb13496e1.jpg"
-      },
-      {
-        "FileName": "d37ee286-7e72-4cea-894a-714019d2a560.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1543685067",
-        "URL": "http://images.launchbox-app.com/d37ee286-7e72-4cea-894a-714019d2a560.png"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "2349643382",
         "FileName": "b3f354ba-cbd0-4f67-921a-868326c04fc3.png",
         "Type": "Clear Logo",
-        "CRC32": "2349643382",
         "URL": "http://images.launchbox-app.com/b3f354ba-cbd0-4f67-921a-868326c04fc3.png"
       },
       {
-        "FileName": "r2_68f93433-f29e-4425-8a15-1dd4e04561e1.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2546780335",
+        "FileName": "r2_68f93433-f29e-4425-8a15-1dd4e04561e1.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_68f93433-f29e-4425-8a15-1dd4e04561e1.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3323555516",
+        "FileName": "ee57f253-1162-4315-aed2-0374d0d1059c.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/ee57f253-1162-4315-aed2-0374d0d1059c.jpg"
+      },
+      {
+        "CRC32": "3585736949",
+        "FileName": "6fafb6f8-10f8-4c33-b002-d35eb13496e1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/6fafb6f8-10f8-4c33-b002-d35eb13496e1.jpg"
+      },
+      {
+        "CRC32": "1543685067",
+        "FileName": "d37ee286-7e72-4cea-894a-714019d2a560.png",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d37ee286-7e72-4cea-894a-714019d2a560.png"
+      },
+      {
+        "CRC32": "1465879893",
+        "FileName": "d5fb629c-04d5-427e-9d18-a23d3c2f9565.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d5fb629c-04d5-427e-9d18-a23d3c2f9565.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "2.83333333333333",
+  "DatabaseID": "172183",
+  "Developer": "343 Industries",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Halo: Spartan Assault",
+  "Overview": "Halo: Spartan Assault is a spin-off from the main games in the Halo series. The game brings the familiar Halo gameplay to a top-down perspective.\n\nIn the game the player takes control of Spartans Sarah Palmer and Edward Davis and replays missions in a simulator of various battles in which they took part fighting against the Covenant. The game takes place between the events of Halo 3 and 4. The game uses twin-stick controls and allows the use of familiar halo weaponry, such as the Assault Rifle, Battle Rifle, Needler and Energy Rifle. In various missions it is also possible to take control of various vehicles, both from the UNSC and Covenant.\n\nThe game features five campaigns with five missions each. Each campaign has distinct environments and missions have different objectives, ranging between defending a base, escort, clearing areas or reaching a certain location. A sixth campaign can be bought as DLC on the Windows (Phone/Tablet/PC) version of the game. This DLC is included by default in the console version of the game.\n\nAfter completing each level, a number of stars (bronze, silver, gold) is earned based on the number of points scored during a level. Depending on the number of stars, the player earns experience. Experience can be used to purchase better weapons, abilities and boosters at the start of a level.\n\nLevels can also be played with \"Skulls\", up to two modifiers that make the game more difficult, but give the player a multiplier in experience points once completed. Skulls include such things as making enemies tougher, giving the player only shields but no health, or only allowing shields to recharge when meleeing an enemy.\n\nThe game also comes with weekly challenges and specific challenges for each level that allow the player to unlock additional rewards.\n\nThe console version of the game comes with five two player co-op missions in which players must complete defend or destroy objectives in levels swarming with huge hordes of Flood.",
+  "Publisher": "Microsoft",
+  "ReleaseDate": "2013-07-18T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=7UqED_Yi3yA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Halo:_Spartan_Assault"
 }

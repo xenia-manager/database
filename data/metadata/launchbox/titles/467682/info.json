@@ -1,22 +1,22 @@
 {
-  "Name": "Avatar Monster Truck",
-  "DatabaseID": "467682",
-  "ReleaseDate": "2012-11-23T00:00:00+00:00",
-  "Overview": "Loop the loop with your Monster Truck!\n\nRide through all the obstacle courses, and beat the developer ghost record.",
-  "Genres": "Racing",
-  "Developer": "Maximinus",
-  "Publisher": "Maximinus",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "5610c83f-8ea6-42c1-bbce-c18df21259a0.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "777954780",
+          "FileName": "5610c83f-8ea6-42c1-bbce-c18df21259a0.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5610c83f-8ea6-42c1-bbce-c18df21259a0.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "467682",
+  "Developer": "Maximinus",
+  "Genres": "Racing",
+  "Name": "Avatar Monster Truck",
+  "Overview": "Loop the loop with your Monster Truck!\n\nRide through all the obstacle courses, and beat the developer ghost record.",
+  "Publisher": "Maximinus",
+  "ReleaseDate": "2012-11-23T00:00:00+00:00"
 }

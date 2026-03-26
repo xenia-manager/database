@@ -1,48 +1,48 @@
 {
-  "Name": "Galaga",
-  "DatabaseID": "174848",
-  "ReleaseDate": "2006-07-26T00:00:00+00:00",
-  "Overview": "Control your fighter, with its unique ability to combine with other fighters, and shoot down the invading aliens. Aliens attack in formations using a variety of attack patterns. Rescue a captured fighter to combine with it to form a Dual Fighter with twice the firepower! Earn Perfect Bonuses more easily using a Dual Fighter on the Challenging Stages! GALAGA was released in 1981, and became an instant classic with its innovative fighter combination system and varied enemy attack patterns.",
-  "VideoURL": "https://www.youtube.com/watch?v=hFiU772TExE",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Galaga",
-  "ESRB": "E - Everyone",
-  "Genres": "Shooter",
-  "Developer": "Namco Bandai Games",
-  "Publisher": "Namco Bandai Games",
   "Artwork": {
     "Background": [
       {
-        "FileName": "66606c64-40d1-4e21-8529-915133f05223.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2566498559",
-        "URL": "http://images.launchbox-app.com/66606c64-40d1-4e21-8529-915133f05223.jpg"
-      },
-      {
+        "CRC32": "2470973186",
         "FileName": "15933907-4e5a-4edd-be7b-13bf845621dd.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2470973186",
         "URL": "http://images.launchbox-app.com/15933907-4e5a-4edd-be7b-13bf845621dd.jpg"
+      },
+      {
+        "CRC32": "2566498559",
+        "FileName": "66606c64-40d1-4e21-8529-915133f05223.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/66606c64-40d1-4e21-8529-915133f05223.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_007c25ef-9d05-49f6-a8ae-5cb65715e576.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4078240061",
+          "FileName": "r2_007c25ef-9d05-49f6-a8ae-5cb65715e576.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_007c25ef-9d05-49f6-a8ae-5cb65715e576.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "2736059632",
         "FileName": "4f02e192-9a40-4688-9a0b-dfa848c756e5.png",
         "Type": "Clear Logo",
-        "CRC32": "2736059632",
         "URL": "http://images.launchbox-app.com/4f02e192-9a40-4688-9a0b-dfa848c756e5.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "174848",
+  "Developer": "Namco Bandai Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Shooter",
+  "Name": "Galaga",
+  "Overview": "Control your fighter, with its unique ability to combine with other fighters, and shoot down the invading aliens. Aliens attack in formations using a variety of attack patterns. Rescue a captured fighter to combine with it to form a Dual Fighter with twice the firepower! Earn Perfect Bonuses more easily using a Dual Fighter on the Challenging Stages! GALAGA was released in 1981, and became an instant classic with its innovative fighter combination system and varied enemy attack patterns.",
+  "Publisher": "Namco Bandai Games",
+  "ReleaseDate": "2006-07-26T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=hFiU772TExE",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Galaga"
 }

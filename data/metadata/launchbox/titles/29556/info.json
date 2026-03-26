@@ -1,47 +1,47 @@
 {
-  "Name": "Deadburg",
-  "DatabaseID": "29556",
-  "Genres": "Action",
-  "Developer": "Reanimated Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "edcb47cb-334f-4143-af0b-792fc3f226c8.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3098332787",
+          "FileName": "edcb47cb-334f-4143-af0b-792fc3f226c8.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/edcb47cb-334f-4143-af0b-792fc3f226c8.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "3914236096",
+        "FileName": "84684a92-4d87-42e4-b825-d47802e24c4b.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/84684a92-4d87-42e4-b825-d47802e24c4b.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "3646767424",
         "FileName": "08d21618-7746-4651-82a2-ac6ed2f41f54.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "3646767424",
         "URL": "http://images.launchbox-app.com/08d21618-7746-4651-82a2-ac6ed2f41f54.jpg"
       },
       {
-        "FileName": "a6639f1b-f99b-4ec4-a516-d10e5d2e3ea6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4059183887",
-        "URL": "http://images.launchbox-app.com/a6639f1b-f99b-4ec4-a516-d10e5d2e3ea6.jpg"
-      },
-      {
+        "CRC32": "299842134",
         "FileName": "4269fa50-4e35-49ca-89db-a8b8c6d0f666.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "299842134",
         "URL": "http://images.launchbox-app.com/4269fa50-4e35-49ca-89db-a8b8c6d0f666.jpg"
-      }
-    ],
-    "Other": [
+      },
       {
-        "FileName": "84684a92-4d87-42e4-b825-d47802e24c4b.png",
-        "Type": "Clear Logo",
-        "CRC32": "3914236096",
-        "URL": "http://images.launchbox-app.com/84684a92-4d87-42e4-b825-d47802e24c4b.png"
+        "CRC32": "4059183887",
+        "FileName": "a6639f1b-f99b-4ec4-a516-d10e5d2e3ea6.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a6639f1b-f99b-4ec4-a516-d10e5d2e3ea6.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "29556",
+  "Developer": "Reanimated Games",
+  "Genres": "Action",
+  "Name": "Deadburg"
 }

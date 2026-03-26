@@ -1,59 +1,59 @@
 {
-  "Name": "Experiment 12",
-  "DatabaseID": "469231",
-  "ReleaseDate": "2009-11-07T00:00:00+00:00",
-  "Overview": "In this prison, they do many experiments. Participation is voluntary but encouraged, as successful completion of an experiment will be rewarded with early release. Unfortunately, unsuccessful completion of an experiment generally results in death.\n\nExperiment 12 is an action platform game where the goal of each stage is simply to reach the exit without dying. Grey squares are safe to touch, red squares are deadly, and switches will reverse the gravity. The player can also jump off of walls. Reach the door, and move on to the next room.",
-  "Genres": "Platform",
-  "Developer": "Buddrick",
-  "Publisher": "Buddrick",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "6c8df304-3b6a-4a8d-9472-447d9d8d5383.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2276493462",
+          "FileName": "6c8df304-3b6a-4a8d-9472-447d9d8d5383.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6c8df304-3b6a-4a8d-9472-447d9d8d5383.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "ee81c7cd-af7b-459f-b976-cfee3d7bdd3e.png",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "3425132785",
+        "FileName": "ee81c7cd-af7b-459f-b976-cfee3d7bdd3e.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/ee81c7cd-af7b-459f-b976-cfee3d7bdd3e.png"
       },
       {
-        "FileName": "7e313be4-3033-4686-96aa-7c61bb187812.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "413430400",
-        "URL": "http://images.launchbox-app.com/7e313be4-3033-4686-96aa-7c61bb187812.png"
-      },
-      {
-        "FileName": "64de0262-20bb-4959-9da4-6c9df73ecb8e.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "2154253651",
-        "URL": "http://images.launchbox-app.com/64de0262-20bb-4959-9da4-6c9df73ecb8e.png"
-      },
-      {
-        "FileName": "5a532031-60f9-4a0a-9d59-948f096450e3.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1320574363",
+        "FileName": "5a532031-60f9-4a0a-9d59-948f096450e3.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/5a532031-60f9-4a0a-9d59-948f096450e3.png"
       },
       {
-        "FileName": "a30fe2b3-213c-4200-a828-0a3bd3dbab97.png",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2154253651",
+        "FileName": "64de0262-20bb-4959-9da4-6c9df73ecb8e.png",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/64de0262-20bb-4959-9da4-6c9df73ecb8e.png"
+      },
+      {
+        "CRC32": "413430400",
+        "FileName": "7e313be4-3033-4686-96aa-7c61bb187812.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7e313be4-3033-4686-96aa-7c61bb187812.png"
+      },
+      {
         "CRC32": "3084549954",
+        "FileName": "a30fe2b3-213c-4200-a828-0a3bd3dbab97.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/a30fe2b3-213c-4200-a828-0a3bd3dbab97.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "469231",
+  "Developer": "Buddrick",
+  "Genres": "Platform",
+  "Name": "Experiment 12",
+  "Overview": "In this prison, they do many experiments. Participation is voluntary but encouraged, as successful completion of an experiment will be rewarded with early release. Unfortunately, unsuccessful completion of an experiment generally results in death.\n\nExperiment 12 is an action platform game where the goal of each stage is simply to reach the exit without dying. Grey squares are safe to touch, red squares are deadly, and switches will reverse the gravity. The player can also jump off of walls. Reach the door, and move on to the next room.",
+  "Publisher": "Buddrick",
+  "ReleaseDate": "2009-11-07T00:00:00+00:00"
 }

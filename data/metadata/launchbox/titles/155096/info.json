@@ -1,33 +1,33 @@
 {
-  "Name": "Abmastrophy",
-  "DatabaseID": "155096",
-  "ReleaseDate": "2011-06-04T00:00:00+00:00",
-  "Overview": "Have you ever gone to your local Waffle House and wondered... just what is going on in the bottle of syrup? Of course you have. We all have. \n\nIt's simple. Kill enemies. Collect the sparklies and the gold.",
-  "VideoURL": "https://www.youtube.com/watch?v=D5Eo5bz9OF0",
-  "CommunityRating": "4.375",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "The Awakening",
-  "Publisher": "The Awakening",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1152602377",
         "FileName": "b7f38876-1bc4-43c9-a9c1-14e3eb9bde03.png",
         "Type": "Fanart - Background",
-        "CRC32": "1152602377",
         "URL": "http://images.launchbox-app.com/b7f38876-1bc4-43c9-a9c1-14e3eb9bde03.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "b8030e35-e7cf-4407-a73d-3663d54e0063.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3660592711",
+          "FileName": "b8030e35-e7cf-4407-a73d-3663d54e0063.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b8030e35-e7cf-4407-a73d-3663d54e0063.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "4.375",
+  "DatabaseID": "155096",
+  "Developer": "The Awakening",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "Abmastrophy",
+  "Overview": "Have you ever gone to your local Waffle House and wondered... just what is going on in the bottle of syrup? Of course you have. We all have. \n\nIt's simple. Kill enemies. Collect the sparklies and the gold.",
+  "Publisher": "The Awakening",
+  "ReleaseDate": "2011-06-04T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=D5Eo5bz9OF0"
 }

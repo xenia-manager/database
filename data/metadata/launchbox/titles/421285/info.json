@@ -1,60 +1,60 @@
 {
-  "Name": "Legend of Kay: Anniversary",
-  "DatabaseID": "421285",
-  "ReleaseDate": "2015-07-28T00:00:00+00:00",
-  "Overview": "Experience the unique blend of Martial Arts-combat, action adventure, Jump 'n' Run and puzzle solving.\n\n10 years after its initial release, Legend of Kay Anniversary by Kaiko Games is a thoroughly remastered version of the original game with high resolution textures, new & more detailed character models, modern rendering techniques and crystal-clear surround sound which give this great classic a new shine.\n\nFull of fond allusions to old martial arts films and pop culture quotes, Legend of Kay Anniversary is both an incredibly funny game and a challenging action-adventure for young and old alike.",
-  "CommunityRating": "2.5",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
-  "Developer": "Kaiko",
-  "Publisher": "Nordic Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_58290273-0066-4888-84bb-040fc57b63dd.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "725251621",
-        "URL": "http://images.launchbox-app.com/r2_58290273-0066-4888-84bb-040fc57b63dd.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_6e5374eb-73a7-4bab-abd2-c4cfdbcaa060.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2104154341",
+        "FileName": "r2_6e5374eb-73a7-4bab-abd2-c4cfdbcaa060.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_6e5374eb-73a7-4bab-abd2-c4cfdbcaa060.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "725251621",
+        "FileName": "r2_58290273-0066-4888-84bb-040fc57b63dd.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_58290273-0066-4888-84bb-040fc57b63dd.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_0eaeea87-1d3a-469f-b9d3-5f9ef59e6833.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1131854447",
+          "FileName": "r2_0eaeea87-1d3a-469f-b9d3-5f9ef59e6833.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_0eaeea87-1d3a-469f-b9d3-5f9ef59e6833.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_9bf1044a-a9ea-4644-97c5-f11420afce0c.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
         "CRC32": "308584191",
+        "FileName": "r2_9bf1044a-a9ea-4644-97c5-f11420afce0c.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/r2_9bf1044a-a9ea-4644-97c5-f11420afce0c.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_64008f9d-057b-4512-b4f3-7ae3f6a627d8.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "634715829",
+        "FileName": "r2_64008f9d-057b-4512-b4f3-7ae3f6a627d8.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_64008f9d-057b-4512-b4f3-7ae3f6a627d8.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.5",
+  "DatabaseID": "421285",
+  "Developer": "Kaiko",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action",
+  "Name": "Legend of Kay: Anniversary",
+  "Overview": "Experience the unique blend of Martial Arts-combat, action adventure, Jump 'n' Run and puzzle solving.\n\n10 years after its initial release, Legend of Kay Anniversary by Kaiko Games is a thoroughly remastered version of the original game with high resolution textures, new & more detailed character models, modern rendering techniques and crystal-clear surround sound which give this great classic a new shine.\n\nFull of fond allusions to old martial arts films and pop culture quotes, Legend of Kay Anniversary is both an incredibly funny game and a challenging action-adventure for young and old alike.",
+  "Publisher": "Nordic Games",
+  "ReleaseDate": "2015-07-28T00:00:00+00:00"
 }

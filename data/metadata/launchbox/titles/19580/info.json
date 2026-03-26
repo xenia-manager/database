@@ -1,162 +1,162 @@
 {
-  "Name": "Castlevania: Lords of Shadow 2",
-  "DatabaseID": "19580",
-  "ReleaseDate": "2014-02-25T00:00:00+00:00",
-  "Overview": "Castlevania: Lords of Shadow 2 returns in an epic adventure set in an open, modern day world. Fans of the series will play as Dracula for the very first time and uncover the shocking secrets behind the “Lords of Shadow” saga!\n\nDracula is resurrected once again, weakened and yearning for release from his immortal bonds. He is threatened by Satan, who has returned to bring about the apocalypse and ultimate revenge for his defeat all those centuries ago. Dracula must reacquire his powers of old and make a pact with Death in order to defeat the Devil, and gain his eternal rest. Also seeking Dracula’s destruction is the famed Belmont clan who has entered Dracula’s Castle. Here lies the truth behind their mysterious ancestry. The fight between good vs. evil comes to a close as Dracula is faced with his nemesis, Satan, and his ancestors’ unyielding quest for revenge.",
-  "VideoURL": "http://www.youtube.com/watch?v=gKsEPoJMuKY",
-  "CommunityRating": "4.31818181818182",
-  "ESRB": "M - Mature",
-  "Genres": "Action",
-  "Developer": "MercurySteam",
-  "Publisher": "Konami",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "26d3067e-9c4e-47b6-843e-e0c3714d78f1.png",
-        "Type": "Banner",
-        "CRC32": "75774010",
-        "URL": "http://images.launchbox-app.com/26d3067e-9c4e-47b6-843e-e0c3714d78f1.png"
-      },
-      {
-        "FileName": "40190158-7c9a-46c8-8a84-4ca280de936f.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "2612665969",
-        "URL": "http://images.launchbox-app.com/40190158-7c9a-46c8-8a84-4ca280de936f.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2644710424",
         "FileName": "b0d855e1-b1f4-4f4e-aa44-6f5cf6ab8a28.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2644710424",
         "URL": "http://images.launchbox-app.com/b0d855e1-b1f4-4f4e-aa44-6f5cf6ab8a28.jpg"
       },
       {
+        "CRC32": "1752811515",
         "FileName": "cf93cb08-9e5b-4ed8-913f-6849d60fdcf6.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1752811515",
         "URL": "http://images.launchbox-app.com/cf93cb08-9e5b-4ed8-913f-6849d60fdcf6.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "75774010",
+        "FileName": "26d3067e-9c4e-47b6-843e-e0c3714d78f1.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/26d3067e-9c4e-47b6-843e-e0c3714d78f1.png"
+      },
+      {
+        "CRC32": "2612665969",
+        "FileName": "40190158-7c9a-46c8-8a84-4ca280de936f.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/40190158-7c9a-46c8-8a84-4ca280de936f.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "25b40887-a637-4533-9377-f8a1715ff745.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "593759745",
+          "FileName": "25b40887-a637-4533-9377-f8a1715ff745.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/25b40887-a637-4533-9377-f8a1715ff745.png"
         },
         {
-          "FileName": "fc2d8df7-e8b4-4005-819a-cdcd8192c8f3.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "4075492265",
+          "FileName": "fc2d8df7-e8b4-4005-819a-cdcd8192c8f3.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/fc2d8df7-e8b4-4005-819a-cdcd8192c8f3.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_a45e63ec-f56e-4bff-996c-fd32f11055b5.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2758433084",
+          "FileName": "r2_a45e63ec-f56e-4bff-996c-fd32f11055b5.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_a45e63ec-f56e-4bff-996c-fd32f11055b5.jpg"
         },
         {
-          "FileName": "41f01c4a-ab37-46e5-9003-ea9385b80924.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3131883544",
+          "FileName": "41f01c4a-ab37-46e5-9003-ea9385b80924.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/41f01c4a-ab37-46e5-9003-ea9385b80924.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "ad71efdb-d548-4310-bab9-2c43f66ba90f.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "3460305922",
+          "FileName": "ad71efdb-d548-4310-bab9-2c43f66ba90f.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ad71efdb-d548-4310-bab9-2c43f66ba90f.jpg"
         },
         {
-          "FileName": "r2_83c94803-7d7d-437c-b23e-be7e31746bef.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "4049379716",
+          "FileName": "r2_83c94803-7d7d-437c-b23e-be7e31746bef.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_83c94803-7d7d-437c-b23e-be7e31746bef.jpg"
         },
         {
-          "FileName": "r2_9caf3ad8-093c-45c2-a487-b0408e9e1c84.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "2630356490",
-          "URL": "http://images.launchbox-app.com/r2_9caf3ad8-093c-45c2-a487-b0408e9e1c84.jpg"
-        },
-        {
-          "FileName": "8141a457-1bae-4ff3-ad70-e75f20b59b4f.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3150260115",
+          "FileName": "8141a457-1bae-4ff3-ad70-e75f20b59b4f.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8141a457-1bae-4ff3-ad70-e75f20b59b4f.jpg"
         },
         {
-          "FileName": "r2_3fb2f4ab-4e98-4f16-a5a0-6fe5df350f3b.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "200180355",
+          "FileName": "r2_3fb2f4ab-4e98-4f16-a5a0-6fe5df350f3b.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_3fb2f4ab-4e98-4f16-a5a0-6fe5df350f3b.jpg"
         },
         {
-          "FileName": "c84a1be2-e1b3-4e46-932c-1bda11614a8d.png",
-          "Type": "Box - Front - Reconstructed",
+          "CRC32": "2630356490",
+          "FileName": "r2_9caf3ad8-093c-45c2-a487-b0408e9e1c84.jpg",
           "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_9caf3ad8-093c-45c2-a487-b0408e9e1c84.jpg"
+        },
+        {
           "CRC32": "1537629452",
+          "FileName": "c84a1be2-e1b3-4e46-932c-1bda11614a8d.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/c84a1be2-e1b3-4e46-932c-1bda11614a8d.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "dd21a42f-b5f8-4ee3-ac72-bbe5068f8185.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3771637543",
+          "FileName": "dd21a42f-b5f8-4ee3-ac72-bbe5068f8185.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/dd21a42f-b5f8-4ee3-ac72-bbe5068f8185.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "c21fff07-db63-4708-bc40-3eaf74a9a5df.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2459862444",
+        "FileName": "c21fff07-db63-4708-bc40-3eaf74a9a5df.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c21fff07-db63-4708-bc40-3eaf74a9a5df.png"
       },
       {
-        "FileName": "4f7551fe-6df0-4c01-96e2-ad77c0ec9af6.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "3160379799",
+        "FileName": "4f7551fe-6df0-4c01-96e2-ad77c0ec9af6.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/4f7551fe-6df0-4c01-96e2-ad77c0ec9af6.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_93afd785-5d44-4fcd-beb1-5a2fad69cf58.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "2962726783",
+        "FileName": "r2_93afd785-5d44-4fcd-beb1-5a2fad69cf58.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_93afd785-5d44-4fcd-beb1-5a2fad69cf58.png"
       },
       {
-        "FileName": "7c5900ff-1559-41b0-98a3-fc99b2c67269.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3768460755",
+        "FileName": "7c5900ff-1559-41b0-98a3-fc99b2c67269.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/7c5900ff-1559-41b0-98a3-fc99b2c67269.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.31818181818182",
+  "DatabaseID": "19580",
+  "Developer": "MercurySteam",
+  "ESRB": "M - Mature",
+  "Genres": "Action",
+  "Name": "Castlevania: Lords of Shadow 2",
+  "Overview": "Castlevania: Lords of Shadow 2 returns in an epic adventure set in an open, modern day world. Fans of the series will play as Dracula for the very first time and uncover the shocking secrets behind the “Lords of Shadow” saga!\n\nDracula is resurrected once again, weakened and yearning for release from his immortal bonds. He is threatened by Satan, who has returned to bring about the apocalypse and ultimate revenge for his defeat all those centuries ago. Dracula must reacquire his powers of old and make a pact with Death in order to defeat the Devil, and gain his eternal rest. Also seeking Dracula’s destruction is the famed Belmont clan who has entered Dracula’s Castle. Here lies the truth behind their mysterious ancestry. The fight between good vs. evil comes to a close as Dracula is faced with his nemesis, Satan, and his ancestors’ unyielding quest for revenge.",
+  "Publisher": "Konami",
+  "ReleaseDate": "2014-02-25T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=gKsEPoJMuKY"
 }

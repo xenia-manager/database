@@ -1,56 +1,56 @@
 {
-  "Name": "Frogger",
-  "DatabaseID": "19686",
-  "ReleaseDate": "2006-07-12T00:00:00+00:00",
-  "Overview": "Enjoy the classic game Frogger, revitalized and brand spanking new on your Xbox 360. Features enhanced artwork building on the original title's style, modernized sound and music, and all new play modes. Versus speed mode: Race a friend in split screen or Xbox Live action with this exciting new mode. Take as many frogs as you need to be the first to get five across the street for a new, intense competition. Co-op play: With a friend in the room, or on the other side of the world via Xbox Live, put your competitive nature aside and work together to push your frogs to the limit. All new bonuses: Rescue extra frogs, discover Frogger's friends, and search out tasty insect bonuses to push your score higher. There's an all time high score for this title, and someone's gonna have to beat it.",
-  "CommunityRating": "3.08333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Frogger",
-  "ESRB": "E - Everyone",
-  "Genres": "Action",
-  "Developer": "Backbone Vancouver",
-  "Publisher": "Konami Digital Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_5dfc19dd-5e79-42ef-8555-6036788a6ae9.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "529620679",
-        "URL": "http://images.launchbox-app.com/r2_5dfc19dd-5e79-42ef-8555-6036788a6ae9.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "790992726",
         "FileName": "dbbb63e9-5b08-44f0-973d-cfb6360b9f45.png",
         "Type": "Fanart - Background",
-        "CRC32": "790992726",
         "URL": "http://images.launchbox-app.com/dbbb63e9-5b08-44f0-973d-cfb6360b9f45.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "529620679",
+        "FileName": "r2_5dfc19dd-5e79-42ef-8555-6036788a6ae9.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_5dfc19dd-5e79-42ef-8555-6036788a6ae9.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "1630988180",
           "FileName": "2575685a-6f97-4d9b-9be4-cc07af75bac7.jpg",
           "Type": "Box - Front",
-          "CRC32": "1630988180",
           "URL": "http://images.launchbox-app.com/2575685a-6f97-4d9b-9be4-cc07af75bac7.jpg"
         },
         {
-          "FileName": "r2_78d7837e-c9e9-41a7-85af-105fe652c741.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2416222667",
+          "FileName": "r2_78d7837e-c9e9-41a7-85af-105fe652c741.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_78d7837e-c9e9-41a7-85af-105fe652c741.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "2520899324",
         "FileName": "412cd76a-f07d-4ab2-9ab3-8eb25eff43a4.png",
         "Type": "Clear Logo",
-        "CRC32": "2520899324",
         "URL": "http://images.launchbox-app.com/412cd76a-f07d-4ab2-9ab3-8eb25eff43a4.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.08333333333333",
+  "DatabaseID": "19686",
+  "Developer": "Backbone Vancouver",
+  "ESRB": "E - Everyone",
+  "Genres": "Action",
+  "Name": "Frogger",
+  "Overview": "Enjoy the classic game Frogger, revitalized and brand spanking new on your Xbox 360. Features enhanced artwork building on the original title's style, modernized sound and music, and all new play modes. Versus speed mode: Race a friend in split screen or Xbox Live action with this exciting new mode. Take as many frogs as you need to be the first to get five across the street for a new, intense competition. Co-op play: With a friend in the room, or on the other side of the world via Xbox Live, put your competitive nature aside and work together to push your frogs to the limit. All new bonuses: Rescue extra frogs, discover Frogger's friends, and search out tasty insect bonuses to push your score higher. There's an all time high score for this title, and someone's gonna have to beat it.",
+  "Publisher": "Konami Digital Entertainment",
+  "ReleaseDate": "2006-07-12T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Frogger"
 }

@@ -1,99 +1,99 @@
 {
-  "Name": "Turbo: Super Stunt Squad",
-  "DatabaseID": "173262",
-  "ReleaseDate": "2013-07-16T00:00:00+00:00",
-  "Overview": "Turbo: Super Stunt Squad is a high-velocity action game featuring the super-charged crew of characters from the upcoming film. Each playable character has their own signature street style and tricked-out skills which will come in handy when showing-off and earning respect with super-cool stunt moves. Expert skills will also prove useful to earn power-ups, customize your character, win competitive challenges and discover shortcuts in the dynamic larger-than-life environments of Turbo’s world.",
-  "CommunityRating": "3.5",
-  "ESRB": "E - Everyone",
-  "Genres": "Racing",
-  "Developer": "Torus Games",
-  "Publisher": "D3Publisher",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_bcf6941b-11fe-4706-bb05-031299991b2e.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2532155534",
-        "URL": "http://images.launchbox-app.com/r2_bcf6941b-11fe-4706-bb05-031299991b2e.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_a423880d-96c6-4cf3-843b-dec11f477f1e.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "477095245",
+        "FileName": "r2_6909881b-88ed-40b2-9c15-706826bfde68.jpg",
         "Region": "World",
-        "CRC32": "3754890484",
-        "URL": "http://images.launchbox-app.com/r2_a423880d-96c6-4cf3-843b-dec11f477f1e.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_6909881b-88ed-40b2-9c15-706826bfde68.jpg"
       },
       {
-        "FileName": "r2_6909881b-88ed-40b2-9c15-706826bfde68.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3754890484",
+        "FileName": "r2_a423880d-96c6-4cf3-843b-dec11f477f1e.jpg",
         "Region": "World",
-        "CRC32": "477095245",
-        "URL": "http://images.launchbox-app.com/r2_6909881b-88ed-40b2-9c15-706826bfde68.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_a423880d-96c6-4cf3-843b-dec11f477f1e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2532155534",
+        "FileName": "r2_bcf6941b-11fe-4706-bb05-031299991b2e.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_bcf6941b-11fe-4706-bb05-031299991b2e.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_d2da3b66-2f19-4805-949b-4bf8d68bc99d.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "237782793",
+          "FileName": "r2_d2da3b66-2f19-4805-949b-4bf8d68bc99d.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_d2da3b66-2f19-4805-949b-4bf8d68bc99d.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_d54b5d4f-5df6-4eab-adc0-727d0c0060ee.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1441860847",
+          "FileName": "r2_d54b5d4f-5df6-4eab-adc0-727d0c0060ee.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_d54b5d4f-5df6-4eab-adc0-727d0c0060ee.jpg"
         },
         {
-          "FileName": "r2_d2dc5360-5a5f-44e6-8468-d22b2e73f04e.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3571449050",
+          "FileName": "r2_d2dc5360-5a5f-44e6-8468-d22b2e73f04e.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_d2dc5360-5a5f-44e6-8468-d22b2e73f04e.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_3c081e8a-1a0f-4bf4-8477-f61cb30e69d5.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "184182472",
+          "FileName": "r2_3c081e8a-1a0f-4bf4-8477-f61cb30e69d5.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_3c081e8a-1a0f-4bf4-8477-f61cb30e69d5.jpg"
         },
         {
-          "FileName": "34e3a31d-8f33-4c72-ac5c-5f8b6a9cce1f.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1809498071",
+          "FileName": "34e3a31d-8f33-4c72-ac5c-5f8b6a9cce1f.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/34e3a31d-8f33-4c72-ac5c-5f8b6a9cce1f.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_cd17f0c4-108b-47ac-9fa1-90c9f5dd30d8.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2272138368",
+        "FileName": "r2_cd17f0c4-108b-47ac-9fa1-90c9f5dd30d8.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_cd17f0c4-108b-47ac-9fa1-90c9f5dd30d8.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_7458dfcc-5baa-42af-8164-e76815aa591a.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "3097182855",
+        "FileName": "r2_7458dfcc-5baa-42af-8164-e76815aa591a.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_7458dfcc-5baa-42af-8164-e76815aa591a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "173262",
+  "Developer": "Torus Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Racing",
+  "Name": "Turbo: Super Stunt Squad",
+  "Overview": "Turbo: Super Stunt Squad is a high-velocity action game featuring the super-charged crew of characters from the upcoming film. Each playable character has their own signature street style and tricked-out skills which will come in handy when showing-off and earning respect with super-cool stunt moves. Expert skills will also prove useful to earn power-ups, customize your character, win competitive challenges and discover shortcuts in the dynamic larger-than-life environments of Turbo’s world.",
+  "Publisher": "D3Publisher",
+  "ReleaseDate": "2013-07-16T00:00:00+00:00"
 }

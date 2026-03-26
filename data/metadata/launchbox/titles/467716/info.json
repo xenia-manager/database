@@ -1,22 +1,22 @@
 {
-  "Name": "Avatar Pinball",
-  "DatabaseID": "467716",
-  "ReleaseDate": "2010-07-25T00:00:00+00:00",
-  "Overview": "Ragdoll physics meets classic pinball gameplay in a giant pinball machine where your Avatar is the ball!",
-  "Genres": "Pinball",
-  "Developer": "ladron",
-  "Publisher": "ladron",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "1fa68056-8e6b-4efb-9c48-b4cfb2023efc.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "677395590",
+          "FileName": "1fa68056-8e6b-4efb-9c48-b4cfb2023efc.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1fa68056-8e6b-4efb-9c48-b4cfb2023efc.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "467716",
+  "Developer": "ladron",
+  "Genres": "Pinball",
+  "Name": "Avatar Pinball",
+  "Overview": "Ragdoll physics meets classic pinball gameplay in a giant pinball machine where your Avatar is the ball!",
+  "Publisher": "ladron",
+  "ReleaseDate": "2010-07-25T00:00:00+00:00"
 }

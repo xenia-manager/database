@@ -1,23 +1,23 @@
 {
-  "Name": "Fractalus",
-  "DatabaseID": "469592",
-  "ReleaseDate": "2011-12-07T00:00:00+00:00",
-  "Overview": "Explore the MandelBrot and Julia fractals. Light up your TV with fantastic patterns. Play with the colors to create a beautiful scene. Listen to your music or the music provided with the fractals pulsing to the beat!",
-  "VideoURL": "https://youtu.be/SZJjdNd1UTs",
-  "Genres": null,
-  "Developer": "Fuzzy Duck Entertainment",
-  "Publisher": "Fuzzy Duck Entertainment",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "46a4a7bd-fb92-4c34-b4ea-4244eb5ed44a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "905277455",
+          "FileName": "46a4a7bd-fb92-4c34-b4ea-4244eb5ed44a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/46a4a7bd-fb92-4c34-b4ea-4244eb5ed44a.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469592",
+  "Developer": "Fuzzy Duck Entertainment",
+  "Genres": null,
+  "Name": "Fractalus",
+  "Overview": "Explore the MandelBrot and Julia fractals. Light up your TV with fantastic patterns. Play with the colors to create a beautiful scene. Listen to your music or the music provided with the fractals pulsing to the beat!",
+  "Publisher": "Fuzzy Duck Entertainment",
+  "ReleaseDate": "2011-12-07T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/SZJjdNd1UTs"
 }

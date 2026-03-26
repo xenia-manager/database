@@ -1,41 +1,41 @@
 {
-  "Name": "MLB Bobblehead Pros",
-  "DatabaseID": "199656",
-  "ReleaseDate": "2011-07-06T00:00:00+00:00",
-  "Overview": "MLB Bobblehead Pros is packed with all the teams, players, and fanfare of Major League Baseball ready for you and your friends with co-op mode and online battle mode. Play your favorite sport with your favorite Bobblehead!",
-  "CommunityRating": "1.5",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Konami",
-  "Publisher": "Konami",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "a67f25e6-665b-4561-8183-483a9d82ef52.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2632493038",
+          "FileName": "a67f25e6-665b-4561-8183-483a9d82ef52.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a67f25e6-665b-4561-8183-483a9d82ef52.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "e611105f-0f03-48df-8fc1-c32cf4b75a7d.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "North America",
-        "CRC32": "3854788916",
-        "URL": "http://images.launchbox-app.com/e611105f-0f03-48df-8fc1-c32cf4b75a7d.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "770368166",
         "FileName": "59013681-bef3-4ec5-a67a-8232d6bd01a5.png",
         "Type": "Clear Logo",
-        "CRC32": "770368166",
         "URL": "http://images.launchbox-app.com/59013681-bef3-4ec5-a67a-8232d6bd01a5.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3854788916",
+        "FileName": "e611105f-0f03-48df-8fc1-c32cf4b75a7d.jpg",
+        "Region": "North America",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/e611105f-0f03-48df-8fc1-c32cf4b75a7d.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "1.5",
+  "DatabaseID": "199656",
+  "Developer": "Konami",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "MLB Bobblehead Pros",
+  "Overview": "MLB Bobblehead Pros is packed with all the teams, players, and fanfare of Major League Baseball ready for you and your friends with co-op mode and online battle mode. Play your favorite sport with your favorite Bobblehead!",
+  "Publisher": "Konami",
+  "ReleaseDate": "2011-07-06T00:00:00+00:00"
 }

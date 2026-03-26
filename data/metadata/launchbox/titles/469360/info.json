@@ -1,53 +1,53 @@
 {
-  "Name": "The Factory",
-  "DatabaseID": "469360",
-  "ReleaseDate": "2009-02-20T00:00:00+00:00",
-  "Overview": "The protagonist of The Factory is the robot KC-001 who wants to escape a factory. Unfortunately he is a bit dumb and can only roll back and forth. If he meets an obstacle or a ledge, he just turns around.\n\nThe player controls a cursor and needs to manipulate the environment to reach the next screen (and eventually the next level). The most time is spent with picking up boxes, for example to build stairs so the robot can reach a higher platform. Additionally there are also switches which, when pressed, change the environment. For example, when the robot needs to reach a lower path, the player can trap him on a ledge and retract it by releasing a crate over the associated button. Besides picking boxes up, the player can also initiate a forceful push into any direction. The game features eight levels as well as a time trial and an advanced mode.",
-  "VideoURL": "https://www.youtube.com/watch?v=7JxJ-ppe2ZM&t=1s",
-  "Genres": "Puzzle",
-  "Developer": "Akela",
-  "Publisher": "Akela",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "2e7af7b3-57ee-47fe-89d4-34c6ccb1dd0e.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "474550218",
+          "FileName": "2e7af7b3-57ee-47fe-89d4-34c6ccb1dd0e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/2e7af7b3-57ee-47fe-89d4-34c6ccb1dd0e.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "ad59bb6d-d82b-4f6c-b487-f76413bdea73.png",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "2203854182",
+        "FileName": "ad59bb6d-d82b-4f6c-b487-f76413bdea73.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/ad59bb6d-d82b-4f6c-b487-f76413bdea73.png"
       },
       {
-        "FileName": "62af22c2-ea4c-4a86-b05e-53a412373c1d.png",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "458116519",
+        "FileName": "3d7bcbdd-82cf-4645-b950-3b1ece9a2a0e.png",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/3d7bcbdd-82cf-4645-b950-3b1ece9a2a0e.png"
+      },
+      {
         "CRC32": "3878954375",
+        "FileName": "62af22c2-ea4c-4a86-b05e-53a412373c1d.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/62af22c2-ea4c-4a86-b05e-53a412373c1d.png"
       },
       {
-        "FileName": "cdeee6b8-2561-47ca-aeec-547a86852f31.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "4222906653",
-        "URL": "http://images.launchbox-app.com/cdeee6b8-2561-47ca-aeec-547a86852f31.png"
-      },
-      {
-        "FileName": "3d7bcbdd-82cf-4645-b950-3b1ece9a2a0e.png",
-        "Type": "Screenshot - Gameplay",
+        "FileName": "cdeee6b8-2561-47ca-aeec-547a86852f31.png",
         "Region": "World",
-        "CRC32": "458116519",
-        "URL": "http://images.launchbox-app.com/3d7bcbdd-82cf-4645-b950-3b1ece9a2a0e.png"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/cdeee6b8-2561-47ca-aeec-547a86852f31.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "469360",
+  "Developer": "Akela",
+  "Genres": "Puzzle",
+  "Name": "The Factory",
+  "Overview": "The protagonist of The Factory is the robot KC-001 who wants to escape a factory. Unfortunately he is a bit dumb and can only roll back and forth. If he meets an obstacle or a ledge, he just turns around.\n\nThe player controls a cursor and needs to manipulate the environment to reach the next screen (and eventually the next level). The most time is spent with picking up boxes, for example to build stairs so the robot can reach a higher platform. Additionally there are also switches which, when pressed, change the environment. For example, when the robot needs to reach a lower path, the player can trap him on a ledge and retract it by releasing a crate over the associated button. Besides picking boxes up, the player can also initiate a forceful push into any direction. The game features eight levels as well as a time trial and an advanced mode.",
+  "Publisher": "Akela",
+  "ReleaseDate": "2009-02-20T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=7JxJ-ppe2ZM&t=1s"
 }

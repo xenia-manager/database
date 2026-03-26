@@ -1,51 +1,51 @@
 {
-  "Name": "Puzzle Quest 2",
-  "DatabaseID": "157454",
-  "ReleaseDate": "2010-06-30T00:00:00+00:00",
-  "Overview": "Escape to a puzzle game fantasy world filled with amazing creatures, powerful weapons, and addictive role playing in this sequel to the award-winning Puzzle Quest, the game that forged the puzzle RPG genre. Featuring 4 brand new character classes, over 80 unique opponents, and over 100 different spells. Do battle, explore, and loot your way through a dungeon filled with ancient evil from an all-new isometric perspective.",
-  "VideoURL": "https://www.youtube.com/watch?v=zY44Yhyb8iE",
-  "CommunityRating": "3.9",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Puzzle_Quest_2",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Puzzle; Role-Playing",
-  "Developer": "Infinite Interactive",
-  "Publisher": "D3Publisher",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3420310667",
         "FileName": "99334594-6257-47e8-a016-410f9bf01f6e.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3420310667",
         "URL": "http://images.launchbox-app.com/99334594-6257-47e8-a016-410f9bf01f6e.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "9d894ac6-d01b-4bdc-a76f-4ed7df1f7471.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2862250374",
+          "FileName": "9d894ac6-d01b-4bdc-a76f-4ed7df1f7471.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9d894ac6-d01b-4bdc-a76f-4ed7df1f7471.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "df536614-c128-4302-9377-b5b0906e43f0.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1234496833",
-        "URL": "http://images.launchbox-app.com/df536614-c128-4302-9377-b5b0906e43f0.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "46d341ec-c97e-46ba-970a-5e0e79cd99c9.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "4019268553",
+        "FileName": "46d341ec-c97e-46ba-970a-5e0e79cd99c9.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/46d341ec-c97e-46ba-970a-5e0e79cd99c9.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1234496833",
+        "FileName": "df536614-c128-4302-9377-b5b0906e43f0.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/df536614-c128-4302-9377-b5b0906e43f0.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.9",
+  "DatabaseID": "157454",
+  "Developer": "Infinite Interactive",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Puzzle; Role-Playing",
+  "Name": "Puzzle Quest 2",
+  "Overview": "Escape to a puzzle game fantasy world filled with amazing creatures, powerful weapons, and addictive role playing in this sequel to the award-winning Puzzle Quest, the game that forged the puzzle RPG genre. Featuring 4 brand new character classes, over 80 unique opponents, and over 100 different spells. Do battle, explore, and loot your way through a dungeon filled with ancient evil from an all-new isometric perspective.",
+  "Publisher": "D3Publisher",
+  "ReleaseDate": "2010-06-30T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=zY44Yhyb8iE",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Puzzle_Quest_2"
 }

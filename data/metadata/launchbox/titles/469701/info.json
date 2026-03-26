@@ -1,23 +1,23 @@
 {
-  "Name": "Gamerscore Tracker",
-  "DatabaseID": "469701",
-  "ReleaseDate": "2011-12-09T00:00:00+00:00",
-  "Overview": "Gamerscore Tracker tracks day to day Gamerscore changes, ranks players against their friends, and ranks them globally in the Global Tracker by total Gamerscore, games played, and total achieved as well as Gamerscore gains over periods of time.\n\nWhere do you stack up against the world?",
-  "VideoURL": "https://youtu.be/elg8MggNWJw",
-  "Genres": null,
-  "Developer": "BigRookGames",
-  "Publisher": "BigRookGames",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "bbb6be8a-5717-4e07-aee5-6cd70ce5b254.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "79983817",
+          "FileName": "bbb6be8a-5717-4e07-aee5-6cd70ce5b254.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/bbb6be8a-5717-4e07-aee5-6cd70ce5b254.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469701",
+  "Developer": "BigRookGames",
+  "Genres": null,
+  "Name": "Gamerscore Tracker",
+  "Overview": "Gamerscore Tracker tracks day to day Gamerscore changes, ranks players against their friends, and ranks them globally in the Global Tracker by total Gamerscore, games played, and total achieved as well as Gamerscore gains over periods of time.\n\nWhere do you stack up against the world?",
+  "Publisher": "BigRookGames",
+  "ReleaseDate": "2011-12-09T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/elg8MggNWJw"
 }

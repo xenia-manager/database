@@ -1,32 +1,32 @@
 {
-  "Name": "Curse of Shadows",
-  "DatabaseID": "468704",
-  "ReleaseDate": "2012-04-27T00:00:00+00:00",
-  "Overview": "Experience the story of a thief who can transform into her own shadow. In this 2-D side scroller, alternate between normal and shadow mode to navigate platforms and solve puzzles. Walk on the shadows of objects to get to new areas, move objects and light sources in order to change the shadow environment. Beware shadow monsters who stalk you and seek to destroy you.",
-  "VideoURL": "https://youtu.be/HQIBQBZqN1E",
-  "Genres": "Action",
-  "Developer": "1BlockEast",
-  "Publisher": "1BlockEast",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "2d5c7d8c-46e9-406e-b33c-cbb527cebd3e.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2439791236",
+          "FileName": "2d5c7d8c-46e9-406e-b33c-cbb527cebd3e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/2d5c7d8c-46e9-406e-b33c-cbb527cebd3e.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "e1a94efe-9961-4eb6-8657-e0a46724ee61.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "4085595533",
+        "FileName": "e1a94efe-9961-4eb6-8657-e0a46724ee61.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/e1a94efe-9961-4eb6-8657-e0a46724ee61.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468704",
+  "Developer": "1BlockEast",
+  "Genres": "Action",
+  "Name": "Curse of Shadows",
+  "Overview": "Experience the story of a thief who can transform into her own shadow. In this 2-D side scroller, alternate between normal and shadow mode to navigate platforms and solve puzzles. Walk on the shadows of objects to get to new areas, move objects and light sources in order to change the shadow environment. Beware shadow monsters who stalk you and seek to destroy you.",
+  "Publisher": "1BlockEast",
+  "ReleaseDate": "2012-04-27T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/HQIBQBZqN1E"
 }

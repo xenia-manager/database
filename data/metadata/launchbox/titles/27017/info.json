@@ -1,56 +1,56 @@
 {
-  "Name": "WRC 3 FIA World Rally Championship",
-  "DatabaseID": "27017",
-  "ReleaseDate": "2013-03-26T00:00:00+00:00",
-  "Overview": "WRC 3: FIA World Rally Championship (also known as WRC 3, WRC 3: FIA World Rally Championship 3, 2012 FIA World Rally Championship) is the official racing video game of the 2012 World Rally Championship season. It was developed by Milestone S.r.l.. WRC 3 was released in Europe on 12 October 2012.[3]",
-  "CommunityRating": "3.5",
-  "ESRB": "E - Everyone",
-  "Genres": "Racing",
-  "Developer": "Milestone",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "r2_72e25397-6694-4043-b7e3-316a5ca54c1d.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1800990922",
+          "FileName": "r2_72e25397-6694-4043-b7e3-316a5ca54c1d.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_72e25397-6694-4043-b7e3-316a5ca54c1d.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "e893e87a-48e4-4c13-a5d2-c09e64de7ea9.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "3340287587",
+          "FileName": "e893e87a-48e4-4c13-a5d2-c09e64de7ea9.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e893e87a-48e4-4c13-a5d2-c09e64de7ea9.jpg"
         },
         {
-          "FileName": "r2_c639d0e6-9605-418a-a777-d20f45bcb4db.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "795253735",
+          "FileName": "r2_c639d0e6-9605-418a-a777-d20f45bcb4db.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_c639d0e6-9605-418a-a777-d20f45bcb4db.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_0eafa8c8-72b4-44a4-8660-4fdf746af1c9.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "2652415521",
+        "FileName": "r2_0eafa8c8-72b4-44a4-8660-4fdf746af1c9.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_0eafa8c8-72b4-44a4-8660-4fdf746af1c9.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1725605447",
         "FileName": "2b41c855-bdcd-42af-b4b4-6adbbaf4f2ae.png",
         "Type": "Clear Logo",
-        "CRC32": "1725605447",
         "URL": "http://images.launchbox-app.com/2b41c855-bdcd-42af-b4b4-6adbbaf4f2ae.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "27017",
+  "Developer": "Milestone",
+  "ESRB": "E - Everyone",
+  "Genres": "Racing",
+  "Name": "WRC 3 FIA World Rally Championship",
+  "Overview": "WRC 3: FIA World Rally Championship (also known as WRC 3, WRC 3: FIA World Rally Championship 3, 2012 FIA World Rally Championship) is the official racing video game of the 2012 World Rally Championship season. It was developed by Milestone S.r.l.. WRC 3 was released in Europe on 12 October 2012.[3]",
+  "ReleaseDate": "2013-03-26T00:00:00+00:00"
 }

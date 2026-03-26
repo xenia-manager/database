@@ -1,73 +1,73 @@
 {
-  "Name": "SoulCalibur II HD Online",
-  "DatabaseID": "129042",
-  "ReleaseDate": "2013-11-20T00:00:00+00:00",
-  "Overview": "Transcending history and the world, a tale of souls and swords eternally retold. \n\nFour years have passed since the spirit sword, Soulcalibur defeated the evil Soul Edge. At the end of that fateful battle, the shards of the shattered Soul Edge were scattered across the world and Soulclibur was lost to the void. Now, the evil that still resides in the scattered shards of Soul Edge threatens again to engulf the world in darkness.\n\nGuest starring exclusively for the Xbox: Spawn.",
-  "CommunityRating": "3.45",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Soulcalibur_II",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "Namco",
-  "Publisher": "Namco",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "85361334",
+        "FileName": "0d7c9ff9-9679-4dd3-b174-05cf16deb4ee.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/0d7c9ff9-9679-4dd3-b174-05cf16deb4ee.jpg"
+      },
+      {
+        "CRC32": "919762650",
         "FileName": "a395264b-176d-4863-baa7-8637c42bc494.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "919762650",
         "URL": "http://images.launchbox-app.com/a395264b-176d-4863-baa7-8637c42bc494.jpg"
       },
       {
+        "CRC32": "2516141845",
         "FileName": "ecc944e4-3654-4f10-9559-84266f92cef0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2516141845",
         "URL": "http://images.launchbox-app.com/ecc944e4-3654-4f10-9559-84266f92cef0.jpg"
-      },
-      {
-        "FileName": "0d7c9ff9-9679-4dd3-b174-05cf16deb4ee.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "85361334",
-        "URL": "http://images.launchbox-app.com/0d7c9ff9-9679-4dd3-b174-05cf16deb4ee.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "1c68204b-0f92-46f3-9fd3-91366c60fe86.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "127714846",
+          "FileName": "1c68204b-0f92-46f3-9fd3-91366c60fe86.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1c68204b-0f92-46f3-9fd3-91366c60fe86.jpg"
         },
         {
+          "CRC32": "4274448454",
           "FileName": "20d87819-18b8-4fd3-97e2-d5baa1a6d3cb.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "4274448454",
           "URL": "http://images.launchbox-app.com/20d87819-18b8-4fd3-97e2-d5baa1a6d3cb.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "612988032",
+        "FileName": "49b44a1c-fd72-485a-a2f9-ffb7610614e5.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/49b44a1c-fd72-485a-a2f9-ffb7610614e5.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "3497346586",
         "FileName": "35a9e86c-78ce-44ba-8497-ba3b507a4f9b.png",
         "Type": "Screenshot - Game Title",
-        "CRC32": "3497346586",
         "URL": "http://images.launchbox-app.com/35a9e86c-78ce-44ba-8497-ba3b507a4f9b.png"
       },
       {
+        "CRC32": "1565990899",
         "FileName": "375e38f0-7b0d-4659-ba23-75224d77df39.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1565990899",
         "URL": "http://images.launchbox-app.com/375e38f0-7b0d-4659-ba23-75224d77df39.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "49b44a1c-fd72-485a-a2f9-ffb7610614e5.png",
-        "Type": "Clear Logo",
-        "CRC32": "612988032",
-        "URL": "http://images.launchbox-app.com/49b44a1c-fd72-485a-a2f9-ffb7610614e5.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.45",
+  "DatabaseID": "129042",
+  "Developer": "Namco",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "SoulCalibur II HD Online",
+  "Overview": "Transcending history and the world, a tale of souls and swords eternally retold. \n\nFour years have passed since the spirit sword, Soulcalibur defeated the evil Soul Edge. At the end of that fateful battle, the shards of the shattered Soul Edge were scattered across the world and Soulclibur was lost to the void. Now, the evil that still resides in the scattered shards of Soul Edge threatens again to engulf the world in darkness.\n\nGuest starring exclusively for the Xbox: Spawn.",
+  "Publisher": "Namco",
+  "ReleaseDate": "2013-11-20T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Soulcalibur_II"
 }

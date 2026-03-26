@@ -1,104 +1,104 @@
 {
-  "Name": "Arcania: Gothic 4",
-  "DatabaseID": "8853",
-  "ReleaseDate": "2010-10-19T00:00:00+00:00",
-  "Overview": "The hero of the Gothic saga has fulfilled his destiny and became King Robar III. Once he recklessly agreed to deliver a strange amulet for a blind lady, and from that moment on, his soul became corrupted. Now all the former hero can think about is power and conquest - but not for long, as a new hero has risen somewhere else...\n\nArcaniA: Gothic 4 is the successor to Gothic 3 and based upon the stories of the previous games, but does not continue it. It is a single-player, role-playing game with a \"back-to-basics\" approach, and features which have been slimmed down.\n\nTaking place a decade later than the previous game, players take the role of a new hero whose motivation and goal is to destroy the forces who have massacred his loved ones.\n\nUnlike other Gothic series games, the world map here is much smaller. Although each location can be explored fully, once at a new location there is no going back to a previous area. The plot is linear. Through the series of quests, the storyline progresses as each objective is reached, eliminating guesswork. There are no guilds or factions to align with, and no in-game morality code so the player doesn't need to worry about being thrown in jail for opening the wrong chest, stealing an item or killing someone. In addition, the amount of inventory items that can be carried has no cap. \n\nThere are three main classes (mage, ranger and warrior), skill trees and levelling up as experience increases. Battles are action-based. Choose to fight with ranged or melee weapons, or cast one of the three types of spells (fire, lightning or ice). Spells increase in strength in alignment with the player's levels. Gather plants and minerals to create potions and other items using a simplified crafting system. Upgrades to armour and weapons can be purchased with the gold amassed from fallen foes or quest rewards.",
-  "VideoURL": "https://www.youtube.com/watch?v=EbQKtVxWMpo",
-  "CommunityRating": "3.75",
-  "ESRB": "T - Teen",
-  "Genres": "Role-Playing",
-  "Developer": "Spellbound Entertainment",
-  "Publisher": "JoWooD Productions Software",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "9f0435a1-f422-425f-b2bc-3f2d06b508c4.png",
-        "Type": "Banner",
-        "CRC32": "1906116200",
-        "URL": "http://images.launchbox-app.com/9f0435a1-f422-425f-b2bc-3f2d06b508c4.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "435311266",
         "FileName": "74ea7804-80d5-4d73-b484-064ee8b9afd0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "435311266",
         "URL": "http://images.launchbox-app.com/74ea7804-80d5-4d73-b484-064ee8b9afd0.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1906116200",
+        "FileName": "9f0435a1-f422-425f-b2bc-3f2d06b508c4.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/9f0435a1-f422-425f-b2bc-3f2d06b508c4.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_238db0e4-e50e-4f9c-a22d-0f1ee077047f.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3784896225",
+          "FileName": "r2_238db0e4-e50e-4f9c-a22d-0f1ee077047f.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_238db0e4-e50e-4f9c-a22d-0f1ee077047f.png"
         }
       ],
       "Back": [
         {
-          "FileName": "3ad67d2d-b96d-4f4d-811e-8e75c942d648.jpg",
-          "Type": "Box - Back",
-          "Region": "Australia",
           "CRC32": "3090235940",
+          "FileName": "3ad67d2d-b96d-4f4d-811e-8e75c942d648.jpg",
+          "Region": "Australia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/3ad67d2d-b96d-4f4d-811e-8e75c942d648.jpg"
         },
         {
-          "FileName": "54505562-751c-434a-a2cd-f221f6313858.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "2088705664",
+          "FileName": "54505562-751c-434a-a2cd-f221f6313858.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/54505562-751c-434a-a2cd-f221f6313858.jpg"
         },
         {
-          "FileName": "7167d858-f96e-4088-9d90-699c2d18e35a.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2372979745",
+          "FileName": "7167d858-f96e-4088-9d90-699c2d18e35a.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/7167d858-f96e-4088-9d90-699c2d18e35a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "05f84257-1cb6-435a-9250-d1d4c117a6e8.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "3337317762",
+          "FileName": "05f84257-1cb6-435a-9250-d1d4c117a6e8.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/05f84257-1cb6-435a-9250-d1d4c117a6e8.jpg"
         },
         {
-          "FileName": "r2_deda340a-6ae2-4e41-9b93-1533ded5f285.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2479510765",
+          "FileName": "r2_deda340a-6ae2-4e41-9b93-1533ded5f285.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_deda340a-6ae2-4e41-9b93-1533ded5f285.jpg"
         },
         {
-          "FileName": "187b6fe3-e101-4cb1-bf3b-172fd01f5a82.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1938459067",
+          "FileName": "187b6fe3-e101-4cb1-bf3b-172fd01f5a82.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/187b6fe3-e101-4cb1-bf3b-172fd01f5a82.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "e38021ed-0e35-49f7-85bf-cdab8657f2c5.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3308314143",
+        "FileName": "e38021ed-0e35-49f7-85bf-cdab8657f2c5.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/e38021ed-0e35-49f7-85bf-cdab8657f2c5.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "483148190",
         "FileName": "4e235ca1-1331-4952-b4b8-d131d3f72473.png",
         "Type": "Clear Logo",
-        "CRC32": "483148190",
         "URL": "http://images.launchbox-app.com/4e235ca1-1331-4952-b4b8-d131d3f72473.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.75",
+  "DatabaseID": "8853",
+  "Developer": "Spellbound Entertainment",
+  "ESRB": "T - Teen",
+  "Genres": "Role-Playing",
+  "Name": "Arcania: Gothic 4",
+  "Overview": "The hero of the Gothic saga has fulfilled his destiny and became King Robar III. Once he recklessly agreed to deliver a strange amulet for a blind lady, and from that moment on, his soul became corrupted. Now all the former hero can think about is power and conquest - but not for long, as a new hero has risen somewhere else...\n\nArcaniA: Gothic 4 is the successor to Gothic 3 and based upon the stories of the previous games, but does not continue it. It is a single-player, role-playing game with a \"back-to-basics\" approach, and features which have been slimmed down.\n\nTaking place a decade later than the previous game, players take the role of a new hero whose motivation and goal is to destroy the forces who have massacred his loved ones.\n\nUnlike other Gothic series games, the world map here is much smaller. Although each location can be explored fully, once at a new location there is no going back to a previous area. The plot is linear. Through the series of quests, the storyline progresses as each objective is reached, eliminating guesswork. There are no guilds or factions to align with, and no in-game morality code so the player doesn't need to worry about being thrown in jail for opening the wrong chest, stealing an item or killing someone. In addition, the amount of inventory items that can be carried has no cap. \n\nThere are three main classes (mage, ranger and warrior), skill trees and levelling up as experience increases. Battles are action-based. Choose to fight with ranged or melee weapons, or cast one of the three types of spells (fire, lightning or ice). Spells increase in strength in alignment with the player's levels. Gather plants and minerals to create potions and other items using a simplified crafting system. Upgrades to armour and weapons can be purchased with the gold amassed from fallen foes or quest rewards.",
+  "Publisher": "JoWooD Productions Software",
+  "ReleaseDate": "2010-10-19T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=EbQKtVxWMpo"
 }

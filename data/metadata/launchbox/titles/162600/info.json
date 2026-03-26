@@ -1,84 +1,84 @@
 {
-  "Name": "AFL Live",
-  "DatabaseID": "162600",
-  "ReleaseDate": "2011-04-21T00:00:00+00:00",
-  "Overview": "The gameplay has gone more in depth with the core mechanics. Some specific improvements include, faster ball movement and a more free flowing game, improved control and camera systems, and more scope for tactical adjustments. The possible addition of obscurities such as \"behind the play\" incidents will potentially add to the longevity of the gameplay experience.[5]\n\nAll officially licensed AFL teams are included in the game. While it also features three extra teams, Victoria, Indigenous All Stars and an All Stars Team (Dream team) from the AFL Hall of Fame Tribute Match",
-  "CommunityRating": "3.7",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/AFL_Live",
-  "Genres": "Sports",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_36edbae6-62bc-4772-9a54-8a569d2c794c.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3300969859",
-        "URL": "http://images.launchbox-app.com/r2_36edbae6-62bc-4772-9a54-8a569d2c794c.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "450475640",
         "FileName": "ae88c806-9836-44a9-a6f9-365a2fa6c1f0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "450475640",
         "URL": "http://images.launchbox-app.com/ae88c806-9836-44a9-a6f9-365a2fa6c1f0.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3300969859",
+        "FileName": "r2_36edbae6-62bc-4772-9a54-8a569d2c794c.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_36edbae6-62bc-4772-9a54-8a569d2c794c.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "d0ae259b-b794-4585-8a79-45b3b4d6ae1e.png",
-          "Type": "Box - 3D",
-          "Region": "Australia",
           "CRC32": "858233200",
+          "FileName": "d0ae259b-b794-4585-8a79-45b3b4d6ae1e.png",
+          "Region": "Australia",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/d0ae259b-b794-4585-8a79-45b3b4d6ae1e.png"
         }
       ],
       "Back": [
         {
-          "FileName": "2add805a-9128-4652-aad6-f8ca74bb4e31.jpg",
-          "Type": "Box - Back",
-          "Region": "Australia",
           "CRC32": "3546618675",
+          "FileName": "2add805a-9128-4652-aad6-f8ca74bb4e31.jpg",
+          "Region": "Australia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/2add805a-9128-4652-aad6-f8ca74bb4e31.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "da500f02-2283-42bb-94cc-a512aa8cfb22.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "4183899793",
+          "FileName": "da500f02-2283-42bb-94cc-a512aa8cfb22.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/da500f02-2283-42bb-94cc-a512aa8cfb22.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "85b4bd35-9d37-44be-be29-1346e7bbf850.jpg",
-          "Type": "Box - Spine",
-          "Region": "Australia",
           "CRC32": "3891730644",
+          "FileName": "85b4bd35-9d37-44be-be29-1346e7bbf850.jpg",
+          "Region": "Australia",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/85b4bd35-9d37-44be-be29-1346e7bbf850.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "160c964d-4bce-4df0-819c-4bcfec1e0507.png",
-        "Type": "Disc",
-        "Region": "Germany",
         "CRC32": "3136220897",
+        "FileName": "160c964d-4bce-4df0-819c-4bcfec1e0507.png",
+        "Region": "Germany",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/160c964d-4bce-4df0-819c-4bcfec1e0507.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_e8868891-436b-4e70-b9ce-679274595989.png",
-        "Type": "Clear Logo",
-        "Region": "Australia",
         "CRC32": "1828905678",
+        "FileName": "r2_e8868891-436b-4e70-b9ce-679274595989.png",
+        "Region": "Australia",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_e8868891-436b-4e70-b9ce-679274595989.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.7",
+  "DatabaseID": "162600",
+  "Genres": "Sports",
+  "Name": "AFL Live",
+  "Overview": "The gameplay has gone more in depth with the core mechanics. Some specific improvements include, faster ball movement and a more free flowing game, improved control and camera systems, and more scope for tactical adjustments. The possible addition of obscurities such as \"behind the play\" incidents will potentially add to the longevity of the gameplay experience.[5]\n\nAll officially licensed AFL teams are included in the game. While it also features three extra teams, Victoria, Indigenous All Stars and an All Stars Team (Dream team) from the AFL Hall of Fame Tribute Match",
+  "ReleaseDate": "2011-04-21T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/AFL_Live"
 }

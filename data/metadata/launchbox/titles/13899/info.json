@@ -1,73 +1,73 @@
 {
-  "Name": "Plants vs. Zombies",
-  "DatabaseID": "13899",
-  "ReleaseDate": "2010-09-28T00:00:00+00:00",
-  "Overview": "Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks. Obstacles like a setting sun, creeping fog and a swimming pool add to the challenge, and with five game modes to dig into, the fun never dies!",
-  "VideoURL": "https://youtu.be/emKFi4Gv8Ow",
-  "CommunityRating": "4.53125",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Plants_vs._Zombies",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Strategy",
-  "Developer": "PopCap Games",
-  "Publisher": "PopCap Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "c142dfeb-5b86-4a86-b741-9e0221d004ce.png",
-        "Type": "Banner",
-        "CRC32": "3867583030",
-        "URL": "http://images.launchbox-app.com/c142dfeb-5b86-4a86-b741-9e0221d004ce.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "bad2fd9a-de9f-4de4-aa64-0dce04e0ebec.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1179082141",
-        "URL": "http://images.launchbox-app.com/bad2fd9a-de9f-4de4-aa64-0dce04e0ebec.jpg"
-      },
-      {
+        "CRC32": "3082425467",
         "FileName": "3fe0d479-ecba-442a-b21e-b27b98259646.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3082425467",
         "URL": "http://images.launchbox-app.com/3fe0d479-ecba-442a-b21e-b27b98259646.jpg"
+      },
+      {
+        "CRC32": "1179082141",
+        "FileName": "bad2fd9a-de9f-4de4-aa64-0dce04e0ebec.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/bad2fd9a-de9f-4de4-aa64-0dce04e0ebec.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3867583030",
+        "FileName": "c142dfeb-5b86-4a86-b741-9e0221d004ce.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/c142dfeb-5b86-4a86-b741-9e0221d004ce.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "b715c159-afb9-4b94-8707-bb7dee898ba9.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "368460983",
+          "FileName": "b715c159-afb9-4b94-8707-bb7dee898ba9.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/b715c159-afb9-4b94-8707-bb7dee898ba9.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "a2e7d533-ff64-49ca-be5d-f1e8f383e3fa.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2674609172",
+          "FileName": "a2e7d533-ff64-49ca-be5d-f1e8f383e3fa.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a2e7d533-ff64-49ca-be5d-f1e8f383e3fa.jpg"
         }
       ]
     },
     "Disc": [
       {
+        "CRC32": "1711121596",
         "FileName": "ec7b868a-0fe1-49d9-92f9-ced586ac2b41.png",
         "Type": "Fanart - Disc",
-        "CRC32": "1711121596",
         "URL": "http://images.launchbox-app.com/ec7b868a-0fe1-49d9-92f9-ced586ac2b41.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3329836306",
         "FileName": "bcb216cf-8a22-4e95-85b4-9fb0c84a10f0.png",
         "Type": "Clear Logo",
-        "CRC32": "3329836306",
         "URL": "http://images.launchbox-app.com/bcb216cf-8a22-4e95-85b4-9fb0c84a10f0.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.53125",
+  "DatabaseID": "13899",
+  "Developer": "PopCap Games",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Strategy",
+  "Name": "Plants vs. Zombies",
+  "Overview": "Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks. Obstacles like a setting sun, creeping fog and a swimming pool add to the challenge, and with five game modes to dig into, the fun never dies!",
+  "Publisher": "PopCap Games",
+  "ReleaseDate": "2010-09-28T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/emKFi4Gv8Ow",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Plants_vs._Zombies"
 }

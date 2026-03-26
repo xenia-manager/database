@@ -1,56 +1,56 @@
 {
-  "Name": "Battlefield 1943",
-  "DatabaseID": "19590",
-  "ReleaseDate": "2009-07-08T00:00:00+00:00",
-  "Overview": "Using the Frostbite engine, Battlefield 1943 takes players back to WWII. The game offers hours of 24 player multiplayer action over three classic and tropic locations; Wake Island, Guadalcanal and Iwo Jima. Delivering the award-winning through-the-gun and vehicle warfare online experience DICE is best recognized for, Battlefield 1943 has players battling in ruthless aerial dog fights and intense trench combat.",
-  "CommunityRating": "3.25",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "EA Digital Illusions",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_846d8f46-629f-4d75-aa5f-e56dd755cc83.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1269004411",
-        "URL": "http://images.launchbox-app.com/r2_846d8f46-629f-4d75-aa5f-e56dd755cc83.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_54e0605b-31cb-4515-95d7-757271432105.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2124217831",
+        "FileName": "r2_54e0605b-31cb-4515-95d7-757271432105.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_54e0605b-31cb-4515-95d7-757271432105.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1269004411",
+        "FileName": "r2_846d8f46-629f-4d75-aa5f-e56dd755cc83.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_846d8f46-629f-4d75-aa5f-e56dd755cc83.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "4266804029",
           "FileName": "a12fb3c2-9d23-48bd-8a83-9cd1e144df2f.jpg",
           "Type": "Box - Front",
-          "CRC32": "4266804029",
           "URL": "http://images.launchbox-app.com/a12fb3c2-9d23-48bd-8a83-9cd1e144df2f.jpg"
         },
         {
-          "FileName": "92173204-2e5d-4f4f-a24a-3ddf8e120e03.png",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "3156290004",
+          "FileName": "92173204-2e5d-4f4f-a24a-3ddf8e120e03.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/92173204-2e5d-4f4f-a24a-3ddf8e120e03.png"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "2169381283",
         "FileName": "7313ee36-98b9-47b5-8c68-5dc76d4ac525.png",
         "Type": "Clear Logo",
-        "CRC32": "2169381283",
         "URL": "http://images.launchbox-app.com/7313ee36-98b9-47b5-8c68-5dc76d4ac525.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.25",
+  "DatabaseID": "19590",
+  "Developer": "EA Digital Illusions",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Battlefield 1943",
+  "Overview": "Using the Frostbite engine, Battlefield 1943 takes players back to WWII. The game offers hours of 24 player multiplayer action over three classic and tropic locations; Wake Island, Guadalcanal and Iwo Jima. Delivering the award-winning through-the-gun and vehicle warfare online experience DICE is best recognized for, Battlefield 1943 has players battling in ruthless aerial dog fights and intense trench combat.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2009-07-08T00:00:00+00:00"
 }

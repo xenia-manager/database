@@ -1,59 +1,59 @@
 {
-  "Name": "Metal Slug XX",
-  "DatabaseID": "97236",
-  "ReleaseDate": "2010-05-19T00:00:00+00:00",
-  "Overview": "Loaded with classic side-scrolling arcade vehicle combat action, Metal Slug XX signals the rebirth of the 2D run 'n' gun shooter masterpiece with seven stages packed with alternate routes, loads of bad guys, and six drivable Slug vehicles. Joining the fight are the familiar four warriors Marco, Tarma, Eri, and Fio, backed by three allies from The King of Fighters: Ralf, Clark, and new downloadable character Leona Heidern. Metal Slug XX also contains the original Main Mission Story mode, a new Combat School ranking system, and two-player co-op gameplay via Xbox LIVE.",
-  "VideoURL": "https://www.youtube.com/watch?v=VWEXuhCeM1I",
-  "CommunityRating": "3.29411764705882",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Metal_Slug_7",
-  "ESRB": "T - Teen",
-  "Genres": "Platform; Shooter",
-  "Developer": "SNK Playmore",
-  "Publisher": "SNK Playmore",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "fffe6e06-81f4-4046-a9d1-6ce180ef4a3f.png",
-        "Type": "Banner",
-        "CRC32": "2897084735",
-        "URL": "http://images.launchbox-app.com/fffe6e06-81f4-4046-a9d1-6ce180ef4a3f.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1924497107",
         "FileName": "5da1f561-b9e5-4308-8979-8a850571f32d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1924497107",
         "URL": "http://images.launchbox-app.com/5da1f561-b9e5-4308-8979-8a850571f32d.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2897084735",
+        "FileName": "fffe6e06-81f4-4046-a9d1-6ce180ef4a3f.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/fffe6e06-81f4-4046-a9d1-6ce180ef4a3f.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "39d6773a-c4f1-48ff-85c0-ccfa80d50761.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2154368696",
+          "FileName": "39d6773a-c4f1-48ff-85c0-ccfa80d50761.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/39d6773a-c4f1-48ff-85c0-ccfa80d50761.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "594279de-df53-4db7-a2cc-77c008d062e6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4160189529",
-        "URL": "http://images.launchbox-app.com/594279de-df53-4db7-a2cc-77c008d062e6.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "0cb279aa-efbb-45ab-9c69-4677e5df5418.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3606174045",
+        "FileName": "0cb279aa-efbb-45ab-9c69-4677e5df5418.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/0cb279aa-efbb-45ab-9c69-4677e5df5418.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "4160189529",
+        "FileName": "594279de-df53-4db7-a2cc-77c008d062e6.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/594279de-df53-4db7-a2cc-77c008d062e6.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.29411764705882",
+  "DatabaseID": "97236",
+  "Developer": "SNK Playmore",
+  "ESRB": "T - Teen",
+  "Genres": "Platform; Shooter",
+  "Name": "Metal Slug XX",
+  "Overview": "Loaded with classic side-scrolling arcade vehicle combat action, Metal Slug XX signals the rebirth of the 2D run 'n' gun shooter masterpiece with seven stages packed with alternate routes, loads of bad guys, and six drivable Slug vehicles. Joining the fight are the familiar four warriors Marco, Tarma, Eri, and Fio, backed by three allies from The King of Fighters: Ralf, Clark, and new downloadable character Leona Heidern. Metal Slug XX also contains the original Main Mission Story mode, a new Combat School ranking system, and two-player co-op gameplay via Xbox LIVE.",
+  "Publisher": "SNK Playmore",
+  "ReleaseDate": "2010-05-19T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=VWEXuhCeM1I",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Metal_Slug_7"
 }

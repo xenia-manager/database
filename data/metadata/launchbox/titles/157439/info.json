@@ -1,42 +1,42 @@
 {
-  "Name": "Pinball FX2",
-  "DatabaseID": "157439",
-  "ReleaseDate": "2010-10-27T00:00:00+00:00",
-  "Overview": "Pinball FX is back, and it is better than ever! Pinball FX2 offers improved graphics and a host of new features for novices and experts alike: a new state-of-the-art physics model that surpasses anything available so far, an Operators Menu with custom settings and advanced play info, automatic in-game Challenges against your friends, and split-screen local multiplayer mode - a first in video pinball history! Pinball FX2 also offers full backward compatibility for Pinball FX owners - download Pinball FX2 for FREE and play all your Pinball FX tables within Pinball FX2!",
-  "VideoURL": "https://www.youtube.com/watch?v=DeQD0bN6JMs",
-  "CommunityRating": "3.91666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Pinball_FX_2",
-  "ESRB": "E - Everyone",
-  "Genres": "Pinball",
-  "Developer": "Zen Studios",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2092510932",
         "FileName": "39c89c98-730a-4036-a2e4-7f8f402be611.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2092510932",
         "URL": "http://images.launchbox-app.com/39c89c98-730a-4036-a2e4-7f8f402be611.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "87a7b96f-21f5-4b59-816e-da6b9ca3bc16.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1744989307",
+          "FileName": "87a7b96f-21f5-4b59-816e-da6b9ca3bc16.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/87a7b96f-21f5-4b59-816e-da6b9ca3bc16.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "3943338653",
         "FileName": "c3bdf5dd-cd4f-4846-ae11-7618f7b9776b.png",
         "Type": "Clear Logo",
-        "CRC32": "3943338653",
         "URL": "http://images.launchbox-app.com/c3bdf5dd-cd4f-4846-ae11-7618f7b9776b.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.91666666666667",
+  "DatabaseID": "157439",
+  "Developer": "Zen Studios",
+  "ESRB": "E - Everyone",
+  "Genres": "Pinball",
+  "Name": "Pinball FX2",
+  "Overview": "Pinball FX is back, and it is better than ever! Pinball FX2 offers improved graphics and a host of new features for novices and experts alike: a new state-of-the-art physics model that surpasses anything available so far, an Operators Menu with custom settings and advanced play info, automatic in-game Challenges against your friends, and split-screen local multiplayer mode - a first in video pinball history! Pinball FX2 also offers full backward compatibility for Pinball FX owners - download Pinball FX2 for FREE and play all your Pinball FX tables within Pinball FX2!",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2010-10-27T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=DeQD0bN6JMs",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Pinball_FX_2"
 }

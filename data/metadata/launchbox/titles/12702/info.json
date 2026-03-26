@@ -1,127 +1,127 @@
 {
-  "Name": "Birds of Steel",
-  "DatabaseID": "12702",
-  "ReleaseDate": "2012-03-13T00:00:00+00:00",
-  "Overview": "Get ready to strap in, go back in time and take stick in the most pivotal battles in the history of air combat. Birds of Steel puts you right in the crosshairs of WWII's most intense skirmishes. This original IP blends next gen supremacy and the fine details of aerial combat into a historical recreation fit for flight sim fans and history buffs alike. Use your skills to pilot the top planes from all combatants in WWII to recreate history or to change the outcomes of the most prolific battles in history. Online and offline elements add an entire new element to the game which will ensure Birds of Steel remains a fresh combat experience long after you've played for the first time.",
-  "VideoURL": "http://www.youtube.com/watch?v=8-lpR0W1UhU",
-  "CommunityRating": "2.16666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Birds_of_Steel",
-  "ESRB": "T - Teen",
-  "Genres": "Flight Simulator; Shooter",
-  "Developer": "Gaijin Entertainment",
-  "Publisher": "Konami",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_4aa25230-5569-4f5c-afa5-acfe9bd48e81.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "423822450",
-        "URL": "http://images.launchbox-app.com/r2_4aa25230-5569-4f5c-afa5-acfe9bd48e81.png"
-      },
-      {
-        "FileName": "r2_edbabe4a-ae98-4844-925b-5beb3cbcd3b2.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3101251842",
-        "URL": "http://images.launchbox-app.com/r2_edbabe4a-ae98-4844-925b-5beb3cbcd3b2.png"
-      },
-      {
-        "FileName": "r2_5f811274-136e-45af-9f1d-479debdc02e6.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1617175396",
-        "URL": "http://images.launchbox-app.com/r2_5f811274-136e-45af-9f1d-479debdc02e6.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_e1fce27b-40cc-4749-97af-552c137be7f6.jpg",
-        "Type": "Fanart - Background",
-        "Region": "Japan",
         "CRC32": "272456069",
+        "FileName": "r2_e1fce27b-40cc-4749-97af-552c137be7f6.jpg",
+        "Region": "Japan",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_e1fce27b-40cc-4749-97af-552c137be7f6.jpg"
       },
       {
-        "FileName": "r2_ee0fc23d-e159-4775-96df-6fc7ab6d2f71.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1144186264",
+        "FileName": "r2_de464a7d-569e-4289-8114-423946c0405b.jpg",
         "Region": "World",
-        "CRC32": "3529118575",
-        "URL": "http://images.launchbox-app.com/r2_ee0fc23d-e159-4775-96df-6fc7ab6d2f71.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_de464a7d-569e-4289-8114-423946c0405b.jpg"
       },
       {
-        "FileName": "r2_de464a7d-569e-4289-8114-423946c0405b.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3529118575",
+        "FileName": "r2_ee0fc23d-e159-4775-96df-6fc7ab6d2f71.jpg",
         "Region": "World",
-        "CRC32": "1144186264",
-        "URL": "http://images.launchbox-app.com/r2_de464a7d-569e-4289-8114-423946c0405b.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_ee0fc23d-e159-4775-96df-6fc7ab6d2f71.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "423822450",
+        "FileName": "r2_4aa25230-5569-4f5c-afa5-acfe9bd48e81.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_4aa25230-5569-4f5c-afa5-acfe9bd48e81.png"
+      },
+      {
+        "CRC32": "1617175396",
+        "FileName": "r2_5f811274-136e-45af-9f1d-479debdc02e6.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_5f811274-136e-45af-9f1d-479debdc02e6.png"
+      },
+      {
+        "CRC32": "3101251842",
+        "FileName": "r2_edbabe4a-ae98-4844-925b-5beb3cbcd3b2.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_edbabe4a-ae98-4844-925b-5beb3cbcd3b2.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "c750bec3-c60c-4017-a254-8a32c1340de4.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "183566267",
+          "FileName": "c750bec3-c60c-4017-a254-8a32c1340de4.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/c750bec3-c60c-4017-a254-8a32c1340de4.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_6569db6b-c182-48fa-997b-b88ab5bc0318.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3868440446",
+          "FileName": "r2_6569db6b-c182-48fa-997b-b88ab5bc0318.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_6569db6b-c182-48fa-997b-b88ab5bc0318.jpg"
         },
         {
-          "FileName": "a943245e-d2eb-4503-91f5-9de7a98a4fee.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3819487731",
+          "FileName": "a943245e-d2eb-4503-91f5-9de7a98a4fee.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/a943245e-d2eb-4503-91f5-9de7a98a4fee.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "610920551",
           "FileName": "09d1e8d6-bec6-46d5-99b1-0257981a508f.jpg",
           "Type": "Box - Front",
-          "CRC32": "610920551",
           "URL": "http://images.launchbox-app.com/09d1e8d6-bec6-46d5-99b1-0257981a508f.jpg"
         },
         {
-          "FileName": "r2_3c27dc33-6b03-4b5d-add9-7250d376a48a.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3261297488",
+          "FileName": "r2_3c27dc33-6b03-4b5d-add9-7250d376a48a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_3c27dc33-6b03-4b5d-add9-7250d376a48a.jpg"
         },
         {
-          "FileName": "1cb13f1d-3317-4809-be7a-b505852671a1.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "2018742640",
+          "FileName": "1cb13f1d-3317-4809-be7a-b505852671a1.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/1cb13f1d-3317-4809-be7a-b505852671a1.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_2ae30f4f-ffae-4fb4-bf22-4ac2103ab1ad.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1649646839",
+        "FileName": "r2_2ae30f4f-ffae-4fb4-bf22-4ac2103ab1ad.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_2ae30f4f-ffae-4fb4-bf22-4ac2103ab1ad.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2331105696",
         "FileName": "6659629d-3ac4-483a-bc55-ec08c1f73933.png",
         "Type": "Clear Logo",
-        "CRC32": "2331105696",
         "URL": "http://images.launchbox-app.com/6659629d-3ac4-483a-bc55-ec08c1f73933.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.16666666666667",
+  "DatabaseID": "12702",
+  "Developer": "Gaijin Entertainment",
+  "ESRB": "T - Teen",
+  "Genres": "Flight Simulator; Shooter",
+  "Name": "Birds of Steel",
+  "Overview": "Get ready to strap in, go back in time and take stick in the most pivotal battles in the history of air combat. Birds of Steel puts you right in the crosshairs of WWII's most intense skirmishes. This original IP blends next gen supremacy and the fine details of aerial combat into a historical recreation fit for flight sim fans and history buffs alike. Use your skills to pilot the top planes from all combatants in WWII to recreate history or to change the outcomes of the most prolific battles in history. Online and offline elements add an entire new element to the game which will ensure Birds of Steel remains a fresh combat experience long after you've played for the first time.",
+  "Publisher": "Konami",
+  "ReleaseDate": "2012-03-13T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=8-lpR0W1UhU",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Birds_of_Steel"
 }

@@ -1,45 +1,45 @@
 {
-  "Name": "Tower Bloxx Deluxe",
-  "DatabaseID": "174410",
-  "ReleaseDate": "2009-10-21T00:00:00+00:00",
-  "Overview": "Tower Bloxx is a strategy/puzzle mobile video game developed by Digital Chocolate's Helsinki-based studio. The game features two types of gameplay, \"Build city\" and \"Quick game\". The \"Quick game\" is a type of endless mode that exists in many puzzle games.",
-  "CommunityRating": "3.75",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Tower_Bloxx",
-  "Genres": "Puzzle; Strategy",
-  "Developer": "Digital Chocolate",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "1a631db0-c298-4acf-b3dd-918a231eab34.png",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1343973826",
+          "FileName": "1a631db0-c298-4acf-b3dd-918a231eab34.png",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1a631db0-c298-4acf-b3dd-918a231eab34.png"
         },
         {
+          "CRC32": "1434533638",
           "FileName": "db00a38e-e0c2-40cb-b715-90bf7ac3dbda.jpg",
           "Type": "Box - Front - Reconstructed",
-          "CRC32": "1434533638",
           "URL": "http://images.launchbox-app.com/db00a38e-e0c2-40cb-b715-90bf7ac3dbda.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "56383f4c-cdbb-4c15-aec0-19c090a1e6c8.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2354933558",
-        "URL": "http://images.launchbox-app.com/56383f4c-cdbb-4c15-aec0-19c090a1e6c8.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "874012937",
         "FileName": "85040bcb-51c6-43fd-8844-5fcfaf50d667.png",
         "Type": "Clear Logo",
-        "CRC32": "874012937",
         "URL": "http://images.launchbox-app.com/85040bcb-51c6-43fd-8844-5fcfaf50d667.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2354933558",
+        "FileName": "56383f4c-cdbb-4c15-aec0-19c090a1e6c8.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/56383f4c-cdbb-4c15-aec0-19c090a1e6c8.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.75",
+  "DatabaseID": "174410",
+  "Developer": "Digital Chocolate",
+  "Genres": "Puzzle; Strategy",
+  "Name": "Tower Bloxx Deluxe",
+  "Overview": "Tower Bloxx is a strategy/puzzle mobile video game developed by Digital Chocolate's Helsinki-based studio. The game features two types of gameplay, \"Build city\" and \"Quick game\". The \"Quick game\" is a type of endless mode that exists in many puzzle games.",
+  "ReleaseDate": "2009-10-21T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Tower_Bloxx"
 }

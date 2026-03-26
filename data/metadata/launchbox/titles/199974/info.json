@@ -1,116 +1,116 @@
 {
-  "Name": "Panzer General: Allied Assault",
-  "DatabaseID": "199974",
-  "ReleaseDate": "2009-10-21T00:00:00+00:00",
-  "Overview": "Panzer General: Allied Assault takes place during the last phase of World War II, from 1944 to 1945. The dramatic events of D-Day finally gave the Allies a foothold on Fortress Europe, allowing them to push the Germans back to Berlin. Recreate actual battles such as Utah Beach, Operation Market Garden, and the infamous Battle of the Bulge in the hopes of turning back the German tide. Build, customize and fight with your personalized deck of 60 cards. History is in your hands!",
-  "CommunityRating": "2.66666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Panzer_General:_Allied_Assault",
-  "ESRB": "E - Everyone",
-  "Genres": "Strategy",
-  "Developer": "Petroglyph",
-  "Publisher": "Ubisoft",
   "Artwork": {
     "Arcade": [
       {
+        "CRC32": "1747007363",
         "FileName": "ffbb0921-332d-4c54-bb02-7c2e3b159f6a.png",
         "Type": "Arcade - Controls Information",
-        "CRC32": "1747007363",
         "URL": "http://images.launchbox-app.com/ffbb0921-332d-4c54-bb02-7c2e3b159f6a.png"
-      }
-    ],
-    "Banner": [
-      {
-        "FileName": "fc71567d-6ec9-4752-9641-70860f81f917.png",
-        "Type": "Banner",
-        "CRC32": "2577082942",
-        "URL": "http://images.launchbox-app.com/fc71567d-6ec9-4752-9641-70860f81f917.png"
       }
     ],
     "Background": [
       {
+        "CRC32": "3840415243",
         "FileName": "851e6430-4c46-41a5-8dec-1b6b2e6f2643.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3840415243",
         "URL": "http://images.launchbox-app.com/851e6430-4c46-41a5-8dec-1b6b2e6f2643.jpg"
       },
       {
+        "CRC32": "2545158713",
         "FileName": "e5a33ac0-1abc-4df0-a96e-335ccb59b40e.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2545158713",
         "URL": "http://images.launchbox-app.com/e5a33ac0-1abc-4df0-a96e-335ccb59b40e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2577082942",
+        "FileName": "fc71567d-6ec9-4752-9641-70860f81f917.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/fc71567d-6ec9-4752-9641-70860f81f917.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "d5cce052-3d05-44e6-8329-f1cd97dca431.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2855442744",
+          "FileName": "d5cce052-3d05-44e6-8329-f1cd97dca431.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d5cce052-3d05-44e6-8329-f1cd97dca431.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "bc1d55e7-d559-4d6d-b98f-73215309f15d.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
         "CRC32": "4209010525",
+        "FileName": "bc1d55e7-d559-4d6d-b98f-73215309f15d.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/bc1d55e7-d559-4d6d-b98f-73215309f15d.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "348a2403-c695-422c-8a39-1dc81d2aeac8.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "3466221657",
-        "URL": "http://images.launchbox-app.com/348a2403-c695-422c-8a39-1dc81d2aeac8.jpg"
-      },
-      {
-        "FileName": "4202282a-cbaf-4452-834c-d35914bc5a1b.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1948707760",
-        "URL": "http://images.launchbox-app.com/4202282a-cbaf-4452-834c-d35914bc5a1b.jpg"
-      },
-      {
-        "FileName": "a24e3ca4-973d-4422-8e5c-956ad749db28.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "703106243",
-        "URL": "http://images.launchbox-app.com/a24e3ca4-973d-4422-8e5c-956ad749db28.jpg"
-      },
-      {
-        "FileName": "2f3ece7c-dbcd-498e-9e6a-9eaef4216b45.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2277922577",
-        "URL": "http://images.launchbox-app.com/2f3ece7c-dbcd-498e-9e6a-9eaef4216b45.jpg"
-      },
-      {
-        "FileName": "0a7a2246-a030-4fc5-804f-05c987d9deb3.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "67627019",
-        "URL": "http://images.launchbox-app.com/0a7a2246-a030-4fc5-804f-05c987d9deb3.jpg"
-      },
-      {
-        "FileName": "a4cbfe26-7167-41f5-9258-205f682a9bde.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "856225425",
-        "URL": "http://images.launchbox-app.com/a4cbfe26-7167-41f5-9258-205f682a9bde.jpg"
-      },
-      {
-        "FileName": "57b6308c-77ef-4dea-b4c2-80a4689f2751.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "832299064",
-        "URL": "http://images.launchbox-app.com/57b6308c-77ef-4dea-b4c2-80a4689f2751.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "2221257963",
         "FileName": "1f09b920-8f32-4f56-9383-01829ab6b3c5.png",
         "Type": "Clear Logo",
-        "CRC32": "2221257963",
         "URL": "http://images.launchbox-app.com/1f09b920-8f32-4f56-9383-01829ab6b3c5.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3466221657",
+        "FileName": "348a2403-c695-422c-8a39-1dc81d2aeac8.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/348a2403-c695-422c-8a39-1dc81d2aeac8.jpg"
+      },
+      {
+        "CRC32": "67627019",
+        "FileName": "0a7a2246-a030-4fc5-804f-05c987d9deb3.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/0a7a2246-a030-4fc5-804f-05c987d9deb3.jpg"
+      },
+      {
+        "CRC32": "2277922577",
+        "FileName": "2f3ece7c-dbcd-498e-9e6a-9eaef4216b45.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/2f3ece7c-dbcd-498e-9e6a-9eaef4216b45.jpg"
+      },
+      {
+        "CRC32": "1948707760",
+        "FileName": "4202282a-cbaf-4452-834c-d35914bc5a1b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/4202282a-cbaf-4452-834c-d35914bc5a1b.jpg"
+      },
+      {
+        "CRC32": "832299064",
+        "FileName": "57b6308c-77ef-4dea-b4c2-80a4689f2751.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/57b6308c-77ef-4dea-b4c2-80a4689f2751.jpg"
+      },
+      {
+        "CRC32": "703106243",
+        "FileName": "a24e3ca4-973d-4422-8e5c-956ad749db28.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a24e3ca4-973d-4422-8e5c-956ad749db28.jpg"
+      },
+      {
+        "CRC32": "856225425",
+        "FileName": "a4cbfe26-7167-41f5-9258-205f682a9bde.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a4cbfe26-7167-41f5-9258-205f682a9bde.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "2.66666666666667",
+  "DatabaseID": "199974",
+  "Developer": "Petroglyph",
+  "ESRB": "E - Everyone",
+  "Genres": "Strategy",
+  "Name": "Panzer General: Allied Assault",
+  "Overview": "Panzer General: Allied Assault takes place during the last phase of World War II, from 1944 to 1945. The dramatic events of D-Day finally gave the Allies a foothold on Fortress Europe, allowing them to push the Germans back to Berlin. Recreate actual battles such as Utah Beach, Operation Market Garden, and the infamous Battle of the Bulge in the hopes of turning back the German tide. Build, customize and fight with your personalized deck of 60 cards. History is in your hands!",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2009-10-21T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Panzer_General:_Allied_Assault"
 }

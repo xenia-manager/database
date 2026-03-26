@@ -1,46 +1,46 @@
 {
-  "Name": "Chaos Shift",
-  "DatabaseID": "468395",
-  "ReleaseDate": "2010-11-11T00:00:00+00:00",
-  "Overview": "Classic arcade style gameplay in 3D.\n\nTake control of an experimental alien vessel and blast your way through hordes of relentless enemy ships, satellites, mines and asteroids.\n\nKill as many enemies as fast as you can to boost your score and unleash the invincible \"Chaos Shift\".",
-  "VideoURL": "https://youtu.be/Rt3e6hu5nw0",
-  "Genres": "Shooter",
-  "Developer": "ForrestMcCorkle",
-  "Publisher": "ForrestMcCorkle",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "d5463934-417d-467f-aa51-c409d1afeb5f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "101714488",
+          "FileName": "d5463934-417d-467f-aa51-c409d1afeb5f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d5463934-417d-467f-aa51-c409d1afeb5f.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "a20c58a2-e389-401d-aa90-dd17ea7474eb.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "273869785",
-        "URL": "http://images.launchbox-app.com/a20c58a2-e389-401d-aa90-dd17ea7474eb.jpg"
-      },
-      {
-        "FileName": "26c7fb1b-9017-4a04-9543-37649c82eef1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2220139490",
+        "FileName": "26c7fb1b-9017-4a04-9543-37649c82eef1.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/26c7fb1b-9017-4a04-9543-37649c82eef1.jpg"
       },
       {
-        "FileName": "f06c5b1f-9b5e-4878-a079-b33e4fc0d63b.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "273869785",
+        "FileName": "a20c58a2-e389-401d-aa90-dd17ea7474eb.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a20c58a2-e389-401d-aa90-dd17ea7474eb.jpg"
+      },
+      {
         "CRC32": "2018202522",
+        "FileName": "f06c5b1f-9b5e-4878-a079-b33e4fc0d63b.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/f06c5b1f-9b5e-4878-a079-b33e4fc0d63b.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468395",
+  "Developer": "ForrestMcCorkle",
+  "Genres": "Shooter",
+  "Name": "Chaos Shift",
+  "Overview": "Classic arcade style gameplay in 3D.\n\nTake control of an experimental alien vessel and blast your way through hordes of relentless enemy ships, satellites, mines and asteroids.\n\nKill as many enemies as fast as you can to boost your score and unleash the invincible \"Chaos Shift\".",
+  "Publisher": "ForrestMcCorkle",
+  "ReleaseDate": "2010-11-11T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/Rt3e6hu5nw0"
 }

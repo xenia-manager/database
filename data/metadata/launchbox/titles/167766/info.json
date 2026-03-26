@@ -1,36 +1,36 @@
 {
-  "Name": "Just Dance: Kids",
-  "DatabaseID": "167766",
-  "CommunityRating": "4.5",
-  "Genres": null,
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "870971570",
           "FileName": "727cd0dc-e93a-4ab5-8d84-35a1cf42aad7.png",
           "Type": "Box - 3D",
-          "CRC32": "870971570",
           "URL": "http://images.launchbox-app.com/727cd0dc-e93a-4ab5-8d84-35a1cf42aad7.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_90a724c3-3460-4e1a-9d21-ad2e75dd510e.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2842324330",
+          "FileName": "r2_90a724c3-3460-4e1a-9d21-ad2e75dd510e.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_90a724c3-3460-4e1a-9d21-ad2e75dd510e.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_101b47dc-89e5-41a9-9be3-b4f7f1322fb5.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2430659790",
+          "FileName": "r2_101b47dc-89e5-41a9-9be3-b4f7f1322fb5.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_101b47dc-89e5-41a9-9be3-b4f7f1322fb5.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "167766",
+  "Genres": null,
+  "Name": "Just Dance: Kids"
 }

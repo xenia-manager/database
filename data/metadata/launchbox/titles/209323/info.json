@@ -1,50 +1,50 @@
 {
-  "Name": "Double D Dodgeball",
-  "DatabaseID": "209323",
-  "ReleaseDate": "2008-07-16T00:00:00+00:00",
-  "Overview": "Double D Dodgeball is an Xbox Live Arcade game, much like table football, in that you control a team of dodgeball players, from a top down perspective, combined with graphics similar to those seen in another XBLA game, Geometry Wars: Retro Evolved.\n\nYou can choose between 2 sets of rules, named 'east' and 'west' as well as switch between different ball types and playing surfaces, amongst other options.\n\nDouble D Dodgeball also features a 4 player co-op mode, with 2 teams, both consisting of 2 human players and 2 AI players in a 4v4 game. It can also be played over Xbox Live with 7 other people, again in a 4v4 game.",
-  "CommunityRating": "3.7",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Yuke's Yokahama Studio",
-  "Publisher": "YUKE'S Company of America",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_40829531-7336-423b-a7a6-eb8fbf31e70b.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "798830615",
-        "URL": "http://images.launchbox-app.com/r2_40829531-7336-423b-a7a6-eb8fbf31e70b.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_8ebc9a23-90e3-4d76-9598-b96cd60eced1.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1481601483",
+        "FileName": "r2_8ebc9a23-90e3-4d76-9598-b96cd60eced1.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8ebc9a23-90e3-4d76-9598-b96cd60eced1.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "798830615",
+        "FileName": "r2_40829531-7336-423b-a7a6-eb8fbf31e70b.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_40829531-7336-423b-a7a6-eb8fbf31e70b.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "53b9251a-cf4a-408a-a5ae-0f79ea909185.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2505895455",
+          "FileName": "53b9251a-cf4a-408a-a5ae-0f79ea909185.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/53b9251a-cf4a-408a-a5ae-0f79ea909185.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "89236921",
         "FileName": "b1f84edb-174d-4898-bd94-e2df42499140.png",
         "Type": "Clear Logo",
-        "CRC32": "89236921",
         "URL": "http://images.launchbox-app.com/b1f84edb-174d-4898-bd94-e2df42499140.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.7",
+  "DatabaseID": "209323",
+  "Developer": "Yuke's Yokahama Studio",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Double D Dodgeball",
+  "Overview": "Double D Dodgeball is an Xbox Live Arcade game, much like table football, in that you control a team of dodgeball players, from a top down perspective, combined with graphics similar to those seen in another XBLA game, Geometry Wars: Retro Evolved.\n\nYou can choose between 2 sets of rules, named 'east' and 'west' as well as switch between different ball types and playing surfaces, amongst other options.\n\nDouble D Dodgeball also features a 4 player co-op mode, with 2 teams, both consisting of 2 human players and 2 AI players in a 4v4 game. It can also be played over Xbox Live with 7 other people, again in a 4v4 game.",
+  "Publisher": "YUKE'S Company of America",
+  "ReleaseDate": "2008-07-16T00:00:00+00:00"
 }

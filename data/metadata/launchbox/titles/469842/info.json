@@ -1,39 +1,39 @@
 {
-  "Name": "Gold Miner",
-  "DatabaseID": "469842",
-  "ReleaseDate": "2012-04-22T00:00:00+00:00",
-  "Overview": "Classic game of gold miner. Travel through a mine collecting gold. Watch out for the creatures in the dark cave!",
-  "VideoURL": "https://youtu.be/MnRv6xes_54",
-  "Genres": "Action",
-  "Developer": "Winsor Computing",
-  "Publisher": "Winsor Computing",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "b3f6e350-3a74-47d8-8997-01b6b1bbfa4a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3685514506",
+          "FileName": "b3f6e350-3a74-47d8-8997-01b6b1bbfa4a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b3f6e350-3a74-47d8-8997-01b6b1bbfa4a.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "c0a8ff27-a6be-43c1-b90b-ef02749c3308.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "3067386265",
+        "FileName": "c0a8ff27-a6be-43c1-b90b-ef02749c3308.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/c0a8ff27-a6be-43c1-b90b-ef02749c3308.jpg"
       },
       {
-        "FileName": "72817513-cd1d-486b-b0c8-aa237f4cc277.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3124235254",
+        "FileName": "72817513-cd1d-486b-b0c8-aa237f4cc277.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/72817513-cd1d-486b-b0c8-aa237f4cc277.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469842",
+  "Developer": "Winsor Computing",
+  "Genres": "Action",
+  "Name": "Gold Miner",
+  "Overview": "Classic game of gold miner. Travel through a mine collecting gold. Watch out for the creatures in the dark cave!",
+  "Publisher": "Winsor Computing",
+  "ReleaseDate": "2012-04-22T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/MnRv6xes_54"
 }

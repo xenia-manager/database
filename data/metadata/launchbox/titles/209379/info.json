@@ -1,65 +1,65 @@
 {
-  "Name": "Fireburst",
-  "DatabaseID": "209379",
-  "ReleaseDate": "2013-06-14T00:00:00+00:00",
-  "Overview": "Blast opponents off the road with Fireburst, an explosively fun fast-paced arcade style racing game with fantastic graphics. Rev up to scorching speeds to outrun opponents on a dozen different tracks. Thanks to our exclusive Fireboost technology, use various explosive, fire-based special abilities to turn other cars into a pyre of parts. Leave opponents sucking on your smoldering dust in single-player mode, local four-player mode or the insane online eight-player mode!",
-  "CommunityRating": "2.83333333333333",
-  "ESRB": "T - Teen",
-  "Genres": "Racing",
-  "Developer": "IndiePub",
-  "Publisher": "BigBen Interactive",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_4eebc389-a665-4083-a99a-7118458f8316.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "310060536",
-        "URL": "http://images.launchbox-app.com/r2_4eebc389-a665-4083-a99a-7118458f8316.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_31919f42-10ce-4bf8-b2a7-11273c0330d2.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2514662352",
+        "FileName": "r2_31919f42-10ce-4bf8-b2a7-11273c0330d2.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_31919f42-10ce-4bf8-b2a7-11273c0330d2.jpg"
       },
       {
-        "FileName": "r2_5d3fafd0-c538-40ec-9dbe-26ef9f43796d.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1191356794",
+        "FileName": "r2_5d3fafd0-c538-40ec-9dbe-26ef9f43796d.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_5d3fafd0-c538-40ec-9dbe-26ef9f43796d.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "310060536",
+        "FileName": "r2_4eebc389-a665-4083-a99a-7118458f8316.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_4eebc389-a665-4083-a99a-7118458f8316.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "ba57c436-b381-4a45-bb3f-edbec200b91d.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "1717428928",
+          "FileName": "ba57c436-b381-4a45-bb3f-edbec200b91d.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ba57c436-b381-4a45-bb3f-edbec200b91d.jpg"
         },
         {
-          "FileName": "r2_d5f08037-278a-4544-af7d-ad6c6cc71b6b.jpg",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "966971529",
+          "FileName": "r2_d5f08037-278a-4544-af7d-ad6c6cc71b6b.jpg",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d5f08037-278a-4544-af7d-ad6c6cc71b6b.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_8a6ea301-4765-43dd-946f-ebd8298d973e.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3322363157",
+        "FileName": "r2_8a6ea301-4765-43dd-946f-ebd8298d973e.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_8a6ea301-4765-43dd-946f-ebd8298d973e.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.83333333333333",
+  "DatabaseID": "209379",
+  "Developer": "IndiePub",
+  "ESRB": "T - Teen",
+  "Genres": "Racing",
+  "Name": "Fireburst",
+  "Overview": "Blast opponents off the road with Fireburst, an explosively fun fast-paced arcade style racing game with fantastic graphics. Rev up to scorching speeds to outrun opponents on a dozen different tracks. Thanks to our exclusive Fireboost technology, use various explosive, fire-based special abilities to turn other cars into a pyre of parts. Leave opponents sucking on your smoldering dust in single-player mode, local four-player mode or the insane online eight-player mode!",
+  "Publisher": "BigBen Interactive",
+  "ReleaseDate": "2013-06-14T00:00:00+00:00"
 }

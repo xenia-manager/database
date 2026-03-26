@@ -1,80 +1,80 @@
 {
-  "Name": "FUEL",
-  "DatabaseID": "14528",
-  "ReleaseDate": "2009-06-02T00:00:00+00:00",
-  "Overview": "FUEL is a free-world racing game. Players can explore a 14.000 km² area of Northern America after the effects of global warming took place, rendering it desolate with abandoned cities, broken vehicles and almost no survivors. The goal is to win races, which provides fuel that can be exchanged for new vehicles. The game world is divided in nineteen separate zones that need to be unlocked by collecting stars – provided through winning career races. Up to 75 different types of vehicles can be unlocked during the course of the game. The vehicles can be modified with paint jobs and liveries.\n\nBesides the regular career races, which are restricted to a specific vehicle class like ATV, buggy or motorbike, challenges are another event type in the game. These include for example chasing a helicopter through the terrain or trying to touch other vehicles within a given time limit. Next to the races and challenges that can be accessed right away, the game also offers the ability to drive freely in each of the zones to explore the environment. This is further encouraged by having to locate new liveries, vista points, and doppler trucks that show the locations of all items. The terrain is dense and the appropriate vehicle needs to be selected to explore freely. There are many extreme weather effects, such as pouring rain, snow, thunder storms and even hurricanes.\n\nThe general gameplay is arcade-like. Even though the terrain affects the performance, vehicles cannot be damaged and there is an option to respawn when crashing into objects. The roads are littered with obstacles and the game encourages to break away from the regular tracks to locate shortcuts and use jumps to cross large distances. Players can also create their own tracks through waypoints in the zone. A general HUD shows the race statistics and marks the course, along with a mini-map. FUEL can also be played online against up to 16 players.",
-  "CommunityRating": "3.25",
-  "ESRB": "E - Everyone",
-  "Genres": "Racing",
-  "Developer": "Asobo Studio",
-  "Publisher": "Codemasters",
   "Artwork": {
     "Background": [
       {
-        "FileName": "r2_08788042-586a-42e5-bb25-f9b7824e3ecc.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "4144060276",
+        "FileName": "r2_08788042-586a-42e5-bb25-f9b7824e3ecc.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_08788042-586a-42e5-bb25-f9b7824e3ecc.jpg"
       },
       {
-        "FileName": "r2_0c15f8e1-54d5-449d-ae9b-70096b72c9f2.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2860746961",
+        "FileName": "r2_0c15f8e1-54d5-449d-ae9b-70096b72c9f2.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_0c15f8e1-54d5-449d-ae9b-70096b72c9f2.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "2497014855",
           "FileName": "ba6ae03e-8e58-47ac-a40e-e9a513852502.png",
           "Type": "Box - 3D",
-          "CRC32": "2497014855",
           "URL": "http://images.launchbox-app.com/ba6ae03e-8e58-47ac-a40e-e9a513852502.png"
         }
       ],
       "Front": [
         {
-          "FileName": "0463baef-a21c-40b0-900c-7d2ebe192473.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "124585067",
+          "FileName": "0463baef-a21c-40b0-900c-7d2ebe192473.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0463baef-a21c-40b0-900c-7d2ebe192473.jpg"
         },
         {
-          "FileName": "r2_89795871-3f6e-4e75-af9e-42f7659218a9.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "822005349",
+          "FileName": "r2_89795871-3f6e-4e75-af9e-42f7659218a9.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_89795871-3f6e-4e75-af9e-42f7659218a9.jpg"
         },
         {
-          "FileName": "4d7d9b4f-20eb-443d-8f85-0e422ee2afb8.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1716714016",
+          "FileName": "4d7d9b4f-20eb-443d-8f85-0e422ee2afb8.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4d7d9b4f-20eb-443d-8f85-0e422ee2afb8.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "e7b6b852-0866-4959-a9b9-d1875579cc3e.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3208655098",
+        "FileName": "e7b6b852-0866-4959-a9b9-d1875579cc3e.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/e7b6b852-0866-4959-a9b9-d1875579cc3e.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_22d2e8d0-5615-41ef-8aa2-f98487387a1d.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1218469911",
+        "FileName": "r2_22d2e8d0-5615-41ef-8aa2-f98487387a1d.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_22d2e8d0-5615-41ef-8aa2-f98487387a1d.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.25",
+  "DatabaseID": "14528",
+  "Developer": "Asobo Studio",
+  "ESRB": "E - Everyone",
+  "Genres": "Racing",
+  "Name": "FUEL",
+  "Overview": "FUEL is a free-world racing game. Players can explore a 14.000 km² area of Northern America after the effects of global warming took place, rendering it desolate with abandoned cities, broken vehicles and almost no survivors. The goal is to win races, which provides fuel that can be exchanged for new vehicles. The game world is divided in nineteen separate zones that need to be unlocked by collecting stars – provided through winning career races. Up to 75 different types of vehicles can be unlocked during the course of the game. The vehicles can be modified with paint jobs and liveries.\n\nBesides the regular career races, which are restricted to a specific vehicle class like ATV, buggy or motorbike, challenges are another event type in the game. These include for example chasing a helicopter through the terrain or trying to touch other vehicles within a given time limit. Next to the races and challenges that can be accessed right away, the game also offers the ability to drive freely in each of the zones to explore the environment. This is further encouraged by having to locate new liveries, vista points, and doppler trucks that show the locations of all items. The terrain is dense and the appropriate vehicle needs to be selected to explore freely. There are many extreme weather effects, such as pouring rain, snow, thunder storms and even hurricanes.\n\nThe general gameplay is arcade-like. Even though the terrain affects the performance, vehicles cannot be damaged and there is an option to respawn when crashing into objects. The roads are littered with obstacles and the game encourages to break away from the regular tracks to locate shortcuts and use jumps to cross large distances. Players can also create their own tracks through waypoints in the zone. A general HUD shows the race statistics and marks the course, along with a mini-map. FUEL can also be played online against up to 16 players.",
+  "Publisher": "Codemasters",
+  "ReleaseDate": "2009-06-02T00:00:00+00:00"
 }

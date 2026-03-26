@@ -1,38 +1,38 @@
 {
-  "Name": "Architektris",
-  "DatabaseID": "467179",
-  "ReleaseDate": "2013-09-07T00:00:00+00:00",
-  "Overview": "Architektris (a portmanteau of architect and Tetris) is an arcade-style strategy game where the player must build sturdy towers to protect food from hungry bears.\n\nAt the start of each level, the player enters an \"architect mode\" where they must use Tetris-esque blocks to build a tower. The player is free to use as many blocks as they want in constructing the tower, but there is a limit to how many can be directly touching the ground at any one time. The tower must also contain a certain number of food items.\n\nOnce the player has constructed a valid tower, they enter a \"defence mode\" where the integrity of their tower is put to the test by hungry bears being catapulted from the left of the screen, trying to knock the food onto the ground. The player starts defence mode with a score based on how many blocks they used in their tower and how many are touching the ground. The score decreases with each block that is knocked onto the ground, and losing the food reduces the score to 0. The player wins the level if the score exceeds a certain threshold when defence mode ends.",
-  "Genres": "Strategy",
-  "Developer": "The Black Bau",
-  "Publisher": "The Black Bau",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "63e84e0e-a6a5-4cfd-91d3-f74f169475c4.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3906230425",
+          "FileName": "63e84e0e-a6a5-4cfd-91d3-f74f169475c4.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/63e84e0e-a6a5-4cfd-91d3-f74f169475c4.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "b3826cf6-82dc-4a9b-936b-18ac2d05657a.jpg",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
         "CRC32": "3854041579",
+        "FileName": "b3826cf6-82dc-4a9b-936b-18ac2d05657a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
         "URL": "http://images.launchbox-app.com/b3826cf6-82dc-4a9b-936b-18ac2d05657a.jpg"
       },
       {
-        "FileName": "30e40d4d-f00f-486f-a2e5-44a5a1527c35.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2943575203",
+        "FileName": "30e40d4d-f00f-486f-a2e5-44a5a1527c35.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/30e40d4d-f00f-486f-a2e5-44a5a1527c35.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467179",
+  "Developer": "The Black Bau",
+  "Genres": "Strategy",
+  "Name": "Architektris",
+  "Overview": "Architektris (a portmanteau of architect and Tetris) is an arcade-style strategy game where the player must build sturdy towers to protect food from hungry bears.\n\nAt the start of each level, the player enters an \"architect mode\" where they must use Tetris-esque blocks to build a tower. The player is free to use as many blocks as they want in constructing the tower, but there is a limit to how many can be directly touching the ground at any one time. The tower must also contain a certain number of food items.\n\nOnce the player has constructed a valid tower, they enter a \"defence mode\" where the integrity of their tower is put to the test by hungry bears being catapulted from the left of the screen, trying to knock the food onto the ground. The player starts defence mode with a score based on how many blocks they used in their tower and how many are touching the ground. The score decreases with each block that is knocked onto the ground, and losing the food reduces the score to 0. The player wins the level if the score exceeds a certain threshold when defence mode ends.",
+  "Publisher": "The Black Bau",
+  "ReleaseDate": "2013-09-07T00:00:00+00:00"
 }

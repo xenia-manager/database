@@ -1,72 +1,72 @@
 {
-  "Name": "Megamind: Ultimate Showdown",
-  "DatabaseID": "13713",
-  "ReleaseDate": "2010-11-02T00:00:00+00:00",
-  "Overview": "Just as Megamind has become our new Mega Hero, a sudden crime wave hits the city. The Doom Syndicate & their Doom Goons have emerged and are looking to take over! Only Megamind and his arsenal of gadgets can stop them!",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
-  "Developer": "THQ",
-  "Publisher": "THQ",
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "r2_3925b4ab-77cd-42da-aa67-330fad465cf8.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1896939454",
+          "FileName": "r2_3925b4ab-77cd-42da-aa67-330fad465cf8.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_3925b4ab-77cd-42da-aa67-330fad465cf8.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_b231340d-a203-48e8-a9e3-004d6071650c.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "1733534749",
+          "FileName": "r2_b231340d-a203-48e8-a9e3-004d6071650c.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_b231340d-a203-48e8-a9e3-004d6071650c.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "3376591054",
           "FileName": "84c90fd9-c71a-407c-98cc-65e6aef80830.jpg",
           "Type": "Box - Front",
-          "CRC32": "3376591054",
           "URL": "http://images.launchbox-app.com/84c90fd9-c71a-407c-98cc-65e6aef80830.jpg"
         },
         {
-          "FileName": "r2_a63bf546-d6fa-4a7e-9aff-2003eebacc54.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "4038546104",
+          "FileName": "r2_a63bf546-d6fa-4a7e-9aff-2003eebacc54.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a63bf546-d6fa-4a7e-9aff-2003eebacc54.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_71f56be8-f272-4d2c-b725-5f64d6c19307.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2726514603",
+        "FileName": "r2_71f56be8-f272-4d2c-b725-5f64d6c19307.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_71f56be8-f272-4d2c-b725-5f64d6c19307.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_4438b148-c8a9-4e9b-a49e-6d34979f5976.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "4051834688",
+        "FileName": "r2_4438b148-c8a9-4e9b-a49e-6d34979f5976.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_4438b148-c8a9-4e9b-a49e-6d34979f5976.png"
       },
       {
-        "FileName": "530bb73e-e158-4e73-a69c-3e58f082802d.png",
-        "Type": "Clear Logo",
-        "Region": "Spain",
         "CRC32": "1940454468",
+        "FileName": "530bb73e-e158-4e73-a69c-3e58f082802d.png",
+        "Region": "Spain",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/530bb73e-e158-4e73-a69c-3e58f082802d.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "13713",
+  "Developer": "THQ",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action",
+  "Name": "Megamind: Ultimate Showdown",
+  "Overview": "Just as Megamind has become our new Mega Hero, a sudden crime wave hits the city. The Doom Syndicate & their Doom Goons have emerged and are looking to take over! Only Megamind and his arsenal of gadgets can stop them!",
+  "Publisher": "THQ",
+  "ReleaseDate": "2010-11-02T00:00:00+00:00"
 }

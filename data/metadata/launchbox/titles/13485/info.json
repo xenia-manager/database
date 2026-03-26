@@ -1,60 +1,60 @@
 {
-  "Name": "The Hip Hop Dance Experience",
-  "DatabaseID": "13485",
-  "ReleaseDate": "2012-11-13T00:00:00+00:00",
-  "Overview": "The Hip Hop Dance Experience is a dancing game for the Wii and Xbox 360 published by Ubisoft. It is a continuation of The Experience franchise, a spin-off of the Just Dance series.",
-  "Genres": "Music",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "1290861271",
           "FileName": "7a649d6c-d081-449c-b384-1d1d70c0d271.png",
           "Type": "Box - 3D",
-          "CRC32": "1290861271",
           "URL": "http://images.launchbox-app.com/7a649d6c-d081-449c-b384-1d1d70c0d271.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_28a501a3-16f3-494a-bc8d-7e201e47f6ea.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1448835912",
+          "FileName": "r2_28a501a3-16f3-494a-bc8d-7e201e47f6ea.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_28a501a3-16f3-494a-bc8d-7e201e47f6ea.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "342043821",
           "FileName": "f0d68525-f025-445c-9298-76ea81879b1b.jpg",
           "Type": "Box - Front",
-          "CRC32": "342043821",
           "URL": "http://images.launchbox-app.com/f0d68525-f025-445c-9298-76ea81879b1b.jpg"
         },
         {
-          "FileName": "r2_0e20c96b-b6a9-4f95-b1d3-a6f7c44e2fbd.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3538024585",
+          "FileName": "r2_0e20c96b-b6a9-4f95-b1d3-a6f7c44e2fbd.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_0e20c96b-b6a9-4f95-b1d3-a6f7c44e2fbd.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_dc0bb71d-4f2f-4f04-8842-a5095cb2c5bc.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "2625462882",
+        "FileName": "r2_dc0bb71d-4f2f-4f04-8842-a5095cb2c5bc.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_dc0bb71d-4f2f-4f04-8842-a5095cb2c5bc.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3298536842",
         "FileName": "1aacee9f-9550-4ee4-a8f4-e1c7676b95ca.png",
         "Type": "Clear Logo",
-        "CRC32": "3298536842",
         "URL": "http://images.launchbox-app.com/1aacee9f-9550-4ee4-a8f4-e1c7676b95ca.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "13485",
+  "Genres": "Music",
+  "Name": "The Hip Hop Dance Experience",
+  "Overview": "The Hip Hop Dance Experience is a dancing game for the Wii and Xbox 360 published by Ubisoft. It is a continuation of The Experience franchise, a spin-off of the Just Dance series.",
+  "ReleaseDate": "2012-11-13T00:00:00+00:00"
 }

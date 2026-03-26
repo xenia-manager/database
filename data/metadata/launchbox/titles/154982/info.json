@@ -1,33 +1,33 @@
 {
-  "Name": "The Tempura of the Dead",
-  "DatabaseID": "154982",
-  "ReleaseDate": "2010-11-09T00:00:00+00:00",
-  "Overview": "The Tempura of the Dead is a simple & exhilarating 8-bit style 2D platformer & shooter. Switch between two unique characters, President Thompson and the samurai evangelist Sugimoto, and defeat the zombies. Juggle the zombies' heads to increase your number of extra lives! You must find all the GERMS of Calamity and exterminate them to restore peace!",
-  "VideoURL": "https://www.youtube.com/watch?v=Coew6p3DuYM",
-  "CommunityRating": "4.5",
-  "ESRB": "Not Rated",
-  "Genres": "Platform; Shooter",
-  "Developer": "8bits Fanatics",
-  "Publisher": "8bits Fanatics",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2575159114",
         "FileName": "7bfbe378-8797-4e6c-894a-f58734cb8bb8.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2575159114",
         "URL": "http://images.launchbox-app.com/7bfbe378-8797-4e6c-894a-f58734cb8bb8.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "2bc55337-b532-48a9-8330-fbfdec44614d.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "358758668",
+          "FileName": "2bc55337-b532-48a9-8330-fbfdec44614d.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/2bc55337-b532-48a9-8330-fbfdec44614d.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "154982",
+  "Developer": "8bits Fanatics",
+  "ESRB": "Not Rated",
+  "Genres": "Platform; Shooter",
+  "Name": "The Tempura of the Dead",
+  "Overview": "The Tempura of the Dead is a simple & exhilarating 8-bit style 2D platformer & shooter. Switch between two unique characters, President Thompson and the samurai evangelist Sugimoto, and defeat the zombies. Juggle the zombies' heads to increase your number of extra lives! You must find all the GERMS of Calamity and exterminate them to restore peace!",
+  "Publisher": "8bits Fanatics",
+  "ReleaseDate": "2010-11-09T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=Coew6p3DuYM"
 }

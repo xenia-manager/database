@@ -1,159 +1,159 @@
 {
-  "Name": "Carrier Command: Gaea Mission",
-  "DatabaseID": "22575",
-  "ReleaseDate": "2012-12-28T00:00:00+00:00",
-  "Overview": "Carrier Command is a real-time action/strategy game, where the overarching objective is to conquer and control islands. It features a 33-island archipelago on the moon Taurus.\n\nThe player's fundamental unit is the Carrier, from which they may deploy and dock up to four aerial units and four amphibious units. Other defensive and offensive systems are present, such as drones which protect the Carrier when under attack.\n\nBattles take place in the air, on land, and in the sea. The player can control any deployed vehicle at any time.\n\nTraveling between islands is real-time and seamless. Islands are composed of 6 distinct climatic zones, including Wastelands, Arctic, Marshlands, Volcanic, Mountains and Temperate. The game features real-time weather changes and day/night cycles.",
-  "CommunityRating": "3.66666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Carrier_Command:_Gaea_Mission",
-  "ESRB": "M - Mature",
-  "Genres": "Strategy",
-  "Developer": "Bohemia Interactive Studio",
-  "Publisher": "Rising Star Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "3fcdec50-4d5e-405e-80f2-6e5ac4cfb467.png",
-        "Type": "Banner",
-        "CRC32": "4274276991",
-        "URL": "http://images.launchbox-app.com/3fcdec50-4d5e-405e-80f2-6e5ac4cfb467.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3890919148",
         "FileName": "59c7bbed-c194-4c75-aac8-4f19585b7196.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3890919148",
         "URL": "http://images.launchbox-app.com/59c7bbed-c194-4c75-aac8-4f19585b7196.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4274276991",
+        "FileName": "3fcdec50-4d5e-405e-80f2-6e5ac4cfb467.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/3fcdec50-4d5e-405e-80f2-6e5ac4cfb467.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_d4e27947-8d9c-4eae-a057-3e9eab69942e.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1253479190",
+          "FileName": "r2_d4e27947-8d9c-4eae-a057-3e9eab69942e.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_d4e27947-8d9c-4eae-a057-3e9eab69942e.png"
         }
       ],
       "Back": [
         {
-          "FileName": "c259bd90-fd64-4e07-993c-cc74c7810a35.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "1939347746",
-          "URL": "http://images.launchbox-app.com/c259bd90-fd64-4e07-993c-cc74c7810a35.jpg"
-        },
-        {
-          "FileName": "b4c43e83-d4d7-4301-a9a9-3695b2c4147e.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "3872437037",
+          "FileName": "b4c43e83-d4d7-4301-a9a9-3695b2c4147e.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/b4c43e83-d4d7-4301-a9a9-3695b2c4147e.jpg"
         },
         {
-          "FileName": "r2_bfbedcb0-db8f-47b9-ab82-078e7a03136e.jpg",
+          "CRC32": "1939347746",
+          "FileName": "c259bd90-fd64-4e07-993c-cc74c7810a35.jpg",
+          "Region": "Europe",
           "Type": "Box - Back",
-          "Region": "Germany",
+          "URL": "http://images.launchbox-app.com/c259bd90-fd64-4e07-993c-cc74c7810a35.jpg"
+        },
+        {
           "CRC32": "2435865303",
+          "FileName": "r2_bfbedcb0-db8f-47b9-ab82-078e7a03136e.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_bfbedcb0-db8f-47b9-ab82-078e7a03136e.jpg"
         },
         {
-          "FileName": "a102b1da-fe6e-49cf-b73e-45f8463bbf7a.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "257757512",
+          "FileName": "a102b1da-fe6e-49cf-b73e-45f8463bbf7a.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/a102b1da-fe6e-49cf-b73e-45f8463bbf7a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "c9366c31-3b88-4a04-bb2d-57ea2182b48f.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "3076819927",
+          "FileName": "c9366c31-3b88-4a04-bb2d-57ea2182b48f.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c9366c31-3b88-4a04-bb2d-57ea2182b48f.jpg"
         },
         {
-          "FileName": "r2_61c55d4d-7d6c-4533-ad24-7b2e5565e47a.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1665708781",
+          "FileName": "r2_61c55d4d-7d6c-4533-ad24-7b2e5565e47a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_61c55d4d-7d6c-4533-ad24-7b2e5565e47a.jpg"
         },
         {
-          "FileName": "7389967b-bad3-49a2-a706-47cefaa58522.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1500110948",
+          "FileName": "7389967b-bad3-49a2-a706-47cefaa58522.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7389967b-bad3-49a2-a706-47cefaa58522.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "5b17400b-a3eb-4eea-b20d-84b901610cec.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "3010297984",
+          "FileName": "5b17400b-a3eb-4eea-b20d-84b901610cec.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/5b17400b-a3eb-4eea-b20d-84b901610cec.jpg"
         },
         {
-          "FileName": "0da7e9ea-9205-4fde-bb51-13743eb7a075.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3768260303",
+          "FileName": "0da7e9ea-9205-4fde-bb51-13743eb7a075.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/0da7e9ea-9205-4fde-bb51-13743eb7a075.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "ea93a17d-00b2-45f2-b1c4-8c0d8e6ab7d8.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3655469022",
+        "FileName": "ea93a17d-00b2-45f2-b1c4-8c0d8e6ab7d8.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/ea93a17d-00b2-45f2-b1c4-8c0d8e6ab7d8.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "507a71dd-8682-4aeb-918d-73e15aedc324.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3725418535",
-        "URL": "http://images.launchbox-app.com/507a71dd-8682-4aeb-918d-73e15aedc324.jpg"
-      },
-      {
-        "FileName": "8e9ea0d4-d1a8-47bd-979c-70bbcda66fab.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1368733683",
-        "URL": "http://images.launchbox-app.com/8e9ea0d4-d1a8-47bd-979c-70bbcda66fab.jpg"
-      },
-      {
-        "FileName": "eb4221ce-d047-4d6c-980e-f4a6e391ca8f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "452605507",
-        "URL": "http://images.launchbox-app.com/eb4221ce-d047-4d6c-980e-f4a6e391ca8f.jpg"
-      },
-      {
-        "FileName": "6de51730-79ca-4554-b557-6b40a88bf463.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3154549154",
-        "URL": "http://images.launchbox-app.com/6de51730-79ca-4554-b557-6b40a88bf463.jpg"
-      },
-      {
-        "FileName": "209f2bf8-b43c-4c90-aaaf-7f2883602977.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2865047587",
-        "URL": "http://images.launchbox-app.com/209f2bf8-b43c-4c90-aaaf-7f2883602977.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "3753327518",
         "FileName": "79cbb49b-b6fe-472f-84df-b0995742f43e.png",
         "Type": "Clear Logo",
-        "CRC32": "3753327518",
         "URL": "http://images.launchbox-app.com/79cbb49b-b6fe-472f-84df-b0995742f43e.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2865047587",
+        "FileName": "209f2bf8-b43c-4c90-aaaf-7f2883602977.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/209f2bf8-b43c-4c90-aaaf-7f2883602977.jpg"
+      },
+      {
+        "CRC32": "3725418535",
+        "FileName": "507a71dd-8682-4aeb-918d-73e15aedc324.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/507a71dd-8682-4aeb-918d-73e15aedc324.jpg"
+      },
+      {
+        "CRC32": "3154549154",
+        "FileName": "6de51730-79ca-4554-b557-6b40a88bf463.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/6de51730-79ca-4554-b557-6b40a88bf463.jpg"
+      },
+      {
+        "CRC32": "1368733683",
+        "FileName": "8e9ea0d4-d1a8-47bd-979c-70bbcda66fab.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8e9ea0d4-d1a8-47bd-979c-70bbcda66fab.jpg"
+      },
+      {
+        "CRC32": "452605507",
+        "FileName": "eb4221ce-d047-4d6c-980e-f4a6e391ca8f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/eb4221ce-d047-4d6c-980e-f4a6e391ca8f.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.66666666666667",
+  "DatabaseID": "22575",
+  "Developer": "Bohemia Interactive Studio",
+  "ESRB": "M - Mature",
+  "Genres": "Strategy",
+  "Name": "Carrier Command: Gaea Mission",
+  "Overview": "Carrier Command is a real-time action/strategy game, where the overarching objective is to conquer and control islands. It features a 33-island archipelago on the moon Taurus.\n\nThe player's fundamental unit is the Carrier, from which they may deploy and dock up to four aerial units and four amphibious units. Other defensive and offensive systems are present, such as drones which protect the Carrier when under attack.\n\nBattles take place in the air, on land, and in the sea. The player can control any deployed vehicle at any time.\n\nTraveling between islands is real-time and seamless. Islands are composed of 6 distinct climatic zones, including Wastelands, Arctic, Marshlands, Volcanic, Mountains and Temperate. The game features real-time weather changes and day/night cycles.",
+  "Publisher": "Rising Star Games",
+  "ReleaseDate": "2012-12-28T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Carrier_Command:_Gaea_Mission"
 }

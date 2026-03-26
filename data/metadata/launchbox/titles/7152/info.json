@@ -1,133 +1,133 @@
 {
-  "Name": "Bullet Witch",
-  "DatabaseID": "7152",
-  "ReleaseDate": "2007-02-27T00:00:00+00:00",
-  "Overview": "At first, we thought she was one of them - a woman in black, with a long gun like a witch's broom and the magical powers to match. Survivors whispered her stories in the alleyways: stories of battles so intense that they leveled whole city blocks, during which she mowed down entire demon regiments with flaming bullets, then shared her own blood to save the wounded. They say she can summon clouds of ravens, call up thorns from the ground, and even conjure up lightning and tornadoes at will. \n\nMaybe she flew down from Heaven. Maybe Hell spat her back out. Either way, she's all we've got. \n\nBullet Witch is set on a bleak Earth, in the year 2013. The human race is almost extinct as hideous demons and monsters dominate the planet. It's been decided that only a combination of ancient and modern combat can beat the creatures. Alicia is a highly-trained soldier who also knows ancient magic. The fate of the human race is in her hands as she ventures into the world of monsters and fights them with her mix of magical arts and military equipment. Manage Alicia's health & magic meters to avoid running out of ammo or power - be strategic & play it safe, or the world dies with her.",
-  "VideoURL": "https://www.youtube.com/watch?v=k9g5nccu0FU",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Bullet_Witch",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Cavia",
-  "Publisher": "Atari",
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "3236537689",
+        "FileName": "814de4b4-4041-4ea7-a569-4f6d1850a7c0.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/814de4b4-4041-4ea7-a569-4f6d1850a7c0.jpg"
+      }
+    ],
     "Banner": [
       {
+        "CRC32": "433253720",
         "FileName": "2e118889-c410-48ed-b059-b38db82d9785.jpg",
         "Type": "Banner",
-        "CRC32": "433253720",
         "URL": "http://images.launchbox-app.com/2e118889-c410-48ed-b059-b38db82d9785.jpg"
       },
       {
+        "CRC32": "4043209896",
         "FileName": "d469580d-c961-4bc9-ab46-f47aaf4f2e27.png",
         "Type": "Banner",
-        "CRC32": "4043209896",
         "URL": "http://images.launchbox-app.com/d469580d-c961-4bc9-ab46-f47aaf4f2e27.png"
-      }
-    ],
-    "Background": [
-      {
-        "FileName": "814de4b4-4041-4ea7-a569-4f6d1850a7c0.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3236537689",
-        "URL": "http://images.launchbox-app.com/814de4b4-4041-4ea7-a569-4f6d1850a7c0.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "80677311-2b61-443d-86bb-b80cacbbee97.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1816003805",
+          "FileName": "80677311-2b61-443d-86bb-b80cacbbee97.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/80677311-2b61-443d-86bb-b80cacbbee97.png"
         }
       ],
       "Back": [
         {
-          "FileName": "e23ce4b0-d7cc-48be-a408-1107c42c417c.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3023496714",
+          "FileName": "e23ce4b0-d7cc-48be-a408-1107c42c417c.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/e23ce4b0-d7cc-48be-a408-1107c42c417c.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_637380cd-4529-48e0-9671-6f365d58f68a.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "86097774",
+          "FileName": "r2_637380cd-4529-48e0-9671-6f365d58f68a.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_637380cd-4529-48e0-9671-6f365d58f68a.jpg"
         },
         {
-          "FileName": "d39eeeda-5860-42ce-84f2-906904fe980b.jpg",
-          "Type": "Box - Front",
+          "CRC32": "1563953234",
+          "FileName": "2c9d4e56-39d5-44a8-b96d-ed53d7164b68.jpg",
           "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/2c9d4e56-39d5-44a8-b96d-ed53d7164b68.jpg"
+        },
+        {
           "CRC32": "615621147",
+          "FileName": "d39eeeda-5860-42ce-84f2-906904fe980b.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d39eeeda-5860-42ce-84f2-906904fe980b.jpg"
         },
         {
-          "FileName": "d74617ed-6461-4da2-aedf-103e9ca326e1.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3952356809",
-          "URL": "http://images.launchbox-app.com/d74617ed-6461-4da2-aedf-103e9ca326e1.jpg"
-        },
-        {
-          "FileName": "2c9d4e56-39d5-44a8-b96d-ed53d7164b68.jpg",
-          "Type": "Box - Front",
+          "FileName": "d74617ed-6461-4da2-aedf-103e9ca326e1.jpg",
           "Region": "North America",
-          "CRC32": "1563953234",
-          "URL": "http://images.launchbox-app.com/2c9d4e56-39d5-44a8-b96d-ed53d7164b68.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/d74617ed-6461-4da2-aedf-103e9ca326e1.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "5b4822cb-1a65-45a5-bd92-2d698d8918a4.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1926160909",
+          "FileName": "5b4822cb-1a65-45a5-bd92-2d698d8918a4.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/5b4822cb-1a65-45a5-bd92-2d698d8918a4.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "f4080cce-b665-493b-bc6b-5d2b8ad3871c.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1435725424",
+        "FileName": "f4080cce-b665-493b-bc6b-5d2b8ad3871c.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/f4080cce-b665-493b-bc6b-5d2b8ad3871c.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "90517a4c-b1a0-4313-bfb7-5a54d1d4a1cc.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4108040038",
-        "URL": "http://images.launchbox-app.com/90517a4c-b1a0-4313-bfb7-5a54d1d4a1cc.jpg"
-      },
-      {
-        "FileName": "b4192400-7ae6-49a2-b772-801f28b80d8e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2121424416",
-        "URL": "http://images.launchbox-app.com/b4192400-7ae6-49a2-b772-801f28b80d8e.jpg"
-      },
-      {
-        "FileName": "c8fda207-77fb-403c-8a4d-72846ac1d5ec.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1799601187",
-        "URL": "http://images.launchbox-app.com/c8fda207-77fb-403c-8a4d-72846ac1d5ec.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "4281835662",
         "FileName": "7a48f655-c053-46eb-9f37-6fed83226a50.png",
         "Type": "Clear Logo",
-        "CRC32": "4281835662",
         "URL": "http://images.launchbox-app.com/7a48f655-c053-46eb-9f37-6fed83226a50.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "4108040038",
+        "FileName": "90517a4c-b1a0-4313-bfb7-5a54d1d4a1cc.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/90517a4c-b1a0-4313-bfb7-5a54d1d4a1cc.jpg"
+      },
+      {
+        "CRC32": "2121424416",
+        "FileName": "b4192400-7ae6-49a2-b772-801f28b80d8e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/b4192400-7ae6-49a2-b772-801f28b80d8e.jpg"
+      },
+      {
+        "CRC32": "1799601187",
+        "FileName": "c8fda207-77fb-403c-8a4d-72846ac1d5ec.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c8fda207-77fb-403c-8a4d-72846ac1d5ec.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "7152",
+  "Developer": "Cavia",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Bullet Witch",
+  "Overview": "At first, we thought she was one of them - a woman in black, with a long gun like a witch's broom and the magical powers to match. Survivors whispered her stories in the alleyways: stories of battles so intense that they leveled whole city blocks, during which she mowed down entire demon regiments with flaming bullets, then shared her own blood to save the wounded. They say she can summon clouds of ravens, call up thorns from the ground, and even conjure up lightning and tornadoes at will. \n\nMaybe she flew down from Heaven. Maybe Hell spat her back out. Either way, she's all we've got. \n\nBullet Witch is set on a bleak Earth, in the year 2013. The human race is almost extinct as hideous demons and monsters dominate the planet. It's been decided that only a combination of ancient and modern combat can beat the creatures. Alicia is a highly-trained soldier who also knows ancient magic. The fate of the human race is in her hands as she ventures into the world of monsters and fights them with her mix of magical arts and military equipment. Manage Alicia's health & magic meters to avoid running out of ammo or power - be strategic & play it safe, or the world dies with her.",
+  "Publisher": "Atari",
+  "ReleaseDate": "2007-02-27T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=k9g5nccu0FU",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Bullet_Witch"
 }

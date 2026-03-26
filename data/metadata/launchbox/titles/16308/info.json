@@ -1,90 +1,90 @@
 {
-  "Name": "RayStorm HD",
-  "DatabaseID": "16308",
-  "ReleaseDate": "2010-05-05T00:00:00+00:00",
-  "Overview": "The core of Raystorm HD is exactly the same as the original Raystorm, with the same R-Gray fighters to pilot, the same vertically scrolling levels to fly, and the same sci-fi storyline where you defend Earth from a bunch of cheesed-off former colonists looking to blow the place up circa 2219. This is really just another take on the classic top-down shooter that started to show up in arcades way back in the early '80s. The only real difference between it and predecessors like 1943 and Xevious is the use of a lock-on feature. That feature lets you target a bunch of enemy ships with a cursor and blast them with a one-button laser barrage. You can fire away with a standard cannon, too, but it's secondary to the lasers because you earn multipliers when you lock onto and incinerate numerous baddies simultaneously. Using lasers is also necessary due to sheer self-preservation. Enemies cover the entire screen with blasts of fiery instant death, so you're best off targeting multiple crafts with the laser and taking them all out with the single push of a button. Scrambling around and trying to manually shoot them with your main guns tends to get you killed a whole lot.",
-  "VideoURL": "http://www.youtube.com/watch?v=Z0CPcUUObKw",
-  "CommunityRating": "3.92857142857143",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/RayStorm",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Shooter",
-  "Developer": "Taito",
-  "Publisher": "Taito",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "51a7cada-fc8b-47f2-b58a-fb0d05e9183b.png",
-        "Type": "Banner",
-        "CRC32": "2685383414",
-        "URL": "http://images.launchbox-app.com/51a7cada-fc8b-47f2-b58a-fb0d05e9183b.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1990534686",
         "FileName": "1bab3eea-4815-41d7-a4ab-c4f051d80f09.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1990534686",
         "URL": "http://images.launchbox-app.com/1bab3eea-4815-41d7-a4ab-c4f051d80f09.jpg"
       },
       {
+        "CRC32": "2758820758",
         "FileName": "1c212e3d-4f6b-4c41-b764-4e7fdffabf12.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2758820758",
         "URL": "http://images.launchbox-app.com/1c212e3d-4f6b-4c41-b764-4e7fdffabf12.jpg"
       },
       {
+        "CRC32": "2271545230",
         "FileName": "cc7dc9b1-4ad3-4603-a2b3-95f84eab2247.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2271545230",
         "URL": "http://images.launchbox-app.com/cc7dc9b1-4ad3-4603-a2b3-95f84eab2247.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2685383414",
+        "FileName": "51a7cada-fc8b-47f2-b58a-fb0d05e9183b.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/51a7cada-fc8b-47f2-b58a-fb0d05e9183b.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c7a30f70-061f-41e3-a7d7-19ef61b2f9d1.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3279937996",
+          "FileName": "c7a30f70-061f-41e3-a7d7-19ef61b2f9d1.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c7a30f70-061f-41e3-a7d7-19ef61b2f9d1.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2065375538",
+        "FileName": "332ae9a2-0324-42bd-b10d-33f88d990600.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/332ae9a2-0324-42bd-b10d-33f88d990600.png"
+      }
+    ],
     "Screenshots": [
       {
-        "FileName": "fbe9eb94-4cc4-4963-a4da-8df4748b3499.jpg",
-        "Type": "Screenshot - Game Select",
-        "Region": "France",
         "CRC32": "377415199",
+        "FileName": "fbe9eb94-4cc4-4963-a4da-8df4748b3499.jpg",
+        "Region": "France",
+        "Type": "Screenshot - Game Select",
         "URL": "http://images.launchbox-app.com/fbe9eb94-4cc4-4963-a4da-8df4748b3499.jpg"
       },
       {
-        "FileName": "c194e6b4-ea34-4503-8e1f-e4454a917a48.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "France",
         "CRC32": "2241041701",
+        "FileName": "c194e6b4-ea34-4503-8e1f-e4454a917a48.jpg",
+        "Region": "France",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/c194e6b4-ea34-4503-8e1f-e4454a917a48.jpg"
       },
       {
+        "CRC32": "2895559252",
         "FileName": "baf4da9c-1609-42a7-95fc-03581719d7da.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2895559252",
         "URL": "http://images.launchbox-app.com/baf4da9c-1609-42a7-95fc-03581719d7da.jpg"
       },
       {
+        "CRC32": "1295296542",
         "FileName": "c7566007-90e5-458f-94cf-d117b20a3140.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1295296542",
         "URL": "http://images.launchbox-app.com/c7566007-90e5-458f-94cf-d117b20a3140.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "332ae9a2-0324-42bd-b10d-33f88d990600.png",
-        "Type": "Clear Logo",
-        "CRC32": "2065375538",
-        "URL": "http://images.launchbox-app.com/332ae9a2-0324-42bd-b10d-33f88d990600.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.92857142857143",
+  "DatabaseID": "16308",
+  "Developer": "Taito",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Shooter",
+  "Name": "RayStorm HD",
+  "Overview": "The core of Raystorm HD is exactly the same as the original Raystorm, with the same R-Gray fighters to pilot, the same vertically scrolling levels to fly, and the same sci-fi storyline where you defend Earth from a bunch of cheesed-off former colonists looking to blow the place up circa 2219. This is really just another take on the classic top-down shooter that started to show up in arcades way back in the early '80s. The only real difference between it and predecessors like 1943 and Xevious is the use of a lock-on feature. That feature lets you target a bunch of enemy ships with a cursor and blast them with a one-button laser barrage. You can fire away with a standard cannon, too, but it's secondary to the lasers because you earn multipliers when you lock onto and incinerate numerous baddies simultaneously. Using lasers is also necessary due to sheer self-preservation. Enemies cover the entire screen with blasts of fiery instant death, so you're best off targeting multiple crafts with the laser and taking them all out with the single push of a button. Scrambling around and trying to manually shoot them with your main guns tends to get you killed a whole lot.",
+  "Publisher": "Taito",
+  "ReleaseDate": "2010-05-05T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=Z0CPcUUObKw",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/RayStorm"
 }

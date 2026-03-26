@@ -1,71 +1,71 @@
 {
-  "Name": "Voltron",
-  "DatabaseID": "181845",
-  "ReleaseDate": "2011-11-29T00:00:00+00:00",
-  "Overview": "Voltron: Defender of the Universe is a twin stick shooter adventure game based on the Voltron television series, developed by Behaviour Interactive and published by THQ. The game was released on November 29, 2011 for the PlayStation Network and released on November 30, 2011 for the Xbox Live Arcade. The game allows players to play as all five lions from the series and to control Voltron, a huge robot formed by combining those lions. The game received mixed reception among critics. Some reviewers were critical of the Voltron robot gameplay sequences, yet others praised the lion sequences. Most critics spoke highly of the fan service given. The game is now delisted and not available for purchase.",
-  "CommunityRating": "1.75",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Voltron:_Defender_of_the_Universe_(video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Shooter",
-  "Developer": "Behaviour Interactive",
-  "Publisher": "THQ",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "ec067cff-fa4f-461b-980a-ca5bb9dbb484.png",
-        "Type": "Banner",
-        "CRC32": "2122679958",
-        "URL": "http://images.launchbox-app.com/ec067cff-fa4f-461b-980a-ca5bb9dbb484.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3213580995",
         "FileName": "6b7d9882-4dfd-4002-a935-6e3d844a54c6.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3213580995",
         "URL": "http://images.launchbox-app.com/6b7d9882-4dfd-4002-a935-6e3d844a54c6.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2122679958",
+        "FileName": "ec067cff-fa4f-461b-980a-ca5bb9dbb484.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/ec067cff-fa4f-461b-980a-ca5bb9dbb484.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "5b210581-c59e-45ca-aa6e-bec1f4188d73.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "668883661",
+          "FileName": "5b210581-c59e-45ca-aa6e-bec1f4188d73.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5b210581-c59e-45ca-aa6e-bec1f4188d73.jpg"
         },
         {
-          "FileName": "90ba8384-59f3-4f76-a999-c6aa53b17dfc.jpg",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "World",
           "CRC32": "1605716155",
+          "FileName": "90ba8384-59f3-4f76-a999-c6aa53b17dfc.jpg",
+          "Region": "World",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/90ba8384-59f3-4f76-a999-c6aa53b17dfc.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2292187817",
+        "FileName": "8e2cfa50-4165-4ae7-beea-121246ff93df.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/8e2cfa50-4165-4ae7-beea-121246ff93df.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "3137471198",
         "FileName": "1e897004-b2dc-4a50-97e4-aa00dff3b5f2.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3137471198",
         "URL": "http://images.launchbox-app.com/1e897004-b2dc-4a50-97e4-aa00dff3b5f2.jpg"
       },
       {
+        "CRC32": "1198902001",
         "FileName": "b46ed548-78ee-4c33-a113-f98cf580da09.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1198902001",
         "URL": "http://images.launchbox-app.com/b46ed548-78ee-4c33-a113-f98cf580da09.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "8e2cfa50-4165-4ae7-beea-121246ff93df.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "2292187817",
-        "URL": "http://images.launchbox-app.com/8e2cfa50-4165-4ae7-beea-121246ff93df.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "1.75",
+  "DatabaseID": "181845",
+  "Developer": "Behaviour Interactive",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Shooter",
+  "Name": "Voltron",
+  "Overview": "Voltron: Defender of the Universe is a twin stick shooter adventure game based on the Voltron television series, developed by Behaviour Interactive and published by THQ. The game was released on November 29, 2011 for the PlayStation Network and released on November 30, 2011 for the Xbox Live Arcade. The game allows players to play as all five lions from the series and to control Voltron, a huge robot formed by combining those lions. The game received mixed reception among critics. Some reviewers were critical of the Voltron robot gameplay sequences, yet others praised the lion sequences. Most critics spoke highly of the fan service given. The game is now delisted and not available for purchase.",
+  "Publisher": "THQ",
+  "ReleaseDate": "2011-11-29T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Voltron:_Defender_of_the_Universe_(video_game)"
 }

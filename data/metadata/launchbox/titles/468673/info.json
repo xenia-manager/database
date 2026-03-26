@@ -1,38 +1,38 @@
 {
-  "Name": "Crimson Blues",
-  "DatabaseID": "468673",
-  "ReleaseDate": "2009-12-11T00:00:00+00:00",
-  "Overview": "Crimson Blues is an action puzzle-platform where the player is able to shift between red and blue modes, gaining new abilities when interacting with different colored objects. The game features a full tutorial mode leading up to the single player game, as well as a 2 player gameplay with unlockable extras and new modes.",
-  "Genres": "Action; Platform",
-  "Developer": "Phang Chan Chun",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "e03cd42d-18c0-4914-829b-42aab07d4690.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1289577528",
+          "FileName": "e03cd42d-18c0-4914-829b-42aab07d4690.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e03cd42d-18c0-4914-829b-42aab07d4690.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "f2923ed0-aee3-408e-b607-3888c53cc4e4.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1093481392",
+        "FileName": "3d0f3c38-ad12-4b5f-9153-4065dbad7307.jpg",
         "Region": "World",
-        "CRC32": "1674023826",
-        "URL": "http://images.launchbox-app.com/f2923ed0-aee3-408e-b607-3888c53cc4e4.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/3d0f3c38-ad12-4b5f-9153-4065dbad7307.jpg"
       },
       {
-        "FileName": "3d0f3c38-ad12-4b5f-9153-4065dbad7307.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1674023826",
+        "FileName": "f2923ed0-aee3-408e-b607-3888c53cc4e4.jpg",
         "Region": "World",
-        "CRC32": "1093481392",
-        "URL": "http://images.launchbox-app.com/3d0f3c38-ad12-4b5f-9153-4065dbad7307.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f2923ed0-aee3-408e-b607-3888c53cc4e4.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468673",
+  "Developer": "Phang Chan Chun",
+  "Genres": "Action; Platform",
+  "Name": "Crimson Blues",
+  "Overview": "Crimson Blues is an action puzzle-platform where the player is able to shift between red and blue modes, gaining new abilities when interacting with different colored objects. The game features a full tutorial mode leading up to the single player game, as well as a 2 player gameplay with unlockable extras and new modes.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2009-12-11T00:00:00+00:00"
 }

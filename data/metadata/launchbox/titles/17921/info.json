@@ -1,81 +1,81 @@
 {
-  "Name": "Thief",
-  "DatabaseID": "17921",
-  "ReleaseDate": "2014-02-14T00:00:00+00:00",
-  "Overview": "Thief is set in a fictional world inspired by Victorian and steampunk aesthetics. Garrett, a master thief who has been away from his hometown for a long time, returns to it, a city named 'The City', and finds it ruled over by a tyrant called 'The Baron'. While The City is infested by a plague, the rich continue to live in good fortune, and Garrett intends to exploit the situation to his favor",
-  "CommunityRating": "4.16666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Thief_(2014_video_game)",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Adventure; Stealth",
-  "Developer": "Square Enix",
-  "Publisher": "Eidos Montreal",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "3084441054",
           "FileName": "9ec4f03b-5b22-4c74-b970-acef0dbc4b73.png",
           "Type": "Box - 3D",
-          "CRC32": "3084441054",
           "URL": "http://images.launchbox-app.com/9ec4f03b-5b22-4c74-b970-acef0dbc4b73.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_8c5d1173-7a53-4236-99e3-3eeb78e0c57a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1221125753",
+          "FileName": "r2_8c5d1173-7a53-4236-99e3-3eeb78e0c57a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_8c5d1173-7a53-4236-99e3-3eeb78e0c57a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "54c96f28-1e7a-4862-9022-1f2a19455b54.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2305998977",
+          "FileName": "54c96f28-1e7a-4862-9022-1f2a19455b54.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/54c96f28-1e7a-4862-9022-1f2a19455b54.jpg"
         },
         {
-          "FileName": "r2_777fcbf3-9b6c-497c-95e0-284b29b1927c.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "196897299",
+          "FileName": "r2_777fcbf3-9b6c-497c-95e0-284b29b1927c.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_777fcbf3-9b6c-497c-95e0-284b29b1927c.jpg"
         },
         {
-          "FileName": "eea27e95-9121-4a46-877d-fdf902fb19ad.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3686012125",
+          "FileName": "eea27e95-9121-4a46-877d-fdf902fb19ad.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/eea27e95-9121-4a46-877d-fdf902fb19ad.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "63102e75-e5cd-4b48-9ceb-cf932edf7911.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2647968079",
+        "FileName": "63102e75-e5cd-4b48-9ceb-cf932edf7911.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/63102e75-e5cd-4b48-9ceb-cf932edf7911.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "3eea7fcb-3817-4fa7-902e-1985311ea117.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "191765678",
-        "URL": "http://images.launchbox-app.com/3eea7fcb-3817-4fa7-902e-1985311ea117.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "4265862251",
         "FileName": "13255b99-3bc2-456a-9cea-bc7f5a1be967.png",
         "Type": "Clear Logo",
-        "CRC32": "4265862251",
         "URL": "http://images.launchbox-app.com/13255b99-3bc2-456a-9cea-bc7f5a1be967.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "191765678",
+        "FileName": "3eea7fcb-3817-4fa7-902e-1985311ea117.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/3eea7fcb-3817-4fa7-902e-1985311ea117.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.16666666666667",
+  "DatabaseID": "17921",
+  "Developer": "Square Enix",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Adventure; Stealth",
+  "Name": "Thief",
+  "Overview": "Thief is set in a fictional world inspired by Victorian and steampunk aesthetics. Garrett, a master thief who has been away from his hometown for a long time, returns to it, a city named 'The City', and finds it ruled over by a tyrant called 'The Baron'. While The City is infested by a plague, the rich continue to live in good fortune, and Garrett intends to exploit the situation to his favor",
+  "Publisher": "Eidos Montreal",
+  "ReleaseDate": "2014-02-14T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Thief_(2014_video_game)"
 }

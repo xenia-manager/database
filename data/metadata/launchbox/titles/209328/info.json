@@ -1,43 +1,43 @@
 {
-  "Name": "EXIT 2",
-  "DatabaseID": "209328",
-  "ReleaseDate": "2009-02-25T00:00:00+00:00",
-  "Overview": "Mr. ESC returns in the sequel to the original Exit. Once again, the player must use a combination of platform jumping and puzzle solving to rescue trapped civilians with particular personality traits. The game features a variety of tools (such as ladders and fire extinguishers) to get past some of the many hazards across the levels (like weakened floors, fire, and electric arcs).\n\nThe player must use Mr. ESC's athleticism and planning to clear a safe path for the civilians to reach the exit. Civilians have basic A.I., and can be ordered to stay or follow. The player can also direct one civilian at a time using an arrow cursor, allowing them to be ordered to a specific location or to pick up and use tools.\n\nExit 2 adds two new civilian types (Macho and Dog), ten new hazards, and 240 new stages. The Xbox Live Arcade version further offers 30 more exclusive levels for download.",
-  "VideoURL": "https://en.wikipedia.org/wiki/Exit_2",
-  "CommunityRating": "2.875",
-  "ESRB": "E - Everyone",
-  "Genres": "Platform; Puzzle",
-  "Developer": "Taito",
-  "Publisher": "Taito",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_72132d61-beec-4be1-89ce-c595e8e9f3b9.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "274853108",
-        "URL": "http://images.launchbox-app.com/r2_72132d61-beec-4be1-89ce-c595e8e9f3b9.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_84d85045-0c47-4a7e-87b4-42eb002428fc.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2408296319",
+        "FileName": "r2_84d85045-0c47-4a7e-87b4-42eb002428fc.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_84d85045-0c47-4a7e-87b4-42eb002428fc.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "274853108",
+        "FileName": "r2_72132d61-beec-4be1-89ce-c595e8e9f3b9.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_72132d61-beec-4be1-89ce-c595e8e9f3b9.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "f6877fd8-9ea9-4861-9b68-5333390440a2.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2870882727",
+          "FileName": "f6877fd8-9ea9-4861-9b68-5333390440a2.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f6877fd8-9ea9-4861-9b68-5333390440a2.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "2.875",
+  "DatabaseID": "209328",
+  "Developer": "Taito",
+  "ESRB": "E - Everyone",
+  "Genres": "Platform; Puzzle",
+  "Name": "EXIT 2",
+  "Overview": "Mr. ESC returns in the sequel to the original Exit. Once again, the player must use a combination of platform jumping and puzzle solving to rescue trapped civilians with particular personality traits. The game features a variety of tools (such as ladders and fire extinguishers) to get past some of the many hazards across the levels (like weakened floors, fire, and electric arcs).\n\nThe player must use Mr. ESC's athleticism and planning to clear a safe path for the civilians to reach the exit. Civilians have basic A.I., and can be ordered to stay or follow. The player can also direct one civilian at a time using an arrow cursor, allowing them to be ordered to a specific location or to pick up and use tools.\n\nExit 2 adds two new civilian types (Macho and Dog), ten new hazards, and 240 new stages. The Xbox Live Arcade version further offers 30 more exclusive levels for download.",
+  "Publisher": "Taito",
+  "ReleaseDate": "2009-02-25T00:00:00+00:00",
+  "VideoURL": "https://en.wikipedia.org/wiki/Exit_2"
 }

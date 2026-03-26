@@ -1,56 +1,56 @@
 {
-  "Name": "Rabbids Invasion : The Interactive TV Show",
-  "DatabaseID": "163374",
-  "ReleaseDate": "2014-11-17T00:00:00+00:00",
-  "CommunityRating": "5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Rabbids_Invasion#Video_game",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": null,
-  "Developer": "Ubisoft Barcelona",
-  "Publisher": "Ubisoft",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3764176726",
         "FileName": "eaa761ba-d0a6-4244-9b89-6438871d6913.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3764176726",
         "URL": "http://images.launchbox-app.com/eaa761ba-d0a6-4244-9b89-6438871d6913.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "905476477",
           "FileName": "ddf663d8-5df0-4122-ac2c-e09d7d1cef2f.png",
           "Type": "Box - 3D",
-          "CRC32": "905476477",
           "URL": "http://images.launchbox-app.com/ddf663d8-5df0-4122-ac2c-e09d7d1cef2f.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_14a8c759-deea-4599-823d-1bb8a7dc1455.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3613281379",
+          "FileName": "r2_14a8c759-deea-4599-823d-1bb8a7dc1455.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_14a8c759-deea-4599-823d-1bb8a7dc1455.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_6fdc0371-a864-4ea6-b4c2-a5a64f897bde.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "4217077555",
+          "FileName": "r2_6fdc0371-a864-4ea6-b4c2-a5a64f897bde.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_6fdc0371-a864-4ea6-b4c2-a5a64f897bde.jpg"
         },
         {
-          "FileName": "d1e4996f-cd67-4aa3-bf4a-24bb5c3de1c1.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3053323125",
+          "FileName": "d1e4996f-cd67-4aa3-bf4a-24bb5c3de1c1.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d1e4996f-cd67-4aa3-bf4a-24bb5c3de1c1.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "5",
+  "DatabaseID": "163374",
+  "Developer": "Ubisoft Barcelona",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": null,
+  "Name": "Rabbids Invasion : The Interactive TV Show",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2014-11-17T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Rabbids_Invasion#Video_game"
 }

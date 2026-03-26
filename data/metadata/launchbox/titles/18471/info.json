@@ -1,91 +1,91 @@
 {
-  "Name": "Assault Heroes 2",
-  "DatabaseID": "18471",
-  "ReleaseDate": "2008-05-14T00:00:00+00:00",
-  "Overview": "Re-imagined for a more intense arcade shooter experience, Assault Heroes 2 explodes with additional combat vehicles, more powerful weaponry, hijack-able enemy units, extensive on-foot skirmishes, and enhanced co-op. Battle alone or with a friend in dramatic environments like space and the rain forest as you hijack the stealth helicopter, armored tank, or mechanical walker from the enemy base. Reign destruction on the sinister alien force with a superior arsenal of weapons including the newly designed sub-zero freezing ice cannon, homing missiles, rocket launcher and upgraded firearms. Survive on-foot warfare in underground areas and environments fully equipped with all your weapons. Save mankind before it’s too late!",
-  "VideoURL": "https://www.youtube.com/watch?v=Hf826AaV8_s",
-  "CommunityRating": "2.91666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Assault_Heroes_2",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "Wanako Studios",
-  "Publisher": "Sierra Online",
   "Artwork": {
     "Arcade": [
       {
+        "CRC32": "4115029042",
         "FileName": "ba0d1c75-9d9a-41a8-8bf3-8f892f97cc66.jpg",
         "Type": "Arcade - Controls Information",
-        "CRC32": "4115029042",
         "URL": "http://images.launchbox-app.com/ba0d1c75-9d9a-41a8-8bf3-8f892f97cc66.jpg"
-      }
-    ],
-    "Banner": [
-      {
-        "FileName": "7cd1fa30-32fa-4357-bee1-e0c7cb321fde.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2325573884",
-        "URL": "http://images.launchbox-app.com/7cd1fa30-32fa-4357-bee1-e0c7cb321fde.png"
-      },
-      {
-        "FileName": "e9871367-cf6c-422f-b4f1-724164a778a6.jpg",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "374830538",
-        "URL": "http://images.launchbox-app.com/e9871367-cf6c-422f-b4f1-724164a778a6.jpg"
       }
     ],
     "Background": [
       {
-        "FileName": "78b70c8c-355c-4bb8-8fb3-5c45828dd2f6.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3475627251",
+        "FileName": "78b70c8c-355c-4bb8-8fb3-5c45828dd2f6.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/78b70c8c-355c-4bb8-8fb3-5c45828dd2f6.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2325573884",
+        "FileName": "7cd1fa30-32fa-4357-bee1-e0c7cb321fde.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/7cd1fa30-32fa-4357-bee1-e0c7cb321fde.png"
+      },
+      {
+        "CRC32": "374830538",
+        "FileName": "e9871367-cf6c-422f-b4f1-724164a778a6.jpg",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/e9871367-cf6c-422f-b4f1-724164a778a6.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "9f5d1cf7-2031-40dc-92a4-187b014a593e.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2352324641",
+          "FileName": "9f5d1cf7-2031-40dc-92a4-187b014a593e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9f5d1cf7-2031-40dc-92a4-187b014a593e.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "e5dc4953-e3a2-4f5e-9fcc-1c3061a47721.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
         "CRC32": "3324255238",
+        "FileName": "e5dc4953-e3a2-4f5e-9fcc-1c3061a47721.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/e5dc4953-e3a2-4f5e-9fcc-1c3061a47721.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "c651fe19-4048-48d9-b2f5-6485c1deccda.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "600002634",
-        "URL": "http://images.launchbox-app.com/c651fe19-4048-48d9-b2f5-6485c1deccda.jpg"
-      },
-      {
-        "FileName": "da41499d-0bcf-4058-b2b4-fd79b0700432.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "780693813",
-        "URL": "http://images.launchbox-app.com/da41499d-0bcf-4058-b2b4-fd79b0700432.jpg"
       }
     ],
     "Other": [
       {
-        "FileName": "3dadab33-b496-4fa4-ac2c-2846e5f0dbd8.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "484797666",
+        "FileName": "3dadab33-b496-4fa4-ac2c-2846e5f0dbd8.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/3dadab33-b496-4fa4-ac2c-2846e5f0dbd8.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "600002634",
+        "FileName": "c651fe19-4048-48d9-b2f5-6485c1deccda.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/c651fe19-4048-48d9-b2f5-6485c1deccda.jpg"
+      },
+      {
+        "CRC32": "780693813",
+        "FileName": "da41499d-0bcf-4058-b2b4-fd79b0700432.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/da41499d-0bcf-4058-b2b4-fd79b0700432.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "2.91666666666667",
+  "DatabaseID": "18471",
+  "Developer": "Wanako Studios",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Assault Heroes 2",
+  "Overview": "Re-imagined for a more intense arcade shooter experience, Assault Heroes 2 explodes with additional combat vehicles, more powerful weaponry, hijack-able enemy units, extensive on-foot skirmishes, and enhanced co-op. Battle alone or with a friend in dramatic environments like space and the rain forest as you hijack the stealth helicopter, armored tank, or mechanical walker from the enemy base. Reign destruction on the sinister alien force with a superior arsenal of weapons including the newly designed sub-zero freezing ice cannon, homing missiles, rocket launcher and upgraded firearms. Survive on-foot warfare in underground areas and environments fully equipped with all your weapons. Save mankind before it’s too late!",
+  "Publisher": "Sierra Online",
+  "ReleaseDate": "2008-05-14T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=Hf826AaV8_s",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Assault_Heroes_2"
 }

@@ -1,23 +1,23 @@
 {
-  "Name": "Heli Good Spelunker",
-  "DatabaseID": "470001",
-  "ReleaseDate": "2009-06-06T00:00:00+00:00",
-  "Overview": "Fly your helicopter through a dangerous cavern. And yes there is an end to the cave...you probably just aren't good enough to get there. Game play couldn't be simpler just press a to fly and let go to drop. Enjoy. Programming and art by Jordan Hample.",
-  "VideoURL": "https://youtu.be/6oMDSfE12GE",
-  "Genres": "Puzzle",
-  "Developer": "Jhample",
-  "Publisher": "Jhample",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "8173a447-c8a5-4289-a99c-8e1e18c630c6.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1276020594",
+          "FileName": "8173a447-c8a5-4289-a99c-8e1e18c630c6.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8173a447-c8a5-4289-a99c-8e1e18c630c6.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "470001",
+  "Developer": "Jhample",
+  "Genres": "Puzzle",
+  "Name": "Heli Good Spelunker",
+  "Overview": "Fly your helicopter through a dangerous cavern. And yes there is an end to the cave...you probably just aren't good enough to get there. Game play couldn't be simpler just press a to fly and let go to drop. Enjoy. Programming and art by Jordan Hample.",
+  "Publisher": "Jhample",
+  "ReleaseDate": "2009-06-06T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/6oMDSfE12GE"
 }

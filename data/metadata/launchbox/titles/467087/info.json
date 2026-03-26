@@ -1,45 +1,45 @@
 {
-  "Name": "Blow",
-  "DatabaseID": "467087",
-  "ReleaseDate": "2008-11-17T00:00:00+00:00",
-  "Overview": "Blow is a puzzle game in which the player must guide bubbles to the exit. This is accomplished by placing fans on the screen (they need to in proximity to a surface) which then carry the bubbles forward. The distance depends on a few variables: the angle of the fan (can be freely changed), at which position the bubbles enter the fan (from the back increases the distance), the fan speed (three available) and the bubble heat. In each level, the player has only a certain amount of gold available which restricts the number of fans (faster ones cost more) which can be placed. In most levels, the bubbles must travel through one or multiple blossoms before the exit is unlocked.\n\nBefore placing a fan, the game gives a preview how the bubbles will travel. However, there is no penalty for wrong placement because a fan can always be removed with a full gold refund. There are 70 levels and the option to randomly generate new ones.",
-  "Genres": "Puzzle",
-  "Developer": "Vector 2 Games",
-  "Publisher": "Vector 2 Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "121ff83b-a066-4842-a921-7a0266ef0c1f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1666670022",
+          "FileName": "121ff83b-a066-4842-a921-7a0266ef0c1f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/121ff83b-a066-4842-a921-7a0266ef0c1f.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "c1f31430-ecbb-4770-a6a0-2f5eb612872a.jpg",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
         "CRC32": "3345421711",
+        "FileName": "c1f31430-ecbb-4770-a6a0-2f5eb612872a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
         "URL": "http://images.launchbox-app.com/c1f31430-ecbb-4770-a6a0-2f5eb612872a.jpg"
       },
       {
-        "FileName": "1ca0cb74-fa24-4b5f-b450-ffac0fbefde1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1730574148",
+        "FileName": "1ca0cb74-fa24-4b5f-b450-ffac0fbefde1.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/1ca0cb74-fa24-4b5f-b450-ffac0fbefde1.jpg"
       },
       {
-        "FileName": "898777f8-592c-4a98-ad07-30d0b0c43513.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "177927636",
+        "FileName": "898777f8-592c-4a98-ad07-30d0b0c43513.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/898777f8-592c-4a98-ad07-30d0b0c43513.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467087",
+  "Developer": "Vector 2 Games",
+  "Genres": "Puzzle",
+  "Name": "Blow",
+  "Overview": "Blow is a puzzle game in which the player must guide bubbles to the exit. This is accomplished by placing fans on the screen (they need to in proximity to a surface) which then carry the bubbles forward. The distance depends on a few variables: the angle of the fan (can be freely changed), at which position the bubbles enter the fan (from the back increases the distance), the fan speed (three available) and the bubble heat. In each level, the player has only a certain amount of gold available which restricts the number of fans (faster ones cost more) which can be placed. In most levels, the bubbles must travel through one or multiple blossoms before the exit is unlocked.\n\nBefore placing a fan, the game gives a preview how the bubbles will travel. However, there is no penalty for wrong placement because a fan can always be removed with a full gold refund. There are 70 levels and the option to randomly generate new ones.",
+  "Publisher": "Vector 2 Games",
+  "ReleaseDate": "2008-11-17T00:00:00+00:00"
 }

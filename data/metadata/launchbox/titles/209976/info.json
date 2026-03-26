@@ -1,32 +1,32 @@
 {
-  "Name": "Teenage Mutant Ninja Turtles Training Lair",
-  "DatabaseID": "209976",
-  "ReleaseDate": "2014-07-22T00:00:00+00:00",
-  "Overview": "Step into the Teenage Mutant Ninja Turtle lair and train to become a ninja. In this action-packed Kinect driven experience, use your skills to complete various missions using different Ninja Turtle weapons. Unlock photo backgrounds and pose with your favorite Ninja Turtle to share photos with your friends on Facebook. And be sure to go see the movie ONLY in theaters August 8th!",
-  "CommunityRating": "4.5",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": null,
-  "Developer": "Krome Studios",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
     "Banner": [
       {
+        "CRC32": "937267919",
         "FileName": "6ab78c2f-780e-41d9-93c6-337f2aa2d6fe.png",
         "Type": "Banner",
-        "CRC32": "937267919",
         "URL": "http://images.launchbox-app.com/6ab78c2f-780e-41d9-93c6-337f2aa2d6fe.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "817c4b91-e8ba-4416-ab06-38abb6b5af47.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "311321813",
+          "FileName": "817c4b91-e8ba-4416-ab06-38abb6b5af47.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/817c4b91-e8ba-4416-ab06-38abb6b5af47.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "209976",
+  "Developer": "Krome Studios",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": null,
+  "Name": "Teenage Mutant Ninja Turtles Training Lair",
+  "Overview": "Step into the Teenage Mutant Ninja Turtle lair and train to become a ninja. In this action-packed Kinect driven experience, use your skills to complete various missions using different Ninja Turtle weapons. Unlock photo backgrounds and pose with your favorite Ninja Turtle to share photos with your friends on Facebook. And be sure to go see the movie ONLY in theaters August 8th!",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2014-07-22T00:00:00+00:00"
 }

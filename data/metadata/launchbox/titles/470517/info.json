@@ -1,53 +1,53 @@
 {
-  "Name": "Kaleidoscope",
-  "DatabaseID": "470517",
-  "ReleaseDate": "2010-02-12T00:00:00+00:00",
-  "Overview": "Kaleidoscope is a side-scrolling platformer in which three \"Pigments\" may be collected in each level and accumulated to unlock any subsequent levels and reach the end of the game. Levels are explored by moving and jumping, and the player has three regenerating \"color\" gauges at their disposal which they can use to run faster, double-jump, or shield their character from projectiles. Obstacles include grumpy animals, spikes, shooting flowers, moving platforms, and air currents.\n\nThe world of Kaleidoscope is a fictional planet with inhabitants, places, and history with names and references based on things having to do with colors and painting. The world has been afflicted by a disease which drained it of all color, and the protagonist, named Tint, is on a mission to restore all color to Kaleidoscope and save its inhabitants. He does so by collecting color spheres, which slowly brings color to the monochromatic background and objects of each level, and jumping on top of monochromatic \"enemies\" to return them to color and render them harmless. Each level ends when Tint has collected one out of three \"pigments\" which he must traverse the level to find.\n\nThe game consists of 12 levels over-viewed by a world map. The levels are split up into 4 different areas, the last of which challenges the player with slightly different ways of collecting the three pigments of the level. Each level has a number of pigments which must be found before the player is able to play the level. In addition to the goal pigments the player tries to find, each level has red, yellow, and blue color spheres scattered throughout it which, when collected, refill one of the color gauges. When enough of each color sphere is collected, the level art starts changing in steps from monochromatic to colorful, and tracks are added to the background music to accent this change as well.",
-  "VideoURL": "https://youtu.be/k0x6cE6wWoc",
-  "Genres": "Platform",
-  "Developer": "MORSEL",
-  "Publisher": "MORSEL",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "da0d5eeb-6ddf-43e2-9228-11601288ee5f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4151962005",
+          "FileName": "da0d5eeb-6ddf-43e2-9228-11601288ee5f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/da0d5eeb-6ddf-43e2-9228-11601288ee5f.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "913337f9-de2c-4b6d-81cf-b63c8904d904.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "4239293574",
-        "URL": "http://images.launchbox-app.com/913337f9-de2c-4b6d-81cf-b63c8904d904.jpg"
-      },
-      {
-        "FileName": "6acd8748-b501-40e5-a811-c4241163f89d.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1602521661",
-        "URL": "http://images.launchbox-app.com/6acd8748-b501-40e5-a811-c4241163f89d.jpg"
-      },
-      {
-        "FileName": "4648f56d-0d2d-4e2a-a2e6-ee63a24789ee.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3639281695",
+        "FileName": "4648f56d-0d2d-4e2a-a2e6-ee63a24789ee.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/4648f56d-0d2d-4e2a-a2e6-ee63a24789ee.jpg"
       },
       {
-        "FileName": "80444ca9-114f-4a6b-9d8e-0d64a669de1b.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1602521661",
+        "FileName": "6acd8748-b501-40e5-a811-c4241163f89d.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/6acd8748-b501-40e5-a811-c4241163f89d.jpg"
+      },
+      {
         "CRC32": "1913705343",
+        "FileName": "80444ca9-114f-4a6b-9d8e-0d64a669de1b.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/80444ca9-114f-4a6b-9d8e-0d64a669de1b.jpg"
+      },
+      {
+        "CRC32": "4239293574",
+        "FileName": "913337f9-de2c-4b6d-81cf-b63c8904d904.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/913337f9-de2c-4b6d-81cf-b63c8904d904.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "470517",
+  "Developer": "MORSEL",
+  "Genres": "Platform",
+  "Name": "Kaleidoscope",
+  "Overview": "Kaleidoscope is a side-scrolling platformer in which three \"Pigments\" may be collected in each level and accumulated to unlock any subsequent levels and reach the end of the game. Levels are explored by moving and jumping, and the player has three regenerating \"color\" gauges at their disposal which they can use to run faster, double-jump, or shield their character from projectiles. Obstacles include grumpy animals, spikes, shooting flowers, moving platforms, and air currents.\n\nThe world of Kaleidoscope is a fictional planet with inhabitants, places, and history with names and references based on things having to do with colors and painting. The world has been afflicted by a disease which drained it of all color, and the protagonist, named Tint, is on a mission to restore all color to Kaleidoscope and save its inhabitants. He does so by collecting color spheres, which slowly brings color to the monochromatic background and objects of each level, and jumping on top of monochromatic \"enemies\" to return them to color and render them harmless. Each level ends when Tint has collected one out of three \"pigments\" which he must traverse the level to find.\n\nThe game consists of 12 levels over-viewed by a world map. The levels are split up into 4 different areas, the last of which challenges the player with slightly different ways of collecting the three pigments of the level. Each level has a number of pigments which must be found before the player is able to play the level. In addition to the goal pigments the player tries to find, each level has red, yellow, and blue color spheres scattered throughout it which, when collected, refill one of the color gauges. When enough of each color sphere is collected, the level art starts changing in steps from monochromatic to colorful, and tracks are added to the background music to accent this change as well.",
+  "Publisher": "MORSEL",
+  "ReleaseDate": "2010-02-12T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/k0x6cE6wWoc"
 }

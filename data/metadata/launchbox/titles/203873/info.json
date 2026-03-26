@@ -1,27 +1,27 @@
 {
-  "Name": "Sakura Flamingo Archives",
-  "DatabaseID": "203873",
-  "CommunityRating": "3.25",
-  "Genres": "Shooter",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "511b081c-d62a-480b-a7f0-3df2cac2c55c.png",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "903614876",
+          "FileName": "511b081c-d62a-480b-a7f0-3df2cac2c55c.png",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/511b081c-d62a-480b-a7f0-3df2cac2c55c.png"
         }
       ]
     },
     "Screenshots": [
       {
+        "CRC32": "1071875465",
         "FileName": "76ead72e-b3c8-4cde-bd72-c8f6c6ab2c62.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1071875465",
         "URL": "http://images.launchbox-app.com/76ead72e-b3c8-4cde-bd72-c8f6c6ab2c62.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.25",
+  "DatabaseID": "203873",
+  "Genres": "Shooter",
+  "Name": "Sakura Flamingo Archives"
 }

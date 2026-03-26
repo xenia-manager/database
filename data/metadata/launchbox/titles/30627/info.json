@@ -1,50 +1,50 @@
 {
-  "Name": "SoulCalibur",
-  "DatabaseID": "30627",
-  "ReleaseDate": "2008-07-02T00:00:00+00:00",
-  "Overview": "The highest rated console fighting game ever is back again for a new generation! Sharpen your blades and relive old grudges against classic adversaries in high definition. Prove your mettle against the world with a variety of leaderboards spanning every character and mode. Match your wits and fighting instincts in Arcade, Training and Survival modes, or challenge a friend in local-play Versus mode.",
-  "VideoURL": "http://www.youtube.com/watch?v=tXul0190UpA",
-  "CommunityRating": "3.95000001362392",
-  "WikipediaURL": "https://www.wikipedia.org/wiki/Soulcalibur",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "Project Soul",
-  "Publisher": "Namco Bandai Games America",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "806882087",
         "FileName": "13bb3b01-9ce1-41ae-b9df-ccd3e018f4ab.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "806882087",
         "URL": "http://images.launchbox-app.com/13bb3b01-9ce1-41ae-b9df-ccd3e018f4ab.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "52169416-571f-43d3-9798-2183acac5743.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "818528391",
+          "FileName": "52169416-571f-43d3-9798-2183acac5743.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/52169416-571f-43d3-9798-2183acac5743.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "e3e93d92-cb79-41cc-909a-7805db416dbf.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2161505441",
-        "URL": "http://images.launchbox-app.com/e3e93d92-cb79-41cc-909a-7805db416dbf.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "3334955491",
         "FileName": "fb4ce8d5-6b1a-4eef-a57d-a7b402ed6a0c.png",
         "Type": "Clear Logo",
-        "CRC32": "3334955491",
         "URL": "http://images.launchbox-app.com/fb4ce8d5-6b1a-4eef-a57d-a7b402ed6a0c.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2161505441",
+        "FileName": "e3e93d92-cb79-41cc-909a-7805db416dbf.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/e3e93d92-cb79-41cc-909a-7805db416dbf.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.95000001362392",
+  "DatabaseID": "30627",
+  "Developer": "Project Soul",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "SoulCalibur",
+  "Overview": "The highest rated console fighting game ever is back again for a new generation! Sharpen your blades and relive old grudges against classic adversaries in high definition. Prove your mettle against the world with a variety of leaderboards spanning every character and mode. Match your wits and fighting instincts in Arcade, Training and Survival modes, or challenge a friend in local-play Versus mode.",
+  "Publisher": "Namco Bandai Games America",
+  "ReleaseDate": "2008-07-02T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=tXul0190UpA",
+  "WikipediaURL": "https://www.wikipedia.org/wiki/Soulcalibur"
 }

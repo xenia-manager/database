@@ -1,98 +1,98 @@
 {
-  "Name": "Trivial Pursuit",
-  "DatabaseID": "13097",
-  "ReleaseDate": "2009-03-13T00:00:00+00:00",
-  "Overview": "Trivial Pursuit is based on the general knowledge board game of the same name.\n\nThe object of the game is to move around the board answering questions based on what colour tile you land on. The six colours correspond with a subject which are: blue for geography, green for science and nature, yellow for history, orange for sports & leisure, pink for entertainment and brown for Literature. This electronic version features a new game mode called 'facts and friends' that can be played online which allows players to guess whether their opponents will answers questions correctly.",
-  "CommunityRating": "5",
-  "ESRB": "E - Everyone",
-  "Genres": "Board Game; Party; Quiz",
-  "Developer": "Electronic Arts Bright Light",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "3bcb6e46-878a-4608-a3c7-4ff5634cccd5.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2690073897",
+          "FileName": "3bcb6e46-878a-4608-a3c7-4ff5634cccd5.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/3bcb6e46-878a-4608-a3c7-4ff5634cccd5.png"
         }
       ],
       "Back": [
         {
-          "FileName": "1300dd1e-9d87-4bb8-ab13-48784d66afeb.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3446040259",
+          "FileName": "1300dd1e-9d87-4bb8-ab13-48784d66afeb.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/1300dd1e-9d87-4bb8-ab13-48784d66afeb.jpg"
         },
         {
-          "FileName": "277b2859-73b6-45cf-a169-9a7941f09a37.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2386116314",
+          "FileName": "277b2859-73b6-45cf-a169-9a7941f09a37.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/277b2859-73b6-45cf-a169-9a7941f09a37.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "32d7f8ee-18c5-4d87-8d00-945e7cc92eb9.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "109781044",
+          "FileName": "32d7f8ee-18c5-4d87-8d00-945e7cc92eb9.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/32d7f8ee-18c5-4d87-8d00-945e7cc92eb9.jpg"
         },
         {
-          "FileName": "df134d56-7dc9-44d0-8026-ef62fe1504be.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1412424563",
+          "FileName": "df134d56-7dc9-44d0-8026-ef62fe1504be.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/df134d56-7dc9-44d0-8026-ef62fe1504be.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "6ac15695-acc3-4d3f-9768-ca127c194597.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "641376425",
+          "FileName": "6ac15695-acc3-4d3f-9768-ca127c194597.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/6ac15695-acc3-4d3f-9768-ca127c194597.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "2e777975-4fe0-4c1a-ab37-39d18aeac072.jpg",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "902906582",
+        "FileName": "2e777975-4fe0-4c1a-ab37-39d18aeac072.jpg",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/2e777975-4fe0-4c1a-ab37-39d18aeac072.jpg"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "80abb869-2ca6-4230-af3f-496d915f30dd.png",
-        "Type": "Screenshot - Game Select",
-        "Region": "Germany",
-        "CRC32": "3374074573",
-        "URL": "http://images.launchbox-app.com/80abb869-2ca6-4230-af3f-496d915f30dd.png"
-      },
-      {
-        "FileName": "10628b8c-c965-4c28-8eee-f64dd3fac158.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "4291111665",
-        "URL": "http://images.launchbox-app.com/10628b8c-c965-4c28-8eee-f64dd3fac158.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "780133934",
         "FileName": "2ae1d49e-2373-41ad-8422-0d9d537e9761.png",
         "Type": "Clear Logo",
-        "CRC32": "780133934",
         "URL": "http://images.launchbox-app.com/2ae1d49e-2373-41ad-8422-0d9d537e9761.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3374074573",
+        "FileName": "80abb869-2ca6-4230-af3f-496d915f30dd.png",
+        "Region": "Germany",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/80abb869-2ca6-4230-af3f-496d915f30dd.png"
+      },
+      {
+        "CRC32": "4291111665",
+        "FileName": "10628b8c-c965-4c28-8eee-f64dd3fac158.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/10628b8c-c965-4c28-8eee-f64dd3fac158.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "5",
+  "DatabaseID": "13097",
+  "Developer": "Electronic Arts Bright Light",
+  "ESRB": "E - Everyone",
+  "Genres": "Board Game; Party; Quiz",
+  "Name": "Trivial Pursuit",
+  "Overview": "Trivial Pursuit is based on the general knowledge board game of the same name.\n\nThe object of the game is to move around the board answering questions based on what colour tile you land on. The six colours correspond with a subject which are: blue for geography, green for science and nature, yellow for history, orange for sports & leisure, pink for entertainment and brown for Literature. This electronic version features a new game mode called 'facts and friends' that can be played online which allows players to guess whether their opponents will answers questions correctly.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2009-03-13T00:00:00+00:00"
 }

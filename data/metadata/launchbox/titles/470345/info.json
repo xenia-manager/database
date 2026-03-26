@@ -1,32 +1,32 @@
 {
-  "Name": "Jungle Blocks",
-  "DatabaseID": "470345",
-  "ReleaseDate": "2009-06-02T00:00:00+00:00",
-  "Overview": "Jungle Blocks is a Breakout variant in which the player controls a paddle located at the bottom of the screen. The paddle moves horizontally to deflect a ball upward toward destructible blocks. The objective in each level is to eliminate all blocks using the ball’s trajectory. Unlike traditional versions, this game does not impose a limit on lives; when a ball falls past the paddle, it results in a point deduction rather than a game over. Points are awarded for each block destroyed, and a score multiplier is applied when multiple blocks are broken in succession without the ball returning to the paddle. There are 14 levels and a co-op mode.",
-  "VideoURL": "https://youtu.be/JiQ-Id0A-Ho",
-  "Genres": "Action",
-  "Developer": "Dantup Games",
-  "Publisher": "Dantup Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "abd74069-912b-41fe-b5cb-326cfdef922a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2702808709",
+          "FileName": "abd74069-912b-41fe-b5cb-326cfdef922a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/abd74069-912b-41fe-b5cb-326cfdef922a.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "d44da571-7987-4d9c-a88b-e8afc8633896.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1609299240",
+        "FileName": "d44da571-7987-4d9c-a88b-e8afc8633896.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/d44da571-7987-4d9c-a88b-e8afc8633896.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "470345",
+  "Developer": "Dantup Games",
+  "Genres": "Action",
+  "Name": "Jungle Blocks",
+  "Overview": "Jungle Blocks is a Breakout variant in which the player controls a paddle located at the bottom of the screen. The paddle moves horizontally to deflect a ball upward toward destructible blocks. The objective in each level is to eliminate all blocks using the ball’s trajectory. Unlike traditional versions, this game does not impose a limit on lives; when a ball falls past the paddle, it results in a point deduction rather than a game over. Points are awarded for each block destroyed, and a score multiplier is applied when multiple blocks are broken in succession without the ball returning to the paddle. There are 14 levels and a co-op mode.",
+  "Publisher": "Dantup Games",
+  "ReleaseDate": "2009-06-02T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/JiQ-Id0A-Ho"
 }

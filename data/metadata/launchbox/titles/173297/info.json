@@ -1,89 +1,89 @@
 {
-  "Name": "F1 2014",
-  "DatabaseID": "173297",
-  "ReleaseDate": "2014-10-17T00:00:00+00:00",
-  "Overview": "F1 2014 is a FIA-licensed Formula One racing simulation, updated with data and rules (including the ERS) from the end of the 2014 season. The game introduces two new circuits: Spielberg (Austrian GP) and the Sochi Autodrom (Russian GP), as well as the return of the Hockenheimring as the German GP circuit of choice, and the Bahrain International Circuit featuring a night race for the first time. The new Driver Evaluation System configures the game's difficulty after analyzing one lap driven by the player. The handling and physics have been improved, and the Career and Scenario modes have been expanded.",
-  "CommunityRating": "2.75",
-  "ESRB": "E - Everyone",
-  "Genres": "Racing",
-  "Developer": "Codemasters Birmingham",
-  "Publisher": "Codemasters Software",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_0aa75991-5ed9-4aeb-a8be-01c80de7159a.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1855180770",
-        "URL": "http://images.launchbox-app.com/r2_0aa75991-5ed9-4aeb-a8be-01c80de7159a.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_edcde584-2a6f-4cb0-b39e-0f7a55b9d591.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1497128624",
+        "FileName": "r2_e15318ba-a77a-48c5-a755-ebf74891b267.jpg",
         "Region": "World",
-        "CRC32": "1584770605",
-        "URL": "http://images.launchbox-app.com/r2_edcde584-2a6f-4cb0-b39e-0f7a55b9d591.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_e15318ba-a77a-48c5-a755-ebf74891b267.jpg"
       },
       {
-        "FileName": "r2_e15318ba-a77a-48c5-a755-ebf74891b267.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1584770605",
+        "FileName": "r2_edcde584-2a6f-4cb0-b39e-0f7a55b9d591.jpg",
         "Region": "World",
-        "CRC32": "1497128624",
-        "URL": "http://images.launchbox-app.com/r2_e15318ba-a77a-48c5-a755-ebf74891b267.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_edcde584-2a6f-4cb0-b39e-0f7a55b9d591.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1855180770",
+        "FileName": "r2_0aa75991-5ed9-4aeb-a8be-01c80de7159a.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_0aa75991-5ed9-4aeb-a8be-01c80de7159a.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_bcff138e-2a59-477e-82b4-3e12cc3d001a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3943904673",
+          "FileName": "r2_bcff138e-2a59-477e-82b4-3e12cc3d001a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_bcff138e-2a59-477e-82b4-3e12cc3d001a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a97859c5-30fa-436d-a288-82d3c1aa9c00.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1779914457",
+          "FileName": "r2_a97859c5-30fa-436d-a288-82d3c1aa9c00.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a97859c5-30fa-436d-a288-82d3c1aa9c00.jpg"
         },
         {
-          "FileName": "3a536257-d25b-4aa0-ab0c-c48c4d44f44b.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3800393020",
+          "FileName": "3a536257-d25b-4aa0-ab0c-c48c4d44f44b.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/3a536257-d25b-4aa0-ab0c-c48c4d44f44b.png"
         },
         {
-          "FileName": "r2_081e8d21-3b42-4294-a003-d2965d12277b.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2130219629",
+          "FileName": "r2_081e8d21-3b42-4294-a003-d2965d12277b.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_081e8d21-3b42-4294-a003-d2965d12277b.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_b45ebb0a-0ccc-4c1a-b8dc-238148f790c7.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1333778500",
+        "FileName": "r2_b45ebb0a-0ccc-4c1a-b8dc-238148f790c7.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_b45ebb0a-0ccc-4c1a-b8dc-238148f790c7.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1337755836",
         "FileName": "885b82de-3c66-404e-a1a6-9b94505a0c57.png",
         "Type": "Clear Logo",
-        "CRC32": "1337755836",
         "URL": "http://images.launchbox-app.com/885b82de-3c66-404e-a1a6-9b94505a0c57.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.75",
+  "DatabaseID": "173297",
+  "Developer": "Codemasters Birmingham",
+  "ESRB": "E - Everyone",
+  "Genres": "Racing",
+  "Name": "F1 2014",
+  "Overview": "F1 2014 is a FIA-licensed Formula One racing simulation, updated with data and rules (including the ERS) from the end of the 2014 season. The game introduces two new circuits: Spielberg (Austrian GP) and the Sochi Autodrom (Russian GP), as well as the return of the Hockenheimring as the German GP circuit of choice, and the Bahrain International Circuit featuring a night race for the first time. The new Driver Evaluation System configures the game's difficulty after analyzing one lap driven by the player. The handling and physics have been improved, and the Career and Scenario modes have been expanded.",
+  "Publisher": "Codemasters Software",
+  "ReleaseDate": "2014-10-17T00:00:00+00:00"
 }

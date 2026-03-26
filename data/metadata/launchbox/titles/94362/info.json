@@ -1,89 +1,89 @@
 {
-  "Name": "Aqua: Naval Warfare",
-  "DatabaseID": "94362",
-  "ReleaseDate": "2010-05-19T00:00:00+00:00",
-  "Overview": "Aqua (also known as Aqua - Naval Warfare) is an arcade-action shooter with tactical elements, driven by a steampunk story in which the vast majority of the world is covered with water. Aqua was developed by Games Distillery on their own proprietary engine and published by Microsoft Game Studios. It was released for the Xbox 360 via Xbox Live Arcade on May 19, 2010. The game is set in an alternate reality where most of the Earth is covered with water and factions war for the remaining pieces of land.",
-  "CommunityRating": "3.85",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Aqua_(video_game)",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "Games Distillery",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "087be322-4230-4794-ae7f-d88e69452296.png",
-        "Type": "Banner",
-        "CRC32": "3640004259",
-        "URL": "http://images.launchbox-app.com/087be322-4230-4794-ae7f-d88e69452296.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2710603927",
         "FileName": "55e46407-3292-4504-8374-ab98ed54da86.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2710603927",
         "URL": "http://images.launchbox-app.com/55e46407-3292-4504-8374-ab98ed54da86.jpg"
       },
       {
-        "FileName": "r2_ac64bca4-72db-4f57-be14-da5ca3987867.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2971860024",
+        "FileName": "r2_ac64bca4-72db-4f57-be14-da5ca3987867.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_ac64bca4-72db-4f57-be14-da5ca3987867.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3640004259",
+        "FileName": "087be322-4230-4794-ae7f-d88e69452296.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/087be322-4230-4794-ae7f-d88e69452296.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_8930f03c-8f0b-4d40-89a0-5c7191221f6d.jpg",
-          "Type": "Box - Front",
+          "CRC32": "2611072507",
+          "FileName": "56ea4537-de3e-4314-8166-8d38880b8ce4.png",
           "Region": "World",
-          "CRC32": "2333516847",
-          "URL": "http://images.launchbox-app.com/r2_8930f03c-8f0b-4d40-89a0-5c7191221f6d.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/56ea4537-de3e-4314-8166-8d38880b8ce4.png"
         },
         {
-          "FileName": "56ea4537-de3e-4314-8166-8d38880b8ce4.png",
-          "Type": "Box - Front",
+          "CRC32": "2333516847",
+          "FileName": "r2_8930f03c-8f0b-4d40-89a0-5c7191221f6d.jpg",
           "Region": "World",
-          "CRC32": "2611072507",
-          "URL": "http://images.launchbox-app.com/56ea4537-de3e-4314-8166-8d38880b8ce4.png"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_8930f03c-8f0b-4d40-89a0-5c7191221f6d.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_7e274ea8-9f3e-47ae-b2ab-de9daf1030a1.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
         "CRC32": "66023722",
+        "FileName": "r2_7e274ea8-9f3e-47ae-b2ab-de9daf1030a1.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/r2_7e274ea8-9f3e-47ae-b2ab-de9daf1030a1.png"
       },
       {
-        "FileName": "r2_68fd68b8-e720-44fa-b95e-d926db49de0f.png",
-        "Type": "Fanart - Disc",
-        "Region": "World",
         "CRC32": "2882652287",
-        "URL": "http://images.launchbox-app.com/r2_68fd68b8-e720-44fa-b95e-d926db49de0f.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "7c97073b-1256-44b4-bf05-9b11f531b892.png",
-        "Type": "Screenshot - Gameplay",
+        "FileName": "r2_68fd68b8-e720-44fa-b95e-d926db49de0f.png",
         "Region": "World",
-        "CRC32": "1300695604",
-        "URL": "http://images.launchbox-app.com/7c97073b-1256-44b4-bf05-9b11f531b892.png"
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/r2_68fd68b8-e720-44fa-b95e-d926db49de0f.png"
       }
     ],
     "Other": [
       {
-        "FileName": "349c8306-0e05-46ec-91e0-f12846b16f0a.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "4254073976",
+        "FileName": "349c8306-0e05-46ec-91e0-f12846b16f0a.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/349c8306-0e05-46ec-91e0-f12846b16f0a.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1300695604",
+        "FileName": "7c97073b-1256-44b4-bf05-9b11f531b892.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7c97073b-1256-44b4-bf05-9b11f531b892.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.85",
+  "DatabaseID": "94362",
+  "Developer": "Games Distillery",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Aqua: Naval Warfare",
+  "Overview": "Aqua (also known as Aqua - Naval Warfare) is an arcade-action shooter with tactical elements, driven by a steampunk story in which the vast majority of the world is covered with water. Aqua was developed by Games Distillery on their own proprietary engine and published by Microsoft Game Studios. It was released for the Xbox 360 via Xbox Live Arcade on May 19, 2010. The game is set in an alternate reality where most of the Earth is covered with water and factions war for the remaining pieces of land.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2010-05-19T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Aqua_(video_game)"
 }

@@ -1,38 +1,38 @@
 {
-  "Name": "Alien Pyramid Challenge!",
-  "DatabaseID": "467041",
-  "ReleaseDate": "2009-09-30T00:00:00+00:00",
-  "Overview": "Alien Pyramid Challenge! is a puzzle-based platformer that has the players alien character trapped in an ancient Egyptian pyramid with only a Egyptian mummy for company.\n\nIn order to escape from the pyramid, the player must rearrange limestone blocks to allow escape, but to get to them, the player must move from platform to platform by jumping and using springs to get through each level. If the player gets stuck, the sarcastic mummy will be on hand to offer advice on how to escape.",
-  "Genres": "Action; Platform",
-  "Developer": "Swampopus",
-  "Publisher": "Swampopus",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "70e21382-58ec-40ad-8614-a10a25366b1b.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "523991325",
+          "FileName": "70e21382-58ec-40ad-8614-a10a25366b1b.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/70e21382-58ec-40ad-8614-a10a25366b1b.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "8cdb2b6a-46fe-4406-bade-a3bb90e4241a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "327326927",
+        "FileName": "8cdb2b6a-46fe-4406-bade-a3bb90e4241a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/8cdb2b6a-46fe-4406-bade-a3bb90e4241a.jpg"
       },
       {
-        "FileName": "f670c41e-c7a5-4986-ad22-5ed7a9a9be22.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3370972460",
+        "FileName": "f670c41e-c7a5-4986-ad22-5ed7a9a9be22.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/f670c41e-c7a5-4986-ad22-5ed7a9a9be22.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467041",
+  "Developer": "Swampopus",
+  "Genres": "Action; Platform",
+  "Name": "Alien Pyramid Challenge!",
+  "Overview": "Alien Pyramid Challenge! is a puzzle-based platformer that has the players alien character trapped in an ancient Egyptian pyramid with only a Egyptian mummy for company.\n\nIn order to escape from the pyramid, the player must rearrange limestone blocks to allow escape, but to get to them, the player must move from platform to platform by jumping and using springs to get through each level. If the player gets stuck, the sarcastic mummy will be on hand to offer advice on how to escape.",
+  "Publisher": "Swampopus",
+  "ReleaseDate": "2009-09-30T00:00:00+00:00"
 }

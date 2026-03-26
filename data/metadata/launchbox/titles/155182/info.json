@@ -1,43 +1,43 @@
 {
-  "Name": "Wizorb",
-  "DatabaseID": "155182",
-  "ReleaseDate": "2011-09-29T00:00:00+00:00",
-  "Overview": "The once peaceful Kingdom of Gorudo is threatened by an evil presence. The only hope for salvation is Cyrus, a wizard versed in a secret magic art called Wizorb! Explore many strange places from the derelict monster infested town of Clover to Gorudo Castle atop Cauldron Peak. Danger lurks around every corner so you'll need to keep your wits about you and have quick reflexes in order to survive.",
-  "VideoURL": "https://www.youtube.com/watch?v=2o5i4wVP2UQ",
-  "CommunityRating": "2.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Wizorb",
-  "ESRB": "Not Rated",
-  "Genres": "Action",
-  "Developer": "Tribute Games",
-  "Publisher": "Tribute Games",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2507034217",
         "FileName": "9de236d4-403c-4796-9bfa-77cfb1af6356.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2507034217",
         "URL": "http://images.launchbox-app.com/9de236d4-403c-4796-9bfa-77cfb1af6356.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c319bd4c-48b6-4616-844f-8643183f0836.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2303229340",
+          "FileName": "c319bd4c-48b6-4616-844f-8643183f0836.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c319bd4c-48b6-4616-844f-8643183f0836.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "0d6dbafd-9f26-4c1c-9216-be1eea1bdd84.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1157792698",
+        "FileName": "0d6dbafd-9f26-4c1c-9216-be1eea1bdd84.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/0d6dbafd-9f26-4c1c-9216-be1eea1bdd84.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.5",
+  "DatabaseID": "155182",
+  "Developer": "Tribute Games",
+  "ESRB": "Not Rated",
+  "Genres": "Action",
+  "Name": "Wizorb",
+  "Overview": "The once peaceful Kingdom of Gorudo is threatened by an evil presence. The only hope for salvation is Cyrus, a wizard versed in a secret magic art called Wizorb! Explore many strange places from the derelict monster infested town of Clover to Gorudo Castle atop Cauldron Peak. Danger lurks around every corner so you'll need to keep your wits about you and have quick reflexes in order to survive.",
+  "Publisher": "Tribute Games",
+  "ReleaseDate": "2011-09-29T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=2o5i4wVP2UQ",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Wizorb"
 }

@@ -1,72 +1,72 @@
 {
-  "Name": "Encleverment Experiment",
-  "DatabaseID": "209327",
-  "ReleaseDate": "2010-01-19T00:00:00+00:00",
-  "Overview": "Offer your assistance in Professor Ivor Question's Encleverment Experiment! He's looking for people just like you to play his 16 exciting minigames, collect 60 available Mascots and create new challenges in his Home-made Game editor! Featuring support for the Big Button Controller and Live Vision Camera, the Encleverment Experiment also includes full Avatar support and LIVE play for up to four players! Unlock the full game now and massage those mental muscles!",
-  "CommunityRating": "3.16666666666667",
-  "ESRB": "E - Everyone",
-  "Genres": "Education",
-  "Developer": "Blitz Arcade",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_d3474364-7f0a-4c6d-a7c0-eb583b0363dd.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "4274116837",
-        "URL": "http://images.launchbox-app.com/r2_d3474364-7f0a-4c6d-a7c0-eb583b0363dd.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_1a8b4290-9f41-4fe8-aa28-988b58497f31.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1133083750",
+        "FileName": "r2_1a8b4290-9f41-4fe8-aa28-988b58497f31.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_1a8b4290-9f41-4fe8-aa28-988b58497f31.jpg"
       },
       {
-        "FileName": "r2_b1741e29-c343-4be9-a3b7-b431a56024c0.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3122938018",
+        "FileName": "r2_b1741e29-c343-4be9-a3b7-b431a56024c0.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_b1741e29-c343-4be9-a3b7-b431a56024c0.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4274116837",
+        "FileName": "r2_d3474364-7f0a-4c6d-a7c0-eb583b0363dd.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_d3474364-7f0a-4c6d-a7c0-eb583b0363dd.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "e1ee1407-b2a8-41bc-af22-5ea7f04cd400.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "3188497792",
+          "FileName": "e1ee1407-b2a8-41bc-af22-5ea7f04cd400.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e1ee1407-b2a8-41bc-af22-5ea7f04cd400.jpg"
         },
         {
-          "FileName": "r2_0e098b6b-763c-48c9-a40c-b16e95791ada.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1106192033",
+          "FileName": "r2_0e098b6b-763c-48c9-a40c-b16e95791ada.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_0e098b6b-763c-48c9-a40c-b16e95791ada.jpg"
         },
         {
-          "FileName": "r2_1a30a044-2a95-464f-9de4-aadca21e0d35.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4157572306",
+          "FileName": "r2_1a30a044-2a95-464f-9de4-aadca21e0d35.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_1a30a044-2a95-464f-9de4-aadca21e0d35.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_8b6e8bbe-8572-43ea-b472-ccf504cae3e8.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1933308961",
+        "FileName": "r2_8b6e8bbe-8572-43ea-b472-ccf504cae3e8.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_8b6e8bbe-8572-43ea-b472-ccf504cae3e8.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.16666666666667",
+  "DatabaseID": "209327",
+  "Developer": "Blitz Arcade",
+  "ESRB": "E - Everyone",
+  "Genres": "Education",
+  "Name": "Encleverment Experiment",
+  "Overview": "Offer your assistance in Professor Ivor Question's Encleverment Experiment! He's looking for people just like you to play his 16 exciting minigames, collect 60 available Mascots and create new challenges in his Home-made Game editor! Featuring support for the Big Button Controller and Live Vision Camera, the Encleverment Experiment also includes full Avatar support and LIVE play for up to four players! Unlock the full game now and massage those mental muscles!",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2010-01-19T00:00:00+00:00"
 }

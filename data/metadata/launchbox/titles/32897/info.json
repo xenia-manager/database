@@ -1,115 +1,115 @@
 {
-  "Name": "Escape Dead Island",
-  "DatabaseID": "32897",
-  "ReleaseDate": "2014-11-18T00:00:00+00:00",
-  "Overview": "Escape Dead Island is a third-person action-adventure video game with an emphasis on stealth and melee combat, with some gunplay. Players can crouch to sneak up on enemies and execute them from behind, or engage enemies in melee by swinging a melee weapon at them. Melee utilizes light attacks, heavy attacks, and a dodge move. Specific enemies can be locked onto to focus the camera and the player's attacks on them. A silenced pistol and a shotgun are available and can be aimed and fired from an over-the-shoulder third-person perspective, but ammo is limited. The game lacks the RPG-like elements of the main Dead Island games; there are no player levels, and weapon selection is non-customizable, with weapons being collected at fixed points in the game's story. As a journalist, the player character carries a camera that can be used to take pictures of significant objects in the game environment, causing the character to comment on them. The player character's deteriorating mental state plays a significant role in gameplay, with many unreal events occurring such as buildings falling from the sky, or the player abruptly transporting from one location to another when attempting to cross a room. The game uses a cel-shaded graphics style.",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Escape_Dead_Island",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Adventure; Horror; Stealth",
-  "Developer": "Fatshark",
-  "Publisher": "Deep Silver",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_1dedd710-92c4-4f7f-a39b-d5ea183f9b72.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1661659395",
-        "URL": "http://images.launchbox-app.com/r2_1dedd710-92c4-4f7f-a39b-d5ea183f9b72.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_f76bddb1-64f2-41bf-a7d4-85ec645a65e6.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3538270164",
+        "FileName": "r2_f76bddb1-64f2-41bf-a7d4-85ec645a65e6.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_f76bddb1-64f2-41bf-a7d4-85ec645a65e6.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1661659395",
+        "FileName": "r2_1dedd710-92c4-4f7f-a39b-d5ea183f9b72.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_1dedd710-92c4-4f7f-a39b-d5ea183f9b72.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "1809340212",
           "FileName": "05a81fb5-f46e-40bc-be22-1fec5abd6afc.png",
           "Type": "Box - 3D",
-          "CRC32": "1809340212",
           "URL": "http://images.launchbox-app.com/05a81fb5-f46e-40bc-be22-1fec5abd6afc.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_9b3f522a-09d1-464d-bf10-eed0dab67fdd.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1922203750",
+          "FileName": "r2_9b3f522a-09d1-464d-bf10-eed0dab67fdd.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_9b3f522a-09d1-464d-bf10-eed0dab67fdd.jpg"
         },
         {
-          "FileName": "r2_8a79e8c7-98c8-413f-bca2-e9b492754763.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "647678687",
+          "FileName": "r2_8a79e8c7-98c8-413f-bca2-e9b492754763.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_8a79e8c7-98c8-413f-bca2-e9b492754763.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "3c9f5dc7-5ae2-4fe2-9a1f-ab4adf088525.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2658980054",
+          "FileName": "3c9f5dc7-5ae2-4fe2-9a1f-ab4adf088525.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/3c9f5dc7-5ae2-4fe2-9a1f-ab4adf088525.jpg"
         },
         {
-          "FileName": "r2_1e17aac2-fce4-4662-a21d-3f6c8a435f42.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "457433120",
+          "FileName": "r2_1e17aac2-fce4-4662-a21d-3f6c8a435f42.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_1e17aac2-fce4-4662-a21d-3f6c8a435f42.jpg"
         },
         {
-          "FileName": "b09803fe-a520-4c40-b5ba-e3107a181636.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1715910798",
+          "FileName": "b09803fe-a520-4c40-b5ba-e3107a181636.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b09803fe-a520-4c40-b5ba-e3107a181636.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_f80be749-3f33-46f6-a0e9-1979352ffaf2.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2408604746",
+          "FileName": "r2_f80be749-3f33-46f6-a0e9-1979352ffaf2.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_f80be749-3f33-46f6-a0e9-1979352ffaf2.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "e3f179d2-cd3e-49e3-b994-65d2779fcd8d.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "4031342488",
+        "FileName": "e3f179d2-cd3e-49e3-b994-65d2779fcd8d.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/e3f179d2-cd3e-49e3-b994-65d2779fcd8d.png"
       },
       {
-        "FileName": "r2_f1d84a28-501f-4263-a664-595722edda57.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "387586049",
+        "FileName": "r2_f1d84a28-501f-4263-a664-595722edda57.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_f1d84a28-501f-4263-a664-595722edda57.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_eccf2c99-9bb6-4ca2-b9ea-5bb95fda30d8.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "478853915",
+        "FileName": "r2_eccf2c99-9bb6-4ca2-b9ea-5bb95fda30d8.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_eccf2c99-9bb6-4ca2-b9ea-5bb95fda30d8.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "32897",
+  "Developer": "Fatshark",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Adventure; Horror; Stealth",
+  "Name": "Escape Dead Island",
+  "Overview": "Escape Dead Island is a third-person action-adventure video game with an emphasis on stealth and melee combat, with some gunplay. Players can crouch to sneak up on enemies and execute them from behind, or engage enemies in melee by swinging a melee weapon at them. Melee utilizes light attacks, heavy attacks, and a dodge move. Specific enemies can be locked onto to focus the camera and the player's attacks on them. A silenced pistol and a shotgun are available and can be aimed and fired from an over-the-shoulder third-person perspective, but ammo is limited. The game lacks the RPG-like elements of the main Dead Island games; there are no player levels, and weapon selection is non-customizable, with weapons being collected at fixed points in the game's story. As a journalist, the player character carries a camera that can be used to take pictures of significant objects in the game environment, causing the character to comment on them. The player character's deteriorating mental state plays a significant role in gameplay, with many unreal events occurring such as buildings falling from the sky, or the player abruptly transporting from one location to another when attempting to cross a room. The game uses a cel-shaded graphics style.",
+  "Publisher": "Deep Silver",
+  "ReleaseDate": "2014-11-18T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Escape_Dead_Island"
 }

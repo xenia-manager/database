@@ -1,52 +1,52 @@
 {
-  "Name": "Nat Geo Quiz! Wild Life",
-  "DatabaseID": "166305",
-  "CommunityRating": "4",
-  "ESRB": "E - Everyone",
-  "Genres": null,
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "910295223",
           "FileName": "9349fe21-99bc-45dc-95c1-5335ce9a4e1e.png",
           "Type": "Box - 3D",
-          "CRC32": "910295223",
           "URL": "http://images.launchbox-app.com/9349fe21-99bc-45dc-95c1-5335ce9a4e1e.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_80f002e3-93bb-43d7-9fe5-3cdf46b465f2.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2453221115",
+          "FileName": "r2_80f002e3-93bb-43d7-9fe5-3cdf46b465f2.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_80f002e3-93bb-43d7-9fe5-3cdf46b465f2.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "8dc130e9-d6a5-49c0-bb49-1e1a06cade4d.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "3591705084",
+          "FileName": "8dc130e9-d6a5-49c0-bb49-1e1a06cade4d.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8dc130e9-d6a5-49c0-bb49-1e1a06cade4d.jpg"
         },
         {
-          "FileName": "r2_c17d9f20-ad63-482b-910c-62d4c3450750.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3334982183",
+          "FileName": "r2_c17d9f20-ad63-482b-910c-62d4c3450750.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_c17d9f20-ad63-482b-910c-62d4c3450750.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "445678952",
         "FileName": "914f0748-a0cd-49d9-801f-8ea32b0e0dc7.png",
         "Type": "Clear Logo",
-        "CRC32": "445678952",
         "URL": "http://images.launchbox-app.com/914f0748-a0cd-49d9-801f-8ea32b0e0dc7.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "166305",
+  "ESRB": "E - Everyone",
+  "Genres": null,
+  "Name": "Nat Geo Quiz! Wild Life"
 }

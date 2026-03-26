@@ -1,63 +1,63 @@
 {
-  "Name": "Babel Rising",
-  "DatabaseID": "209143",
-  "ReleaseDate": "2012-06-13T00:00:00+00:00",
-  "Overview": "Babel Rising lets you play as a God and use your powers to prevent humans from building the tower of Babel. Hurl bolts of lightning, cause massive earthquakes, or unleash gigantic floods upon the Babylonians. Face a wide range of challenging enemies and levels and use Kinect to get a unique feeling of power!",
-  "VideoURL": "https://www.youtube.com/watch?v=FG1BJfzoLwU",
-  "CommunityRating": "3.9",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Babel_Rising",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action; Adventure",
-  "Developer": "Mando Productions",
-  "Publisher": "Ubisoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "053185e5-f0f7-4b8c-9e43-ebcb471bf3f6.png",
-        "Type": "Banner",
-        "CRC32": "932417379",
-        "URL": "http://images.launchbox-app.com/053185e5-f0f7-4b8c-9e43-ebcb471bf3f6.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2504809979",
         "FileName": "18bbb657-a05f-449c-b72e-dda2058b9d91.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2504809979",
         "URL": "http://images.launchbox-app.com/18bbb657-a05f-449c-b72e-dda2058b9d91.jpg"
       },
       {
+        "CRC32": "814469056",
         "FileName": "1dddcc13-1ea5-422a-a003-5284c8bae3ac.png",
         "Type": "Fanart - Background",
-        "CRC32": "814469056",
         "URL": "http://images.launchbox-app.com/1dddcc13-1ea5-422a-a003-5284c8bae3ac.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "932417379",
+        "FileName": "053185e5-f0f7-4b8c-9e43-ebcb471bf3f6.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/053185e5-f0f7-4b8c-9e43-ebcb471bf3f6.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "1714041e-ae8d-4355-adcc-aba6648ebe6a.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2566884843",
+          "FileName": "1714041e-ae8d-4355-adcc-aba6648ebe6a.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1714041e-ae8d-4355-adcc-aba6648ebe6a.jpg"
         },
         {
-          "FileName": "c6b24b34-70de-4248-8f2b-3d2de80c0b28.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2639058621",
+          "FileName": "c6b24b34-70de-4248-8f2b-3d2de80c0b28.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c6b24b34-70de-4248-8f2b-3d2de80c0b28.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "1837938866",
         "FileName": "464bcd77-0ddd-432f-8f51-96a8b70f67a6.png",
         "Type": "Clear Logo",
-        "CRC32": "1837938866",
         "URL": "http://images.launchbox-app.com/464bcd77-0ddd-432f-8f51-96a8b70f67a6.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.9",
+  "DatabaseID": "209143",
+  "Developer": "Mando Productions",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action; Adventure",
+  "Name": "Babel Rising",
+  "Overview": "Babel Rising lets you play as a God and use your powers to prevent humans from building the tower of Babel. Hurl bolts of lightning, cause massive earthquakes, or unleash gigantic floods upon the Babylonians. Face a wide range of challenging enemies and levels and use Kinect to get a unique feeling of power!",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2012-06-13T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=FG1BJfzoLwU",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Babel_Rising"
 }

@@ -1,135 +1,135 @@
 {
-  "Name": "BioShock Infinite",
-  "DatabaseID": "14409",
-  "ReleaseDate": "2013-03-26T00:00:00+00:00",
-  "Overview": "BioShock Infinite is a first-person shooter like you’ve never seen. Set in 1912, players assume the role of former Pinkerton agent Booker DeWitt, sent to the flying city of Columbia on a rescue mission. His target? Elizabeth, imprisoned since childhood. During their daring escape, Booker and Elizabeth form a powerful bond -- one that lets Booker augment his own abilities with her world-altering control over the environment. Together, they fight from high-speed Sky-Lines, in the streets and houses of Columbia, on giant zeppelins, and in the clouds, all while learning to harness an expanding arsenal of weapons and abilities, and immersing players in a story that is not only steeped in profound thrills and surprises, but also invests its characters with deep emotional bonds.",
-  "VideoURL": "http://www.youtube.com/watch?v=8sgARUJcylA",
-  "CommunityRating": "4.46551724137931",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/BioShock_Infinite",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Irrational Games",
-  "Publisher": "2K Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_cedc2904-0cb4-43af-9d3a-4a3d93b34ddd.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1930859105",
-        "URL": "http://images.launchbox-app.com/r2_cedc2904-0cb4-43af-9d3a-4a3d93b34ddd.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "83930b17-3c09-4bd7-970a-faeaa2d4c4a9.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1362611882",
-        "URL": "http://images.launchbox-app.com/83930b17-3c09-4bd7-970a-faeaa2d4c4a9.jpg"
-      },
-      {
+        "CRC32": "1426210401",
         "FileName": "755eaa37-e0f4-4102-82ce-917af1d585db.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1426210401",
         "URL": "http://images.launchbox-app.com/755eaa37-e0f4-4102-82ce-917af1d585db.jpg"
+      },
+      {
+        "CRC32": "1362611882",
+        "FileName": "83930b17-3c09-4bd7-970a-faeaa2d4c4a9.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/83930b17-3c09-4bd7-970a-faeaa2d4c4a9.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1930859105",
+        "FileName": "r2_cedc2904-0cb4-43af-9d3a-4a3d93b34ddd.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_cedc2904-0cb4-43af-9d3a-4a3d93b34ddd.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "573621334",
           "FileName": "20e81298-8125-4021-a577-3b88c42e1bea.png",
           "Type": "Box - 3D",
-          "CRC32": "573621334",
           "URL": "http://images.launchbox-app.com/20e81298-8125-4021-a577-3b88c42e1bea.png"
         },
         {
-          "FileName": "r2_948171a3-b79a-477d-bb30-06a3e22b8d30.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2120489181",
+          "FileName": "r2_948171a3-b79a-477d-bb30-06a3e22b8d30.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_948171a3-b79a-477d-bb30-06a3e22b8d30.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_6cbc24a6-bf09-452f-aa4c-915c776ef20f.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1272065942",
+          "FileName": "r2_6cbc24a6-bf09-452f-aa4c-915c776ef20f.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_6cbc24a6-bf09-452f-aa4c-915c776ef20f.jpg"
         },
         {
-          "FileName": "2734c711-a260-4ce0-8333-1846fddaedac.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "624324076",
+          "FileName": "2734c711-a260-4ce0-8333-1846fddaedac.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/2734c711-a260-4ce0-8333-1846fddaedac.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_fbbc411c-2e1b-4845-aa61-cad5e88da27b.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "2174372510",
-          "URL": "http://images.launchbox-app.com/r2_fbbc411c-2e1b-4845-aa61-cad5e88da27b.jpg"
-        },
-        {
-          "FileName": "r2_ea85cebb-ebfe-4112-91e9-dc48cbbaaa00.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1511900600",
+          "FileName": "r2_ea85cebb-ebfe-4112-91e9-dc48cbbaaa00.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_ea85cebb-ebfe-4112-91e9-dc48cbbaaa00.jpg"
         },
         {
-          "FileName": "6784cc58-f0b1-4dbe-ae6a-ee8af1520fd2.jpg",
+          "CRC32": "2174372510",
+          "FileName": "r2_fbbc411c-2e1b-4845-aa61-cad5e88da27b.jpg",
+          "Region": "Germany",
           "Type": "Box - Front",
-          "Region": "North America",
+          "URL": "http://images.launchbox-app.com/r2_fbbc411c-2e1b-4845-aa61-cad5e88da27b.jpg"
+        },
+        {
           "CRC32": "841867422",
+          "FileName": "6784cc58-f0b1-4dbe-ae6a-ee8af1520fd2.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6784cc58-f0b1-4dbe-ae6a-ee8af1520fd2.jpg"
         },
         {
-          "FileName": "r2_749171d1-6e3e-421b-98e1-1025b50c6c49.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "3395779020",
+          "FileName": "r2_749171d1-6e3e-421b-98e1-1025b50c6c49.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_749171d1-6e3e-421b-98e1-1025b50c6c49.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "9bfcc1da-a4fb-4225-9b41-20b111b4d8e4.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2504834987",
+          "FileName": "9bfcc1da-a4fb-4225-9b41-20b111b4d8e4.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/9bfcc1da-a4fb-4225-9b41-20b111b4d8e4.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_9962629e-24ed-473f-b2d7-dc1d987f08d8.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "760840843",
+        "FileName": "r2_9962629e-24ed-473f-b2d7-dc1d987f08d8.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_9962629e-24ed-473f-b2d7-dc1d987f08d8.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "8de9a267-9227-41c7-9c7d-5720cc55ddfb.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3426264200",
-        "URL": "http://images.launchbox-app.com/8de9a267-9227-41c7-9c7d-5720cc55ddfb.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "1107927287",
         "FileName": "b90247d6-f3b5-4d7e-92e6-b369d5ffe3a9.png",
         "Type": "Clear Logo",
-        "CRC32": "1107927287",
         "URL": "http://images.launchbox-app.com/b90247d6-f3b5-4d7e-92e6-b369d5ffe3a9.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3426264200",
+        "FileName": "8de9a267-9227-41c7-9c7d-5720cc55ddfb.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8de9a267-9227-41c7-9c7d-5720cc55ddfb.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.46551724137931",
+  "DatabaseID": "14409",
+  "Developer": "Irrational Games",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "BioShock Infinite",
+  "Overview": "BioShock Infinite is a first-person shooter like you’ve never seen. Set in 1912, players assume the role of former Pinkerton agent Booker DeWitt, sent to the flying city of Columbia on a rescue mission. His target? Elizabeth, imprisoned since childhood. During their daring escape, Booker and Elizabeth form a powerful bond -- one that lets Booker augment his own abilities with her world-altering control over the environment. Together, they fight from high-speed Sky-Lines, in the streets and houses of Columbia, on giant zeppelins, and in the clouds, all while learning to harness an expanding arsenal of weapons and abilities, and immersing players in a story that is not only steeped in profound thrills and surprises, but also invests its characters with deep emotional bonds.",
+  "Publisher": "2K Games",
+  "ReleaseDate": "2013-03-26T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=8sgARUJcylA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/BioShock_Infinite"
 }

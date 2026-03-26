@@ -1,243 +1,243 @@
 {
-  "Name": "Sonic Generations",
-  "DatabaseID": "8888",
-  "ReleaseDate": "2011-11-01T00:00:00+00:00",
-  "Overview": "Set across three defining eras from 20 years of Sonic the Hedgehog video game history, the instantly recognisable environments of Sonic Generations have been re-built in stunning HD and are now playable in both classic side scrolling 2D from 1991, as well as modern 3D style found in Sonic's most recent adventures. Each incarnation of Sonic in Sonic Generations comes complete with his trademark special move, Spin Dash and Spin Attack for Classic Sonic, and Homing Attack and Sonic Boost for Modern Sonic. An innovative new interactive menu system allows for complete immersion in Sonic's universe with favourite characters and hidden treasures gradually being revealed throughout the game.",
-  "VideoURL": "https://www.youtube.com/watch?v=UwGfnYH967s",
-  "CommunityRating": "4.08974358974359",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Sonic_Generations",
-  "ESRB": "E - Everyone",
-  "Genres": "Platform",
-  "Developer": "Sonic Team",
-  "Publisher": "Sega",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "6aad2710-74d7-4306-88f0-1029ce3c96ec.png",
-        "Type": "Banner",
-        "CRC32": "547190661",
-        "URL": "http://images.launchbox-app.com/6aad2710-74d7-4306-88f0-1029ce3c96ec.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "f3725c24-075c-4637-920f-72e4484a440e.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "207989150",
-        "URL": "http://images.launchbox-app.com/f3725c24-075c-4637-920f-72e4484a440e.jpg"
-      },
-      {
-        "FileName": "20e4174f-5ea3-4766-930d-0f1f7999f2b5.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3000685399",
-        "URL": "http://images.launchbox-app.com/20e4174f-5ea3-4766-930d-0f1f7999f2b5.jpg"
-      },
-      {
+        "CRC32": "137270952",
         "FileName": "07ce9877-239d-4191-a692-71173591ebe1.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "137270952",
         "URL": "http://images.launchbox-app.com/07ce9877-239d-4191-a692-71173591ebe1.jpg"
       },
       {
-        "FileName": "9bb67059-d3e4-4280-a1dd-123d0c59d852.png",
+        "CRC32": "3000685399",
+        "FileName": "20e4174f-5ea3-4766-930d-0f1f7999f2b5.jpg",
         "Type": "Fanart - Background",
-        "Region": "United States",
+        "URL": "http://images.launchbox-app.com/20e4174f-5ea3-4766-930d-0f1f7999f2b5.jpg"
+      },
+      {
+        "CRC32": "207989150",
+        "FileName": "f3725c24-075c-4637-920f-72e4484a440e.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/f3725c24-075c-4637-920f-72e4484a440e.jpg"
+      },
+      {
         "CRC32": "621517873",
+        "FileName": "9bb67059-d3e4-4280-a1dd-123d0c59d852.png",
+        "Region": "United States",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/9bb67059-d3e4-4280-a1dd-123d0c59d852.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "547190661",
+        "FileName": "6aad2710-74d7-4306-88f0-1029ce3c96ec.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/6aad2710-74d7-4306-88f0-1029ce3c96ec.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "6fbd6860-d171-4558-9564-3d66ec4669da.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "405836824",
+          "FileName": "6fbd6860-d171-4558-9564-3d66ec4669da.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/6fbd6860-d171-4558-9564-3d66ec4669da.png"
         }
       ],
       "Back": [
         {
-          "FileName": "8db754c0-c2aa-4ea2-b713-c44864aa157a.png",
-          "Type": "Box - Back",
-          "Region": "Australia",
           "CRC32": "4292030449",
+          "FileName": "8db754c0-c2aa-4ea2-b713-c44864aa157a.png",
+          "Region": "Australia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/8db754c0-c2aa-4ea2-b713-c44864aa157a.png"
         },
         {
-          "FileName": "34f2df47-493b-43a0-8115-a7c33745bc8a.png",
-          "Type": "Box - Back",
-          "Region": "France",
           "CRC32": "3916020784",
+          "FileName": "34f2df47-493b-43a0-8115-a7c33745bc8a.png",
+          "Region": "France",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/34f2df47-493b-43a0-8115-a7c33745bc8a.png"
         },
         {
-          "FileName": "r2_30a85a87-3614-4dfd-a5c6-3e0a5d8515b8.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "498027105",
+          "FileName": "r2_30a85a87-3614-4dfd-a5c6-3e0a5d8515b8.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_30a85a87-3614-4dfd-a5c6-3e0a5d8515b8.jpg"
         },
         {
-          "FileName": "f85992b9-49d5-4e81-842e-2ce9dd60c595.jpg",
-          "Type": "Box - Back",
-          "Region": "Italy",
           "CRC32": "964070826",
+          "FileName": "f85992b9-49d5-4e81-842e-2ce9dd60c595.jpg",
+          "Region": "Italy",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/f85992b9-49d5-4e81-842e-2ce9dd60c595.jpg"
         },
         {
-          "FileName": "44755d3c-bb22-4672-8982-7aaee62fc740.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "3375662870",
+          "FileName": "44755d3c-bb22-4672-8982-7aaee62fc740.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/44755d3c-bb22-4672-8982-7aaee62fc740.jpg"
         },
         {
-          "FileName": "15a33b85-843a-4e0b-a5dc-df782ff9de01.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2197594285",
+          "FileName": "15a33b85-843a-4e0b-a5dc-df782ff9de01.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/15a33b85-843a-4e0b-a5dc-df782ff9de01.jpg"
         },
         {
-          "FileName": "23252331-7cb2-40dd-bfe0-5a6c9f74832a.png",
-          "Type": "Box - Back",
-          "Region": "United Kingdom",
           "CRC32": "3458557722",
+          "FileName": "23252331-7cb2-40dd-bfe0-5a6c9f74832a.png",
+          "Region": "United Kingdom",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/23252331-7cb2-40dd-bfe0-5a6c9f74832a.png"
         }
       ],
       "Front": [
         {
-          "FileName": "d43f617f-1b13-478c-90f2-4452b10c4b52.jpg",
-          "Type": "Box - Front",
-          "Region": "Asia",
           "CRC32": "3427816327",
+          "FileName": "d43f617f-1b13-478c-90f2-4452b10c4b52.jpg",
+          "Region": "Asia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d43f617f-1b13-478c-90f2-4452b10c4b52.jpg"
         },
         {
-          "FileName": "d2ecec05-0dff-4381-b5d9-86fd51de9f4e.png",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "1729531910",
+          "FileName": "d2ecec05-0dff-4381-b5d9-86fd51de9f4e.png",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d2ecec05-0dff-4381-b5d9-86fd51de9f4e.png"
         },
         {
-          "FileName": "6421bcaa-1fbb-4079-b442-1b20d5d9a7f0.png",
-          "Type": "Box - Front",
-          "Region": "France",
           "CRC32": "643747123",
+          "FileName": "6421bcaa-1fbb-4079-b442-1b20d5d9a7f0.png",
+          "Region": "France",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6421bcaa-1fbb-4079-b442-1b20d5d9a7f0.png"
         },
         {
-          "FileName": "99e102ee-2d1b-49c8-8b54-64c9e17259ce.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2344795940",
+          "FileName": "99e102ee-2d1b-49c8-8b54-64c9e17259ce.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/99e102ee-2d1b-49c8-8b54-64c9e17259ce.jpg"
         },
         {
-          "FileName": "r2_c6bf8d1e-8b60-404b-9a8b-e8257c5eb786.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1033429097",
+          "FileName": "r2_c6bf8d1e-8b60-404b-9a8b-e8257c5eb786.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_c6bf8d1e-8b60-404b-9a8b-e8257c5eb786.jpg"
         },
         {
-          "FileName": "e727cbba-686a-4515-8d05-0dd39a98d3ba.jpg",
-          "Type": "Box - Front",
-          "Region": "Italy",
           "CRC32": "2384480132",
+          "FileName": "e727cbba-686a-4515-8d05-0dd39a98d3ba.jpg",
+          "Region": "Italy",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e727cbba-686a-4515-8d05-0dd39a98d3ba.jpg"
         },
         {
-          "FileName": "0e349485-358c-4215-b838-5f865d908578.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "896608695",
+          "FileName": "0e349485-358c-4215-b838-5f865d908578.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0e349485-358c-4215-b838-5f865d908578.jpg"
         },
         {
-          "FileName": "e14aa46b-069d-48dc-964a-01f778f33b2e.jpg",
-          "Type": "Box - Front",
-          "Region": "Korea",
           "CRC32": "3492787446",
+          "FileName": "e14aa46b-069d-48dc-964a-01f778f33b2e.jpg",
+          "Region": "Korea",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e14aa46b-069d-48dc-964a-01f778f33b2e.jpg"
         },
         {
-          "FileName": "69381ecf-f2f4-4aa6-82df-270543327709.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1837016112",
+          "FileName": "69381ecf-f2f4-4aa6-82df-270543327709.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/69381ecf-f2f4-4aa6-82df-270543327709.jpg"
         },
         {
-          "FileName": "ad9085c0-06c7-45c1-a554-23b4bdc6b799.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "2837958475",
+          "FileName": "ad9085c0-06c7-45c1-a554-23b4bdc6b799.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/ad9085c0-06c7-45c1-a554-23b4bdc6b799.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "33a9c3fc-660a-40ac-95a6-0eb6cc9a825f.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2835619857",
+          "FileName": "33a9c3fc-660a-40ac-95a6-0eb6cc9a825f.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/33a9c3fc-660a-40ac-95a6-0eb6cc9a825f.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "89f71974-394b-4fb4-aead-1ea7ce1ce995.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1280383579",
+        "FileName": "89f71974-394b-4fb4-aead-1ea7ce1ce995.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/89f71974-394b-4fb4-aead-1ea7ce1ce995.png"
       },
       {
-        "FileName": "f7af3b94-e82e-4707-a553-8fc9fdae349d.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "3694928458",
+        "FileName": "f7af3b94-e82e-4707-a553-8fc9fdae349d.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/f7af3b94-e82e-4707-a553-8fc9fdae349d.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "123c6eae-e08b-4636-a5fe-0da85fdf8331.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1749437341",
-        "URL": "http://images.launchbox-app.com/123c6eae-e08b-4636-a5fe-0da85fdf8331.jpg"
-      },
-      {
-        "FileName": "07374eb3-016f-4628-bd0a-2ba912fd40ba.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3725531829",
-        "URL": "http://images.launchbox-app.com/07374eb3-016f-4628-bd0a-2ba912fd40ba.jpg"
-      },
-      {
-        "FileName": "c098a354-b1bd-46e8-a63b-91baa2479453.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1039580230",
-        "URL": "http://images.launchbox-app.com/c098a354-b1bd-46e8-a63b-91baa2479453.jpg"
-      },
-      {
-        "FileName": "b63a9218-40b8-45c5-8cf3-1378dede6c46.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2076050032",
-        "URL": "http://images.launchbox-app.com/b63a9218-40b8-45c5-8cf3-1378dede6c46.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "87931001",
         "FileName": "9ba0ae87-6d9b-4716-a8d4-d7f861b85846.png",
         "Type": "Clear Logo",
-        "CRC32": "87931001",
         "URL": "http://images.launchbox-app.com/9ba0ae87-6d9b-4716-a8d4-d7f861b85846.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1749437341",
+        "FileName": "123c6eae-e08b-4636-a5fe-0da85fdf8331.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/123c6eae-e08b-4636-a5fe-0da85fdf8331.jpg"
+      },
+      {
+        "CRC32": "3725531829",
+        "FileName": "07374eb3-016f-4628-bd0a-2ba912fd40ba.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/07374eb3-016f-4628-bd0a-2ba912fd40ba.jpg"
+      },
+      {
+        "CRC32": "2076050032",
+        "FileName": "b63a9218-40b8-45c5-8cf3-1378dede6c46.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/b63a9218-40b8-45c5-8cf3-1378dede6c46.jpg"
+      },
+      {
+        "CRC32": "1039580230",
+        "FileName": "c098a354-b1bd-46e8-a63b-91baa2479453.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c098a354-b1bd-46e8-a63b-91baa2479453.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.08974358974359",
+  "DatabaseID": "8888",
+  "Developer": "Sonic Team",
+  "ESRB": "E - Everyone",
+  "Genres": "Platform",
+  "Name": "Sonic Generations",
+  "Overview": "Set across three defining eras from 20 years of Sonic the Hedgehog video game history, the instantly recognisable environments of Sonic Generations have been re-built in stunning HD and are now playable in both classic side scrolling 2D from 1991, as well as modern 3D style found in Sonic's most recent adventures. Each incarnation of Sonic in Sonic Generations comes complete with his trademark special move, Spin Dash and Spin Attack for Classic Sonic, and Homing Attack and Sonic Boost for Modern Sonic. An innovative new interactive menu system allows for complete immersion in Sonic's universe with favourite characters and hidden treasures gradually being revealed throughout the game.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2011-11-01T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=UwGfnYH967s",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sonic_Generations"
 }

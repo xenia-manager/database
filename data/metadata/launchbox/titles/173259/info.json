@@ -1,84 +1,84 @@
 {
-  "Name": "Cars 3: Driven to Win",
-  "DatabaseID": "173259",
-  "ReleaseDate": "2017-06-13T00:00:00+00:00",
-  "Overview": "Start your engines and gear up for the ultimate racing experience in Cars 3: Driven to Win inspired by Disney•Pixar's film, Cars 3. Play with over 20 customizable characters including Lightning McQueen, Jackson Storm, Cruz Ramirez and the next generation of racers in over 20 tracks set in iconic locations from the film such as Radiator Springs. Train and advance your abilities in 6 game modes and challenge your family and friends in the Battle Race to become the Ultimate Champion. On the road to becoming a Hall of Fame Driver, training and skill will give you an edge in a race that anyone can win.",
-  "CommunityRating": "4.5",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Racing",
-  "Developer": "Avalanche Software",
-  "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "c7a50aba-bef1-43a5-b098-b5f09fa209bb.png",
-        "Type": "Banner",
-        "CRC32": "345136504",
-        "URL": "http://images.launchbox-app.com/c7a50aba-bef1-43a5-b098-b5f09fa209bb.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2006583852",
         "FileName": "f9419767-793e-4c7b-883f-2458207e6529.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2006583852",
         "URL": "http://images.launchbox-app.com/f9419767-793e-4c7b-883f-2458207e6529.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "345136504",
+        "FileName": "c7a50aba-bef1-43a5-b098-b5f09fa209bb.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/c7a50aba-bef1-43a5-b098-b5f09fa209bb.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_da75bcdc-cb24-40de-9956-2d789aa346a4.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1017651451",
+          "FileName": "r2_da75bcdc-cb24-40de-9956-2d789aa346a4.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_da75bcdc-cb24-40de-9956-2d789aa346a4.png"
         }
       ],
       "Back": [
         {
-          "FileName": "192eaddf-7296-4574-ac17-9427963fa285.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1814772983",
+          "FileName": "192eaddf-7296-4574-ac17-9427963fa285.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/192eaddf-7296-4574-ac17-9427963fa285.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "4c90ba97-b366-4a29-9e5a-7433c9e7e077.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2478896235",
+          "FileName": "4c90ba97-b366-4a29-9e5a-7433c9e7e077.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4c90ba97-b366-4a29-9e5a-7433c9e7e077.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "e9ebb4e7-8d33-4d9f-93ac-0c70797a5ff2.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "385432269",
+          "FileName": "e9ebb4e7-8d33-4d9f-93ac-0c70797a5ff2.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/e9ebb4e7-8d33-4d9f-93ac-0c70797a5ff2.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "3a3a5af9-ac33-4c24-b9ac-166a26cfde9d.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2701942422",
+        "FileName": "3a3a5af9-ac33-4c24-b9ac-166a26cfde9d.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/3a3a5af9-ac33-4c24-b9ac-166a26cfde9d.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1503113990",
         "FileName": "638023e4-36bd-4c49-b30e-93298dbf2eff.png",
         "Type": "Clear Logo",
-        "CRC32": "1503113990",
         "URL": "http://images.launchbox-app.com/638023e4-36bd-4c49-b30e-93298dbf2eff.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "173259",
+  "Developer": "Avalanche Software",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Racing",
+  "Name": "Cars 3: Driven to Win",
+  "Overview": "Start your engines and gear up for the ultimate racing experience in Cars 3: Driven to Win inspired by Disney•Pixar's film, Cars 3. Play with over 20 customizable characters including Lightning McQueen, Jackson Storm, Cruz Ramirez and the next generation of racers in over 20 tracks set in iconic locations from the film such as Radiator Springs. Train and advance your abilities in 6 game modes and challenge your family and friends in the Battle Race to become the Ultimate Champion. On the road to becoming a Hall of Fame Driver, training and skill will give you an edge in a race that anyone can win.",
+  "Publisher": "Warner Bros. Interactive Entertainment",
+  "ReleaseDate": "2017-06-13T00:00:00+00:00"
 }

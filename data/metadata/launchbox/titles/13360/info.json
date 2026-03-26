@@ -1,113 +1,113 @@
 {
-  "Name": "Fight Night Round 4",
-  "DatabaseID": "13360",
-  "ReleaseDate": "2009-06-25T00:00:00+00:00",
-  "Overview": "Fight Night Round 4 is (as the name would suggest) Electronic Arts' 4th entry into the boxing series. This time around, you have over 40 athletes to choose from from a variety of eras and weight classes, including Evander Holyfield, Floyd Mayweather, and (most notably) Mike Tyson and Mohammad Ali.\n\nIn addition to the default selection of fighters, you can make your own customized fighter using a powerful set of creation tools. The most impressive among these tools is the ability to use a PS3 camera or EA Sports' own website to upload pictures of yourself (or anyone, really) which will then be used to create a customized 3D head for your created boxer.\n\nThese custom-built fighters can then be taken into the game's \"Legacy Mode\", which starts you out as a 19-year old amateur looking to make a name for himself in the boxing world. You will partake in numerous fights spanning your entire career, improving through the use of mini games between matches. You can win several different championships, and then try to defend your title(s) against other emerging boxers. Once your fighter retires, he can then be selected in the exhibition mode to fight any of the default boxers in the game. How effective your fighter once he's added to the selectable roster is entirely based on how many special challenges you complete during his career -- things such as maintaining a 95% win percentage or holding three titles at the same time.\n\nFight Night Round 4 also features an online world championship, which will rank you against every other player in the world in the same weight class as your fighter. Wins and losses are kept track of in this mode.",
-  "VideoURL": "http://www.youtube.com/watch?v=RBlNzMTv2Gw",
-  "CommunityRating": "3.63636363636364",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Fight_Night_Round_4",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting; Sports",
-  "Developer": "Electronic Arts Canada",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_a44192b3-c7b1-4a3c-b5fd-69d44ad75058.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3002651248",
-        "URL": "http://images.launchbox-app.com/r2_a44192b3-c7b1-4a3c-b5fd-69d44ad75058.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1907961326",
         "FileName": "7b567dc3-493c-42e0-8adc-05852a1a6bfd.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1907961326",
         "URL": "http://images.launchbox-app.com/7b567dc3-493c-42e0-8adc-05852a1a6bfd.jpg"
       },
       {
-        "FileName": "r2_dd1dd533-e498-4e77-93b0-8761ffbe29ce.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "835467365",
+        "FileName": "r2_1596e047-fef6-4c4a-9a40-3484a540d7ee.jpg",
         "Region": "World",
-        "CRC32": "3752473933",
-        "URL": "http://images.launchbox-app.com/r2_dd1dd533-e498-4e77-93b0-8761ffbe29ce.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_1596e047-fef6-4c4a-9a40-3484a540d7ee.jpg"
       },
       {
-        "FileName": "r2_1596e047-fef6-4c4a-9a40-3484a540d7ee.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3752473933",
+        "FileName": "r2_dd1dd533-e498-4e77-93b0-8761ffbe29ce.jpg",
         "Region": "World",
-        "CRC32": "835467365",
-        "URL": "http://images.launchbox-app.com/r2_1596e047-fef6-4c4a-9a40-3484a540d7ee.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_dd1dd533-e498-4e77-93b0-8761ffbe29ce.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3002651248",
+        "FileName": "r2_a44192b3-c7b1-4a3c-b5fd-69d44ad75058.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_a44192b3-c7b1-4a3c-b5fd-69d44ad75058.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "e56e95df-4534-4bb6-8e75-597d0a3f307a.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3585393210",
+          "FileName": "e56e95df-4534-4bb6-8e75-597d0a3f307a.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/e56e95df-4534-4bb6-8e75-597d0a3f307a.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_5ede0e42-8c83-4931-99eb-0dddf2464d70.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "415785277",
+          "FileName": "r2_5ede0e42-8c83-4931-99eb-0dddf2464d70.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_5ede0e42-8c83-4931-99eb-0dddf2464d70.jpg"
         },
         {
-          "FileName": "3d3a016e-8b4e-44aa-857c-12f18caf6847.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1088305951",
+          "FileName": "3d3a016e-8b4e-44aa-857c-12f18caf6847.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/3d3a016e-8b4e-44aa-857c-12f18caf6847.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_5769682a-d2ba-4d3b-8b3a-46ff7a550375.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "851064389",
+          "FileName": "r2_5769682a-d2ba-4d3b-8b3a-46ff7a550375.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_5769682a-d2ba-4d3b-8b3a-46ff7a550375.jpg"
         },
         {
-          "FileName": "d50d587d-643d-4cf5-b510-7e03e916f4b2.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "183416160",
+          "FileName": "d50d587d-643d-4cf5-b510-7e03e916f4b2.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d50d587d-643d-4cf5-b510-7e03e916f4b2.jpg"
         },
         {
-          "FileName": "5bdd6e44-9559-4e43-aa56-2362d7d57f23.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "3969387444",
+          "FileName": "5bdd6e44-9559-4e43-aa56-2362d7d57f23.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/5bdd6e44-9559-4e43-aa56-2362d7d57f23.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_46a1ed91-22dd-4b71-a246-a8ca7f4cc953.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "127747894",
+        "FileName": "r2_46a1ed91-22dd-4b71-a246-a8ca7f4cc953.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_46a1ed91-22dd-4b71-a246-a8ca7f4cc953.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1279279569",
         "FileName": "3b794d76-9c0f-4740-abbe-3a8a5aa108ae.png",
         "Type": "Clear Logo",
-        "CRC32": "1279279569",
         "URL": "http://images.launchbox-app.com/3b794d76-9c0f-4740-abbe-3a8a5aa108ae.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.63636363636364",
+  "DatabaseID": "13360",
+  "Developer": "Electronic Arts Canada",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting; Sports",
+  "Name": "Fight Night Round 4",
+  "Overview": "Fight Night Round 4 is (as the name would suggest) Electronic Arts' 4th entry into the boxing series. This time around, you have over 40 athletes to choose from from a variety of eras and weight classes, including Evander Holyfield, Floyd Mayweather, and (most notably) Mike Tyson and Mohammad Ali.\n\nIn addition to the default selection of fighters, you can make your own customized fighter using a powerful set of creation tools. The most impressive among these tools is the ability to use a PS3 camera or EA Sports' own website to upload pictures of yourself (or anyone, really) which will then be used to create a customized 3D head for your created boxer.\n\nThese custom-built fighters can then be taken into the game's \"Legacy Mode\", which starts you out as a 19-year old amateur looking to make a name for himself in the boxing world. You will partake in numerous fights spanning your entire career, improving through the use of mini games between matches. You can win several different championships, and then try to defend your title(s) against other emerging boxers. Once your fighter retires, he can then be selected in the exhibition mode to fight any of the default boxers in the game. How effective your fighter once he's added to the selectable roster is entirely based on how many special challenges you complete during his career -- things such as maintaining a 95% win percentage or holding three titles at the same time.\n\nFight Night Round 4 also features an online world championship, which will rank you against every other player in the world in the same weight class as your fighter. Wins and losses are kept track of in this mode.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2009-06-25T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=RBlNzMTv2Gw",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Fight_Night_Round_4"
 }

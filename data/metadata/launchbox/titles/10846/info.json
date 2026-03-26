@@ -1,148 +1,148 @@
 {
-  "Name": "Army of Two: The Devil's Cartel",
-  "DatabaseID": "10846",
-  "ReleaseDate": "2013-03-26T00:00:00+00:00",
-  "Overview": "Army of Two: The Devil's Cartel is the third installment of the third-person shooter Army of Two series. In this game, players stray away from the protagonists in the first two games, Salem and Rios, and play as two different Tactical Worldwide Operations (T.W.O.) operatives, Alpha and Bravo. Alpha and Bravo are hired by a Mexican Mayor by the name of Cordova, who hires the two to take down the ruthless drug cartel La Guadana and its leader, Estaban Bautista.\n\nThe game, as with its predecessors, revolves around its co-op play. There is now less focus on two-player interactions to approach situations and more on regular shootouts. In addition to its already established cooperative base, this installment adds much more customization. Masks, gear, and weapons are all now customizable to tailor to the preferences of the player. The new destructible environment also adds a new aspect to the game, where players can destroy and manipulate the environment around them to their own advantage. The scoring system is based on the kills and rewarded with cash, which also acts as experience. Based on the chosen approach different rewards can be earned. Killing enemies also fills an Overkill gauge. Once full, a mode can be activated where the character for a short time becomes invulnerable with unlimited ammo, slowed down time and more damage. Overkill can be applied to a single character or to both.",
-  "CommunityRating": "3.6875",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Army_of_Two:_The_Devil%27s_Cartel",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Visceral Games",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "fed6f094-48fa-40e6-b6f7-29cf1152797c.png",
-        "Type": "Banner",
-        "CRC32": "269211518",
-        "URL": "http://images.launchbox-app.com/fed6f094-48fa-40e6-b6f7-29cf1152797c.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3823569173",
         "FileName": "9648e01a-2c7d-45b8-addc-5ee108328cb1.png",
         "Type": "Fanart - Background",
-        "CRC32": "3823569173",
         "URL": "http://images.launchbox-app.com/9648e01a-2c7d-45b8-addc-5ee108328cb1.png"
       },
       {
+        "CRC32": "4156944323",
         "FileName": "a6b3d5af-e9b1-40f1-b9d1-bc62d534d0d0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4156944323",
         "URL": "http://images.launchbox-app.com/a6b3d5af-e9b1-40f1-b9d1-bc62d534d0d0.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "269211518",
+        "FileName": "fed6f094-48fa-40e6-b6f7-29cf1152797c.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/fed6f094-48fa-40e6-b6f7-29cf1152797c.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_c181f483-9607-4aac-8958-97cc9dbd2774.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "233384091",
+          "FileName": "r2_c181f483-9607-4aac-8958-97cc9dbd2774.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_c181f483-9607-4aac-8958-97cc9dbd2774.png"
         },
         {
-          "FileName": "59415683-f505-4f88-accc-b57db60d274a.png",
-          "Type": "Box - 3D",
-          "Region": "United Kingdom",
           "CRC32": "1810399451",
+          "FileName": "59415683-f505-4f88-accc-b57db60d274a.png",
+          "Region": "United Kingdom",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/59415683-f505-4f88-accc-b57db60d274a.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_592e5889-4a2d-4769-b8fc-4e129b7c4c22.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "16648650",
+          "FileName": "r2_592e5889-4a2d-4769-b8fc-4e129b7c4c22.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_592e5889-4a2d-4769-b8fc-4e129b7c4c22.jpg"
         },
         {
-          "FileName": "d98b600d-3c95-4dd2-8bb7-11121f3f5111.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "344592227",
+          "FileName": "d98b600d-3c95-4dd2-8bb7-11121f3f5111.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/d98b600d-3c95-4dd2-8bb7-11121f3f5111.jpg"
         },
         {
-          "FileName": "9a6d3a14-a768-4097-9792-670b23bb2f21.jpg",
-          "Type": "Box - Back",
-          "Region": "United Kingdom",
           "CRC32": "1139403961",
+          "FileName": "9a6d3a14-a768-4097-9792-670b23bb2f21.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/9a6d3a14-a768-4097-9792-670b23bb2f21.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "f7a2759c-744b-43d3-8f3c-4a0353654f63.png",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3902112250",
+          "FileName": "f7a2759c-744b-43d3-8f3c-4a0353654f63.png",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f7a2759c-744b-43d3-8f3c-4a0353654f63.png"
         },
         {
-          "FileName": "e8f3a536-4132-4d0f-b28d-9fd6cdc6c8c2.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2380489958",
+          "FileName": "e8f3a536-4132-4d0f-b28d-9fd6cdc6c8c2.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e8f3a536-4132-4d0f-b28d-9fd6cdc6c8c2.jpg"
         },
         {
-          "FileName": "0af86189-e343-4fbf-9adb-a4dc109854ea.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
           "CRC32": "3799370640",
+          "FileName": "0af86189-e343-4fbf-9adb-a4dc109854ea.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0af86189-e343-4fbf-9adb-a4dc109854ea.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "60613e9d-2dd7-43fb-b9ea-81280e67951f.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1840484419",
+          "FileName": "60613e9d-2dd7-43fb-b9ea-81280e67951f.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/60613e9d-2dd7-43fb-b9ea-81280e67951f.jpg"
         },
         {
-          "FileName": "3d3d28b9-f367-4497-a816-15c2cc0593db.jpg",
-          "Type": "Box - Spine",
-          "Region": "United Kingdom",
           "CRC32": "2266076400",
+          "FileName": "3d3d28b9-f367-4497-a816-15c2cc0593db.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/3d3d28b9-f367-4497-a816-15c2cc0593db.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "fe2a76e2-1c8e-431a-b7eb-d25148732032.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "3593590684",
+        "FileName": "fe2a76e2-1c8e-431a-b7eb-d25148732032.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/fe2a76e2-1c8e-431a-b7eb-d25148732032.png"
       },
       {
-        "FileName": "c4f7df42-c041-4e34-8392-93e2529d5e37.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3367636909",
+        "FileName": "c4f7df42-c041-4e34-8392-93e2529d5e37.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c4f7df42-c041-4e34-8392-93e2529d5e37.png"
       }
     ],
     "Other": [
       {
-        "FileName": "6cfb0096-a82b-4e67-97da-2455010e3338.png",
-        "Type": "Clear Logo",
+        "CRC32": "2332584104",
+        "FileName": "3664f991-67b7-4a21-82ec-e7f4f18147fe.png",
         "Region": "World",
-        "CRC32": "1290871521",
-        "URL": "http://images.launchbox-app.com/6cfb0096-a82b-4e67-97da-2455010e3338.png"
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/3664f991-67b7-4a21-82ec-e7f4f18147fe.png"
       },
       {
-        "FileName": "3664f991-67b7-4a21-82ec-e7f4f18147fe.png",
-        "Type": "Clear Logo",
+        "CRC32": "1290871521",
+        "FileName": "6cfb0096-a82b-4e67-97da-2455010e3338.png",
         "Region": "World",
-        "CRC32": "2332584104",
-        "URL": "http://images.launchbox-app.com/3664f991-67b7-4a21-82ec-e7f4f18147fe.png"
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/6cfb0096-a82b-4e67-97da-2455010e3338.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.6875",
+  "DatabaseID": "10846",
+  "Developer": "Visceral Games",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Army of Two: The Devil's Cartel",
+  "Overview": "Army of Two: The Devil's Cartel is the third installment of the third-person shooter Army of Two series. In this game, players stray away from the protagonists in the first two games, Salem and Rios, and play as two different Tactical Worldwide Operations (T.W.O.) operatives, Alpha and Bravo. Alpha and Bravo are hired by a Mexican Mayor by the name of Cordova, who hires the two to take down the ruthless drug cartel La Guadana and its leader, Estaban Bautista.\n\nThe game, as with its predecessors, revolves around its co-op play. There is now less focus on two-player interactions to approach situations and more on regular shootouts. In addition to its already established cooperative base, this installment adds much more customization. Masks, gear, and weapons are all now customizable to tailor to the preferences of the player. The new destructible environment also adds a new aspect to the game, where players can destroy and manipulate the environment around them to their own advantage. The scoring system is based on the kills and rewarded with cash, which also acts as experience. Based on the chosen approach different rewards can be earned. Killing enemies also fills an Overkill gauge. Once full, a mode can be activated where the character for a short time becomes invulnerable with unlimited ammo, slowed down time and more damage. Overkill can be applied to a single character or to both.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2013-03-26T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Army_of_Two:_The_Devil%27s_Cartel"
 }

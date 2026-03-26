@@ -1,83 +1,83 @@
 {
-  "Name": "Hail to the Chimp",
-  "DatabaseID": "14439",
-  "ReleaseDate": "2008-06-24T00:00:00+00:00",
-  "Overview": "Since the dawn of time, Man has wondered who would win if a polar bear and jellyfish teamed up to fight an armadillo and yak. Do you have what it takes to learn the shocking truth? When the King of the Animals is forced to resign in disgrace, a motley group of candidates turns out for a bare-knuckle campaign to win the Crown. From Ptolemy, the mighty hippo, to Crackers, the devious monkey, each of the ten candidates has distinct strengths and strategies, but the same hunger for political power. Hail to the Chimp is a party game that delivers exciting gameplay, lush interactive environments, and a comic look at politics. Players use the game’s unique team-up mechanic, mixing cooperation with competition, to claw their way to victory. Whether played by four friends on one TV, online against distant challengers or single-player against advanced AI, Hail to the Chimp offers endlessly replayable party fun for gamers of all stripes.",
-  "VideoURL": "http://www.youtube.com/watch?v=WULN2StRLWQ",
-  "CommunityRating": "5",
-  "ESRB": "T - Teen",
-  "Genres": "Strategy",
-  "Developer": "Wideload Games",
-  "Publisher": "Gamecock Media Group",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_e5a6bd1a-712d-48bf-b51e-eb48620c2e97.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1782805810",
-        "URL": "http://images.launchbox-app.com/r2_e5a6bd1a-712d-48bf-b51e-eb48620c2e97.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_aaa34392-822e-4ed0-aa9c-bb863cb26555.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1702641459",
+        "FileName": "r2_aaa34392-822e-4ed0-aa9c-bb863cb26555.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_aaa34392-822e-4ed0-aa9c-bb863cb26555.jpg"
       },
       {
-        "FileName": "r2_f21a6540-b443-497b-a1d1-879bfd0ab801.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "662585824",
+        "FileName": "r2_f21a6540-b443-497b-a1d1-879bfd0ab801.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_f21a6540-b443-497b-a1d1-879bfd0ab801.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1782805810",
+        "FileName": "r2_e5a6bd1a-712d-48bf-b51e-eb48620c2e97.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_e5a6bd1a-712d-48bf-b51e-eb48620c2e97.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_1f615b7e-ab77-47e6-9c2b-1608c75fdbbc.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "4240866486",
+          "FileName": "r2_1f615b7e-ab77-47e6-9c2b-1608c75fdbbc.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_1f615b7e-ab77-47e6-9c2b-1608c75fdbbc.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "1f34b67a-1e85-44d9-86e0-44844a817280.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "3675169020",
+          "FileName": "1f34b67a-1e85-44d9-86e0-44844a817280.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1f34b67a-1e85-44d9-86e0-44844a817280.jpg"
         },
         {
-          "FileName": "r2_c8e92f74-3bbd-478a-8aef-4ea06c1d1205.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3807707412",
+          "FileName": "r2_c8e92f74-3bbd-478a-8aef-4ea06c1d1205.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_c8e92f74-3bbd-478a-8aef-4ea06c1d1205.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_5c9f902d-05f3-490d-a2c1-8e1042a63792.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1076571613",
+        "FileName": "r2_5c9f902d-05f3-490d-a2c1-8e1042a63792.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_5c9f902d-05f3-490d-a2c1-8e1042a63792.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1688827856",
         "FileName": "05537d13-0cda-43f2-86d8-18e96de148c2.png",
         "Type": "Clear Logo",
-        "CRC32": "1688827856",
         "URL": "http://images.launchbox-app.com/05537d13-0cda-43f2-86d8-18e96de148c2.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "5",
+  "DatabaseID": "14439",
+  "Developer": "Wideload Games",
+  "ESRB": "T - Teen",
+  "Genres": "Strategy",
+  "Name": "Hail to the Chimp",
+  "Overview": "Since the dawn of time, Man has wondered who would win if a polar bear and jellyfish teamed up to fight an armadillo and yak. Do you have what it takes to learn the shocking truth? When the King of the Animals is forced to resign in disgrace, a motley group of candidates turns out for a bare-knuckle campaign to win the Crown. From Ptolemy, the mighty hippo, to Crackers, the devious monkey, each of the ten candidates has distinct strengths and strategies, but the same hunger for political power. Hail to the Chimp is a party game that delivers exciting gameplay, lush interactive environments, and a comic look at politics. Players use the game’s unique team-up mechanic, mixing cooperation with competition, to claw their way to victory. Whether played by four friends on one TV, online against distant challengers or single-player against advanced AI, Hail to the Chimp offers endlessly replayable party fun for gamers of all stripes.",
+  "Publisher": "Gamecock Media Group",
+  "ReleaseDate": "2008-06-24T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=WULN2StRLWQ"
 }

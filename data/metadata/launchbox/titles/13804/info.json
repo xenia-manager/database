@@ -1,113 +1,113 @@
 {
-  "Name": "Peter Jackson's King Kong: The official Game of the Movie",
-  "DatabaseID": "13804",
-  "ReleaseDate": "2005-11-22T00:00:00+00:00",
-  "Overview": "Peter Jackson's King Kong: The Official Game of the Movie is an action-adventure video game based on the 2005 film King Kong and created in collaboration between the film's director Peter Jackson and video game designer Michel Ancel.\n\nThe game allows players to play as both Jack Driscoll and King Kong. The King Kong segment are played from a third-person perspective, while Driscoll's levels are played from a first-person perspective. De-emphasizes the role of a heads-up display as the developer thought that this can help players to further immerse into the game.\n\nIt was released on PC and sixth generation platforms and a Nintendo DS version on November 21, 2005, while it was released on November 22, 2005 on the Xbox 360 as a launch title, as well as a Game Boy Advance version titled Kong: The 8th Wonder of the World, also a PlayStation Portable version was released December 20, 2005. All film cast members reprise their roles. Upon release, the game received a generally positive reception, with critics praising the game's immersive environments. However, the DS version was panned due to the bugs featured in these versions.",
-  "CommunityRating": "3.375",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/King_Kong_(2005_video_game)",
-  "ESRB": "T - Teen",
-  "Genres": "Action",
-  "Developer": "Ubisoft",
-  "Publisher": "Ubisoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_d8a76b78-e032-4cbb-9db7-4d9fc3cdc149.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3438404823",
-        "URL": "http://images.launchbox-app.com/r2_d8a76b78-e032-4cbb-9db7-4d9fc3cdc149.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "a1415856-e922-4b22-8f2c-018c68219649.png",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "43817828",
+        "FileName": "a1415856-e922-4b22-8f2c-018c68219649.png",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/a1415856-e922-4b22-8f2c-018c68219649.png"
       },
       {
-        "FileName": "r2_fb6c463e-269b-4eb3-af55-8982a93eb3c4.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1109777705",
+        "FileName": "r2_82adab98-3aad-4535-bb2c-46a62a081255.jpg",
         "Region": "World",
-        "CRC32": "2057366861",
-        "URL": "http://images.launchbox-app.com/r2_fb6c463e-269b-4eb3-af55-8982a93eb3c4.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_82adab98-3aad-4535-bb2c-46a62a081255.jpg"
       },
       {
-        "FileName": "r2_82adab98-3aad-4535-bb2c-46a62a081255.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "2057366861",
+        "FileName": "r2_fb6c463e-269b-4eb3-af55-8982a93eb3c4.jpg",
         "Region": "World",
-        "CRC32": "1109777705",
-        "URL": "http://images.launchbox-app.com/r2_82adab98-3aad-4535-bb2c-46a62a081255.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_fb6c463e-269b-4eb3-af55-8982a93eb3c4.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3438404823",
+        "FileName": "r2_d8a76b78-e032-4cbb-9db7-4d9fc3cdc149.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_d8a76b78-e032-4cbb-9db7-4d9fc3cdc149.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "183ce386-7415-418a-abf4-f3d554532501.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1191593218",
+          "FileName": "183ce386-7415-418a-abf4-f3d554532501.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/183ce386-7415-418a-abf4-f3d554532501.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_c0a64c98-a84c-412a-a6af-cc7bddda69c2.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1165884317",
+          "FileName": "r2_c0a64c98-a84c-412a-a6af-cc7bddda69c2.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_c0a64c98-a84c-412a-a6af-cc7bddda69c2.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_4ec2e27e-fb5d-4d19-9ab9-f92bb745681c.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2489305306",
+          "FileName": "r2_4ec2e27e-fb5d-4d19-9ab9-f92bb745681c.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_4ec2e27e-fb5d-4d19-9ab9-f92bb745681c.jpg"
         },
         {
-          "FileName": "r2_c313ff8b-c775-4e20-b97f-6356e34bff28.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "118149556",
+          "FileName": "r2_c313ff8b-c775-4e20-b97f-6356e34bff28.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_c313ff8b-c775-4e20-b97f-6356e34bff28.jpg"
         },
         {
-          "FileName": "2b61eb0c-ec91-4cc1-aa40-f5a65939a6b7.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3142013474",
+          "FileName": "2b61eb0c-ec91-4cc1-aa40-f5a65939a6b7.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/2b61eb0c-ec91-4cc1-aa40-f5a65939a6b7.jpg"
         },
         {
-          "FileName": "r2_d0fb5260-3c6e-43ec-a0b2-83139863dd10.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
           "CRC32": "1768903456",
+          "FileName": "r2_d0fb5260-3c6e-43ec-a0b2-83139863dd10.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d0fb5260-3c6e-43ec-a0b2-83139863dd10.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_f2acd330-18a1-453a-bdc6-5ceabc99ba70.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "880506310",
+        "FileName": "r2_f2acd330-18a1-453a-bdc6-5ceabc99ba70.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_f2acd330-18a1-453a-bdc6-5ceabc99ba70.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "572352067",
         "FileName": "45122a70-91fe-417b-a933-8b988628f307.png",
         "Type": "Clear Logo",
-        "CRC32": "572352067",
         "URL": "http://images.launchbox-app.com/45122a70-91fe-417b-a933-8b988628f307.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.375",
+  "DatabaseID": "13804",
+  "Developer": "Ubisoft",
+  "ESRB": "T - Teen",
+  "Genres": "Action",
+  "Name": "Peter Jackson's King Kong: The official Game of the Movie",
+  "Overview": "Peter Jackson's King Kong: The Official Game of the Movie is an action-adventure video game based on the 2005 film King Kong and created in collaboration between the film's director Peter Jackson and video game designer Michel Ancel.\n\nThe game allows players to play as both Jack Driscoll and King Kong. The King Kong segment are played from a third-person perspective, while Driscoll's levels are played from a first-person perspective. De-emphasizes the role of a heads-up display as the developer thought that this can help players to further immerse into the game.\n\nIt was released on PC and sixth generation platforms and a Nintendo DS version on November 21, 2005, while it was released on November 22, 2005 on the Xbox 360 as a launch title, as well as a Game Boy Advance version titled Kong: The 8th Wonder of the World, also a PlayStation Portable version was released December 20, 2005. All film cast members reprise their roles. Upon release, the game received a generally positive reception, with critics praising the game's immersive environments. However, the DS version was panned due to the bugs featured in these versions.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2005-11-22T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/King_Kong_(2005_video_game)"
 }

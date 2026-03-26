@@ -1,23 +1,23 @@
 {
-  "Name": "Hardboiled Pinball",
-  "DatabaseID": "469985",
-  "ReleaseDate": "2012-02-03T00:00:00+00:00",
-  "Overview": "Hardboiled Pinball is the first game of the Stryde Games pinball series, which aims to provide an old-school fast scrolling 2D pinball experience.\n\nSharpen your reflexes to conquer the silver ball and score the jackpot in this crime noir themed table.",
-  "VideoURL": "https://youtu.be/OGU6UvSUM4k",
-  "Genres": "Pinball",
-  "Developer": "Stryde Games",
-  "Publisher": "Stryde Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "c6e0d845-e2c5-47f1-b727-38f42f872f31.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1991116781",
+          "FileName": "c6e0d845-e2c5-47f1-b727-38f42f872f31.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c6e0d845-e2c5-47f1-b727-38f42f872f31.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469985",
+  "Developer": "Stryde Games",
+  "Genres": "Pinball",
+  "Name": "Hardboiled Pinball",
+  "Overview": "Hardboiled Pinball is the first game of the Stryde Games pinball series, which aims to provide an old-school fast scrolling 2D pinball experience.\n\nSharpen your reflexes to conquer the silver ball and score the jackpot in this crime noir themed table.",
+  "Publisher": "Stryde Games",
+  "ReleaseDate": "2012-02-03T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/OGU6UvSUM4k"
 }

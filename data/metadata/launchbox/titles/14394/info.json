@@ -1,97 +1,97 @@
 {
-  "Name": "Backbreaker",
-  "DatabaseID": "14394",
-  "ReleaseDate": "2010-06-01T00:00:00+00:00",
-  "Overview": "Backbreaker is an American football video game, developed by British technology developer NaturalMotion, and released on 1 June 2010 in North America and on 25 June 2010 in Europe. One of its highlights is the use of Euphoria, a game animation engine that determines animations dynamically rather than depending on canned animations. Backbreaker does not use teams from the National Football League (NFL) because Electronic Arts has an exclusive license to produce NFL games in its Madden series. The game relies on an extensive logo editor and team builder that was called \"one of its silver linings\". NaturalMotion announced Backbreaker in August 2007, with a targeted release date of late 2008. The game ended up being delayed until mid-2010.\n\nBackbreaker received mixed reviews. While it was praised for the Euphoria animation system, realistic physical gameplay, and the logo editor, it was also criticized for its weak online play, poor passing game, and lack of depth in single-player modes. After the reviews, the passing game was adjusted by the greathouse patch. The Xbox 360 version of the game received an overall rating of 54% from review aggregator Metacritic, while the PlayStation 3 version received a 58%. The iOS and Android version was given a rating of 4.5 out of 5 stars by Touch Arcade. A patch released on 6 August 2010, alleviated many of the issues critics had with the game upon release and included upgrades such as: improved AI, new play books and an enhanced replay feature.",
-  "CommunityRating": "2.875",
-  "WikipediaURL": "https://en.m.wikipedia.org/wiki/Backbreaker_(video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "NaturalMotion Games",
-  "Publisher": "505 Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "c34833fe-7ec2-4986-9961-2ae2c80d6823.png",
-        "Type": "Banner",
-        "CRC32": "1734043811",
-        "URL": "http://images.launchbox-app.com/c34833fe-7ec2-4986-9961-2ae2c80d6823.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "f1bf8864-c351-4d3d-9a71-1f828ba84f99.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "466062867",
-        "URL": "http://images.launchbox-app.com/f1bf8864-c351-4d3d-9a71-1f828ba84f99.jpg"
-      },
-      {
+        "CRC32": "3695150305",
         "FileName": "ac7d218e-95d2-4480-8505-efd6161a8b8a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3695150305",
         "URL": "http://images.launchbox-app.com/ac7d218e-95d2-4480-8505-efd6161a8b8a.jpg"
+      },
+      {
+        "CRC32": "466062867",
+        "FileName": "f1bf8864-c351-4d3d-9a71-1f828ba84f99.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/f1bf8864-c351-4d3d-9a71-1f828ba84f99.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1734043811",
+        "FileName": "c34833fe-7ec2-4986-9961-2ae2c80d6823.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/c34833fe-7ec2-4986-9961-2ae2c80d6823.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_83d39d09-5f72-440b-a83f-abf9c07612e2.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1634324722",
+          "FileName": "r2_83d39d09-5f72-440b-a83f-abf9c07612e2.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_83d39d09-5f72-440b-a83f-abf9c07612e2.jpg"
         },
         {
-          "FileName": "4c25865d-c97d-4edf-87bf-6d01d08ca718.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "312805983",
+          "FileName": "4c25865d-c97d-4edf-87bf-6d01d08ca718.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/4c25865d-c97d-4edf-87bf-6d01d08ca718.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_d6655416-8298-4eec-972d-23c5d8a33d0f.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "64924648",
+          "FileName": "r2_d6655416-8298-4eec-972d-23c5d8a33d0f.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d6655416-8298-4eec-972d-23c5d8a33d0f.jpg"
         },
         {
-          "FileName": "88023dc5-4b32-448a-971a-73dd8c921d1f.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "545478372",
+          "FileName": "88023dc5-4b32-448a-971a-73dd8c921d1f.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/88023dc5-4b32-448a-971a-73dd8c921d1f.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "8816014b-9e2e-44eb-924a-588d9f89d811.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "830622230",
+          "FileName": "8816014b-9e2e-44eb-924a-588d9f89d811.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/8816014b-9e2e-44eb-924a-588d9f89d811.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "ca36789c-0720-46be-ab1a-3de33bd7b996.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "479813569",
+        "FileName": "ca36789c-0720-46be-ab1a-3de33bd7b996.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/ca36789c-0720-46be-ab1a-3de33bd7b996.png"
       }
     ],
     "Other": [
       {
-        "FileName": "daa47d50-508c-4613-bc59-59b8d006cf2b.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3471959322",
+        "FileName": "daa47d50-508c-4613-bc59-59b8d006cf2b.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/daa47d50-508c-4613-bc59-59b8d006cf2b.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.875",
+  "DatabaseID": "14394",
+  "Developer": "NaturalMotion Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Backbreaker",
+  "Overview": "Backbreaker is an American football video game, developed by British technology developer NaturalMotion, and released on 1 June 2010 in North America and on 25 June 2010 in Europe. One of its highlights is the use of Euphoria, a game animation engine that determines animations dynamically rather than depending on canned animations. Backbreaker does not use teams from the National Football League (NFL) because Electronic Arts has an exclusive license to produce NFL games in its Madden series. The game relies on an extensive logo editor and team builder that was called \"one of its silver linings\". NaturalMotion announced Backbreaker in August 2007, with a targeted release date of late 2008. The game ended up being delayed until mid-2010.\n\nBackbreaker received mixed reviews. While it was praised for the Euphoria animation system, realistic physical gameplay, and the logo editor, it was also criticized for its weak online play, poor passing game, and lack of depth in single-player modes. After the reviews, the passing game was adjusted by the greathouse patch. The Xbox 360 version of the game received an overall rating of 54% from review aggregator Metacritic, while the PlayStation 3 version received a 58%. The iOS and Android version was given a rating of 4.5 out of 5 stars by Touch Arcade. A patch released on 6 August 2010, alleviated many of the issues critics had with the game upon release and included upgrades such as: improved AI, new play books and an enhanced replay feature.",
+  "Publisher": "505 Games",
+  "ReleaseDate": "2010-06-01T00:00:00+00:00",
+  "WikipediaURL": "https://en.m.wikipedia.org/wiki/Backbreaker_(video_game)"
 }

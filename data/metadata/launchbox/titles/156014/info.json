@@ -1,65 +1,65 @@
 {
-  "Name": "Islands of Wakfu",
-  "DatabaseID": "156014",
-  "ReleaseDate": "2011-03-30T00:00:00+00:00",
-  "Overview": "Islands of Wakfu is an action/adventure game set in the universe of the world-famous DOFUS and WAKFU MMORPGs. Gameplay revolves around the complementarity between the two principal characters: Nora, the young Eliatrope, and her brother dragon, Efrim. Nora is a close combat fighter, relying on her fists, feet, combos, and dimensional powers. Efrim is a long-distance shooter who is able to fly. They breathe the Wakfu in and out, bloom Wakfu flowers, and harvest Wakfu honey that can be used to buy upgrades for both characters. Control the third playable character, the Platypus, to pick up items, interact with the environment, and find secret passages.",
-  "VideoURL": "https://www.youtube.com/watch?v=v8BdoNC2HyQ",
-  "CommunityRating": "2.91666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Islands_of_Wakfu",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Beat 'em Up; Role-Playing",
-  "Developer": "Ankama Play",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_6f5cecba-7df0-48ca-9873-a78ea85bba8e.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3324686068",
-        "URL": "http://images.launchbox-app.com/r2_6f5cecba-7df0-48ca-9873-a78ea85bba8e.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_c626e61b-bedb-4295-bb97-b0a7d7cf702d.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2956021862",
+        "FileName": "r2_c626e61b-bedb-4295-bb97-b0a7d7cf702d.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_c626e61b-bedb-4295-bb97-b0a7d7cf702d.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3324686068",
+        "FileName": "r2_6f5cecba-7df0-48ca-9873-a78ea85bba8e.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_6f5cecba-7df0-48ca-9873-a78ea85bba8e.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c5fd4aa8-c500-4c6b-ac7d-d9ee6b50ee6b.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3595634876",
+          "FileName": "c5fd4aa8-c500-4c6b-ac7d-d9ee6b50ee6b.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c5fd4aa8-c500-4c6b-ac7d-d9ee6b50ee6b.jpg"
         },
         {
-          "FileName": "r2_464650c9-2cad-4fba-946d-a454ba775228.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2777178875",
+          "FileName": "r2_464650c9-2cad-4fba-946d-a454ba775228.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_464650c9-2cad-4fba-946d-a454ba775228.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "3256960282",
         "FileName": "80b637cc-6683-43c9-a709-06a69be2c3cd.jpg",
         "Type": "Advertisement Flyer - Front",
-        "CRC32": "3256960282",
         "URL": "http://images.launchbox-app.com/80b637cc-6683-43c9-a709-06a69be2c3cd.jpg"
       },
       {
+        "CRC32": "836006181",
         "FileName": "1071d604-7081-425a-a0b0-3b5f2e953b8e.png",
         "Type": "Clear Logo",
-        "CRC32": "836006181",
         "URL": "http://images.launchbox-app.com/1071d604-7081-425a-a0b0-3b5f2e953b8e.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.91666666666667",
+  "DatabaseID": "156014",
+  "Developer": "Ankama Play",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Beat 'em Up; Role-Playing",
+  "Name": "Islands of Wakfu",
+  "Overview": "Islands of Wakfu is an action/adventure game set in the universe of the world-famous DOFUS and WAKFU MMORPGs. Gameplay revolves around the complementarity between the two principal characters: Nora, the young Eliatrope, and her brother dragon, Efrim. Nora is a close combat fighter, relying on her fists, feet, combos, and dimensional powers. Efrim is a long-distance shooter who is able to fly. They breathe the Wakfu in and out, bloom Wakfu flowers, and harvest Wakfu honey that can be used to buy upgrades for both characters. Control the third playable character, the Platypus, to pick up items, interact with the environment, and find secret passages.",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2011-03-30T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=v8BdoNC2HyQ",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Islands_of_Wakfu"
 }

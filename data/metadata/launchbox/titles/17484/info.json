@@ -1,106 +1,106 @@
 {
-  "Name": "Aegis Wing",
-  "DatabaseID": "17484",
-  "ReleaseDate": "2007-05-16T00:00:00+00:00",
-  "Overview": "Ready to save the universe from an Araxian invasion? Challenge them solo or recruit up to three friends for an all-out assault. Feeling lucky? Try it on Insane mode - the rewards are greater but the name is all too accurate. \n\nAegis Wing is a side-scrolling shooter originally created by three Microsoft interns. The player controls a small ship in epic battles against countless alien foes. In addition to enemy fighters the player must also contend with mines and other obstacles as well as imposing boss invaders that guard the end of certain levels. \n\nThe game also features four players cooperative mode where players can attach their ships to the leading one and become independent, 360-degree gun turrets. There are also four super weapons the player can pick up after defeating enemies: Arcus Missile, Hades Beam, Gorgon Burst, and Lambda Shield.",
-  "VideoURL": "https://www.youtube.com/watch?v=NzVnxhUUQVw",
-  "CommunityRating": "3.30555555555556",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Aegis_Wing",
-  "ESRB": "E - Everyone",
-  "Genres": "Shooter",
-  "Developer": "Carbonated Games",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "5aeaabc2-e67a-4bee-8900-d41f7556d728.png",
-        "Type": "Banner",
-        "CRC32": "1936591446",
-        "URL": "http://images.launchbox-app.com/5aeaabc2-e67a-4bee-8900-d41f7556d728.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_5e9ceca5-abca-44f9-9234-b850915875b3.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3722728062",
+        "FileName": "r2_5e9ceca5-abca-44f9-9234-b850915875b3.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_5e9ceca5-abca-44f9-9234-b850915875b3.jpg"
       },
       {
-        "FileName": "r2_67807ce5-8567-491e-89be-dbe417f37aba.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1367258948",
+        "FileName": "r2_67807ce5-8567-491e-89be-dbe417f37aba.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_67807ce5-8567-491e-89be-dbe417f37aba.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1936591446",
+        "FileName": "5aeaabc2-e67a-4bee-8900-d41f7556d728.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/5aeaabc2-e67a-4bee-8900-d41f7556d728.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "14efa972-18b7-40c8-bca6-fd371aba668d.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "879910847",
+          "FileName": "14efa972-18b7-40c8-bca6-fd371aba668d.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/14efa972-18b7-40c8-bca6-fd371aba668d.jpg"
         },
         {
-          "FileName": "r2_cc564711-c053-496b-9a64-97f153f6a01e.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3691640457",
+          "FileName": "r2_cc564711-c053-496b-9a64-97f153f6a01e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_cc564711-c053-496b-9a64-97f153f6a01e.jpg"
         }
       ]
     },
     "Icon": [
       {
-        "FileName": "r2_30431322-9225-460d-ba4f-eac2b079138d.png",
-        "Type": "Icon",
-        "Region": "World",
         "CRC32": "3886222924",
+        "FileName": "r2_30431322-9225-460d-ba4f-eac2b079138d.png",
+        "Region": "World",
+        "Type": "Icon",
         "URL": "http://images.launchbox-app.com/r2_30431322-9225-460d-ba4f-eac2b079138d.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "bcc01825-b466-46ec-b87a-c11ff963f7c8.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2794108901",
-        "URL": "http://images.launchbox-app.com/bcc01825-b466-46ec-b87a-c11ff963f7c8.jpg"
-      },
-      {
-        "FileName": "d84437a3-b871-4bd4-a846-b17fe7b064b6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3231412001",
-        "URL": "http://images.launchbox-app.com/d84437a3-b871-4bd4-a846-b17fe7b064b6.jpg"
-      },
-      {
-        "FileName": "d58cad1c-32da-4793-8baa-e4769cc60498.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3100951382",
-        "URL": "http://images.launchbox-app.com/d58cad1c-32da-4793-8baa-e4769cc60498.jpg"
-      },
-      {
-        "FileName": "6ba0cc8d-7726-42e5-b1cb-a516f2407691.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3726944343",
-        "URL": "http://images.launchbox-app.com/6ba0cc8d-7726-42e5-b1cb-a516f2407691.jpg"
-      },
-      {
-        "FileName": "b828023d-a3fd-47aa-a3bc-44d5006c8513.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2967263623",
-        "URL": "http://images.launchbox-app.com/b828023d-a3fd-47aa-a3bc-44d5006c8513.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "3999991967",
         "FileName": "09ca3d41-7228-4817-b686-796d7281697b.png",
         "Type": "Clear Logo",
-        "CRC32": "3999991967",
         "URL": "http://images.launchbox-app.com/09ca3d41-7228-4817-b686-796d7281697b.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3726944343",
+        "FileName": "6ba0cc8d-7726-42e5-b1cb-a516f2407691.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/6ba0cc8d-7726-42e5-b1cb-a516f2407691.jpg"
+      },
+      {
+        "CRC32": "2967263623",
+        "FileName": "b828023d-a3fd-47aa-a3bc-44d5006c8513.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/b828023d-a3fd-47aa-a3bc-44d5006c8513.jpg"
+      },
+      {
+        "CRC32": "2794108901",
+        "FileName": "bcc01825-b466-46ec-b87a-c11ff963f7c8.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/bcc01825-b466-46ec-b87a-c11ff963f7c8.jpg"
+      },
+      {
+        "CRC32": "3100951382",
+        "FileName": "d58cad1c-32da-4793-8baa-e4769cc60498.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d58cad1c-32da-4793-8baa-e4769cc60498.jpg"
+      },
+      {
+        "CRC32": "3231412001",
+        "FileName": "d84437a3-b871-4bd4-a846-b17fe7b064b6.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d84437a3-b871-4bd4-a846-b17fe7b064b6.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.30555555555556",
+  "DatabaseID": "17484",
+  "Developer": "Carbonated Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Shooter",
+  "Name": "Aegis Wing",
+  "Overview": "Ready to save the universe from an Araxian invasion? Challenge them solo or recruit up to three friends for an all-out assault. Feeling lucky? Try it on Insane mode - the rewards are greater but the name is all too accurate. \n\nAegis Wing is a side-scrolling shooter originally created by three Microsoft interns. The player controls a small ship in epic battles against countless alien foes. In addition to enemy fighters the player must also contend with mines and other obstacles as well as imposing boss invaders that guard the end of certain levels. \n\nThe game also features four players cooperative mode where players can attach their ships to the leading one and become independent, 360-degree gun turrets. There are also four super weapons the player can pick up after defeating enemies: Arcus Missile, Hades Beam, Gorgon Burst, and Lambda Shield.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2007-05-16T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=NzVnxhUUQVw",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Aegis_Wing"
 }

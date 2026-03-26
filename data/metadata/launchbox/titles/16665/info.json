@@ -1,47 +1,47 @@
 {
-  "Name": "Spartacus Legends",
-  "DatabaseID": "16665",
-  "ReleaseDate": "2013-06-26T00:00:00+00:00",
-  "Overview": "Featuring thousands of ruthless weapon combinations and a robust skill system, Spartacus Legends delivers a variety of tools for gamers to customize their gladiators and dismember their foes. Gamers will be able to fight as Spartacus, Crixus or one of their own created gladiators as they battle with friends offline or in online multiplayer to join the ranks on the worldwide leaderboards.",
-  "CommunityRating": "2.5",
-  "ESRB": "M - Mature",
-  "Genres": "Fighting",
-  "Developer": "Kung Fu Factory",
-  "Publisher": "Ubisoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "fc551624-f685-4b66-8d52-4bbd0b7f790a.png",
-        "Type": "Banner",
-        "CRC32": "477463740",
-        "URL": "http://images.launchbox-app.com/fc551624-f685-4b66-8d52-4bbd0b7f790a.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3227840173",
         "FileName": "49e788f4-aa38-4ea2-bad0-74385b0891a2.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3227840173",
         "URL": "http://images.launchbox-app.com/49e788f4-aa38-4ea2-bad0-74385b0891a2.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "477463740",
+        "FileName": "fc551624-f685-4b66-8d52-4bbd0b7f790a.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/fc551624-f685-4b66-8d52-4bbd0b7f790a.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "162358099",
           "FileName": "282958d8-4b67-4173-953b-3653570f7ab8.jpg",
           "Type": "Box - Front",
-          "CRC32": "162358099",
           "URL": "http://images.launchbox-app.com/282958d8-4b67-4173-953b-3653570f7ab8.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "3700269691",
         "FileName": "5214ecbd-cdbb-465d-a2d3-499f07dd5d09.png",
         "Type": "Clear Logo",
-        "CRC32": "3700269691",
         "URL": "http://images.launchbox-app.com/5214ecbd-cdbb-465d-a2d3-499f07dd5d09.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.5",
+  "DatabaseID": "16665",
+  "Developer": "Kung Fu Factory",
+  "ESRB": "M - Mature",
+  "Genres": "Fighting",
+  "Name": "Spartacus Legends",
+  "Overview": "Featuring thousands of ruthless weapon combinations and a robust skill system, Spartacus Legends delivers a variety of tools for gamers to customize their gladiators and dismember their foes. Gamers will be able to fight as Spartacus, Crixus or one of their own created gladiators as they battle with friends offline or in online multiplayer to join the ranks on the worldwide leaderboards.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2013-06-26T00:00:00+00:00"
 }

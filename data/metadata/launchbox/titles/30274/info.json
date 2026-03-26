@@ -1,64 +1,64 @@
 {
-  "Name": "Madden NFL 16",
-  "DatabaseID": "30274",
-  "ReleaseDate": "2015-08-25T00:00:00+00:00",
-  "Overview": "Be the playmaker in Madden NFL 16 with all-new controls that allow you to dominate in the battle for air supremacy. New QB mechanics including body-relative throws and touch passes provide unprecedented depth and control while under center. Combined with a new risk/reward catch and pass-defend system, get ready for the biggest WOW moments in franchise history.",
-  "VideoURL": "http://www.youtube.com/watch?v=hqq6bZPA17U",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Tiburon",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2944564726",
         "FileName": "03454d84-6257-4cf9-8e53-264f852c490f.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2944564726",
         "URL": "http://images.launchbox-app.com/03454d84-6257-4cf9-8e53-264f852c490f.jpg"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_389fb518-4415-4ce4-8a72-2f180a877f51.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1927563433",
+          "FileName": "r2_389fb518-4415-4ce4-8a72-2f180a877f51.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_389fb518-4415-4ce4-8a72-2f180a877f51.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "99963862",
           "FileName": "a8b5d520-fd05-4970-8b9a-c2dd23f5341f.jpg",
           "Type": "Box - Front",
-          "CRC32": "99963862",
           "URL": "http://images.launchbox-app.com/a8b5d520-fd05-4970-8b9a-c2dd23f5341f.jpg"
         },
         {
-          "FileName": "r2_d7aa0744-5259-4d76-9596-7ef487f50055.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3111666621",
+          "FileName": "r2_d7aa0744-5259-4d76-9596-7ef487f50055.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d7aa0744-5259-4d76-9596-7ef487f50055.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_1b65f4a4-e142-425b-910d-0ae945107f56.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1763700347",
+        "FileName": "r2_1b65f4a4-e142-425b-910d-0ae945107f56.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_1b65f4a4-e142-425b-910d-0ae945107f56.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "303136011",
         "FileName": "56c055c7-b084-477f-8f2e-008cf3b1999f.png",
         "Type": "Clear Logo",
-        "CRC32": "303136011",
         "URL": "http://images.launchbox-app.com/56c055c7-b084-477f-8f2e-008cf3b1999f.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "30274",
+  "Developer": "Electronic Arts Tiburon",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Madden NFL 16",
+  "Overview": "Be the playmaker in Madden NFL 16 with all-new controls that allow you to dominate in the battle for air supremacy. New QB mechanics including body-relative throws and touch passes provide unprecedented depth and control while under center. Combined with a new risk/reward catch and pass-defend system, get ready for the biggest WOW moments in franchise history.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2015-08-25T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=hqq6bZPA17U"
 }

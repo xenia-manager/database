@@ -1,55 +1,55 @@
 {
-  "Name": "Rainbow Islands: Towering Adventure!",
-  "DatabaseID": "181824",
-  "ReleaseDate": "2009-10-28T00:00:00+00:00",
-  "Overview": "As a spin-off of the Bubble Bobble series, the game features slightly similar gameplay. The player will be able to play as either Bubblun or Bobblun (aka 'Bubby & Bobby' more commonly known as 'Bub & Bob'), or both, who have to make their way to the top of several long, vertical stages with the aid of rainbows, which they can create.\n\nInstead of health or a set number of lives, the game uses a time limit, which ends the game if it reaches zero. Getting hit by enemies will lose valuable seconds, but defeating enemies with rainbows will sprout forth gems that can replenish time. By defeating multiple enemies in a row, more valuable gems with bigger time bonuses are awarded. At certain points in the game, Dr Crescent will attack from below in one of his machines. Players can either try to defeat him, or evade him until the next checkpoint. By collecting seven colored gems, players can use a special attack against these mini-bosses.\n\nIn the Xbox Live Arcade version, players can use their Avatars in the Time Attack and Challenge modes.",
-  "CommunityRating": "2.875",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Rainbow_Islands:_Towering_Adventure!",
-  "ESRB": "E - Everyone",
-  "Genres": "Platform",
-  "Developer": "Taito",
-  "Publisher": "Square Enix",
   "Artwork": {
     "Banner": [
       {
+        "CRC32": "1860472991",
         "FileName": "60786b33-f06d-471c-8cc6-38221c07cb5e.png",
         "Type": "Banner",
-        "CRC32": "1860472991",
         "URL": "http://images.launchbox-app.com/60786b33-f06d-471c-8cc6-38221c07cb5e.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "4c43cf2c-3aa2-4f3c-b766-a926b227242c.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2196826328",
+          "FileName": "4c43cf2c-3aa2-4f3c-b766-a926b227242c.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4c43cf2c-3aa2-4f3c-b766-a926b227242c.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2362270952",
+        "FileName": "cce31081-7d6c-460b-a9e3-e69904d014aa.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/cce31081-7d6c-460b-a9e3-e69904d014aa.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "1942113445",
         "FileName": "2390c867-a7b2-4334-8a07-2c3cd55dd0d4.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1942113445",
         "URL": "http://images.launchbox-app.com/2390c867-a7b2-4334-8a07-2c3cd55dd0d4.jpg"
       },
       {
+        "CRC32": "4166071076",
         "FileName": "e15bc17c-9fef-495a-bf99-dd3a71bb6e41.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "4166071076",
         "URL": "http://images.launchbox-app.com/e15bc17c-9fef-495a-bf99-dd3a71bb6e41.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "cce31081-7d6c-460b-a9e3-e69904d014aa.png",
-        "Type": "Clear Logo",
-        "CRC32": "2362270952",
-        "URL": "http://images.launchbox-app.com/cce31081-7d6c-460b-a9e3-e69904d014aa.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "2.875",
+  "DatabaseID": "181824",
+  "Developer": "Taito",
+  "ESRB": "E - Everyone",
+  "Genres": "Platform",
+  "Name": "Rainbow Islands: Towering Adventure!",
+  "Overview": "As a spin-off of the Bubble Bobble series, the game features slightly similar gameplay. The player will be able to play as either Bubblun or Bobblun (aka 'Bubby & Bobby' more commonly known as 'Bub & Bob'), or both, who have to make their way to the top of several long, vertical stages with the aid of rainbows, which they can create.\n\nInstead of health or a set number of lives, the game uses a time limit, which ends the game if it reaches zero. Getting hit by enemies will lose valuable seconds, but defeating enemies with rainbows will sprout forth gems that can replenish time. By defeating multiple enemies in a row, more valuable gems with bigger time bonuses are awarded. At certain points in the game, Dr Crescent will attack from below in one of his machines. Players can either try to defeat him, or evade him until the next checkpoint. By collecting seven colored gems, players can use a special attack against these mini-bosses.\n\nIn the Xbox Live Arcade version, players can use their Avatars in the Time Attack and Challenge modes.",
+  "Publisher": "Square Enix",
+  "ReleaseDate": "2009-10-28T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Rainbow_Islands:_Towering_Adventure!"
 }

@@ -1,63 +1,63 @@
 {
-  "Name": "Phantom Breaker: Battle Grounds",
-  "DatabaseID": "94574",
-  "ReleaseDate": "2013-02-27T00:00:00+00:00",
-  "Overview": "Now any ground is a battle ground! \n\nPhantom Breaker: Battle Grounds is a 2D beat 'em up from Mages/5pb, the makers of Steins;Gate, Bullet Soul, and other great games. Choose a fighter and battle against the bizarre minions of the evil wizard Phantom. Enjoy classic beat 'em up gameplay with a fighting game twist. Dash through colorful Tokyo locales, strengthen your characters, team up with your friends, and fight dragons and killer robots!",
-  "VideoURL": "https://www.youtube.com/watch?v=oTHeTmcA6-U",
-  "CommunityRating": "2.91666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Phantom_Breaker:_Battle_Grounds",
-  "ESRB": "T - Teen",
-  "Genres": "Beat 'em Up",
-  "Developer": "5pb.",
-  "Publisher": "5pb.",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2089606887",
         "FileName": "98c17532-789b-4c72-9b2d-b6d945fcfd2b.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2089606887",
         "URL": "http://images.launchbox-app.com/98c17532-789b-4c72-9b2d-b6d945fcfd2b.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c5d7434e-f4ab-4a21-9bf7-aa9a7be5cee4.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2444607566",
+          "FileName": "c5d7434e-f4ab-4a21-9bf7-aa9a7be5cee4.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c5d7434e-f4ab-4a21-9bf7-aa9a7be5cee4.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2035424660",
+        "FileName": "6864fe81-77a4-4f69-a394-76f427006ff3.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/6864fe81-77a4-4f69-a394-76f427006ff3.png"
+      }
+    ],
     "Screenshots": [
       {
-        "FileName": "d80c6655-3b54-43bc-a4ce-58818ae0e75e.jpg",
+        "CRC32": "1447821606",
+        "FileName": "26af3ab3-1763-4d50-97ff-2ca4444464d4.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "4016706554",
-        "URL": "http://images.launchbox-app.com/d80c6655-3b54-43bc-a4ce-58818ae0e75e.jpg"
+        "URL": "http://images.launchbox-app.com/26af3ab3-1763-4d50-97ff-2ca4444464d4.jpg"
       },
       {
+        "CRC32": "2210098810",
         "FileName": "8cd4aa74-be14-4951-8e16-bedeffa9412f.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2210098810",
         "URL": "http://images.launchbox-app.com/8cd4aa74-be14-4951-8e16-bedeffa9412f.jpg"
       },
       {
-        "FileName": "26af3ab3-1763-4d50-97ff-2ca4444464d4.jpg",
+        "CRC32": "4016706554",
+        "FileName": "d80c6655-3b54-43bc-a4ce-58818ae0e75e.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1447821606",
-        "URL": "http://images.launchbox-app.com/26af3ab3-1763-4d50-97ff-2ca4444464d4.jpg"
-      }
-    ],
-    "Other": [
-      {
-        "FileName": "6864fe81-77a4-4f69-a394-76f427006ff3.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "2035424660",
-        "URL": "http://images.launchbox-app.com/6864fe81-77a4-4f69-a394-76f427006ff3.png"
+        "URL": "http://images.launchbox-app.com/d80c6655-3b54-43bc-a4ce-58818ae0e75e.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.91666666666667",
+  "DatabaseID": "94574",
+  "Developer": "5pb.",
+  "ESRB": "T - Teen",
+  "Genres": "Beat 'em Up",
+  "Name": "Phantom Breaker: Battle Grounds",
+  "Overview": "Now any ground is a battle ground! \n\nPhantom Breaker: Battle Grounds is a 2D beat 'em up from Mages/5pb, the makers of Steins;Gate, Bullet Soul, and other great games. Choose a fighter and battle against the bizarre minions of the evil wizard Phantom. Enjoy classic beat 'em up gameplay with a fighting game twist. Dash through colorful Tokyo locales, strengthen your characters, team up with your friends, and fight dragons and killer robots!",
+  "Publisher": "5pb.",
+  "ReleaseDate": "2013-02-27T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=oTHeTmcA6-U",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Phantom_Breaker:_Battle_Grounds"
 }

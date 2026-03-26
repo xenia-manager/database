@@ -1,162 +1,162 @@
 {
-  "Name": "Dead Island: Riptide",
-  "DatabaseID": "16824",
-  "ReleaseDate": "2013-04-23T00:00:00+00:00",
-  "Overview": "Players can choose any of the four survivors, each with their own abilities (even starting with a save game of the character from the previous title), or control the new character, John Morgan, who is also immune. He has a powerful kick attack that is very useful in close combat situations. The gameplay is largely identical as the survivor roams the surroundings, defeats enemies and gathers tools and weapons that can be customized and upgraded. The tropical setting is retained, but the surroundings are diversified through towns, cities and jungle. Water also plays an important role now, with large areas and cities that are flooded and many parts that can be traveled by boat. Characters can still move by foot or use a vehicle. Next to the regular quests that mainly require the character to fetch items, there are hub defense missions where a certain area needs to be barricaded and defended for a set amount of time. The game offers new weapons and customization options, as well as new enemies. Unlike in the first game, firearms are available almost right away. Thus, the player has the choice to play it as a first-person shooter rather than a brawler like the first game emphasized on.",
-  "VideoURL": "http://www.youtube.com/watch?v=mEmXLn7mSM8",
-  "CommunityRating": "4.16666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dead_Island:_Riptide",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Techland",
-  "Publisher": "Deep Silver",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_23acbe54-709f-4cf0-a95d-7b97225da867.jpg",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1768864198",
-        "URL": "http://images.launchbox-app.com/r2_23acbe54-709f-4cf0-a95d-7b97225da867.jpg"
-      }
-    ],
     "Background": [
       {
-        "FileName": "bb78f709-ffba-4664-a548-fc1f62ab62ea.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2656956902",
-        "URL": "http://images.launchbox-app.com/bb78f709-ffba-4664-a548-fc1f62ab62ea.jpg"
-      },
-      {
+        "CRC32": "256008514",
         "FileName": "b7f40299-574b-4a99-829d-1e0d6f090f9d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "256008514",
         "URL": "http://images.launchbox-app.com/b7f40299-574b-4a99-829d-1e0d6f090f9d.jpg"
       },
       {
+        "CRC32": "2656956902",
+        "FileName": "bb78f709-ffba-4664-a548-fc1f62ab62ea.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/bb78f709-ffba-4664-a548-fc1f62ab62ea.jpg"
+      },
+      {
+        "CRC32": "3129029096",
         "FileName": "cd1ba660-a671-42ca-a8c5-02e79fc9609f.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3129029096",
         "URL": "http://images.launchbox-app.com/cd1ba660-a671-42ca-a8c5-02e79fc9609f.jpg"
       },
       {
-        "FileName": "r2_aec6f8e0-8646-417c-ab8a-3c2712df370f.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "672397444",
+        "FileName": "r2_9e2440fd-63be-4641-8c1d-e95a63aa135b.jpg",
         "Region": "World",
-        "CRC32": "2719171761",
-        "URL": "http://images.launchbox-app.com/r2_aec6f8e0-8646-417c-ab8a-3c2712df370f.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_9e2440fd-63be-4641-8c1d-e95a63aa135b.jpg"
       },
       {
-        "FileName": "r2_9e2440fd-63be-4641-8c1d-e95a63aa135b.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "2719171761",
+        "FileName": "r2_aec6f8e0-8646-417c-ab8a-3c2712df370f.jpg",
         "Region": "World",
-        "CRC32": "672397444",
-        "URL": "http://images.launchbox-app.com/r2_9e2440fd-63be-4641-8c1d-e95a63aa135b.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_aec6f8e0-8646-417c-ab8a-3c2712df370f.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1768864198",
+        "FileName": "r2_23acbe54-709f-4cf0-a95d-7b97225da867.jpg",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_23acbe54-709f-4cf0-a95d-7b97225da867.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "5b97d829-65fe-4c75-846a-6650c6866635.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "3629139498",
+          "FileName": "5b97d829-65fe-4c75-846a-6650c6866635.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/5b97d829-65fe-4c75-846a-6650c6866635.png"
         },
         {
-          "FileName": "r2_dedbc26c-27b1-4ce5-98b2-40414cbef00d.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "4281018124",
+          "FileName": "r2_dedbc26c-27b1-4ce5-98b2-40414cbef00d.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_dedbc26c-27b1-4ce5-98b2-40414cbef00d.png"
         }
       ],
       "Back": [
         {
-          "FileName": "9328764e-d280-437f-a7e1-3ddacacabcd1.jpg",
-          "Type": "Box - Back",
-          "Region": "Australia",
           "CRC32": "4003100648",
+          "FileName": "9328764e-d280-437f-a7e1-3ddacacabcd1.jpg",
+          "Region": "Australia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/9328764e-d280-437f-a7e1-3ddacacabcd1.jpg"
         },
         {
-          "FileName": "24edf94a-6b5b-40d2-8107-a5ad1933670c.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "1470058471",
+          "FileName": "24edf94a-6b5b-40d2-8107-a5ad1933670c.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/24edf94a-6b5b-40d2-8107-a5ad1933670c.jpg"
         },
         {
-          "FileName": "r2_99fe69be-b9d7-4a27-9321-f6ca9f5d3b1c.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1047089871",
+          "FileName": "r2_99fe69be-b9d7-4a27-9321-f6ca9f5d3b1c.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_99fe69be-b9d7-4a27-9321-f6ca9f5d3b1c.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "6a672b32-34ef-40ab-b769-e125086109d8.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "2892895183",
+          "FileName": "6a672b32-34ef-40ab-b769-e125086109d8.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6a672b32-34ef-40ab-b769-e125086109d8.jpg"
         },
         {
-          "FileName": "bcd721cd-7ef7-4775-ae6a-bee0c0104088.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "1714288284",
-          "URL": "http://images.launchbox-app.com/bcd721cd-7ef7-4775-ae6a-bee0c0104088.jpg"
-        },
-        {
-          "FileName": "1a984da5-b98d-4a65-8409-2a602f4fb118.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "1972745238",
+          "FileName": "1a984da5-b98d-4a65-8409-2a602f4fb118.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1a984da5-b98d-4a65-8409-2a602f4fb118.jpg"
         },
         {
-          "FileName": "3ac0507e-9aa0-427c-a952-b876a6569416.jpg",
+          "CRC32": "1714288284",
+          "FileName": "bcd721cd-7ef7-4775-ae6a-bee0c0104088.jpg",
+          "Region": "Europe",
           "Type": "Box - Front",
-          "Region": "North America",
+          "URL": "http://images.launchbox-app.com/bcd721cd-7ef7-4775-ae6a-bee0c0104088.jpg"
+        },
+        {
           "CRC32": "3079197000",
+          "FileName": "3ac0507e-9aa0-427c-a952-b876a6569416.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/3ac0507e-9aa0-427c-a952-b876a6569416.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "2756d120-b1fc-4858-a133-2d268fe3272e.jpg",
-          "Type": "Box - Spine",
-          "Region": "Australia",
           "CRC32": "4242716237",
+          "FileName": "2756d120-b1fc-4858-a133-2d268fe3272e.jpg",
+          "Region": "Australia",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/2756d120-b1fc-4858-a133-2d268fe3272e.jpg"
         },
         {
-          "FileName": "df23787d-3636-4112-b4f3-5689e68cf849.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "599257260",
+          "FileName": "df23787d-3636-4112-b4f3-5689e68cf849.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/df23787d-3636-4112-b4f3-5689e68cf849.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_5778d5f4-5723-413a-acd6-ea81288a79d5.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "587511975",
+        "FileName": "r2_5778d5f4-5723-413a-acd6-ea81288a79d5.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_5778d5f4-5723-413a-acd6-ea81288a79d5.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3092933774",
         "FileName": "eb97f983-0911-4d44-9ab8-b12f859f9746.png",
         "Type": "Clear Logo",
-        "CRC32": "3092933774",
         "URL": "http://images.launchbox-app.com/eb97f983-0911-4d44-9ab8-b12f859f9746.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.16666666666667",
+  "DatabaseID": "16824",
+  "Developer": "Techland",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Dead Island: Riptide",
+  "Overview": "Players can choose any of the four survivors, each with their own abilities (even starting with a save game of the character from the previous title), or control the new character, John Morgan, who is also immune. He has a powerful kick attack that is very useful in close combat situations. The gameplay is largely identical as the survivor roams the surroundings, defeats enemies and gathers tools and weapons that can be customized and upgraded. The tropical setting is retained, but the surroundings are diversified through towns, cities and jungle. Water also plays an important role now, with large areas and cities that are flooded and many parts that can be traveled by boat. Characters can still move by foot or use a vehicle. Next to the regular quests that mainly require the character to fetch items, there are hub defense missions where a certain area needs to be barricaded and defended for a set amount of time. The game offers new weapons and customization options, as well as new enemies. Unlike in the first game, firearms are available almost right away. Thus, the player has the choice to play it as a first-person shooter rather than a brawler like the first game emphasized on.",
+  "Publisher": "Deep Silver",
+  "ReleaseDate": "2013-04-23T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=mEmXLn7mSM8",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dead_Island:_Riptide"
 }

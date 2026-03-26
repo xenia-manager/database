@@ -1,82 +1,82 @@
 {
-  "Name": "Boogie Bunnies",
-  "DatabaseID": "209157",
-  "ReleaseDate": "2008-01-16T00:00:00+00:00",
-  "Overview": "Help the Boogie Bunnies achieve their dream of superstardom as they shimmy shake their way through exotic, colorful destinations all the way to Hollywood. Only you can ensure they make it. In this revolutionary match-3 puzzle game, Boogie Bunnies lets you match up these wacky disco fur balls from three different sides—left, right, and from the bottom. Score chain combinations and watch them get their groove on. Let's get the party started! Play this great match-3 game with a twist at your own pace in three different game modes, Classic, Arcade, and Endless. Travel with the bunnies to the Arctic, Amazon, and Hollywood as they adopt the local culture.",
-  "CommunityRating": "3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Boogie_Bunnies",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "Artech Studios",
-  "Publisher": "Sierra Online",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "dd6e057c-b443-4aba-a536-93a17ff56deb.png",
-        "Type": "Banner",
-        "CRC32": "1620736565",
-        "URL": "http://images.launchbox-app.com/dd6e057c-b443-4aba-a536-93a17ff56deb.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3985795631",
         "FileName": "d4c81f5e-d0a9-4c50-b087-24e008c1c534.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3985795631",
         "URL": "http://images.launchbox-app.com/d4c81f5e-d0a9-4c50-b087-24e008c1c534.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1620736565",
+        "FileName": "dd6e057c-b443-4aba-a536-93a17ff56deb.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/dd6e057c-b443-4aba-a536-93a17ff56deb.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "0f3f3210-73a9-4e88-ae7b-f52e82f74d0c.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2462678963",
+          "FileName": "0f3f3210-73a9-4e88-ae7b-f52e82f74d0c.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0f3f3210-73a9-4e88-ae7b-f52e82f74d0c.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "3247087983",
+        "FileName": "8b7ee3f5-e16d-438a-92c6-032d88de16c7.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/8b7ee3f5-e16d-438a-92c6-032d88de16c7.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "3934862967",
         "FileName": "c867cfd7-7213-40c2-9f9f-ce717c5d8f3e.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "3934862967",
         "URL": "http://images.launchbox-app.com/c867cfd7-7213-40c2-9f9f-ce717c5d8f3e.jpg"
       },
       {
-        "FileName": "341ce690-e813-4c03-8957-1ec52e1b1aca.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "996284254",
-        "URL": "http://images.launchbox-app.com/341ce690-e813-4c03-8957-1ec52e1b1aca.jpg"
-      },
-      {
-        "FileName": "469194b2-3866-4023-a6b5-9dd97c21cb6a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "168611857",
-        "URL": "http://images.launchbox-app.com/469194b2-3866-4023-a6b5-9dd97c21cb6a.jpg"
-      },
-      {
+        "CRC32": "2613864623",
         "FileName": "26c9ae53-ac94-4a51-98a9-60eecf95d0cd.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2613864623",
         "URL": "http://images.launchbox-app.com/26c9ae53-ac94-4a51-98a9-60eecf95d0cd.jpg"
       },
       {
+        "CRC32": "996284254",
+        "FileName": "341ce690-e813-4c03-8957-1ec52e1b1aca.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/341ce690-e813-4c03-8957-1ec52e1b1aca.jpg"
+      },
+      {
+        "CRC32": "168611857",
+        "FileName": "469194b2-3866-4023-a6b5-9dd97c21cb6a.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/469194b2-3866-4023-a6b5-9dd97c21cb6a.jpg"
+      },
+      {
+        "CRC32": "2905344023",
         "FileName": "5a1b1782-82da-41be-bac1-469f6b0cb5ac.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2905344023",
         "URL": "http://images.launchbox-app.com/5a1b1782-82da-41be-bac1-469f6b0cb5ac.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "8b7ee3f5-e16d-438a-92c6-032d88de16c7.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "3247087983",
-        "URL": "http://images.launchbox-app.com/8b7ee3f5-e16d-438a-92c6-032d88de16c7.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "209157",
+  "Developer": "Artech Studios",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Boogie Bunnies",
+  "Overview": "Help the Boogie Bunnies achieve their dream of superstardom as they shimmy shake their way through exotic, colorful destinations all the way to Hollywood. Only you can ensure they make it. In this revolutionary match-3 puzzle game, Boogie Bunnies lets you match up these wacky disco fur balls from three different sides—left, right, and from the bottom. Score chain combinations and watch them get their groove on. Let's get the party started! Play this great match-3 game with a twist at your own pace in three different game modes, Classic, Arcade, and Endless. Travel with the bunnies to the Arctic, Amazon, and Hollywood as they adopt the local culture.",
+  "Publisher": "Sierra Online",
+  "ReleaseDate": "2008-01-16T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Boogie_Bunnies"
 }

@@ -1,91 +1,91 @@
 {
-  "Name": "Duke Nukem: Manhattan Project",
-  "DatabaseID": "204543",
-  "ReleaseDate": "2010-06-23T00:00:00+00:00",
-  "Overview": "Manhattan Project features the humorously chauvinistic action hero Duke Nukem, this time fighting Mech Morphix, a mad scientist who is using a radioactive slime dubbed G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma) to metamorphose creatures into deadly monsters in order to take over Manhattan island, New York City.",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Duke_Nukem:_Manhattan_Project",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "3D Realms Entertainment",
-  "Publisher": "3D Realms Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7e1ccbb0-46d1-4c42-9cfc-9e3babc4c5b1.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3306029149",
-        "URL": "http://images.launchbox-app.com/r2_7e1ccbb0-46d1-4c42-9cfc-9e3babc4c5b1.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_b0cce013-c44c-499a-b229-984ec2d7664b.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3354459673",
+        "FileName": "r2_b0cce013-c44c-499a-b229-984ec2d7664b.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_b0cce013-c44c-499a-b229-984ec2d7664b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3306029149",
+        "FileName": "r2_7e1ccbb0-46d1-4c42-9cfc-9e3babc4c5b1.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7e1ccbb0-46d1-4c42-9cfc-9e3babc4c5b1.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "1d042bf0-ac7f-4e78-a795-0b208754b06d.png",
-          "Type": "Box - 3D",
-          "Region": "World",
           "CRC32": "1576084155",
+          "FileName": "1d042bf0-ac7f-4e78-a795-0b208754b06d.png",
+          "Region": "World",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/1d042bf0-ac7f-4e78-a795-0b208754b06d.png"
         }
       ],
       "Front": [
         {
-          "FileName": "f503e4d0-2e01-46c0-a264-e567e57deaef.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3163198973",
+          "FileName": "f503e4d0-2e01-46c0-a264-e567e57deaef.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f503e4d0-2e01-46c0-a264-e567e57deaef.jpg"
         },
         {
-          "FileName": "r2_f5a72139-e617-4ba3-84fe-695cb9950d9c.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "801606861",
+          "FileName": "r2_f5a72139-e617-4ba3-84fe-695cb9950d9c.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f5a72139-e617-4ba3-84fe-695cb9950d9c.jpg"
         },
         {
-          "FileName": "0c66db05-8f6f-4981-aab5-bf4b74be01e4.png",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "219487488",
+          "FileName": "0c66db05-8f6f-4981-aab5-bf4b74be01e4.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/0c66db05-8f6f-4981-aab5-bf4b74be01e4.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "eeafa0b2-7a49-49ff-9eb5-ade8b3015161.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "1728897037",
+        "FileName": "eeafa0b2-7a49-49ff-9eb5-ade8b3015161.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/eeafa0b2-7a49-49ff-9eb5-ade8b3015161.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_63826aab-48e9-4630-b91c-59e45d202b73.png",
-        "Type": "Clear Logo",
+        "CRC32": "2382148813",
+        "FileName": "e5520728-cb46-448c-8c54-fdf8b93b1a35.png",
         "Region": "World",
-        "CRC32": "2514554748",
-        "URL": "http://images.launchbox-app.com/r2_63826aab-48e9-4630-b91c-59e45d202b73.png"
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/e5520728-cb46-448c-8c54-fdf8b93b1a35.png"
       },
       {
-        "FileName": "e5520728-cb46-448c-8c54-fdf8b93b1a35.png",
-        "Type": "Clear Logo",
+        "CRC32": "2514554748",
+        "FileName": "r2_63826aab-48e9-4630-b91c-59e45d202b73.png",
         "Region": "World",
-        "CRC32": "2382148813",
-        "URL": "http://images.launchbox-app.com/e5520728-cb46-448c-8c54-fdf8b93b1a35.png"
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_63826aab-48e9-4630-b91c-59e45d202b73.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "204543",
+  "Developer": "3D Realms Entertainment",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Duke Nukem: Manhattan Project",
+  "Overview": "Manhattan Project features the humorously chauvinistic action hero Duke Nukem, this time fighting Mech Morphix, a mad scientist who is using a radioactive slime dubbed G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma) to metamorphose creatures into deadly monsters in order to take over Manhattan island, New York City.",
+  "Publisher": "3D Realms Entertainment",
+  "ReleaseDate": "2010-06-23T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Duke_Nukem:_Manhattan_Project"
 }

@@ -1,48 +1,48 @@
 {
-  "Name": "Snipers",
-  "DatabaseID": "162245",
-  "ReleaseDate": "2015-03-12T00:00:00+00:00",
-  "Overview": "Snipers is an online multiplayer first-person shooter with up to 12 players competing across 10 different maps and six gaming modes.",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "Bigben Interactive",
-  "Publisher": "BigBen Interactive",
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "c7c5d91c-c42e-49b9-bb52-6e1b5eb80529.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "3868767363",
+          "FileName": "c7c5d91c-c42e-49b9-bb52-6e1b5eb80529.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/c7c5d91c-c42e-49b9-bb52-6e1b5eb80529.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_84e20c5a-1dc6-4032-9649-f783257f9b27.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "751832976",
+          "FileName": "r2_84e20c5a-1dc6-4032-9649-f783257f9b27.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_84e20c5a-1dc6-4032-9649-f783257f9b27.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "c0965e2c-7e06-4c27-b851-beedc220bd62.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "1488579549",
+          "FileName": "c0965e2c-7e06-4c27-b851-beedc220bd62.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c0965e2c-7e06-4c27-b851-beedc220bd62.jpg"
         },
         {
-          "FileName": "r2_f8fe702d-e517-4da9-ac69-45ffab3309db.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2223178672",
+          "FileName": "r2_f8fe702d-e517-4da9-ac69-45ffab3309db.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f8fe702d-e517-4da9-ac69-45ffab3309db.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "162245",
+  "Developer": "Bigben Interactive",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "Snipers",
+  "Overview": "Snipers is an online multiplayer first-person shooter with up to 12 players competing across 10 different maps and six gaming modes.",
+  "Publisher": "BigBen Interactive",
+  "ReleaseDate": "2015-03-12T00:00:00+00:00"
 }

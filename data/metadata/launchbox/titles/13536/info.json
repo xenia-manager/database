@@ -1,65 +1,65 @@
 {
-  "Name": "Jeopardy!",
-  "DatabaseID": "13536",
-  "ReleaseDate": "2012-10-25T00:00:00+00:00",
-  "Overview": "Join Alex Trebek and play as a contestant on Americas Favorite Quiz Show!\" \n\nTest your knowledge to make it to Final Jeopardy! and the coveted Winners Circle! \n\n-Use your quick wit to play 3,000 clues in Jeopardy!, Double Jeopardy! and Final Jeopardy! \n-The complete Jeopardy! Clue Crew of Jimmy, Kelly and Sarah bring the clues to life the first time in a game format \n-Vibrant HD graphics, improved menu interface and fresh in-game features! \n-Play in single player mode with the Wii U GamePad or connect your Wii U to the TV and play as a family",
-  "CommunityRating": "2.5",
-  "ESRB": "E - Everyone",
-  "Genres": "Quiz",
-  "Developer": "Pipeworks",
-  "Publisher": "THQ",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_1edfbdf2-90d3-4808-8856-0ee92045cf90.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3898822097",
-        "URL": "http://images.launchbox-app.com/r2_1edfbdf2-90d3-4808-8856-0ee92045cf90.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2464801192",
         "FileName": "f704fa89-47a4-44c0-a569-6364ec2f08d5.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2464801192",
         "URL": "http://images.launchbox-app.com/f704fa89-47a4-44c0-a569-6364ec2f08d5.jpg"
       },
       {
-        "FileName": "r2_de5f576b-a06e-4fce-910c-80c9ae72fa43.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3236919189",
+        "FileName": "r2_de5f576b-a06e-4fce-910c-80c9ae72fa43.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_de5f576b-a06e-4fce-910c-80c9ae72fa43.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3898822097",
+        "FileName": "r2_1edfbdf2-90d3-4808-8856-0ee92045cf90.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_1edfbdf2-90d3-4808-8856-0ee92045cf90.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "2935d5f4-6f29-413c-afca-d0193de6057a.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1784168523",
+          "FileName": "2935d5f4-6f29-413c-afca-d0193de6057a.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/2935d5f4-6f29-413c-afca-d0193de6057a.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_ead1c747-97b3-4e7c-8553-38b3b4583a6d.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3918322334",
+        "FileName": "r2_ead1c747-97b3-4e7c-8553-38b3b4583a6d.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_ead1c747-97b3-4e7c-8553-38b3b4583a6d.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3090661413",
         "FileName": "c372a869-925d-4efe-ab99-2ce1ebee7ed4.png",
         "Type": "Clear Logo",
-        "CRC32": "3090661413",
         "URL": "http://images.launchbox-app.com/c372a869-925d-4efe-ab99-2ce1ebee7ed4.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.5",
+  "DatabaseID": "13536",
+  "Developer": "Pipeworks",
+  "ESRB": "E - Everyone",
+  "Genres": "Quiz",
+  "Name": "Jeopardy!",
+  "Overview": "Join Alex Trebek and play as a contestant on Americas Favorite Quiz Show!\" \n\nTest your knowledge to make it to Final Jeopardy! and the coveted Winners Circle! \n\n-Use your quick wit to play 3,000 clues in Jeopardy!, Double Jeopardy! and Final Jeopardy! \n-The complete Jeopardy! Clue Crew of Jimmy, Kelly and Sarah bring the clues to life the first time in a game format \n-Vibrant HD graphics, improved menu interface and fresh in-game features! \n-Play in single player mode with the Wii U GamePad or connect your Wii U to the TV and play as a family",
+  "Publisher": "THQ",
+  "ReleaseDate": "2012-10-25T00:00:00+00:00"
 }

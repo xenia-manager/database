@@ -1,51 +1,51 @@
 {
-  "Name": "Dustforce",
-  "DatabaseID": "209326",
-  "ReleaseDate": "2014-04-25T00:00:00+00:00",
-  "Overview": "Clean up the world with style! As an acrobatic janitor, you are an adept force against dust and disorder. Leap and dash off walls and ceilings, and deftly traverse precarious environments. Cleanse each level swiftly and thoroughly to achieve mastery in this 2D sweep-’em-up platformer.",
-  "CommunityRating": "4.25",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Platform",
-  "Developer": "QLOC",
-  "Publisher": "Capcom",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_5887ee29-2564-43ab-83a3-088981c2e129.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3911252724",
-        "URL": "http://images.launchbox-app.com/r2_5887ee29-2564-43ab-83a3-088981c2e129.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_a7d5eb54-5ff7-4c0f-942b-ca35737ad53f.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1293887109",
+        "FileName": "r2_a7d5eb54-5ff7-4c0f-942b-ca35737ad53f.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_a7d5eb54-5ff7-4c0f-942b-ca35737ad53f.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3911252724",
+        "FileName": "r2_5887ee29-2564-43ab-83a3-088981c2e129.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_5887ee29-2564-43ab-83a3-088981c2e129.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "efc27eaa-aa23-4c59-802c-631ec59c82de.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3521402873",
+          "FileName": "efc27eaa-aa23-4c59-802c-631ec59c82de.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/efc27eaa-aa23-4c59-802c-631ec59c82de.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_c93f1f39-09aa-415e-b94b-ff88cf0dc1b2.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1326375176",
+        "FileName": "r2_c93f1f39-09aa-415e-b94b-ff88cf0dc1b2.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_c93f1f39-09aa-415e-b94b-ff88cf0dc1b2.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.25",
+  "DatabaseID": "209326",
+  "Developer": "QLOC",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Platform",
+  "Name": "Dustforce",
+  "Overview": "Clean up the world with style! As an acrobatic janitor, you are an adept force against dust and disorder. Leap and dash off walls and ceilings, and deftly traverse precarious environments. Cleanse each level swiftly and thoroughly to achieve mastery in this 2D sweep-’em-up platformer.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2014-04-25T00:00:00+00:00"
 }

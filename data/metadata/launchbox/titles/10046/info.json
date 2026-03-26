@@ -1,89 +1,89 @@
 {
-  "Name": "Super Street Fighter IV: Arcade Edition",
-  "DatabaseID": "10046",
-  "ReleaseDate": "2010-12-16T00:00:00+00:00",
-  "Overview": "On April 4, 2010, an arcade version was confirmed by producer Yoshinori Ono during the Japanese Street Fighter IV finals. Various playtests were handled in various arcades as well as appearing during the Street Fighter IV finals at Tougeki - Super Battle Opera Shortly before release, images showing debug Xbox 360 achievements from Microsoft's PartnerNet service featuring characters from Arcade Edition were leaked, implying a future console release. During the launch of the Arcade Edition of Super Street Fighter IV, a launch trailer was uploaded teasing characters Evil Ryu and Oni. Various arcades around the United States who obtained Arcade Edition units also were able to gain access to the then unannounced characters planned for a later release. Videos featuring Evil Ryu and Oni were requested to be closed as well as accounts suspended at the request of Capcom. Evil Ryu became officially playable on March 25, 2011 while Oni was released on April 8, 2011.",
-  "VideoURL": "http://www.youtube.com/watch?v=E_RUWj4vUG0",
-  "CommunityRating": "4.02941176470588",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "Capcom",
-  "Publisher": "Capcom",
   "Artwork": {
     "Banner": [
       {
+        "CRC32": "3822980570",
         "FileName": "2316f266-fe33-4642-a13a-5b6637cd2680.png",
         "Type": "Banner",
-        "CRC32": "3822980570",
         "URL": "http://images.launchbox-app.com/2316f266-fe33-4642-a13a-5b6637cd2680.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "53d57ce7-2b0c-4256-806f-7a9c7694917f.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3731068663",
+          "FileName": "53d57ce7-2b0c-4256-806f-7a9c7694917f.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/53d57ce7-2b0c-4256-806f-7a9c7694917f.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_36dafde2-d9a7-4b0a-b759-ab1474b55bf3.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "804253922",
+          "FileName": "r2_36dafde2-d9a7-4b0a-b759-ab1474b55bf3.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_36dafde2-d9a7-4b0a-b759-ab1474b55bf3.jpg"
         },
         {
-          "FileName": "00d24a8f-7cda-4db2-8ea2-8c1df35b9b82.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "361800270",
+          "FileName": "00d24a8f-7cda-4db2-8ea2-8c1df35b9b82.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/00d24a8f-7cda-4db2-8ea2-8c1df35b9b82.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_ff2b845b-bace-4d84-bd48-1d463aa9f87f.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "193792196",
+          "FileName": "r2_ff2b845b-bace-4d84-bd48-1d463aa9f87f.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_ff2b845b-bace-4d84-bd48-1d463aa9f87f.jpg"
         },
         {
-          "FileName": "5f7b2f0f-3016-4710-b262-0fc608839345.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "932578230",
+          "FileName": "5f7b2f0f-3016-4710-b262-0fc608839345.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5f7b2f0f-3016-4710-b262-0fc608839345.png"
         },
         {
-          "FileName": "fca361dd-3073-4fd2-a6f5-f9afa76d5d33.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1697584458",
+          "FileName": "fca361dd-3073-4fd2-a6f5-f9afa76d5d33.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/fca361dd-3073-4fd2-a6f5-f9afa76d5d33.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_139947a6-6175-4313-92aa-379eac51ab16.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "1285090783",
+        "FileName": "r2_139947a6-6175-4313-92aa-379eac51ab16.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_139947a6-6175-4313-92aa-379eac51ab16.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "555273775",
         "FileName": "80dea800-aa80-426d-99a4-11d2b850d5ea.png",
         "Type": "Clear Logo",
-        "CRC32": "555273775",
         "URL": "http://images.launchbox-app.com/80dea800-aa80-426d-99a4-11d2b850d5ea.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.02941176470588",
+  "DatabaseID": "10046",
+  "Developer": "Capcom",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "Super Street Fighter IV: Arcade Edition",
+  "Overview": "On April 4, 2010, an arcade version was confirmed by producer Yoshinori Ono during the Japanese Street Fighter IV finals. Various playtests were handled in various arcades as well as appearing during the Street Fighter IV finals at Tougeki - Super Battle Opera Shortly before release, images showing debug Xbox 360 achievements from Microsoft's PartnerNet service featuring characters from Arcade Edition were leaked, implying a future console release. During the launch of the Arcade Edition of Super Street Fighter IV, a launch trailer was uploaded teasing characters Evil Ryu and Oni. Various arcades around the United States who obtained Arcade Edition units also were able to gain access to the then unannounced characters planned for a later release. Videos featuring Evil Ryu and Oni were requested to be closed as well as accounts suspended at the request of Capcom. Evil Ryu became officially playable on March 25, 2011 while Oni was released on April 8, 2011.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2010-12-16T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=E_RUWj4vUG0"
 }

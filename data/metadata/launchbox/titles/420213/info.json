@@ -1,76 +1,76 @@
 {
-  "Name": "Zoids Infinity EX Neo",
-  "DatabaseID": "420213",
-  "ReleaseDate": "2006-03-30T00:00:00+00:00",
-  "Overview": "Zoids Infinity EX Neo is a port of the arcade game Zoids Infinity. In this expanded version of the game, players could play against each other online through Xbox Live.",
-  "CommunityRating": "4.25",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/List_of_Zoids_video_games#Zoids_Infinity_EX_Neo_(Xbox_360)",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "TOMY",
-  "Publisher": "Tomy",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "a1e75064-0c91-43d7-aa5f-691863e6fb0c.png",
-        "Type": "Banner",
-        "CRC32": "756795731",
-        "URL": "http://images.launchbox-app.com/a1e75064-0c91-43d7-aa5f-691863e6fb0c.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "661889764",
         "FileName": "4ca309de-80f7-4e9f-9fd8-2177d697e578.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "661889764",
         "URL": "http://images.launchbox-app.com/4ca309de-80f7-4e9f-9fd8-2177d697e578.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "756795731",
+        "FileName": "a1e75064-0c91-43d7-aa5f-691863e6fb0c.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/a1e75064-0c91-43d7-aa5f-691863e6fb0c.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "f9b52581-563d-4278-8721-3fa7379b37cb.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "63041745",
+          "FileName": "f9b52581-563d-4278-8721-3fa7379b37cb.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/f9b52581-563d-4278-8721-3fa7379b37cb.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "8efee3cc-e747-49d0-b2ad-2129bb84b08d.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "1913965504",
+          "FileName": "8efee3cc-e747-49d0-b2ad-2129bb84b08d.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8efee3cc-e747-49d0-b2ad-2129bb84b08d.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "da6bf0db-0a8f-4d32-9785-73727e932028.jpg",
-          "Type": "Box - Spine",
-          "Region": "Japan",
           "CRC32": "1131828842",
+          "FileName": "da6bf0db-0a8f-4d32-9785-73727e932028.jpg",
+          "Region": "Japan",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/da6bf0db-0a8f-4d32-9785-73727e932028.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "95688948-3586-41c8-bee0-9d1180bd6a60.png",
-        "Type": "Disc",
-        "Region": "Japan",
         "CRC32": "3528360675",
+        "FileName": "95688948-3586-41c8-bee0-9d1180bd6a60.png",
+        "Region": "Japan",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/95688948-3586-41c8-bee0-9d1180bd6a60.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2475516222",
         "FileName": "2405edcb-1399-49a5-ae46-66ca84aa7a63.png",
         "Type": "Clear Logo",
-        "CRC32": "2475516222",
         "URL": "http://images.launchbox-app.com/2405edcb-1399-49a5-ae46-66ca84aa7a63.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.25",
+  "DatabaseID": "420213",
+  "Developer": "TOMY",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "Zoids Infinity EX Neo",
+  "Overview": "Zoids Infinity EX Neo is a port of the arcade game Zoids Infinity. In this expanded version of the game, players could play against each other online through Xbox Live.",
+  "Publisher": "Tomy",
+  "ReleaseDate": "2006-03-30T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/List_of_Zoids_video_games#Zoids_Infinity_EX_Neo_(Xbox_360)"
 }

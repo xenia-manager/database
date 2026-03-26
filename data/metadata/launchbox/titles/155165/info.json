@@ -1,32 +1,32 @@
 {
-  "Name": "radiangames JoyJoy",
-  "DatabaseID": "155165",
-  "ReleaseDate": "2010-05-16T00:00:00+00:00",
-  "Overview": "Experience the fluid and intensely satisfying action of radiangames JoyJoy, the happy twin-stick shooter. This is the first game in the radiangames series.",
-  "VideoURL": "https://www.youtube.com/watch?v=TuhrBlVbWuE",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "radiangames",
-  "Publisher": "radiangames",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "bc22632b-b5a4-4d1b-b16c-22d142934d5b.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4067278609",
+          "FileName": "bc22632b-b5a4-4d1b-b16c-22d142934d5b.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/bc22632b-b5a4-4d1b-b16c-22d142934d5b.jpg"
         }
       ]
     },
     "Screenshots": [
       {
+        "CRC32": "3414974056",
         "FileName": "d50e9388-bdca-4dfb-a773-ce599a6c309a.png",
         "Type": "Screenshot - Game Title",
-        "CRC32": "3414974056",
         "URL": "http://images.launchbox-app.com/d50e9388-bdca-4dfb-a773-ce599a6c309a.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "155165",
+  "Developer": "radiangames",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "radiangames JoyJoy",
+  "Overview": "Experience the fluid and intensely satisfying action of radiangames JoyJoy, the happy twin-stick shooter. This is the first game in the radiangames series.",
+  "Publisher": "radiangames",
+  "ReleaseDate": "2010-05-16T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=TuhrBlVbWuE"
 }

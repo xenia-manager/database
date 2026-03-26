@@ -1,51 +1,51 @@
 {
-  "Name": "Kung Fu Strike: The Warrior's Rise",
-  "DatabaseID": "209418",
-  "ReleaseDate": "2012-09-05T00:00:00+00:00",
-  "Overview": "In Kung Fu Strike: The Warrior’s Rise, ancient China is being ripped apart by three warring forces, the Tian Empire, the invading forces of Shaa seeking to overthrow the Empire’s King, and a rebel uprising with their own agenda. Playing as martial arts master General Loh, you’re thrown into the middle of this bitter war armed only with your deadliest weapon: your fists. Fight your way through waves of enemies and towering bosses with lethal attacks, learn new skills to take down even the toughest opponent and see if you have what it takes to complete the frantic challenge modes. If going it alone is too much, then team up with a friend in co-op mode or show off your killer moves in the Versus Mode.",
-  "CommunityRating": "2",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "SouthPeak Interactive",
-  "Publisher": "Southpeak Interactive",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7ae23061-bf3b-498b-85dd-48a474e52768.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2439494935",
-        "URL": "http://images.launchbox-app.com/r2_7ae23061-bf3b-498b-85dd-48a474e52768.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_8ac70e76-e552-4280-bbaa-41a825584543.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2669980282",
+        "FileName": "r2_8ac70e76-e552-4280-bbaa-41a825584543.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8ac70e76-e552-4280-bbaa-41a825584543.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2439494935",
+        "FileName": "r2_7ae23061-bf3b-498b-85dd-48a474e52768.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7ae23061-bf3b-498b-85dd-48a474e52768.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "ae07a650-a203-478b-a53e-d6d82279f88d.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "4152805025",
+          "FileName": "ae07a650-a203-478b-a53e-d6d82279f88d.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ae07a650-a203-478b-a53e-d6d82279f88d.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_ce7006dd-25e2-4442-996b-33f956025c08.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1747141128",
+        "FileName": "r2_ce7006dd-25e2-4442-996b-33f956025c08.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_ce7006dd-25e2-4442-996b-33f956025c08.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2",
+  "DatabaseID": "209418",
+  "Developer": "SouthPeak Interactive",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "Kung Fu Strike: The Warrior's Rise",
+  "Overview": "In Kung Fu Strike: The Warrior’s Rise, ancient China is being ripped apart by three warring forces, the Tian Empire, the invading forces of Shaa seeking to overthrow the Empire’s King, and a rebel uprising with their own agenda. Playing as martial arts master General Loh, you’re thrown into the middle of this bitter war armed only with your deadliest weapon: your fists. Fight your way through waves of enemies and towering bosses with lethal attacks, learn new skills to take down even the toughest opponent and see if you have what it takes to complete the frantic challenge modes. If going it alone is too much, then team up with a friend in co-op mode or show off your killer moves in the Versus Mode.",
+  "Publisher": "Southpeak Interactive",
+  "ReleaseDate": "2012-09-05T00:00:00+00:00"
 }

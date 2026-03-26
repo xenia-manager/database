@@ -1,42 +1,42 @@
 {
-  "Name": "MLB Bobblehead Battle",
-  "DatabaseID": "199657",
-  "ReleaseDate": "2011-09-28T00:00:00+00:00",
-  "Overview": "Knock a curveball out of the ballpark with MLB Bobblehead Battle! This MLB bobblehead challenge features all of your favorite teams and players with a unique twist - it's entirely focused on batting! Create customized fields with various obstacles such as walls and slopes while outsmarting your opponent with a dynamic card system that allows customization of players and more!",
-  "VideoURL": "https://www.youtube.com/watch?v=qv9e65zBDSE",
-  "CommunityRating": "3.33333333333333",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Konami",
-  "Publisher": "Konami",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "39dab70f-0666-44cc-b8df-a38ab5ffe91b.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2377542080",
+          "FileName": "39dab70f-0666-44cc-b8df-a38ab5ffe91b.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/39dab70f-0666-44cc-b8df-a38ab5ffe91b.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "0837a69d-5a7d-470f-8430-5caddd005b9c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "North America",
-        "CRC32": "1064587407",
-        "URL": "http://images.launchbox-app.com/0837a69d-5a7d-470f-8430-5caddd005b9c.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "4077822457",
         "FileName": "13734bce-d7b0-4a15-bfad-41f30e01f629.png",
         "Type": "Clear Logo",
-        "CRC32": "4077822457",
         "URL": "http://images.launchbox-app.com/13734bce-d7b0-4a15-bfad-41f30e01f629.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1064587407",
+        "FileName": "0837a69d-5a7d-470f-8430-5caddd005b9c.jpg",
+        "Region": "North America",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/0837a69d-5a7d-470f-8430-5caddd005b9c.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.33333333333333",
+  "DatabaseID": "199657",
+  "Developer": "Konami",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "MLB Bobblehead Battle",
+  "Overview": "Knock a curveball out of the ballpark with MLB Bobblehead Battle! This MLB bobblehead challenge features all of your favorite teams and players with a unique twist - it's entirely focused on batting! Create customized fields with various obstacles such as walls and slopes while outsmarting your opponent with a dynamic card system that allows customization of players and more!",
+  "Publisher": "Konami",
+  "ReleaseDate": "2011-09-28T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=qv9e65zBDSE"
 }

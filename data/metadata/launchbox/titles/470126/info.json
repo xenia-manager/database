@@ -1,46 +1,46 @@
 {
-  "Name": "iCandy",
-  "DatabaseID": "470126",
-  "ReleaseDate": "2011-03-03T00:00:00+00:00",
-  "Overview": "iCandy is an addictive puzzle game full of delicious candies and gorgeous women! Place your tiles to clear the board. Unlock 25 trophies and 9 amazing pictures! Think you can handle it? 25 levels of fun await you!",
-  "VideoURL": "https://youtu.be/5QSAWLjifuQ",
-  "Genres": "Puzzle",
-  "Developer": "DandySoft",
-  "Publisher": "DandySoft",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "e7ae706a-db8e-4c82-baeb-194fb3be0925.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2566320866",
+          "FileName": "e7ae706a-db8e-4c82-baeb-194fb3be0925.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e7ae706a-db8e-4c82-baeb-194fb3be0925.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "9115293d-e16f-4798-83ea-549cf22b1ddf.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "412284220",
+        "FileName": "7742eb0f-2b17-40ac-be4b-c532adafeedc.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7742eb0f-2b17-40ac-be4b-c532adafeedc.jpg"
+      },
+      {
         "CRC32": "3515116029",
+        "FileName": "9115293d-e16f-4798-83ea-549cf22b1ddf.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/9115293d-e16f-4798-83ea-549cf22b1ddf.jpg"
       },
       {
-        "FileName": "9dafbb65-97ad-485c-8ccd-fcbbf635d7b2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1415695341",
-        "URL": "http://images.launchbox-app.com/9dafbb65-97ad-485c-8ccd-fcbbf635d7b2.jpg"
-      },
-      {
-        "FileName": "7742eb0f-2b17-40ac-be4b-c532adafeedc.jpg",
-        "Type": "Screenshot - Gameplay",
+        "FileName": "9dafbb65-97ad-485c-8ccd-fcbbf635d7b2.jpg",
         "Region": "World",
-        "CRC32": "412284220",
-        "URL": "http://images.launchbox-app.com/7742eb0f-2b17-40ac-be4b-c532adafeedc.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/9dafbb65-97ad-485c-8ccd-fcbbf635d7b2.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "470126",
+  "Developer": "DandySoft",
+  "Genres": "Puzzle",
+  "Name": "iCandy",
+  "Overview": "iCandy is an addictive puzzle game full of delicious candies and gorgeous women! Place your tiles to clear the board. Unlock 25 trophies and 9 amazing pictures! Think you can handle it? 25 levels of fun await you!",
+  "Publisher": "DandySoft",
+  "ReleaseDate": "2011-03-03T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/5QSAWLjifuQ"
 }

@@ -1,140 +1,140 @@
 {
-  "Name": "Halo Wars",
-  "DatabaseID": "847",
-  "ReleaseDate": "2009-03-03T00:00:00+00:00",
-  "Overview": "The year is 2531, twenty years prior to the events in Halo: Combat Evolved and the Covenant have found something on the planet Garvest. The UNSC ship \"Spirit of Fire\" is sent to investigate and stop whatever the enemy is up to. What the crew finds could be the only thing that stands between humanity and certain annihilation by the Covenant. Command large armies, lead them into battle, control their every move and use their abilities to gain the upper hand in combat.",
-  "VideoURL": "https://www.youtube.com/watch?v=LmR8l1Mo564",
-  "CommunityRating": "3.64705882352941",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Halo_Wars",
-  "ESRB": "T - Teen",
-  "Genres": "Strategy",
-  "Developer": "Ensemble Studios",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_4fced50c-b7c6-40e4-ba13-8719897ffa7c.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "84756785",
-        "URL": "http://images.launchbox-app.com/r2_4fced50c-b7c6-40e4-ba13-8719897ffa7c.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "d13e3dc8-73fb-4c26-af5f-d68145f9ebca.jpg",
+        "CRC32": "1801822376",
+        "FileName": "1c925ab1-eba7-4d29-bf43-6ca5f7e4666c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3517289428",
-        "URL": "http://images.launchbox-app.com/d13e3dc8-73fb-4c26-af5f-d68145f9ebca.jpg"
+        "URL": "http://images.launchbox-app.com/1c925ab1-eba7-4d29-bf43-6ca5f7e4666c.jpg"
       },
       {
+        "CRC32": "2328197205",
         "FileName": "6c4b3e36-41f7-4a4f-be41-8eabd00c5413.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2328197205",
         "URL": "http://images.launchbox-app.com/6c4b3e36-41f7-4a4f-be41-8eabd00c5413.jpg"
       },
       {
-        "FileName": "f372c33b-2409-4e7c-91ca-1937d059492c.jpg",
+        "CRC32": "3517289428",
+        "FileName": "d13e3dc8-73fb-4c26-af5f-d68145f9ebca.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3354227887",
-        "URL": "http://images.launchbox-app.com/f372c33b-2409-4e7c-91ca-1937d059492c.jpg"
+        "URL": "http://images.launchbox-app.com/d13e3dc8-73fb-4c26-af5f-d68145f9ebca.jpg"
       },
       {
-        "FileName": "1c925ab1-eba7-4d29-bf43-6ca5f7e4666c.jpg",
+        "CRC32": "3354227887",
+        "FileName": "f372c33b-2409-4e7c-91ca-1937d059492c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1801822376",
-        "URL": "http://images.launchbox-app.com/1c925ab1-eba7-4d29-bf43-6ca5f7e4666c.jpg"
+        "URL": "http://images.launchbox-app.com/f372c33b-2409-4e7c-91ca-1937d059492c.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "84756785",
+        "FileName": "r2_4fced50c-b7c6-40e4-ba13-8719897ffa7c.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_4fced50c-b7c6-40e4-ba13-8719897ffa7c.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "2158376177",
           "FileName": "5946d0e7-e1bf-4071-ac0d-7713b18e6af2.png",
           "Type": "Box - 3D",
-          "CRC32": "2158376177",
           "URL": "http://images.launchbox-app.com/5946d0e7-e1bf-4071-ac0d-7713b18e6af2.png"
         }
       ],
       "Back": [
         {
-          "FileName": "3cade303-ed53-4b0a-93a2-d858b8e9891c.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "564638531",
+          "FileName": "3cade303-ed53-4b0a-93a2-d858b8e9891c.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/3cade303-ed53-4b0a-93a2-d858b8e9891c.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_b7e8502c-4c4e-4b9b-9d0a-3f9d00c5cded.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2687392062",
+          "FileName": "r2_b7e8502c-4c4e-4b9b-9d0a-3f9d00c5cded.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_b7e8502c-4c4e-4b9b-9d0a-3f9d00c5cded.jpg"
         },
         {
-          "FileName": "5350e29f-343a-4ff3-a5e2-b4a133450f3f.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3104591205",
+          "FileName": "5350e29f-343a-4ff3-a5e2-b4a133450f3f.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5350e29f-343a-4ff3-a5e2-b4a133450f3f.jpg"
         },
         {
-          "FileName": "r2_005f7a96-ddd5-4662-9101-2dff5a81b978.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1854225385",
+          "FileName": "r2_005f7a96-ddd5-4662-9101-2dff5a81b978.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_005f7a96-ddd5-4662-9101-2dff5a81b978.jpg"
         },
         {
-          "FileName": "d40fbd45-f3b9-49e3-8854-bf75bdcf9b04.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "798215439",
+          "FileName": "d40fbd45-f3b9-49e3-8854-bf75bdcf9b04.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/d40fbd45-f3b9-49e3-8854-bf75bdcf9b04.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "8fc65367-bb0d-41c7-aa62-5bf9fa946061.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "722859674",
+          "FileName": "8fc65367-bb0d-41c7-aa62-5bf9fa946061.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/8fc65367-bb0d-41c7-aa62-5bf9fa946061.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "76dd1c70-dc5d-44b6-a997-0eba4dee5bb5.png",
-        "Type": "Disc",
-        "Region": "Australia",
         "CRC32": "883607655",
+        "FileName": "76dd1c70-dc5d-44b6-a997-0eba4dee5bb5.png",
+        "Region": "Australia",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/76dd1c70-dc5d-44b6-a997-0eba4dee5bb5.png"
       },
       {
-        "FileName": "r2_b6452379-7074-4256-a815-ba61c2f1e199.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "595461815",
+        "FileName": "r2_b6452379-7074-4256-a815-ba61c2f1e199.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_b6452379-7074-4256-a815-ba61c2f1e199.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "12509c3d-5ae4-4e63-b050-c3b632475fc8.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "176383752",
-        "URL": "http://images.launchbox-app.com/12509c3d-5ae4-4e63-b050-c3b632475fc8.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "1853904664",
         "FileName": "73ad9fd7-c5f0-4ede-9583-25639fd51f02.png",
         "Type": "Clear Logo",
-        "CRC32": "1853904664",
         "URL": "http://images.launchbox-app.com/73ad9fd7-c5f0-4ede-9583-25639fd51f02.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "176383752",
+        "FileName": "12509c3d-5ae4-4e63-b050-c3b632475fc8.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/12509c3d-5ae4-4e63-b050-c3b632475fc8.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.64705882352941",
+  "DatabaseID": "847",
+  "Developer": "Ensemble Studios",
+  "ESRB": "T - Teen",
+  "Genres": "Strategy",
+  "Name": "Halo Wars",
+  "Overview": "The year is 2531, twenty years prior to the events in Halo: Combat Evolved and the Covenant have found something on the planet Garvest. The UNSC ship \"Spirit of Fire\" is sent to investigate and stop whatever the enemy is up to. What the crew finds could be the only thing that stands between humanity and certain annihilation by the Covenant. Command large armies, lead them into battle, control their every move and use their abilities to gain the upper hand in combat.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2009-03-03T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=LmR8l1Mo564",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Halo_Wars"
 }

@@ -1,52 +1,52 @@
 {
-  "Name": "CLANNAD",
-  "DatabaseID": "458996",
-  "ReleaseDate": "2008-08-28T00:00:00+00:00",
-  "Overview": "The story follows the life of Tomoya Okazaki, from adolescence to adulthood. As an average high school student, he meets many people in his last year at school, including five girls, whose individual problems he helps resolve, and his life is further detailed after graduating from high school. The gameplay of Clannad follows a plot that branches into different scenarios based on various courses of interaction by the player character. The game was ranked as the best-selling PC game sold in Japan for the time of its release, and charted in the national top 50 several more times afterwards. Key went on to produce an adult spin-off titled Tomoyo After: It's a Wonderful Life in November 2005, which expanded on the scenario of Tomoyo Sakagami, one of the five heroines from Clannad.",
-  "VideoURL": "https://www.youtube.com/watch?v=hVfAzkKrGII",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Clannad_(video_game)",
-  "ESRB": "T - Teen",
-  "Genres": "Visual Novel",
-  "Developer": "Key",
-  "Publisher": "Prototype",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_078e1b35-d229-4e39-9904-72b0e4ce1ae8.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "3710034652",
-        "URL": "http://images.launchbox-app.com/r2_078e1b35-d229-4e39-9904-72b0e4ce1ae8.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_1558dbc7-e5ee-4f51-afbc-6ff390606990.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "193389639",
+        "FileName": "r2_1558dbc7-e5ee-4f51-afbc-6ff390606990.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_1558dbc7-e5ee-4f51-afbc-6ff390606990.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3710034652",
+        "FileName": "r2_078e1b35-d229-4e39-9904-72b0e4ce1ae8.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_078e1b35-d229-4e39-9904-72b0e4ce1ae8.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "30e891a7-ea0d-4e99-b7bb-1c2cce805724.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "3267944658",
+          "FileName": "30e891a7-ea0d-4e99-b7bb-1c2cce805724.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/30e891a7-ea0d-4e99-b7bb-1c2cce805724.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "0714ba5c-d575-40cc-b6b5-16e9ca9ac278.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "680422839",
+          "FileName": "0714ba5c-d575-40cc-b6b5-16e9ca9ac278.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0714ba5c-d575-40cc-b6b5-16e9ca9ac278.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "458996",
+  "Developer": "Key",
+  "ESRB": "T - Teen",
+  "Genres": "Visual Novel",
+  "Name": "CLANNAD",
+  "Overview": "The story follows the life of Tomoya Okazaki, from adolescence to adulthood. As an average high school student, he meets many people in his last year at school, including five girls, whose individual problems he helps resolve, and his life is further detailed after graduating from high school. The gameplay of Clannad follows a plot that branches into different scenarios based on various courses of interaction by the player character. The game was ranked as the best-selling PC game sold in Japan for the time of its release, and charted in the national top 50 several more times afterwards. Key went on to produce an adult spin-off titled Tomoyo After: It's a Wonderful Life in November 2005, which expanded on the scenario of Tomoyo Sakagami, one of the five heroines from Clannad.",
+  "Publisher": "Prototype",
+  "ReleaseDate": "2008-08-28T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=hVfAzkKrGII",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Clannad_(video_game)"
 }

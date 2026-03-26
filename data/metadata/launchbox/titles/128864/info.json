@@ -1,34 +1,34 @@
 {
-  "Name": "Apple Jack",
-  "DatabaseID": "128864",
-  "ReleaseDate": "2010-05-29T00:00:00+00:00",
-  "Overview": "Apple Jack places you in the shoes of the apple headed hero of the game - Jack, who's beloved pet dog is trapped atop of Mount Snowdon and it is up to Jack to rescue his canine companion. There are 100 levels in total, spanning 5 worlds. Various enemies such as pandas, owls, and pigs in tutus will be there to hinder the player's progress, but you can deal with them by picking them up and using them to dispatch other enemies.",
-  "VideoURL": "https://www.youtube.com/watch?v=wVIj6DN7zOg",
-  "CommunityRating": "2.75",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Apple_Jack_(video_game)",
-  "ESRB": "Not Rated",
-  "Genres": "Platform",
-  "Developer": "My Owl Software",
-  "Publisher": "My Owl Software",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "9beaec10-6180-49fc-a569-4f35b7838d77.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1363726615",
+          "FileName": "9beaec10-6180-49fc-a569-4f35b7838d77.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9beaec10-6180-49fc-a569-4f35b7838d77.jpg"
         }
       ]
     },
     "Screenshots": [
       {
+        "CRC32": "2808975367",
         "FileName": "47b1c2b6-3ce3-4599-9e16-bcd0095771bb.png",
         "Type": "Screenshot - Game Title",
-        "CRC32": "2808975367",
         "URL": "http://images.launchbox-app.com/47b1c2b6-3ce3-4599-9e16-bcd0095771bb.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.75",
+  "DatabaseID": "128864",
+  "Developer": "My Owl Software",
+  "ESRB": "Not Rated",
+  "Genres": "Platform",
+  "Name": "Apple Jack",
+  "Overview": "Apple Jack places you in the shoes of the apple headed hero of the game - Jack, who's beloved pet dog is trapped atop of Mount Snowdon and it is up to Jack to rescue his canine companion. There are 100 levels in total, spanning 5 worlds. Various enemies such as pandas, owls, and pigs in tutus will be there to hinder the player's progress, but you can deal with them by picking them up and using them to dispatch other enemies.",
+  "Publisher": "My Owl Software",
+  "ReleaseDate": "2010-05-29T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=wVIj6DN7zOg",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Apple_Jack_(video_game)"
 }

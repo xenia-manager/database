@@ -1,123 +1,123 @@
 {
-  "Name": "BlazBlue: Calamity Trigger",
-  "DatabaseID": "13770",
-  "ReleaseDate": "2009-06-30T00:00:00+00:00",
-  "Overview": "BlazBlue: Calamity Trigger is a 2D fighting game by Arc System Works, the studio that created the distinctive Guilty Gear series. As the developer's first 2D fighter developed for high-definition systems, BlazBlue features fast, anime-inspired fighting action, which plays out over detailed, multi-layered backgrounds, with flashy, sometimes psychedelic visual effects for special attacks and big hits. The fighting takes on a certain rhythm, as there is a split second pause after each hit, giving players who can catch on to the cadence a chance to use the brief freezes to time their next move or counterattack. The action is very fast, and without the stuttering pauses, few humans could hope to keep up. Each character has a special \"drive\" attack move, which is difficult to perform, but devastating if used correctly. The story of the game involves dissent and destruction among a powerful council, known unofficially as \"the Library,\" which controls a great power that once saved humanity, but which now wields its power in protective, some say repressive, ways. The game's developer declared BlazBlue: Calamity Trigger to be the \"spiritual successor\" to the Guilty Gear series. Its roster of combatants is a rogue's gallery of weird, super-powered, emotionally complicated characters, including vampires and werewolves, and the beat-'em-up action plays out to an unrelenting precision-metal soundtrack by composer Daisuke Ishiwatari.",
-  "CommunityRating": "4.04166666666667",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "Arc System Works",
-  "Publisher": "Aksys Games Localization",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "d5727b6b-4867-4f8f-8106-4319d7523a1d.png",
-        "Type": "Banner",
-        "CRC32": "2112190384",
-        "URL": "http://images.launchbox-app.com/d5727b6b-4867-4f8f-8106-4319d7523a1d.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "d4819e96-1115-4d32-98bf-9a6be24653ce.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1565850559",
-        "URL": "http://images.launchbox-app.com/d4819e96-1115-4d32-98bf-9a6be24653ce.jpg"
-      },
-      {
+        "CRC32": "689407934",
         "FileName": "9ee2ab78-ded4-49a4-8c8f-d0b740de1dd7.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "689407934",
         "URL": "http://images.launchbox-app.com/9ee2ab78-ded4-49a4-8c8f-d0b740de1dd7.jpg"
+      },
+      {
+        "CRC32": "1565850559",
+        "FileName": "d4819e96-1115-4d32-98bf-9a6be24653ce.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/d4819e96-1115-4d32-98bf-9a6be24653ce.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2112190384",
+        "FileName": "d5727b6b-4867-4f8f-8106-4319d7523a1d.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/d5727b6b-4867-4f8f-8106-4319d7523a1d.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "7b544762-14c9-4f69-8233-91e2120ab11a.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2769710909",
+          "FileName": "7b544762-14c9-4f69-8233-91e2120ab11a.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/7b544762-14c9-4f69-8233-91e2120ab11a.png"
         }
       ],
       "Back": [
         {
-          "FileName": "df77b7d6-8019-4ae8-83e5-b1ca7ed04d44.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "4283948616",
+          "FileName": "df77b7d6-8019-4ae8-83e5-b1ca7ed04d44.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/df77b7d6-8019-4ae8-83e5-b1ca7ed04d44.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_64ecb65b-7fa4-42a5-8181-941c53bd1b74.png",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1239044737",
+          "FileName": "r2_64ecb65b-7fa4-42a5-8181-941c53bd1b74.png",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_64ecb65b-7fa4-42a5-8181-941c53bd1b74.png"
         },
         {
-          "FileName": "1e3d834e-295c-4c0f-8cb7-d67de4edeb42.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "987189667",
+          "FileName": "1e3d834e-295c-4c0f-8cb7-d67de4edeb42.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1e3d834e-295c-4c0f-8cb7-d67de4edeb42.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "28e0c29b-a309-4af4-b55f-8f59ef1edaf5.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "111826359",
+          "FileName": "28e0c29b-a309-4af4-b55f-8f59ef1edaf5.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/28e0c29b-a309-4af4-b55f-8f59ef1edaf5.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "3531aef2-15d8-49f0-bfb2-6c2731b7d908.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "4175275298",
+        "FileName": "3531aef2-15d8-49f0-bfb2-6c2731b7d908.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/3531aef2-15d8-49f0-bfb2-6c2731b7d908.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "55b9d1b7-bac1-4d0e-94df-d257ba42fe1c.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "2021287211",
-        "URL": "http://images.launchbox-app.com/55b9d1b7-bac1-4d0e-94df-d257ba42fe1c.jpg"
-      },
-      {
-        "FileName": "314e2ff4-8c8c-42dd-bb6a-1cef7406050a.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1832682099",
-        "URL": "http://images.launchbox-app.com/314e2ff4-8c8c-42dd-bb6a-1cef7406050a.jpg"
-      },
-      {
-        "FileName": "6ae68c9f-df5c-49dd-bad2-7c48b6906ad2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4027649717",
-        "URL": "http://images.launchbox-app.com/6ae68c9f-df5c-49dd-bad2-7c48b6906ad2.jpg"
-      },
-      {
-        "FileName": "0f487ed4-0bbf-40ea-b6dc-c50701ef6299.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1433140426",
-        "URL": "http://images.launchbox-app.com/0f487ed4-0bbf-40ea-b6dc-c50701ef6299.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "1861300259",
         "FileName": "e14d75b1-7bcb-4f80-80bd-4f51e79bb76f.png",
         "Type": "Clear Logo",
-        "CRC32": "1861300259",
         "URL": "http://images.launchbox-app.com/e14d75b1-7bcb-4f80-80bd-4f51e79bb76f.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2021287211",
+        "FileName": "55b9d1b7-bac1-4d0e-94df-d257ba42fe1c.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/55b9d1b7-bac1-4d0e-94df-d257ba42fe1c.jpg"
+      },
+      {
+        "CRC32": "1832682099",
+        "FileName": "314e2ff4-8c8c-42dd-bb6a-1cef7406050a.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/314e2ff4-8c8c-42dd-bb6a-1cef7406050a.jpg"
+      },
+      {
+        "CRC32": "1433140426",
+        "FileName": "0f487ed4-0bbf-40ea-b6dc-c50701ef6299.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/0f487ed4-0bbf-40ea-b6dc-c50701ef6299.jpg"
+      },
+      {
+        "CRC32": "4027649717",
+        "FileName": "6ae68c9f-df5c-49dd-bad2-7c48b6906ad2.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/6ae68c9f-df5c-49dd-bad2-7c48b6906ad2.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.04166666666667",
+  "DatabaseID": "13770",
+  "Developer": "Arc System Works",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "BlazBlue: Calamity Trigger",
+  "Overview": "BlazBlue: Calamity Trigger is a 2D fighting game by Arc System Works, the studio that created the distinctive Guilty Gear series. As the developer's first 2D fighter developed for high-definition systems, BlazBlue features fast, anime-inspired fighting action, which plays out over detailed, multi-layered backgrounds, with flashy, sometimes psychedelic visual effects for special attacks and big hits. The fighting takes on a certain rhythm, as there is a split second pause after each hit, giving players who can catch on to the cadence a chance to use the brief freezes to time their next move or counterattack. The action is very fast, and without the stuttering pauses, few humans could hope to keep up. Each character has a special \"drive\" attack move, which is difficult to perform, but devastating if used correctly. The story of the game involves dissent and destruction among a powerful council, known unofficially as \"the Library,\" which controls a great power that once saved humanity, but which now wields its power in protective, some say repressive, ways. The game's developer declared BlazBlue: Calamity Trigger to be the \"spiritual successor\" to the Guilty Gear series. Its roster of combatants is a rogue's gallery of weird, super-powered, emotionally complicated characters, including vampires and werewolves, and the beat-'em-up action plays out to an unrelenting precision-metal soundtrack by composer Daisuke Ishiwatari.",
+  "Publisher": "Aksys Games Localization",
+  "ReleaseDate": "2009-06-30T00:00:00+00:00"
 }

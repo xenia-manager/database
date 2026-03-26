@@ -1,22 +1,22 @@
 {
-  "Name": " Pi",
-  "DatabaseID": "468144",
-  "ReleaseDate": "2012-07-16T00:00:00+00:00",
-  "Overview": "Learn the first 1000 digits of pi, take the 1000 digit challenge, or play a game of \"repeat after me\".",
-  "Genres": "Education",
-  "Developer": "Jason Keiderling",
-  "Publisher": "Jason Keiderling",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "c9476139-43b3-4ff4-96a5-38839be6b5f9.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2819199530",
+          "FileName": "c9476139-43b3-4ff4-96a5-38839be6b5f9.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c9476139-43b3-4ff4-96a5-38839be6b5f9.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468144",
+  "Developer": "Jason Keiderling",
+  "Genres": "Education",
+  "Name": " Pi",
+  "Overview": "Learn the first 1000 digits of pi, take the 1000 digit challenge, or play a game of \"repeat after me\".",
+  "Publisher": "Jason Keiderling",
+  "ReleaseDate": "2012-07-16T00:00:00+00:00"
 }

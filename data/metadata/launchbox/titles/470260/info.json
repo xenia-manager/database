@@ -1,23 +1,23 @@
 {
-  "Name": "JewellCity",
-  "DatabaseID": "470260",
-  "ReleaseDate": "2014-07-19T00:00:00+00:00",
-  "Overview": "JewellCity is open for business and you are the mayor.\n\nUse the tiles to build a thriving city but be warned: Line up three tiles in a row and watch it all come crashing down!",
-  "VideoURL": "https://youtu.be/DdHXqK_uD8o",
-  "Genres": "Puzzle",
-  "Developer": "LittleGreenBob",
-  "Publisher": "LittleGreenBob",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "98b8ab78-5234-4dfd-a38a-543d9de4baa4.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4286684496",
+          "FileName": "98b8ab78-5234-4dfd-a38a-543d9de4baa4.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/98b8ab78-5234-4dfd-a38a-543d9de4baa4.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "470260",
+  "Developer": "LittleGreenBob",
+  "Genres": "Puzzle",
+  "Name": "JewellCity",
+  "Overview": "JewellCity is open for business and you are the mayor.\n\nUse the tiles to build a thriving city but be warned: Line up three tiles in a row and watch it all come crashing down!",
+  "Publisher": "LittleGreenBob",
+  "ReleaseDate": "2014-07-19T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/DdHXqK_uD8o"
 }

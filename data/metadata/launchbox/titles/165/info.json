@@ -1,93 +1,93 @@
 {
-  "Name": "Dynasty Warriors 6",
-  "DatabaseID": "165",
-  "ReleaseDate": "2008-02-19T00:00:00+00:00",
-  "Overview": "Dynasty Warriors 6 (真・三國無双５ Shin Sangoku Musōu 5?) is a hack and slash video game set in Ancient China, during a period called Three Kingdoms (around 200AD). This game is the sixth official installment in the Dynasty Warriors series, developed by Omega Force and published by Koei. The game was released on November 11, 2007 in Japan; the North American release was February 19, 2008 while the Europe release date was March 7, 2008. A version of the game was bundled with the 40GB PlayStation 3 in Japan.[8] Dynasty Warriors 6 was also released for Windows in July 2008.[9] A version for PlayStation 2 was released on October and November 2008 in Japan and North America respectively. An expansion, titled Dynasty Warriors 6: Empires was unveiled at the 2008 Tokyo Game Show[10] and released on May 2009.",
-  "VideoURL": "https://www.youtube.com/watch?v=SwqABj633BY",
-  "CommunityRating": "3.16666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dynasty_Warriors_6",
-  "ESRB": "T - Teen",
-  "Genres": "Beat 'em Up",
-  "Developer": "Omega Force",
-  "Publisher": "Koei",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_cd2a30d8-e6c6-48b7-b75a-dbbbc8d5a620.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2265791030",
-        "URL": "http://images.launchbox-app.com/r2_cd2a30d8-e6c6-48b7-b75a-dbbbc8d5a620.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_720c2033-35ed-4b04-b52e-1622f2149b6a.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2194699993",
+        "FileName": "r2_720c2033-35ed-4b04-b52e-1622f2149b6a.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_720c2033-35ed-4b04-b52e-1622f2149b6a.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2265791030",
+        "FileName": "r2_cd2a30d8-e6c6-48b7-b75a-dbbbc8d5a620.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_cd2a30d8-e6c6-48b7-b75a-dbbbc8d5a620.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "a9bb39a8-1ea6-4bc0-88ed-16f2dec7f687.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3368656320",
+          "FileName": "a9bb39a8-1ea6-4bc0-88ed-16f2dec7f687.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/a9bb39a8-1ea6-4bc0-88ed-16f2dec7f687.png"
         }
       ],
       "Back": [
         {
-          "FileName": "36d3fa2a-d085-4ea8-bb51-4ee1a19bb3d2.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "4291722343",
+          "FileName": "36d3fa2a-d085-4ea8-bb51-4ee1a19bb3d2.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/36d3fa2a-d085-4ea8-bb51-4ee1a19bb3d2.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a2a95532-dfcc-480d-b058-c07432a1205f.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1467840553",
+          "FileName": "r2_a2a95532-dfcc-480d-b058-c07432a1205f.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a2a95532-dfcc-480d-b058-c07432a1205f.jpg"
         },
         {
-          "FileName": "55419799-487b-4c8c-99f7-68d252984947.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3879275853",
+          "FileName": "55419799-487b-4c8c-99f7-68d252984947.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/55419799-487b-4c8c-99f7-68d252984947.jpg"
         },
         {
-          "FileName": "3ba2fa0d-df23-4174-9e41-0dc6297f9bde.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "3707421179",
+          "FileName": "3ba2fa0d-df23-4174-9e41-0dc6297f9bde.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/3ba2fa0d-df23-4174-9e41-0dc6297f9bde.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_519bf776-ff61-43ed-a7cf-d1dbbfabc4e0.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1370704241",
+        "FileName": "r2_519bf776-ff61-43ed-a7cf-d1dbbfabc4e0.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_519bf776-ff61-43ed-a7cf-d1dbbfabc4e0.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1021519958",
         "FileName": "2927d025-11e4-42ea-a741-16acfcce52aa.png",
         "Type": "Clear Logo",
-        "CRC32": "1021519958",
         "URL": "http://images.launchbox-app.com/2927d025-11e4-42ea-a741-16acfcce52aa.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.16666666666667",
+  "DatabaseID": "165",
+  "Developer": "Omega Force",
+  "ESRB": "T - Teen",
+  "Genres": "Beat 'em Up",
+  "Name": "Dynasty Warriors 6",
+  "Overview": "Dynasty Warriors 6 (真・三國無双５ Shin Sangoku Musōu 5?) is a hack and slash video game set in Ancient China, during a period called Three Kingdoms (around 200AD). This game is the sixth official installment in the Dynasty Warriors series, developed by Omega Force and published by Koei. The game was released on November 11, 2007 in Japan; the North American release was February 19, 2008 while the Europe release date was March 7, 2008. A version of the game was bundled with the 40GB PlayStation 3 in Japan.[8] Dynasty Warriors 6 was also released for Windows in July 2008.[9] A version for PlayStation 2 was released on October and November 2008 in Japan and North America respectively. An expansion, titled Dynasty Warriors 6: Empires was unveiled at the 2008 Tokyo Game Show[10] and released on May 2009.",
+  "Publisher": "Koei",
+  "ReleaseDate": "2008-02-19T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=SwqABj633BY",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dynasty_Warriors_6"
 }

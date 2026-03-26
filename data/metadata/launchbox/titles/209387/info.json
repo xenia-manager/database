@@ -1,42 +1,42 @@
 {
-  "Name": "Fusion: Genesis",
-  "DatabaseID": "209387",
-  "ReleaseDate": "2011-11-09T00:00:00+00:00",
-  "Overview": "Unravel a sinister conspiracy in a galaxy on the brink of civil war. Choose your side. Expose the truth. Become a hero. Follow six epic storylines as a trader, mercenary, peacekeeper, soldier, or seeker. Explore an \"always connected\" dynamic environment. Complete 100s of solo and co-op quests across 23 levels. Fly over 100 ships with 1000s of upgrades. Acquire 40 combat skills and 200 weapons. Enjoy cooperative (1-4) and PvP (1-8) gameplay. Connect with Fusion: Sentient on Windows Phone 7.",
-  "CommunityRating": "1.83333333333333",
-  "ESRB": "T - Teen",
-  "Genres": "Role-Playing; Shooter",
-  "Developer": "Starfire Studio",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_d9704bc2-cf60-4b42-bcd2-976f3cc7c0a8.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "844812585",
-        "URL": "http://images.launchbox-app.com/r2_d9704bc2-cf60-4b42-bcd2-976f3cc7c0a8.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_a476e092-e55a-4592-bc3f-e510a605d3da.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2347925807",
+        "FileName": "r2_a476e092-e55a-4592-bc3f-e510a605d3da.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_a476e092-e55a-4592-bc3f-e510a605d3da.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "844812585",
+        "FileName": "r2_d9704bc2-cf60-4b42-bcd2-976f3cc7c0a8.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_d9704bc2-cf60-4b42-bcd2-976f3cc7c0a8.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_f50f255a-15da-49ff-b96e-bcda286a2457.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2813732187",
+          "FileName": "r2_f50f255a-15da-49ff-b96e-bcda286a2457.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f50f255a-15da-49ff-b96e-bcda286a2457.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "1.83333333333333",
+  "DatabaseID": "209387",
+  "Developer": "Starfire Studio",
+  "ESRB": "T - Teen",
+  "Genres": "Role-Playing; Shooter",
+  "Name": "Fusion: Genesis",
+  "Overview": "Unravel a sinister conspiracy in a galaxy on the brink of civil war. Choose your side. Expose the truth. Become a hero. Follow six epic storylines as a trader, mercenary, peacekeeper, soldier, or seeker. Explore an \"always connected\" dynamic environment. Complete 100s of solo and co-op quests across 23 levels. Fly over 100 ships with 1000s of upgrades. Acquire 40 combat skills and 200 weapons. Enjoy cooperative (1-4) and PvP (1-8) gameplay. Connect with Fusion: Sentient on Windows Phone 7.",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2011-11-09T00:00:00+00:00"
 }

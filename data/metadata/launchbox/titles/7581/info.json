@@ -1,162 +1,162 @@
 {
-  "Name": "Sonic the Hedgehog (2006)",
-  "DatabaseID": "7581",
-  "ReleaseDate": "2006-11-14T00:00:00+00:00",
-  "Overview": "Sonic the Hedgehog is a 2006 platform video game developed by Sonic Team and published by Sega for the PlayStation 3 and Xbox 360. The game allows the player to choose from stories centered on Sonic, Shadow and new character Silver the Hedgehog. The plot follows Sonic's quest to rescue Princess Elise from Dr. Eggman and ultimately the three main characters attempt to prevent the future being destroyed by a monster named Iblis after the Flames of Disaster are released.\n\nSonic's levels are standard for the series, focusing on running and platforming though the game introduces new \"Mach Speed\" stages that force the player to run forward and avoid obstacles at high speed. Shadow's levels are very similar to Sonic but tend to feature heavy use of vehicles. Silver's levels are very different from the other two as they are slower paced and have the player use Silver's telekinesis to navigate levels and solve platforming puzzles. The three main characters are each accompanied by two side characters such as Tails and Knuckles for Sonic.",
-  "VideoURL": "https://www.youtube.com/watch?v=DCc32P672_0",
-  "CommunityRating": "3.22183907991168",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(2006_video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action; Platform",
-  "Developer": "Sonic Team",
-  "Publisher": "Sega",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "7f6b10a5-0c99-4fb5-a2dd-2bc88755fecf.png",
-        "Type": "Banner",
-        "CRC32": "3562179617",
-        "URL": "http://images.launchbox-app.com/7f6b10a5-0c99-4fb5-a2dd-2bc88755fecf.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "5b168c21-1201-4c2a-96bd-f353e51dcae2.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2456280062",
-        "URL": "http://images.launchbox-app.com/5b168c21-1201-4c2a-96bd-f353e51dcae2.jpg"
-      },
-      {
+        "CRC32": "695757055",
         "FileName": "2f45e0b2-cc6d-4550-b7fe-c24cf751287a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "695757055",
         "URL": "http://images.launchbox-app.com/2f45e0b2-cc6d-4550-b7fe-c24cf751287a.jpg"
+      },
+      {
+        "CRC32": "2456280062",
+        "FileName": "5b168c21-1201-4c2a-96bd-f353e51dcae2.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/5b168c21-1201-4c2a-96bd-f353e51dcae2.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3562179617",
+        "FileName": "7f6b10a5-0c99-4fb5-a2dd-2bc88755fecf.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/7f6b10a5-0c99-4fb5-a2dd-2bc88755fecf.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "8605233b-77a2-490f-8ee3-c2aa89d78f44.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2393927932",
+          "FileName": "8605233b-77a2-490f-8ee3-c2aa89d78f44.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/8605233b-77a2-490f-8ee3-c2aa89d78f44.png"
         }
       ],
       "Back": [
         {
-          "FileName": "f02e9729-347b-4151-bba2-0dec6e439b0d.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "2955781772",
+          "FileName": "f02e9729-347b-4151-bba2-0dec6e439b0d.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/f02e9729-347b-4151-bba2-0dec6e439b0d.jpg"
         },
         {
-          "FileName": "f7901e78-7b1d-47dc-a0b0-b969f9c3f9fd.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "49290164",
+          "FileName": "f7901e78-7b1d-47dc-a0b0-b969f9c3f9fd.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/f7901e78-7b1d-47dc-a0b0-b969f9c3f9fd.jpg"
         },
         {
-          "FileName": "da19891c-71d9-4d37-ba5d-bc55950654d9.jpg",
-          "Type": "Box - Back",
-          "Region": "Spain",
           "CRC32": "2968625596",
+          "FileName": "da19891c-71d9-4d37-ba5d-bc55950654d9.jpg",
+          "Region": "Spain",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/da19891c-71d9-4d37-ba5d-bc55950654d9.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "575b9cff-52a9-4086-95b0-ed1d504f3755.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "4185198273",
+          "FileName": "575b9cff-52a9-4086-95b0-ed1d504f3755.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/575b9cff-52a9-4086-95b0-ed1d504f3755.jpg"
         },
         {
-          "FileName": "r2_be01f4a4-0783-47ae-915d-b29dc9af8aa4.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2324671873",
+          "FileName": "r2_be01f4a4-0783-47ae-915d-b29dc9af8aa4.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_be01f4a4-0783-47ae-915d-b29dc9af8aa4.jpg"
         },
         {
-          "FileName": "79c8810c-f7f9-4b01-9241-78b1837dcdf8.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "512359773",
+          "FileName": "79c8810c-f7f9-4b01-9241-78b1837dcdf8.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/79c8810c-f7f9-4b01-9241-78b1837dcdf8.jpg"
         },
         {
-          "FileName": "0209228f-3c1a-489c-9894-c651582818b9.jpg",
-          "Type": "Box - Front",
-          "Region": "Korea",
           "CRC32": "2216357189",
+          "FileName": "0209228f-3c1a-489c-9894-c651582818b9.jpg",
+          "Region": "Korea",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0209228f-3c1a-489c-9894-c651582818b9.jpg"
         },
         {
-          "FileName": "62390f5c-a880-437b-a1d2-a5eb56b3f7ac.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3506353454",
+          "FileName": "62390f5c-a880-437b-a1d2-a5eb56b3f7ac.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/62390f5c-a880-437b-a1d2-a5eb56b3f7ac.jpg"
         },
         {
-          "FileName": "4a635635-8f20-47f2-b873-3511991be6df.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1877243623",
+          "FileName": "4a635635-8f20-47f2-b873-3511991be6df.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/4a635635-8f20-47f2-b873-3511991be6df.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "30c08783-2fa4-4dc6-a2f6-cd94ef6fdcdb.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1245466525",
+          "FileName": "30c08783-2fa4-4dc6-a2f6-cd94ef6fdcdb.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/30c08783-2fa4-4dc6-a2f6-cd94ef6fdcdb.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "83743c01-6c60-4877-af80-b4aab1bad475.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "934331329",
+        "FileName": "83743c01-6c60-4877-af80-b4aab1bad475.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/83743c01-6c60-4877-af80-b4aab1bad475.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "72ae4f92-2305-4669-91c0-10c96c0467c6.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3972672195",
-        "URL": "http://images.launchbox-app.com/72ae4f92-2305-4669-91c0-10c96c0467c6.png"
-      },
-      {
-        "FileName": "855d752d-fb04-4b40-b977-04f8c780db76.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4008751808",
-        "URL": "http://images.launchbox-app.com/855d752d-fb04-4b40-b977-04f8c780db76.jpg"
       }
     ],
     "Other": [
       {
-        "FileName": "93edbd41-2cd5-4400-b301-90aecd4a43ff.jpg",
-        "Type": "Advertisement Flyer - Front",
-        "Region": "North America",
         "CRC32": "3063752193",
+        "FileName": "93edbd41-2cd5-4400-b301-90aecd4a43ff.jpg",
+        "Region": "North America",
+        "Type": "Advertisement Flyer - Front",
         "URL": "http://images.launchbox-app.com/93edbd41-2cd5-4400-b301-90aecd4a43ff.jpg"
       },
       {
+        "CRC32": "3630906311",
         "FileName": "7177a6dc-598e-420e-b94e-00394b7f8db2.png",
         "Type": "Clear Logo",
-        "CRC32": "3630906311",
         "URL": "http://images.launchbox-app.com/7177a6dc-598e-420e-b94e-00394b7f8db2.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3972672195",
+        "FileName": "72ae4f92-2305-4669-91c0-10c96c0467c6.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/72ae4f92-2305-4669-91c0-10c96c0467c6.png"
+      },
+      {
+        "CRC32": "4008751808",
+        "FileName": "855d752d-fb04-4b40-b977-04f8c780db76.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/855d752d-fb04-4b40-b977-04f8c780db76.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.22183907991168",
+  "DatabaseID": "7581",
+  "Developer": "Sonic Team",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action; Platform",
+  "Name": "Sonic the Hedgehog (2006)",
+  "Overview": "Sonic the Hedgehog is a 2006 platform video game developed by Sonic Team and published by Sega for the PlayStation 3 and Xbox 360. The game allows the player to choose from stories centered on Sonic, Shadow and new character Silver the Hedgehog. The plot follows Sonic's quest to rescue Princess Elise from Dr. Eggman and ultimately the three main characters attempt to prevent the future being destroyed by a monster named Iblis after the Flames of Disaster are released.\n\nSonic's levels are standard for the series, focusing on running and platforming though the game introduces new \"Mach Speed\" stages that force the player to run forward and avoid obstacles at high speed. Shadow's levels are very similar to Sonic but tend to feature heavy use of vehicles. Silver's levels are very different from the other two as they are slower paced and have the player use Silver's telekinesis to navigate levels and solve platforming puzzles. The three main characters are each accompanied by two side characters such as Tails and Knuckles for Sonic.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2006-11-14T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=DCc32P672_0",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(2006_video_game)"
 }

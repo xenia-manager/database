@@ -1,57 +1,57 @@
 {
-  "Name": "NFL Tour",
-  "DatabaseID": "16034",
-  "ReleaseDate": "2008-01-08T00:00:00+00:00",
-  "Overview": "NFL Tour is an arcade football video game. It was released on January 8, 2008. It was developed under the EA Sports BIG division of EA Sports, which is also responsible for such titles as SSX, NBA Street, NFL Street, and the FIFA Street games. The game could be considered a successor to the NFL Street franchise, but it was converted to the new hardware (PS3 / Xbox 360). Trey Wingo from ESPN is the game's voice announcer.",
-  "CommunityRating": "3.75",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/NFL_Tour",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Tiburon",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1110888795",
         "FileName": "87e82052-98f3-4163-975b-a2da626fa77c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1110888795",
         "URL": "http://images.launchbox-app.com/87e82052-98f3-4163-975b-a2da626fa77c.jpg"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_b66cba4d-1402-4ba0-9d38-3b88d4f80c2b.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1048287924",
+          "FileName": "r2_b66cba4d-1402-4ba0-9d38-3b88d4f80c2b.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_b66cba4d-1402-4ba0-9d38-3b88d4f80c2b.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "935725420",
           "FileName": "da8d231b-ac50-4bd0-8c2e-4124c498f30f.jpg",
           "Type": "Box - Front",
-          "CRC32": "935725420",
           "URL": "http://images.launchbox-app.com/da8d231b-ac50-4bd0-8c2e-4124c498f30f.jpg"
         },
         {
-          "FileName": "r2_d82e7b20-3c97-4360-a906-1dd84ba316cb.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2694447439",
+          "FileName": "r2_d82e7b20-3c97-4360-a906-1dd84ba316cb.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d82e7b20-3c97-4360-a906-1dd84ba316cb.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_e089b9b5-1465-44e7-a1f3-dd10afedba88.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3861923611",
+        "FileName": "r2_e089b9b5-1465-44e7-a1f3-dd10afedba88.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_e089b9b5-1465-44e7-a1f3-dd10afedba88.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.75",
+  "DatabaseID": "16034",
+  "Developer": "Electronic Arts Tiburon",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "NFL Tour",
+  "Overview": "NFL Tour is an arcade football video game. It was released on January 8, 2008. It was developed under the EA Sports BIG division of EA Sports, which is also responsible for such titles as SSX, NBA Street, NFL Street, and the FIFA Street games. The game could be considered a successor to the NFL Street franchise, but it was converted to the new hardware (PS3 / Xbox 360). Trey Wingo from ESPN is the game's voice announcer.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2008-01-08T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/NFL_Tour"
 }

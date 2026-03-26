@@ -1,119 +1,119 @@
 {
-  "Name": "Armored Core V",
-  "DatabaseID": "2572",
-  "ReleaseDate": "2012-03-20T00:00:00+00:00",
-  "Overview": "The ravages of war & natural disasters have depleted natural resources, leaving mankind in peril. Dictatorship of Father reigns down on the scattered masses while the Resistance bravely fights for democracy. Wage fierce battles for control of territories using the most powerful weapons of war: Armored Core!",
-  "VideoURL": "https://www.youtube.com/watch?v=eWkgFdUcayY",
-  "CommunityRating": "3.8",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Armored_Core_V",
-  "ESRB": "T - Teen",
-  "Genres": "Flight Simulator",
-  "Developer": "FromSoftware",
-  "Publisher": "Namco Bandai",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "93aef895-7526-431a-8706-6c5708625f1a.png",
-        "Type": "Banner",
-        "CRC32": "2657896311",
-        "URL": "http://images.launchbox-app.com/93aef895-7526-431a-8706-6c5708625f1a.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "712ed384-34c5-4690-96fc-972defd055cd.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2966973829",
-        "URL": "http://images.launchbox-app.com/712ed384-34c5-4690-96fc-972defd055cd.jpg"
-      },
-      {
+        "CRC32": "1585356996",
         "FileName": "3f6b86f0-887d-4c3d-bb82-3e5b78e86e7e.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1585356996",
         "URL": "http://images.launchbox-app.com/3f6b86f0-887d-4c3d-bb82-3e5b78e86e7e.jpg"
+      },
+      {
+        "CRC32": "2966973829",
+        "FileName": "712ed384-34c5-4690-96fc-972defd055cd.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/712ed384-34c5-4690-96fc-972defd055cd.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2657896311",
+        "FileName": "93aef895-7526-431a-8706-6c5708625f1a.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/93aef895-7526-431a-8706-6c5708625f1a.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "439b65c2-55e6-4240-b377-03345e33f653.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "2218548142",
+          "FileName": "439b65c2-55e6-4240-b377-03345e33f653.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/439b65c2-55e6-4240-b377-03345e33f653.jpg"
         },
         {
-          "FileName": "r2_bb6fee89-4ac0-46e8-a06c-a2cb98f7031a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3717181195",
+          "FileName": "r2_bb6fee89-4ac0-46e8-a06c-a2cb98f7031a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_bb6fee89-4ac0-46e8-a06c-a2cb98f7031a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "9b5f7033-e0e8-451e-b35f-49ad9c330fe1.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "4056512387",
+          "FileName": "9b5f7033-e0e8-451e-b35f-49ad9c330fe1.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9b5f7033-e0e8-451e-b35f-49ad9c330fe1.jpg"
         },
         {
-          "FileName": "86ff4942-9b2a-4e73-bffe-8de224900075.png",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2997914302",
+          "FileName": "86ff4942-9b2a-4e73-bffe-8de224900075.png",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/86ff4942-9b2a-4e73-bffe-8de224900075.png"
         },
         {
-          "FileName": "96842dd1-1793-4e4f-923d-e26127c40954.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "4128222682",
+          "FileName": "96842dd1-1793-4e4f-923d-e26127c40954.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/96842dd1-1793-4e4f-923d-e26127c40954.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "b8478859-3e3a-4078-b318-c09a769d5872.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "1762766329",
+          "FileName": "b8478859-3e3a-4078-b318-c09a769d5872.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/b8478859-3e3a-4078-b318-c09a769d5872.jpg"
         },
         {
-          "FileName": "41916c35-67e0-4bfe-b6df-5d7f511e514e.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3894989653",
+          "FileName": "41916c35-67e0-4bfe-b6df-5d7f511e514e.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/41916c35-67e0-4bfe-b6df-5d7f511e514e.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "ae3efba7-7e1b-4127-8744-99299715f797.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1910954329",
+        "FileName": "ae3efba7-7e1b-4127-8744-99299715f797.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/ae3efba7-7e1b-4127-8744-99299715f797.png"
       },
       {
-        "FileName": "0aa60fd4-4376-4e49-8d21-906e7d9cf020.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "474442000",
+        "FileName": "0aa60fd4-4376-4e49-8d21-906e7d9cf020.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/0aa60fd4-4376-4e49-8d21-906e7d9cf020.png"
       }
     ],
     "Other": [
       {
-        "FileName": "fc6e1012-2fae-45dc-bdd4-7f1d4ed82d59.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2149842052",
+        "FileName": "fc6e1012-2fae-45dc-bdd4-7f1d4ed82d59.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/fc6e1012-2fae-45dc-bdd4-7f1d4ed82d59.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.8",
+  "DatabaseID": "2572",
+  "Developer": "FromSoftware",
+  "ESRB": "T - Teen",
+  "Genres": "Flight Simulator",
+  "Name": "Armored Core V",
+  "Overview": "The ravages of war & natural disasters have depleted natural resources, leaving mankind in peril. Dictatorship of Father reigns down on the scattered masses while the Resistance bravely fights for democracy. Wage fierce battles for control of territories using the most powerful weapons of war: Armored Core!",
+  "Publisher": "Namco Bandai",
+  "ReleaseDate": "2012-03-20T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=eWkgFdUcayY",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Armored_Core_V"
 }

@@ -1,153 +1,153 @@
 {
-  "Name": "Rock Band 2",
-  "DatabaseID": "2723",
-  "ReleaseDate": "2008-09-14T00:00:00+00:00",
-  "Overview": "Rock Band 2 is the sequel to the 2007 musical simulation game Rock Band and offers similar gameplay. Directly competing with Guitar Hero: World Tour, the game allows different people to play together as in a band, with the same peripherals as the first game: lead guitar, bass guitar, microphone and a drum set.\n\nThe new drum and guitar controllers for this version, bundled or sold separately, have been revised and older controllers are also supported. The guitar controller, modelled after the Fender Stratocaster, has five additional fret buttons near the neck, for fast fingertapping sessions. There is also an effect switch to toggle between five different effects. Players use the instruments to match notes on the screen, divided in different portions for different instruments, along with the lyrics for the singer who need to match the pitch.",
-  "VideoURL": "https://www.youtube.com/watch?v=B-QcPp8JGxQ",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Rock_Band_2",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Harmonix Music Systems",
-  "Publisher": "MTV Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "81774a12-8dc0-4303-955f-70e0dea9b85f.jpg",
-        "Type": "Banner",
-        "Region": "Germany",
-        "CRC32": "1166434877",
-        "URL": "http://images.launchbox-app.com/81774a12-8dc0-4303-955f-70e0dea9b85f.jpg"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "900591422",
         "FileName": "6a437d18-ca82-498f-9c0b-3459758fc4a9.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "900591422",
         "URL": "http://images.launchbox-app.com/6a437d18-ca82-498f-9c0b-3459758fc4a9.jpg"
       },
       {
+        "CRC32": "941482974",
         "FileName": "a784752d-b2b8-4fa4-aeb1-9c28c216938e.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "941482974",
         "URL": "http://images.launchbox-app.com/a784752d-b2b8-4fa4-aeb1-9c28c216938e.jpg"
       },
       {
-        "FileName": "r2_13205df5-b16e-4e12-a3b4-cfa06601a13c.png",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3296132042",
+        "FileName": "r2_13205df5-b16e-4e12-a3b4-cfa06601a13c.png",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_13205df5-b16e-4e12-a3b4-cfa06601a13c.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1166434877",
+        "FileName": "81774a12-8dc0-4303-955f-70e0dea9b85f.jpg",
+        "Region": "Germany",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/81774a12-8dc0-4303-955f-70e0dea9b85f.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "02abc5a6-a12d-449d-bd8f-1d47a9ba79bf.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2186565847",
+          "FileName": "02abc5a6-a12d-449d-bd8f-1d47a9ba79bf.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/02abc5a6-a12d-449d-bd8f-1d47a9ba79bf.png"
         }
       ],
       "Back": [
         {
-          "FileName": "ebc0a8d4-a4b3-4018-a5a3-e53600eb6740.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2894821587",
+          "FileName": "ebc0a8d4-a4b3-4018-a5a3-e53600eb6740.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/ebc0a8d4-a4b3-4018-a5a3-e53600eb6740.jpg"
         },
         {
-          "FileName": "e921f396-0a01-4f3f-a021-6e91725f4e57.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "276529232",
+          "FileName": "e921f396-0a01-4f3f-a021-6e91725f4e57.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/e921f396-0a01-4f3f-a021-6e91725f4e57.jpg"
         },
         {
-          "FileName": "60dcfc1a-0bd4-4ded-b282-dad94ec09923.jpg",
-          "Type": "Box - Back",
-          "Region": "United Kingdom",
           "CRC32": "2657697661",
+          "FileName": "60dcfc1a-0bd4-4ded-b282-dad94ec09923.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/60dcfc1a-0bd4-4ded-b282-dad94ec09923.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "c0bd19c8-eba5-4038-b74c-ab82c0452544.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2929874310",
+          "FileName": "c0bd19c8-eba5-4038-b74c-ab82c0452544.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c0bd19c8-eba5-4038-b74c-ab82c0452544.jpg"
         },
         {
-          "FileName": "73b2ba80-29f6-4f19-ab81-23aafddac7ce.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "744848400",
+          "FileName": "73b2ba80-29f6-4f19-ab81-23aafddac7ce.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/73b2ba80-29f6-4f19-ab81-23aafddac7ce.jpg"
         },
         {
-          "FileName": "b2e6d24d-a126-4843-8d26-e84e367a231b.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
           "CRC32": "4268585528",
+          "FileName": "b2e6d24d-a126-4843-8d26-e84e367a231b.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b2e6d24d-a126-4843-8d26-e84e367a231b.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "fc662187-2d01-4cb3-8c09-d0c8bd068520.png",
-        "Type": "Disc",
-        "Region": "Germany",
         "CRC32": "3860670087",
+        "FileName": "fc662187-2d01-4cb3-8c09-d0c8bd068520.png",
+        "Region": "Germany",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/fc662187-2d01-4cb3-8c09-d0c8bd068520.png"
       },
       {
-        "FileName": "2dc1ee9d-cdf3-496d-859c-57a9b7c2210a.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1702211229",
+        "FileName": "2dc1ee9d-cdf3-496d-859c-57a9b7c2210a.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/2dc1ee9d-cdf3-496d-859c-57a9b7c2210a.png"
       },
       {
-        "FileName": "d36e4ca5-e5d6-4ac6-bcf5-15310d197d29.png",
-        "Type": "Disc",
-        "Region": "United Kingdom",
         "CRC32": "2066067554",
+        "FileName": "d36e4ca5-e5d6-4ac6-bcf5-15310d197d29.png",
+        "Region": "United Kingdom",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/d36e4ca5-e5d6-4ac6-bcf5-15310d197d29.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "056bbba5-37ee-41b0-9796-cb7d79e231d8.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2465800739",
-        "URL": "http://images.launchbox-app.com/056bbba5-37ee-41b0-9796-cb7d79e231d8.jpg"
-      },
-      {
-        "FileName": "b5d8e1eb-ad0b-40e9-9831-ec84a07ab33a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "173940385",
-        "URL": "http://images.launchbox-app.com/b5d8e1eb-ad0b-40e9-9831-ec84a07ab33a.jpg"
-      },
-      {
-        "FileName": "51338470-cbb1-4b9f-9192-26d1fdde5798.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2863863459",
-        "URL": "http://images.launchbox-app.com/51338470-cbb1-4b9f-9192-26d1fdde5798.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "2909010484",
         "FileName": "9c9c41d6-a25b-4a60-9756-0698fb409efc.png",
         "Type": "Clear Logo",
-        "CRC32": "2909010484",
         "URL": "http://images.launchbox-app.com/9c9c41d6-a25b-4a60-9756-0698fb409efc.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2465800739",
+        "FileName": "056bbba5-37ee-41b0-9796-cb7d79e231d8.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/056bbba5-37ee-41b0-9796-cb7d79e231d8.jpg"
+      },
+      {
+        "CRC32": "2863863459",
+        "FileName": "51338470-cbb1-4b9f-9192-26d1fdde5798.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/51338470-cbb1-4b9f-9192-26d1fdde5798.jpg"
+      },
+      {
+        "CRC32": "173940385",
+        "FileName": "b5d8e1eb-ad0b-40e9-9831-ec84a07ab33a.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/b5d8e1eb-ad0b-40e9-9831-ec84a07ab33a.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "2723",
+  "Developer": "Harmonix Music Systems",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "Rock Band 2",
+  "Overview": "Rock Band 2 is the sequel to the 2007 musical simulation game Rock Band and offers similar gameplay. Directly competing with Guitar Hero: World Tour, the game allows different people to play together as in a band, with the same peripherals as the first game: lead guitar, bass guitar, microphone and a drum set.\n\nThe new drum and guitar controllers for this version, bundled or sold separately, have been revised and older controllers are also supported. The guitar controller, modelled after the Fender Stratocaster, has five additional fret buttons near the neck, for fast fingertapping sessions. There is also an effect switch to toggle between five different effects. Players use the instruments to match notes on the screen, divided in different portions for different instruments, along with the lyrics for the singer who need to match the pitch.",
+  "Publisher": "MTV Games",
+  "ReleaseDate": "2008-09-14T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=B-QcPp8JGxQ",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Rock_Band_2"
 }

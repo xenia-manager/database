@@ -1,23 +1,23 @@
 {
-  "Name": "Itza",
-  "DatabaseID": "470219",
-  "ReleaseDate": "2011-11-22T00:00:00+00:00",
-  "Overview": "Itza is an exciting puzzle game where your goal is to remove pairs of matching tiles and trying to clear the board before the time runs up.\n\nExplode tiles in combos to clear the level faster and to receive powerful powerups!",
-  "VideoURL": "https://youtu.be/lmNJgfqMvSE",
-  "Genres": "Puzzle",
-  "Developer": "Ivan-Mark Debono",
-  "Publisher": "Ivan-Mark Debono",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "7dbae87d-fd81-430f-bcfb-0ebedd8ba2b7.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1179153993",
+          "FileName": "7dbae87d-fd81-430f-bcfb-0ebedd8ba2b7.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7dbae87d-fd81-430f-bcfb-0ebedd8ba2b7.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "470219",
+  "Developer": "Ivan-Mark Debono",
+  "Genres": "Puzzle",
+  "Name": "Itza",
+  "Overview": "Itza is an exciting puzzle game where your goal is to remove pairs of matching tiles and trying to clear the board before the time runs up.\n\nExplode tiles in combos to clear the level faster and to receive powerful powerups!",
+  "Publisher": "Ivan-Mark Debono",
+  "ReleaseDate": "2011-11-22T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/lmNJgfqMvSE"
 }

@@ -1,110 +1,110 @@
 {
-  "Name": "NHL 10",
-  "DatabaseID": "13531",
-  "ReleaseDate": "2009-09-15T00:00:00+00:00",
-  "Overview": "NHL 10 is the 19th edition in the Electronic Arts' long-running ice-hockey series. This version features boardwork, a few tinkers to the control system and improved crowd realism. Other improvements include general physics and animation refinement.\n\nIn addition to the standard NHL and AHL leagues, NHL 10 also features the Swedish Elitserien, Finland's SM-liiga, Germany's DEL, and the Czech O2 Extraliga, all of which were featured in the previous installment, NHL 09. This game also adds a new league, the Swiss National League A.",
-  "CommunityRating": "2.83333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/NHL_10",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Canada",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1012703346",
         "FileName": "5d6d43cf-9f34-4ca8-babc-f994f5b7ba56.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1012703346",
         "URL": "http://images.launchbox-app.com/5d6d43cf-9f34-4ca8-babc-f994f5b7ba56.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "703aef97-2d05-456f-95ec-1d915fba39dc.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1594636581",
+          "FileName": "703aef97-2d05-456f-95ec-1d915fba39dc.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/703aef97-2d05-456f-95ec-1d915fba39dc.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_1c1a9200-92db-47d4-9ff9-c1be305cc6f8.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1168529598",
+          "FileName": "r2_1c1a9200-92db-47d4-9ff9-c1be305cc6f8.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_1c1a9200-92db-47d4-9ff9-c1be305cc6f8.jpg"
         },
         {
-          "FileName": "94474520-fc12-4d85-91ec-3cae37204b3a.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2719265587",
+          "FileName": "94474520-fc12-4d85-91ec-3cae37204b3a.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/94474520-fc12-4d85-91ec-3cae37204b3a.jpg"
         },
         {
-          "FileName": "46f5eda6-c9e0-44a6-933d-8d9ae77e126a.jpg",
-          "Type": "Box - Back",
-          "Region": "Russia",
           "CRC32": "3140887432",
+          "FileName": "46f5eda6-c9e0-44a6-933d-8d9ae77e126a.jpg",
+          "Region": "Russia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/46f5eda6-c9e0-44a6-933d-8d9ae77e126a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "84617ada-134c-4ca8-bed5-01302822883d.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "407723482",
+          "FileName": "84617ada-134c-4ca8-bed5-01302822883d.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/84617ada-134c-4ca8-bed5-01302822883d.jpg"
         },
         {
-          "FileName": "r2_ee5450db-9ae4-44f1-8e7b-b0cc8269ec4b.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1163139672",
+          "FileName": "r2_ee5450db-9ae4-44f1-8e7b-b0cc8269ec4b.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_ee5450db-9ae4-44f1-8e7b-b0cc8269ec4b.jpg"
         },
         {
-          "FileName": "419b4aa2-07c8-466d-be09-e3a11c7d0ff7.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1696667827",
+          "FileName": "419b4aa2-07c8-466d-be09-e3a11c7d0ff7.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/419b4aa2-07c8-466d-be09-e3a11c7d0ff7.jpg"
         },
         {
-          "FileName": "9af4e8b0-8a1e-4f5f-8216-b13541b1c6e3.jpg",
-          "Type": "Box - Front",
-          "Region": "Russia",
           "CRC32": "926163733",
+          "FileName": "9af4e8b0-8a1e-4f5f-8216-b13541b1c6e3.jpg",
+          "Region": "Russia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9af4e8b0-8a1e-4f5f-8216-b13541b1c6e3.jpg"
         },
         {
-          "FileName": "971e08ca-8e9f-4857-add1-0383d0c2a2e2.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1122426351",
+          "FileName": "971e08ca-8e9f-4857-add1-0383d0c2a2e2.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/971e08ca-8e9f-4857-add1-0383d0c2a2e2.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "7386d43a-db49-4dac-b14c-3ad5bbfe3795.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "713814267",
+        "FileName": "7386d43a-db49-4dac-b14c-3ad5bbfe3795.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/7386d43a-db49-4dac-b14c-3ad5bbfe3795.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1874886867",
         "FileName": "198fe28a-a8ff-4dc1-bf73-d33d4d5a054a.png",
         "Type": "Clear Logo",
-        "CRC32": "1874886867",
         "URL": "http://images.launchbox-app.com/198fe28a-a8ff-4dc1-bf73-d33d4d5a054a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.83333333333333",
+  "DatabaseID": "13531",
+  "Developer": "Electronic Arts Canada",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Sports",
+  "Name": "NHL 10",
+  "Overview": "NHL 10 is the 19th edition in the Electronic Arts' long-running ice-hockey series. This version features boardwork, a few tinkers to the control system and improved crowd realism. Other improvements include general physics and animation refinement.\n\nIn addition to the standard NHL and AHL leagues, NHL 10 also features the Swedish Elitserien, Finland's SM-liiga, Germany's DEL, and the Czech O2 Extraliga, all of which were featured in the previous installment, NHL 09. This game also adds a new league, the Swiss National League A.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2009-09-15T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/NHL_10"
 }

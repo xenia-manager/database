@@ -1,131 +1,131 @@
 {
-  "Name": "Hunted: The Demon's Forge",
-  "DatabaseID": "12784",
-  "ReleaseDate": "2011-05-31T00:00:00+00:00",
-  "Overview": "The protagonists of Hunted: The Demon's Forge are the elven woman E'lara and the the human warrior Caddoc, two mercenaries in a long-time working relationship. After they get hunted by dark visions of demons they embark in an epic fight to save the world.\n\nThe game is designed as a co-op title, which means that the two heroes have to work together - while Caddoc is the specialist for melee combat, E'lara is an archer. If needed both can switch to the other fighting style, but are less effective. Besides a few co-op puzzles, most time is spent in combat: the characters are directly controlled and need to use their abilities, e.g. Caddoc needs to block and dodge. E'lara and Caddoc both have six special attacks (three weapon abilities and three spells) which are learned and upgraded by finding crystals.\n\nWeapons and armor wear off after time, and new equipment can be found on weapon racks or in the remains of dead enemies. When playing alone, the player always switches between both protagonists; the other is controlled by the AI.",
-  "VideoURL": "https://www.youtube.com/watch?v=qp7ccLAII40&ab_channel=BethesdaSoftworks",
-  "CommunityRating": "3.57142857142857",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Hunted:_The_Demon%27s_Forge",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Role-Playing",
-  "Developer": "inXile Entertainment",
-  "Publisher": "Bethesda Softworks",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_5c78e4e5-e76a-47a1-a40a-c8d9662bd8e8.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3414533073",
-        "URL": "http://images.launchbox-app.com/r2_5c78e4e5-e76a-47a1-a40a-c8d9662bd8e8.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_e41f0a4b-8925-4932-8cd5-5d7fd0014a1f.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "869647276",
+        "FileName": "r2_77c6b1fe-df1b-4eeb-8b4c-5c14bde309e0.jpg",
         "Region": "World",
-        "CRC32": "3039478037",
-        "URL": "http://images.launchbox-app.com/r2_e41f0a4b-8925-4932-8cd5-5d7fd0014a1f.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_77c6b1fe-df1b-4eeb-8b4c-5c14bde309e0.jpg"
       },
       {
-        "FileName": "r2_b2f13169-7271-4665-a7ea-f16b3d5371be.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3175888815",
+        "FileName": "r2_b2f13169-7271-4665-a7ea-f16b3d5371be.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_b2f13169-7271-4665-a7ea-f16b3d5371be.jpg"
       },
       {
-        "FileName": "r2_77c6b1fe-df1b-4eeb-8b4c-5c14bde309e0.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3039478037",
+        "FileName": "r2_e41f0a4b-8925-4932-8cd5-5d7fd0014a1f.jpg",
         "Region": "World",
-        "CRC32": "869647276",
-        "URL": "http://images.launchbox-app.com/r2_77c6b1fe-df1b-4eeb-8b4c-5c14bde309e0.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_e41f0a4b-8925-4932-8cd5-5d7fd0014a1f.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3414533073",
+        "FileName": "r2_5c78e4e5-e76a-47a1-a40a-c8d9662bd8e8.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_5c78e4e5-e76a-47a1-a40a-c8d9662bd8e8.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "f77b8a2f-2d5b-4b8a-be88-394d7a00eed9.png",
-          "Type": "Box - 3D",
-          "Region": "United Kingdom",
           "CRC32": "1788178016",
+          "FileName": "f77b8a2f-2d5b-4b8a-be88-394d7a00eed9.png",
+          "Region": "United Kingdom",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/f77b8a2f-2d5b-4b8a-be88-394d7a00eed9.png"
         }
       ],
       "Back": [
         {
-          "FileName": "137bb88b-ede5-4a0f-a260-9e1acb859e1d.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1181927618",
+          "FileName": "137bb88b-ede5-4a0f-a260-9e1acb859e1d.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/137bb88b-ede5-4a0f-a260-9e1acb859e1d.jpg"
         },
         {
-          "FileName": "6e601b65-2417-4fa7-90e3-8ab0d86e1b82.jpg",
-          "Type": "Box - Back",
-          "Region": "United Kingdom",
           "CRC32": "545429820",
+          "FileName": "6e601b65-2417-4fa7-90e3-8ab0d86e1b82.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/6e601b65-2417-4fa7-90e3-8ab0d86e1b82.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "eadb9581-eb9b-40e0-a046-f5ca39b3ce91.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2765953747",
+          "FileName": "eadb9581-eb9b-40e0-a046-f5ca39b3ce91.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/eadb9581-eb9b-40e0-a046-f5ca39b3ce91.jpg"
         },
         {
-          "FileName": "88e1a9fb-82c4-45af-b125-3567cf17b77c.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
           "CRC32": "1496086684",
+          "FileName": "88e1a9fb-82c4-45af-b125-3567cf17b77c.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/88e1a9fb-82c4-45af-b125-3567cf17b77c.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "0fa7ad49-dfe9-46a4-8484-464d4c147b9e.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "4148483695",
+          "FileName": "0fa7ad49-dfe9-46a4-8484-464d4c147b9e.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/0fa7ad49-dfe9-46a4-8484-464d4c147b9e.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_51bf1fbc-b909-472b-a6a3-017d30aca3c2.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3296371231",
+        "FileName": "r2_51bf1fbc-b909-472b-a6a3-017d30aca3c2.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_51bf1fbc-b909-472b-a6a3-017d30aca3c2.png"
       },
       {
-        "FileName": "37a174f5-6af3-4588-8b0c-108e2f819579.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "236555653",
+        "FileName": "37a174f5-6af3-4588-8b0c-108e2f819579.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/37a174f5-6af3-4588-8b0c-108e2f819579.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "65828e30-7358-46b0-93cc-ce3018fc8d3e.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2624916792",
-        "URL": "http://images.launchbox-app.com/65828e30-7358-46b0-93cc-ce3018fc8d3e.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2602957721",
         "FileName": "3be51097-4154-4600-8242-ce577091d13d.png",
         "Type": "Clear Logo",
-        "CRC32": "2602957721",
         "URL": "http://images.launchbox-app.com/3be51097-4154-4600-8242-ce577091d13d.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2624916792",
+        "FileName": "65828e30-7358-46b0-93cc-ce3018fc8d3e.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/65828e30-7358-46b0-93cc-ce3018fc8d3e.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.57142857142857",
+  "DatabaseID": "12784",
+  "Developer": "inXile Entertainment",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Role-Playing",
+  "Name": "Hunted: The Demon's Forge",
+  "Overview": "The protagonists of Hunted: The Demon's Forge are the elven woman E'lara and the the human warrior Caddoc, two mercenaries in a long-time working relationship. After they get hunted by dark visions of demons they embark in an epic fight to save the world.\n\nThe game is designed as a co-op title, which means that the two heroes have to work together - while Caddoc is the specialist for melee combat, E'lara is an archer. If needed both can switch to the other fighting style, but are less effective. Besides a few co-op puzzles, most time is spent in combat: the characters are directly controlled and need to use their abilities, e.g. Caddoc needs to block and dodge. E'lara and Caddoc both have six special attacks (three weapon abilities and three spells) which are learned and upgraded by finding crystals.\n\nWeapons and armor wear off after time, and new equipment can be found on weapon racks or in the remains of dead enemies. When playing alone, the player always switches between both protagonists; the other is controlled by the AI.",
+  "Publisher": "Bethesda Softworks",
+  "ReleaseDate": "2011-05-31T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=qp7ccLAII40&ab_channel=BethesdaSoftworks",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Hunted:_The_Demon%27s_Forge"
 }

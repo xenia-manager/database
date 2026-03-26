@@ -1,201 +1,201 @@
 {
-  "Name": "Import Tuner Challenge",
-  "DatabaseID": "164595",
-  "ReleaseDate": "2006-07-27T00:00:00+00:00",
-  "Overview": "Import Tuner Challenge is the next iteration in the long running Tokyo Xtreme Racer Series (1, 2, Zero, 3). Gameplay remains almost identical, but with upgraded graphics and HD 720p support. Players race on highways around Tokyo. Cars are purchased and customized with parts that effect cars handling, appearance, and power. Cars are primarily Japanese-centric or imports for the U.S. market. Vehicle customizations includes body kits, nitrous, neon lights, interior gauges, roll cages, seats, dangly things for your rear view mirror, and many more performance enhancing upgrades from suspension, engine, transmission, and other drivetrain upgrades. The courses and regions you drive and race on are based on real world locations and other rivals can be found both on the courses and in rest stop areas around Tokyo. Certain rivals require certain additions to be on your vehicle, or your vehicle to be configured a certain way, or your garage or pocket book to be a certain point before deeming you worthy of a challenge.",
-  "VideoURL": "https://www.youtube.com/watch?v=T9wUceoDEdY",
-  "CommunityRating": "3.9",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Import_Tuner_Challenge",
-  "ESRB": "E - Everyone",
-  "Genres": "Racing",
-  "Developer": "Genki",
-  "Publisher": "Ubisoft Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_786f6796-c584-4bfc-8cd7-3c7a6edbf0cf.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "478692430",
-        "URL": "http://images.launchbox-app.com/r2_786f6796-c584-4bfc-8cd7-3c7a6edbf0cf.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "314835241",
         "FileName": "94f923b5-4872-4598-8d2c-26f8f8da3a1b.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "314835241",
         "URL": "http://images.launchbox-app.com/94f923b5-4872-4598-8d2c-26f8f8da3a1b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "478692430",
+        "FileName": "r2_786f6796-c584-4bfc-8cd7-3c7a6edbf0cf.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_786f6796-c584-4bfc-8cd7-3c7a6edbf0cf.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "bd431fa1-8c27-493c-9e49-a8451aff14b3.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3104858661",
+          "FileName": "bd431fa1-8c27-493c-9e49-a8451aff14b3.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/bd431fa1-8c27-493c-9e49-a8451aff14b3.png"
         }
       ],
       "Back": [
         {
-          "FileName": "b429e69f-b7a8-4921-84eb-78642ae1864e.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "483634451",
+          "FileName": "b429e69f-b7a8-4921-84eb-78642ae1864e.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/b429e69f-b7a8-4921-84eb-78642ae1864e.jpg"
         },
         {
-          "FileName": "a1380a73-881c-49f0-802b-5a9301dafee3.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "381735121",
+          "FileName": "a1380a73-881c-49f0-802b-5a9301dafee3.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/a1380a73-881c-49f0-802b-5a9301dafee3.jpg"
         },
         {
-          "FileName": "c746908c-6104-4f72-947a-c4ccfa7c60ad.png",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2854858925",
+          "FileName": "c746908c-6104-4f72-947a-c4ccfa7c60ad.png",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/c746908c-6104-4f72-947a-c4ccfa7c60ad.png"
         }
       ],
       "Front": [
         {
-          "FileName": "ffe5597c-f750-4a64-9b64-8574830b371c.png",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "727118797",
+          "FileName": "ffe5597c-f750-4a64-9b64-8574830b371c.png",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ffe5597c-f750-4a64-9b64-8574830b371c.png"
         },
         {
-          "FileName": "r2_c065b19b-9db4-469a-b8b1-1181033c297c.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1614599330",
+          "FileName": "r2_c065b19b-9db4-469a-b8b1-1181033c297c.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_c065b19b-9db4-469a-b8b1-1181033c297c.jpg"
         },
         {
-          "FileName": "cf23f5f3-b4ce-4666-be4f-8176672375a0.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "3655205392",
+          "FileName": "cf23f5f3-b4ce-4666-be4f-8176672375a0.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/cf23f5f3-b4ce-4666-be4f-8176672375a0.jpg"
         },
         {
-          "FileName": "0241b6b0-7c78-45d2-a329-5c9d0d94794f.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2593988015",
+          "FileName": "0241b6b0-7c78-45d2-a329-5c9d0d94794f.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0241b6b0-7c78-45d2-a329-5c9d0d94794f.jpg"
         },
         {
-          "FileName": "c7bb1be9-948e-486f-8d4c-f91a0b80cbba.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1058113937",
+          "FileName": "c7bb1be9-948e-486f-8d4c-f91a0b80cbba.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/c7bb1be9-948e-486f-8d4c-f91a0b80cbba.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "4c7ef9a8-0937-4845-9667-75803d8cc0c0.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "4086550351",
+          "FileName": "4c7ef9a8-0937-4845-9667-75803d8cc0c0.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/4c7ef9a8-0937-4845-9667-75803d8cc0c0.jpg"
         },
         {
-          "FileName": "91b74a9b-7450-4f2f-b3ac-c28fc0975e79.png",
-          "Type": "Box - Spine",
-          "Region": "Japan",
           "CRC32": "1815029023",
+          "FileName": "91b74a9b-7450-4f2f-b3ac-c28fc0975e79.png",
+          "Region": "Japan",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/91b74a9b-7450-4f2f-b3ac-c28fc0975e79.png"
         },
         {
-          "FileName": "9aa6124a-8a2d-4e8c-9546-ec1548f5dc7e.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3825765874",
+          "FileName": "9aa6124a-8a2d-4e8c-9546-ec1548f5dc7e.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/9aa6124a-8a2d-4e8c-9546-ec1548f5dc7e.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "a42e470e-7807-4677-8a1f-ef9db3c99caa.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "4193036142",
+        "FileName": "a42e470e-7807-4677-8a1f-ef9db3c99caa.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/a42e470e-7807-4677-8a1f-ef9db3c99caa.png"
       },
       {
-        "FileName": "e0a47630-b51a-49f8-9de7-371a62f2f492.png",
-        "Type": "Disc",
-        "Region": "Japan",
         "CRC32": "3847992546",
+        "FileName": "e0a47630-b51a-49f8-9de7-371a62f2f492.png",
+        "Region": "Japan",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/e0a47630-b51a-49f8-9de7-371a62f2f492.png"
       },
       {
-        "FileName": "39a3ccbb-3ec3-4f0b-85d9-7edb6a20d428.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "356550566",
+        "FileName": "39a3ccbb-3ec3-4f0b-85d9-7edb6a20d428.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/39a3ccbb-3ec3-4f0b-85d9-7edb6a20d428.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "e6c19782-ba80-451f-8e52-805f293329a7.png",
-        "Type": "Screenshot - Game Select",
-        "Region": "Japan",
-        "CRC32": "1558438772",
-        "URL": "http://images.launchbox-app.com/e6c19782-ba80-451f-8e52-805f293329a7.png"
-      },
-      {
-        "FileName": "461a0007-62f0-401b-938c-b1efa1e3243e.png",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
-        "CRC32": "294782065",
-        "URL": "http://images.launchbox-app.com/461a0007-62f0-401b-938c-b1efa1e3243e.png"
-      },
-      {
-        "FileName": "3bd0f301-49bf-4f85-ac1c-628c51cef855.png",
-        "Type": "Screenshot - Game Title",
-        "Region": "Japan",
-        "CRC32": "1390480885",
-        "URL": "http://images.launchbox-app.com/3bd0f301-49bf-4f85-ac1c-628c51cef855.png"
-      },
-      {
-        "FileName": "b47e3ddc-5624-4e31-b63a-4560c1640ff9.png",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
-        "CRC32": "2386413065",
-        "URL": "http://images.launchbox-app.com/b47e3ddc-5624-4e31-b63a-4560c1640ff9.png"
-      },
-      {
-        "FileName": "20434b26-fc4b-461a-b5dc-8213451b182f.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "801797191",
-        "URL": "http://images.launchbox-app.com/20434b26-fc4b-461a-b5dc-8213451b182f.png"
       }
     ],
     "Other": [
       {
-        "FileName": "ce13c773-2f3b-4579-b0ab-6ed983a1748e.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "3376472773",
+        "FileName": "ce13c773-2f3b-4579-b0ab-6ed983a1748e.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/ce13c773-2f3b-4579-b0ab-6ed983a1748e.png"
       },
       {
-        "FileName": "6fbea30e-4d06-49ce-be34-11c8f007eb12.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "4036590340",
+        "FileName": "6fbea30e-4d06-49ce-be34-11c8f007eb12.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/6fbea30e-4d06-49ce-be34-11c8f007eb12.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1558438772",
+        "FileName": "e6c19782-ba80-451f-8e52-805f293329a7.png",
+        "Region": "Japan",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/e6c19782-ba80-451f-8e52-805f293329a7.png"
+      },
+      {
+        "CRC32": "294782065",
+        "FileName": "461a0007-62f0-401b-938c-b1efa1e3243e.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/461a0007-62f0-401b-938c-b1efa1e3243e.png"
+      },
+      {
+        "CRC32": "1390480885",
+        "FileName": "3bd0f301-49bf-4f85-ac1c-628c51cef855.png",
+        "Region": "Japan",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/3bd0f301-49bf-4f85-ac1c-628c51cef855.png"
+      },
+      {
+        "CRC32": "2386413065",
+        "FileName": "b47e3ddc-5624-4e31-b63a-4560c1640ff9.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/b47e3ddc-5624-4e31-b63a-4560c1640ff9.png"
+      },
+      {
+        "CRC32": "801797191",
+        "FileName": "20434b26-fc4b-461a-b5dc-8213451b182f.png",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/20434b26-fc4b-461a-b5dc-8213451b182f.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.9",
+  "DatabaseID": "164595",
+  "Developer": "Genki",
+  "ESRB": "E - Everyone",
+  "Genres": "Racing",
+  "Name": "Import Tuner Challenge",
+  "Overview": "Import Tuner Challenge is the next iteration in the long running Tokyo Xtreme Racer Series (1, 2, Zero, 3). Gameplay remains almost identical, but with upgraded graphics and HD 720p support. Players race on highways around Tokyo. Cars are purchased and customized with parts that effect cars handling, appearance, and power. Cars are primarily Japanese-centric or imports for the U.S. market. Vehicle customizations includes body kits, nitrous, neon lights, interior gauges, roll cages, seats, dangly things for your rear view mirror, and many more performance enhancing upgrades from suspension, engine, transmission, and other drivetrain upgrades. The courses and regions you drive and race on are based on real world locations and other rivals can be found both on the courses and in rest stop areas around Tokyo. Certain rivals require certain additions to be on your vehicle, or your vehicle to be configured a certain way, or your garage or pocket book to be a certain point before deeming you worthy of a challenge.",
+  "Publisher": "Ubisoft Entertainment",
+  "ReleaseDate": "2006-07-27T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=T9wUceoDEdY",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Import_Tuner_Challenge"
 }

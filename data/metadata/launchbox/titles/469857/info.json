@@ -1,60 +1,60 @@
 {
-  "Name": "The Gravity Effect",
-  "DatabaseID": "469857",
-  "ReleaseDate": "2009-02-17T00:00:00+00:00",
-  "Overview": "The Gravity Effect is a side-scrolling platformer. The goal of the 30 levels is easy: reaching the end. The gimmick is that the player has two gravity-based abilities: increasing (for higher jumps) and decreasing (for higher jumps down without damage) gravity for a short time as well as affecting other objects, e.g. pushing a block without physical touch. Using those abilities decreases the power bar and when it is gone, no more actions are possible. It automatically refills when not using it for a short time.\n\nThe game is puzzle oriented. This means the player needs to find out how to use the gravity power to progress in the level. Most puzzles are related to the three switch types (stay pressed, only stay activated while it is pressed and others which only last for a limited) which usually change the level gravity. For example, pressing a switch may change the gravity direction to left and allows to walk on walls. There are also gravity fields which only affect the gravity in their range of effect. After death (e.g. after touching a hazardous object or falling too far), the player needs to restart at the last checkpoint. There are no limitation of tries.\n\nThe strength of all possible actions are rated with a power level. The abilities are upgraded when finding secrets. Additionally there is a level editor to build more levels.",
-  "VideoURL": "https://youtu.be/HzUrlNLtuGo",
-  "Genres": "Platform",
-  "Developer": "Riddlersoft",
-  "Publisher": "Riddlersoft",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "b9ac138f-516e-410c-b211-bd177da46368.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1433069297",
+          "FileName": "b9ac138f-516e-410c-b211-bd177da46368.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b9ac138f-516e-410c-b211-bd177da46368.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "231068b0-2635-4b06-9a97-a3f04ba58137.png",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "509999054",
+        "FileName": "231068b0-2635-4b06-9a97-a3f04ba58137.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/231068b0-2635-4b06-9a97-a3f04ba58137.png"
       },
       {
-        "FileName": "438ca7f5-7a0e-4433-b7cd-51ef27d40eec.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1277927981",
-        "URL": "http://images.launchbox-app.com/438ca7f5-7a0e-4433-b7cd-51ef27d40eec.png"
-      },
-      {
-        "FileName": "29371d49-b8d4-4ff5-a289-937a6c7e22a1.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2993676629",
+        "FileName": "29371d49-b8d4-4ff5-a289-937a6c7e22a1.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/29371d49-b8d4-4ff5-a289-937a6c7e22a1.png"
       },
       {
-        "FileName": "fab02865-67f8-4559-b803-e2a7837b4f48.png",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1277927981",
+        "FileName": "438ca7f5-7a0e-4433-b7cd-51ef27d40eec.png",
         "Region": "World",
-        "CRC32": "1215204866",
-        "URL": "http://images.launchbox-app.com/fab02865-67f8-4559-b803-e2a7837b4f48.png"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/438ca7f5-7a0e-4433-b7cd-51ef27d40eec.png"
       },
       {
-        "FileName": "9bf4ba13-4e54-4b33-aeb4-e3bf062b81fb.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1103666510",
+        "FileName": "9bf4ba13-4e54-4b33-aeb4-e3bf062b81fb.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/9bf4ba13-4e54-4b33-aeb4-e3bf062b81fb.png"
+      },
+      {
+        "CRC32": "1215204866",
+        "FileName": "fab02865-67f8-4559-b803-e2a7837b4f48.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/fab02865-67f8-4559-b803-e2a7837b4f48.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "469857",
+  "Developer": "Riddlersoft",
+  "Genres": "Platform",
+  "Name": "The Gravity Effect",
+  "Overview": "The Gravity Effect is a side-scrolling platformer. The goal of the 30 levels is easy: reaching the end. The gimmick is that the player has two gravity-based abilities: increasing (for higher jumps) and decreasing (for higher jumps down without damage) gravity for a short time as well as affecting other objects, e.g. pushing a block without physical touch. Using those abilities decreases the power bar and when it is gone, no more actions are possible. It automatically refills when not using it for a short time.\n\nThe game is puzzle oriented. This means the player needs to find out how to use the gravity power to progress in the level. Most puzzles are related to the three switch types (stay pressed, only stay activated while it is pressed and others which only last for a limited) which usually change the level gravity. For example, pressing a switch may change the gravity direction to left and allows to walk on walls. There are also gravity fields which only affect the gravity in their range of effect. After death (e.g. after touching a hazardous object or falling too far), the player needs to restart at the last checkpoint. There are no limitation of tries.\n\nThe strength of all possible actions are rated with a power level. The abilities are upgraded when finding secrets. Additionally there is a level editor to build more levels.",
+  "Publisher": "Riddlersoft",
+  "ReleaseDate": "2009-02-17T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/HzUrlNLtuGo"
 }

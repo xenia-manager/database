@@ -1,53 +1,53 @@
 {
-  "Name": "Garrett the Slug",
-  "DatabaseID": "469714",
-  "ReleaseDate": "2008-11-21T00:00:00+00:00",
-  "Overview": "Garrett the Slug is a Snake variant. The player controls Garrett over the single screen in order to collect colored items (labeled foodstuff). However, each time one is eaten, Garrett leaves a longer slime trails behind his way. When he hits either his own trail or one of the rocks, the game is over, the amount of collected foodstuff is displayed and a new level is created. The rocks are permanent during one round, but the foodstuff re-spawns in other locations when collected.",
-  "VideoURL": "https://youtu.be/iRh1vOV6L1s",
-  "Genres": "Action",
-  "Developer": "The Unallied",
-  "Publisher": "The Unallied",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "af169347-ffe8-408c-8bf7-8ffc8c601d37.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2417434196",
+          "FileName": "af169347-ffe8-408c-8bf7-8ffc8c601d37.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/af169347-ffe8-408c-8bf7-8ffc8c601d37.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "38d01357-6b32-4f10-b313-d85346a78e7a.jpg",
-        "Type": "Screenshot - Game Over",
-        "Region": "World",
         "CRC32": "1247003191",
+        "FileName": "38d01357-6b32-4f10-b313-d85346a78e7a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Over",
         "URL": "http://images.launchbox-app.com/38d01357-6b32-4f10-b313-d85346a78e7a.jpg"
       },
       {
-        "FileName": "532e02da-fa2b-4868-b356-5fd48612a07a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3599611565",
+        "FileName": "532e02da-fa2b-4868-b356-5fd48612a07a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/532e02da-fa2b-4868-b356-5fd48612a07a.jpg"
       },
       {
-        "FileName": "b9575cd2-60db-49a5-b64a-c6f5b41025f9.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "600107132",
+        "FileName": "b9575cd2-60db-49a5-b64a-c6f5b41025f9.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/b9575cd2-60db-49a5-b64a-c6f5b41025f9.jpg"
       },
       {
-        "FileName": "db291df4-fa98-4c11-a9ae-5bd9be2f2640.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3428143393",
+        "FileName": "db291df4-fa98-4c11-a9ae-5bd9be2f2640.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/db291df4-fa98-4c11-a9ae-5bd9be2f2640.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469714",
+  "Developer": "The Unallied",
+  "Genres": "Action",
+  "Name": "Garrett the Slug",
+  "Overview": "Garrett the Slug is a Snake variant. The player controls Garrett over the single screen in order to collect colored items (labeled foodstuff). However, each time one is eaten, Garrett leaves a longer slime trails behind his way. When he hits either his own trail or one of the rocks, the game is over, the amount of collected foodstuff is displayed and a new level is created. The rocks are permanent during one round, but the foodstuff re-spawns in other locations when collected.",
+  "Publisher": "The Unallied",
+  "ReleaseDate": "2008-11-21T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/iRh1vOV6L1s"
 }

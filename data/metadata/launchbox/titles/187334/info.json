@@ -1,77 +1,77 @@
 {
-  "Name": "The Bluecoats: North vs South",
-  "DatabaseID": "187334",
-  "ReleaseDate": "2016-09-13T00:00:00+00:00",
-  "Overview": "The Bluecoats: North vs South is a remake of the classic North & South. In this turn-based strategy game, the player takes control of the Union or the Confederacy. Move your troops in turns around a map of the USA to seize forts, harbours or railway lines. Controlling forts and railways will grant you supplies. If you attack an area where enemy troops are stationed, a tactical fight will start. Move around infantry, cavalry and artillery and win control over the area. Also included are the mini games from the original game.",
-  "CommunityRating": "4.5",
-  "Genres": "Strategy",
-  "Developer": "Little Worlds Studio",
-  "Publisher": "Microïds",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3809788919",
         "FileName": "208e93f0-480f-4d50-85dd-da1c335e1a5b.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3809788919",
         "URL": "http://images.launchbox-app.com/208e93f0-480f-4d50-85dd-da1c335e1a5b.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "be52b4e7-77b0-4dff-9ebd-bf3560123ad6.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2871684234",
+          "FileName": "be52b4e7-77b0-4dff-9ebd-bf3560123ad6.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/be52b4e7-77b0-4dff-9ebd-bf3560123ad6.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "1481934429",
+        "FileName": "0258c9d1-d7ea-47b3-bfb0-02fb359374f7.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/0258c9d1-d7ea-47b3-bfb0-02fb359374f7.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "510368371",
         "FileName": "7427b694-346f-4393-8e6b-0888bb39975b.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "510368371",
         "URL": "http://images.launchbox-app.com/7427b694-346f-4393-8e6b-0888bb39975b.jpg"
       },
       {
+        "CRC32": "1608579947",
         "FileName": "fc0c833c-1d01-4955-aacd-b4b477265027.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "1608579947",
         "URL": "http://images.launchbox-app.com/fc0c833c-1d01-4955-aacd-b4b477265027.jpg"
       },
       {
-        "FileName": "78958b53-994c-4215-8ba5-849ff594eeee.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "495503159",
-        "URL": "http://images.launchbox-app.com/78958b53-994c-4215-8ba5-849ff594eeee.jpg"
-      },
-      {
-        "FileName": "28f07c9a-e47a-4f70-a49a-ccc2c389976f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2851669135",
-        "URL": "http://images.launchbox-app.com/28f07c9a-e47a-4f70-a49a-ccc2c389976f.jpg"
-      },
-      {
+        "CRC32": "1959523671",
         "FileName": "029aa9fe-7ad5-4aa0-8aa1-8e76438a103d.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1959523671",
         "URL": "http://images.launchbox-app.com/029aa9fe-7ad5-4aa0-8aa1-8e76438a103d.jpg"
       },
       {
+        "CRC32": "2851669135",
+        "FileName": "28f07c9a-e47a-4f70-a49a-ccc2c389976f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/28f07c9a-e47a-4f70-a49a-ccc2c389976f.jpg"
+      },
+      {
+        "CRC32": "495503159",
+        "FileName": "78958b53-994c-4215-8ba5-849ff594eeee.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/78958b53-994c-4215-8ba5-849ff594eeee.jpg"
+      },
+      {
+        "CRC32": "3832413115",
         "FileName": "e4aa6d3c-e655-4d8c-8ff8-e3636167cc70.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3832413115",
         "URL": "http://images.launchbox-app.com/e4aa6d3c-e655-4d8c-8ff8-e3636167cc70.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "0258c9d1-d7ea-47b3-bfb0-02fb359374f7.png",
-        "Type": "Clear Logo",
-        "CRC32": "1481934429",
-        "URL": "http://images.launchbox-app.com/0258c9d1-d7ea-47b3-bfb0-02fb359374f7.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "187334",
+  "Developer": "Little Worlds Studio",
+  "Genres": "Strategy",
+  "Name": "The Bluecoats: North vs South",
+  "Overview": "The Bluecoats: North vs South is a remake of the classic North & South. In this turn-based strategy game, the player takes control of the Union or the Confederacy. Move your troops in turns around a map of the USA to seize forts, harbours or railway lines. Controlling forts and railways will grant you supplies. If you attack an area where enemy troops are stationed, a tactical fight will start. Move around infantry, cavalry and artillery and win control over the area. Also included are the mini games from the original game.",
+  "Publisher": "Microïds",
+  "ReleaseDate": "2016-09-13T00:00:00+00:00"
 }

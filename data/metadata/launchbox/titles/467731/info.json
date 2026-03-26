@@ -1,38 +1,38 @@
 {
-  "Name": "Avatar Running 2",
-  "DatabaseID": "467731",
-  "ReleaseDate": "2012-04-12T00:00:00+00:00",
-  "Overview": "\"Avatar Running 2\" is a multiplayer action platformer that offers a multiplayer Score Attack Mode, single player Time Attack Mode, P2P Time Attack rankings, Course design support, and P2P sharing of courses. In Time Attack mode, the ghost of the fastest record is displayed.",
-  "Genres": "Sports",
-  "Developer": "AloneSoft",
-  "Publisher": "AloneSoft",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "f104e6c3-90e9-4f00-851f-b56cf33ac3d0.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3914375370",
+          "FileName": "f104e6c3-90e9-4f00-851f-b56cf33ac3d0.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f104e6c3-90e9-4f00-851f-b56cf33ac3d0.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "a1294ccb-e795-47be-8ea2-a04952789817.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1746778445",
+        "FileName": "36b4839d-7683-4bc7-abc1-ad0303ec38b9.jpg",
         "Region": "World",
-        "CRC32": "2124111931",
-        "URL": "http://images.launchbox-app.com/a1294ccb-e795-47be-8ea2-a04952789817.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/36b4839d-7683-4bc7-abc1-ad0303ec38b9.jpg"
       },
       {
-        "FileName": "36b4839d-7683-4bc7-abc1-ad0303ec38b9.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2124111931",
+        "FileName": "a1294ccb-e795-47be-8ea2-a04952789817.jpg",
         "Region": "World",
-        "CRC32": "1746778445",
-        "URL": "http://images.launchbox-app.com/36b4839d-7683-4bc7-abc1-ad0303ec38b9.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a1294ccb-e795-47be-8ea2-a04952789817.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467731",
+  "Developer": "AloneSoft",
+  "Genres": "Sports",
+  "Name": "Avatar Running 2",
+  "Overview": "\"Avatar Running 2\" is a multiplayer action platformer that offers a multiplayer Score Attack Mode, single player Time Attack Mode, P2P Time Attack rankings, Course design support, and P2P sharing of courses. In Time Attack mode, the ghost of the fastest record is displayed.",
+  "Publisher": "AloneSoft",
+  "ReleaseDate": "2012-04-12T00:00:00+00:00"
 }

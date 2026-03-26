@@ -1,23 +1,23 @@
 {
-  "Name": "Dossun World",
-  "DatabaseID": "469040",
-  "ReleaseDate": "2010-09-18T00:00:00+00:00",
-  "Overview": "This is scroll action game. The enemy can be defeated by causing the wave. The player can make the wave by the hip attack etc.",
-  "VideoURL": "https://youtu.be/EDRMYXYGerk",
-  "Genres": "Action; Platform",
-  "Developer": "konoha",
-  "Publisher": "konoha",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "87d6bd1d-5bdf-43e9-a464-472210762902.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1785954123",
+          "FileName": "87d6bd1d-5bdf-43e9-a464-472210762902.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/87d6bd1d-5bdf-43e9-a464-472210762902.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469040",
+  "Developer": "konoha",
+  "Genres": "Action; Platform",
+  "Name": "Dossun World",
+  "Overview": "This is scroll action game. The enemy can be defeated by causing the wave. The player can make the wave by the hip attack etc.",
+  "Publisher": "konoha",
+  "ReleaseDate": "2010-09-18T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/EDRMYXYGerk"
 }

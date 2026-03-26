@@ -1,59 +1,59 @@
 {
-  "Name": "Worms",
-  "DatabaseID": "94993",
-  "ReleaseDate": "2007-03-07T00:00:00+00:00",
-  "Overview": "Gird your loins, grow a spine, and prepare yourself for war! The worms are back, ready to kick some dirt, and itching to give you all the mayhem you can handle! In the full version, you can battle up to three other players on one of three random landscape themes, change the multitude of game settings, collect all of the 12 achievements, and write your name in the “Worms” hall of fame. Don’t delay, show some backbone, and buy “Worms” now -- the invertebrate army wants YOU!",
-  "CommunityRating": "3.78571428571429",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Worms_(2007_video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Strategy",
-  "Developer": "Team17 Software",
-  "Publisher": "Team17 Software",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_b2f37443-9d81-47eb-bce7-74af76e7aa3d.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3157097757",
-        "URL": "http://images.launchbox-app.com/r2_b2f37443-9d81-47eb-bce7-74af76e7aa3d.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3556019654",
         "FileName": "171ce40e-4b67-4048-bbe6-139163baba58.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3556019654",
         "URL": "http://images.launchbox-app.com/171ce40e-4b67-4048-bbe6-139163baba58.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3157097757",
+        "FileName": "r2_b2f37443-9d81-47eb-bce7-74af76e7aa3d.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_b2f37443-9d81-47eb-bce7-74af76e7aa3d.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "db04c61d-1e3e-4d76-b6a4-1ba96dee0b1a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1763792136",
+          "FileName": "db04c61d-1e3e-4d76-b6a4-1ba96dee0b1a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/db04c61d-1e3e-4d76-b6a4-1ba96dee0b1a.jpg"
         }
       ]
     },
     "Icon": [
       {
-        "FileName": "r2_5cf32e64-64e7-462b-857c-cbe14e113d46.png",
-        "Type": "Icon",
-        "Region": "World",
         "CRC32": "1488985068",
+        "FileName": "r2_5cf32e64-64e7-462b-857c-cbe14e113d46.png",
+        "Region": "World",
+        "Type": "Icon",
         "URL": "http://images.launchbox-app.com/r2_5cf32e64-64e7-462b-857c-cbe14e113d46.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1792977393",
         "FileName": "eced17f2-0808-4240-bd08-3ce3e67ee372.png",
         "Type": "Clear Logo",
-        "CRC32": "1792977393",
         "URL": "http://images.launchbox-app.com/eced17f2-0808-4240-bd08-3ce3e67ee372.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.78571428571429",
+  "DatabaseID": "94993",
+  "Developer": "Team17 Software",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Strategy",
+  "Name": "Worms",
+  "Overview": "Gird your loins, grow a spine, and prepare yourself for war! The worms are back, ready to kick some dirt, and itching to give you all the mayhem you can handle! In the full version, you can battle up to three other players on one of three random landscape themes, change the multitude of game settings, collect all of the 12 achievements, and write your name in the “Worms” hall of fame. Don’t delay, show some backbone, and buy “Worms” now -- the invertebrate army wants YOU!",
+  "Publisher": "Team17 Software",
+  "ReleaseDate": "2007-03-07T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Worms_(2007_video_game)"
 }

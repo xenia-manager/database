@@ -1,32 +1,32 @@
 {
-  "Name": "Rad Raygun",
-  "DatabaseID": "155180",
-  "ReleaseDate": "2013-02-19T00:00:00+00:00",
-  "Overview": "Stick it to the Soviets! \n\nRad Raygun is a 2-D sidescrolling action platforming game similar to the 8-bit Mega Man games. The game contains five different levels, each ending with a boss fight. Throughout the early part of the game players will acquire some new abilities such as sliding and dashing. The game also contains various power ups which will upgrade weapon damage and decrease the amount of damage taken from enemies.",
-  "VideoURL": "https://www.youtube.com/watch?v=2zp7ec3Aw74",
-  "ESRB": "Not Rated",
-  "Genres": "Action; Platform",
-  "Developer": "TRU FUN Entertainment",
-  "Publisher": "TRU FUN Entertainment",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3398265476",
         "FileName": "ab61f90f-1771-4807-a9b0-a285589ec604.png",
         "Type": "Fanart - Background",
-        "CRC32": "3398265476",
         "URL": "http://images.launchbox-app.com/ab61f90f-1771-4807-a9b0-a285589ec604.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "984b79ec-f8ee-43ad-8e57-66c929f7e9c7.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1955748271",
+          "FileName": "984b79ec-f8ee-43ad-8e57-66c929f7e9c7.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/984b79ec-f8ee-43ad-8e57-66c929f7e9c7.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "155180",
+  "Developer": "TRU FUN Entertainment",
+  "ESRB": "Not Rated",
+  "Genres": "Action; Platform",
+  "Name": "Rad Raygun",
+  "Overview": "Stick it to the Soviets! \n\nRad Raygun is a 2-D sidescrolling action platforming game similar to the 8-bit Mega Man games. The game contains five different levels, each ending with a boss fight. Throughout the early part of the game players will acquire some new abilities such as sliding and dashing. The game also contains various power ups which will upgrade weapon damage and decrease the amount of damage taken from enemies.",
+  "Publisher": "TRU FUN Entertainment",
+  "ReleaseDate": "2013-02-19T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=2zp7ec3Aw74"
 }

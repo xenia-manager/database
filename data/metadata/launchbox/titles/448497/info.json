@@ -1,24 +1,24 @@
 {
-  "Name": "TRON",
-  "DatabaseID": "448497",
-  "ReleaseDate": "2009-12-18T00:00:00+00:00",
-  "Overview": "The arcade classic is back! Re-live the excitement of Tron – race life cycles, demolish tanks, dodge grid bugs and even square off against the MCP himself!",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Tron_(video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Action",
-  "Developer": "Digital Eclipse",
-  "Publisher": "Disney Interactive Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "r2_e6531b72-df99-4dc1-a2db-ee868b0efd4c.png",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "136331826",
+          "FileName": "r2_e6531b72-df99-4dc1-a2db-ee868b0efd4c.png",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_e6531b72-df99-4dc1-a2db-ee868b0efd4c.png"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "448497",
+  "Developer": "Digital Eclipse",
+  "ESRB": "E - Everyone",
+  "Genres": "Action",
+  "Name": "TRON",
+  "Overview": "The arcade classic is back! Re-live the excitement of Tron – race life cycles, demolish tanks, dodge grid bugs and even square off against the MCP himself!",
+  "Publisher": "Disney Interactive Studios",
+  "ReleaseDate": "2009-12-18T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Tron_(video_game)"
 }

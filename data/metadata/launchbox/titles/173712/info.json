@@ -1,75 +1,75 @@
 {
-  "Name": "Zoo Tycoon",
-  "DatabaseID": "173712",
-  "ReleaseDate": "2013-11-22T00:00:00+00:00",
-  "Overview": "Zoo Tycoon is an entry in Microsoft's long-running zoo management series and the first game in the series for a console platform. In the Challenge mode the player has to build a zoo from the ground up with short challenges. This includes designing the environment, building exhibits with important parts such as feeders, bathing stations and various enrichments, taking care of the animals, managing finances and keeping an eye on the visitors' happiness. The game uses a top-down mode for the overall management, a third-person mode to explore the zoo on foot or using a buggie, and a first-person perspective for some activities and taking photographs while exploring, similar to the earlier Kinect: Disneyland Adventures by the same developer. The overall performance is tracked through different status bars with three main colours: red, orange and green. The other game modes next to the Challenge mode are Training mode (ten missions), Freeform mode (no pressure for money or research) and Campaign mode (twenty levels with long-term goals). Up to four players can work together simultaneously in the three main modes to build and maintain the zoo with support for voice chat.\n\nBy doing well experience is gained to level up (zoo fame) and access new possibilities. Many animals and structures need to be researched before they are used (only one at a time) and then they can be used in the zoo. Paths are designed automatically in a logical manner after placing buildings and cannot be edited. Animals include antelopes, bears, binturongs, elephants, flamingoes, fossas, giraffes, hippopotamuses, komodo dragons, iguanas, lemurs, lions, lizards, macaws, meerkats, mongooses, monkeys, pandas, peafowls, rhinos, sloths, snakes, tigers and tortoises. There are multiple varieties of a single species. The Xbox 360 version contains about 65 animals and the Xbox One version over 100. Information about each type of animal is stored in the Zoopedia. All adoptable animals have a level between two and fifteen. Once they reach the highest level, players can choose to release them into the wild. Buildings have levels as well (up to three), for instance allowing you to hire more staff and providing upgrades.\n\nThe game supports Kinect for some activities tied to specific animals. A hose can be used to wash animals, you can pick up fruit to feed them, and baby chimps or lions will attempt to mimic your facial expressions. Voice commands are also supported.",
-  "CommunityRating": "2.8",
-  "ESRB": "E - Everyone",
-  "Genres": "Strategy",
-  "Developer": "Frontier Developments",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_50b753f1-3337-4851-8674-46957218fb0c.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1716055049",
-        "URL": "http://images.launchbox-app.com/r2_50b753f1-3337-4851-8674-46957218fb0c.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_1a5b9d96-c131-4c73-8966-a11be3e8f49e.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1406883341",
+        "FileName": "r2_1a5b9d96-c131-4c73-8966-a11be3e8f49e.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_1a5b9d96-c131-4c73-8966-a11be3e8f49e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1716055049",
+        "FileName": "r2_50b753f1-3337-4851-8674-46957218fb0c.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_50b753f1-3337-4851-8674-46957218fb0c.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_d16c32b9-b83e-413f-b28e-1171b82cf45a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1044003788",
+          "FileName": "r2_d16c32b9-b83e-413f-b28e-1171b82cf45a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_d16c32b9-b83e-413f-b28e-1171b82cf45a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_48040307-3622-448d-816d-3fbfe50d9f84.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "665446802",
+          "FileName": "r2_48040307-3622-448d-816d-3fbfe50d9f84.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_48040307-3622-448d-816d-3fbfe50d9f84.jpg"
         },
         {
-          "FileName": "4e1a5b71-4ca2-4367-b8b7-935d686cc93a.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "661326465",
+          "FileName": "4e1a5b71-4ca2-4367-b8b7-935d686cc93a.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4e1a5b71-4ca2-4367-b8b7-935d686cc93a.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "dc8152e6-1f1f-4d40-831f-e4bea7529e20.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3487420427",
-        "URL": "http://images.launchbox-app.com/dc8152e6-1f1f-4d40-831f-e4bea7529e20.png"
-      }
-    ],
     "Other": [
       {
-        "FileName": "r2_a1994559-7e22-488f-b89f-e3261138da9b.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "256795921",
+        "FileName": "r2_a1994559-7e22-488f-b89f-e3261138da9b.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_a1994559-7e22-488f-b89f-e3261138da9b.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3487420427",
+        "FileName": "dc8152e6-1f1f-4d40-831f-e4bea7529e20.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/dc8152e6-1f1f-4d40-831f-e4bea7529e20.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "2.8",
+  "DatabaseID": "173712",
+  "Developer": "Frontier Developments",
+  "ESRB": "E - Everyone",
+  "Genres": "Strategy",
+  "Name": "Zoo Tycoon",
+  "Overview": "Zoo Tycoon is an entry in Microsoft's long-running zoo management series and the first game in the series for a console platform. In the Challenge mode the player has to build a zoo from the ground up with short challenges. This includes designing the environment, building exhibits with important parts such as feeders, bathing stations and various enrichments, taking care of the animals, managing finances and keeping an eye on the visitors' happiness. The game uses a top-down mode for the overall management, a third-person mode to explore the zoo on foot or using a buggie, and a first-person perspective for some activities and taking photographs while exploring, similar to the earlier Kinect: Disneyland Adventures by the same developer. The overall performance is tracked through different status bars with three main colours: red, orange and green. The other game modes next to the Challenge mode are Training mode (ten missions), Freeform mode (no pressure for money or research) and Campaign mode (twenty levels with long-term goals). Up to four players can work together simultaneously in the three main modes to build and maintain the zoo with support for voice chat.\n\nBy doing well experience is gained to level up (zoo fame) and access new possibilities. Many animals and structures need to be researched before they are used (only one at a time) and then they can be used in the zoo. Paths are designed automatically in a logical manner after placing buildings and cannot be edited. Animals include antelopes, bears, binturongs, elephants, flamingoes, fossas, giraffes, hippopotamuses, komodo dragons, iguanas, lemurs, lions, lizards, macaws, meerkats, mongooses, monkeys, pandas, peafowls, rhinos, sloths, snakes, tigers and tortoises. There are multiple varieties of a single species. The Xbox 360 version contains about 65 animals and the Xbox One version over 100. Information about each type of animal is stored in the Zoopedia. All adoptable animals have a level between two and fifteen. Once they reach the highest level, players can choose to release them into the wild. Buildings have levels as well (up to three), for instance allowing you to hire more staff and providing upgrades.\n\nThe game supports Kinect for some activities tied to specific animals. A hose can be used to wash animals, you can pick up fruit to feed them, and baby chimps or lions will attempt to mimic your facial expressions. Voice commands are also supported.",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2013-11-22T00:00:00+00:00"
 }

@@ -1,93 +1,93 @@
 {
-  "Name": "3 on 3 NHL Arcade",
-  "DatabaseID": "30595",
-  "ReleaseDate": "2009-02-11T00:00:00+00:00",
-  "Overview": "EA SPORTS Freestyle welcomes you to the fast paced world of arcade hockey. From the same team that brought you NHL 09 (EA Canada) comes a 3 on 3 experience that throws conventional hockey, and its rules, out the window. Choose from the NHL’s top players and bring them into this no rules hockey game where big hits rule the day.",
-  "VideoURL": "https://www.youtube.com/watch?v=ONs3g_pZG3Y",
-  "CommunityRating": "3.67857142857143",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/3_on_3_NHL_Arcade",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Canada",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "f47e129a-0430-4501-a266-cf328c4e47f5.png",
-        "Type": "Banner",
-        "CRC32": "2428081296",
-        "URL": "http://images.launchbox-app.com/f47e129a-0430-4501-a266-cf328c4e47f5.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3497022864",
         "FileName": "acacc40b-8ce8-4de7-8a6b-9ec57d5c7a02.png",
         "Type": "Fanart - Background",
-        "CRC32": "3497022864",
         "URL": "http://images.launchbox-app.com/acacc40b-8ce8-4de7-8a6b-9ec57d5c7a02.png"
       },
       {
+        "CRC32": "2908080078",
         "FileName": "ba2d61ae-8963-41b8-92da-e349ae790af2.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2908080078",
         "URL": "http://images.launchbox-app.com/ba2d61ae-8963-41b8-92da-e349ae790af2.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2428081296",
+        "FileName": "f47e129a-0430-4501-a266-cf328c4e47f5.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/f47e129a-0430-4501-a266-cf328c4e47f5.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "f1b1de74-7a93-4c0f-9a02-57cb3904cec1.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1803934133",
+          "FileName": "f1b1de74-7a93-4c0f-9a02-57cb3904cec1.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f1b1de74-7a93-4c0f-9a02-57cb3904cec1.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "cb302ecc-c95e-4169-833d-fac0517f8363.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
-        "CRC32": "4017597147",
-        "URL": "http://images.launchbox-app.com/cb302ecc-c95e-4169-833d-fac0517f8363.png"
-      },
-      {
-        "FileName": "418fcc42-d674-464e-a873-4339318c211c.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
         "CRC32": "2279690447",
+        "FileName": "418fcc42-d674-464e-a873-4339318c211c.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/418fcc42-d674-464e-a873-4339318c211c.png"
       },
       {
-        "FileName": "e09a761f-48ca-41ab-8f8c-b80d16548244.png",
-        "Type": "Fanart - Disc",
+        "CRC32": "4017597147",
+        "FileName": "cb302ecc-c95e-4169-833d-fac0517f8363.png",
         "Region": "North America",
-        "CRC32": "2752427353",
-        "URL": "http://images.launchbox-app.com/e09a761f-48ca-41ab-8f8c-b80d16548244.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "77d732fb-363a-47f3-96e6-14f3f3592ccd.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2860048476",
-        "URL": "http://images.launchbox-app.com/77d732fb-363a-47f3-96e6-14f3f3592ccd.png"
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/cb302ecc-c95e-4169-833d-fac0517f8363.png"
       },
       {
-        "FileName": "3c77a2f7-8914-464b-88b2-24b193323e43.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2000892828",
-        "URL": "http://images.launchbox-app.com/3c77a2f7-8914-464b-88b2-24b193323e43.jpg"
+        "CRC32": "2752427353",
+        "FileName": "e09a761f-48ca-41ab-8f8c-b80d16548244.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/e09a761f-48ca-41ab-8f8c-b80d16548244.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "4095027632",
         "FileName": "9922b1f3-7ebd-4e32-a7fa-ae946c80cef7.png",
         "Type": "Clear Logo",
-        "CRC32": "4095027632",
         "URL": "http://images.launchbox-app.com/9922b1f3-7ebd-4e32-a7fa-ae946c80cef7.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2860048476",
+        "FileName": "77d732fb-363a-47f3-96e6-14f3f3592ccd.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/77d732fb-363a-47f3-96e6-14f3f3592ccd.png"
+      },
+      {
+        "CRC32": "2000892828",
+        "FileName": "3c77a2f7-8914-464b-88b2-24b193323e43.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/3c77a2f7-8914-464b-88b2-24b193323e43.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.67857142857143",
+  "DatabaseID": "30595",
+  "Developer": "Electronic Arts Canada",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "3 on 3 NHL Arcade",
+  "Overview": "EA SPORTS Freestyle welcomes you to the fast paced world of arcade hockey. From the same team that brought you NHL 09 (EA Canada) comes a 3 on 3 experience that throws conventional hockey, and its rules, out the window. Choose from the NHL’s top players and bring them into this no rules hockey game where big hits rule the day.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2009-02-11T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=ONs3g_pZG3Y",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/3_on_3_NHL_Arcade"
 }

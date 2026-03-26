@@ -1,40 +1,40 @@
 {
-  "Name": "Mafia II: Director's Cut",
-  "DatabaseID": "12358",
-  "ReleaseDate": "2011-07-05T00:00:00+00:00",
-  "Overview": "Mafia II: Director's Cut is a Compilation game, developed by 2K Czech and published by 2K Games, which was released in 2011.",
-  "VideoURL": "https://www.youtube.com/watch?v=1_Q3MZC-34o",
-  "CommunityRating": "4.125",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Mafia_II",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Adventure; Sandbox",
-  "Developer": "2K Czech",
-  "Publisher": "2K Games",
   "Artwork": {
     "Background": [
       {
-        "FileName": "9e0c1269-ed6d-43f2-87e3-5b6471f695a7.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3762557129",
-        "URL": "http://images.launchbox-app.com/9e0c1269-ed6d-43f2-87e3-5b6471f695a7.jpg"
-      },
-      {
+        "CRC32": "524370926",
         "FileName": "006f73d8-9820-4a0f-9778-bbc63b6cfc4f.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "524370926",
         "URL": "http://images.launchbox-app.com/006f73d8-9820-4a0f-9778-bbc63b6cfc4f.jpg"
+      },
+      {
+        "CRC32": "3762557129",
+        "FileName": "9e0c1269-ed6d-43f2-87e3-5b6471f695a7.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/9e0c1269-ed6d-43f2-87e3-5b6471f695a7.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c740352d-8b3e-47eb-a1e1-35dc0da6672e.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
           "CRC32": "720869418",
+          "FileName": "c740352d-8b3e-47eb-a1e1-35dc0da6672e.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c740352d-8b3e-47eb-a1e1-35dc0da6672e.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "4.125",
+  "DatabaseID": "12358",
+  "Developer": "2K Czech",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Adventure; Sandbox",
+  "Name": "Mafia II: Director's Cut",
+  "Overview": "Mafia II: Director's Cut is a Compilation game, developed by 2K Czech and published by 2K Games, which was released in 2011.",
+  "Publisher": "2K Games",
+  "ReleaseDate": "2011-07-05T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=1_Q3MZC-34o",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Mafia_II"
 }

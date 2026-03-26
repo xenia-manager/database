@@ -1,38 +1,38 @@
 {
-  "Name": "Jawsome",
-  "DatabaseID": "466976",
-  "ReleaseDate": "2011-11-03T00:00:00+00:00",
-  "Overview": "Jawsome is a game featuring a shark on a search for food. The player can choose from several different sharks to play as before entering a level. Levels are 3D environments which are explored from a behind view perspective. A certain number of food items must be collected in order to complete each of the game's five levels.",
-  "Genres": "Puzzle",
-  "Developer": "ECHS BACHS",
-  "Publisher": "ECHS BACHS",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "67365c6c-9537-4b64-af76-0620c29cb103.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "634783103",
+          "FileName": "67365c6c-9537-4b64-af76-0620c29cb103.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/67365c6c-9537-4b64-af76-0620c29cb103.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "d5e3fb36-b1c2-4be5-b217-ad8ba8991434.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3784577473",
+        "FileName": "00b28f7a-52b0-4fc6-a24f-05f48da2548f.jpg",
         "Region": "World",
-        "CRC32": "1573806962",
-        "URL": "http://images.launchbox-app.com/d5e3fb36-b1c2-4be5-b217-ad8ba8991434.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/00b28f7a-52b0-4fc6-a24f-05f48da2548f.jpg"
       },
       {
-        "FileName": "00b28f7a-52b0-4fc6-a24f-05f48da2548f.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1573806962",
+        "FileName": "d5e3fb36-b1c2-4be5-b217-ad8ba8991434.jpg",
         "Region": "World",
-        "CRC32": "3784577473",
-        "URL": "http://images.launchbox-app.com/00b28f7a-52b0-4fc6-a24f-05f48da2548f.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d5e3fb36-b1c2-4be5-b217-ad8ba8991434.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "466976",
+  "Developer": "ECHS BACHS",
+  "Genres": "Puzzle",
+  "Name": "Jawsome",
+  "Overview": "Jawsome is a game featuring a shark on a search for food. The player can choose from several different sharks to play as before entering a level. Levels are 3D environments which are explored from a behind view perspective. A certain number of food items must be collected in order to complete each of the game's five levels.",
+  "Publisher": "ECHS BACHS",
+  "ReleaseDate": "2011-11-03T00:00:00+00:00"
 }

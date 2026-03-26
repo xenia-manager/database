@@ -1,46 +1,46 @@
 {
-  "Name": "Disney Sing It: High School Musical 3: Senior Year",
-  "DatabaseID": "15438",
-  "ReleaseDate": "2009-02-17T00:00:00+00:00",
-  "ESRB": "E - Everyone",
-  "Genres": "Music",
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "r2_4ce369bd-bdc0-47f7-9e04-eadbdb2d542c.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "853162327",
+          "FileName": "r2_4ce369bd-bdc0-47f7-9e04-eadbdb2d542c.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_4ce369bd-bdc0-47f7-9e04-eadbdb2d542c.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "2298319953",
           "FileName": "c91e91bb-e60c-4bee-9049-4a5471ac0bcd.jpg",
           "Type": "Box - Front",
-          "CRC32": "2298319953",
           "URL": "http://images.launchbox-app.com/c91e91bb-e60c-4bee-9049-4a5471ac0bcd.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_deb25c4c-a09c-4b8e-b5ac-3e97f7afbbfd.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2822829500",
+        "FileName": "r2_deb25c4c-a09c-4b8e-b5ac-3e97f7afbbfd.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_deb25c4c-a09c-4b8e-b5ac-3e97f7afbbfd.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_1156080e-8f2f-43cf-af77-d6febb693c18.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "879281112",
+        "FileName": "r2_1156080e-8f2f-43cf-af77-d6febb693c18.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_1156080e-8f2f-43cf-af77-d6febb693c18.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "15438",
+  "ESRB": "E - Everyone",
+  "Genres": "Music",
+  "Name": "Disney Sing It: High School Musical 3: Senior Year",
+  "ReleaseDate": "2009-02-17T00:00:00+00:00"
 }

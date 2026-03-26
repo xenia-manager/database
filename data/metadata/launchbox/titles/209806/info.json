@@ -1,42 +1,42 @@
 {
-  "Name": "Bust-A-Move Live!",
-  "DatabaseID": "209806",
-  "ReleaseDate": "2009-12-23T00:00:00+00:00",
-  "Overview": "Bust-A-Move, sometimes known as Puzzle Bobble, returns in Bust-A-Move Live!, with all of its exciting pick-up-and-play gameplay intact. Dazzling graphics and a surreal soundtrack create a unique fantasy world enhancing the ultimate Bust-A-Move experience!",
-  "CommunityRating": "3.5",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "Taito",
-  "Publisher": "Taito",
   "Artwork": {
     "Arcade": [
       {
-        "FileName": "89abc591-1d86-4fce-8d22-b64bd8ea86e4.png",
-        "Type": "Arcade - Marquee",
-        "Region": "Japan",
         "CRC32": "2610159523",
+        "FileName": "89abc591-1d86-4fce-8d22-b64bd8ea86e4.png",
+        "Region": "Japan",
+        "Type": "Arcade - Marquee",
         "URL": "http://images.launchbox-app.com/89abc591-1d86-4fce-8d22-b64bd8ea86e4.png"
       }
     ],
     "Background": [
       {
-        "FileName": "1fe7e9c5-f279-41ed-80b6-e119ed74e35c.png",
-        "Type": "Fanart - Background",
-        "Region": "Japan",
         "CRC32": "3108292972",
+        "FileName": "1fe7e9c5-f279-41ed-80b6-e119ed74e35c.png",
+        "Region": "Japan",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/1fe7e9c5-f279-41ed-80b6-e119ed74e35c.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "739914aa-ac2b-4265-b167-85f3823fa9ec.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2147416175",
+          "FileName": "739914aa-ac2b-4265-b167-85f3823fa9ec.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/739914aa-ac2b-4265-b167-85f3823fa9ec.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "209806",
+  "Developer": "Taito",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Bust-A-Move Live!",
+  "Overview": "Bust-A-Move, sometimes known as Puzzle Bobble, returns in Bust-A-Move Live!, with all of its exciting pick-up-and-play gameplay intact. Dazzling graphics and a surreal soundtrack create a unique fantasy world enhancing the ultimate Bust-A-Move experience!",
+  "Publisher": "Taito",
+  "ReleaseDate": "2009-12-23T00:00:00+00:00"
 }

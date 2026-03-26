@@ -1,90 +1,90 @@
 {
-  "Name": "Super Puzzle Fighter II Turbo HD Remix",
-  "DatabaseID": "157453",
-  "ReleaseDate": "2007-08-30T00:00:00+00:00",
-  "Overview": "Super Puzzle Fighter II Turbo HD Remix is a special version of the arcade game Super Puzzle Fighter II Turbo. Character sprites and backgrounds have been cleaned up, and gems have been given an element and a visual effect to go with that element.\n\nThe core gameplay itself remains the same as the original game: players place gems of different colors into their Tetris-like bin, as fast as they can, in groups of two. The player also receives glowing coloured orbs - if they place these next to a gem of the same color, the orb and all identical colored gems shatter, and any gems above fall. The player's goal is to make this happen multiple times for each block placed, causing 'combos'. The larger the combo, the more Counter Gems (gems with timers on them) are dumped into the opponent's bin. If a player places multiple gems of the same color in a square or rectangular order, they merge together to become a larger single gem which increases the amount of Counter Gems that drop on the opponent's field. Occasionally, a player will also receive a diamond - placing this on a colored gem will eliminate all gems in the player's bin of that color, increasing the potential for combos even more.\n\nSimilar to Super Puzzle Fighter II X for Matching Service, HD Remix includes multiple variants of gameplay:\n\n-   X-Mode: Identical to the original arcade mode.\n-   Y-Mode: Same-colored gems break as soon as there are three aligned horizontally, vertically or diagonally.\n-   Z-Mode: Gems rise up from the bottom of the bin, and the player controls a 2x2 cursor to rotate them and create combos.\n\nNew to HD Remix is X'-Mode (or X Dash-Mode), which is a more fairly balanced version of the original game. Many characters' special block patterns have been readjusted to level out the playing field.",
-  "VideoURL": "https://www.youtube.com/watch?v=59O4fMhf49w",
-  "CommunityRating": "4.54545454545455",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo#Super_Puzzle_Fighter_II_Turbo_HD_Remix",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "Backbone Entertainment",
-  "Publisher": "Capcom",
   "Artwork": {
     "Background": [
       {
-        "FileName": "dda498fc-3d3d-46d7-9619-a27f6570daf8.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3872141302",
-        "URL": "http://images.launchbox-app.com/dda498fc-3d3d-46d7-9619-a27f6570daf8.jpg"
-      },
-      {
+        "CRC32": "2691257194",
         "FileName": "094778ab-e2c1-4ef3-8d8d-98629f361265.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2691257194",
         "URL": "http://images.launchbox-app.com/094778ab-e2c1-4ef3-8d8d-98629f361265.jpg"
+      },
+      {
+        "CRC32": "3872141302",
+        "FileName": "dda498fc-3d3d-46d7-9619-a27f6570daf8.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/dda498fc-3d3d-46d7-9619-a27f6570daf8.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "64cfbe12-c96e-404d-a6fe-f2ba157b03ff.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "591226623",
+          "FileName": "64cfbe12-c96e-404d-a6fe-f2ba157b03ff.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/64cfbe12-c96e-404d-a6fe-f2ba157b03ff.jpg"
         },
         {
+          "CRC32": "3494046366",
           "FileName": "641f4c55-7e7b-4fb6-ae15-17387d29a922.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "3494046366",
           "URL": "http://images.launchbox-app.com/641f4c55-7e7b-4fb6-ae15-17387d29a922.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "b651358d-bf13-486c-a76f-71177110f1af.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
-        "CRC32": "2560580874",
-        "URL": "http://images.launchbox-app.com/b651358d-bf13-486c-a76f-71177110f1af.png"
-      },
-      {
-        "FileName": "3f3f3621-7dc7-423e-87e5-d8f38a321a76.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
         "CRC32": "3194045845",
+        "FileName": "3f3f3621-7dc7-423e-87e5-d8f38a321a76.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/3f3f3621-7dc7-423e-87e5-d8f38a321a76.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "b1696f89-a570-4260-a1dd-d1f49b641cdc.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "682536644",
-        "URL": "http://images.launchbox-app.com/b1696f89-a570-4260-a1dd-d1f49b641cdc.jpg"
       },
       {
-        "FileName": "002e3eeb-c96b-4557-bba6-ab981d5a768b.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "623294506",
-        "URL": "http://images.launchbox-app.com/002e3eeb-c96b-4557-bba6-ab981d5a768b.jpg"
-      },
-      {
-        "FileName": "f87d9f49-2f79-4936-931a-fdf743960d75.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "843313916",
-        "URL": "http://images.launchbox-app.com/f87d9f49-2f79-4936-931a-fdf743960d75.jpg"
+        "CRC32": "2560580874",
+        "FileName": "b651358d-bf13-486c-a76f-71177110f1af.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/b651358d-bf13-486c-a76f-71177110f1af.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "493659854",
         "FileName": "4667d359-e8f6-4d50-b665-aecbf6aaa61a.png",
         "Type": "Clear Logo",
-        "CRC32": "493659854",
         "URL": "http://images.launchbox-app.com/4667d359-e8f6-4d50-b665-aecbf6aaa61a.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "682536644",
+        "FileName": "b1696f89-a570-4260-a1dd-d1f49b641cdc.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/b1696f89-a570-4260-a1dd-d1f49b641cdc.jpg"
+      },
+      {
+        "CRC32": "623294506",
+        "FileName": "002e3eeb-c96b-4557-bba6-ab981d5a768b.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/002e3eeb-c96b-4557-bba6-ab981d5a768b.jpg"
+      },
+      {
+        "CRC32": "843313916",
+        "FileName": "f87d9f49-2f79-4936-931a-fdf743960d75.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f87d9f49-2f79-4936-931a-fdf743960d75.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.54545454545455",
+  "DatabaseID": "157453",
+  "Developer": "Backbone Entertainment",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Super Puzzle Fighter II Turbo HD Remix",
+  "Overview": "Super Puzzle Fighter II Turbo HD Remix is a special version of the arcade game Super Puzzle Fighter II Turbo. Character sprites and backgrounds have been cleaned up, and gems have been given an element and a visual effect to go with that element.\n\nThe core gameplay itself remains the same as the original game: players place gems of different colors into their Tetris-like bin, as fast as they can, in groups of two. The player also receives glowing coloured orbs - if they place these next to a gem of the same color, the orb and all identical colored gems shatter, and any gems above fall. The player's goal is to make this happen multiple times for each block placed, causing 'combos'. The larger the combo, the more Counter Gems (gems with timers on them) are dumped into the opponent's bin. If a player places multiple gems of the same color in a square or rectangular order, they merge together to become a larger single gem which increases the amount of Counter Gems that drop on the opponent's field. Occasionally, a player will also receive a diamond - placing this on a colored gem will eliminate all gems in the player's bin of that color, increasing the potential for combos even more.\n\nSimilar to Super Puzzle Fighter II X for Matching Service, HD Remix includes multiple variants of gameplay:\n\n-   X-Mode: Identical to the original arcade mode.\n-   Y-Mode: Same-colored gems break as soon as there are three aligned horizontally, vertically or diagonally.\n-   Z-Mode: Gems rise up from the bottom of the bin, and the player controls a 2x2 cursor to rotate them and create combos.\n\nNew to HD Remix is X'-Mode (or X Dash-Mode), which is a more fairly balanced version of the original game. Many characters' special block patterns have been readjusted to level out the playing field.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2007-08-30T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=59O4fMhf49w",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo#Super_Puzzle_Fighter_II_Turbo_HD_Remix"
 }

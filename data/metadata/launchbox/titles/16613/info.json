@@ -1,78 +1,78 @@
 {
-  "Name": "Skullgirls",
-  "DatabaseID": "16613",
-  "ReleaseDate": "2012-04-11T00:00:00+00:00",
-  "Overview": "Skullgirls is a 2D fighting game with a cast of eight playable fighters. In addition to the random arcade mode and story modes, the game also includes local play, tournament play, ranked match quick play and lobby play, the latter of the two taking place in online multiplayer.\n\nIn arcade play or multiplayer, the player can select whether they want a team of two fighters with their health split in half, a team of three fighters with their health split in third, or one single powerful fighter.",
-  "CommunityRating": "3.83333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Skullgirls",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "Lab Zero Games",
-  "Publisher": "Autumn Games",
   "Artwork": {
     "Background": [
       {
-        "FileName": "c6e2e34e-8ed8-40b7-a710-9d602b139401.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2934160290",
+        "FileName": "c6e2e34e-8ed8-40b7-a710-9d602b139401.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/c6e2e34e-8ed8-40b7-a710-9d602b139401.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "4260953682",
           "FileName": "887fe4d1-f0c7-4366-8554-6c580e550376.jpg",
           "Type": "Box - Front",
-          "CRC32": "4260953682",
           "URL": "http://images.launchbox-app.com/887fe4d1-f0c7-4366-8554-6c580e550376.jpg"
         },
         {
-          "FileName": "9b2e689d-dfbb-4a59-8284-419334587a1a.png",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "2795980368",
+          "FileName": "9b2e689d-dfbb-4a59-8284-419334587a1a.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/9b2e689d-dfbb-4a59-8284-419334587a1a.png"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2241509632",
+        "FileName": "5b45a664-eeae-473d-8be8-561b7cef9244.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/5b45a664-eeae-473d-8be8-561b7cef9244.png"
+      }
+    ],
     "Screenshots": [
       {
-        "FileName": "9116bf9c-a83e-4f95-ac05-9b8d95b03ba1.jpg",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
         "CRC32": "3176371447",
+        "FileName": "9116bf9c-a83e-4f95-ac05-9b8d95b03ba1.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
         "URL": "http://images.launchbox-app.com/9116bf9c-a83e-4f95-ac05-9b8d95b03ba1.jpg"
       },
       {
-        "FileName": "0a53fc9c-c956-46bc-b5e8-5f6fd56137be.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "2210878433",
+        "FileName": "0a53fc9c-c956-46bc-b5e8-5f6fd56137be.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/0a53fc9c-c956-46bc-b5e8-5f6fd56137be.jpg"
       },
       {
-        "FileName": "282fe304-6a50-4985-9d65-719b2e9eb58b.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1020239562",
+        "FileName": "070c80ca-3e95-4e72-ae75-58cea0281a5c.jpg",
         "Region": "World",
-        "CRC32": "582648161",
-        "URL": "http://images.launchbox-app.com/282fe304-6a50-4985-9d65-719b2e9eb58b.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/070c80ca-3e95-4e72-ae75-58cea0281a5c.jpg"
       },
       {
-        "FileName": "070c80ca-3e95-4e72-ae75-58cea0281a5c.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "582648161",
+        "FileName": "282fe304-6a50-4985-9d65-719b2e9eb58b.jpg",
         "Region": "World",
-        "CRC32": "1020239562",
-        "URL": "http://images.launchbox-app.com/070c80ca-3e95-4e72-ae75-58cea0281a5c.jpg"
-      }
-    ],
-    "Other": [
-      {
-        "FileName": "5b45a664-eeae-473d-8be8-561b7cef9244.png",
-        "Type": "Clear Logo",
-        "CRC32": "2241509632",
-        "URL": "http://images.launchbox-app.com/5b45a664-eeae-473d-8be8-561b7cef9244.png"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/282fe304-6a50-4985-9d65-719b2e9eb58b.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.83333333333333",
+  "DatabaseID": "16613",
+  "Developer": "Lab Zero Games",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "Skullgirls",
+  "Overview": "Skullgirls is a 2D fighting game with a cast of eight playable fighters. In addition to the random arcade mode and story modes, the game also includes local play, tournament play, ranked match quick play and lobby play, the latter of the two taking place in online multiplayer.\n\nIn arcade play or multiplayer, the player can select whether they want a team of two fighters with their health split in half, a team of three fighters with their health split in third, or one single powerful fighter.",
+  "Publisher": "Autumn Games",
+  "ReleaseDate": "2012-04-11T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Skullgirls"
 }

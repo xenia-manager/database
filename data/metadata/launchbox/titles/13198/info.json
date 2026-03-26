@@ -1,74 +1,74 @@
 {
-  "Name": "LEGO Pirates of the Caribbean: The Video Game",
-  "DatabaseID": "13198",
-  "ReleaseDate": "2011-05-10T00:00:00+00:00",
-  "Overview": "Lego Pirates of the Caribbean: The Video Game is a game based on the four popular movies; The Curse of the Black Pearl, Dead Man's Chest, At World's End and On Stranger Tides. This game mixes these movies with the child-friendly Lego style of other Lego games, but for the most part everything is still the same. The player takes control of characters like; Jack Sparrow, Elizabeth and Bootstrap and uses their special abilities to solve the puzzles. Most of the puzzles require the player to build items with Lego-bricks or to open locked doors, aside from the character that are available the player can also take control of animals like a dog or a bird. The story allows the player to choose on of the four movies and a chapter to play, each movie has four chapters.",
-  "CommunityRating": "3.78571428571429",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
-  "Developer": "Traveller's Tales (UK)",
-  "Publisher": "Disney Interactive Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "05e6aed3-25e8-41cb-82fc-e84b92ae82b2.jpg",
-        "Type": "Banner",
-        "Region": "Spain",
-        "CRC32": "1601490118",
-        "URL": "http://images.launchbox-app.com/05e6aed3-25e8-41cb-82fc-e84b92ae82b2.jpg"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1782073847",
         "FileName": "5ace7fd0-5a38-4329-af2b-58368169fbbd.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1782073847",
         "URL": "http://images.launchbox-app.com/5ace7fd0-5a38-4329-af2b-58368169fbbd.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1601490118",
+        "FileName": "05e6aed3-25e8-41cb-82fc-e84b92ae82b2.jpg",
+        "Region": "Spain",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/05e6aed3-25e8-41cb-82fc-e84b92ae82b2.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "8b0a0648-4791-419a-98aa-f67a35bbaea1.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "3383374291",
+          "FileName": "8b0a0648-4791-419a-98aa-f67a35bbaea1.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/8b0a0648-4791-419a-98aa-f67a35bbaea1.png"
         }
       ],
       "Front": [
         {
-          "FileName": "7252d89a-8cd6-4ea2-b9a9-1f2a8016eff8.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1754134157",
+          "FileName": "7252d89a-8cd6-4ea2-b9a9-1f2a8016eff8.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7252d89a-8cd6-4ea2-b9a9-1f2a8016eff8.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_c97bf467-0808-40c9-9408-524255ac8070.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3157605965",
+        "FileName": "r2_c97bf467-0808-40c9-9408-524255ac8070.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_c97bf467-0808-40c9-9408-524255ac8070.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "428451278",
         "FileName": "c9fe9012-6abd-448c-b8ca-7ffcc336575b.png",
         "Type": "Clear Logo",
-        "CRC32": "428451278",
         "URL": "http://images.launchbox-app.com/c9fe9012-6abd-448c-b8ca-7ffcc336575b.png"
       },
       {
-        "FileName": "c5e65b28-a2b2-4a38-8fb0-302c1fe9bdf4.png",
-        "Type": "Clear Logo",
-        "Region": "Spain",
         "CRC32": "4228571954",
+        "FileName": "c5e65b28-a2b2-4a38-8fb0-302c1fe9bdf4.png",
+        "Region": "Spain",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/c5e65b28-a2b2-4a38-8fb0-302c1fe9bdf4.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.78571428571429",
+  "DatabaseID": "13198",
+  "Developer": "Traveller's Tales (UK)",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action",
+  "Name": "LEGO Pirates of the Caribbean: The Video Game",
+  "Overview": "Lego Pirates of the Caribbean: The Video Game is a game based on the four popular movies; The Curse of the Black Pearl, Dead Man's Chest, At World's End and On Stranger Tides. This game mixes these movies with the child-friendly Lego style of other Lego games, but for the most part everything is still the same. The player takes control of characters like; Jack Sparrow, Elizabeth and Bootstrap and uses their special abilities to solve the puzzles. Most of the puzzles require the player to build items with Lego-bricks or to open locked doors, aside from the character that are available the player can also take control of animals like a dog or a bird. The story allows the player to choose on of the four movies and a chapter to play, each movie has four chapters.",
+  "Publisher": "Disney Interactive Studios",
+  "ReleaseDate": "2011-05-10T00:00:00+00:00"
 }

@@ -1,125 +1,125 @@
 {
-  "Name": "Need for Speed: Shift",
-  "DatabaseID": "7551",
-  "ReleaseDate": "2009-09-15T00:00:00+00:00",
-  "Overview": "The player's goal in Need for Speed: Shift is to take part in the Need for Speed World Tour and become the ultimate champion. As opposed to its predecessors, this doesn't mean racing around an open-world city with pimped cars. Instead the game is more similar to GRID with races taking place on closed city circuits or even famous race tracks like the Circuit de Spa-Franchorchamps.\n\nAt the beginning of the game, the player drives a test-round as well as a race. During this tutorial the game evaluates the player's skill and changes the realism settings accordingly ranging from the usual arcade-style controls with many driving aids to an almost realistic simulation-like driving model. Then the main game begins where the player has to successfully earn stars in order to unlock the next tier and ultimately gain access to the World Tour. Stars are earned by getting on the podium at the end of a race as well as by fulfilling certain objectives on the track. These range from simply gaining a specific amount of points in the race to more challenging objectives like driving a clean lap. Points on the other hand are earned by the player through his driving style and are separated into two groups: Precision and Aggression. While the first group honors clean sectors or driving on the race line, aggression-points are earned by hitting other cars or sliding through curves. Once the player has earned enough points (both categories are summed-up at the end of an event, he gains a level and by doing so unlocks new upgrades for his car, get's a big money bonus or receives an invite to a special race event. To keep the player even more motivated, tons of badges are waiting to be earned which are in part also the same as the available achievements/trophies. Again actions like performing 25 overtakes or winning three consecutive races are needed to earn a minor badge. If he keeps his streak up or has earned all the minor badges in one category, he earns additional badges ranging from bronze to epic.\n\nThe available events include normal races in various variations, a time attack mode, a car attack in which the player needs to be either five seconds in front of his opponent or get 1st place in order to win and drift events. The car park includes many licensed cars from normal middle to high class vehicles to high-powered racing cars which can all be bought through the money earned by winning races or leveling up. In addition the look of the car can be changed by unlocking new vinyls. Also available are extensive upgrade and tuning options allowing the player to change every detail on his car down to the tire pressure.",
-  "VideoURL": "http://www.youtube.com/watch?v=VfXOAc9xSy8",
-  "CommunityRating": "3.1",
-  "ESRB": "E - Everyone",
-  "Genres": "Racing",
-  "Developer": "Slightly Mad Studios",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "d2364c4b-cea6-4de1-a6a7-084893463268.jpg",
-        "Type": "Banner",
-        "CRC32": "2887860344",
-        "URL": "http://images.launchbox-app.com/d2364c4b-cea6-4de1-a6a7-084893463268.jpg"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3165703756",
         "FileName": "b5df1800-9782-4bd1-9fe4-be0f389ba240.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3165703756",
         "URL": "http://images.launchbox-app.com/b5df1800-9782-4bd1-9fe4-be0f389ba240.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2887860344",
+        "FileName": "d2364c4b-cea6-4de1-a6a7-084893463268.jpg",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/d2364c4b-cea6-4de1-a6a7-084893463268.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "e465d01b-0744-4ede-b958-41ab940af777.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1906439270",
+          "FileName": "e465d01b-0744-4ede-b958-41ab940af777.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/e465d01b-0744-4ede-b958-41ab940af777.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_0e65c1c1-887f-4f9c-9e03-9c57dcb6b8cc.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2224803644",
+          "FileName": "r2_0e65c1c1-887f-4f9c-9e03-9c57dcb6b8cc.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_0e65c1c1-887f-4f9c-9e03-9c57dcb6b8cc.jpg"
         },
         {
-          "FileName": "1641da6b-242a-4148-9548-7ee2b03abc0e.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "4249597077",
+          "FileName": "1641da6b-242a-4148-9548-7ee2b03abc0e.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/1641da6b-242a-4148-9548-7ee2b03abc0e.jpg"
         },
         {
-          "FileName": "77341fc0-f613-4efa-8ca7-9f1758ffdefc.jpg",
-          "Type": "Box - Back",
-          "Region": "Russia",
           "CRC32": "202474388",
+          "FileName": "77341fc0-f613-4efa-8ca7-9f1758ffdefc.jpg",
+          "Region": "Russia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/77341fc0-f613-4efa-8ca7-9f1758ffdefc.jpg"
         },
         {
-          "FileName": "d36c6057-2dec-4209-a565-5cc73a9bb8b0.jpg",
-          "Type": "Box - Back",
-          "Region": "United Kingdom",
           "CRC32": "1759483391",
+          "FileName": "d36c6057-2dec-4209-a565-5cc73a9bb8b0.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/d36c6057-2dec-4209-a565-5cc73a9bb8b0.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_98046499-e1f2-4bd3-b8bb-3a8c8d506fdf.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "359210599",
+          "FileName": "r2_98046499-e1f2-4bd3-b8bb-3a8c8d506fdf.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_98046499-e1f2-4bd3-b8bb-3a8c8d506fdf.jpg"
         },
         {
-          "FileName": "91a5c5d3-0fd3-4109-ba0b-450a136fd4f7.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1572424952",
+          "FileName": "91a5c5d3-0fd3-4109-ba0b-450a136fd4f7.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/91a5c5d3-0fd3-4109-ba0b-450a136fd4f7.jpg"
         },
         {
-          "FileName": "0e1e9c21-191f-43fa-8b79-5ae556218906.jpg",
-          "Type": "Box - Front",
-          "Region": "Russia",
           "CRC32": "1544515551",
+          "FileName": "0e1e9c21-191f-43fa-8b79-5ae556218906.jpg",
+          "Region": "Russia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0e1e9c21-191f-43fa-8b79-5ae556218906.jpg"
         },
         {
-          "FileName": "59cdd12e-67af-4110-af21-975661200ba1.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
           "CRC32": "1980300851",
+          "FileName": "59cdd12e-67af-4110-af21-975661200ba1.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/59cdd12e-67af-4110-af21-975661200ba1.jpg"
         },
         {
-          "FileName": "26a8b8d2-719c-41dc-bc09-18d23355b3fa.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "474810358",
+          "FileName": "26a8b8d2-719c-41dc-bc09-18d23355b3fa.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/26a8b8d2-719c-41dc-bc09-18d23355b3fa.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "93da3615-a114-4817-b652-3531c512b816.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "4101270449",
+        "FileName": "93da3615-a114-4817-b652-3531c512b816.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/93da3615-a114-4817-b652-3531c512b816.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "4275535178",
         "FileName": "6e48f83f-ad67-4d2f-9dea-41c37fd9e515.png",
         "Type": "Clear Logo",
-        "CRC32": "4275535178",
         "URL": "http://images.launchbox-app.com/6e48f83f-ad67-4d2f-9dea-41c37fd9e515.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.1",
+  "DatabaseID": "7551",
+  "Developer": "Slightly Mad Studios",
+  "ESRB": "E - Everyone",
+  "Genres": "Racing",
+  "Name": "Need for Speed: Shift",
+  "Overview": "The player's goal in Need for Speed: Shift is to take part in the Need for Speed World Tour and become the ultimate champion. As opposed to its predecessors, this doesn't mean racing around an open-world city with pimped cars. Instead the game is more similar to GRID with races taking place on closed city circuits or even famous race tracks like the Circuit de Spa-Franchorchamps.\n\nAt the beginning of the game, the player drives a test-round as well as a race. During this tutorial the game evaluates the player's skill and changes the realism settings accordingly ranging from the usual arcade-style controls with many driving aids to an almost realistic simulation-like driving model. Then the main game begins where the player has to successfully earn stars in order to unlock the next tier and ultimately gain access to the World Tour. Stars are earned by getting on the podium at the end of a race as well as by fulfilling certain objectives on the track. These range from simply gaining a specific amount of points in the race to more challenging objectives like driving a clean lap. Points on the other hand are earned by the player through his driving style and are separated into two groups: Precision and Aggression. While the first group honors clean sectors or driving on the race line, aggression-points are earned by hitting other cars or sliding through curves. Once the player has earned enough points (both categories are summed-up at the end of an event, he gains a level and by doing so unlocks new upgrades for his car, get's a big money bonus or receives an invite to a special race event. To keep the player even more motivated, tons of badges are waiting to be earned which are in part also the same as the available achievements/trophies. Again actions like performing 25 overtakes or winning three consecutive races are needed to earn a minor badge. If he keeps his streak up or has earned all the minor badges in one category, he earns additional badges ranging from bronze to epic.\n\nThe available events include normal races in various variations, a time attack mode, a car attack in which the player needs to be either five seconds in front of his opponent or get 1st place in order to win and drift events. The car park includes many licensed cars from normal middle to high class vehicles to high-powered racing cars which can all be bought through the money earned by winning races or leveling up. In addition the look of the car can be changed by unlocking new vinyls. Also available are extensive upgrade and tuning options allowing the player to change every detail on his car down to the tire pressure.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2009-09-15T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=VfXOAc9xSy8"
 }

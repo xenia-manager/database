@@ -1,22 +1,22 @@
 {
-  "Name": "Billy's Job",
-  "DatabaseID": "468043",
-  "ReleaseDate": "2014-11-10T00:00:00+00:00",
-  "Overview": "Billy's Job is an arcade game.\n\nYour task is to store all the object in the room. For this, push them on the conveyor belt. When all is done take the key to next levels.\n\nFeatures:\n-Over 25 Levels\n-Continue support\n-Highscore online",
-  "Genres": "Action",
-  "Developer": "3T Games",
-  "Publisher": "3T Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "592f2214-a049-45fe-a8f1-04413d07bb84.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4046070805",
+          "FileName": "592f2214-a049-45fe-a8f1-04413d07bb84.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/592f2214-a049-45fe-a8f1-04413d07bb84.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468043",
+  "Developer": "3T Games",
+  "Genres": "Action",
+  "Name": "Billy's Job",
+  "Overview": "Billy's Job is an arcade game.\n\nYour task is to store all the object in the room. For this, push them on the conveyor belt. When all is done take the key to next levels.\n\nFeatures:\n-Over 25 Levels\n-Continue support\n-Highscore online",
+  "Publisher": "3T Games",
+  "ReleaseDate": "2014-11-10T00:00:00+00:00"
 }

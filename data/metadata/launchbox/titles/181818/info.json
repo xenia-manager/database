@@ -1,57 +1,57 @@
 {
-  "Name": "Castle of Illusion Starring Mickey Mouse",
-  "DatabaseID": "181818",
-  "ReleaseDate": "2013-09-04T00:00:00+00:00",
-  "Overview": "Castle of Illusion Starring Mickey Mouse is a remake of the Genesis game of the same name. Mickey and Minnie are out for a picnic when Minnie is kidnapped by the witch Mizrabel. Now Mickey has to travel through five worlds in order to rescue her.\n\nThis is a side-scrolling platformer in which Mickey jumps over obstacles and evades enemies in order to stay alive. While the majority of the game is spent in a traditional 2D view, for some sections (e.g. bosses or certain puzzles) it switches to an 3D environment. Mickey can defeat enemies by hopping on them or using projectiles he picks up on the way. The levels are loosely based on the old ones but feature various level design differences, new setpieces and enhanced boss fights. Besides beating the game, players can explore the levels for secrets (unlock additional costumes) or tackle the levels in time-attack mode.",
-  "VideoURL": "https://youtu.be/K-rfsYYLmgs",
-  "CommunityRating": "3.38888888888889",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Castle_of_Illusion_Starring_Mickey_Mouse_(2013_video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Platform",
-  "Developer": "SEGA Studios Australia",
-  "Publisher": "Sega",
   "Artwork": {
     "Background": [
       {
-        "FileName": "r2_64b6b81c-f9ab-4ec9-bc53-e0ccfe8de44d.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1661541267",
+        "FileName": "r2_64b6b81c-f9ab-4ec9-bc53-e0ccfe8de44d.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_64b6b81c-f9ab-4ec9-bc53-e0ccfe8de44d.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "daeb7116-1cce-451b-86ed-000294cf54e3.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2503234544",
+          "FileName": "daeb7116-1cce-451b-86ed-000294cf54e3.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/daeb7116-1cce-451b-86ed-000294cf54e3.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "308327299",
+        "FileName": "22cbcc44-dbf6-4b67-b6a1-f85aa6dd92df.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/22cbcc44-dbf6-4b67-b6a1-f85aa6dd92df.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "3620334652",
         "FileName": "48ca7170-6f78-4adc-b1ae-ca5888bc635a.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3620334652",
         "URL": "http://images.launchbox-app.com/48ca7170-6f78-4adc-b1ae-ca5888bc635a.jpg"
       },
       {
+        "CRC32": "3419563145",
         "FileName": "8dfd1f80-a969-47d4-b139-37efef78bd09.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3419563145",
         "URL": "http://images.launchbox-app.com/8dfd1f80-a969-47d4-b139-37efef78bd09.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "22cbcc44-dbf6-4b67-b6a1-f85aa6dd92df.png",
-        "Type": "Clear Logo",
-        "CRC32": "308327299",
-        "URL": "http://images.launchbox-app.com/22cbcc44-dbf6-4b67-b6a1-f85aa6dd92df.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.38888888888889",
+  "DatabaseID": "181818",
+  "Developer": "SEGA Studios Australia",
+  "ESRB": "E - Everyone",
+  "Genres": "Platform",
+  "Name": "Castle of Illusion Starring Mickey Mouse",
+  "Overview": "Castle of Illusion Starring Mickey Mouse is a remake of the Genesis game of the same name. Mickey and Minnie are out for a picnic when Minnie is kidnapped by the witch Mizrabel. Now Mickey has to travel through five worlds in order to rescue her.\n\nThis is a side-scrolling platformer in which Mickey jumps over obstacles and evades enemies in order to stay alive. While the majority of the game is spent in a traditional 2D view, for some sections (e.g. bosses or certain puzzles) it switches to an 3D environment. Mickey can defeat enemies by hopping on them or using projectiles he picks up on the way. The levels are loosely based on the old ones but feature various level design differences, new setpieces and enhanced boss fights. Besides beating the game, players can explore the levels for secrets (unlock additional costumes) or tackle the levels in time-attack mode.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2013-09-04T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/K-rfsYYLmgs",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Castle_of_Illusion_Starring_Mickey_Mouse_(2013_video_game)"
 }

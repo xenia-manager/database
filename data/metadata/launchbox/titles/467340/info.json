@@ -1,38 +1,38 @@
 {
-  "Name": "Avatar Arena Action",
-  "DatabaseID": "467340",
-  "ReleaseDate": "2013-05-23T00:00:00+00:00",
-  "Overview": "A first person shooter with avatars, featuring fast deathmatch gameplay on eight maps with jump pads, teleporters and a proven arsenal of energy weapons. Compete with other players in online multiplayer sessions or practice offline versus bots.",
-  "Genres": "Shooter",
-  "Developer": "Teflon Software",
-  "Publisher": "Teflon Software",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "90a0ae68-64ce-4f35-b9e2-cfe8a877fe19.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "488881981",
+          "FileName": "90a0ae68-64ce-4f35-b9e2-cfe8a877fe19.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/90a0ae68-64ce-4f35-b9e2-cfe8a877fe19.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "aaf7f348-addc-45b6-8b6b-15fa40e72824.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3411891079",
+        "FileName": "aaf7f348-addc-45b6-8b6b-15fa40e72824.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/aaf7f348-addc-45b6-8b6b-15fa40e72824.jpg"
       },
       {
-        "FileName": "fb6f3fe2-ec49-4374-8ad6-3c6df7fec450.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3832582159",
+        "FileName": "fb6f3fe2-ec49-4374-8ad6-3c6df7fec450.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/fb6f3fe2-ec49-4374-8ad6-3c6df7fec450.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467340",
+  "Developer": "Teflon Software",
+  "Genres": "Shooter",
+  "Name": "Avatar Arena Action",
+  "Overview": "A first person shooter with avatars, featuring fast deathmatch gameplay on eight maps with jump pads, teleporters and a proven arsenal of energy weapons. Compete with other players in online multiplayer sessions or practice offline versus bots.",
+  "Publisher": "Teflon Software",
+  "ReleaseDate": "2013-05-23T00:00:00+00:00"
 }

@@ -1,38 +1,38 @@
 {
-  "Name": "Air War",
-  "DatabaseID": "467021",
-  "ReleaseDate": "2015-01-30T00:00:00+00:00",
-  "Overview": "Experience air to air combat against AI controlled enemies, only to get jumped by human players at any moment. Manage your power supply mid battle... shields? lasers? engines? Upgrade your ship and show off your moves to friends. Supports up to 8 players at once. Music by Bensound.com",
-  "Genres": "Action; Shooter",
-  "Developer": "Chris Antoni",
-  "Publisher": "Chris Antoni",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "1fc7129d-bfc5-428b-821e-a26726534b9e.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2300554818",
+          "FileName": "1fc7129d-bfc5-428b-821e-a26726534b9e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1fc7129d-bfc5-428b-821e-a26726534b9e.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "be7218bd-9ab9-402c-ada3-10067ffa8375.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "131019211",
+        "FileName": "ab41224d-605f-4c5b-8f81-6d15ae76b5d1.jpg",
         "Region": "World",
-        "CRC32": "3846640413",
-        "URL": "http://images.launchbox-app.com/be7218bd-9ab9-402c-ada3-10067ffa8375.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ab41224d-605f-4c5b-8f81-6d15ae76b5d1.jpg"
       },
       {
-        "FileName": "ab41224d-605f-4c5b-8f81-6d15ae76b5d1.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3846640413",
+        "FileName": "be7218bd-9ab9-402c-ada3-10067ffa8375.jpg",
         "Region": "World",
-        "CRC32": "131019211",
-        "URL": "http://images.launchbox-app.com/ab41224d-605f-4c5b-8f81-6d15ae76b5d1.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/be7218bd-9ab9-402c-ada3-10067ffa8375.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467021",
+  "Developer": "Chris Antoni",
+  "Genres": "Action; Shooter",
+  "Name": "Air War",
+  "Overview": "Experience air to air combat against AI controlled enemies, only to get jumped by human players at any moment. Manage your power supply mid battle... shields? lasers? engines? Upgrade your ship and show off your moves to friends. Supports up to 8 players at once. Music by Bensound.com",
+  "Publisher": "Chris Antoni",
+  "ReleaseDate": "2015-01-30T00:00:00+00:00"
 }

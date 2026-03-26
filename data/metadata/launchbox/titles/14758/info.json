@@ -1,91 +1,91 @@
 {
-  "Name": "Battlestations: Pacific",
-  "DatabaseID": "14758",
-  "ReleaseDate": "2009-05-12T00:00:00+00:00",
-  "Overview": "Battlestations: Pacific is the successor to Battlestations: Midway and once again pits Japanese against Americans. Two single-player campaigns await the player with one picturing the Japanese starting at the attack on Pearl Harbor and the American campaign following the aftermath of the the Battle for Midway.\n\nSimilar to the Battlefield series the game puts the player right in the middle of the battle, always surrounded by AI-units filling up the free spots. But instead of fighting on foot, the players only use several different kinds of battleships, u-boats and airplanes. These are launched by the players at their team's HQ and can be equipped with different weapon load-outs. Depending e.g. on the type of the airplane (bomber, fighter or such), these range from MGs over rockets and bombs to carpet bombs and paratroopers. Of course once the support bar reaches zero, no more units can be launched.\n\nBesides players doing all the work while sitting in a unit, the commander can also use the tactical map to assign formations, give out orders to the AI as well as other players and so on. This is also the place where the players choose in which unit they want to jump in. Each type of unit also plays radically different. While airplanes concentrate on fast dogfights and low bomb-droppings, ships are slow but can repair themselves. U-Boats on the other hand have the ability to dive and disappear from every enemies radar. To compensate for that, U-Boats not only have a limited supply of oxygen but can also be spotted by sonar and killed with water-bombs.\n\nBesides the campaigns, the game also features five skirmish-modes for both single- and multiplayer. In \"Escort\" both teams have to defend key units from the enemy while themselves attacking and destroying the enemies key units with every player using a pre-defined unit. \"Siege\" on the other hand one team has to attack a island or coastline with the other team defending it. This time each player can choose his own unit from an available pool of units. \"Competition\" again has all the players only controlling one unit but fight on the same side in an effort to destroy as many AI-enemies as possible or completing the objectives. In \"Duel\" the players choose their unit before each mission and have to destroy all enemy units to win the round. And last but not least \"Island Conquest\" requires the capturing of control points to both win the match and gain access to additional units.",
-  "CommunityRating": "3.375",
-  "Genres": "Shooter",
-  "Developer": "Eidos Hungary",
-  "Publisher": "Eidos Interactive",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "5d06563d-5454-4889-9a58-55247d5cd5b2.png",
-        "Type": "Banner",
-        "CRC32": "1373054045",
-        "URL": "http://images.launchbox-app.com/5d06563d-5454-4889-9a58-55247d5cd5b2.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2783335578",
         "FileName": "47eabbe6-0507-40e3-a48e-57375a04a738.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2783335578",
         "URL": "http://images.launchbox-app.com/47eabbe6-0507-40e3-a48e-57375a04a738.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1373054045",
+        "FileName": "5d06563d-5454-4889-9a58-55247d5cd5b2.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/5d06563d-5454-4889-9a58-55247d5cd5b2.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "0c8f59c0-b2fb-4676-ae15-e57ff607eb34.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "954808379",
+          "FileName": "0c8f59c0-b2fb-4676-ae15-e57ff607eb34.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/0c8f59c0-b2fb-4676-ae15-e57ff607eb34.png"
         }
       ],
       "Back": [
         {
-          "FileName": "48787241-f0e6-4690-96f8-d34edf5abf99.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1507650002",
+          "FileName": "48787241-f0e6-4690-96f8-d34edf5abf99.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/48787241-f0e6-4690-96f8-d34edf5abf99.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_ead0f9a9-b889-4031-ba8b-5fbf5cacef83.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "969622999",
+          "FileName": "r2_ead0f9a9-b889-4031-ba8b-5fbf5cacef83.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_ead0f9a9-b889-4031-ba8b-5fbf5cacef83.jpg"
         },
         {
-          "FileName": "5bf0c421-b01b-4e57-a073-6a3963ef4d8c.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2914878666",
+          "FileName": "5bf0c421-b01b-4e57-a073-6a3963ef4d8c.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5bf0c421-b01b-4e57-a073-6a3963ef4d8c.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "d22215a7-04da-4f2e-9fa7-9a4442ab46a1.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "4016889053",
+          "FileName": "d22215a7-04da-4f2e-9fa7-9a4442ab46a1.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/d22215a7-04da-4f2e-9fa7-9a4442ab46a1.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "4c99b86f-7d6a-47c9-ba80-5c613b99c849.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "304482540",
+        "FileName": "4c99b86f-7d6a-47c9-ba80-5c613b99c849.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/4c99b86f-7d6a-47c9-ba80-5c613b99c849.png"
       }
     ],
     "Other": [
       {
-        "FileName": "60842990-b272-4869-b4dd-faad09805e1d.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2835148183",
+        "FileName": "60842990-b272-4869-b4dd-faad09805e1d.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/60842990-b272-4869-b4dd-faad09805e1d.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.375",
+  "DatabaseID": "14758",
+  "Developer": "Eidos Hungary",
+  "Genres": "Shooter",
+  "Name": "Battlestations: Pacific",
+  "Overview": "Battlestations: Pacific is the successor to Battlestations: Midway and once again pits Japanese against Americans. Two single-player campaigns await the player with one picturing the Japanese starting at the attack on Pearl Harbor and the American campaign following the aftermath of the the Battle for Midway.\n\nSimilar to the Battlefield series the game puts the player right in the middle of the battle, always surrounded by AI-units filling up the free spots. But instead of fighting on foot, the players only use several different kinds of battleships, u-boats and airplanes. These are launched by the players at their team's HQ and can be equipped with different weapon load-outs. Depending e.g. on the type of the airplane (bomber, fighter or such), these range from MGs over rockets and bombs to carpet bombs and paratroopers. Of course once the support bar reaches zero, no more units can be launched.\n\nBesides players doing all the work while sitting in a unit, the commander can also use the tactical map to assign formations, give out orders to the AI as well as other players and so on. This is also the place where the players choose in which unit they want to jump in. Each type of unit also plays radically different. While airplanes concentrate on fast dogfights and low bomb-droppings, ships are slow but can repair themselves. U-Boats on the other hand have the ability to dive and disappear from every enemies radar. To compensate for that, U-Boats not only have a limited supply of oxygen but can also be spotted by sonar and killed with water-bombs.\n\nBesides the campaigns, the game also features five skirmish-modes for both single- and multiplayer. In \"Escort\" both teams have to defend key units from the enemy while themselves attacking and destroying the enemies key units with every player using a pre-defined unit. \"Siege\" on the other hand one team has to attack a island or coastline with the other team defending it. This time each player can choose his own unit from an available pool of units. \"Competition\" again has all the players only controlling one unit but fight on the same side in an effort to destroy as many AI-enemies as possible or completing the objectives. In \"Duel\" the players choose their unit before each mission and have to destroy all enemy units to win the round. And last but not least \"Island Conquest\" requires the capturing of control points to both win the match and gain access to additional units.",
+  "Publisher": "Eidos Interactive",
+  "ReleaseDate": "2009-05-12T00:00:00+00:00"
 }

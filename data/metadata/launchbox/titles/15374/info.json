@@ -1,74 +1,74 @@
 {
-  "Name": "Costume Quest",
-  "DatabaseID": "15374",
-  "ReleaseDate": "2010-10-20T00:00:00+00:00",
-  "Overview": "Costume Quest is a Halloween adventure from Tim Schafer's Double Fine Productions. In this charming role-playing game, choose your hero and trick-or-treat through three beautiful environments full of Double Fine humor and story. Complete quests, build your party, and collect costumes along the way that allow you to transform into powerful champions and take down the evil Repugians. This heroic holiday tale will capture the imaginations of kids and kids-at-heart.",
-  "VideoURL": "https://www.youtube.com/watch?v=tLK60lZi7ns",
-  "CommunityRating": "3.64285714285714",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Costume_Quest",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Role-Playing",
-  "Developer": "Double Fine Productions",
-  "Publisher": "THQ",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7138742f-7106-4b71-acea-6fae77b87730.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3148845402",
-        "URL": "http://images.launchbox-app.com/r2_7138742f-7106-4b71-acea-6fae77b87730.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2692752385",
         "FileName": "3c82d56a-308b-4e02-a8ed-738d73799a25.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2692752385",
         "URL": "http://images.launchbox-app.com/3c82d56a-308b-4e02-a8ed-738d73799a25.jpg"
       },
       {
-        "FileName": "341e3b9d-b121-43a0-aa37-49c7fd696f5f.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3495358366",
+        "FileName": "341e3b9d-b121-43a0-aa37-49c7fd696f5f.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/341e3b9d-b121-43a0-aa37-49c7fd696f5f.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3148845402",
+        "FileName": "r2_7138742f-7106-4b71-acea-6fae77b87730.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7138742f-7106-4b71-acea-6fae77b87730.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "8cc7deb1-3236-4d74-92fd-b6d9ef48ec55.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1216565144",
+          "FileName": "8cc7deb1-3236-4d74-92fd-b6d9ef48ec55.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8cc7deb1-3236-4d74-92fd-b6d9ef48ec55.jpg"
         },
         {
-          "FileName": "r2_91b0af4e-1072-4118-a629-ccdb50ecb7d3.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "769027256",
+          "FileName": "r2_91b0af4e-1072-4118-a629-ccdb50ecb7d3.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_91b0af4e-1072-4118-a629-ccdb50ecb7d3.jpg"
         }
       ]
     },
     "Icon": [
       {
-        "FileName": "r2_bb67f9d9-72e5-415c-8a41-fff2aee6620d.png",
-        "Type": "Icon",
-        "Region": "World",
         "CRC32": "408799108",
+        "FileName": "r2_bb67f9d9-72e5-415c-8a41-fff2aee6620d.png",
+        "Region": "World",
+        "Type": "Icon",
         "URL": "http://images.launchbox-app.com/r2_bb67f9d9-72e5-415c-8a41-fff2aee6620d.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2456063944",
         "FileName": "328e5bd5-af82-4d22-a73f-39bd781bf95f.png",
         "Type": "Clear Logo",
-        "CRC32": "2456063944",
         "URL": "http://images.launchbox-app.com/328e5bd5-af82-4d22-a73f-39bd781bf95f.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.64285714285714",
+  "DatabaseID": "15374",
+  "Developer": "Double Fine Productions",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Role-Playing",
+  "Name": "Costume Quest",
+  "Overview": "Costume Quest is a Halloween adventure from Tim Schafer's Double Fine Productions. In this charming role-playing game, choose your hero and trick-or-treat through three beautiful environments full of Double Fine humor and story. Complete quests, build your party, and collect costumes along the way that allow you to transform into powerful champions and take down the evil Repugians. This heroic holiday tale will capture the imaginations of kids and kids-at-heart.",
+  "Publisher": "THQ",
+  "ReleaseDate": "2010-10-20T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=tLK60lZi7ns",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Costume_Quest"
 }

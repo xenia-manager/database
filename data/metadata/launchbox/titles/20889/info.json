@@ -1,60 +1,60 @@
 {
-  "Name": "Skylanders: Swap Force",
-  "DatabaseID": "20889",
-  "ReleaseDate": "2013-12-13T00:00:00+00:00",
-  "Overview": "Skylanders: Swap Force is a platformer video game developed by Vicarious Visions and published by Activision. It is the third main game in the Skylanders video game and toy franchise, following 2012's Skylanders: Giants, which was a direct sequel to 2011's Skylanders: Spyro's Adventure (the spin-off of The Legend of Spyro series). It is the game before Skylanders: Trap Team and features the voices of John DiMaggio, Jess Harnell, Audrey Wasilewski, Richard Tatum, David Sobolov, Josh Keaton, Keythe Farley, Dave Wittenberg, Joey Camen, Gregg Berger, Troy Baker and Robin Atkin Downes.\n\nIt is the first Skylanders game to be released in North America before other regions, unlike the previous two games where Australia got the installments first. It is also the first Skylanders game not to be owned by Vivendi.",
-  "VideoURL": "https://www.youtube.com/watch?v=t7-Gv8KbTyM",
-  "CommunityRating": "1.75",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Skylanders:_Swap_Force",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
-  "Developer": "N-Space",
-  "Publisher": "Activision",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "522990561",
         "FileName": "9cc3178c-0bb0-4a4c-bb30-6770fdac291a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "522990561",
         "URL": "http://images.launchbox-app.com/9cc3178c-0bb0-4a4c-bb30-6770fdac291a.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "447edc9c-ffaf-423e-a722-83ba75f6c7e7.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "522052902",
+          "FileName": "447edc9c-ffaf-423e-a722-83ba75f6c7e7.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/447edc9c-ffaf-423e-a722-83ba75f6c7e7.png"
         }
       ],
       "Front": [
         {
-          "FileName": "c5a4f68e-2fba-4bca-ad3a-94bd6c7bcc5f.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2990851067",
+          "FileName": "c5a4f68e-2fba-4bca-ad3a-94bd6c7bcc5f.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c5a4f68e-2fba-4bca-ad3a-94bd6c7bcc5f.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_23b36142-51fe-4032-9854-7b37f1822c52.png",
-        "Type": "Disc",
-        "Region": "Australia",
         "CRC32": "155885914",
+        "FileName": "r2_23b36142-51fe-4032-9854-7b37f1822c52.png",
+        "Region": "Australia",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_23b36142-51fe-4032-9854-7b37f1822c52.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "488199217",
         "FileName": "65219521-b64f-4ba5-9f56-1e1109dbd3b8.png",
         "Type": "Clear Logo",
-        "CRC32": "488199217",
         "URL": "http://images.launchbox-app.com/65219521-b64f-4ba5-9f56-1e1109dbd3b8.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "1.75",
+  "DatabaseID": "20889",
+  "Developer": "N-Space",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action",
+  "Name": "Skylanders: Swap Force",
+  "Overview": "Skylanders: Swap Force is a platformer video game developed by Vicarious Visions and published by Activision. It is the third main game in the Skylanders video game and toy franchise, following 2012's Skylanders: Giants, which was a direct sequel to 2011's Skylanders: Spyro's Adventure (the spin-off of The Legend of Spyro series). It is the game before Skylanders: Trap Team and features the voices of John DiMaggio, Jess Harnell, Audrey Wasilewski, Richard Tatum, David Sobolov, Josh Keaton, Keythe Farley, Dave Wittenberg, Joey Camen, Gregg Berger, Troy Baker and Robin Atkin Downes.\n\nIt is the first Skylanders game to be released in North America before other regions, unlike the previous two games where Australia got the installments first. It is also the first Skylanders game not to be owned by Vivendi.",
+  "Publisher": "Activision",
+  "ReleaseDate": "2013-12-13T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=t7-Gv8KbTyM",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Skylanders:_Swap_Force"
 }

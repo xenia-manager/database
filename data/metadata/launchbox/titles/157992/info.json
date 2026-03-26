@@ -1,49 +1,49 @@
 {
-  "Name": "Rock Band Blitz",
-  "DatabaseID": "157992",
-  "ReleaseDate": "2012-08-29T00:00:00+00:00",
-  "Overview": "Rock Band Blitz brings the excitement of a full band into your hands, transforming classic Rock Band gameplay into an addictive single player controller-based experience – no instruments needed! Compete with your friends on over 20 amazing new tracks, which are also instantly playable in Rock Band 3. Or add your own favorite music: Rock Band Blitz is compatible with the 3,500+ songs in the Rock Band library. With an endless combination of power-ups, instrument multipliers, and more, Rock Band Blitz makes every song a replayable rock explosion!",
-  "VideoURL": "https://www.youtube.com/watch?v=DwLzbjrNkE0",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Rock_Band_Blitz",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Harmonix Music Systems",
-  "Publisher": "Harmonix Music Systems",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2378148904",
         "FileName": "9946d559-ee14-476e-8bba-273d69198af1.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2378148904",
         "URL": "http://images.launchbox-app.com/9946d559-ee14-476e-8bba-273d69198af1.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "835652e9-5519-4a85-8b08-c0ac6fe18466.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1509076949",
+          "FileName": "835652e9-5519-4a85-8b08-c0ac6fe18466.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/835652e9-5519-4a85-8b08-c0ac6fe18466.jpg"
         },
         {
-          "FileName": "0198f0a4-6d9d-4d95-90dd-55434f62e972.jpg",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "6319312",
+          "FileName": "0198f0a4-6d9d-4d95-90dd-55434f62e972.jpg",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/0198f0a4-6d9d-4d95-90dd-55434f62e972.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "593060310",
         "FileName": "4f21be66-7cd8-4a62-a6bc-8e2701eb8112.png",
         "Type": "Clear Logo",
-        "CRC32": "593060310",
         "URL": "http://images.launchbox-app.com/4f21be66-7cd8-4a62-a6bc-8e2701eb8112.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "157992",
+  "Developer": "Harmonix Music Systems",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "Rock Band Blitz",
+  "Overview": "Rock Band Blitz brings the excitement of a full band into your hands, transforming classic Rock Band gameplay into an addictive single player controller-based experience – no instruments needed! Compete with your friends on over 20 amazing new tracks, which are also instantly playable in Rock Band 3. Or add your own favorite music: Rock Band Blitz is compatible with the 3,500+ songs in the Rock Band library. With an endless combination of power-ups, instrument multipliers, and more, Rock Band Blitz makes every song a replayable rock explosion!",
+  "Publisher": "Harmonix Music Systems",
+  "ReleaseDate": "2012-08-29T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=DwLzbjrNkE0",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Rock_Band_Blitz"
 }

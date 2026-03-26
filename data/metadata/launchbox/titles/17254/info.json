@@ -1,158 +1,158 @@
 {
-  "Name": "Titanfall",
-  "DatabaseID": "17254",
-  "ReleaseDate": "2014-03-11T00:00:00+00:00",
-  "Overview": "Set in a distant frontier torn apart by war, Titanfall gives players the freedom to switch between fighting as elite assault Pilots or agile, heavily armored, 24-foot tall Titans. The advanced warfare of tomorrow gives you the freedom to fight your way as both elite assault Pilot and agile, heavily armored Titan. Online gameplay is core to the Titanfall experience, as fast-paced multiplayer action is combined with heroic moments from traditional campaign mode.",
-  "VideoURL": "http://www.youtube.com/watch?v=goe6IB1DLZU",
-  "CommunityRating": "4.33333333333333",
-  "Genres": "Shooter",
-  "Developer": "Respawn",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "7c74511b-37dc-41cd-bc5a-251f10a7a9e6.png",
-        "Type": "Banner",
-        "CRC32": "2115606506",
-        "URL": "http://images.launchbox-app.com/7c74511b-37dc-41cd-bc5a-251f10a7a9e6.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "5a5acf36-38a6-4ae1-a53b-4418b6075da2.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "4152535700",
-        "URL": "http://images.launchbox-app.com/5a5acf36-38a6-4ae1-a53b-4418b6075da2.jpg"
-      },
-      {
+        "CRC32": "1740477244",
         "FileName": "1a06964e-8aa8-4124-908d-e94e2a4ead2c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1740477244",
         "URL": "http://images.launchbox-app.com/1a06964e-8aa8-4124-908d-e94e2a4ead2c.jpg"
       },
       {
-        "FileName": "90875514-ff43-48ab-bcb9-55454c0d973e.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1663146791",
-        "URL": "http://images.launchbox-app.com/90875514-ff43-48ab-bcb9-55454c0d973e.jpg"
-      },
-      {
+        "CRC32": "2274757869",
         "FileName": "2d70430f-a6ee-4b67-a19c-cf51e13b36a1.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2274757869",
         "URL": "http://images.launchbox-app.com/2d70430f-a6ee-4b67-a19c-cf51e13b36a1.jpg"
+      },
+      {
+        "CRC32": "4152535700",
+        "FileName": "5a5acf36-38a6-4ae1-a53b-4418b6075da2.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/5a5acf36-38a6-4ae1-a53b-4418b6075da2.jpg"
+      },
+      {
+        "CRC32": "1663146791",
+        "FileName": "90875514-ff43-48ab-bcb9-55454c0d973e.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/90875514-ff43-48ab-bcb9-55454c0d973e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2115606506",
+        "FileName": "7c74511b-37dc-41cd-bc5a-251f10a7a9e6.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/7c74511b-37dc-41cd-bc5a-251f10a7a9e6.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "120aeae9-24fc-4dfa-9ec8-ef72e88ecbd2.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2187474797",
+          "FileName": "120aeae9-24fc-4dfa-9ec8-ef72e88ecbd2.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/120aeae9-24fc-4dfa-9ec8-ef72e88ecbd2.png"
         }
       ],
       "Back": [
         {
-          "FileName": "963d4a8e-a656-4f9b-9244-dbb266f4176d.jpg",
-          "Type": "Box - Back",
-          "Region": "Australia",
           "CRC32": "1872643959",
+          "FileName": "963d4a8e-a656-4f9b-9244-dbb266f4176d.jpg",
+          "Region": "Australia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/963d4a8e-a656-4f9b-9244-dbb266f4176d.jpg"
         },
         {
-          "FileName": "r2_b87ca5c3-519a-48ef-92be-242af1a6bffe.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2365584852",
+          "FileName": "r2_b87ca5c3-519a-48ef-92be-242af1a6bffe.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_b87ca5c3-519a-48ef-92be-242af1a6bffe.jpg"
         },
         {
-          "FileName": "6294d319-2993-4e3d-a012-da2a3136457a.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2247715047",
+          "FileName": "6294d319-2993-4e3d-a012-da2a3136457a.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/6294d319-2993-4e3d-a012-da2a3136457a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "dd9cb5ec-a2af-4b6f-a0d9-8ad72270b197.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "2673987540",
+          "FileName": "dd9cb5ec-a2af-4b6f-a0d9-8ad72270b197.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/dd9cb5ec-a2af-4b6f-a0d9-8ad72270b197.jpg"
         },
         {
-          "FileName": "r2_e2b2f7f2-1a55-4ace-a531-29e355f01e1c.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2101560318",
+          "FileName": "r2_e2b2f7f2-1a55-4ace-a531-29e355f01e1c.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_e2b2f7f2-1a55-4ace-a531-29e355f01e1c.jpg"
         },
         {
-          "FileName": "807b5e41-1687-4dc2-b640-9fbde34638f7.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3763933194",
+          "FileName": "807b5e41-1687-4dc2-b640-9fbde34638f7.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/807b5e41-1687-4dc2-b640-9fbde34638f7.jpg"
         },
         {
-          "FileName": "292189fd-f644-49ee-8bcd-ded339955de6.png",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
           "CRC32": "2280303083",
+          "FileName": "292189fd-f644-49ee-8bcd-ded339955de6.png",
+          "Region": "United Kingdom",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/292189fd-f644-49ee-8bcd-ded339955de6.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "dc9bde1d-b0a7-415d-8f9e-b8f1c014216c.jpg",
-          "Type": "Box - Spine",
-          "Region": "Australia",
           "CRC32": "3592848135",
+          "FileName": "dc9bde1d-b0a7-415d-8f9e-b8f1c014216c.jpg",
+          "Region": "Australia",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/dc9bde1d-b0a7-415d-8f9e-b8f1c014216c.jpg"
         },
         {
-          "FileName": "57fcd5a2-0f5f-4193-afc0-d9eda33f31e0.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2223327354",
+          "FileName": "57fcd5a2-0f5f-4193-afc0-d9eda33f31e0.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/57fcd5a2-0f5f-4193-afc0-d9eda33f31e0.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "b8bd5d3e-dfce-45ea-b035-00f26cb6af53.png",
-        "Type": "Disc",
-        "Region": "Australia",
         "CRC32": "2661016017",
+        "FileName": "b8bd5d3e-dfce-45ea-b035-00f26cb6af53.png",
+        "Region": "Australia",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/b8bd5d3e-dfce-45ea-b035-00f26cb6af53.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "ad14841a-73ea-4c99-810f-c529332eea8d.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2627276448",
-        "URL": "http://images.launchbox-app.com/ad14841a-73ea-4c99-810f-c529332eea8d.jpg"
-      },
-      {
-        "FileName": "c908a320-76d7-4cb1-a5bf-409a96863157.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2779371372",
-        "URL": "http://images.launchbox-app.com/c908a320-76d7-4cb1-a5bf-409a96863157.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "3475171452",
         "FileName": "8925e2d3-75e7-463d-8984-f2e42b4a7265.png",
         "Type": "Clear Logo",
-        "CRC32": "3475171452",
         "URL": "http://images.launchbox-app.com/8925e2d3-75e7-463d-8984-f2e42b4a7265.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2627276448",
+        "FileName": "ad14841a-73ea-4c99-810f-c529332eea8d.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ad14841a-73ea-4c99-810f-c529332eea8d.jpg"
+      },
+      {
+        "CRC32": "2779371372",
+        "FileName": "c908a320-76d7-4cb1-a5bf-409a96863157.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c908a320-76d7-4cb1-a5bf-409a96863157.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.33333333333333",
+  "DatabaseID": "17254",
+  "Developer": "Respawn",
+  "Genres": "Shooter",
+  "Name": "Titanfall",
+  "Overview": "Set in a distant frontier torn apart by war, Titanfall gives players the freedom to switch between fighting as elite assault Pilots or agile, heavily armored, 24-foot tall Titans. The advanced warfare of tomorrow gives you the freedom to fight your way as both elite assault Pilot and agile, heavily armored Titan. Online gameplay is core to the Titanfall experience, as fast-paced multiplayer action is combined with heroic moments from traditional campaign mode.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2014-03-11T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=goe6IB1DLZU"
 }

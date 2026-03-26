@@ -1,107 +1,107 @@
 {
-  "Name": "Alpha Protocol",
-  "DatabaseID": "12277",
-  "ReleaseDate": "2010-06-01T00:00:00+00:00",
-  "Overview": "Billed as an \"espionage RPG,\" Alpha Protocol casts you in the role of secret agent Michael Thorton as he embarks on a series of international operations set in Rome, Moscow, Tai Pei, Saudi Arabia, and other exotic locales. From inside computer-equipped safe houses around the world, you'll converse with your handlers, glean intelligence, review dossiers, and receive new missions. What sets Alpha Protocol apart from traditional action games is the level of customization you have over your character and the options you have while interacting with others. Key role-playing features like dialogue trees, skill points, and equipment upgrades are included, with characters who will react in different ways based on your approach and reputation.\n\n\nThe action takes place from a third-person perspective as you complete objectives however you see fit, depending on the direction of your character. Stealth-oriented spies can complete the entire game without killing an enemy, while destructive types can bring out the body armor and heavy artillery. Action points can be assigned to an assortment of attributes, from stealth and pistols to sabotage and technical aptitude, which all lead to different skills. Cash earned by completing missions can also be spent in multiple ways, from powerful weapons on the black market to hiring mercenaries to purchasing various gun modifications for improving stats in areas like damage, accuracy, recoil, stability, and ammunition capacity.",
-  "VideoURL": "https://www.youtube.com/watch?v=6PLfNdZTed4",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Alpha_Protocol",
-  "ESRB": "M - Mature",
-  "Genres": "Role-Playing",
-  "Developer": "Obsidian Entertainment",
-  "Publisher": "Sega",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "df21be1c-6c89-48e2-b578-94f110b27d1c.png",
-        "Type": "Banner",
-        "CRC32": "1633807234",
-        "URL": "http://images.launchbox-app.com/df21be1c-6c89-48e2-b578-94f110b27d1c.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "4189178243",
         "FileName": "d940363a-0a9c-464f-98ab-6b6734cf3be2.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4189178243",
         "URL": "http://images.launchbox-app.com/d940363a-0a9c-464f-98ab-6b6734cf3be2.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1633807234",
+        "FileName": "df21be1c-6c89-48e2-b578-94f110b27d1c.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/df21be1c-6c89-48e2-b578-94f110b27d1c.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "b3972e51-67ce-4ed5-86b7-3db894a20928.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3653892170",
+          "FileName": "b3972e51-67ce-4ed5-86b7-3db894a20928.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/b3972e51-67ce-4ed5-86b7-3db894a20928.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_c0554409-8aef-4f50-a1de-852dae595a62.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1980251869",
+          "FileName": "r2_c0554409-8aef-4f50-a1de-852dae595a62.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_c0554409-8aef-4f50-a1de-852dae595a62.jpg"
         },
         {
-          "FileName": "6211bc79-0174-4b16-b16f-6b891e30bfa1.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2976267075",
+          "FileName": "6211bc79-0174-4b16-b16f-6b891e30bfa1.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/6211bc79-0174-4b16-b16f-6b891e30bfa1.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "c8ea7016-a2a3-4ae4-a80f-cc70995cf526.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "152301101",
+          "FileName": "c8ea7016-a2a3-4ae4-a80f-cc70995cf526.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c8ea7016-a2a3-4ae4-a80f-cc70995cf526.jpg"
         },
         {
-          "FileName": "44ca0ea7-bbba-4b1e-ad67-3f0705c2e3bd.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "938978612",
+          "FileName": "44ca0ea7-bbba-4b1e-ad67-3f0705c2e3bd.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/44ca0ea7-bbba-4b1e-ad67-3f0705c2e3bd.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "d1e8e729-90a2-4ff7-825c-880445110645.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2867522845",
+          "FileName": "d1e8e729-90a2-4ff7-825c-880445110645.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/d1e8e729-90a2-4ff7-825c-880445110645.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "c1e7e2c6-10e7-4813-831f-971cc38b1efb.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "3198345141",
+        "FileName": "c1e7e2c6-10e7-4813-831f-971cc38b1efb.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c1e7e2c6-10e7-4813-831f-971cc38b1efb.png"
       },
       {
-        "FileName": "19a8bd31-88ac-4ec4-b458-23d2bd199f42.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "971465285",
+        "FileName": "19a8bd31-88ac-4ec4-b458-23d2bd199f42.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/19a8bd31-88ac-4ec4-b458-23d2bd199f42.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3421727998",
         "FileName": "e01ec8b8-5ae6-4ce0-b7fc-9d4108308e8a.png",
         "Type": "Clear Logo",
-        "CRC32": "3421727998",
         "URL": "http://images.launchbox-app.com/e01ec8b8-5ae6-4ce0-b7fc-9d4108308e8a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "12277",
+  "Developer": "Obsidian Entertainment",
+  "ESRB": "M - Mature",
+  "Genres": "Role-Playing",
+  "Name": "Alpha Protocol",
+  "Overview": "Billed as an \"espionage RPG,\" Alpha Protocol casts you in the role of secret agent Michael Thorton as he embarks on a series of international operations set in Rome, Moscow, Tai Pei, Saudi Arabia, and other exotic locales. From inside computer-equipped safe houses around the world, you'll converse with your handlers, glean intelligence, review dossiers, and receive new missions. What sets Alpha Protocol apart from traditional action games is the level of customization you have over your character and the options you have while interacting with others. Key role-playing features like dialogue trees, skill points, and equipment upgrades are included, with characters who will react in different ways based on your approach and reputation.\n\n\nThe action takes place from a third-person perspective as you complete objectives however you see fit, depending on the direction of your character. Stealth-oriented spies can complete the entire game without killing an enemy, while destructive types can bring out the body armor and heavy artillery. Action points can be assigned to an assortment of attributes, from stealth and pistols to sabotage and technical aptitude, which all lead to different skills. Cash earned by completing missions can also be spent in multiple ways, from powerful weapons on the black market to hiring mercenaries to purchasing various gun modifications for improving stats in areas like damage, accuracy, recoil, stability, and ammunition capacity.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2010-06-01T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=6PLfNdZTed4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Alpha_Protocol"
 }

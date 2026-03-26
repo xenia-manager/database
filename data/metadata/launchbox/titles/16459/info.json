@@ -1,51 +1,51 @@
 {
-  "Name": "Scott Pilgrim vs. the World: The Game",
-  "DatabaseID": "16459",
-  "ReleaseDate": "2010-08-25T00:00:00+00:00",
-  "Overview": "Scott Pilgrim vs. the World: The Game is the rock-n-roll action love-story for the 8-bit generation! Scott Pilgrim is a lovable loser and the best fighter in the province. He is in love with Ramona Flowers, but she has baggage! To get the girl, Scott must defeat the League of Ramona’s seven evil exes. Be prepared for some serious action! Team-up with up to 3 of your friends as Scott, Ramona, Stephen, and Kim, each with their own signature moves and attacks. Featuring 8-bit animations by the world-famous Pixel Artist Paul Robertson and more than 30 original music tracks by chiptune heroes Anamanaguchi.",
-  "VideoURL": "https://www.youtube.com/watch?v=yAY4vNJd7A8&t=2s",
-  "CommunityRating": "3.9",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World:_The_Game",
-  "ESRB": "T - Teen",
-  "Genres": "Beat 'em Up",
-  "Developer": "Ubisoft Montreal",
-  "Publisher": "Ubisoft",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3867587238",
         "FileName": "2a423b1a-9cda-4988-8df7-d74f50556d8e.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3867587238",
         "URL": "http://images.launchbox-app.com/2a423b1a-9cda-4988-8df7-d74f50556d8e.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "227bc638-ccd4-418b-9120-1283b787e422.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3396622323",
+          "FileName": "227bc638-ccd4-418b-9120-1283b787e422.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/227bc638-ccd4-418b-9120-1283b787e422.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "a29ad90b-9b3a-4ee4-bbb5-2e88fa450e32.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "North America",
-        "CRC32": "3605703156",
-        "URL": "http://images.launchbox-app.com/a29ad90b-9b3a-4ee4-bbb5-2e88fa450e32.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "1786606871",
         "FileName": "990cae06-f230-4595-bc32-178c5679d815.png",
         "Type": "Clear Logo",
-        "CRC32": "1786606871",
         "URL": "http://images.launchbox-app.com/990cae06-f230-4595-bc32-178c5679d815.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3605703156",
+        "FileName": "a29ad90b-9b3a-4ee4-bbb5-2e88fa450e32.jpg",
+        "Region": "North America",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a29ad90b-9b3a-4ee4-bbb5-2e88fa450e32.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.9",
+  "DatabaseID": "16459",
+  "Developer": "Ubisoft Montreal",
+  "ESRB": "T - Teen",
+  "Genres": "Beat 'em Up",
+  "Name": "Scott Pilgrim vs. the World: The Game",
+  "Overview": "Scott Pilgrim vs. the World: The Game is the rock-n-roll action love-story for the 8-bit generation! Scott Pilgrim is a lovable loser and the best fighter in the province. He is in love with Ramona Flowers, but she has baggage! To get the girl, Scott must defeat the League of Ramona’s seven evil exes. Be prepared for some serious action! Team-up with up to 3 of your friends as Scott, Ramona, Stephen, and Kim, each with their own signature moves and attacks. Featuring 8-bit animations by the world-famous Pixel Artist Paul Robertson and more than 30 original music tracks by chiptune heroes Anamanaguchi.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2010-08-25T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=yAY4vNJd7A8&t=2s",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World:_The_Game"
 }

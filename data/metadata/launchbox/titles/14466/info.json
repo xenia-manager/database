@@ -1,115 +1,115 @@
 {
-  "Name": "DmC: Devil May Cry",
-  "DatabaseID": "14466",
-  "ReleaseDate": "2013-01-15T00:00:00+00:00",
-  "Overview": "Devil May Cry brand new tears -- DmC reinvents Capcom's classic action franchise to explore new frontiers with the series. The \"Devil May Cry DNA\" of stylish action, rewarding combat and a brash, smart-talking protagonist all remains; however, it has now injected with a dark and brutal gameplay that promises to redefine the franchise. The Dante of DmC is a young man who has no respect for authority or society in general. Dante knows that he is not human, but also that he is not like the demons that have tormented him throughout his life. Caught between worlds, he feels like an outcast. He is now discovering and coming to terms with what it means to be the child of a demon and an angel. This split personality has a real impact on gameplay with Dante being able to call upon angel and demon abilities at will, transforming his Rebellion sword on the fly to dramatically affect both combat and movement.",
-  "VideoURL": "https://www.youtube.com/watch?v=qhN5tS3Jt40",
-  "CommunityRating": "4.13636363636364",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/DmC:_Devil_May_Cry",
-  "ESRB": "M - Mature",
-  "Genres": "Adventure; Beat 'em Up",
-  "Developer": "Ninja Theory",
-  "Publisher": "Capcom",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_b9b56ae3-4899-497d-830f-a248e88f036c.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2999568514",
-        "URL": "http://images.launchbox-app.com/r2_b9b56ae3-4899-497d-830f-a248e88f036c.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "4250288121",
         "FileName": "ff5e42b1-65bd-4532-a6fa-e6d7cb845615.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4250288121",
         "URL": "http://images.launchbox-app.com/ff5e42b1-65bd-4532-a6fa-e6d7cb845615.jpg"
       },
       {
-        "FileName": "r2_b3625932-6963-45ed-8499-2f8bf596f0c9.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2188679451",
+        "FileName": "r2_b3625932-6963-45ed-8499-2f8bf596f0c9.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_b3625932-6963-45ed-8499-2f8bf596f0c9.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2999568514",
+        "FileName": "r2_b9b56ae3-4899-497d-830f-a248e88f036c.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_b9b56ae3-4899-497d-830f-a248e88f036c.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "2886378183",
           "FileName": "9eedf083-caeb-4414-b040-307134ed48c6.png",
           "Type": "Box - 3D",
-          "CRC32": "2886378183",
           "URL": "http://images.launchbox-app.com/9eedf083-caeb-4414-b040-307134ed48c6.png"
         },
         {
-          "FileName": "a5fd0cd0-065d-424d-a2db-a6a02dd60cfb.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3593828215",
+          "FileName": "a5fd0cd0-065d-424d-a2db-a6a02dd60cfb.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/a5fd0cd0-065d-424d-a2db-a6a02dd60cfb.png"
         }
       ],
       "Back": [
         {
-          "FileName": "2302c4ba-d26f-48fa-a4d2-4e2cdfdf4d44.png",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1184383725",
+          "FileName": "2302c4ba-d26f-48fa-a4d2-4e2cdfdf4d44.png",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/2302c4ba-d26f-48fa-a4d2-4e2cdfdf4d44.png"
         }
       ],
       "Front": [
         {
-          "FileName": "eec11171-3d6e-4a39-b8d2-128bd0113bfc.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1284207566",
+          "FileName": "eec11171-3d6e-4a39-b8d2-128bd0113bfc.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/eec11171-3d6e-4a39-b8d2-128bd0113bfc.jpg"
         },
         {
-          "FileName": "8526b43e-6576-4ec8-aa6d-222a3967125b.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1238227017",
+          "FileName": "8526b43e-6576-4ec8-aa6d-222a3967125b.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/8526b43e-6576-4ec8-aa6d-222a3967125b.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "bcf3ccf4-e122-4633-94e7-1c8c6ad45f39.png",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3376193429",
+          "FileName": "bcf3ccf4-e122-4633-94e7-1c8c6ad45f39.png",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/bcf3ccf4-e122-4633-94e7-1c8c6ad45f39.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "2d7c6c2e-30b8-451d-aa4d-6f3f3c8aa71d.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1107875652",
+        "FileName": "2d7c6c2e-30b8-451d-aa4d-6f3f3c8aa71d.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/2d7c6c2e-30b8-451d-aa4d-6f3f3c8aa71d.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "593285f2-7ed1-44d3-b2d1-6ba6f8e96e09.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1578123573",
-        "URL": "http://images.launchbox-app.com/593285f2-7ed1-44d3-b2d1-6ba6f8e96e09.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "3036033181",
         "FileName": "07118f81-1ef4-4768-8673-08283c3db351.png",
         "Type": "Clear Logo",
-        "CRC32": "3036033181",
         "URL": "http://images.launchbox-app.com/07118f81-1ef4-4768-8673-08283c3db351.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1578123573",
+        "FileName": "593285f2-7ed1-44d3-b2d1-6ba6f8e96e09.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/593285f2-7ed1-44d3-b2d1-6ba6f8e96e09.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.13636363636364",
+  "DatabaseID": "14466",
+  "Developer": "Ninja Theory",
+  "ESRB": "M - Mature",
+  "Genres": "Adventure; Beat 'em Up",
+  "Name": "DmC: Devil May Cry",
+  "Overview": "Devil May Cry brand new tears -- DmC reinvents Capcom's classic action franchise to explore new frontiers with the series. The \"Devil May Cry DNA\" of stylish action, rewarding combat and a brash, smart-talking protagonist all remains; however, it has now injected with a dark and brutal gameplay that promises to redefine the franchise. The Dante of DmC is a young man who has no respect for authority or society in general. Dante knows that he is not human, but also that he is not like the demons that have tormented him throughout his life. Caught between worlds, he feels like an outcast. He is now discovering and coming to terms with what it means to be the child of a demon and an angel. This split personality has a real impact on gameplay with Dante being able to call upon angel and demon abilities at will, transforming his Rebellion sword on the fly to dramatically affect both combat and movement.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2013-01-15T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=qhN5tS3Jt40",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/DmC:_Devil_May_Cry"
 }

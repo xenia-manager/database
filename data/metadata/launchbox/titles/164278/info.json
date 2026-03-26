@@ -1,43 +1,43 @@
 {
-  "Name": "X-Men",
-  "DatabaseID": "164278",
-  "ReleaseDate": "2010-12-15T00:00:00+00:00",
-  "Overview": "Experience the classic 1992 X-Men arcade game right in the comfort of your own home! Choose from some of your favorite classic X-Men characters including: Cyclops, Colossus, Wolverine, Storm, Nightcrawler, or Dazzler. Fight your way through hundreds of Sentinels and battle classic super villains such as Pyro, The Blob, Wendigo, Nimrod, The White Queen, Juggernaut, Mystique, and the Master of Magnetism himself, Magneto!",
-  "VideoURL": "https://www.youtube.com/watch?v=C0EawmJIusI",
-  "CommunityRating": "3.79166666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/X-Men_(1992_video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Beat 'em Up",
-  "Developer": "Konami",
-  "Publisher": "Konami Digital Entertainment",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3173747637",
         "FileName": "c81478ed-6ac2-4d2a-b0da-728426b1b6da.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3173747637",
         "URL": "http://images.launchbox-app.com/c81478ed-6ac2-4d2a-b0da-728426b1b6da.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "5788a924-8c8d-4fff-8a91-d30003478e02.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4024691656",
+          "FileName": "5788a924-8c8d-4fff-8a91-d30003478e02.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5788a924-8c8d-4fff-8a91-d30003478e02.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_fd0bf653-529e-495b-87bf-745230ba3251.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2474816690",
+        "FileName": "r2_fd0bf653-529e-495b-87bf-745230ba3251.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_fd0bf653-529e-495b-87bf-745230ba3251.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.79166666666667",
+  "DatabaseID": "164278",
+  "Developer": "Konami",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Beat 'em Up",
+  "Name": "X-Men",
+  "Overview": "Experience the classic 1992 X-Men arcade game right in the comfort of your own home! Choose from some of your favorite classic X-Men characters including: Cyclops, Colossus, Wolverine, Storm, Nightcrawler, or Dazzler. Fight your way through hundreds of Sentinels and battle classic super villains such as Pyro, The Blob, Wendigo, Nimrod, The White Queen, Juggernaut, Mystique, and the Master of Magnetism himself, Magneto!",
+  "Publisher": "Konami Digital Entertainment",
+  "ReleaseDate": "2010-12-15T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=C0EawmJIusI",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/X-Men_(1992_video_game)"
 }

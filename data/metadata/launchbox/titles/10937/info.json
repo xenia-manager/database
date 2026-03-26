@@ -1,85 +1,85 @@
 {
-  "Name": "Bastion",
-  "DatabaseID": "10937",
-  "ReleaseDate": "2011-07-20T00:00:00+00:00",
-  "Overview": "Bastion is an action role-playing experience that redefines storytelling in games, with a reactive narrator who marks your every move. Explore more than 40 lush hand-painted environments as you discover the secrets of the Calamity, a surreal catastrophe that shattered the world to pieces. Wield a huge arsenal of upgradeable weapons and battle savage beasts adapted to their new habitat. Finish the main story to unlock the New Game Plus mode and continue your journey!",
-  "VideoURL": "https://www.youtube.com/watch?v=mX48y24t9iU",
-  "CommunityRating": "3.9",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Bastion_(video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action; Role-Playing",
-  "Developer": "Supergiant Games",
-  "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "03660f3f-996a-4986-8cf5-78ec944620ae.png",
-        "Type": "Banner",
-        "CRC32": "1267218967",
-        "URL": "http://images.launchbox-app.com/03660f3f-996a-4986-8cf5-78ec944620ae.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "cbc261b4-5a73-4b0e-995e-6dbb7c104c00.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3770222135",
-        "URL": "http://images.launchbox-app.com/cbc261b4-5a73-4b0e-995e-6dbb7c104c00.jpg"
-      },
-      {
+        "CRC32": "2594383134",
         "FileName": "69cd38dd-be68-4608-be1d-61422d806b1c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2594383134",
         "URL": "http://images.launchbox-app.com/69cd38dd-be68-4608-be1d-61422d806b1c.jpg"
+      },
+      {
+        "CRC32": "3770222135",
+        "FileName": "cbc261b4-5a73-4b0e-995e-6dbb7c104c00.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/cbc261b4-5a73-4b0e-995e-6dbb7c104c00.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1267218967",
+        "FileName": "03660f3f-996a-4986-8cf5-78ec944620ae.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/03660f3f-996a-4986-8cf5-78ec944620ae.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "7eb1435b-a4c4-4515-9a99-35fbf6083840.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2215662622",
+          "FileName": "7eb1435b-a4c4-4515-9a99-35fbf6083840.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/7eb1435b-a4c4-4515-9a99-35fbf6083840.png"
         }
       ],
       "Front": [
         {
-          "FileName": "c16983c5-b3ef-4937-90b9-4e3246b9287e.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "815909293",
+          "FileName": "c16983c5-b3ef-4937-90b9-4e3246b9287e.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c16983c5-b3ef-4937-90b9-4e3246b9287e.jpg"
         },
         {
+          "CRC32": "1310658745",
           "FileName": "658e4569-5d13-4434-8af1-2bb9e6c8b5a8.png",
           "Type": "Box - Front - Reconstructed",
-          "CRC32": "1310658745",
           "URL": "http://images.launchbox-app.com/658e4569-5d13-4434-8af1-2bb9e6c8b5a8.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "3afa971d-d7b9-4801-9000-da9234d20110.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "503089108",
-        "URL": "http://images.launchbox-app.com/3afa971d-d7b9-4801-9000-da9234d20110.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "cb106028-2207-419d-a008-dfd931863842.png",
-        "Type": "Clear Logo",
-        "CRC32": "4006301691",
-        "URL": "http://images.launchbox-app.com/cb106028-2207-419d-a008-dfd931863842.png"
-      },
-      {
+        "CRC32": "3107084766",
         "FileName": "38be4a3c-372f-4a99-9362-f510d64d882a.png",
         "Type": "Clear Logo",
-        "CRC32": "3107084766",
         "URL": "http://images.launchbox-app.com/38be4a3c-372f-4a99-9362-f510d64d882a.png"
+      },
+      {
+        "CRC32": "4006301691",
+        "FileName": "cb106028-2207-419d-a008-dfd931863842.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/cb106028-2207-419d-a008-dfd931863842.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "503089108",
+        "FileName": "3afa971d-d7b9-4801-9000-da9234d20110.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/3afa971d-d7b9-4801-9000-da9234d20110.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.9",
+  "DatabaseID": "10937",
+  "Developer": "Supergiant Games",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action; Role-Playing",
+  "Name": "Bastion",
+  "Overview": "Bastion is an action role-playing experience that redefines storytelling in games, with a reactive narrator who marks your every move. Explore more than 40 lush hand-painted environments as you discover the secrets of the Calamity, a surreal catastrophe that shattered the world to pieces. Wield a huge arsenal of upgradeable weapons and battle savage beasts adapted to their new habitat. Finish the main story to unlock the New Game Plus mode and continue your journey!",
+  "Publisher": "Warner Bros. Interactive Entertainment",
+  "ReleaseDate": "2011-07-20T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=mX48y24t9iU",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Bastion_(video_game)"
 }

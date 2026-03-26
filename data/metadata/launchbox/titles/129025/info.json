@@ -1,165 +1,165 @@
 {
-  "Name": "Heavy Weapon",
-  "DatabaseID": "129025",
-  "ReleaseDate": "2005-02-24T00:00:00+00:00",
-  "Overview": "Heavy Weapon is a cartoonish side-scrolling action game where you control a single tank fighting waves of opponents. Driving to the right over flat terrain at a constant speed, the tank can move left or right while the sky is filled with aircraft such as jets, helis, zeppelins, bombers and missiles. Projectiles need to be avoided or taken out. Some friendly planes will pass and drop power-ups to improve speed, gun power or shield, or provide nukes, rockets, a laser, rapid fire or spread fire. During each level, enemies will drop parts of a mega laser weapon. If the four parts are found, an extremely powerful laser beam is added to your arsenal for a short time.\n\nThe turret can be aimed 180 degrees, using the right analog stick (Xbox 360) or the mouse (Windows). To position the tank on the screen, you move the mouse left or right (Windows) or use the left analog stick (Xbox 360). The game offers 2 modes. The first is Mission mode where you travel to different countries to take out an increasingly difficult amount of enemies, with a boss at the end of each level. The Xbox 360 version offers cooperative play for up to 4 people.\n\nThe other mode is Survival, where you need to play as long as possible without dying. For the Xbox 360 version, online Survival is split up into War Party (keep respawning as long as someone else is alive) and Arms Race (all players start with three lives only). After each mission, you get to upgrade your tank with rockets, a flak cannon, defense orbs, a laser or homing missiles. Additionally, there is the Boss Rush mode (Xbox 360 only), unlocked after finishing the Mission mode, where you need to defeat all 19 bosses after each other.",
-  "VideoURL": "https://www.youtube.com/watch?v=RcTlpaPq80U",
-  "CommunityRating": "3.85",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Heavy_Weapon",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Shooter",
-  "Developer": "CTXM",
-  "Publisher": "PopCap Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "78e5f099-5c2c-4541-9f86-01fb4f27fd82.png",
-        "Type": "Banner",
-        "CRC32": "1056035740",
-        "URL": "http://images.launchbox-app.com/78e5f099-5c2c-4541-9f86-01fb4f27fd82.png"
-      },
-      {
-        "FileName": "d71a24d8-5650-4d67-ae22-ad5529e2d00f.png",
-        "Type": "Banner",
-        "CRC32": "1056035740",
-        "URL": "http://images.launchbox-app.com/d71a24d8-5650-4d67-ae22-ad5529e2d00f.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "364131797",
+        "FileName": "5ca0fbd2-7048-420a-af96-b4ae3e11fe0d.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/5ca0fbd2-7048-420a-af96-b4ae3e11fe0d.jpg"
+      },
+      {
+        "CRC32": "765134737",
         "FileName": "9fe159e2-9890-49d8-aa0d-ce815dd67547.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "765134737",
         "URL": "http://images.launchbox-app.com/9fe159e2-9890-49d8-aa0d-ce815dd67547.jpg"
       },
       {
+        "CRC32": "1571725344",
         "FileName": "af2b5276-51b3-4a5a-a168-cbbb4345a8e5.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1571725344",
         "URL": "http://images.launchbox-app.com/af2b5276-51b3-4a5a-a168-cbbb4345a8e5.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1056035740",
+        "FileName": "78e5f099-5c2c-4541-9f86-01fb4f27fd82.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/78e5f099-5c2c-4541-9f86-01fb4f27fd82.png"
       },
       {
-        "FileName": "5ca0fbd2-7048-420a-af96-b4ae3e11fe0d.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "364131797",
-        "URL": "http://images.launchbox-app.com/5ca0fbd2-7048-420a-af96-b4ae3e11fe0d.jpg"
+        "CRC32": "1056035740",
+        "FileName": "d71a24d8-5650-4d67-ae22-ad5529e2d00f.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/d71a24d8-5650-4d67-ae22-ad5529e2d00f.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "297e0868-c08e-4615-b379-98927e230e0c.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3521330682",
+          "FileName": "297e0868-c08e-4615-b379-98927e230e0c.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/297e0868-c08e-4615-b379-98927e230e0c.jpg"
         },
         {
-          "FileName": "2a708a23-f1c1-408b-bd9b-dbc537dafcbe.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1002866028",
+          "FileName": "2a708a23-f1c1-408b-bd9b-dbc537dafcbe.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/2a708a23-f1c1-408b-bd9b-dbc537dafcbe.jpg"
         },
         {
-          "FileName": "fe1df298-c0c9-4cea-971c-784f5121dbd6.png",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "723978302",
+          "FileName": "fe1df298-c0c9-4cea-971c-784f5121dbd6.png",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/fe1df298-c0c9-4cea-971c-784f5121dbd6.png"
         },
         {
-          "FileName": "87f1d173-3b37-4d49-8955-0ac6cf28260b.png",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "402720834",
+          "FileName": "87f1d173-3b37-4d49-8955-0ac6cf28260b.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/87f1d173-3b37-4d49-8955-0ac6cf28260b.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "13c2a9a6-84cb-42f7-abe5-3909da14d79a.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "1490608998",
-        "URL": "http://images.launchbox-app.com/13c2a9a6-84cb-42f7-abe5-3909da14d79a.png"
-      },
-      {
-        "FileName": "1114b2ac-f83b-4cd6-ab9f-752c292613b2.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "3998915827",
-        "URL": "http://images.launchbox-app.com/1114b2ac-f83b-4cd6-ab9f-752c292613b2.png"
-      },
-      {
+        "CRC32": "3962456515",
         "FileName": "041b24bb-3525-4ad8-aede-fb94f5e17db1.png",
         "Type": "Fanart - Disc",
-        "CRC32": "3962456515",
         "URL": "http://images.launchbox-app.com/041b24bb-3525-4ad8-aede-fb94f5e17db1.png"
       },
       {
+        "CRC32": "3998915827",
+        "FileName": "1114b2ac-f83b-4cd6-ab9f-752c292613b2.png",
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/1114b2ac-f83b-4cd6-ab9f-752c292613b2.png"
+      },
+      {
+        "CRC32": "1490608998",
+        "FileName": "13c2a9a6-84cb-42f7-abe5-3909da14d79a.png",
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/13c2a9a6-84cb-42f7-abe5-3909da14d79a.png"
+      },
+      {
+        "CRC32": "732894197",
         "FileName": "8f4e0b67-1b85-40ce-a510-f87d7d0d148d.png",
         "Type": "Fanart - Disc",
-        "CRC32": "732894197",
         "URL": "http://images.launchbox-app.com/8f4e0b67-1b85-40ce-a510-f87d7d0d148d.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "26591e6d-0e4f-4a9d-8aa6-e8dd9c6cbb51.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "979414739",
-        "URL": "http://images.launchbox-app.com/26591e6d-0e4f-4a9d-8aa6-e8dd9c6cbb51.jpg"
-      },
-      {
-        "FileName": "afd42d05-b8d1-4d97-ba76-7d69a20f9ee9.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "3250278874",
-        "URL": "http://images.launchbox-app.com/afd42d05-b8d1-4d97-ba76-7d69a20f9ee9.jpg"
-      },
-      {
-        "FileName": "369b4f05-2a02-4cb7-abd5-1b4f7da279a1.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2939729768",
-        "URL": "http://images.launchbox-app.com/369b4f05-2a02-4cb7-abd5-1b4f7da279a1.jpg"
-      },
-      {
-        "FileName": "102d0143-5cb9-410c-b086-83addb31c972.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1464299999",
-        "URL": "http://images.launchbox-app.com/102d0143-5cb9-410c-b086-83addb31c972.jpg"
-      },
-      {
-        "FileName": "5d45a4d4-70f8-42fa-825d-e20ed634c907.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3117138243",
-        "URL": "http://images.launchbox-app.com/5d45a4d4-70f8-42fa-825d-e20ed634c907.jpg"
-      },
-      {
-        "FileName": "a97025a9-184b-48eb-b15d-f179a5492e0d.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "932495517",
-        "URL": "http://images.launchbox-app.com/a97025a9-184b-48eb-b15d-f179a5492e0d.jpg"
-      },
-      {
-        "FileName": "8ccf7788-b040-475e-b536-ce28aa24654d.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2546319028",
-        "URL": "http://images.launchbox-app.com/8ccf7788-b040-475e-b536-ce28aa24654d.jpg"
-      },
-      {
-        "FileName": "0c72caa6-45fd-4e03-ace6-c9dc9a07009c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1788469711",
-        "URL": "http://images.launchbox-app.com/0c72caa6-45fd-4e03-ace6-c9dc9a07009c.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "3707853250",
         "FileName": "64fcc67e-8852-46fb-9c96-348c791d1d78.png",
         "Type": "Clear Logo",
-        "CRC32": "3707853250",
         "URL": "http://images.launchbox-app.com/64fcc67e-8852-46fb-9c96-348c791d1d78.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "979414739",
+        "FileName": "26591e6d-0e4f-4a9d-8aa6-e8dd9c6cbb51.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/26591e6d-0e4f-4a9d-8aa6-e8dd9c6cbb51.jpg"
+      },
+      {
+        "CRC32": "3250278874",
+        "FileName": "afd42d05-b8d1-4d97-ba76-7d69a20f9ee9.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/afd42d05-b8d1-4d97-ba76-7d69a20f9ee9.jpg"
+      },
+      {
+        "CRC32": "2939729768",
+        "FileName": "369b4f05-2a02-4cb7-abd5-1b4f7da279a1.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/369b4f05-2a02-4cb7-abd5-1b4f7da279a1.jpg"
+      },
+      {
+        "CRC32": "1788469711",
+        "FileName": "0c72caa6-45fd-4e03-ace6-c9dc9a07009c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/0c72caa6-45fd-4e03-ace6-c9dc9a07009c.jpg"
+      },
+      {
+        "CRC32": "1464299999",
+        "FileName": "102d0143-5cb9-410c-b086-83addb31c972.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/102d0143-5cb9-410c-b086-83addb31c972.jpg"
+      },
+      {
+        "CRC32": "3117138243",
+        "FileName": "5d45a4d4-70f8-42fa-825d-e20ed634c907.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/5d45a4d4-70f8-42fa-825d-e20ed634c907.jpg"
+      },
+      {
+        "CRC32": "2546319028",
+        "FileName": "8ccf7788-b040-475e-b536-ce28aa24654d.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8ccf7788-b040-475e-b536-ce28aa24654d.jpg"
+      },
+      {
+        "CRC32": "932495517",
+        "FileName": "a97025a9-184b-48eb-b15d-f179a5492e0d.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a97025a9-184b-48eb-b15d-f179a5492e0d.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.85",
+  "DatabaseID": "129025",
+  "Developer": "CTXM",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Shooter",
+  "Name": "Heavy Weapon",
+  "Overview": "Heavy Weapon is a cartoonish side-scrolling action game where you control a single tank fighting waves of opponents. Driving to the right over flat terrain at a constant speed, the tank can move left or right while the sky is filled with aircraft such as jets, helis, zeppelins, bombers and missiles. Projectiles need to be avoided or taken out. Some friendly planes will pass and drop power-ups to improve speed, gun power or shield, or provide nukes, rockets, a laser, rapid fire or spread fire. During each level, enemies will drop parts of a mega laser weapon. If the four parts are found, an extremely powerful laser beam is added to your arsenal for a short time.\n\nThe turret can be aimed 180 degrees, using the right analog stick (Xbox 360) or the mouse (Windows). To position the tank on the screen, you move the mouse left or right (Windows) or use the left analog stick (Xbox 360). The game offers 2 modes. The first is Mission mode where you travel to different countries to take out an increasingly difficult amount of enemies, with a boss at the end of each level. The Xbox 360 version offers cooperative play for up to 4 people.\n\nThe other mode is Survival, where you need to play as long as possible without dying. For the Xbox 360 version, online Survival is split up into War Party (keep respawning as long as someone else is alive) and Arms Race (all players start with three lives only). After each mission, you get to upgrade your tank with rockets, a flak cannon, defense orbs, a laser or homing missiles. Additionally, there is the Boss Rush mode (Xbox 360 only), unlocked after finishing the Mission mode, where you need to defeat all 19 bosses after each other.",
+  "Publisher": "PopCap Games",
+  "ReleaseDate": "2005-02-24T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=RcTlpaPq80U",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Heavy_Weapon"
 }

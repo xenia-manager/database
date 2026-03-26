@@ -1,192 +1,192 @@
 {
-  "Name": "Fallout: New Vegas",
-  "DatabaseID": "8162",
-  "ReleaseDate": "2010-10-19T00:00:00+00:00",
-  "Overview": "Fallout: New Vegas is an action role-playing video game in the Fallout video game series. The game was developed by Obsidian Entertainment and published by Bethesda Softworks. It released for Microsoft Windows, Xbox 360 and PlayStation 3 in October 2010.\n\nThe game is set in a post-apocalyptic, open world environment around the area of Nevada, California, and Arizona. The player takes control of the character known as the Courier, who, preceding the start of the game, is hired by a delivery service to take an unknown package across the Mojave Desert to the New Vegas Strip. The game starts during the delivery, where the Courier is intercepted, shot in the head, and left for dead by a mysterious man who steals the package. After being found by a friendly robot, Victor, and healed by a man named Doc Mitchell, the Courier is thrust back into the desert to seek revenge and recover the stolen package. By doing this, the player becomes caught between various factions competing for control over the desert and its most valuable asset, the Hoover Dam, ultimately coming to shape the future of its inhabitants.\n\nEven though it directly succeeds Fallout 3 in order of Fallout game releases, offers a similar action role-playing experience, and shares its engine and legacy content with Fallout 3, New Vegas is not a direct sequel. It marks the return of some elements found in Fallout 2. The game was a critical and commercial success, shipping more than 5 million copies altogether. Electronic Entertainment Design and Research, a market research firm, estimates that the game has sold almost 12 million copies worldwide.",
-  "VideoURL": "http://www.youtube.com/watch?v=l-x-1fm2cq8",
-  "CommunityRating": "4.60869565217391",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Role-Playing; Shooter",
-  "Developer": "Obsidian Entertainment",
-  "Publisher": "Bethesda Softworks",
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "2120706564",
+        "FileName": "r2_701b3d8b-af61-4a2e-8e92-8fdcdd172086.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_701b3d8b-af61-4a2e-8e92-8fdcdd172086.jpg"
+      }
+    ],
     "Banner": [
       {
-        "FileName": "865f3094-b892-43dd-b343-1b3cb683c49d.png",
-        "Type": "Banner",
-        "Region": "North America",
         "CRC32": "1934823884",
+        "FileName": "865f3094-b892-43dd-b343-1b3cb683c49d.png",
+        "Region": "North America",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/865f3094-b892-43dd-b343-1b3cb683c49d.png"
       },
       {
-        "FileName": "r2_12a6991b-8bb7-4da6-8f18-9e2558a1ac85.png",
-        "Type": "Banner",
-        "Region": "World",
         "CRC32": "859819762",
-        "URL": "http://images.launchbox-app.com/r2_12a6991b-8bb7-4da6-8f18-9e2558a1ac85.png"
-      }
-    ],
-    "Background": [
-      {
-        "FileName": "r2_701b3d8b-af61-4a2e-8e92-8fdcdd172086.jpg",
-        "Type": "Fanart - Background",
+        "FileName": "r2_12a6991b-8bb7-4da6-8f18-9e2558a1ac85.png",
         "Region": "World",
-        "CRC32": "2120706564",
-        "URL": "http://images.launchbox-app.com/r2_701b3d8b-af61-4a2e-8e92-8fdcdd172086.jpg"
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_12a6991b-8bb7-4da6-8f18-9e2558a1ac85.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "6318ae4a-fdd1-4d06-91a5-b0bcd511eac6.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "4104178935",
+          "FileName": "6318ae4a-fdd1-4d06-91a5-b0bcd511eac6.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/6318ae4a-fdd1-4d06-91a5-b0bcd511eac6.png"
         }
       ],
       "Back": [
         {
-          "FileName": "88ce3bd1-4f1d-468f-b76c-3c1d18294c52.jpg",
-          "Type": "Box - Back",
-          "Region": "Canada",
           "CRC32": "1200725498",
+          "FileName": "88ce3bd1-4f1d-468f-b76c-3c1d18294c52.jpg",
+          "Region": "Canada",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/88ce3bd1-4f1d-468f-b76c-3c1d18294c52.jpg"
         },
         {
-          "FileName": "r2_b136f43b-e3ad-45cb-9f7c-a68e567333be.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
-          "CRC32": "2525434179",
-          "URL": "http://images.launchbox-app.com/r2_b136f43b-e3ad-45cb-9f7c-a68e567333be.jpg"
-        },
-        {
-          "FileName": "45fb5944-f62e-42cb-873e-87f40be72ce7.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1433723808",
+          "FileName": "45fb5944-f62e-42cb-873e-87f40be72ce7.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/45fb5944-f62e-42cb-873e-87f40be72ce7.jpg"
         },
         {
-          "FileName": "3fb70f48-20b0-4f3c-95b9-95a2f1057a41.jpg",
+          "CRC32": "2525434179",
+          "FileName": "r2_b136f43b-e3ad-45cb-9f7c-a68e567333be.jpg",
+          "Region": "Germany",
           "Type": "Box - Back",
-          "Region": "North America",
+          "URL": "http://images.launchbox-app.com/r2_b136f43b-e3ad-45cb-9f7c-a68e567333be.jpg"
+        },
+        {
           "CRC32": "1200725498",
+          "FileName": "3fb70f48-20b0-4f3c-95b9-95a2f1057a41.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/3fb70f48-20b0-4f3c-95b9-95a2f1057a41.jpg"
         },
         {
-          "FileName": "b641fbe0-1aae-47fe-a021-2c5dcb2f2a97.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2073842262",
+          "FileName": "b641fbe0-1aae-47fe-a021-2c5dcb2f2a97.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/b641fbe0-1aae-47fe-a021-2c5dcb2f2a97.jpg"
         },
         {
-          "FileName": "8be642c9-a7c1-43cf-9e55-f5a6c0cba245.jpg",
-          "Type": "Box - Back",
-          "Region": "United Kingdom",
           "CRC32": "1836090811",
+          "FileName": "8be642c9-a7c1-43cf-9e55-f5a6c0cba245.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/8be642c9-a7c1-43cf-9e55-f5a6c0cba245.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "3eae14f9-c496-4fe0-96af-7d59b209c38f.jpg",
-          "Type": "Box - Front",
-          "Region": "Canada",
           "CRC32": "3715512612",
+          "FileName": "3eae14f9-c496-4fe0-96af-7d59b209c38f.jpg",
+          "Region": "Canada",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/3eae14f9-c496-4fe0-96af-7d59b209c38f.jpg"
         },
         {
-          "FileName": "10e3e9d1-1e43-4ec6-9038-e07f5a1c57f2.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "4076564506",
+          "FileName": "10e3e9d1-1e43-4ec6-9038-e07f5a1c57f2.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/10e3e9d1-1e43-4ec6-9038-e07f5a1c57f2.jpg"
         },
         {
-          "FileName": "r2_6ef5ad61-9b5d-436a-89a6-32950e53f1e5.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1603385726",
+          "FileName": "r2_6ef5ad61-9b5d-436a-89a6-32950e53f1e5.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_6ef5ad61-9b5d-436a-89a6-32950e53f1e5.jpg"
         },
         {
-          "FileName": "0ef238b6-b168-434c-b8de-7a531feec749.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3891787457",
+          "FileName": "0ef238b6-b168-434c-b8de-7a531feec749.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0ef238b6-b168-434c-b8de-7a531feec749.jpg"
         },
         {
-          "FileName": "25969bea-ea22-4f56-ab56-3397f7410015.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
           "CRC32": "3476113318",
+          "FileName": "25969bea-ea22-4f56-ab56-3397f7410015.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/25969bea-ea22-4f56-ab56-3397f7410015.jpg"
         },
         {
-          "FileName": "r2_9260c8fc-a9f1-4736-8aae-d205c4e9e60e.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2424891984",
+          "FileName": "r2_9260c8fc-a9f1-4736-8aae-d205c4e9e60e.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_9260c8fc-a9f1-4736-8aae-d205c4e9e60e.jpg"
         },
         {
-          "FileName": "r2_f4b54df7-9513-44a6-8983-7fa8c83b59fd.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1040182788",
+          "FileName": "r2_f4b54df7-9513-44a6-8983-7fa8c83b59fd.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f4b54df7-9513-44a6-8983-7fa8c83b59fd.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_cc8c41e8-a87b-47e3-a90b-1878a77cc2ae.png",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "4007370987",
+          "FileName": "r2_cc8c41e8-a87b-47e3-a90b-1878a77cc2ae.png",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_cc8c41e8-a87b-47e3-a90b-1878a77cc2ae.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_dd622582-e6d1-4bbe-9078-975d6edd05d2.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3716988643",
+        "FileName": "r2_dd622582-e6d1-4bbe-9078-975d6edd05d2.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_dd622582-e6d1-4bbe-9078-975d6edd05d2.png"
       },
       {
-        "FileName": "9bbf36cd-f588-4730-8898-01edd3aab662.png",
-        "Type": "Disc",
-        "Region": "United Kingdom",
         "CRC32": "1217383386",
+        "FileName": "9bbf36cd-f588-4730-8898-01edd3aab662.png",
+        "Region": "United Kingdom",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/9bbf36cd-f588-4730-8898-01edd3aab662.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "faa12d41-8eb2-4ac4-a52b-ef6c98d85531.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3354780870",
-        "URL": "http://images.launchbox-app.com/faa12d41-8eb2-4ac4-a52b-ef6c98d85531.png"
-      },
-      {
-        "FileName": "8e0124dc-e63c-42f1-9acd-339dc411f057.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1511396859",
-        "URL": "http://images.launchbox-app.com/8e0124dc-e63c-42f1-9acd-339dc411f057.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "1184903346",
         "FileName": "425418a2-f8f0-4fc8-b248-4301bad35828.png",
         "Type": "Clear Logo",
-        "CRC32": "1184903346",
         "URL": "http://images.launchbox-app.com/425418a2-f8f0-4fc8-b248-4301bad35828.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3354780870",
+        "FileName": "faa12d41-8eb2-4ac4-a52b-ef6c98d85531.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/faa12d41-8eb2-4ac4-a52b-ef6c98d85531.png"
+      },
+      {
+        "CRC32": "1511396859",
+        "FileName": "8e0124dc-e63c-42f1-9acd-339dc411f057.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8e0124dc-e63c-42f1-9acd-339dc411f057.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.60869565217391",
+  "DatabaseID": "8162",
+  "Developer": "Obsidian Entertainment",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Role-Playing; Shooter",
+  "Name": "Fallout: New Vegas",
+  "Overview": "Fallout: New Vegas is an action role-playing video game in the Fallout video game series. The game was developed by Obsidian Entertainment and published by Bethesda Softworks. It released for Microsoft Windows, Xbox 360 and PlayStation 3 in October 2010.\n\nThe game is set in a post-apocalyptic, open world environment around the area of Nevada, California, and Arizona. The player takes control of the character known as the Courier, who, preceding the start of the game, is hired by a delivery service to take an unknown package across the Mojave Desert to the New Vegas Strip. The game starts during the delivery, where the Courier is intercepted, shot in the head, and left for dead by a mysterious man who steals the package. After being found by a friendly robot, Victor, and healed by a man named Doc Mitchell, the Courier is thrust back into the desert to seek revenge and recover the stolen package. By doing this, the player becomes caught between various factions competing for control over the desert and its most valuable asset, the Hoover Dam, ultimately coming to shape the future of its inhabitants.\n\nEven though it directly succeeds Fallout 3 in order of Fallout game releases, offers a similar action role-playing experience, and shares its engine and legacy content with Fallout 3, New Vegas is not a direct sequel. It marks the return of some elements found in Fallout 2. The game was a critical and commercial success, shipping more than 5 million copies altogether. Electronic Entertainment Design and Research, a market research firm, estimates that the game has sold almost 12 million copies worldwide.",
+  "Publisher": "Bethesda Softworks",
+  "ReleaseDate": "2010-10-19T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=l-x-1fm2cq8"
 }

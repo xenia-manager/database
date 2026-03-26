@@ -1,38 +1,38 @@
 {
-  "Name": "Arcane Brawlers",
-  "DatabaseID": "467229",
-  "ReleaseDate": "2011-02-23T00:00:00+00:00",
-  "Overview": "Arcane Brawlers is a very simple Xbox arcade game in which each player (up to four) controls a magical wizard (mage). It is a 2D, overhead view game. The players stock magical elements, represented by the buttons' colors. A: Earth B: Fire X: Water Y: Air The goal of the game is to simply kill the other players by making their Hit Points get reduced to zero.",
-  "Genres": "Shooter",
-  "Developer": "Husky Game Development",
-  "Publisher": "Husky Game Development",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "e66dac9b-6588-4181-8d5c-3ac67a905e65.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2854881502",
+          "FileName": "e66dac9b-6588-4181-8d5c-3ac67a905e65.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e66dac9b-6588-4181-8d5c-3ac67a905e65.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "f23cc701-e1c4-49bf-bbef-82bd902bc9f3.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1725947064",
+        "FileName": "747c5780-6a9f-40d2-9423-1193f8740953.jpg",
         "Region": "World",
-        "CRC32": "1295204895",
-        "URL": "http://images.launchbox-app.com/f23cc701-e1c4-49bf-bbef-82bd902bc9f3.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/747c5780-6a9f-40d2-9423-1193f8740953.jpg"
       },
       {
-        "FileName": "747c5780-6a9f-40d2-9423-1193f8740953.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1295204895",
+        "FileName": "f23cc701-e1c4-49bf-bbef-82bd902bc9f3.jpg",
         "Region": "World",
-        "CRC32": "1725947064",
-        "URL": "http://images.launchbox-app.com/747c5780-6a9f-40d2-9423-1193f8740953.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f23cc701-e1c4-49bf-bbef-82bd902bc9f3.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467229",
+  "Developer": "Husky Game Development",
+  "Genres": "Shooter",
+  "Name": "Arcane Brawlers",
+  "Overview": "Arcane Brawlers is a very simple Xbox arcade game in which each player (up to four) controls a magical wizard (mage). It is a 2D, overhead view game. The players stock magical elements, represented by the buttons' colors. A: Earth B: Fire X: Water Y: Air The goal of the game is to simply kill the other players by making their Hit Points get reduced to zero.",
+  "Publisher": "Husky Game Development",
+  "ReleaseDate": "2011-02-23T00:00:00+00:00"
 }

@@ -1,63 +1,63 @@
 {
-  "Name": "Truck Racer",
-  "DatabaseID": "203880",
-  "ReleaseDate": "2014-02-04T00:00:00+00:00",
-  "Overview": "Take the wheel of a truck hurtling along at top speed, blow away your opponents and claim victory! Drive on 48 tracks in vehicles that can be completely destroyed. Customize every aspect of your truck, from engine to paint. Rise to all the challenges in Championship mode and upgrade your truck.",
-  "CommunityRating": "4.5",
-  "ESRB": "T - Teen",
-  "Genres": "Racing",
-  "Developer": "Kylotonn",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "6606110b-cebd-4435-b498-4433102d751b.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "4261978350",
+          "FileName": "6606110b-cebd-4435-b498-4433102d751b.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/6606110b-cebd-4435-b498-4433102d751b.jpg"
         },
         {
-          "FileName": "r2_4ea02593-d4ab-47c9-8420-e63a17665e0d.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "141606151",
+          "FileName": "r2_4ea02593-d4ab-47c9-8420-e63a17665e0d.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_4ea02593-d4ab-47c9-8420-e63a17665e0d.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "7787dedc-16e7-4aff-9d95-7eced5be0af9.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "3075065745",
+          "FileName": "7787dedc-16e7-4aff-9d95-7eced5be0af9.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7787dedc-16e7-4aff-9d95-7eced5be0af9.jpg"
         },
         {
-          "FileName": "r2_36ba3cc1-02f6-4eeb-8899-4c231b912b87.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1062782185",
+          "FileName": "r2_36ba3cc1-02f6-4eeb-8899-4c231b912b87.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_36ba3cc1-02f6-4eeb-8899-4c231b912b87.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "89034ea8-4430-42c2-bc97-3d53f0202f4b.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4052199496",
-        "URL": "http://images.launchbox-app.com/89034ea8-4430-42c2-bc97-3d53f0202f4b.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "d486501e-1fa0-465d-84bf-1cb4e5aada37.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "501972225",
+        "FileName": "d486501e-1fa0-465d-84bf-1cb4e5aada37.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/d486501e-1fa0-465d-84bf-1cb4e5aada37.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "4052199496",
+        "FileName": "89034ea8-4430-42c2-bc97-3d53f0202f4b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/89034ea8-4430-42c2-bc97-3d53f0202f4b.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "203880",
+  "Developer": "Kylotonn",
+  "ESRB": "T - Teen",
+  "Genres": "Racing",
+  "Name": "Truck Racer",
+  "Overview": "Take the wheel of a truck hurtling along at top speed, blow away your opponents and claim victory! Drive on 48 tracks in vehicles that can be completely destroyed. Customize every aspect of your truck, from engine to paint. Rise to all the challenges in Championship mode and upgrade your truck.",
+  "ReleaseDate": "2014-02-04T00:00:00+00:00"
 }

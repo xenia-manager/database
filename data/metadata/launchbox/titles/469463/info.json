@@ -1,60 +1,60 @@
 {
-  "Name": "Find Teddy!",
-  "DatabaseID": "469463",
-  "ReleaseDate": "2026-02-18T00:00:00+00:00",
-  "Overview": "Find Teddy! is a simple puzzle game intended for young children. The player is presented with a selection of teddy bears and must use a set of clues to determine which teddy is the correct teddy based on their physical appearance. Throughout the game, the player can unlock items with successful guesses that can be used to create their own teddies. The first level has 4 teddies with 2 clues, the second has 9 teddies with 3 clues, and the hardest level has 16 teddies with 4 clues.",
-  "VideoURL": "https://youtu.be/LxyT2BPriW8",
-  "Genres": "Puzzle",
-  "Developer": "Stephen M Bennett",
-  "Publisher": "Microsoft Games Studio",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "c1cb0d78-109e-4e71-a2a6-4750a47d1565.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2065930321",
+          "FileName": "c1cb0d78-109e-4e71-a2a6-4750a47d1565.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c1cb0d78-109e-4e71-a2a6-4750a47d1565.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "02868a2a-fa09-4631-985f-ac23db1e7c46.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "2395484840",
+        "FileName": "02868a2a-fa09-4631-985f-ac23db1e7c46.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/02868a2a-fa09-4631-985f-ac23db1e7c46.jpg"
       },
       {
-        "FileName": "4c1a3a31-4c6e-4890-954a-f92ce18191d3.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "3159477409",
-        "URL": "http://images.launchbox-app.com/4c1a3a31-4c6e-4890-954a-f92ce18191d3.jpg"
-      },
-      {
-        "FileName": "7e28c240-a874-43b4-ae09-69d086ae4145.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "3897166677",
-        "URL": "http://images.launchbox-app.com/7e28c240-a874-43b4-ae09-69d086ae4145.jpg"
-      },
-      {
-        "FileName": "1cb5ca46-d3cf-4e60-bfb2-7367e98599dd.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2707899163",
+        "FileName": "1cb5ca46-d3cf-4e60-bfb2-7367e98599dd.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/1cb5ca46-d3cf-4e60-bfb2-7367e98599dd.jpg"
       },
       {
-        "FileName": "efc1d3e0-c14b-4f52-b43e-ee8dcecdfa1f.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3159477409",
+        "FileName": "4c1a3a31-4c6e-4890-954a-f92ce18191d3.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/4c1a3a31-4c6e-4890-954a-f92ce18191d3.jpg"
+      },
+      {
+        "CRC32": "3897166677",
+        "FileName": "7e28c240-a874-43b4-ae09-69d086ae4145.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7e28c240-a874-43b4-ae09-69d086ae4145.jpg"
+      },
+      {
         "CRC32": "3122910330",
+        "FileName": "efc1d3e0-c14b-4f52-b43e-ee8dcecdfa1f.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/efc1d3e0-c14b-4f52-b43e-ee8dcecdfa1f.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469463",
+  "Developer": "Stephen M Bennett",
+  "Genres": "Puzzle",
+  "Name": "Find Teddy!",
+  "Overview": "Find Teddy! is a simple puzzle game intended for young children. The player is presented with a selection of teddy bears and must use a set of clues to determine which teddy is the correct teddy based on their physical appearance. Throughout the game, the player can unlock items with successful guesses that can be used to create their own teddies. The first level has 4 teddies with 2 clues, the second has 9 teddies with 3 clues, and the hardest level has 16 teddies with 4 clues.",
+  "Publisher": "Microsoft Games Studio",
+  "ReleaseDate": "2026-02-18T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/LxyT2BPriW8"
 }

@@ -1,118 +1,118 @@
 {
-  "Name": "Damnation",
-  "DatabaseID": "15385",
-  "ReleaseDate": "2009-05-26T00:00:00+00:00",
-  "Overview": "Damnation is a third-person shooter set in a steampunk-universe with the player taking over the control of Rourke, fighting through hordes and hordes of enemies as well as jumping from roof to roof and other climbing exercises in order to accomplish his objectives like freeing a prisoner or shutting down a factory. On his side the Indian healer Yakecan and the cowboy Ramon Sepherius Zagato. Of course the enemies don't just drop dead by the sight of Rourke and his friends. Instead everyone can carry around three weapons. Two big ones like a shotgun, grenade launcher or sniper rifle and one pistol which also includes gear like the railroad-spike-gun. In addition the players have access to trip-mines that can either be thrown or planted but always have to be triggered manually. Since the levels are huge and traveling on foot sometimes is either not feasible or possible, steampunk bikes stand ready for the players to be used in two different designs. The small version carries two persons with one being the driver and the second one standing on the back shooting everything in sight. The second version allows for two gunners on the back.",
-  "CommunityRating": "4.4",
-  "ESRB": "M - Mature",
-  "Genres": null,
-  "Developer": "Blue Omega",
-  "Publisher": "Codemasters",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_a90ea308-18d9-49ec-be82-086da3881a1c.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3976449331",
-        "URL": "http://images.launchbox-app.com/r2_a90ea308-18d9-49ec-be82-086da3881a1c.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2137426312",
         "FileName": "0084dcb0-fefe-4abb-9024-34211fb33818.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2137426312",
         "URL": "http://images.launchbox-app.com/0084dcb0-fefe-4abb-9024-34211fb33818.jpg"
       },
       {
-        "FileName": "r2_3dbb6f29-7a8f-4123-8143-bec727975b77.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1315298366",
+        "FileName": "r2_3dbb6f29-7a8f-4123-8143-bec727975b77.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_3dbb6f29-7a8f-4123-8143-bec727975b77.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3976449331",
+        "FileName": "r2_a90ea308-18d9-49ec-be82-086da3881a1c.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_a90ea308-18d9-49ec-be82-086da3881a1c.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "8c623994-3591-4d7d-a4fb-f394763a6dff.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "4188558851",
+          "FileName": "8c623994-3591-4d7d-a4fb-f394763a6dff.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/8c623994-3591-4d7d-a4fb-f394763a6dff.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_55d881c9-b47e-40fb-b0e5-632cf4f87840.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "397017738",
+          "FileName": "r2_55d881c9-b47e-40fb-b0e5-632cf4f87840.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_55d881c9-b47e-40fb-b0e5-632cf4f87840.jpg"
         },
         {
-          "FileName": "2bd9b596-1667-4a63-ac32-b4765ca3c8ba.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "4191406406",
+          "FileName": "2bd9b596-1667-4a63-ac32-b4765ca3c8ba.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/2bd9b596-1667-4a63-ac32-b4765ca3c8ba.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_79b44701-bf8c-47fb-8aea-5ce9293ca493.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2266791990",
+          "FileName": "r2_79b44701-bf8c-47fb-8aea-5ce9293ca493.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_79b44701-bf8c-47fb-8aea-5ce9293ca493.jpg"
         },
         {
-          "FileName": "d3d3042c-2c2b-458d-9b03-af19b65674e9.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2092058336",
+          "FileName": "d3d3042c-2c2b-458d-9b03-af19b65674e9.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d3d3042c-2c2b-458d-9b03-af19b65674e9.jpg"
         },
         {
-          "FileName": "6bf0a93a-f9a1-4545-97d8-00fb7064ad1e.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1149769388",
+          "FileName": "6bf0a93a-f9a1-4545-97d8-00fb7064ad1e.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/6bf0a93a-f9a1-4545-97d8-00fb7064ad1e.png"
         },
         {
-          "FileName": "0ae29e27-d3a4-45c3-aa42-d9d0f871812e.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "United Kingdom",
           "CRC32": "280598252",
+          "FileName": "0ae29e27-d3a4-45c3-aa42-d9d0f871812e.png",
+          "Region": "United Kingdom",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/0ae29e27-d3a4-45c3-aa42-d9d0f871812e.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "d1981516-f9dc-4e3f-9a36-b8d3a3d36869.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "2106163022",
+        "FileName": "d1981516-f9dc-4e3f-9a36-b8d3a3d36869.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/d1981516-f9dc-4e3f-9a36-b8d3a3d36869.png"
       },
       {
-        "FileName": "r2_1b0beaa6-9abe-4a3f-918c-3ecb732332c2.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3928828001",
+        "FileName": "r2_1b0beaa6-9abe-4a3f-918c-3ecb732332c2.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_1b0beaa6-9abe-4a3f-918c-3ecb732332c2.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1668959285",
         "FileName": "bd1ed9a7-71b8-4825-a2e0-416b55321de3.png",
         "Type": "Clear Logo",
-        "CRC32": "1668959285",
         "URL": "http://images.launchbox-app.com/bd1ed9a7-71b8-4825-a2e0-416b55321de3.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.4",
+  "DatabaseID": "15385",
+  "Developer": "Blue Omega",
+  "ESRB": "M - Mature",
+  "Genres": null,
+  "Name": "Damnation",
+  "Overview": "Damnation is a third-person shooter set in a steampunk-universe with the player taking over the control of Rourke, fighting through hordes and hordes of enemies as well as jumping from roof to roof and other climbing exercises in order to accomplish his objectives like freeing a prisoner or shutting down a factory. On his side the Indian healer Yakecan and the cowboy Ramon Sepherius Zagato. Of course the enemies don't just drop dead by the sight of Rourke and his friends. Instead everyone can carry around three weapons. Two big ones like a shotgun, grenade launcher or sniper rifle and one pistol which also includes gear like the railroad-spike-gun. In addition the players have access to trip-mines that can either be thrown or planted but always have to be triggered manually. Since the levels are huge and traveling on foot sometimes is either not feasible or possible, steampunk bikes stand ready for the players to be used in two different designs. The small version carries two persons with one being the driver and the second one standing on the back shooting everything in sight. The second version allows for two gunners on the back.",
+  "Publisher": "Codemasters",
+  "ReleaseDate": "2009-05-26T00:00:00+00:00"
 }

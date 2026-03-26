@@ -1,58 +1,58 @@
 {
-  "Name": "Fez",
-  "DatabaseID": "14162",
-  "ReleaseDate": "2012-04-13T00:00:00+00:00",
-  "Overview": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception. Change your perspective and look at the world in a different way.",
-  "VideoURL": "https://www.youtube.com/watch?v=tfpKTclOnfI",
-  "CommunityRating": "3.85714285714286",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Fez_(video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Platform; Puzzle",
-  "Developer": "Polytron",
-  "Publisher": "Trapdoor",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_3cdcce83-c4ea-4614-8f15-4321499d4d23.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3701667660",
-        "URL": "http://images.launchbox-app.com/r2_3cdcce83-c4ea-4614-8f15-4321499d4d23.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2918185388",
         "FileName": "376f53c5-95cf-4d12-af62-968c13567720.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2918185388",
         "URL": "http://images.launchbox-app.com/376f53c5-95cf-4d12-af62-968c13567720.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3701667660",
+        "FileName": "r2_3cdcce83-c4ea-4614-8f15-4321499d4d23.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_3cdcce83-c4ea-4614-8f15-4321499d4d23.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "3f7348b6-c8c0-4752-af4d-73352b250757.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2087398591",
+          "FileName": "3f7348b6-c8c0-4752-af4d-73352b250757.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/3f7348b6-c8c0-4752-af4d-73352b250757.jpg"
         },
         {
-          "FileName": "8b8137f6-19db-4679-87e4-87b3d82f3dc6.png",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "1447893228",
+          "FileName": "8b8137f6-19db-4679-87e4-87b3d82f3dc6.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/8b8137f6-19db-4679-87e4-87b3d82f3dc6.png"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "4286401923",
         "FileName": "304cea2d-dd4d-4b55-969d-695bddcf4576.png",
         "Type": "Clear Logo",
-        "CRC32": "4286401923",
         "URL": "http://images.launchbox-app.com/304cea2d-dd4d-4b55-969d-695bddcf4576.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.85714285714286",
+  "DatabaseID": "14162",
+  "Developer": "Polytron",
+  "ESRB": "E - Everyone",
+  "Genres": "Platform; Puzzle",
+  "Name": "Fez",
+  "Overview": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception. Change your perspective and look at the world in a different way.",
+  "Publisher": "Trapdoor",
+  "ReleaseDate": "2012-04-13T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=tfpKTclOnfI",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Fez_(video_game)"
 }

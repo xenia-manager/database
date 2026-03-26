@@ -1,32 +1,32 @@
 {
-  "Name": "Texas Hold 'Em",
-  "DatabaseID": "20333",
-  "ReleaseDate": "2006-08-23T00:00:00+00:00",
-  "Overview": "Whether you're a beginner or a pro, enjoy the thrill of the perfect hand or the perfect bluff. Test your skills in ring games and tournaments, or fine-tune your skills playing the scenario you always wanted to be in. Customize the game however you want. The comprehensive help provides details on each aspect of the game.",
-  "VideoURL": "http://www.youtube.com/watch?v=cRVVxe68xzs",
-  "CommunityRating": "3.4",
-  "ESRB": "T - Teen",
-  "Genres": "Casino",
-  "Developer": "TikGames",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "9e0394f7-b3f1-47e8-8195-d779167112c4.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3921595369",
+          "FileName": "9e0394f7-b3f1-47e8-8195-d779167112c4.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9e0394f7-b3f1-47e8-8195-d779167112c4.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "2118638914",
         "FileName": "0c75f2dd-1f40-4ec2-ad3a-a82e5987ab44.png",
         "Type": "Clear Logo",
-        "CRC32": "2118638914",
         "URL": "http://images.launchbox-app.com/0c75f2dd-1f40-4ec2-ad3a-a82e5987ab44.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.4",
+  "DatabaseID": "20333",
+  "Developer": "TikGames",
+  "ESRB": "T - Teen",
+  "Genres": "Casino",
+  "Name": "Texas Hold 'Em",
+  "Overview": "Whether you're a beginner or a pro, enjoy the thrill of the perfect hand or the perfect bluff. Test your skills in ring games and tournaments, or fine-tune your skills playing the scenario you always wanted to be in. Customize the game however you want. The comprehensive help provides details on each aspect of the game.",
+  "ReleaseDate": "2006-08-23T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=cRVVxe68xzs"
 }

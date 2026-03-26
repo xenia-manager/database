@@ -1,116 +1,116 @@
 {
-  "Name": "SSX",
-  "DatabaseID": "12523",
-  "ReleaseDate": "2012-02-28T00:00:00+00:00",
-  "Overview": "SSX is a game in the SSX series of snowboarding titles. A few of the characters from past titles as well as some new ones have teamed up to descend the 9 deadliest mountains. Unfortunately, one of the team members decides he wants all the glory for himself and breaks from the group to make a solo attempt.\n\nGameplay is similar to other games in the series. You play as a snowboarder navigating your way down a mountain as you strive for fast times and high trick scores. As you perform tricks you acquire points which build up your \"Tricky\" meter. You can use your Tricky points as boost to increase your speed or you let the meter fill up completely to enter Tricky mode. In Tricky mode, you score more points when performing tricks. In addition to extra points you also have unlimited boost as long as you remain in Tricky Mode.\n\nIn addition to the standard Race and Trick modes, a new challenge type introduced is Survival mode. In general, the objective of survival mode is to reach the bottom of the run without dying or in some tracks finish multiple runs of the track without dying. There are 9 types of survival modes including; trees, rocks, white out, avalanche, low oxygen, darkness, ice, cold and gravity. These 9 survival mode types are fairly similar and rely on either visibility or health to create a challenge.\n\nThe gear is similar to past titles in that more expensive gear offers greater bonuses to stats such as speed, boost or tricks. What makes the gear different from other titles is that some gear more or less necessary for completing Survival mode tracks. Headlamp for Darkness, Goggles for Whiteout, Thermal Pack for Cold, Armor for Avalanche/Trees/Rocks, Oxygen tank for Low Oxygen, Ice Axes for Ice and Wing suit for Gravity.\n\nThe three game modes are World Tour, Explore and Global Events. World Tour is a campaign mode that follows the story of team SSX tackling the 9 deadly descents. Explore is basically a \"free roam\" or \"play now\" mode where the player can go to any run and play provided they unlocked it world tour or spent in game credits to unlock it. Explore is also a place to compete against your friends scores or times. Global Events are live asynchronous online competitions where users post scores and are ranked against everyone else competing on the same track. Instead of directly competing with live players in a head to head race they instead compete against replays of other player runs. When a player completes a run their path and actions are recorded as \"Ghosts\". When a player starts a new run up to 3 Ghosts are loaded into the track with them. The player can then gauge their performance by how well they are doing against those Ghosts.",
-  "VideoURL": "https://www.youtube.com/watch?v=wvizmCS8kAY",
-  "CommunityRating": "3.91176470588235",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/SSX_(2012_video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Canada",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1299265021",
         "FileName": "754f1b2a-81df-4b57-96ce-5f45842fc05c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1299265021",
         "URL": "http://images.launchbox-app.com/754f1b2a-81df-4b57-96ce-5f45842fc05c.jpg"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_6f3ef077-7dbc-4dca-a071-ee79b7eed6a0.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "208027323",
+          "FileName": "r2_6f3ef077-7dbc-4dca-a071-ee79b7eed6a0.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_6f3ef077-7dbc-4dca-a071-ee79b7eed6a0.jpg"
         },
         {
-          "FileName": "41ef1c36-225d-4b12-9e4e-5199f5ad7f6c.jpg",
-          "Type": "Box - Back",
-          "Region": "Russia",
           "CRC32": "916289029",
+          "FileName": "41ef1c36-225d-4b12-9e4e-5199f5ad7f6c.jpg",
+          "Region": "Russia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/41ef1c36-225d-4b12-9e4e-5199f5ad7f6c.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_3a01b9a5-5670-4d8a-88d3-7986ad869d6e.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "459841931",
+          "FileName": "r2_3a01b9a5-5670-4d8a-88d3-7986ad869d6e.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_3a01b9a5-5670-4d8a-88d3-7986ad869d6e.jpg"
         },
         {
-          "FileName": "ea4c8441-915e-4a06-8f8d-4768e35afa89.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2996775685",
+          "FileName": "ea4c8441-915e-4a06-8f8d-4768e35afa89.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ea4c8441-915e-4a06-8f8d-4768e35afa89.jpg"
         },
         {
-          "FileName": "14cf9816-11a2-4f3c-af4f-bbe03bc5c6f9.jpg",
-          "Type": "Box - Front",
-          "Region": "Russia",
           "CRC32": "1695695363",
+          "FileName": "14cf9816-11a2-4f3c-af4f-bbe03bc5c6f9.jpg",
+          "Region": "Russia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/14cf9816-11a2-4f3c-af4f-bbe03bc5c6f9.jpg"
         },
         {
-          "FileName": "cb7b6457-4e88-4319-8e86-cd26d4c031f6.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "791529399",
+          "FileName": "cb7b6457-4e88-4319-8e86-cd26d4c031f6.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/cb7b6457-4e88-4319-8e86-cd26d4c031f6.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "f9b3be15-0801-4597-bb2c-37ee0f79bd21.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "3232972903",
+        "FileName": "f9b3be15-0801-4597-bb2c-37ee0f79bd21.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/f9b3be15-0801-4597-bb2c-37ee0f79bd21.png"
       },
       {
-        "FileName": "e100e2ea-89bd-4292-b1a0-a113ae951dfb.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1792452835",
+        "FileName": "e100e2ea-89bd-4292-b1a0-a113ae951dfb.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/e100e2ea-89bd-4292-b1a0-a113ae951dfb.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "33821605-e16a-4414-a1cf-d5732b09c4a7.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3143293709",
-        "URL": "http://images.launchbox-app.com/33821605-e16a-4414-a1cf-d5732b09c4a7.jpg"
-      },
-      {
-        "FileName": "acafa129-bb50-40eb-99e0-5946bcb4b883.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3524132111",
-        "URL": "http://images.launchbox-app.com/acafa129-bb50-40eb-99e0-5946bcb4b883.jpg"
       }
     ],
     "Other": [
       {
-        "FileName": "14c63507-db74-47d5-ae9b-df47ac4642ec.jpg",
-        "Type": "Advertisement Flyer - Front",
-        "Region": "North America",
         "CRC32": "3110594857",
+        "FileName": "14c63507-db74-47d5-ae9b-df47ac4642ec.jpg",
+        "Region": "North America",
+        "Type": "Advertisement Flyer - Front",
         "URL": "http://images.launchbox-app.com/14c63507-db74-47d5-ae9b-df47ac4642ec.jpg"
       },
       {
+        "CRC32": "1471809440",
         "FileName": "00fee266-0670-4926-b0ac-e59671d49b52.png",
         "Type": "Clear Logo",
-        "CRC32": "1471809440",
         "URL": "http://images.launchbox-app.com/00fee266-0670-4926-b0ac-e59671d49b52.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3143293709",
+        "FileName": "33821605-e16a-4414-a1cf-d5732b09c4a7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/33821605-e16a-4414-a1cf-d5732b09c4a7.jpg"
+      },
+      {
+        "CRC32": "3524132111",
+        "FileName": "acafa129-bb50-40eb-99e0-5946bcb4b883.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/acafa129-bb50-40eb-99e0-5946bcb4b883.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.91176470588235",
+  "DatabaseID": "12523",
+  "Developer": "Electronic Arts Canada",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "SSX",
+  "Overview": "SSX is a game in the SSX series of snowboarding titles. A few of the characters from past titles as well as some new ones have teamed up to descend the 9 deadliest mountains. Unfortunately, one of the team members decides he wants all the glory for himself and breaks from the group to make a solo attempt.\n\nGameplay is similar to other games in the series. You play as a snowboarder navigating your way down a mountain as you strive for fast times and high trick scores. As you perform tricks you acquire points which build up your \"Tricky\" meter. You can use your Tricky points as boost to increase your speed or you let the meter fill up completely to enter Tricky mode. In Tricky mode, you score more points when performing tricks. In addition to extra points you also have unlimited boost as long as you remain in Tricky Mode.\n\nIn addition to the standard Race and Trick modes, a new challenge type introduced is Survival mode. In general, the objective of survival mode is to reach the bottom of the run without dying or in some tracks finish multiple runs of the track without dying. There are 9 types of survival modes including; trees, rocks, white out, avalanche, low oxygen, darkness, ice, cold and gravity. These 9 survival mode types are fairly similar and rely on either visibility or health to create a challenge.\n\nThe gear is similar to past titles in that more expensive gear offers greater bonuses to stats such as speed, boost or tricks. What makes the gear different from other titles is that some gear more or less necessary for completing Survival mode tracks. Headlamp for Darkness, Goggles for Whiteout, Thermal Pack for Cold, Armor for Avalanche/Trees/Rocks, Oxygen tank for Low Oxygen, Ice Axes for Ice and Wing suit for Gravity.\n\nThe three game modes are World Tour, Explore and Global Events. World Tour is a campaign mode that follows the story of team SSX tackling the 9 deadly descents. Explore is basically a \"free roam\" or \"play now\" mode where the player can go to any run and play provided they unlocked it world tour or spent in game credits to unlock it. Explore is also a place to compete against your friends scores or times. Global Events are live asynchronous online competitions where users post scores and are ranked against everyone else competing on the same track. Instead of directly competing with live players in a head to head race they instead compete against replays of other player runs. When a player completes a run their path and actions are recorded as \"Ghosts\". When a player starts a new run up to 3 Ghosts are loaded into the track with them. The player can then gauge their performance by how well they are doing against those Ghosts.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2012-02-28T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=wvizmCS8kAY",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/SSX_(2012_video_game)"
 }

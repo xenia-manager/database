@@ -1,31 +1,31 @@
 {
-  "Name": "Zombie Estate",
-  "DatabaseID": "440173",
-  "ReleaseDate": "2010-05-15T00:00:00+00:00",
-  "Overview": "Zombie Estate is a twin-stick shooter with pixel graphics. The player, as one of 30 characters, is alone (or together with up to three other players) in an abandoned estate which is overrun with zombies. The goal is to fight off all 25 waves without dying a horrible death. In later waves the zombie don't only become more numerous but also bring friends like the healing priest or the skeleton.\n\nThe movement of the player character is controlled with one stick while the other is used to aim the equipped weapon. While the standard pistol has unlimited ammo, additional weapons and their ammo can be bought between rounds at the shop. The needed money is received after finishing a wave or dropped by killed enemies.",
-  "VideoURL": "https://www.youtube.com/watch?v=tzyKQH04mQQ",
-  "Genres": "Horror; Shooter",
-  "Developer": "Jeremy Verchick",
-  "Publisher": "Jeremy Verchick",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "79369385-c0ca-4e4c-bf5f-d4f47794fe8d.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2837590880",
+          "FileName": "79369385-c0ca-4e4c-bf5f-d4f47794fe8d.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/79369385-c0ca-4e4c-bf5f-d4f47794fe8d.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "1933151646",
         "FileName": "43fe4a1b-85fe-4e83-8fe9-a929a2f46575.png",
         "Type": "Clear Logo",
-        "CRC32": "1933151646",
         "URL": "http://images.launchbox-app.com/43fe4a1b-85fe-4e83-8fe9-a929a2f46575.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "440173",
+  "Developer": "Jeremy Verchick",
+  "Genres": "Horror; Shooter",
+  "Name": "Zombie Estate",
+  "Overview": "Zombie Estate is a twin-stick shooter with pixel graphics. The player, as one of 30 characters, is alone (or together with up to three other players) in an abandoned estate which is overrun with zombies. The goal is to fight off all 25 waves without dying a horrible death. In later waves the zombie don't only become more numerous but also bring friends like the healing priest or the skeleton.\n\nThe movement of the player character is controlled with one stick while the other is used to aim the equipped weapon. While the standard pistol has unlimited ammo, additional weapons and their ammo can be bought between rounds at the shop. The needed money is received after finishing a wave or dropped by killed enemies.",
+  "Publisher": "Jeremy Verchick",
+  "ReleaseDate": "2010-05-15T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=tzyKQH04mQQ"
 }

@@ -1,46 +1,46 @@
 {
-  "Name": "Robotron: 2084",
-  "DatabaseID": "20329",
-  "ReleaseDate": "2005-12-16T00:00:00+00:00",
-  "Overview": "In 2084, man creates a species of super-advanced cyborgs known as Robotrons. Recognizing the imperfect nature of their creators, the Robotrons conclude that the inefficient human race must be exterminated. In Robotron: 2084, only you and a single family of clones remain. If mankind is to survive, you must destroy the Grunts, Brains, Enforcers, and Tanks - but avoid the indestructible Hulks at all cost. Can you withstand wave after wave of android invasion and rescue Mommy, Daddy, and Mikey... before it's too late?",
-  "CommunityRating": "3.66666666666667",
-  "ESRB": "E - Everyone",
-  "Genres": "Shooter",
-  "Developer": "Backbone Vancouver",
-  "Publisher": "Midway Home Entertainment",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "6d933c81-421c-4a67-8750-ac1841ead2c6.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1065485879",
+          "FileName": "6d933c81-421c-4a67-8750-ac1841ead2c6.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6d933c81-421c-4a67-8750-ac1841ead2c6.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2263346412",
+        "FileName": "a4c21166-96d4-4192-821e-e05b54c9dbf4.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/a4c21166-96d4-4192-821e-e05b54c9dbf4.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "4099438766",
         "FileName": "5621ff05-3c59-44c2-84f0-98c75cd54641.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "4099438766",
         "URL": "http://images.launchbox-app.com/5621ff05-3c59-44c2-84f0-98c75cd54641.jpg"
       },
       {
+        "CRC32": "3050757005",
         "FileName": "17c5541a-242e-4c2b-98b6-77055f6dad69.png",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3050757005",
         "URL": "http://images.launchbox-app.com/17c5541a-242e-4c2b-98b6-77055f6dad69.png"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "a4c21166-96d4-4192-821e-e05b54c9dbf4.png",
-        "Type": "Clear Logo",
-        "CRC32": "2263346412",
-        "URL": "http://images.launchbox-app.com/a4c21166-96d4-4192-821e-e05b54c9dbf4.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.66666666666667",
+  "DatabaseID": "20329",
+  "Developer": "Backbone Vancouver",
+  "ESRB": "E - Everyone",
+  "Genres": "Shooter",
+  "Name": "Robotron: 2084",
+  "Overview": "In 2084, man creates a species of super-advanced cyborgs known as Robotrons. Recognizing the imperfect nature of their creators, the Robotrons conclude that the inefficient human race must be exterminated. In Robotron: 2084, only you and a single family of clones remain. If mankind is to survive, you must destroy the Grunts, Brains, Enforcers, and Tanks - but avoid the indestructible Hulks at all cost. Can you withstand wave after wave of android invasion and rescue Mommy, Daddy, and Mikey... before it's too late?",
+  "Publisher": "Midway Home Entertainment",
+  "ReleaseDate": "2005-12-16T00:00:00+00:00"
 }

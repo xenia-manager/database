@@ -1,63 +1,63 @@
 {
-  "Name": "Phantom Breaker: Extra",
-  "DatabaseID": "287106",
-  "ReleaseDate": "2013-09-19T00:00:00+00:00",
-  "Overview": "An updated version of Phantom Breaker, released for the PlayStation 3 and Xbox 360 on September 19, 2013. It features rebalanced gameplay, new characters, new techniques, a new \"Extra\" fighting style, new stages, renewed background effects, and an online spectator mode. Unlike the first console release, it is region-free.",
-  "VideoURL": "https://www.youtube.com/watch?v=xrOJkV_Sh6Q",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Phantom_Breaker#Phantom_Breaker:_Extra",
-  "ESRB": "Not Rated",
-  "Genres": "Fighting",
-  "Developer": "5pb.",
-  "Publisher": "5pb.",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "e1498224-0215-412c-967b-d8613eabf014.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "2077682572",
+          "FileName": "e1498224-0215-412c-967b-d8613eabf014.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/e1498224-0215-412c-967b-d8613eabf014.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "c5791721-18da-43c0-a6c4-7bf70f05c2fb.png",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "1405806309",
+          "FileName": "c5791721-18da-43c0-a6c4-7bf70f05c2fb.png",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c5791721-18da-43c0-a6c4-7bf70f05c2fb.png"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "386864164",
+        "FileName": "8d818207-d715-499a-9aa1-709fd69030a7.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/8d818207-d715-499a-9aa1-709fd69030a7.png"
+      }
+    ],
     "Screenshots": [
       {
-        "FileName": "583a7494-36c8-4eb2-87e2-50a927f219d9.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1156015714",
-        "URL": "http://images.launchbox-app.com/583a7494-36c8-4eb2-87e2-50a927f219d9.jpg"
-      },
-      {
+        "CRC32": "1155949327",
         "FileName": "09338e96-72cf-4e9e-b2b0-f58f9263be50.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1155949327",
         "URL": "http://images.launchbox-app.com/09338e96-72cf-4e9e-b2b0-f58f9263be50.jpg"
       },
       {
+        "CRC32": "3570359071",
         "FileName": "38985aaa-6921-4966-8c1d-125d53a9bf33.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3570359071",
         "URL": "http://images.launchbox-app.com/38985aaa-6921-4966-8c1d-125d53a9bf33.jpg"
-      }
-    ],
-    "Other": [
+      },
       {
-        "FileName": "8d818207-d715-499a-9aa1-709fd69030a7.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "386864164",
-        "URL": "http://images.launchbox-app.com/8d818207-d715-499a-9aa1-709fd69030a7.png"
+        "CRC32": "1156015714",
+        "FileName": "583a7494-36c8-4eb2-87e2-50a927f219d9.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/583a7494-36c8-4eb2-87e2-50a927f219d9.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "287106",
+  "Developer": "5pb.",
+  "ESRB": "Not Rated",
+  "Genres": "Fighting",
+  "Name": "Phantom Breaker: Extra",
+  "Overview": "An updated version of Phantom Breaker, released for the PlayStation 3 and Xbox 360 on September 19, 2013. It features rebalanced gameplay, new characters, new techniques, a new \"Extra\" fighting style, new stages, renewed background effects, and an online spectator mode. Unlike the first console release, it is region-free.",
+  "Publisher": "5pb.",
+  "ReleaseDate": "2013-09-19T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=xrOJkV_Sh6Q",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Phantom_Breaker#Phantom_Breaker:_Extra"
 }

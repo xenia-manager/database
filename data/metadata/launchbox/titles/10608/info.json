@@ -1,106 +1,106 @@
 {
-  "Name": "Dragon Ball: Raging Blast",
-  "DatabaseID": "10608",
-  "ReleaseDate": "2009-11-10T00:00:00+00:00",
-  "Overview": "Dragon Ball: Raging Blast (ドラゴンボール レイジングブラスト Doragon Bōru Reijingu Burasuto?) is a video game based on the manga and anime franchise Dragon Ball. It was developed by Spike and published by Namco Bandai for the PlayStation 3 and Xbox 360 game consoles throughout North America, while everywhere else it would be published under the Bandai label. It was released in Japan, North America, Europe, and Australia during the second week of November 2009. In Europe, a limited edition pack of the game was also released that included bonus collector material.\nThe game is a cel-shaded 3D fighter that allows players to play as characters within the Dragon Ball universe, either against the game's AI or another player in one of the various modes of play both on and offline. The game is one of the first games in the Dragon Ball franchise to be published by Namco Bandai in North America, as the company would acquire the gaming license from previous license holder Atari in July of that same year.\nThe game was met with mixed to negative reviews from gaming critics for its storymode and overall gameplay controls.",
-  "CommunityRating": "3.55555555555556",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "Spike",
-  "Publisher": "Namco Bandai",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_e1d74e56-f195-437e-b997-3ceaeaf5d2b3.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3196200367",
-        "URL": "http://images.launchbox-app.com/r2_e1d74e56-f195-437e-b997-3ceaeaf5d2b3.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_f003cb5a-972f-43ae-b0b3-01beaa5b284e.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3815774449",
+        "FileName": "r2_f003cb5a-972f-43ae-b0b3-01beaa5b284e.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_f003cb5a-972f-43ae-b0b3-01beaa5b284e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3196200367",
+        "FileName": "r2_e1d74e56-f195-437e-b997-3ceaeaf5d2b3.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_e1d74e56-f195-437e-b997-3ceaeaf5d2b3.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "1881c961-f356-4869-90a1-5b1c4f433361.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "198568348",
+          "FileName": "1881c961-f356-4869-90a1-5b1c4f433361.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/1881c961-f356-4869-90a1-5b1c4f433361.png"
         },
         {
-          "FileName": "r2_4e11909c-c22b-4ab2-ad23-79104da926e0.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2321727212",
+          "FileName": "r2_4e11909c-c22b-4ab2-ad23-79104da926e0.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_4e11909c-c22b-4ab2-ad23-79104da926e0.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_0639fcb2-73d8-4c8c-bf77-c965f3dc014a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "682412840",
+          "FileName": "r2_0639fcb2-73d8-4c8c-bf77-c965f3dc014a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_0639fcb2-73d8-4c8c-bf77-c965f3dc014a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "f084cadc-af61-40f8-8905-1031200bf5e3.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2412583249",
+          "FileName": "f084cadc-af61-40f8-8905-1031200bf5e3.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f084cadc-af61-40f8-8905-1031200bf5e3.jpg"
         },
         {
-          "FileName": "r2_b2d834c0-7b8a-42f3-a3a2-c0c1d8cda6cd.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1692324708",
+          "FileName": "r2_b2d834c0-7b8a-42f3-a3a2-c0c1d8cda6cd.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_b2d834c0-7b8a-42f3-a3a2-c0c1d8cda6cd.jpg"
         },
         {
-          "FileName": "1f701d63-1cd2-497f-96b1-ab06961a472e.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "123603612",
+          "FileName": "1f701d63-1cd2-497f-96b1-ab06961a472e.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1f701d63-1cd2-497f-96b1-ab06961a472e.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_a3bdccac-f2bd-4b1c-b113-018b30834479.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "814950622",
+        "FileName": "r2_a3bdccac-f2bd-4b1c-b113-018b30834479.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_a3bdccac-f2bd-4b1c-b113-018b30834479.png"
       }
     ],
     "Other": [
       {
-        "FileName": "e6b6537e-f4e1-47dd-a21e-2638524a4a49.png",
-        "Type": "Clear Logo",
-        "Region": "Europe",
         "CRC32": "2901004237",
+        "FileName": "e6b6537e-f4e1-47dd-a21e-2638524a4a49.png",
+        "Region": "Europe",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/e6b6537e-f4e1-47dd-a21e-2638524a4a49.png"
       },
       {
-        "FileName": "r2_9ef70011-0ff9-4ca6-ab96-bd95bdc91a95.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "3098700152",
+        "FileName": "r2_9ef70011-0ff9-4ca6-ab96-bd95bdc91a95.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_9ef70011-0ff9-4ca6-ab96-bd95bdc91a95.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.55555555555556",
+  "DatabaseID": "10608",
+  "Developer": "Spike",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "Dragon Ball: Raging Blast",
+  "Overview": "Dragon Ball: Raging Blast (ドラゴンボール レイジングブラスト Doragon Bōru Reijingu Burasuto?) is a video game based on the manga and anime franchise Dragon Ball. It was developed by Spike and published by Namco Bandai for the PlayStation 3 and Xbox 360 game consoles throughout North America, while everywhere else it would be published under the Bandai label. It was released in Japan, North America, Europe, and Australia during the second week of November 2009. In Europe, a limited edition pack of the game was also released that included bonus collector material.\nThe game is a cel-shaded 3D fighter that allows players to play as characters within the Dragon Ball universe, either against the game's AI or another player in one of the various modes of play both on and offline. The game is one of the first games in the Dragon Ball franchise to be published by Namco Bandai in North America, as the company would acquire the gaming license from previous license holder Atari in July of that same year.\nThe game was met with mixed to negative reviews from gaming critics for its storymode and overall gameplay controls.",
+  "Publisher": "Namco Bandai",
+  "ReleaseDate": "2009-11-10T00:00:00+00:00"
 }

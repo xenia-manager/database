@@ -1,58 +1,58 @@
 {
-  "Name": "JUJU",
-  "DatabaseID": "129044",
-  "ReleaseDate": "2014-12-09T00:00:00+00:00",
-  "Overview": "Journey with the shaman panda, Juju, and his lizard sidekick, Peyo, as they embark upon a dangerous and mystical journey to save Juju's father and the world from an ancient evil. Run, bounce, chant, and battle humongous bosses with a friend or family member in this beautifully animated, lighthearted adventure.\n\nJuju’s father, Jambee, heads out to perform his daily rituals, unaware that Juju and Peyo have followed. While the elder is momentarily distracted from his work, the curious duo steps in, accidentally releasing a terrible and ancient spirit. Jambee bravely dives into battle with the creature, but he is not victorious and barely manages to pass a magical mask to his son before being captured. Now, it's up to Juju and Peyo to gather the mystic keys and magic ambers needed to seal away the spirit and save the day.",
-  "CommunityRating": "4.25",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Juju_(video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Action; Platform",
-  "Developer": "Flying Wild Hog",
-  "Publisher": "Nordic Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_a1ac5158-3f03-4846-b302-ca360e25a5f4.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "4235883453",
-        "URL": "http://images.launchbox-app.com/r2_a1ac5158-3f03-4846-b302-ca360e25a5f4.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_5cd2ade9-3fff-417e-a9ae-97e6d9ddfff4.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1265990010",
+        "FileName": "r2_5cd2ade9-3fff-417e-a9ae-97e6d9ddfff4.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_5cd2ade9-3fff-417e-a9ae-97e6d9ddfff4.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4235883453",
+        "FileName": "r2_a1ac5158-3f03-4846-b302-ca360e25a5f4.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_a1ac5158-3f03-4846-b302-ca360e25a5f4.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "22dd90d7-9263-4c54-927b-185bad3e4e97.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "1733756187",
+          "FileName": "22dd90d7-9263-4c54-927b-185bad3e4e97.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/22dd90d7-9263-4c54-927b-185bad3e4e97.jpg"
         },
         {
-          "FileName": "r2_d68ef514-b7ea-4cc5-a20f-9e8c2fd16c95.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "607657553",
+          "FileName": "r2_d68ef514-b7ea-4cc5-a20f-9e8c2fd16c95.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d68ef514-b7ea-4cc5-a20f-9e8c2fd16c95.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "2319987322",
         "FileName": "ee854c88-ab22-4a61-af4a-4c5bdb4e721a.png",
         "Type": "Clear Logo",
-        "CRC32": "2319987322",
         "URL": "http://images.launchbox-app.com/ee854c88-ab22-4a61-af4a-4c5bdb4e721a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.25",
+  "DatabaseID": "129044",
+  "Developer": "Flying Wild Hog",
+  "ESRB": "E - Everyone",
+  "Genres": "Action; Platform",
+  "Name": "JUJU",
+  "Overview": "Journey with the shaman panda, Juju, and his lizard sidekick, Peyo, as they embark upon a dangerous and mystical journey to save Juju's father and the world from an ancient evil. Run, bounce, chant, and battle humongous bosses with a friend or family member in this beautifully animated, lighthearted adventure.\n\nJuju’s father, Jambee, heads out to perform his daily rituals, unaware that Juju and Peyo have followed. While the elder is momentarily distracted from his work, the curious duo steps in, accidentally releasing a terrible and ancient spirit. Jambee bravely dives into battle with the creature, but he is not victorious and barely manages to pass a magical mask to his son before being captured. Now, it's up to Juju and Peyo to gather the mystic keys and magic ambers needed to seal away the spirit and save the day.",
+  "Publisher": "Nordic Games",
+  "ReleaseDate": "2014-12-09T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Juju_(video_game)"
 }

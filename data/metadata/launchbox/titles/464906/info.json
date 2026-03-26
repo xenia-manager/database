@@ -1,55 +1,55 @@
 {
-  "Name": "Avatar Cannon",
-  "DatabaseID": "464906",
-  "ReleaseDate": "2010-03-10T00:00:00+00:00",
-  "Overview": "It's Safari time! Take you Avatar out into the wild and take on the world.",
-  "CommunityRating": "4",
-  "Genres": "Action",
-  "Developer": "Lighthouse Games Studio",
-  "Publisher": "Lighthouse Games Studio CC",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "r2_01cab8d8-ec3b-459d-bf0e-9af2ac6f4aa0.png",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "517445464",
+          "FileName": "r2_01cab8d8-ec3b-459d-bf0e-9af2ac6f4aa0.png",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_01cab8d8-ec3b-459d-bf0e-9af2ac6f4aa0.png"
         },
         {
-          "FileName": "r2_6abd6b10-07fb-45e9-b721-230c4009aba0.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "961186782",
+          "FileName": "r2_6abd6b10-07fb-45e9-b721-230c4009aba0.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_6abd6b10-07fb-45e9-b721-230c4009aba0.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "1549990031",
+        "FileName": "r2_ccf5104e-a680-4876-a0da-6796d40d4bcd.png",
+        "Region": "United States",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_ccf5104e-a680-4876-a0da-6796d40d4bcd.png"
+      }
+    ],
     "Screenshots": [
       {
-        "FileName": "r2_71ebe12f-fc75-4dd9-9953-1c71d1b66a86.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3912234499",
+        "FileName": "r2_71ebe12f-fc75-4dd9-9953-1c71d1b66a86.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/r2_71ebe12f-fc75-4dd9-9953-1c71d1b66a86.jpg"
       },
       {
-        "FileName": "r2_91668cb2-7e94-4e3b-a43d-03edede80731.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1483568124",
+        "FileName": "r2_91668cb2-7e94-4e3b-a43d-03edede80731.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/r2_91668cb2-7e94-4e3b-a43d-03edede80731.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "r2_ccf5104e-a680-4876-a0da-6796d40d4bcd.png",
-        "Type": "Clear Logo",
-        "Region": "United States",
-        "CRC32": "1549990031",
-        "URL": "http://images.launchbox-app.com/r2_ccf5104e-a680-4876-a0da-6796d40d4bcd.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "464906",
+  "Developer": "Lighthouse Games Studio",
+  "Genres": "Action",
+  "Name": "Avatar Cannon",
+  "Overview": "It's Safari time! Take you Avatar out into the wild and take on the world.",
+  "Publisher": "Lighthouse Games Studio CC",
+  "ReleaseDate": "2010-03-10T00:00:00+00:00"
 }

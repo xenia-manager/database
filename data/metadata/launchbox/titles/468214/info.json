@@ -1,53 +1,53 @@
 {
-  "Name": " Boogeyman",
-  "DatabaseID": "468214",
-  "ReleaseDate": "2010-12-08T00:00:00+00:00",
-  "Overview": "Sleep tight.",
-  "VideoURL": "https://youtu.be/ZXBhyDDNu8E",
-  "Genres": "Action",
-  "Developer": "Silver Dollar Games 3",
-  "Publisher": "Silver Dollar Games 3",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "0e781b61-aa15-4d86-8443-6ac2a5ceb53c.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1834194289",
+          "FileName": "0e781b61-aa15-4d86-8443-6ac2a5ceb53c.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0e781b61-aa15-4d86-8443-6ac2a5ceb53c.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "be708197-337a-456e-9488-e3dea4567a14.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "486640477",
+        "FileName": "be708197-337a-456e-9488-e3dea4567a14.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/be708197-337a-456e-9488-e3dea4567a14.jpg"
       },
       {
-        "FileName": "466e9223-47bc-4859-b78f-d8ce16e96c24.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "2732901403",
-        "URL": "http://images.launchbox-app.com/466e9223-47bc-4859-b78f-d8ce16e96c24.jpg"
-      },
-      {
-        "FileName": "0609c36d-3409-4ebd-9e8b-a2d3579a864d.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "371282569",
+        "FileName": "0609c36d-3409-4ebd-9e8b-a2d3579a864d.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/0609c36d-3409-4ebd-9e8b-a2d3579a864d.jpg"
       },
       {
-        "FileName": "146e61a9-35d7-4e04-a0c5-fcd6d87b40a2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "217672273",
+        "FileName": "146e61a9-35d7-4e04-a0c5-fcd6d87b40a2.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/146e61a9-35d7-4e04-a0c5-fcd6d87b40a2.jpg"
+      },
+      {
+        "CRC32": "2732901403",
+        "FileName": "466e9223-47bc-4859-b78f-d8ce16e96c24.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/466e9223-47bc-4859-b78f-d8ce16e96c24.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468214",
+  "Developer": "Silver Dollar Games 3",
+  "Genres": "Action",
+  "Name": " Boogeyman",
+  "Overview": "Sleep tight.",
+  "Publisher": "Silver Dollar Games 3",
+  "ReleaseDate": "2010-12-08T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/ZXBhyDDNu8E"
 }

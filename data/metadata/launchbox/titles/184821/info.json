@@ -1,74 +1,74 @@
 {
-  "Name": "Akatsuki no Amaneka to Aoi Kyojin",
-  "DatabaseID": "184821",
-  "ReleaseDate": "2010-03-11T00:00:00+00:00",
-  "Overview": "Akatsuki no Amaneka to Aoi Kyojin is a strategy game, developed by Kogado Studio and published by CyberFront, which was released in Japan in 2010.",
-  "CommunityRating": "3.25",
-  "Genres": "Strategy",
-  "Developer": "Kogado Studio",
-  "Publisher": "CyberFront",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_d880d767-2de7-467a-8f05-bf169f5c35b2.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "2108743886",
-        "URL": "http://images.launchbox-app.com/r2_d880d767-2de7-467a-8f05-bf169f5c35b2.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_ef42a3d8-8f60-4093-8150-08f368be7e2b.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3666236002",
+        "FileName": "r2_b2706c61-8d54-41c1-b2d7-e76ce708ad74.jpg",
         "Region": "World",
-        "CRC32": "1689671720",
-        "URL": "http://images.launchbox-app.com/r2_ef42a3d8-8f60-4093-8150-08f368be7e2b.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_b2706c61-8d54-41c1-b2d7-e76ce708ad74.jpg"
       },
       {
-        "FileName": "r2_b2706c61-8d54-41c1-b2d7-e76ce708ad74.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1689671720",
+        "FileName": "r2_ef42a3d8-8f60-4093-8150-08f368be7e2b.jpg",
         "Region": "World",
-        "CRC32": "3666236002",
-        "URL": "http://images.launchbox-app.com/r2_b2706c61-8d54-41c1-b2d7-e76ce708ad74.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_ef42a3d8-8f60-4093-8150-08f368be7e2b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2108743886",
+        "FileName": "r2_d880d767-2de7-467a-8f05-bf169f5c35b2.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_d880d767-2de7-467a-8f05-bf169f5c35b2.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "b53599a7-a82f-4bc5-baf3-85c57e6ba922.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "2545218887",
+          "FileName": "b53599a7-a82f-4bc5-baf3-85c57e6ba922.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/b53599a7-a82f-4bc5-baf3-85c57e6ba922.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "544520d3-eed0-4f9c-989a-e8b0c0ccccc9.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "1452627882",
+          "FileName": "544520d3-eed0-4f9c-989a-e8b0c0ccccc9.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/544520d3-eed0-4f9c-989a-e8b0c0ccccc9.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "668841ab-0f1b-48af-a545-b5c5559af666.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4075331624",
-        "URL": "http://images.launchbox-app.com/668841ab-0f1b-48af-a545-b5c5559af666.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "r2_2100365f-8510-42fd-8c23-141579051824.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "1438544887",
+        "FileName": "r2_2100365f-8510-42fd-8c23-141579051824.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_2100365f-8510-42fd-8c23-141579051824.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "4075331624",
+        "FileName": "668841ab-0f1b-48af-a545-b5c5559af666.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/668841ab-0f1b-48af-a545-b5c5559af666.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.25",
+  "DatabaseID": "184821",
+  "Developer": "Kogado Studio",
+  "Genres": "Strategy",
+  "Name": "Akatsuki no Amaneka to Aoi Kyojin",
+  "Overview": "Akatsuki no Amaneka to Aoi Kyojin is a strategy game, developed by Kogado Studio and published by CyberFront, which was released in Japan in 2010.",
+  "Publisher": "CyberFront",
+  "ReleaseDate": "2010-03-11T00:00:00+00:00"
 }

@@ -1,33 +1,33 @@
 {
-  "Name": "Pac-Man",
-  "DatabaseID": "174778",
-  "ReleaseDate": "2006-08-09T00:00:00+00:00",
-  "Overview": "Move Pac-Man and eat all the Pac-Dots to clear the stage while avoiding the ghosts. Eat Power Pellets to become invincible and eat the blue ghosts! Eat multiple blue ghosts to earn bonus points! Are you skilled enough to stay alive? This classic video game was released in 1980, and drove players crazy all around the world. Pac-Man was acknowledged as the \"Most Successful Coin-Operated Game in History\" by The Guinness Book of World Records in 2005.",
-  "CommunityRating": "3.35",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Pac-Man",
-  "ESRB": "E - Everyone",
-  "Genres": "Action",
-  "Developer": "Namco",
-  "Publisher": "Namco Bandai Games",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1565392644",
         "FileName": "fb5d1ff2-de24-46e9-9afb-156fc4cd075c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1565392644",
         "URL": "http://images.launchbox-app.com/fb5d1ff2-de24-46e9-9afb-156fc4cd075c.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "b4df3903-9e55-4802-b132-bac2715f5428.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3813221981",
+          "FileName": "b4df3903-9e55-4802-b132-bac2715f5428.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b4df3903-9e55-4802-b132-bac2715f5428.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "3.35",
+  "DatabaseID": "174778",
+  "Developer": "Namco",
+  "ESRB": "E - Everyone",
+  "Genres": "Action",
+  "Name": "Pac-Man",
+  "Overview": "Move Pac-Man and eat all the Pac-Dots to clear the stage while avoiding the ghosts. Eat Power Pellets to become invincible and eat the blue ghosts! Eat multiple blue ghosts to earn bonus points! Are you skilled enough to stay alive? This classic video game was released in 1980, and drove players crazy all around the world. Pac-Man was acknowledged as the \"Most Successful Coin-Operated Game in History\" by The Guinness Book of World Records in 2005.",
+  "Publisher": "Namco Bandai Games",
+  "ReleaseDate": "2006-08-09T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Pac-Man"
 }

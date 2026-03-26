@@ -1,53 +1,53 @@
 {
-  "Name": "CannonBotGo",
-  "DatabaseID": "468344",
-  "ReleaseDate": "2010-12-11T00:00:00+00:00",
-  "Overview": "One Robot vs. an Alien Invasion -- in this puzzle game with an action edge. Time your moves just right and release a symphony of fire and destruction.",
-  "VideoURL": "https://youtu.be/vylXUFsC4QA",
-  "Genres": "Puzzle",
-  "Developer": "Segawa",
-  "Publisher": "Segawa",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "7414d05c-f995-4012-84ff-de50ee13a51b.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2169812608",
+          "FileName": "7414d05c-f995-4012-84ff-de50ee13a51b.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7414d05c-f995-4012-84ff-de50ee13a51b.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "b284099b-4634-491a-87fb-7fbb75a3b713.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1781356314",
-        "URL": "http://images.launchbox-app.com/b284099b-4634-491a-87fb-7fbb75a3b713.jpg"
-      },
-      {
-        "FileName": "ce632874-9722-4eee-918e-ef43dff75f42.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1419100438",
-        "URL": "http://images.launchbox-app.com/ce632874-9722-4eee-918e-ef43dff75f42.jpg"
-      },
-      {
-        "FileName": "481ec187-42ab-4a9b-a0cd-2ebb5733cf42.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1721093961",
+        "FileName": "481ec187-42ab-4a9b-a0cd-2ebb5733cf42.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/481ec187-42ab-4a9b-a0cd-2ebb5733cf42.jpg"
       },
       {
-        "FileName": "d29f332f-5651-4501-85f6-5c4839ad9f3d.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1781356314",
+        "FileName": "b284099b-4634-491a-87fb-7fbb75a3b713.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/b284099b-4634-491a-87fb-7fbb75a3b713.jpg"
+      },
+      {
+        "CRC32": "1419100438",
+        "FileName": "ce632874-9722-4eee-918e-ef43dff75f42.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ce632874-9722-4eee-918e-ef43dff75f42.jpg"
+      },
+      {
         "CRC32": "3550922085",
+        "FileName": "d29f332f-5651-4501-85f6-5c4839ad9f3d.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/d29f332f-5651-4501-85f6-5c4839ad9f3d.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468344",
+  "Developer": "Segawa",
+  "Genres": "Puzzle",
+  "Name": "CannonBotGo",
+  "Overview": "One Robot vs. an Alien Invasion -- in this puzzle game with an action edge. Time your moves just right and release a symphony of fire and destruction.",
+  "Publisher": "Segawa",
+  "ReleaseDate": "2010-12-11T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/vylXUFsC4QA"
 }

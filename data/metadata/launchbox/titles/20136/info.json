@@ -1,81 +1,81 @@
 {
-  "Name": "Ikaruga",
-  "DatabaseID": "20136",
-  "ReleaseDate": "2008-04-09T00:00:00+00:00",
-  "Overview": "Shoot! Dodge! And... get hit!?! Ikaruga is a cult classic vertical shoot ‘em up that features unique, polarity-switching gameplay. The game’s story follows a rebel pilot named Shinra, as he battles an enemy nation using a specially-designed fighter called the Ikaruga, which can switch between two polarities: black or white. This polarity mechanic is the game’s key feature and the foundation for its stage and enemy design. \n\nAll enemies and bullets in the game are either black or white. Bullets that are the same color as the player’s ship can be absorbed, while the opposite color will do damage. As the amount of absorbed bullets increases, so does the player’s homing laser attack. When maxed out, this special attack can be up to 10x more powerful than a standard shot. Attacks can be chained together to earn bonuses that will achieve higher scores. Ikaruga features both single-player and two-player cooperative modes.",
-  "VideoURL": "https://www.youtube.com/watch?v=xxEwr01FPkA",
-  "CommunityRating": "4.1",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Ikaruga",
-  "ESRB": "E - Everyone",
-  "Genres": "Shooter",
-  "Developer": "Treasure",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_17d9c1b9-05ba-406c-b494-9dfab8ed9446.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1420121193",
-        "URL": "http://images.launchbox-app.com/r2_17d9c1b9-05ba-406c-b494-9dfab8ed9446.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1814835179",
         "FileName": "a25bd4f6-13ff-4919-95e4-f0113f3c7941.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1814835179",
         "URL": "http://images.launchbox-app.com/a25bd4f6-13ff-4919-95e4-f0113f3c7941.jpg"
       },
       {
-        "FileName": "r2_d456a045-08cf-46ea-ba22-ac4f92826a46.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3808978886",
+        "FileName": "r2_d456a045-08cf-46ea-ba22-ac4f92826a46.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_d456a045-08cf-46ea-ba22-ac4f92826a46.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1420121193",
+        "FileName": "r2_17d9c1b9-05ba-406c-b494-9dfab8ed9446.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_17d9c1b9-05ba-406c-b494-9dfab8ed9446.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_9f34c755-5b15-480c-a746-b59d3c64e165.png",
-          "Type": "Box - 3D",
-          "Region": "World",
           "CRC32": "861985892",
+          "FileName": "r2_9f34c755-5b15-480c-a746-b59d3c64e165.png",
+          "Region": "World",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_9f34c755-5b15-480c-a746-b59d3c64e165.png"
         }
       ],
       "Front": [
         {
-          "FileName": "831cc0fc-8820-4f78-b8b0-20bc0fc62c57.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2418225350",
+          "FileName": "831cc0fc-8820-4f78-b8b0-20bc0fc62c57.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/831cc0fc-8820-4f78-b8b0-20bc0fc62c57.jpg"
         },
         {
+          "CRC32": "3707241043",
           "FileName": "c27379fd-7baf-4a0e-9269-c853d2547de0.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "3707241043",
           "URL": "http://images.launchbox-app.com/c27379fd-7baf-4a0e-9269-c853d2547de0.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "865a519b-51a4-48ed-937a-e98e5d1e2a8b.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1107433656",
-        "URL": "http://images.launchbox-app.com/865a519b-51a4-48ed-937a-e98e5d1e2a8b.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "394030658",
         "FileName": "6440bc63-5c02-47e3-a9f2-2422def02872.png",
         "Type": "Clear Logo",
-        "CRC32": "394030658",
         "URL": "http://images.launchbox-app.com/6440bc63-5c02-47e3-a9f2-2422def02872.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1107433656",
+        "FileName": "865a519b-51a4-48ed-937a-e98e5d1e2a8b.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/865a519b-51a4-48ed-937a-e98e5d1e2a8b.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.1",
+  "DatabaseID": "20136",
+  "Developer": "Treasure",
+  "ESRB": "E - Everyone",
+  "Genres": "Shooter",
+  "Name": "Ikaruga",
+  "Overview": "Shoot! Dodge! And... get hit!?! Ikaruga is a cult classic vertical shoot ‘em up that features unique, polarity-switching gameplay. The game’s story follows a rebel pilot named Shinra, as he battles an enemy nation using a specially-designed fighter called the Ikaruga, which can switch between two polarities: black or white. This polarity mechanic is the game’s key feature and the foundation for its stage and enemy design. \n\nAll enemies and bullets in the game are either black or white. Bullets that are the same color as the player’s ship can be absorbed, while the opposite color will do damage. As the amount of absorbed bullets increases, so does the player’s homing laser attack. When maxed out, this special attack can be up to 10x more powerful than a standard shot. Attacks can be chained together to earn bonuses that will achieve higher scores. Ikaruga features both single-player and two-player cooperative modes.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2008-04-09T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=xxEwr01FPkA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Ikaruga"
 }

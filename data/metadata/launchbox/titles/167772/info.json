@@ -1,52 +1,52 @@
 {
-  "Name": "Let's Cheer",
-  "DatabaseID": "167772",
-  "Genres": null,
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "b1ae362d-af28-41ec-9311-fd0a915feb8f.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "3639841050",
+          "FileName": "b1ae362d-af28-41ec-9311-fd0a915feb8f.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/b1ae362d-af28-41ec-9311-fd0a915feb8f.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_19d99c0e-1b5a-489d-a544-4c68c5068973.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "185415721",
+          "FileName": "r2_19d99c0e-1b5a-489d-a544-4c68c5068973.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_19d99c0e-1b5a-489d-a544-4c68c5068973.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_70f3bd9b-a31a-4a19-95d3-3a653b5c0eb0.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "3848134929",
+          "FileName": "r2_70f3bd9b-a31a-4a19-95d3-3a653b5c0eb0.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_70f3bd9b-a31a-4a19-95d3-3a653b5c0eb0.jpg"
         },
         {
-          "FileName": "c97ec1cb-5d77-4631-956c-a4833269e7bb.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3963295281",
+          "FileName": "c97ec1cb-5d77-4631-956c-a4833269e7bb.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c97ec1cb-5d77-4631-956c-a4833269e7bb.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_e1f8be55-d9a5-4c85-b115-64b72b7813f0.png",
-        "Type": "Disc",
-        "Region": "Germany",
         "CRC32": "1744974003",
+        "FileName": "r2_e1f8be55-d9a5-4c85-b115-64b72b7813f0.png",
+        "Region": "Germany",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_e1f8be55-d9a5-4c85-b115-64b72b7813f0.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "167772",
+  "Genres": null,
+  "Name": "Let's Cheer"
 }

@@ -1,45 +1,45 @@
 {
-  "Name": "Avatar Workout",
-  "DatabaseID": "467845",
-  "ReleaseDate": "2011-04-27T00:00:00+00:00",
-  "Overview": "A new trainer is in town and avatars are invited for an intense workout session. Can your avatar keep pace with her or do you have a lazy couch potato on your hands? Compete with a friend's avatar or against an AI player.",
-  "Genres": "Sports",
-  "Developer": "CandelaCreations",
-  "Publisher": "CandelaCreations",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "b2ef1886-30a4-47ff-8821-239316963c17.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2761465644",
+          "FileName": "b2ef1886-30a4-47ff-8821-239316963c17.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b2ef1886-30a4-47ff-8821-239316963c17.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "7ba81416-6356-4fa3-908c-7823e6f7d9c9.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2069599373",
+        "FileName": "283869e5-bffd-4536-981c-a069a7303d37.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/283869e5-bffd-4536-981c-a069a7303d37.jpg"
+      },
+      {
         "CRC32": "2014270393",
+        "FileName": "7ba81416-6356-4fa3-908c-7823e6f7d9c9.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/7ba81416-6356-4fa3-908c-7823e6f7d9c9.jpg"
       },
       {
-        "FileName": "c66c9a24-4cae-43f5-bcd6-19b49d49aaf1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3170196173",
-        "URL": "http://images.launchbox-app.com/c66c9a24-4cae-43f5-bcd6-19b49d49aaf1.jpg"
-      },
-      {
-        "FileName": "283869e5-bffd-4536-981c-a069a7303d37.jpg",
-        "Type": "Screenshot - Gameplay",
+        "FileName": "c66c9a24-4cae-43f5-bcd6-19b49d49aaf1.jpg",
         "Region": "World",
-        "CRC32": "2069599373",
-        "URL": "http://images.launchbox-app.com/283869e5-bffd-4536-981c-a069a7303d37.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c66c9a24-4cae-43f5-bcd6-19b49d49aaf1.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467845",
+  "Developer": "CandelaCreations",
+  "Genres": "Sports",
+  "Name": "Avatar Workout",
+  "Overview": "A new trainer is in town and avatars are invited for an intense workout session. Can your avatar keep pace with her or do you have a lazy couch potato on your hands? Compete with a friend's avatar or against an AI player.",
+  "Publisher": "CandelaCreations",
+  "ReleaseDate": "2011-04-27T00:00:00+00:00"
 }

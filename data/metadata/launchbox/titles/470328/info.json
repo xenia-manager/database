@@ -1,23 +1,23 @@
 {
-  "Name": "Johnny's Skydiving Lessons",
-  "DatabaseID": "470328",
-  "ReleaseDate": "2009-09-17T00:00:00+00:00",
-  "Overview": "The first lesson of skydiving is...",
-  "VideoURL": "https://youtu.be/m5Nvb1MwkX8",
-  "Genres": "Action",
-  "Developer": "North West",
-  "Publisher": "North West",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "4b706be0-c1ec-4ac3-aea3-43c04e46b016.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3989728662",
+          "FileName": "4b706be0-c1ec-4ac3-aea3-43c04e46b016.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4b706be0-c1ec-4ac3-aea3-43c04e46b016.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "470328",
+  "Developer": "North West",
+  "Genres": "Action",
+  "Name": "Johnny's Skydiving Lessons",
+  "Overview": "The first lesson of skydiving is...",
+  "Publisher": "North West",
+  "ReleaseDate": "2009-09-17T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/m5Nvb1MwkX8"
 }

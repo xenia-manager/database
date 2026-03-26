@@ -1,61 +1,61 @@
 {
-  "Name": "T.E.C. 3001",
-  "DatabaseID": "155181",
-  "ReleaseDate": "2011-08-24T00:00:00+00:00",
-  "Overview": "Run, Rush, Haste, Burst. \nSpeed has never been pushed this far. \nJump, Charge, Dodge, Slide. \nYou just slipped and got crushed! You can’t handle T.E.C 3001 yet… \nTry again until speed holds no secrets for you. \n\nIn T.E.C (Tesla Energy Collector) 3001, you are guiding a cutting-edge robot to collect virtual space energy leftovers for humanity. With great graphics and a unique heart-pumping soundtrack, T.E.C 3001 has what it takes to keep you on the right track.",
-  "VideoURL": "https://www.youtube.com/watch?v=NphEuOf_mv0",
-  "CommunityRating": "4.5",
-  "ESRB": "Not Rated",
-  "Genres": "Platform; Racing",
-  "Developer": "Phoenix Game Studio",
-  "Publisher": "Phoenix Game Studio",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2155569409",
         "FileName": "9f75c009-39cb-49b1-883d-6cfb4f3a4957.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2155569409",
         "URL": "http://images.launchbox-app.com/9f75c009-39cb-49b1-883d-6cfb4f3a4957.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "fb487c5e-d907-4791-8019-bab42d081b19.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "321349546",
+          "FileName": "fb487c5e-d907-4791-8019-bab42d081b19.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/fb487c5e-d907-4791-8019-bab42d081b19.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "4293171809",
+        "FileName": "31dd35c9-ddcd-4277-9927-8984ee03d27b.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/31dd35c9-ddcd-4277-9927-8984ee03d27b.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "2645338967",
+        "FileName": "0191655a-712b-4a1e-a892-d3b70bdd0423.png",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/0191655a-712b-4a1e-a892-d3b70bdd0423.png"
+      },
+      {
+        "CRC32": "1072289216",
         "FileName": "b53070d4-a7eb-4faf-936c-2bf9ff0ba6a7.png",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1072289216",
         "URL": "http://images.launchbox-app.com/b53070d4-a7eb-4faf-936c-2bf9ff0ba6a7.png"
       },
       {
+        "CRC32": "1332828552",
         "FileName": "c06e77ea-2990-44f3-9e37-3e9a2d0ad29a.png",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1332828552",
         "URL": "http://images.launchbox-app.com/c06e77ea-2990-44f3-9e37-3e9a2d0ad29a.png"
-      },
-      {
-        "FileName": "0191655a-712b-4a1e-a892-d3b70bdd0423.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2645338967",
-        "URL": "http://images.launchbox-app.com/0191655a-712b-4a1e-a892-d3b70bdd0423.png"
-      }
-    ],
-    "Other": [
-      {
-        "FileName": "31dd35c9-ddcd-4277-9927-8984ee03d27b.png",
-        "Type": "Clear Logo",
-        "CRC32": "4293171809",
-        "URL": "http://images.launchbox-app.com/31dd35c9-ddcd-4277-9927-8984ee03d27b.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "155181",
+  "Developer": "Phoenix Game Studio",
+  "ESRB": "Not Rated",
+  "Genres": "Platform; Racing",
+  "Name": "T.E.C. 3001",
+  "Overview": "Run, Rush, Haste, Burst. \nSpeed has never been pushed this far. \nJump, Charge, Dodge, Slide. \nYou just slipped and got crushed! You can’t handle T.E.C 3001 yet… \nTry again until speed holds no secrets for you. \n\nIn T.E.C (Tesla Energy Collector) 3001, you are guiding a cutting-edge robot to collect virtual space energy leftovers for humanity. With great graphics and a unique heart-pumping soundtrack, T.E.C 3001 has what it takes to keep you on the right track.",
+  "Publisher": "Phoenix Game Studio",
+  "ReleaseDate": "2011-08-24T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=NphEuOf_mv0"
 }

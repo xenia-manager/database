@@ -1,80 +1,80 @@
 {
-  "Name": "BurgerTime World Tour",
-  "DatabaseID": "164588",
-  "ReleaseDate": "2011-11-02T00:00:00+00:00",
-  "Overview": "BurgerTime: World Tour is a reworking of the 1982 game BurgerTime in a 3D environment. It is a platform game where players control burger chief Peter Pepper as he transverses international worlds creating burger piece by piece across its city-scaping levels including New York, Paris, Tokyo, and Mexico. The objective is to complete a set amount of burgers in a level by walking over its various ingredients and condiments such as patties, cheese, tomatoes and buns from high platforms all the way to the burgers already assembled at the very bottom of the stages.\n\nLevels are shaped in a circular form as a theater-in-the-round setting and they rotate as the player moves left or right, keeping the main character in the center of the screen. Movement between levels is done with ladders and platform while enemies such as eggs, hot dogs, and pickles need to be avoided. They can be sent down by dropping ingredients on them and they can also temporarily be stunned by blasting pepper. A single hit and the main character dies. Peter Pepper also has various power-ups and weapons at his disposal, including a spatula which will knock enemies who follow him around the stages. The game has both split-screen and online multiplayer.",
-  "CommunityRating": "4.15384615384615",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/BurgerTime_World_Tour",
-  "Genres": "Platform",
-  "Developer": "Frozen Codebase",
-  "Publisher": "Konami Digital Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "3e639993-676e-40e3-8eff-e9a567323af0.png",
-        "Type": "Banner",
-        "CRC32": "743054642",
-        "URL": "http://images.launchbox-app.com/3e639993-676e-40e3-8eff-e9a567323af0.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "303465255",
         "FileName": "c27f6eb3-3296-47e4-b4f0-8082b347cfbe.png",
         "Type": "Fanart - Background",
-        "CRC32": "303465255",
         "URL": "http://images.launchbox-app.com/c27f6eb3-3296-47e4-b4f0-8082b347cfbe.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "743054642",
+        "FileName": "3e639993-676e-40e3-8eff-e9a567323af0.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/3e639993-676e-40e3-8eff-e9a567323af0.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "55f9249d-f72f-4165-9e5f-9098c7534b7f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1144911545",
+          "FileName": "55f9249d-f72f-4165-9e5f-9098c7534b7f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/55f9249d-f72f-4165-9e5f-9098c7534b7f.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "787263c5-e7cd-46b4-9995-432047b9ee37.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2140993977",
-        "URL": "http://images.launchbox-app.com/787263c5-e7cd-46b4-9995-432047b9ee37.jpg"
-      },
-      {
-        "FileName": "dc96d85a-9eee-49b7-9a68-cb7177f782a7.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "470354880",
-        "URL": "http://images.launchbox-app.com/dc96d85a-9eee-49b7-9a68-cb7177f782a7.jpg"
-      },
-      {
-        "FileName": "fcb2571b-6398-4176-a2a8-9d273b6ce17a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "910741513",
-        "URL": "http://images.launchbox-app.com/fcb2571b-6398-4176-a2a8-9d273b6ce17a.jpg"
-      },
-      {
-        "FileName": "2aff8a74-bc21-4531-ace7-826d483fffff.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "832035040",
-        "URL": "http://images.launchbox-app.com/2aff8a74-bc21-4531-ace7-826d483fffff.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "2920836471",
         "FileName": "02769dc7-c00e-4acf-b686-bdd0600d8a9e.png",
         "Type": "Clear Logo",
-        "CRC32": "2920836471",
         "URL": "http://images.launchbox-app.com/02769dc7-c00e-4acf-b686-bdd0600d8a9e.png"
       },
       {
+        "CRC32": "2611275995",
         "FileName": "dc5e17b1-dcde-4bf3-9a41-93e06bc3b3e8.png",
         "Type": "Clear Logo",
-        "CRC32": "2611275995",
         "URL": "http://images.launchbox-app.com/dc5e17b1-dcde-4bf3-9a41-93e06bc3b3e8.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2140993977",
+        "FileName": "787263c5-e7cd-46b4-9995-432047b9ee37.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/787263c5-e7cd-46b4-9995-432047b9ee37.jpg"
+      },
+      {
+        "CRC32": "832035040",
+        "FileName": "2aff8a74-bc21-4531-ace7-826d483fffff.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/2aff8a74-bc21-4531-ace7-826d483fffff.jpg"
+      },
+      {
+        "CRC32": "470354880",
+        "FileName": "dc96d85a-9eee-49b7-9a68-cb7177f782a7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/dc96d85a-9eee-49b7-9a68-cb7177f782a7.jpg"
+      },
+      {
+        "CRC32": "910741513",
+        "FileName": "fcb2571b-6398-4176-a2a8-9d273b6ce17a.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/fcb2571b-6398-4176-a2a8-9d273b6ce17a.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.15384615384615",
+  "DatabaseID": "164588",
+  "Developer": "Frozen Codebase",
+  "Genres": "Platform",
+  "Name": "BurgerTime World Tour",
+  "Overview": "BurgerTime: World Tour is a reworking of the 1982 game BurgerTime in a 3D environment. It is a platform game where players control burger chief Peter Pepper as he transverses international worlds creating burger piece by piece across its city-scaping levels including New York, Paris, Tokyo, and Mexico. The objective is to complete a set amount of burgers in a level by walking over its various ingredients and condiments such as patties, cheese, tomatoes and buns from high platforms all the way to the burgers already assembled at the very bottom of the stages.\n\nLevels are shaped in a circular form as a theater-in-the-round setting and they rotate as the player moves left or right, keeping the main character in the center of the screen. Movement between levels is done with ladders and platform while enemies such as eggs, hot dogs, and pickles need to be avoided. They can be sent down by dropping ingredients on them and they can also temporarily be stunned by blasting pepper. A single hit and the main character dies. Peter Pepper also has various power-ups and weapons at his disposal, including a spatula which will knock enemies who follow him around the stages. The game has both split-screen and online multiplayer.",
+  "Publisher": "Konami Digital Entertainment",
+  "ReleaseDate": "2011-11-02T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/BurgerTime_World_Tour"
 }

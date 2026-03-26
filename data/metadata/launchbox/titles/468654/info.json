@@ -1,23 +1,23 @@
 {
-  "Name": "Flex",
-  "DatabaseID": "468654",
-  "ReleaseDate": "2014-05-03T00:00:00+00:00",
-  "Overview": "Flex -- the flexible piece dropping game.\n\nFlex is all about options. There are over 30 options that can be changed to customize the game to your liking. Hopefully, there's something here that will interest you.\n\nIf the game is too hard or too easy, change the settings. If you want a different style of game, change the options.",
-  "VideoURL": "https://youtu.be/oTB6rF-6FV8",
-  "Genres": "Puzzle",
-  "Developer": "McKay Salisbury",
-  "Publisher": "McKay Salisbury",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "5fc5b381-8be1-4829-823e-dd95eda0ed61.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1897700319",
+          "FileName": "5fc5b381-8be1-4829-823e-dd95eda0ed61.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5fc5b381-8be1-4829-823e-dd95eda0ed61.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468654",
+  "Developer": "McKay Salisbury",
+  "Genres": "Puzzle",
+  "Name": "Flex",
+  "Overview": "Flex -- the flexible piece dropping game.\n\nFlex is all about options. There are over 30 options that can be changed to customize the game to your liking. Hopefully, there's something here that will interest you.\n\nIf the game is too hard or too easy, change the settings. If you want a different style of game, change the options.",
+  "Publisher": "McKay Salisbury",
+  "ReleaseDate": "2014-05-03T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/oTB6rF-6FV8"
 }

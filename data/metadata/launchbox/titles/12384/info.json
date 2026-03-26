@@ -1,105 +1,105 @@
 {
-  "Name": "Fight Night Champion",
-  "DatabaseID": "12384",
-  "ReleaseDate": "2011-03-01T00:00:00+00:00",
-  "Overview": "Fight Night Champion is a boxing video game developed by EA Canada and published by Electronic Arts. It is the fifth entry in the Fight Night series and was released on March 1, 2011 for the PlayStation 3 and Xbox 360. It was also released on the Xbox One Backwards compatibility in May 2018. The game takes a drastic turn from its predecessors, depicting a \"grittier\", \"darker\" setting with animations and player damage that \"truly conveys the brutality of the sport of boxing.\"The violence and strong language in the game's story mode earned it a Mature rating from the Entertainment Software Rating Board, the first and so far the only EA Sports title to do so.\n\nThe game was officially revealed on 7 July 2010 at an EA Sports studio showcase. In May 2018 Fight night champion was released on Xbox one Backwards compatibility The game is the first EA Sports game to feature a full Hollywood-inspired story mode, called Champion Mode. The story follows the career of Andre Bishop, a talented boxer, who is forced to overcome great setbacks including a prison sentence and a corrupt fight promoter. Champion Mode is intended to further convey the brutality and hardship of the sport of boxing.",
-  "CommunityRating": "3.22916666666667",
-  "WikipediaURL": "https://www.wikipedia.org/wiki/Fight_Night_Champion",
-  "ESRB": "M - Mature",
-  "Genres": "Fighting; Sports",
-  "Developer": "Electronic Arts Canada",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_58b66788-cf2a-4892-8f82-0dc75d6bdc91.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2817503685",
-        "URL": "http://images.launchbox-app.com/r2_58b66788-cf2a-4892-8f82-0dc75d6bdc91.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2173943451",
         "FileName": "4198bce6-54bb-477e-b304-a853c9d8d22c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2173943451",
         "URL": "http://images.launchbox-app.com/4198bce6-54bb-477e-b304-a853c9d8d22c.jpg"
       },
       {
-        "FileName": "r2_baea5a4a-50ce-470a-ac2c-173f73dc00ef.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2301675121",
+        "FileName": "r2_baea5a4a-50ce-470a-ac2c-173f73dc00ef.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_baea5a4a-50ce-470a-ac2c-173f73dc00ef.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2817503685",
+        "FileName": "r2_58b66788-cf2a-4892-8f82-0dc75d6bdc91.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_58b66788-cf2a-4892-8f82-0dc75d6bdc91.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "1086777106",
           "FileName": "5ed94011-25eb-4d3e-b0c7-ca27c7b2b84d.png",
           "Type": "Box - 3D",
-          "CRC32": "1086777106",
           "URL": "http://images.launchbox-app.com/5ed94011-25eb-4d3e-b0c7-ca27c7b2b84d.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "1281334732",
           "FileName": "03c14bac-36b0-4cf0-80be-841633b095b4.jpg",
           "Type": "Box - Back",
-          "CRC32": "1281334732",
           "URL": "http://images.launchbox-app.com/03c14bac-36b0-4cf0-80be-841633b095b4.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "bb8ca4eb-5757-46d2-a589-247867b59a24.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1128936562",
+          "FileName": "bb8ca4eb-5757-46d2-a589-247867b59a24.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/bb8ca4eb-5757-46d2-a589-247867b59a24.jpg"
         },
         {
-          "FileName": "cdf6001d-ac8f-498f-ae96-31c52cbd40f8.png",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3812696638",
+          "FileName": "cdf6001d-ac8f-498f-ae96-31c52cbd40f8.png",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/cdf6001d-ac8f-498f-ae96-31c52cbd40f8.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "1aeb0697-e550-4e20-b6c8-33de0d592b58.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "1229898509",
+          "FileName": "1aeb0697-e550-4e20-b6c8-33de0d592b58.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/1aeb0697-e550-4e20-b6c8-33de0d592b58.jpg"
         },
         {
-          "FileName": "66d8274b-ac7e-4c4a-bc44-8ee09444b7b3.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "810167415",
+          "FileName": "66d8274b-ac7e-4c4a-bc44-8ee09444b7b3.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/66d8274b-ac7e-4c4a-bc44-8ee09444b7b3.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "73b13755-bc45-4f9c-9bb0-5e7389a51ab4.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1384536334",
+        "FileName": "73b13755-bc45-4f9c-9bb0-5e7389a51ab4.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/73b13755-bc45-4f9c-9bb0-5e7389a51ab4.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "996570748",
         "FileName": "1169bc92-0a3b-4418-81c6-0237e7b56bc7.png",
         "Type": "Clear Logo",
-        "CRC32": "996570748",
         "URL": "http://images.launchbox-app.com/1169bc92-0a3b-4418-81c6-0237e7b56bc7.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.22916666666667",
+  "DatabaseID": "12384",
+  "Developer": "Electronic Arts Canada",
+  "ESRB": "M - Mature",
+  "Genres": "Fighting; Sports",
+  "Name": "Fight Night Champion",
+  "Overview": "Fight Night Champion is a boxing video game developed by EA Canada and published by Electronic Arts. It is the fifth entry in the Fight Night series and was released on March 1, 2011 for the PlayStation 3 and Xbox 360. It was also released on the Xbox One Backwards compatibility in May 2018. The game takes a drastic turn from its predecessors, depicting a \"grittier\", \"darker\" setting with animations and player damage that \"truly conveys the brutality of the sport of boxing.\"The violence and strong language in the game's story mode earned it a Mature rating from the Entertainment Software Rating Board, the first and so far the only EA Sports title to do so.\n\nThe game was officially revealed on 7 July 2010 at an EA Sports studio showcase. In May 2018 Fight night champion was released on Xbox one Backwards compatibility The game is the first EA Sports game to feature a full Hollywood-inspired story mode, called Champion Mode. The story follows the career of Andre Bishop, a talented boxer, who is forced to overcome great setbacks including a prison sentence and a corrupt fight promoter. Champion Mode is intended to further convey the brutality and hardship of the sport of boxing.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2011-03-01T00:00:00+00:00",
+  "WikipediaURL": "https://www.wikipedia.org/wiki/Fight_Night_Champion"
 }

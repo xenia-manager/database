@@ -1,33 +1,33 @@
 {
-  "Name": "UpBot Goes Up",
-  "DatabaseID": "155168",
-  "ReleaseDate": "2011-05-23T00:00:00+00:00",
-  "Overview": "The bots must reach their launch pads. They can only move in one direction, but luckily, they're good at working together! An easy to learn, hard to master puzzle game. \n\nThe premise of UpBot Goes Up is simple: the player needs to guide blocks of four different colors into the positions of the corresponding color. The problem is that each block can only move in one direction (the yellow blocks move up, the blue ones move left, etc.) and all blocks of the same color move simultaneously. Of course, victory isn't as simple as just moving the blocks in their assigned directions. The game features 60 puzzles of increasing difficulty.",
-  "VideoURL": "https://www.youtube.com/watch?v=DT0RQf85inM",
-  "CommunityRating": "5",
-  "ESRB": "Not Rated",
-  "Genres": "Puzzle",
-  "Developer": "Ishisoft",
-  "Publisher": "Ishisoft",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "670789316",
         "FileName": "d05e985a-700c-4d5a-9d13-5a88361309a5.png",
         "Type": "Fanart - Background",
-        "CRC32": "670789316",
         "URL": "http://images.launchbox-app.com/d05e985a-700c-4d5a-9d13-5a88361309a5.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "5a872619-e562-47c6-9496-bf7c2aef8cf7.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2049788790",
+          "FileName": "5a872619-e562-47c6-9496-bf7c2aef8cf7.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5a872619-e562-47c6-9496-bf7c2aef8cf7.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "5",
+  "DatabaseID": "155168",
+  "Developer": "Ishisoft",
+  "ESRB": "Not Rated",
+  "Genres": "Puzzle",
+  "Name": "UpBot Goes Up",
+  "Overview": "The bots must reach their launch pads. They can only move in one direction, but luckily, they're good at working together! An easy to learn, hard to master puzzle game. \n\nThe premise of UpBot Goes Up is simple: the player needs to guide blocks of four different colors into the positions of the corresponding color. The problem is that each block can only move in one direction (the yellow blocks move up, the blue ones move left, etc.) and all blocks of the same color move simultaneously. Of course, victory isn't as simple as just moving the blocks in their assigned directions. The game features 60 puzzles of increasing difficulty.",
+  "Publisher": "Ishisoft",
+  "ReleaseDate": "2011-05-23T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=DT0RQf85inM"
 }

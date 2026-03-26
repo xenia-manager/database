@@ -1,85 +1,85 @@
 {
-  "Name": "Hard Corps: Uprising",
-  "DatabaseID": "21143",
-  "ReleaseDate": "2011-02-16T00:00:00+00:00",
-  "Overview": "Thrilling retro run-and-gun action is back with a vengeance in Hard Corps: Uprising, a new 2D side scroller developed by ARC System Works that pays homage to the classic Konami action series Contra. Play as the soldier Bahamut as he begins to write his legend. Battle in the grueling trenches of Arcade mode or the all-new RISING mode, where a life bar and point system allow you to purchase items and upgrades to build your soldier up and achieve ultimate victory. Need help? Partner with a friend to lay down some serious carnage.",
-  "VideoURL": "https://www.youtube.com/watch?v=ZDOrp_TMGfA",
-  "CommunityRating": "3.375",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Hard_Corps:_Uprising",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "Arc System Works",
-  "Publisher": "Konami",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_9a96da17-6683-4352-ae72-98caf5612c19.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "4290358506",
-        "URL": "http://images.launchbox-app.com/r2_9a96da17-6683-4352-ae72-98caf5612c19.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1034184951",
         "FileName": "53e525e0-b4da-4e98-a7ca-43d9a12934f3.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1034184951",
         "URL": "http://images.launchbox-app.com/53e525e0-b4da-4e98-a7ca-43d9a12934f3.jpg"
       },
       {
-        "FileName": "r2_9833f408-b67d-463c-b756-dde945ecd263.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2943619097",
+        "FileName": "r2_9833f408-b67d-463c-b756-dde945ecd263.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_9833f408-b67d-463c-b756-dde945ecd263.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4290358506",
+        "FileName": "r2_9a96da17-6683-4352-ae72-98caf5612c19.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_9a96da17-6683-4352-ae72-98caf5612c19.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "b6bce63c-93c0-4a33-a7c5-badfe322d581.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "93842190",
+          "FileName": "b6bce63c-93c0-4a33-a7c5-badfe322d581.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b6bce63c-93c0-4a33-a7c5-badfe322d581.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "59390470",
+        "FileName": "9c58c82f-ca56-4480-90a6-8a289cf17461.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/9c58c82f-ca56-4480-90a6-8a289cf17461.png"
+      }
+    ],
     "Screenshots": [
       {
-        "FileName": "2b4bc955-65ac-44c3-aef3-55d85e93ecf9.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "France",
         "CRC32": "970112648",
+        "FileName": "2b4bc955-65ac-44c3-aef3-55d85e93ecf9.jpg",
+        "Region": "France",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/2b4bc955-65ac-44c3-aef3-55d85e93ecf9.jpg"
       },
       {
-        "FileName": "bf9c97a8-5782-415f-a8cb-4ad221068080.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2339554813",
-        "URL": "http://images.launchbox-app.com/bf9c97a8-5782-415f-a8cb-4ad221068080.jpg"
-      },
-      {
+        "CRC32": "3402762177",
         "FileName": "9205e96e-0c83-4739-b841-9347e25aa251.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3402762177",
         "URL": "http://images.launchbox-app.com/9205e96e-0c83-4739-b841-9347e25aa251.jpg"
       },
       {
+        "CRC32": "2624414532",
         "FileName": "b6ba7b90-a85e-4bac-9507-1f3279a05fcb.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2624414532",
         "URL": "http://images.launchbox-app.com/b6ba7b90-a85e-4bac-9507-1f3279a05fcb.jpg"
-      }
-    ],
-    "Other": [
+      },
       {
-        "FileName": "9c58c82f-ca56-4480-90a6-8a289cf17461.png",
-        "Type": "Clear Logo",
-        "CRC32": "59390470",
-        "URL": "http://images.launchbox-app.com/9c58c82f-ca56-4480-90a6-8a289cf17461.png"
+        "CRC32": "2339554813",
+        "FileName": "bf9c97a8-5782-415f-a8cb-4ad221068080.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/bf9c97a8-5782-415f-a8cb-4ad221068080.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.375",
+  "DatabaseID": "21143",
+  "Developer": "Arc System Works",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Hard Corps: Uprising",
+  "Overview": "Thrilling retro run-and-gun action is back with a vengeance in Hard Corps: Uprising, a new 2D side scroller developed by ARC System Works that pays homage to the classic Konami action series Contra. Play as the soldier Bahamut as he begins to write his legend. Battle in the grueling trenches of Arcade mode or the all-new RISING mode, where a life bar and point system allow you to purchase items and upgrades to build your soldier up and achieve ultimate victory. Need help? Partner with a friend to lay down some serious carnage.",
+  "Publisher": "Konami",
+  "ReleaseDate": "2011-02-16T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=ZDOrp_TMGfA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Hard_Corps:_Uprising"
 }

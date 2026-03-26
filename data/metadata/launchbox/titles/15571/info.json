@@ -1,58 +1,58 @@
 {
-  "Name": "Flock!",
-  "DatabaseID": "15571",
-  "ReleaseDate": "2009-04-09T00:00:00+00:00",
-  "Overview": "Flock! (stylized as FLOCK!) is a puzzle video game developed by Proper Games and published by Capcom for Windows, PlayStation Network and Xbox Live Arcade. It was released in April 2009 for Microsoft Windows through Steam and Stardock's digital distribution service Impulse, Xbox Live Arcade and PlayStation Network. The game was additionally developed by A.C.R.O.N.Y.M. Games.\n\nGameplay\nThe player controls a UFO (\"The Flocker\") and is tasked with herding farm animals (sheep, cows, chickens, and pigs) back to the mothership, \"The Mother Flocker\". This is challenging due to the hazardous environments the animals exist in – the players must defend their flock against hungry predators, avoid pits of death, and send their animals flying with catapults. There are 55 single-player levels that span across three seasons: summer, autumn, and winter. There is also a cooperative play mode.",
-  "VideoURL": "http://www.youtube.com/watch?v=tVUgIm3BQmM",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Flock!",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "Proper Games",
-  "Publisher": "Capcom",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_90aa2e54-c259-4614-8a3f-de71d03eb638.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "880827638",
-        "URL": "http://images.launchbox-app.com/r2_90aa2e54-c259-4614-8a3f-de71d03eb638.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_276d0940-5aaf-4eec-9a83-cc550120dcc9.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2410194948",
+        "FileName": "r2_276d0940-5aaf-4eec-9a83-cc550120dcc9.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_276d0940-5aaf-4eec-9a83-cc550120dcc9.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "880827638",
+        "FileName": "r2_90aa2e54-c259-4614-8a3f-de71d03eb638.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_90aa2e54-c259-4614-8a3f-de71d03eb638.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "1129126411",
           "FileName": "ad7539af-624c-4852-8e82-b4b3a9678375.jpg",
           "Type": "Box - Front",
-          "CRC32": "1129126411",
           "URL": "http://images.launchbox-app.com/ad7539af-624c-4852-8e82-b4b3a9678375.jpg"
         },
         {
-          "FileName": "r2_26be5ced-7a04-45df-82e8-65aecb93880a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1806992408",
+          "FileName": "r2_26be5ced-7a04-45df-82e8-65aecb93880a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_26be5ced-7a04-45df-82e8-65aecb93880a.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "3640970765",
         "FileName": "966351d4-8a36-4c4f-84b0-68e67b8c44ae.png",
         "Type": "Clear Logo",
-        "CRC32": "3640970765",
         "URL": "http://images.launchbox-app.com/966351d4-8a36-4c4f-84b0-68e67b8c44ae.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "15571",
+  "Developer": "Proper Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Flock!",
+  "Overview": "Flock! (stylized as FLOCK!) is a puzzle video game developed by Proper Games and published by Capcom for Windows, PlayStation Network and Xbox Live Arcade. It was released in April 2009 for Microsoft Windows through Steam and Stardock's digital distribution service Impulse, Xbox Live Arcade and PlayStation Network. The game was additionally developed by A.C.R.O.N.Y.M. Games.\n\nGameplay\nThe player controls a UFO (\"The Flocker\") and is tasked with herding farm animals (sheep, cows, chickens, and pigs) back to the mothership, \"The Mother Flocker\". This is challenging due to the hazardous environments the animals exist in – the players must defend their flock against hungry predators, avoid pits of death, and send their animals flying with catapults. There are 55 single-player levels that span across three seasons: summer, autumn, and winter. There is also a cooperative play mode.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2009-04-09T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=tVUgIm3BQmM",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Flock!"
 }

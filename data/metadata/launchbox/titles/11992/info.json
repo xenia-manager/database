@@ -1,105 +1,105 @@
 {
-  "Name": "Divinity II: The Dragon Knight Saga",
-  "DatabaseID": "11992",
-  "ReleaseDate": "2011-04-12T00:00:00+00:00",
-  "Overview": "Divinity II - The Dragon Knight Saga includes the original adventure \"Ego Draconis\", and \"Flames of Vengeance\", the Dragon Knight's new adventure that continues the epic story and adds dozens of hours of additional gameplay. Divinity II - Ego Draconis appears here as an entirely new and re-mastered edition with improved graphics and content that make the game even more beautiful and more impressive than ever before!",
-  "CommunityRating": "4.16666666666667",
-  "ESRB": "M - Mature",
-  "Genres": "Adventure; Role-Playing",
-  "Developer": "Larian Studios",
-  "Publisher": "Atlus",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_9a1901c6-3322-4c49-b3ec-7d5a7a47d59e.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "3632446109",
-        "URL": "http://images.launchbox-app.com/r2_9a1901c6-3322-4c49-b3ec-7d5a7a47d59e.png"
-      },
-      {
-        "FileName": "r2_f8345cde-99a1-43e9-a030-3e40132a7296.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "209617877",
-        "URL": "http://images.launchbox-app.com/r2_f8345cde-99a1-43e9-a030-3e40132a7296.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_c17e0d1a-4e5d-413d-a73d-b2db9125fe31.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "22681464",
-        "URL": "http://images.launchbox-app.com/r2_c17e0d1a-4e5d-413d-a73d-b2db9125fe31.jpg"
-      },
-      {
-        "FileName": "r2_02c45ec2-b74a-4eda-9788-a91e3261b882.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1689550221",
+        "FileName": "r2_02c45ec2-b74a-4eda-9788-a91e3261b882.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_02c45ec2-b74a-4eda-9788-a91e3261b882.jpg"
       },
       {
-        "FileName": "r2_0bca6a4b-c8c9-41c4-8646-cc8a3ea5fae4.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3808857351",
+        "FileName": "r2_0bca6a4b-c8c9-41c4-8646-cc8a3ea5fae4.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_0bca6a4b-c8c9-41c4-8646-cc8a3ea5fae4.jpg"
+      },
+      {
+        "CRC32": "22681464",
+        "FileName": "r2_c17e0d1a-4e5d-413d-a73d-b2db9125fe31.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_c17e0d1a-4e5d-413d-a73d-b2db9125fe31.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3632446109",
+        "FileName": "r2_9a1901c6-3322-4c49-b3ec-7d5a7a47d59e.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_9a1901c6-3322-4c49-b3ec-7d5a7a47d59e.png"
+      },
+      {
+        "CRC32": "209617877",
+        "FileName": "r2_f8345cde-99a1-43e9-a030-3e40132a7296.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_f8345cde-99a1-43e9-a030-3e40132a7296.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "3bc40872-7282-49c7-a52d-9f2b87712286.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "54162545",
+          "FileName": "3bc40872-7282-49c7-a52d-9f2b87712286.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/3bc40872-7282-49c7-a52d-9f2b87712286.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_438047ee-aa7d-42b8-ba21-da0fb685bb45.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "39039952",
+          "FileName": "r2_438047ee-aa7d-42b8-ba21-da0fb685bb45.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_438047ee-aa7d-42b8-ba21-da0fb685bb45.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_274d4123-7e1d-4ed5-a59f-7cf3438445d3.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "544887025",
+          "FileName": "r2_274d4123-7e1d-4ed5-a59f-7cf3438445d3.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_274d4123-7e1d-4ed5-a59f-7cf3438445d3.jpg"
         },
         {
-          "FileName": "fb57263b-beee-4651-b774-1c4db758a918.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3157207412",
+          "FileName": "fb57263b-beee-4651-b774-1c4db758a918.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/fb57263b-beee-4651-b774-1c4db758a918.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_4b39d207-e5af-4418-8a06-f65dffb8f806.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "4235327904",
+        "FileName": "r2_4b39d207-e5af-4418-8a06-f65dffb8f806.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_4b39d207-e5af-4418-8a06-f65dffb8f806.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3219967562",
         "FileName": "55d5ca58-175e-45c2-8d92-72d4b9c0084f.png",
         "Type": "Clear Logo",
-        "CRC32": "3219967562",
         "URL": "http://images.launchbox-app.com/55d5ca58-175e-45c2-8d92-72d4b9c0084f.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.16666666666667",
+  "DatabaseID": "11992",
+  "Developer": "Larian Studios",
+  "ESRB": "M - Mature",
+  "Genres": "Adventure; Role-Playing",
+  "Name": "Divinity II: The Dragon Knight Saga",
+  "Overview": "Divinity II - The Dragon Knight Saga includes the original adventure \"Ego Draconis\", and \"Flames of Vengeance\", the Dragon Knight's new adventure that continues the epic story and adds dozens of hours of additional gameplay. Divinity II - Ego Draconis appears here as an entirely new and re-mastered edition with improved graphics and content that make the game even more beautiful and more impressive than ever before!",
+  "Publisher": "Atlus",
+  "ReleaseDate": "2011-04-12T00:00:00+00:00"
 }

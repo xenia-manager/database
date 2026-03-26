@@ -1,99 +1,99 @@
 {
-  "Name": "Blades of Time",
-  "DatabaseID": "14383",
-  "ReleaseDate": "2012-03-06T00:00:00+00:00",
-  "Overview": "Blades of Time is the spiritual sequel to X-Blades by the same developer. It again follows the story of Ayumi but does not pick up on the events of the previous game. She is a female treasure hunter who disrupts a rite of a guild to access a sphere that transports her to the fantasy world Dragonland. She fights with a set of blades in over-the-top hack-and-slash gameplay reminiscent of the God of War series. Slashes and kicks are linked into fast combos including finishing moves when an enemy has been forced into a submissive position. She can also pick up a variety of long-ranged weapons such as rifles or a rocket launcher and these are also used to shoot objects that are out of reach to solve puzzles. During her journey she can pick up diary pages from previous treasure hunters that explain how chaos magic has altered the environment and introduced monsters. She also meets fellow treasure hunters along the way.\n\nAyumi regularly discovers altars where new skills are learned. This includes for instance the ability to freeze enemies or rise giant ice crystals below them. These can only be used when a rage bar is built up with up to three levels by defeating opponents. She is also able to dash away to evade attacks or quickly close the distance towards an opponent. In a menu Ayumi can equip the items and weapons she finds. There are four slots: close combat, ranged attacks, amulets, and rings. Previously found items are not dumped and it is possible to switch between items at any moment when a certain effect is needed such as additional fire damage. Certain items can be crafted by discovering a recipe and collecting the necessary ingredients. Time referenced in the title refers to the skill Ayumi eventually learns to rewind time and fight along with a clone of herself that performs the actions that were previously done. This self-cooperative element is a way to confuse enemies carrying shield and is also vital to solve some of the puzzles in the later parts of the game. There is no in-game map but a compass can be pulled out with a visual effect for the direction that should be followed. After defeating a boss character there is often a portal that leads to a new location.\n\nMultiplayer is available through the Outbreak mode with gameplay similar to Defense of the Ancients. It offers games where two teams attempt to defeat each other's energy tree while keeping their own alive. Between the two trees are outposts filled with computer-controlled minions and monsters. At the start of the game each player selects up to three abilities. The tree keeps regenerating energy until all outposts have been destroyed and it is enhanced by destroying enemy outposts and player-controlled heroes. Each outpost spawns characters that move towards the opponent and his outposts. By defeating heroes and outposts players earn additional respawns and open up further room for abilities. When all outposts have been destroyed respawns directly tap from the tree energy's source until eventually there is no energy left and death becomes permanent. The game also introduces boss monsters and special chests that contain a berserk charge for the heroes. Level imbalance is also detected with the introduction of Skyguard to give the losing team a chance to gain experience and move up levels. Item crafting is carried over to multiplayer, but time rewinding is not possible.",
-  "VideoURL": "http://www.youtube.com/watch?v=http://www.youtube.com/v/8BzhK-e70y8",
-  "CommunityRating": "3.375",
-  "Genres": "Action",
-  "Developer": "Gaijin Entertainment",
-  "Publisher": "Konami",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "5ee88530-b256-410e-bf10-0c5dae593345.png",
-        "Type": "Banner",
-        "CRC32": "3830691679",
-        "URL": "http://images.launchbox-app.com/5ee88530-b256-410e-bf10-0c5dae593345.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "825143942",
         "FileName": "b8ea8648-dd4a-432f-b0d1-828c0b8b661a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "825143942",
         "URL": "http://images.launchbox-app.com/b8ea8648-dd4a-432f-b0d1-828c0b8b661a.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3830691679",
+        "FileName": "5ee88530-b256-410e-bf10-0c5dae593345.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/5ee88530-b256-410e-bf10-0c5dae593345.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "dcd7a69c-788f-4cca-b9b9-70248cbafb5a.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "144811974",
+          "FileName": "dcd7a69c-788f-4cca-b9b9-70248cbafb5a.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/dcd7a69c-788f-4cca-b9b9-70248cbafb5a.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_f6afd9ba-1c74-4b83-a490-87fbeea23008.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2412212924",
+          "FileName": "r2_f6afd9ba-1c74-4b83-a490-87fbeea23008.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_f6afd9ba-1c74-4b83-a490-87fbeea23008.jpg"
         },
         {
-          "FileName": "3a1bd566-a976-477a-9fad-163c62995432.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "536182409",
+          "FileName": "3a1bd566-a976-477a-9fad-163c62995432.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/3a1bd566-a976-477a-9fad-163c62995432.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_88452463-14dd-41a0-8a48-135de5d1e007.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "14981152",
+          "FileName": "r2_88452463-14dd-41a0-8a48-135de5d1e007.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_88452463-14dd-41a0-8a48-135de5d1e007.jpg"
         },
         {
-          "FileName": "38207c19-2d3e-428a-ba13-a1da6d4c6a6c.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "551278311",
+          "FileName": "38207c19-2d3e-428a-ba13-a1da6d4c6a6c.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/38207c19-2d3e-428a-ba13-a1da6d4c6a6c.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "0cb464b8-abb7-430a-a3f9-0a9c279c1e36.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1846455084",
+          "FileName": "0cb464b8-abb7-430a-a3f9-0a9c279c1e36.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/0cb464b8-abb7-430a-a3f9-0a9c279c1e36.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "6fe64600-a107-4a58-ad1a-49c2122733d4.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3929526194",
+        "FileName": "6fe64600-a107-4a58-ad1a-49c2122733d4.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/6fe64600-a107-4a58-ad1a-49c2122733d4.png"
       }
     ],
     "Other": [
       {
-        "FileName": "9c69b2c1-82d4-44f8-86a5-86a8196daa1c.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "999810586",
+        "FileName": "9c69b2c1-82d4-44f8-86a5-86a8196daa1c.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/9c69b2c1-82d4-44f8-86a5-86a8196daa1c.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.375",
+  "DatabaseID": "14383",
+  "Developer": "Gaijin Entertainment",
+  "Genres": "Action",
+  "Name": "Blades of Time",
+  "Overview": "Blades of Time is the spiritual sequel to X-Blades by the same developer. It again follows the story of Ayumi but does not pick up on the events of the previous game. She is a female treasure hunter who disrupts a rite of a guild to access a sphere that transports her to the fantasy world Dragonland. She fights with a set of blades in over-the-top hack-and-slash gameplay reminiscent of the God of War series. Slashes and kicks are linked into fast combos including finishing moves when an enemy has been forced into a submissive position. She can also pick up a variety of long-ranged weapons such as rifles or a rocket launcher and these are also used to shoot objects that are out of reach to solve puzzles. During her journey she can pick up diary pages from previous treasure hunters that explain how chaos magic has altered the environment and introduced monsters. She also meets fellow treasure hunters along the way.\n\nAyumi regularly discovers altars where new skills are learned. This includes for instance the ability to freeze enemies or rise giant ice crystals below them. These can only be used when a rage bar is built up with up to three levels by defeating opponents. She is also able to dash away to evade attacks or quickly close the distance towards an opponent. In a menu Ayumi can equip the items and weapons she finds. There are four slots: close combat, ranged attacks, amulets, and rings. Previously found items are not dumped and it is possible to switch between items at any moment when a certain effect is needed such as additional fire damage. Certain items can be crafted by discovering a recipe and collecting the necessary ingredients. Time referenced in the title refers to the skill Ayumi eventually learns to rewind time and fight along with a clone of herself that performs the actions that were previously done. This self-cooperative element is a way to confuse enemies carrying shield and is also vital to solve some of the puzzles in the later parts of the game. There is no in-game map but a compass can be pulled out with a visual effect for the direction that should be followed. After defeating a boss character there is often a portal that leads to a new location.\n\nMultiplayer is available through the Outbreak mode with gameplay similar to Defense of the Ancients. It offers games where two teams attempt to defeat each other's energy tree while keeping their own alive. Between the two trees are outposts filled with computer-controlled minions and monsters. At the start of the game each player selects up to three abilities. The tree keeps regenerating energy until all outposts have been destroyed and it is enhanced by destroying enemy outposts and player-controlled heroes. Each outpost spawns characters that move towards the opponent and his outposts. By defeating heroes and outposts players earn additional respawns and open up further room for abilities. When all outposts have been destroyed respawns directly tap from the tree energy's source until eventually there is no energy left and death becomes permanent. The game also introduces boss monsters and special chests that contain a berserk charge for the heroes. Level imbalance is also detected with the introduction of Skyguard to give the losing team a chance to gain experience and move up levels. Item crafting is carried over to multiplayer, but time rewinding is not possible.",
+  "Publisher": "Konami",
+  "ReleaseDate": "2012-03-06T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=http://www.youtube.com/v/8BzhK-e70y8"
 }

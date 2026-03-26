@@ -1,69 +1,69 @@
 {
-  "Name": "IHF Handball Challenge 14",
-  "DatabaseID": "203847",
-  "ReleaseDate": "2014-03-28T00:00:00+00:00",
-  "Overview": "Get ready, handball fans! The time has come to test yourselves, gamepad in hand, thanks to the first simulation offering 20 national teams (including France and Denmark) and 80 teams from the most prestigious leagues: the Ligue National de Handball (France), the Toyota Handball-Bundesliga (Germany) and the Liga Asobal (Spain). IHF Handball Challenge 14 also offers you some customization options : you can indeed create your own players and teams.\n\nIHF Handball Challenge 14 is a real simulation, with a wide variety of realistic movement: 8 types of shots, 4 types of passes and a variety of defensive actions allow you to feel the excitement of a real handball game.",
-  "VideoURL": "http://www.youtube.com/watch?v=UMrWcbPurQo",
-  "ESRB": "Not Rated",
-  "Genres": "Sports",
-  "Developer": "Neutron Games",
-  "Publisher": "BigBen Interactive",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_b91e7e49-05b9-4ef3-9354-ceb06d71efd5.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "311068274",
-        "URL": "http://images.launchbox-app.com/r2_b91e7e49-05b9-4ef3-9354-ceb06d71efd5.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_4f09452e-0cbd-4a43-bd02-bf20e48acf46.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3089537939",
+        "FileName": "r2_4f09452e-0cbd-4a43-bd02-bf20e48acf46.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_4f09452e-0cbd-4a43-bd02-bf20e48acf46.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "311068274",
+        "FileName": "r2_b91e7e49-05b9-4ef3-9354-ceb06d71efd5.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_b91e7e49-05b9-4ef3-9354-ceb06d71efd5.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "4ff62279-0ed7-4953-a3f0-4c92095ac719.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2492260736",
+          "FileName": "4ff62279-0ed7-4953-a3f0-4c92095ac719.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/4ff62279-0ed7-4953-a3f0-4c92095ac719.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "87cae03c-86a8-4944-b18c-2079647541f5.png",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2434660670",
+          "FileName": "87cae03c-86a8-4944-b18c-2079647541f5.png",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/87cae03c-86a8-4944-b18c-2079647541f5.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "988c73e8-ecc5-48cc-9301-9db0f178ec89.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3362101899",
+          "FileName": "988c73e8-ecc5-48cc-9301-9db0f178ec89.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/988c73e8-ecc5-48cc-9301-9db0f178ec89.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "5edac4fe-0fe0-47be-afd7-b31fe84975fc.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1771809175",
+        "FileName": "5edac4fe-0fe0-47be-afd7-b31fe84975fc.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/5edac4fe-0fe0-47be-afd7-b31fe84975fc.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "203847",
+  "Developer": "Neutron Games",
+  "ESRB": "Not Rated",
+  "Genres": "Sports",
+  "Name": "IHF Handball Challenge 14",
+  "Overview": "Get ready, handball fans! The time has come to test yourselves, gamepad in hand, thanks to the first simulation offering 20 national teams (including France and Denmark) and 80 teams from the most prestigious leagues: the Ligue National de Handball (France), the Toyota Handball-Bundesliga (Germany) and the Liga Asobal (Spain). IHF Handball Challenge 14 also offers you some customization options : you can indeed create your own players and teams.\n\nIHF Handball Challenge 14 is a real simulation, with a wide variety of realistic movement: 8 types of shots, 4 types of passes and a variety of defensive actions allow you to feel the excitement of a real handball game.",
+  "Publisher": "BigBen Interactive",
+  "ReleaseDate": "2014-03-28T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=UMrWcbPurQo"
 }

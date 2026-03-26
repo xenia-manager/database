@@ -1,76 +1,76 @@
 {
-  "Name": "Karaoke Revolution: Glee Vol. 3",
-  "DatabaseID": "167771",
-  "ReleaseDate": "2011-11-22T00:00:00+00:00",
-  "Overview": "The third installment of the Karaoke Revolution series based on the TV show Glee. It is the first to be ported to Xbox 360 and to feature HD graphics.\n\nIt has over 30 tracks from Glee season 2 to sing to, and the Xbox 360 version even has a few downloadable songs.\n\nTracks include:\n\n    \"Back to Black\" - Amy Winehouse\n    \"Billionaire\" - Travie McCoy featuring Bruno Mars\n    \"Blame It (On the Alcohol)\" - Jamie Foxx featuring T-Pain\n    \"Born This Way\" - Lady Gaga\n    \"Don't Go Breaking My Heart\" - Elton John and Kiki Dee\n    \"Fat Bottomed Girls\" - Queen\n    \"Firework\" - Katy Perry\n    \"Friday\" - Rebecca Black\n    \"Go Your Own Way\" - Fleetwood Mac\n    \"I Don't Want to Know\" - Fleetwood Mac\n    \"I Follow Rivers\" - Lykke Li\n    \"I Know What Boys Like\" - The Waitresses\n    \"I Look to You\" - Whitney Houston\n    \"I Want to Hold Your Hand\" - The Beatles\n    \"I've Gotta Be Me\" - Sammy Davis, Jr.\n    \"(I've Had) The Time of My Life\" - Bill Medley and Jennifer Warnes\n    \"Just the Way You Are\" - Bruno Mars\n    \"Last Christmas\" - Wham!\n    \"Loser Like Me\"\n    \"Losing My Religion\" - R.E.M.\n    \"Lucky\" - Jason Mraz and Colbie Caillat\n    \"Marry You\" - Bruno Mars\n    \"Never Going Back Again\" - Fleetwood Mac\n    \"One of Us\" - Joan Osborne\n    \"Only the Good Die Young\" - Billy Joel\n    \"P.Y.T. (Pretty Young Thing)\" - Michael Jackson\n    \"River Deep - Mountain High\" - Ike and Tina Turner\n    \"Somebody to Love\" - Justin Bieber\n    \"Songbird\" - Fleetwood Mac\n    \"Stop! In the Name of Love/Free Your Mind\" - Diana Ross & the Supremes/En Vogue\n    \"Sway\" - Michael Bublé\n    \"The Time Warp\" - The Rocky Horror Show\n    \"Toxic\" - Britney Spears\n    \"Valerie\" - Mark Ronson featuring Amy Winehouse\n\nXbox 360 downloadable tracks include:\n\n    \"Papa Can You Hear Me?\" - Barbra Streisand\n    \"Take Me Or Leave Me\" - RENT\n\nThe game features multiplayer modes for up to 6 players.",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Hijinx Studios",
-  "Publisher": "Konami Digital Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_5a7b3d5e-4952-417b-995f-ef2397c10f25.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3344952956",
-        "URL": "http://images.launchbox-app.com/r2_5a7b3d5e-4952-417b-995f-ef2397c10f25.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_e33a2b62-0dad-4e88-a125-2a920b3b0128.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2814397465",
+        "FileName": "r2_e33a2b62-0dad-4e88-a125-2a920b3b0128.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_e33a2b62-0dad-4e88-a125-2a920b3b0128.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3344952956",
+        "FileName": "r2_5a7b3d5e-4952-417b-995f-ef2397c10f25.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_5a7b3d5e-4952-417b-995f-ef2397c10f25.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "3564522794",
           "FileName": "713ccbc9-1b78-4ba0-8274-abcdf0974b98.png",
           "Type": "Box - 3D",
-          "CRC32": "3564522794",
           "URL": "http://images.launchbox-app.com/713ccbc9-1b78-4ba0-8274-abcdf0974b98.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_a3893268-d69e-42fa-b0ed-6be4579a08b2.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2868718418",
+          "FileName": "r2_a3893268-d69e-42fa-b0ed-6be4579a08b2.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_a3893268-d69e-42fa-b0ed-6be4579a08b2.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "f247254a-fc36-45dd-a49d-0a53aa3629c0.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1651183502",
+          "FileName": "f247254a-fc36-45dd-a49d-0a53aa3629c0.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f247254a-fc36-45dd-a49d-0a53aa3629c0.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_f5a2c294-2910-43fb-a563-bfdd6f975f9b.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "985345779",
+          "FileName": "r2_f5a2c294-2910-43fb-a563-bfdd6f975f9b.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_f5a2c294-2910-43fb-a563-bfdd6f975f9b.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_54cd1f8d-b7bf-4560-9ec5-ad1042d90c43.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3569879617",
+        "FileName": "r2_54cd1f8d-b7bf-4560-9ec5-ad1042d90c43.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_54cd1f8d-b7bf-4560-9ec5-ad1042d90c43.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "167771",
+  "Developer": "Hijinx Studios",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "Karaoke Revolution: Glee Vol. 3",
+  "Overview": "The third installment of the Karaoke Revolution series based on the TV show Glee. It is the first to be ported to Xbox 360 and to feature HD graphics.\n\nIt has over 30 tracks from Glee season 2 to sing to, and the Xbox 360 version even has a few downloadable songs.\n\nTracks include:\n\n    \"Back to Black\" - Amy Winehouse\n    \"Billionaire\" - Travie McCoy featuring Bruno Mars\n    \"Blame It (On the Alcohol)\" - Jamie Foxx featuring T-Pain\n    \"Born This Way\" - Lady Gaga\n    \"Don't Go Breaking My Heart\" - Elton John and Kiki Dee\n    \"Fat Bottomed Girls\" - Queen\n    \"Firework\" - Katy Perry\n    \"Friday\" - Rebecca Black\n    \"Go Your Own Way\" - Fleetwood Mac\n    \"I Don't Want to Know\" - Fleetwood Mac\n    \"I Follow Rivers\" - Lykke Li\n    \"I Know What Boys Like\" - The Waitresses\n    \"I Look to You\" - Whitney Houston\n    \"I Want to Hold Your Hand\" - The Beatles\n    \"I've Gotta Be Me\" - Sammy Davis, Jr.\n    \"(I've Had) The Time of My Life\" - Bill Medley and Jennifer Warnes\n    \"Just the Way You Are\" - Bruno Mars\n    \"Last Christmas\" - Wham!\n    \"Loser Like Me\"\n    \"Losing My Religion\" - R.E.M.\n    \"Lucky\" - Jason Mraz and Colbie Caillat\n    \"Marry You\" - Bruno Mars\n    \"Never Going Back Again\" - Fleetwood Mac\n    \"One of Us\" - Joan Osborne\n    \"Only the Good Die Young\" - Billy Joel\n    \"P.Y.T. (Pretty Young Thing)\" - Michael Jackson\n    \"River Deep - Mountain High\" - Ike and Tina Turner\n    \"Somebody to Love\" - Justin Bieber\n    \"Songbird\" - Fleetwood Mac\n    \"Stop! In the Name of Love/Free Your Mind\" - Diana Ross & the Supremes/En Vogue\n    \"Sway\" - Michael Bublé\n    \"The Time Warp\" - The Rocky Horror Show\n    \"Toxic\" - Britney Spears\n    \"Valerie\" - Mark Ronson featuring Amy Winehouse\n\nXbox 360 downloadable tracks include:\n\n    \"Papa Can You Hear Me?\" - Barbra Streisand\n    \"Take Me Or Leave Me\" - RENT\n\nThe game features multiplayer modes for up to 6 players.",
+  "Publisher": "Konami Digital Entertainment",
+  "ReleaseDate": "2011-11-22T00:00:00+00:00"
 }

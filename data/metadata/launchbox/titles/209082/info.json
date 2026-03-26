@@ -1,42 +1,42 @@
 {
-  "Name": "3 Point Contest",
-  "DatabaseID": "209082",
-  "ReleaseDate": "2012-11-20T00:00:00+00:00",
-  "Overview": "Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
-  "CommunityRating": "3.1875",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Rare",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_4695e854-cd91-4ae5-a3f6-88eda6226772.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3752277046",
-        "URL": "http://images.launchbox-app.com/r2_4695e854-cd91-4ae5-a3f6-88eda6226772.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_566c18de-fcba-42d1-9ae6-ad9b94e75613.png",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3547212734",
+        "FileName": "r2_566c18de-fcba-42d1-9ae6-ad9b94e75613.png",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_566c18de-fcba-42d1-9ae6-ad9b94e75613.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3752277046",
+        "FileName": "r2_4695e854-cd91-4ae5-a3f6-88eda6226772.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_4695e854-cd91-4ae5-a3f6-88eda6226772.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "41532e20-6c83-4eca-9f11-5d4709380fea.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3701233964",
+          "FileName": "41532e20-6c83-4eca-9f11-5d4709380fea.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/41532e20-6c83-4eca-9f11-5d4709380fea.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "3.1875",
+  "DatabaseID": "209082",
+  "Developer": "Rare",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "3 Point Contest",
+  "Overview": "Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2012-11-20T00:00:00+00:00"
 }

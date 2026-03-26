@@ -1,23 +1,23 @@
 {
-  "Name": "CatSaber",
-  "DatabaseID": "468370",
-  "ReleaseDate": "2011-11-02T00:00:00+00:00",
-  "Overview": "This is a game of a cat fighter wielding a sword of light.\n\nPress and hold the A button, which keeps the sword of light ready for the cat. You can call up enemies by pressing the X button.\n\nAim for as high score as possible within the time limit.",
-  "VideoURL": "https://youtu.be/vtyjZt9RcKc",
-  "Genres": "Action",
-  "Developer": "Necotokusoft",
-  "Publisher": "Necotokusoft",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "5555d36a-98ab-480d-ae88-afe97d3296bf.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "385865695",
+          "FileName": "5555d36a-98ab-480d-ae88-afe97d3296bf.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5555d36a-98ab-480d-ae88-afe97d3296bf.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468370",
+  "Developer": "Necotokusoft",
+  "Genres": "Action",
+  "Name": "CatSaber",
+  "Overview": "This is a game of a cat fighter wielding a sword of light.\n\nPress and hold the A button, which keeps the sword of light ready for the cat. You can call up enemies by pressing the X button.\n\nAim for as high score as possible within the time limit.",
+  "Publisher": "Necotokusoft",
+  "ReleaseDate": "2011-11-02T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/vtyjZt9RcKc"
 }

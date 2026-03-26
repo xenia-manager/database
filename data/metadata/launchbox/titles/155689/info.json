@@ -1,77 +1,77 @@
 {
-  "Name": "Galaga Legions",
-  "DatabaseID": "155689",
-  "ReleaseDate": "2008-08-20T00:00:00+00:00",
-  "Overview": "The alien Galaga army is once again attacking Earth. Taking the same design philosophy as Pac-Man: Championship Edition, Galaga Legions is a complete overhaul of the 1981 original. Waves of various types of enemy ships invade the screen from all directions, their appearance marked by an orange line tracing their path. In addition to standard firing, the player's ship is also equipped with two invulnerable satellites that can detach from the main ship, fire in any of the four cardinal directions, and be easily recalled to the main ship.\n\nThe game features five stages and two different modes: Adventure, where each stage is tackled in order; and Championship, where each stage is attacked on its own for high score. As the game is played, bonus skins for the player and enemies are unlocked.",
-  "VideoURL": "https://www.youtube.com/watch?v=r7oOzhvHYVk",
-  "CommunityRating": "3.27272727272727",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Galaga_Legions",
-  "ESRB": "E - Everyone",
-  "Genres": "Shooter",
-  "Developer": "Namco Bandai Games",
-  "Publisher": "Namco Bandai Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "7b9fd469-2fae-4cc7-89d8-1b377af5aec9.png",
-        "Type": "Banner",
-        "CRC32": "3986831244",
-        "URL": "http://images.launchbox-app.com/7b9fd469-2fae-4cc7-89d8-1b377af5aec9.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "5079104",
         "FileName": "8e7b80dc-f662-476f-a6aa-145f0eabe219.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "5079104",
         "URL": "http://images.launchbox-app.com/8e7b80dc-f662-476f-a6aa-145f0eabe219.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3986831244",
+        "FileName": "7b9fd469-2fae-4cc7-89d8-1b377af5aec9.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/7b9fd469-2fae-4cc7-89d8-1b377af5aec9.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "aabd27a4-7064-4368-894f-97005dc12e28.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1485433994",
+          "FileName": "aabd27a4-7064-4368-894f-97005dc12e28.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/aabd27a4-7064-4368-894f-97005dc12e28.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "1188825178",
+        "FileName": "r2_4558b1dd-f15d-4e6b-81a2-ed593d3a6950.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_4558b1dd-f15d-4e6b-81a2-ed593d3a6950.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "643580618",
         "FileName": "89f3397b-d1a4-498f-91af-85d5c6746271.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "643580618",
         "URL": "http://images.launchbox-app.com/89f3397b-d1a4-498f-91af-85d5c6746271.jpg"
       },
       {
+        "CRC32": "3919721084",
         "FileName": "565071db-9854-40e6-b152-6cb3b3c17edc.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "3919721084",
         "URL": "http://images.launchbox-app.com/565071db-9854-40e6-b152-6cb3b3c17edc.jpg"
       },
       {
+        "CRC32": "2353333931",
         "FileName": "a7db401c-7ae0-465b-ad7c-449919dac4a7.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2353333931",
         "URL": "http://images.launchbox-app.com/a7db401c-7ae0-465b-ad7c-449919dac4a7.jpg"
       },
       {
+        "CRC32": "2491756642",
         "FileName": "ee97ff30-0668-4ff5-a2d4-b2b413e10c34.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2491756642",
         "URL": "http://images.launchbox-app.com/ee97ff30-0668-4ff5-a2d4-b2b413e10c34.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "r2_4558b1dd-f15d-4e6b-81a2-ed593d3a6950.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "1188825178",
-        "URL": "http://images.launchbox-app.com/r2_4558b1dd-f15d-4e6b-81a2-ed593d3a6950.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.27272727272727",
+  "DatabaseID": "155689",
+  "Developer": "Namco Bandai Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Shooter",
+  "Name": "Galaga Legions",
+  "Overview": "The alien Galaga army is once again attacking Earth. Taking the same design philosophy as Pac-Man: Championship Edition, Galaga Legions is a complete overhaul of the 1981 original. Waves of various types of enemy ships invade the screen from all directions, their appearance marked by an orange line tracing their path. In addition to standard firing, the player's ship is also equipped with two invulnerable satellites that can detach from the main ship, fire in any of the four cardinal directions, and be easily recalled to the main ship.\n\nThe game features five stages and two different modes: Adventure, where each stage is tackled in order; and Championship, where each stage is attacked on its own for high score. As the game is played, bonus skins for the player and enemies are unlocked.",
+  "Publisher": "Namco Bandai Games",
+  "ReleaseDate": "2008-08-20T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=r7oOzhvHYVk",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Galaga_Legions"
 }

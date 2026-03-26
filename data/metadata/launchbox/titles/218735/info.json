@@ -1,66 +1,66 @@
 {
-  "Name": "Karaoke Revolution",
-  "DatabaseID": "218735",
-  "ReleaseDate": "2009-11-24T00:00:00+00:00",
-  "Overview": "The player is depicted as a character on-screen performing at a public venue. The words to the song scroll right-to-left at the bottom of the screen, above a piano roll representation of the relative pitches at which they are to be sung (the game calls these \"note tubes\"). At the left end of this area, a \"pitch arrow\" shows the pitch which the player is singing and provides feedback on whether s/he's hitting the notes. A \"crowd meter\" shows the mood of the crowd as the player sings; if s/he does a good job of hitting notes on-pitch then the crowd will cheer more loudly and clap in rhythm with the song, and the scene will become more vividly animated. If the crowd meter falls all the way to the lowest rating, the audience will boo the character off-stage and the game is over. New to this iteration of the series is a deep character customization mode, in which players can change facial features, age, ethnicity and weight, along with various clothes and full outfits that comes pre-equipped with some accessories.",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Blitz Games",
-  "Publisher": "Konami",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_9f710eb4-643e-4a14-a24d-e7d7166f502f.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1407345296",
-        "URL": "http://images.launchbox-app.com/r2_9f710eb4-643e-4a14-a24d-e7d7166f502f.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_6d809e48-f6f5-43de-80d5-ecbc06f65049.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "696006666",
+        "FileName": "r2_6d809e48-f6f5-43de-80d5-ecbc06f65049.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_6d809e48-f6f5-43de-80d5-ecbc06f65049.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1407345296",
+        "FileName": "r2_9f710eb4-643e-4a14-a24d-e7d7166f502f.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_9f710eb4-643e-4a14-a24d-e7d7166f502f.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "627767d3-78da-4045-a58d-3d0d2eabd5b9.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "878678322",
+          "FileName": "627767d3-78da-4045-a58d-3d0d2eabd5b9.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/627767d3-78da-4045-a58d-3d0d2eabd5b9.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "bf6a4695-ab0c-4e8d-a255-7fb0556c9dbc.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3330611136",
+        "FileName": "bf6a4695-ab0c-4e8d-a255-7fb0556c9dbc.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/bf6a4695-ab0c-4e8d-a255-7fb0556c9dbc.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_2a0ca2b3-ac98-4ee6-96cf-5c0bf84ad066.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3961552436",
+        "FileName": "r2_2a0ca2b3-ac98-4ee6-96cf-5c0bf84ad066.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_2a0ca2b3-ac98-4ee6-96cf-5c0bf84ad066.png"
       },
       {
-        "FileName": "r2_daa4de19-fe72-4ff3-b18f-73ec63c2f4f1.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "790027624",
+        "FileName": "r2_daa4de19-fe72-4ff3-b18f-73ec63c2f4f1.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_daa4de19-fe72-4ff3-b18f-73ec63c2f4f1.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "218735",
+  "Developer": "Blitz Games",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "Karaoke Revolution",
+  "Overview": "The player is depicted as a character on-screen performing at a public venue. The words to the song scroll right-to-left at the bottom of the screen, above a piano roll representation of the relative pitches at which they are to be sung (the game calls these \"note tubes\"). At the left end of this area, a \"pitch arrow\" shows the pitch which the player is singing and provides feedback on whether s/he's hitting the notes. A \"crowd meter\" shows the mood of the crowd as the player sings; if s/he does a good job of hitting notes on-pitch then the crowd will cheer more loudly and clap in rhythm with the song, and the scene will become more vividly animated. If the crowd meter falls all the way to the lowest rating, the audience will boo the character off-stage and the game is over. New to this iteration of the series is a deep character customization mode, in which players can change facial features, age, ethnicity and weight, along with various clothes and full outfits that comes pre-equipped with some accessories.",
+  "Publisher": "Konami",
+  "ReleaseDate": "2009-11-24T00:00:00+00:00"
 }

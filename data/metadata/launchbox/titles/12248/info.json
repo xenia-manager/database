@@ -1,110 +1,110 @@
 {
-  "Name": "Inversion",
-  "DatabaseID": "12248",
-  "ReleaseDate": "2012-06-05T00:00:00+00:00",
-  "Overview": "Take on the role of a young father and husband, Davis Russell, who finds himself thrust into war when his peaceful city is invaded by an unknown enemy. With his daughter missing and conventional weapons and tactics all but useless, this ordinary cop and his partner Leo Delgado will rise up to heed the call of duty, master the fundamental forces of gravity and save the world.",
-  "VideoURL": "https://www.youtube.com/watch?v=GGgsMT6ki70",
-  "CommunityRating": "3.91666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Inversion_(video_game)",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Saber Interactive",
-  "Publisher": "Namco Bandai Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_c2dec832-efe8-46b8-96b7-9d2d05db5cc8.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3247209641",
-        "URL": "http://images.launchbox-app.com/r2_c2dec832-efe8-46b8-96b7-9d2d05db5cc8.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_fe04112e-72cf-4af3-bfa5-a1156b1e89aa.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1771141843",
+        "FileName": "r2_7b9fa6a1-21d8-4c61-b6c6-902f950cacf9.jpg",
         "Region": "World",
-        "CRC32": "2232896014",
-        "URL": "http://images.launchbox-app.com/r2_fe04112e-72cf-4af3-bfa5-a1156b1e89aa.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_7b9fa6a1-21d8-4c61-b6c6-902f950cacf9.jpg"
       },
       {
-        "FileName": "r2_7b9fa6a1-21d8-4c61-b6c6-902f950cacf9.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "2232896014",
+        "FileName": "r2_fe04112e-72cf-4af3-bfa5-a1156b1e89aa.jpg",
         "Region": "World",
-        "CRC32": "1771141843",
-        "URL": "http://images.launchbox-app.com/r2_7b9fa6a1-21d8-4c61-b6c6-902f950cacf9.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_fe04112e-72cf-4af3-bfa5-a1156b1e89aa.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3247209641",
+        "FileName": "r2_c2dec832-efe8-46b8-96b7-9d2d05db5cc8.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_c2dec832-efe8-46b8-96b7-9d2d05db5cc8.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "b420b91c-b82a-49a1-a60d-02b4ea02612d.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2183039653",
+          "FileName": "b420b91c-b82a-49a1-a60d-02b4ea02612d.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/b420b91c-b82a-49a1-a60d-02b4ea02612d.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_fe7a810e-a7df-470a-8f5b-62224d7cd7d2.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1289838210",
+          "FileName": "r2_fe7a810e-a7df-470a-8f5b-62224d7cd7d2.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_fe7a810e-a7df-470a-8f5b-62224d7cd7d2.jpg"
         },
         {
-          "FileName": "143a95ff-5fb9-4851-b388-f8830b6981c2.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1434561439",
+          "FileName": "143a95ff-5fb9-4851-b388-f8830b6981c2.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/143a95ff-5fb9-4851-b388-f8830b6981c2.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_78a0324a-066d-4445-8b3e-ea86ff60f000.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "1183135265",
+          "FileName": "r2_78a0324a-066d-4445-8b3e-ea86ff60f000.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_78a0324a-066d-4445-8b3e-ea86ff60f000.jpg"
         },
         {
-          "FileName": "bd9c2ec9-6398-451e-9ff7-bb4c4555a25f.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "605402022",
+          "FileName": "bd9c2ec9-6398-451e-9ff7-bb4c4555a25f.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/bd9c2ec9-6398-451e-9ff7-bb4c4555a25f.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "4b2c8676-ebb5-4493-93e4-e95aeb94f859.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3667134851",
+          "FileName": "4b2c8676-ebb5-4493-93e4-e95aeb94f859.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/4b2c8676-ebb5-4493-93e4-e95aeb94f859.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_76a63991-f0d0-4604-ab45-caba66eb9c30.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3912385992",
+        "FileName": "r2_76a63991-f0d0-4604-ab45-caba66eb9c30.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_76a63991-f0d0-4604-ab45-caba66eb9c30.png"
       }
     ],
     "Other": [
       {
-        "FileName": "1fa5f444-7dbc-4f06-b777-6c4d00a16617.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3884608350",
+        "FileName": "1fa5f444-7dbc-4f06-b777-6c4d00a16617.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/1fa5f444-7dbc-4f06-b777-6c4d00a16617.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.91666666666667",
+  "DatabaseID": "12248",
+  "Developer": "Saber Interactive",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Inversion",
+  "Overview": "Take on the role of a young father and husband, Davis Russell, who finds himself thrust into war when his peaceful city is invaded by an unknown enemy. With his daughter missing and conventional weapons and tactics all but useless, this ordinary cop and his partner Leo Delgado will rise up to heed the call of duty, master the fundamental forces of gravity and save the world.",
+  "Publisher": "Namco Bandai Games",
+  "ReleaseDate": "2012-06-05T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=GGgsMT6ki70",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Inversion_(video_game)"
 }

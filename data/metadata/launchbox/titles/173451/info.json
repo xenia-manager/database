@@ -1,78 +1,78 @@
 {
-  "Name": "King's Quest: The Complete Collection",
-  "DatabaseID": "173451",
-  "ReleaseDate": "2015-07-28T00:00:00+00:00",
-  "Overview": "King's Quest: The Complete Collection is a five-part episodic adventure series and a reboot/re-imagining of the classic King's Quest adventure franchise. The protagonist is Graham, the same protagonist who first appeared in the original King's Quest in 1984. The entire game is told as a flashback narrated by the old Graham to his granddaughter Gwendolyn, similar to the story structure of King's Quest VII: The Princeless Bride, set in a fantasy universe and with a humorous tone. When Graham dies in the game, he often rewinds the story a bit or remarks it was not what he did. His narration is also heard during regular gameplay, especially for descriptions of the environment. The game offers entirely new stories and characters, but they often reference the earlier games. The new stories are not told in a chronological order and they are interspersed with sections in the present that revolve around Gwendolyn.\n\nThe game environment is shown through different perspectives for each scene with scrolling parts, but the camera cannot be controlled. Visually it has a cel-shaded graphical style. The player can move Graham freely in the 3D environment. When he is close to an interesting element, this is signified through one or multiple icons in the bottom right corner of the screen. The player can choose to examine, interact or pick up. Collected items are stored in an inventory. In many locations it is possible to switch to a first-person perspective to examine the environment. The game largely focuses on the story and puzzle-solving, but there is also a large amount of exploration of the environment and action sequences with escapes and fighting. Graham often needs to run and he can also push or manipulate objects in various ways, which is more prominent than using items in the inventory. These sections are sometimes shown from a first-person perspective. There are also many cut-scenes, on-rails sequences and some Quick Time Events.\n\nThe game incorporates choices and consequences in various ways and they are carried across episodes. There are many branching dialogue options (without a timer unlike in many Telltale games) that lead to different outcomes. In addition, puzzles often have multiple approaches without a fixed solution. The game initially starts in a confined environment, but soon opens up with a large place to explore. The way Graham solves puzzles also has consequences, for instance by choosing to involve a specific character when this leads to a negative outcome. Generally there are three types of choices to make or paths to follow: bravery, wisdom or compassion, even though these are never mentioned explicitly. This affects the story and especially the way Gwendoline will act in the present as her grandfather's stories are the inspiration for her acts. These choices were sometimes also present in the early King's Quest game, for instance the way Graham could deal with the dragon in the first game.",
-  "CommunityRating": "3.33333333333333",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Adventure",
-  "Developer": "The Odd Gentlemen",
-  "Publisher": "Sierra",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_18cc6784-5207-4ef8-8280-bfd33dcfdc60.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1021071531",
-        "URL": "http://images.launchbox-app.com/r2_18cc6784-5207-4ef8-8280-bfd33dcfdc60.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_98fc1edb-7da0-4f3d-add8-383f60d13d46.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3270255983",
+        "FileName": "r2_98fc1edb-7da0-4f3d-add8-383f60d13d46.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_98fc1edb-7da0-4f3d-add8-383f60d13d46.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1021071531",
+        "FileName": "r2_18cc6784-5207-4ef8-8280-bfd33dcfdc60.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_18cc6784-5207-4ef8-8280-bfd33dcfdc60.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_54e19446-1c0e-4c8b-9e2a-66a84ce472c7.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "59471018",
+          "FileName": "r2_54e19446-1c0e-4c8b-9e2a-66a84ce472c7.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_54e19446-1c0e-4c8b-9e2a-66a84ce472c7.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "a56ec6ac-33dc-43c0-be27-92fcce7d590f.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3852006449",
+          "FileName": "a56ec6ac-33dc-43c0-be27-92fcce7d590f.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a56ec6ac-33dc-43c0-be27-92fcce7d590f.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_6f7798b0-87e2-4841-9848-c79a3b64bc4b.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3780619258",
+          "FileName": "r2_6f7798b0-87e2-4841-9848-c79a3b64bc4b.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_6f7798b0-87e2-4841-9848-c79a3b64bc4b.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_8c86b339-aa0c-442c-8c03-ba7edfade34b.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2084182370",
+        "FileName": "r2_8c86b339-aa0c-442c-8c03-ba7edfade34b.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_8c86b339-aa0c-442c-8c03-ba7edfade34b.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_d2685b35-d1d1-4f54-a468-c963759da546.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1701268861",
+        "FileName": "r2_d2685b35-d1d1-4f54-a468-c963759da546.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_d2685b35-d1d1-4f54-a468-c963759da546.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.33333333333333",
+  "DatabaseID": "173451",
+  "Developer": "The Odd Gentlemen",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Adventure",
+  "Name": "King's Quest: The Complete Collection",
+  "Overview": "King's Quest: The Complete Collection is a five-part episodic adventure series and a reboot/re-imagining of the classic King's Quest adventure franchise. The protagonist is Graham, the same protagonist who first appeared in the original King's Quest in 1984. The entire game is told as a flashback narrated by the old Graham to his granddaughter Gwendolyn, similar to the story structure of King's Quest VII: The Princeless Bride, set in a fantasy universe and with a humorous tone. When Graham dies in the game, he often rewinds the story a bit or remarks it was not what he did. His narration is also heard during regular gameplay, especially for descriptions of the environment. The game offers entirely new stories and characters, but they often reference the earlier games. The new stories are not told in a chronological order and they are interspersed with sections in the present that revolve around Gwendolyn.\n\nThe game environment is shown through different perspectives for each scene with scrolling parts, but the camera cannot be controlled. Visually it has a cel-shaded graphical style. The player can move Graham freely in the 3D environment. When he is close to an interesting element, this is signified through one or multiple icons in the bottom right corner of the screen. The player can choose to examine, interact or pick up. Collected items are stored in an inventory. In many locations it is possible to switch to a first-person perspective to examine the environment. The game largely focuses on the story and puzzle-solving, but there is also a large amount of exploration of the environment and action sequences with escapes and fighting. Graham often needs to run and he can also push or manipulate objects in various ways, which is more prominent than using items in the inventory. These sections are sometimes shown from a first-person perspective. There are also many cut-scenes, on-rails sequences and some Quick Time Events.\n\nThe game incorporates choices and consequences in various ways and they are carried across episodes. There are many branching dialogue options (without a timer unlike in many Telltale games) that lead to different outcomes. In addition, puzzles often have multiple approaches without a fixed solution. The game initially starts in a confined environment, but soon opens up with a large place to explore. The way Graham solves puzzles also has consequences, for instance by choosing to involve a specific character when this leads to a negative outcome. Generally there are three types of choices to make or paths to follow: bravery, wisdom or compassion, even though these are never mentioned explicitly. This affects the story and especially the way Gwendoline will act in the present as her grandfather's stories are the inspiration for her acts. These choices were sometimes also present in the early King's Quest game, for instance the way Graham could deal with the dragon in the first game.",
+  "Publisher": "Sierra",
+  "ReleaseDate": "2015-07-28T00:00:00+00:00"
 }

@@ -1,127 +1,127 @@
 {
-  "Name": "Dungeon Siege III",
-  "DatabaseID": "13159",
-  "ReleaseDate": "2011-06-17T00:00:00+00:00",
-  "Overview": "Dungeon Siege III is a role-playing game with action combat, set in the medieval fantasy world Ehb. It was under attack (and defeated) by the mysterious woman Jeyne Kassynder - and her new goal seems to be to destroy everything and everyone connected to the Montbarron family, the land's elite guards. The player takes the role of one of four persons (the fighter Lucas, the fire creature Anjali, the archer Katarina or the mage Reinhart) with a close connection with said family and the ultimate goal to save their lives, uncovering the truth behind Kassynder and her plot.\n\nThe combat system has certain dissimilarities compared to the previous entries in the series; while those were made for mouse and keyboard controls, Dungeon Siege III is primarily designed for gamepads - which means direct controls instead of indirect clicking. The player directly controls the character movement and the direction of the attacks, and activates special attacks (which use focus energy) with a button. A big difference from regular RPGs is the absence of health, mana and focus potions - the character needs to pick up refreshing, coloured balls which are dropped by killed enemies.\n\nDuring the course of the game the player meets the other three characters and takes one of them with him into combat. This fighting companion is controlled by the AI, but the player chooses the gear and makes the level up decisions - just like with the main character. Every killed enemy and solved quest gives experience points; a sufficient amount of those results in a level up. The skills are divided into ten passive talents and nine active special attacks (abilities) which are different from character to character. Both can be improved in five steps, but the abilities also feature two different specializations, e.g. damage or speed. The abilities are assigned to the three stances: one- handed, two-handed or defensive.\n\nDungeon Siege III also features many dialogues with smaller or bigger changes depending on the used character. Like in other Obsidian games, the player often has to make choices which have influence on how the quest is solved, e.g. with combat or peacefully, and how the quest ends. Consequences of those decisions reach through the whole game and even slightly change the main quest, for example if a faction supports the heroes in a big fight.",
-  "CommunityRating": "3.125",
-  "ESRB": "T - Teen",
-  "Genres": "Action; Adventure",
-  "Developer": "Obsidian Entertainment",
-  "Publisher": "Square Enix",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_6385e439-5797-4286-b865-b86a25e6cffe.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1789452214",
-        "URL": "http://images.launchbox-app.com/r2_6385e439-5797-4286-b865-b86a25e6cffe.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_c6b02b47-89ee-4fff-9ddb-5f40d77a1a24.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3660268192",
+        "FileName": "r2_c6b02b47-89ee-4fff-9ddb-5f40d77a1a24.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_c6b02b47-89ee-4fff-9ddb-5f40d77a1a24.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1789452214",
+        "FileName": "r2_6385e439-5797-4286-b865-b86a25e6cffe.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_6385e439-5797-4286-b865-b86a25e6cffe.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_2b4d5b48-2f21-4336-8789-97c69019d97b.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2459364673",
+          "FileName": "r2_2b4d5b48-2f21-4336-8789-97c69019d97b.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_2b4d5b48-2f21-4336-8789-97c69019d97b.png"
         }
       ],
       "Back": [
         {
-          "FileName": "b0a2cfcc-bfb6-40a9-8dea-7c57effa749a.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "1750950191",
+          "FileName": "b0a2cfcc-bfb6-40a9-8dea-7c57effa749a.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/b0a2cfcc-bfb6-40a9-8dea-7c57effa749a.jpg"
         },
         {
-          "FileName": "r2_a3db4969-e956-4b4c-a477-665f35db0939.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1494679853",
+          "FileName": "r2_a3db4969-e956-4b4c-a477-665f35db0939.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_a3db4969-e956-4b4c-a477-665f35db0939.jpg"
         },
         {
-          "FileName": "b144b13c-ed2d-4fda-aeea-be25d0ba154a.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3203010095",
+          "FileName": "b144b13c-ed2d-4fda-aeea-be25d0ba154a.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/b144b13c-ed2d-4fda-aeea-be25d0ba154a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "52b102fe-accb-4dd2-ac8b-74d0877c5875.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2791535685",
+          "FileName": "52b102fe-accb-4dd2-ac8b-74d0877c5875.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/52b102fe-accb-4dd2-ac8b-74d0877c5875.jpg"
         },
         {
-          "FileName": "r2_ef8f9c98-e3e3-4509-8337-06b15ce4be19.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3803574913",
+          "FileName": "r2_ef8f9c98-e3e3-4509-8337-06b15ce4be19.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_ef8f9c98-e3e3-4509-8337-06b15ce4be19.jpg"
         },
         {
-          "FileName": "af2592f2-dc09-45f7-8851-a552cb3b82b0.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1455602167",
+          "FileName": "af2592f2-dc09-45f7-8851-a552cb3b82b0.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/af2592f2-dc09-45f7-8851-a552cb3b82b0.jpg"
         },
         {
-          "FileName": "r2_ac32e4a4-af5b-4333-98ed-de4d46c31f2f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "146473613",
+          "FileName": "r2_ac32e4a4-af5b-4333-98ed-de4d46c31f2f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_ac32e4a4-af5b-4333-98ed-de4d46c31f2f.jpg"
         },
         {
-          "FileName": "5a867031-f976-4b9c-93d3-02387a40e527.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "2600654907",
+          "FileName": "5a867031-f976-4b9c-93d3-02387a40e527.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/5a867031-f976-4b9c-93d3-02387a40e527.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "61afcfd3-e979-4bdb-bd77-d444a9f428b3.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "759308333",
+        "FileName": "61afcfd3-e979-4bdb-bd77-d444a9f428b3.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/61afcfd3-e979-4bdb-bd77-d444a9f428b3.png"
       },
       {
-        "FileName": "r2_62191c52-b1dd-49d8-b9f9-45f97c5f45f5.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "4120331229",
+        "FileName": "r2_62191c52-b1dd-49d8-b9f9-45f97c5f45f5.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_62191c52-b1dd-49d8-b9f9-45f97c5f45f5.png"
       }
     ],
     "Other": [
       {
-        "FileName": "4af5e6eb-0092-4c4e-8592-ecd465744ed9.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1727269298",
+        "FileName": "4af5e6eb-0092-4c4e-8592-ecd465744ed9.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/4af5e6eb-0092-4c4e-8592-ecd465744ed9.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.125",
+  "DatabaseID": "13159",
+  "Developer": "Obsidian Entertainment",
+  "ESRB": "T - Teen",
+  "Genres": "Action; Adventure",
+  "Name": "Dungeon Siege III",
+  "Overview": "Dungeon Siege III is a role-playing game with action combat, set in the medieval fantasy world Ehb. It was under attack (and defeated) by the mysterious woman Jeyne Kassynder - and her new goal seems to be to destroy everything and everyone connected to the Montbarron family, the land's elite guards. The player takes the role of one of four persons (the fighter Lucas, the fire creature Anjali, the archer Katarina or the mage Reinhart) with a close connection with said family and the ultimate goal to save their lives, uncovering the truth behind Kassynder and her plot.\n\nThe combat system has certain dissimilarities compared to the previous entries in the series; while those were made for mouse and keyboard controls, Dungeon Siege III is primarily designed for gamepads - which means direct controls instead of indirect clicking. The player directly controls the character movement and the direction of the attacks, and activates special attacks (which use focus energy) with a button. A big difference from regular RPGs is the absence of health, mana and focus potions - the character needs to pick up refreshing, coloured balls which are dropped by killed enemies.\n\nDuring the course of the game the player meets the other three characters and takes one of them with him into combat. This fighting companion is controlled by the AI, but the player chooses the gear and makes the level up decisions - just like with the main character. Every killed enemy and solved quest gives experience points; a sufficient amount of those results in a level up. The skills are divided into ten passive talents and nine active special attacks (abilities) which are different from character to character. Both can be improved in five steps, but the abilities also feature two different specializations, e.g. damage or speed. The abilities are assigned to the three stances: one- handed, two-handed or defensive.\n\nDungeon Siege III also features many dialogues with smaller or bigger changes depending on the used character. Like in other Obsidian games, the player often has to make choices which have influence on how the quest is solved, e.g. with combat or peacefully, and how the quest ends. Consequences of those decisions reach through the whole game and even slightly change the main quest, for example if a faction supports the heroes in a big fight.",
+  "Publisher": "Square Enix",
+  "ReleaseDate": "2011-06-17T00:00:00+00:00"
 }

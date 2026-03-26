@@ -1,39 +1,39 @@
 {
-  "Name": "Game Type",
-  "DatabaseID": "469682",
-  "ReleaseDate": "2011-12-21T00:00:00+00:00",
-  "Overview": "Help Hoodie Girl fight the evil MediaBall's inane advertisements and get a new high score!\n\nA game in two parts: First, brave your way through a confusing maze of menus, then take to the air as the indefatigable \"Hoodie Girl\" and blast sentient advertisements into cold, hard cash!",
-  "VideoURL": "https://youtu.be/Lryv9cI-KNc",
-  "Genres": "Shooter",
-  "Developer": "Mommy's Best Games",
-  "Publisher": "Mommy's Best Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "1e0d8c0b-50ba-4503-aab0-8070c2a38782.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3651631543",
+          "FileName": "1e0d8c0b-50ba-4503-aab0-8070c2a38782.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1e0d8c0b-50ba-4503-aab0-8070c2a38782.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "e145f55b-f257-44ba-8312-eb961bcc63db.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2265744004",
+        "FileName": "a1e57e2e-102f-4534-989b-825d6c5146c5.jpg",
         "Region": "World",
-        "CRC32": "1169768701",
-        "URL": "http://images.launchbox-app.com/e145f55b-f257-44ba-8312-eb961bcc63db.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a1e57e2e-102f-4534-989b-825d6c5146c5.jpg"
       },
       {
-        "FileName": "a1e57e2e-102f-4534-989b-825d6c5146c5.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1169768701",
+        "FileName": "e145f55b-f257-44ba-8312-eb961bcc63db.jpg",
         "Region": "World",
-        "CRC32": "2265744004",
-        "URL": "http://images.launchbox-app.com/a1e57e2e-102f-4534-989b-825d6c5146c5.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/e145f55b-f257-44ba-8312-eb961bcc63db.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469682",
+  "Developer": "Mommy's Best Games",
+  "Genres": "Shooter",
+  "Name": "Game Type",
+  "Overview": "Help Hoodie Girl fight the evil MediaBall's inane advertisements and get a new high score!\n\nA game in two parts: First, brave your way through a confusing maze of menus, then take to the air as the indefatigable \"Hoodie Girl\" and blast sentient advertisements into cold, hard cash!",
+  "Publisher": "Mommy's Best Games",
+  "ReleaseDate": "2011-12-21T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/Lryv9cI-KNc"
 }

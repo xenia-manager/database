@@ -1,67 +1,68 @@
 {
-  "Name": "Cabela's Outdoor Adventures",
-  "DatabaseID": "15340",
-  "ReleaseDate": "2009-09-09T00:00:00+00:00",
-  "Overview": "Cabela's Outdoor Adventures is a hunting video game released in 2005 by Activision. The game gives a player the ability to drive vehicles, fish and hunt. This is the very first video game to hunt and fish all in one game. There are 11 exotic locations, 32 animals to hunt and harvest, thousands of Cabela's gear options and much more. Some of the animals in the game include White-tailed deer, Mule deer, bear, moose, coyote, Bobcat, Lynx and many more.",
-  "CommunityRating": "4.5",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter; Sports",
-  "Publisher": "Activision",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7446b8f3-93a9-41c4-86ad-00c78e6132f1.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3955942198",
-        "URL": "http://images.launchbox-app.com/r2_7446b8f3-93a9-41c4-86ad-00c78e6132f1.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_29712d05-e081-4b50-9f07-ce501963558c.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3486796125",
+        "FileName": "r2_29712d05-e081-4b50-9f07-ce501963558c.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_29712d05-e081-4b50-9f07-ce501963558c.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3955942198",
+        "FileName": "r2_7446b8f3-93a9-41c4-86ad-00c78e6132f1.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7446b8f3-93a9-41c4-86ad-00c78e6132f1.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "41ccc9bc-17a7-4fc4-8be4-f71d3c653fbe.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1359624766",
+          "FileName": "41ccc9bc-17a7-4fc4-8be4-f71d3c653fbe.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/41ccc9bc-17a7-4fc4-8be4-f71d3c653fbe.png"
         }
       ],
       "Front": [
         {
-          "FileName": "8fc74ee2-2213-4151-ade5-fb5ea9027ce5.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "4193576379",
+          "FileName": "8fc74ee2-2213-4151-ade5-fb5ea9027ce5.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8fc74ee2-2213-4151-ade5-fb5ea9027ce5.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_a8d49d71-44a2-478b-82e4-230cab35be8a.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3250587827",
+        "FileName": "r2_a8d49d71-44a2-478b-82e4-230cab35be8a.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_a8d49d71-44a2-478b-82e4-230cab35be8a.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1690203531",
         "FileName": "5d204b84-5381-4ad3-b205-68e314ef2cca.png",
         "Type": "Clear Logo",
-        "CRC32": "1690203531",
         "URL": "http://images.launchbox-app.com/5d204b84-5381-4ad3-b205-68e314ef2cca.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "15340",
+  "Developer": "FUN Labs Romania",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter; Sports",
+  "Name": "Cabela's Outdoor Adventures",
+  "Overview": "Cabela's Outdoor Adventures is a hunting video game released in 2005 by Activision. The game gives a player the ability to drive vehicles, fish and hunt. This is the very first video game to hunt and fish all in one game. There are 11 exotic locations, 32 animals to hunt and harvest, thousands of Cabela's gear options and much more. Some of the animals in the game include White-tailed deer, Mule deer, bear, moose, coyote, Bobcat, Lynx and many more.",
+  "Publisher": "Activision Publishing",
+  "ReleaseDate": "2009-09-09T00:00:00+00:00"
 }

@@ -1,105 +1,105 @@
 {
-  "Name": "Dark Sector",
-  "DatabaseID": "82",
-  "ReleaseDate": "2008-03-25T00:00:00+00:00",
-  "Overview": "A new kind of weapon for a new kind of hero. \n\nDark Sector is a third-person Action/Shooter that thrusts players into a sci-fi flavored nightmare scenario set in the post Cold War era. Playing in the role of Hayden Tenno, an unscrupulous covert operative sent on an assassination mission into Lasria – a fictional Eastern European city on the brink of ruin and rumored to be contaminated by a mysterious and frightening plague, Hayden takes out his mark, but before he can escape is attacked by an unknown enemy. Not killed outright as expected, he is instead infected with the virus that is causing the plague. \n\nJust as with the other victims swarming the street of Lasria, the Technocyte Virus imbues Hayden with powerful, inhuman abilities. These abilities are not static and as they progress they cause severe, accelerated pain; pain that eventually drives their hosts insane, turning them quite literally into monsters of superhuman power. Hayden possesses an unexpected resistance to this maddening pain, but his body is not spared the mutations caused by the virus. The first of these are metal armor that grows from his body and a three bladed, throwable weapon called a \"glaive\" which explodes from his right arm and can regenerate if lost. But these are only the beginning. Eventually players may also gain the power of limited invisibility, the use of a bulletproof shield, and an assortment of deadly melee attacks. \n\nAs Hayden slashes his way through the mutants overrunning Lasria he stumbles upon a plot by a rogue operative and his private army of henchmen to harness the power of the strongest of these mutants for some dark purpose. No longer entirely human, but not a mindless mutant Hayden must make a decision whether to use his own new powers to stop this plot or look the other way. But regardless of his choice, he has become the target of both the blind rage of his fellow mutants and a shadowy paramilitary group that seeks to control them.",
-  "VideoURL": "https://www.youtube.com/watch?v=fnsjVO3Y6Rw",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dark_Sector",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Digital Extremes",
-  "Publisher": "D3Publisher",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "1cffc62f-c30b-4646-93a4-7dfc95185873.jpg",
-        "Type": "Banner",
-        "CRC32": "3454623362",
-        "URL": "http://images.launchbox-app.com/1cffc62f-c30b-4646-93a4-7dfc95185873.jpg"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3880390377",
         "FileName": "32a36394-58b4-45dd-b084-c2c7f83d734d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3880390377",
         "URL": "http://images.launchbox-app.com/32a36394-58b4-45dd-b084-c2c7f83d734d.jpg"
       },
       {
+        "CRC32": "535291910",
         "FileName": "84d20cdb-b105-4bdf-97f4-d65b56693024.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "535291910",
         "URL": "http://images.launchbox-app.com/84d20cdb-b105-4bdf-97f4-d65b56693024.jpg"
       },
       {
+        "CRC32": "3923967061",
         "FileName": "c72c7ab4-ee0a-447c-b219-7534cedd468c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3923967061",
         "URL": "http://images.launchbox-app.com/c72c7ab4-ee0a-447c-b219-7534cedd468c.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3454623362",
+        "FileName": "1cffc62f-c30b-4646-93a4-7dfc95185873.jpg",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/1cffc62f-c30b-4646-93a4-7dfc95185873.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "2783201d-aa08-4445-8bde-d10d3f0680e5.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3769528015",
+          "FileName": "2783201d-aa08-4445-8bde-d10d3f0680e5.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/2783201d-aa08-4445-8bde-d10d3f0680e5.png"
         }
       ],
       "Back": [
         {
-          "FileName": "0fbb8a8d-b3d9-4b70-a976-92dc507c08ae.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1807788164",
+          "FileName": "0fbb8a8d-b3d9-4b70-a976-92dc507c08ae.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/0fbb8a8d-b3d9-4b70-a976-92dc507c08ae.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "1106183b-1629-42d0-a0a7-d1aea512a843.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3585795487",
+          "FileName": "1106183b-1629-42d0-a0a7-d1aea512a843.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1106183b-1629-42d0-a0a7-d1aea512a843.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "ec8b049c-49cc-48ca-b4a3-20f5b8d81f31.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2229484222",
+          "FileName": "ec8b049c-49cc-48ca-b4a3-20f5b8d81f31.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/ec8b049c-49cc-48ca-b4a3-20f5b8d81f31.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_4610bba2-9098-4c8e-a317-b9096ef3ef76.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1232543018",
+        "FileName": "r2_4610bba2-9098-4c8e-a317-b9096ef3ef76.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_4610bba2-9098-4c8e-a317-b9096ef3ef76.png"
       },
       {
-        "FileName": "c749083d-89ea-4d1e-9d07-b8b74fbd01bc.png",
-        "Type": "Disc",
-        "Region": "United Kingdom",
         "CRC32": "3044980707",
+        "FileName": "c749083d-89ea-4d1e-9d07-b8b74fbd01bc.png",
+        "Region": "United Kingdom",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c749083d-89ea-4d1e-9d07-b8b74fbd01bc.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2931950727",
         "FileName": "8d95a673-8ec2-47e3-a46d-95cf381b9ab5.png",
         "Type": "Clear Logo",
-        "CRC32": "2931950727",
         "URL": "http://images.launchbox-app.com/8d95a673-8ec2-47e3-a46d-95cf381b9ab5.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "82",
+  "Developer": "Digital Extremes",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Dark Sector",
+  "Overview": "A new kind of weapon for a new kind of hero. \n\nDark Sector is a third-person Action/Shooter that thrusts players into a sci-fi flavored nightmare scenario set in the post Cold War era. Playing in the role of Hayden Tenno, an unscrupulous covert operative sent on an assassination mission into Lasria – a fictional Eastern European city on the brink of ruin and rumored to be contaminated by a mysterious and frightening plague, Hayden takes out his mark, but before he can escape is attacked by an unknown enemy. Not killed outright as expected, he is instead infected with the virus that is causing the plague. \n\nJust as with the other victims swarming the street of Lasria, the Technocyte Virus imbues Hayden with powerful, inhuman abilities. These abilities are not static and as they progress they cause severe, accelerated pain; pain that eventually drives their hosts insane, turning them quite literally into monsters of superhuman power. Hayden possesses an unexpected resistance to this maddening pain, but his body is not spared the mutations caused by the virus. The first of these are metal armor that grows from his body and a three bladed, throwable weapon called a \"glaive\" which explodes from his right arm and can regenerate if lost. But these are only the beginning. Eventually players may also gain the power of limited invisibility, the use of a bulletproof shield, and an assortment of deadly melee attacks. \n\nAs Hayden slashes his way through the mutants overrunning Lasria he stumbles upon a plot by a rogue operative and his private army of henchmen to harness the power of the strongest of these mutants for some dark purpose. No longer entirely human, but not a mindless mutant Hayden must make a decision whether to use his own new powers to stop this plot or look the other way. But regardless of his choice, he has become the target of both the blind rage of his fellow mutants and a shadowy paramilitary group that seeks to control them.",
+  "Publisher": "D3Publisher",
+  "ReleaseDate": "2008-03-25T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=fnsjVO3Y6Rw",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dark_Sector"
 }

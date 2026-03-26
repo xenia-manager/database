@@ -1,23 +1,23 @@
 {
-  "Name": "Gravity Fighters",
-  "DatabaseID": "469872",
-  "ReleaseDate": "2013-04-21T00:00:00+00:00",
-  "Overview": "This game is inspired by the old Amiga game Gravity Force 2, with a little touch of Worms. There is no single player mode so you will need at least one friend to play it.\n\nThere are four local multiplayer modes: 1 vs 1 (2 players), 1 vs 1 vs 1 (3 players), 2 vs 2 (four players) and a last man standing mode where you can be a group of players passing the controllers around.",
-  "VideoURL": "https://youtu.be/p_39bv9XW4M",
-  "Genres": "Action",
-  "Developer": "Henrik Karlsson",
-  "Publisher": "Henrik Karlsson",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "e86a1c2f-98fa-4ac5-b93e-7be7a2e71084.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1111100048",
+          "FileName": "e86a1c2f-98fa-4ac5-b93e-7be7a2e71084.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e86a1c2f-98fa-4ac5-b93e-7be7a2e71084.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469872",
+  "Developer": "Henrik Karlsson",
+  "Genres": "Action",
+  "Name": "Gravity Fighters",
+  "Overview": "This game is inspired by the old Amiga game Gravity Force 2, with a little touch of Worms. There is no single player mode so you will need at least one friend to play it.\n\nThere are four local multiplayer modes: 1 vs 1 (2 players), 1 vs 1 vs 1 (3 players), 2 vs 2 (four players) and a last man standing mode where you can be a group of players passing the controllers around.",
+  "Publisher": "Henrik Karlsson",
+  "ReleaseDate": "2013-04-21T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/p_39bv9XW4M"
 }

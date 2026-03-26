@@ -1,23 +1,23 @@
 {
-  "Name": "Hartacon Tactics",
-  "DatabaseID": "469975",
-  "ReleaseDate": "2015-10-25T00:00:00+00:00",
-  "Overview": "Hartacon Tactics is a turn-based tactical RPG, featuring highly deterministic mechanics, beautiful hand-painted 2D art and deep gameplay.\n\nHire characters of unique classes, and wisely use their strengths, skills and weapons to defeat tough enemies as you travel through the continent of Kaus.",
-  "VideoURL": "https://youtu.be/lmL91Hi9b0M",
-  "Genres": "Strategy",
-  "Developer": "Daniele Messina",
-  "Publisher": "Daniele Messina",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "0ffa1c5d-fe21-445f-828e-56b810b30636.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1238459408",
+          "FileName": "0ffa1c5d-fe21-445f-828e-56b810b30636.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0ffa1c5d-fe21-445f-828e-56b810b30636.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469975",
+  "Developer": "Daniele Messina",
+  "Genres": "Strategy",
+  "Name": "Hartacon Tactics",
+  "Overview": "Hartacon Tactics is a turn-based tactical RPG, featuring highly deterministic mechanics, beautiful hand-painted 2D art and deep gameplay.\n\nHire characters of unique classes, and wisely use their strengths, skills and weapons to defeat tough enemies as you travel through the continent of Kaus.",
+  "Publisher": "Daniele Messina",
+  "ReleaseDate": "2015-10-25T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/lmL91Hi9b0M"
 }

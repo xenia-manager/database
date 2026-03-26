@@ -1,38 +1,38 @@
 {
-  "Name": "Advance",
-  "DatabaseID": "467209",
-  "ReleaseDate": "2015-11-20T00:00:00+00:00",
-  "Overview": "Advance is a strategy board game in the classic style of Go or Pente. The objective of Advance is to score more points than your opponent by placing your pieces and capturing your enemy’s. Placing pieces creates areas of influence, fortifying your position or attacking your opponents areas of influence. Play up to 4 players with three levels of AI to play against.",
-  "Genres": "Strategy",
-  "Developer": "All Messed Up Games",
-  "Publisher": "All Messed Up Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "dce078f4-060d-470c-ba72-00d6c1a77671.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "233601907",
+          "FileName": "dce078f4-060d-470c-ba72-00d6c1a77671.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/dce078f4-060d-470c-ba72-00d6c1a77671.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "53109d5c-f6fe-41ca-98a8-8aae935b6d7c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2236953896",
+        "FileName": "53109d5c-f6fe-41ca-98a8-8aae935b6d7c.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/53109d5c-f6fe-41ca-98a8-8aae935b6d7c.jpg"
       },
       {
-        "FileName": "9d12dc66-cf2b-45f2-ac6d-d41fb2b5c57f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1536632371",
+        "FileName": "9d12dc66-cf2b-45f2-ac6d-d41fb2b5c57f.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/9d12dc66-cf2b-45f2-ac6d-d41fb2b5c57f.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467209",
+  "Developer": "All Messed Up Games",
+  "Genres": "Strategy",
+  "Name": "Advance",
+  "Overview": "Advance is a strategy board game in the classic style of Go or Pente. The objective of Advance is to score more points than your opponent by placing your pieces and capturing your enemy’s. Placing pieces creates areas of influence, fortifying your position or attacking your opponents areas of influence. Play up to 4 players with three levels of AI to play against.",
+  "Publisher": "All Messed Up Games",
+  "ReleaseDate": "2015-11-20T00:00:00+00:00"
 }

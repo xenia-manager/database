@@ -1,74 +1,74 @@
 {
-  "Name": "XCOM: Enemy Unknown",
-  "DatabaseID": "10850",
-  "ReleaseDate": "2012-10-12T00:00:00+00:00",
-  "Overview": "The game, set in the modern-day Earth, deals with an international response to a global alien invasion. The player assumes the role of the commander of the top secret XCOM Project, the most elite military and scientific organization in the history of mankind, activated to engage in a seemingly hopeless war against an unknown extraterrestrial enemy with far better technology and capabilities",
-  "VideoURL": "http://www.youtube.com/watch?v=https://tZdanb02280",
-  "CommunityRating": "3.16666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown",
-  "ESRB": "M - Mature",
-  "Genres": "Strategy",
-  "Developer": "Firaxis Games",
-  "Publisher": "2K Games",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "908446619",
         "FileName": "37239bf8-0bc9-4e6f-b288-f2c4fe5b0325.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "908446619",
         "URL": "http://images.launchbox-app.com/37239bf8-0bc9-4e6f-b288-f2c4fe5b0325.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "3777726632",
           "FileName": "1dc25241-ed89-4ad7-8899-67623d40be68.png",
           "Type": "Box - 3D",
-          "CRC32": "3777726632",
           "URL": "http://images.launchbox-app.com/1dc25241-ed89-4ad7-8899-67623d40be68.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_66334d46-aed9-4ad9-9217-9b167d7dcde2.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1478455754",
+          "FileName": "r2_66334d46-aed9-4ad9-9217-9b167d7dcde2.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_66334d46-aed9-4ad9-9217-9b167d7dcde2.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "4036194673",
           "FileName": "4f9db530-a21d-4df6-a58d-2404d0a2001d.jpg",
           "Type": "Box - Front",
-          "CRC32": "4036194673",
           "URL": "http://images.launchbox-app.com/4f9db530-a21d-4df6-a58d-2404d0a2001d.jpg"
         },
         {
-          "FileName": "r2_03b13c9b-e573-492a-8b19-78baa550ce8e.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "4051766215",
+          "FileName": "r2_03b13c9b-e573-492a-8b19-78baa550ce8e.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_03b13c9b-e573-492a-8b19-78baa550ce8e.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_b88b828e-186b-48a0-aa34-c46903427ddc.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "59291328",
+        "FileName": "r2_b88b828e-186b-48a0-aa34-c46903427ddc.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_b88b828e-186b-48a0-aa34-c46903427ddc.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3791313976",
         "FileName": "d22cda79-c250-4625-8785-6883ccffbd4a.png",
         "Type": "Clear Logo",
-        "CRC32": "3791313976",
         "URL": "http://images.launchbox-app.com/d22cda79-c250-4625-8785-6883ccffbd4a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.16666666666667",
+  "DatabaseID": "10850",
+  "Developer": "Firaxis Games",
+  "ESRB": "M - Mature",
+  "Genres": "Strategy",
+  "Name": "XCOM: Enemy Unknown",
+  "Overview": "The game, set in the modern-day Earth, deals with an international response to a global alien invasion. The player assumes the role of the commander of the top secret XCOM Project, the most elite military and scientific organization in the history of mankind, activated to engage in a seemingly hopeless war against an unknown extraterrestrial enemy with far better technology and capabilities",
+  "Publisher": "2K Games",
+  "ReleaseDate": "2012-10-12T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=https://tZdanb02280",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown"
 }

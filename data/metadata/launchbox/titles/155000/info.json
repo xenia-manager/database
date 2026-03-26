@@ -1,40 +1,40 @@
 {
-  "Name": "Ninja Bros.",
-  "DatabaseID": "155000",
-  "ReleaseDate": "2009-10-04T00:00:00+00:00",
-  "Overview": "Ninja Bros. is a puzzle platform game where the goal is to make the ninjas push a button to open a door, then exit through said door. \n\nThere can be anywhere from one up to four ninjas on the screen at the same time, each with their own color corresponding to the four face buttons on the Xbox 360 (blue, green, yellow and red). The player controls all of the ninjas at the same time using the D-pad, while pressing any of the colored face buttons will make the ninja of the corresponding color jump. The screen is usually divided into one separate stage per ninja, and the trick is to figure out how to get them all to the exit without dying. \n\nThe game features several difficulty levels to master, all with different stages.",
-  "VideoURL": "https://www.youtube.com/watch?v=VpV0Cbo9Z38",
-  "ESRB": "Not Rated",
-  "Genres": "Platform; Puzzle",
-  "Developer": "Dot Zo Games",
-  "Publisher": "Dot Zo Games",
   "Artwork": {
     "Banner": [
       {
+        "CRC32": "1889635440",
         "FileName": "dec25205-e5ef-4920-b045-32df896317e6.png",
         "Type": "Banner",
-        "CRC32": "1889635440",
         "URL": "http://images.launchbox-app.com/dec25205-e5ef-4920-b045-32df896317e6.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "dddce776-1e0d-4402-96fc-9b24bc666fab.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1970388571",
+          "FileName": "dddce776-1e0d-4402-96fc-9b24bc666fab.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/dddce776-1e0d-4402-96fc-9b24bc666fab.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "3964818482",
         "FileName": "85cd6a69-f5f2-413e-af9b-b54e000f95c9.png",
         "Type": "Clear Logo",
-        "CRC32": "3964818482",
         "URL": "http://images.launchbox-app.com/85cd6a69-f5f2-413e-af9b-b54e000f95c9.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "155000",
+  "Developer": "Dot Zo Games",
+  "ESRB": "Not Rated",
+  "Genres": "Platform; Puzzle",
+  "Name": "Ninja Bros.",
+  "Overview": "Ninja Bros. is a puzzle platform game where the goal is to make the ninjas push a button to open a door, then exit through said door. \n\nThere can be anywhere from one up to four ninjas on the screen at the same time, each with their own color corresponding to the four face buttons on the Xbox 360 (blue, green, yellow and red). The player controls all of the ninjas at the same time using the D-pad, while pressing any of the colored face buttons will make the ninja of the corresponding color jump. The screen is usually divided into one separate stage per ninja, and the trick is to figure out how to get them all to the exit without dying. \n\nThe game features several difficulty levels to master, all with different stages.",
+  "Publisher": "Dot Zo Games",
+  "ReleaseDate": "2009-10-04T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=VpV0Cbo9Z38"
 }

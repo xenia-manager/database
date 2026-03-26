@@ -1,65 +1,65 @@
 {
-  "Name": "Command & Conquer: Red Alert 3: Commander's Challenge",
-  "DatabaseID": "209816",
-  "ReleaseDate": "2010-01-29T00:00:00+00:00",
-  "Overview": "Fight for world domination in the all-new Red Alert 3 Commander’s Challenge! Do you have what it takes to withstand the brutal onslaught and relentless taunting of the world’s toughest commanders, including Ric Flair as Commander Hill? Find out as you attempt to conquer the world in 50 challenges featuring explosive new units such as the Giga Fortress, Desolator, and Cryo Legionnaire!",
-  "CommunityRating": "3.75",
-  "ESRB": "T - Teen",
-  "Genres": "Strategy",
-  "Developer": "Electronic Arts Los Angeles",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_b92c047a-e14f-41c3-b6f9-ddef3d876d22.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1965903487",
-        "URL": "http://images.launchbox-app.com/r2_b92c047a-e14f-41c3-b6f9-ddef3d876d22.png"
-      },
-      {
-        "FileName": "r2_5e65c8f1-0ec8-4070-b55b-bf94d83a120a.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1965903487",
-        "URL": "http://images.launchbox-app.com/r2_5e65c8f1-0ec8-4070-b55b-bf94d83a120a.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_8fffe080-bf93-4ccd-b516-4d0048833c34.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "4247681878",
+        "FileName": "r2_8fffe080-bf93-4ccd-b516-4d0048833c34.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8fffe080-bf93-4ccd-b516-4d0048833c34.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1965903487",
+        "FileName": "r2_5e65c8f1-0ec8-4070-b55b-bf94d83a120a.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_5e65c8f1-0ec8-4070-b55b-bf94d83a120a.png"
+      },
+      {
+        "CRC32": "1965903487",
+        "FileName": "r2_b92c047a-e14f-41c3-b6f9-ddef3d876d22.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_b92c047a-e14f-41c3-b6f9-ddef3d876d22.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_b59f4621-156b-4a62-abbc-03e33354ae84.jpg",
-          "Type": "Box - Front",
+          "CRC32": "3506794550",
+          "FileName": "5d556c8b-5226-4dd4-8272-054b971d0342.jpg",
           "Region": "World",
-          "CRC32": "2302100296",
-          "URL": "http://images.launchbox-app.com/r2_b59f4621-156b-4a62-abbc-03e33354ae84.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/5d556c8b-5226-4dd4-8272-054b971d0342.jpg"
         },
         {
-          "FileName": "5d556c8b-5226-4dd4-8272-054b971d0342.jpg",
-          "Type": "Box - Front",
+          "CRC32": "2302100296",
+          "FileName": "r2_b59f4621-156b-4a62-abbc-03e33354ae84.jpg",
           "Region": "World",
-          "CRC32": "3506794550",
-          "URL": "http://images.launchbox-app.com/5d556c8b-5226-4dd4-8272-054b971d0342.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_b59f4621-156b-4a62-abbc-03e33354ae84.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_d8065b36-328a-4b23-8264-b6984a9474dc.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2595530190",
+        "FileName": "r2_d8065b36-328a-4b23-8264-b6984a9474dc.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_d8065b36-328a-4b23-8264-b6984a9474dc.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.75",
+  "DatabaseID": "209816",
+  "Developer": "Electronic Arts Los Angeles",
+  "ESRB": "T - Teen",
+  "Genres": "Strategy",
+  "Name": "Command & Conquer: Red Alert 3: Commander's Challenge",
+  "Overview": "Fight for world domination in the all-new Red Alert 3 Commander’s Challenge! Do you have what it takes to withstand the brutal onslaught and relentless taunting of the world’s toughest commanders, including Ric Flair as Commander Hill? Find out as you attempt to conquer the world in 50 challenges featuring explosive new units such as the Giga Fortress, Desolator, and Cryo Legionnaire!",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2010-01-29T00:00:00+00:00"
 }

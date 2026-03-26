@@ -1,90 +1,90 @@
 {
-  "Name": "Adventure Time: Finn & Jake Investigations",
-  "DatabaseID": "173116",
-  "ReleaseDate": "2015-10-20T00:00:00+00:00",
-  "Overview": "What time is it? It’s time to crack a case!\n\nAdventure Time: Finn and Jake Investigations is an all-new, story-driven graphic adventure game. Strange stuff is happening in the Land of Ooo (stranger than usual anyway). Luckily, Finn and Jake are on the case. This mysterious adventure will put their detective skills to the test as they search for clues, interrogate witnesses and piece together the evidence to save the day. They might even have to bust up a few goons along the way, but it’s nothing that Finn and Jake Investigations can’t handle!\n\nGame Features:\n• Sleuth your way through five cases set in the Land of Ooo, each of which plays out a separate chapter (like your own personal episode of the show).\n• See the Adventure Time characters and familiar locations for the first time in 3D.\n• Tackle puzzles by creatively using inventory objects and Jake’s shape-shifting abilities.\n• Combat evildoers as Finn using a variety of unique swords and Jake’s awesome attack forms.",
-  "VideoURL": "https://www.youtube.com/watch?v=UZQkg6lm-s0",
-  "CommunityRating": "3.1875",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Adventure_Time:_Finn_%26_Jake_Investigations",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
-  "Developer": "Vicious Cycle Software",
-  "Publisher": "Little Orbit",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "73807822-4bfb-4efd-a7c7-d22b95aeddb4.png",
-        "Type": "Banner",
-        "CRC32": "1359564371",
-        "URL": "http://images.launchbox-app.com/73807822-4bfb-4efd-a7c7-d22b95aeddb4.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "66387881",
         "FileName": "1878c1d6-53bf-40ea-b1da-1e4eccb9d012.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "66387881",
         "URL": "http://images.launchbox-app.com/1878c1d6-53bf-40ea-b1da-1e4eccb9d012.jpg"
       },
       {
+        "CRC32": "1823408918",
         "FileName": "338459b3-5ac9-47bb-91dd-b8ec80f9a493.png",
         "Type": "Fanart - Background",
-        "CRC32": "1823408918",
         "URL": "http://images.launchbox-app.com/338459b3-5ac9-47bb-91dd-b8ec80f9a493.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1359564371",
+        "FileName": "73807822-4bfb-4efd-a7c7-d22b95aeddb4.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/73807822-4bfb-4efd-a7c7-d22b95aeddb4.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "72ce272a-71a7-4699-ad46-3c08242d2108.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1223962319",
+          "FileName": "72ce272a-71a7-4699-ad46-3c08242d2108.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/72ce272a-71a7-4699-ad46-3c08242d2108.png"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_fe6fea37-cd40-4cf5-8703-075e2f21a741.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2992173877",
+          "FileName": "r2_fe6fea37-cd40-4cf5-8703-075e2f21a741.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_fe6fea37-cd40-4cf5-8703-075e2f21a741.jpg"
         },
         {
-          "FileName": "52871d2c-c3eb-4c9a-ae97-12f9dc52b2b2.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3395535350",
+          "FileName": "52871d2c-c3eb-4c9a-ae97-12f9dc52b2b2.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/52871d2c-c3eb-4c9a-ae97-12f9dc52b2b2.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_736bc950-6311-4591-9826-ced43441307a.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2869313167",
+        "FileName": "r2_736bc950-6311-4591-9826-ced43441307a.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_736bc950-6311-4591-9826-ced43441307a.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "6cde4097-6e04-4c47-bd38-280685327918.png",
-        "Type": "Screenshot - Game Title",
-        "Region": "United States",
-        "CRC32": "2590561507",
-        "URL": "http://images.launchbox-app.com/6cde4097-6e04-4c47-bd38-280685327918.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3333713297",
         "FileName": "a4f0e75c-3070-40dd-a1f8-8d2a4ed2dd6a.png",
         "Type": "Clear Logo",
-        "CRC32": "3333713297",
         "URL": "http://images.launchbox-app.com/a4f0e75c-3070-40dd-a1f8-8d2a4ed2dd6a.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2590561507",
+        "FileName": "6cde4097-6e04-4c47-bd38-280685327918.png",
+        "Region": "United States",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/6cde4097-6e04-4c47-bd38-280685327918.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.1875",
+  "DatabaseID": "173116",
+  "Developer": "Vicious Cycle Software",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action",
+  "Name": "Adventure Time: Finn & Jake Investigations",
+  "Overview": "What time is it? It’s time to crack a case!\n\nAdventure Time: Finn and Jake Investigations is an all-new, story-driven graphic adventure game. Strange stuff is happening in the Land of Ooo (stranger than usual anyway). Luckily, Finn and Jake are on the case. This mysterious adventure will put their detective skills to the test as they search for clues, interrogate witnesses and piece together the evidence to save the day. They might even have to bust up a few goons along the way, but it’s nothing that Finn and Jake Investigations can’t handle!\n\nGame Features:\n• Sleuth your way through five cases set in the Land of Ooo, each of which plays out a separate chapter (like your own personal episode of the show).\n• See the Adventure Time characters and familiar locations for the first time in 3D.\n• Tackle puzzles by creatively using inventory objects and Jake’s shape-shifting abilities.\n• Combat evildoers as Finn using a variety of unique swords and Jake’s awesome attack forms.",
+  "Publisher": "Little Orbit",
+  "ReleaseDate": "2015-10-20T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=UZQkg6lm-s0",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Adventure_Time:_Finn_%26_Jake_Investigations"
 }

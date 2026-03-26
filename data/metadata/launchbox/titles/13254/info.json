@@ -1,88 +1,88 @@
 {
-  "Name": "Monopoly",
-  "DatabaseID": "13254",
-  "ReleaseDate": "2008-10-20T00:00:00+00:00",
-  "Overview": "The adaptation of the classic board game Monopoly for PlayStation supports up to four players. Players can select from eight tokens known from the board game. Any non-human players can be controlled by the AI - ten different AI opponent profiles can be selected.\n\nThe game supports a variety of custom rules. These include popular house rules like collecting fines on free parking, double bonus on GO, and having to go around the board once before starting purchasing. Standard rules like auctions, the even-build rule or dealing from jail can be turned off. It is also possible to set the number of buildings in the bank to infinite. Various rules that vary in regional editions of the board game of the can be toggled as well, including higher luxury tax or the option of paying 10% income tax instead of a flat fee.\n\nDuring a game, the board is seen in a perspective view, with the side where the current token is situated always at the front. Controls are cursor-based point-and-click (the PlayStation mouse is supported). Clicking on Mr. Monopoly makes him throw the dice onto the board, while deals and trades are made from a special sub-menu. When a token is moving, the game plays a matching pre-rendered animation. Each board square also has a special animation played when the player reaches it. For properties, these change from an abandoned scenery for unowned properties to scenes with lived-in houses and hotels for properties that are built out. Both kinds of animations can be turned off before a game.",
-  "CommunityRating": "4",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": null,
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "189c8fd5-c443-4796-a604-9474a209fc14.png",
-        "Type": "Banner",
-        "CRC32": "437939896",
-        "URL": "http://images.launchbox-app.com/189c8fd5-c443-4796-a604-9474a209fc14.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "139936019",
         "FileName": "9625f7d8-a547-40f0-803e-a3ab59940e5d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "139936019",
         "URL": "http://images.launchbox-app.com/9625f7d8-a547-40f0-803e-a3ab59940e5d.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "437939896",
+        "FileName": "189c8fd5-c443-4796-a604-9474a209fc14.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/189c8fd5-c443-4796-a604-9474a209fc14.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "93175086",
           "FileName": "192671e7-b315-43cf-8e12-52c9b8ee5791.png",
           "Type": "Box - 3D",
-          "CRC32": "93175086",
           "URL": "http://images.launchbox-app.com/192671e7-b315-43cf-8e12-52c9b8ee5791.png"
         }
       ],
       "Back": [
         {
-          "FileName": "3ff16c2e-fc3e-4e0a-9138-d8515bbd634b.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3001800446",
+          "FileName": "3ff16c2e-fc3e-4e0a-9138-d8515bbd634b.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/3ff16c2e-fc3e-4e0a-9138-d8515bbd634b.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a28c9d0f-1a31-479e-ab6b-f66610a9ef93.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1781076866",
+          "FileName": "r2_a28c9d0f-1a31-479e-ab6b-f66610a9ef93.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a28c9d0f-1a31-479e-ab6b-f66610a9ef93.jpg"
         },
         {
-          "FileName": "a4d906e0-0dcf-436b-b4d3-7a02c17b424e.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2311743888",
+          "FileName": "a4d906e0-0dcf-436b-b4d3-7a02c17b424e.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a4d906e0-0dcf-436b-b4d3-7a02c17b424e.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "381fa6dd-f5b1-4486-a4e9-b199814076d0.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2529743937",
+          "FileName": "381fa6dd-f5b1-4486-a4e9-b199814076d0.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/381fa6dd-f5b1-4486-a4e9-b199814076d0.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_afa15e9e-95ab-450f-87e4-8da6e74f8296.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "4112998521",
+        "FileName": "r2_afa15e9e-95ab-450f-87e4-8da6e74f8296.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_afa15e9e-95ab-450f-87e4-8da6e74f8296.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "299236622",
         "FileName": "f8090aea-2a30-43c9-aa46-54754106fd7c.png",
         "Type": "Clear Logo",
-        "CRC32": "299236622",
         "URL": "http://images.launchbox-app.com/f8090aea-2a30-43c9-aa46-54754106fd7c.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "13254",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": null,
+  "Name": "Monopoly",
+  "Overview": "The adaptation of the classic board game Monopoly for PlayStation supports up to four players. Players can select from eight tokens known from the board game. Any non-human players can be controlled by the AI - ten different AI opponent profiles can be selected.\n\nThe game supports a variety of custom rules. These include popular house rules like collecting fines on free parking, double bonus on GO, and having to go around the board once before starting purchasing. Standard rules like auctions, the even-build rule or dealing from jail can be turned off. It is also possible to set the number of buildings in the bank to infinite. Various rules that vary in regional editions of the board game of the can be toggled as well, including higher luxury tax or the option of paying 10% income tax instead of a flat fee.\n\nDuring a game, the board is seen in a perspective view, with the side where the current token is situated always at the front. Controls are cursor-based point-and-click (the PlayStation mouse is supported). Clicking on Mr. Monopoly makes him throw the dice onto the board, while deals and trades are made from a special sub-menu. When a token is moving, the game plays a matching pre-rendered animation. Each board square also has a special animation played when the player reaches it. For properties, these change from an abandoned scenery for unowned properties to scenes with lived-in houses and hotels for properties that are built out. Both kinds of animations can be turned off before a game.",
+  "ReleaseDate": "2008-10-20T00:00:00+00:00"
 }

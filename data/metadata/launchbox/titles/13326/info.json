@@ -1,81 +1,81 @@
 {
-  "Name": "Warriors Orochi 3",
-  "DatabaseID": "13326",
-  "ReleaseDate": "2012-03-27T00:00:00+00:00",
-  "Overview": "Warriors Orochi 3, originally released as Musou Orochi 2 (無双OROCHI 2?) in Japan, is a 2011 hack and slash video game developed by Tecmo Koei and Omega Force for the PlayStation 3 and Xbox 360. This is the fourth installment of the crossover series Warriors Orochi, a combination of the Dynasty Warriors and Samurai Warriors series. This installment serves as a sequel to Warriors Orochi 2. The game was released in Japan on December 22, 2011, in Europe on April 6, 2012, and in North America on March 20, 2012 (PlayStation 3), and March 27, 2012 (Xbox 360).[8][9]\n\nThere are two ports of the game: Musou Orochi 2 Special, released on July 19, 2012 for PlayStation Portable exclusively in Japan,[10] and Warriors Orochi 3 Hyper, which was released as a launch title for the Wii U for Japan, North America, and Europe.[3] An updated version, Warriors Orochi 3 Ultimate (Musou Orochi 2 Ultimate), was released for the PlayStation 3 and PlayStation Vita in Japan on September 26, 2013[5] with PlayStation 4 and Xbox One ports released on June 26 and September 4, 2014, respectively.[6] All ports of Ultimate were also released in North America and Europe on September 2 and 5, 2014, respectively.",
-  "CommunityRating": "3.83333333333333",
-  "ESRB": "T - Teen",
-  "Genres": "Action",
-  "Developer": "Omega Force",
-  "Publisher": "Koei",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_756170e9-c8fa-4247-81a6-82f1e7685df7.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2764268780",
-        "URL": "http://images.launchbox-app.com/r2_756170e9-c8fa-4247-81a6-82f1e7685df7.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_3b18f284-501c-4148-8405-407fb82636e6.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2038724575",
+        "FileName": "r2_3b18f284-501c-4148-8405-407fb82636e6.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_3b18f284-501c-4148-8405-407fb82636e6.jpg"
       },
       {
-        "FileName": "r2_c3e18cd1-5f84-46ef-a121-c2e7145377e8.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1575310490",
+        "FileName": "r2_c3e18cd1-5f84-46ef-a121-c2e7145377e8.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_c3e18cd1-5f84-46ef-a121-c2e7145377e8.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2764268780",
+        "FileName": "r2_756170e9-c8fa-4247-81a6-82f1e7685df7.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_756170e9-c8fa-4247-81a6-82f1e7685df7.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_37b62c3e-63f3-4b3a-af1a-6d26960c9ef4.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1618188344",
+          "FileName": "r2_37b62c3e-63f3-4b3a-af1a-6d26960c9ef4.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_37b62c3e-63f3-4b3a-af1a-6d26960c9ef4.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "2898703721",
           "FileName": "da348540-4d91-4e01-958d-1056f371ba08.jpg",
           "Type": "Box - Front",
-          "CRC32": "2898703721",
           "URL": "http://images.launchbox-app.com/da348540-4d91-4e01-958d-1056f371ba08.jpg"
         },
         {
-          "FileName": "r2_b41ce7a6-8a2d-49a3-9d62-33a4e54628b6.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1973539175",
+          "FileName": "r2_b41ce7a6-8a2d-49a3-9d62-33a4e54628b6.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_b41ce7a6-8a2d-49a3-9d62-33a4e54628b6.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_fe44b96e-f93a-4006-b197-b0a4774034bf.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "632057883",
+        "FileName": "r2_fe44b96e-f93a-4006-b197-b0a4774034bf.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_fe44b96e-f93a-4006-b197-b0a4774034bf.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3232683402",
         "FileName": "1e114401-7013-460d-927a-1bb6a691617b.png",
         "Type": "Clear Logo",
-        "CRC32": "3232683402",
         "URL": "http://images.launchbox-app.com/1e114401-7013-460d-927a-1bb6a691617b.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.83333333333333",
+  "DatabaseID": "13326",
+  "Developer": "Omega Force",
+  "ESRB": "T - Teen",
+  "Genres": "Action",
+  "Name": "Warriors Orochi 3",
+  "Overview": "Warriors Orochi 3, originally released as Musou Orochi 2 (無双OROCHI 2?) in Japan, is a 2011 hack and slash video game developed by Tecmo Koei and Omega Force for the PlayStation 3 and Xbox 360. This is the fourth installment of the crossover series Warriors Orochi, a combination of the Dynasty Warriors and Samurai Warriors series. This installment serves as a sequel to Warriors Orochi 2. The game was released in Japan on December 22, 2011, in Europe on April 6, 2012, and in North America on March 20, 2012 (PlayStation 3), and March 27, 2012 (Xbox 360).[8][9]\n\nThere are two ports of the game: Musou Orochi 2 Special, released on July 19, 2012 for PlayStation Portable exclusively in Japan,[10] and Warriors Orochi 3 Hyper, which was released as a launch title for the Wii U for Japan, North America, and Europe.[3] An updated version, Warriors Orochi 3 Ultimate (Musou Orochi 2 Ultimate), was released for the PlayStation 3 and PlayStation Vita in Japan on September 26, 2013[5] with PlayStation 4 and Xbox One ports released on June 26 and September 4, 2014, respectively.[6] All ports of Ultimate were also released in North America and Europe on September 2 and 5, 2014, respectively.",
+  "Publisher": "Koei",
+  "ReleaseDate": "2012-03-27T00:00:00+00:00"
 }

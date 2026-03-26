@@ -1,52 +1,52 @@
 {
-  "Name": "Avatar Shatter",
-  "DatabaseID": "467740",
-  "ReleaseDate": "2010-07-01T00:00:00+00:00",
-  "Overview": "Join your friends in a Co-op arcade game that features avatars and blast through waves of enemies across several worlds.",
-  "Genres": "Shooter",
-  "Developer": "PlayItLoud",
-  "Publisher": "PlayItLoud",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "60251c19-95ae-40b2-81ae-1d73e87283c1.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "942261153",
+          "FileName": "60251c19-95ae-40b2-81ae-1d73e87283c1.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/60251c19-95ae-40b2-81ae-1d73e87283c1.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "93b9c98f-006c-40e2-9f40-6f3d07538b01.jpg",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
         "CRC32": "1241668646",
+        "FileName": "93b9c98f-006c-40e2-9f40-6f3d07538b01.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
         "URL": "http://images.launchbox-app.com/93b9c98f-006c-40e2-9f40-6f3d07538b01.jpg"
       },
       {
-        "FileName": "3f49f388-a72f-4141-84ba-09d43bcdadd2.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "3311275864",
+        "FileName": "3f49f388-a72f-4141-84ba-09d43bcdadd2.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/3f49f388-a72f-4141-84ba-09d43bcdadd2.jpg"
       },
       {
-        "FileName": "94193d8f-ef08-407b-8850-4a9587681c36.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1863498083",
+        "FileName": "817a5f62-3d11-4c3f-8183-f50b2c557351.jpg",
         "Region": "World",
-        "CRC32": "1383071050",
-        "URL": "http://images.launchbox-app.com/94193d8f-ef08-407b-8850-4a9587681c36.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/817a5f62-3d11-4c3f-8183-f50b2c557351.jpg"
       },
       {
-        "FileName": "817a5f62-3d11-4c3f-8183-f50b2c557351.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1383071050",
+        "FileName": "94193d8f-ef08-407b-8850-4a9587681c36.jpg",
         "Region": "World",
-        "CRC32": "1863498083",
-        "URL": "http://images.launchbox-app.com/817a5f62-3d11-4c3f-8183-f50b2c557351.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/94193d8f-ef08-407b-8850-4a9587681c36.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467740",
+  "Developer": "PlayItLoud",
+  "Genres": "Shooter",
+  "Name": "Avatar Shatter",
+  "Overview": "Join your friends in a Co-op arcade game that features avatars and blast through waves of enemies across several worlds.",
+  "Publisher": "PlayItLoud",
+  "ReleaseDate": "2010-07-01T00:00:00+00:00"
 }

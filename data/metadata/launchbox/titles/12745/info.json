@@ -1,89 +1,89 @@
 {
-  "Name": "Jurassic Park: The Game",
-  "DatabaseID": "12745",
-  "ReleaseDate": "2011-11-15T00:00:00+00:00",
-  "Overview": "Jurassic Park is a cinematic adventure game that has you playing from the viewpoints of multiple characters trapped on Isla Nublar, the island theme park where the attractions are prehistoric beasts. While the game has an original storyline, the events run parallel to the timeline in Michael Crichton's book and Steven Spielberg's 1993 film. Players will find themselves trapped on the island after Dennis Nedry's ill-fated attempt to sell frozen dinosaur embryos to a rival corporation. \n\nThe game is a departure from developer Telltale Games' previous point-and-click titles, adding more action-oriented sequences in the form of quick-time events. You'll also be able to converse with fellow characters at any time using an \"on-demand\" dialogue system, and switch between story points and locales using a picture-in-picture display. Solving puzzles is still a central focus of the gameplay, as characters explore the island while figuring out how best to survive against the deadly dinosaurs.",
-  "CommunityRating": "3.625",
-  "ESRB": "T - Teen",
-  "Genres": "Adventure",
-  "Developer": "Telltale Games",
-  "Publisher": "Telltale Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_27348562-a9e1-4b51-8fbe-e2134e22eaca.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3894117047",
-        "URL": "http://images.launchbox-app.com/r2_27348562-a9e1-4b51-8fbe-e2134e22eaca.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "722164265",
         "FileName": "e8c23867-bd79-4b36-a912-4e04bbfd99b0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "722164265",
         "URL": "http://images.launchbox-app.com/e8c23867-bd79-4b36-a912-4e04bbfd99b0.jpg"
       },
       {
-        "FileName": "r2_18b37b36-98bc-46c0-82d6-83280b11e295.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "761165076",
+        "FileName": "r2_18b37b36-98bc-46c0-82d6-83280b11e295.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_18b37b36-98bc-46c0-82d6-83280b11e295.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3894117047",
+        "FileName": "r2_27348562-a9e1-4b51-8fbe-e2134e22eaca.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_27348562-a9e1-4b51-8fbe-e2134e22eaca.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "f8d63c25-b328-472d-87cb-8a0cea9b2402.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "284051524",
+          "FileName": "f8d63c25-b328-472d-87cb-8a0cea9b2402.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/f8d63c25-b328-472d-87cb-8a0cea9b2402.png"
         }
       ],
       "Back": [
         {
-          "FileName": "8ba02a1a-7cd4-454d-afd3-8e30045e546e.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1943949804",
+          "FileName": "8ba02a1a-7cd4-454d-afd3-8e30045e546e.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/8ba02a1a-7cd4-454d-afd3-8e30045e546e.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a4ad5aca-85a1-4895-a3ff-b915764d79f1.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2023414040",
+          "FileName": "r2_a4ad5aca-85a1-4895-a3ff-b915764d79f1.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a4ad5aca-85a1-4895-a3ff-b915764d79f1.jpg"
         },
         {
-          "FileName": "r2_2cf3e015-2c63-425f-866c-1c73d28677ee.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3824572344",
+          "FileName": "r2_2cf3e015-2c63-425f-866c-1c73d28677ee.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_2cf3e015-2c63-425f-866c-1c73d28677ee.jpg"
         },
         {
-          "FileName": "35a295d5-e791-4b2a-94f3-c02e604a21a8.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "2186324144",
+          "FileName": "35a295d5-e791-4b2a-94f3-c02e604a21a8.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/35a295d5-e791-4b2a-94f3-c02e604a21a8.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_0abf847c-bb4f-431c-9dfc-34a78bd9e2d8.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3345586667",
+        "FileName": "r2_0abf847c-bb4f-431c-9dfc-34a78bd9e2d8.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_0abf847c-bb4f-431c-9dfc-34a78bd9e2d8.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.625",
+  "DatabaseID": "12745",
+  "Developer": "Telltale Games",
+  "ESRB": "T - Teen",
+  "Genres": "Adventure",
+  "Name": "Jurassic Park: The Game",
+  "Overview": "Jurassic Park is a cinematic adventure game that has you playing from the viewpoints of multiple characters trapped on Isla Nublar, the island theme park where the attractions are prehistoric beasts. While the game has an original storyline, the events run parallel to the timeline in Michael Crichton's book and Steven Spielberg's 1993 film. Players will find themselves trapped on the island after Dennis Nedry's ill-fated attempt to sell frozen dinosaur embryos to a rival corporation. \n\nThe game is a departure from developer Telltale Games' previous point-and-click titles, adding more action-oriented sequences in the form of quick-time events. You'll also be able to converse with fellow characters at any time using an \"on-demand\" dialogue system, and switch between story points and locales using a picture-in-picture display. Solving puzzles is still a central focus of the gameplay, as characters explore the island while figuring out how best to survive against the deadly dinosaurs.",
+  "Publisher": "Telltale Games",
+  "ReleaseDate": "2011-11-15T00:00:00+00:00"
 }

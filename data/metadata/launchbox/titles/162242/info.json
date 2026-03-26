@@ -1,42 +1,42 @@
 {
-  "Name": "Sports Island Freedom",
-  "DatabaseID": "162242",
-  "Genres": null,
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "4034077672",
           "FileName": "9b688c2f-1daa-492f-a87f-33e9d3099f5b.png",
           "Type": "Box - 3D",
-          "CRC32": "4034077672",
           "URL": "http://images.launchbox-app.com/9b688c2f-1daa-492f-a87f-33e9d3099f5b.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_4c7943a2-84d2-4edd-bab5-93d7ef59e684.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2965548310",
+          "FileName": "r2_4c7943a2-84d2-4edd-bab5-93d7ef59e684.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_4c7943a2-84d2-4edd-bab5-93d7ef59e684.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "6138215c-be81-47fe-b04d-c6828a7b9445.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "1074057798",
+          "FileName": "6138215c-be81-47fe-b04d-c6828a7b9445.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6138215c-be81-47fe-b04d-c6828a7b9445.jpg"
         },
         {
-          "FileName": "r2_eac379bf-c4b1-4b4f-9a14-b8298c4aa1d3.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2570652161",
+          "FileName": "r2_eac379bf-c4b1-4b4f-9a14-b8298c4aa1d3.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_eac379bf-c4b1-4b4f-9a14-b8298c4aa1d3.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "162242",
+  "Genres": null,
+  "Name": "Sports Island Freedom"
 }

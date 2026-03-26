@@ -1,76 +1,76 @@
 {
-  "Name": "Super Street Fighter II Turbo HD Remix",
-  "DatabaseID": "16715",
-  "ReleaseDate": "2008-11-26T00:00:00+00:00",
-  "Overview": "The Capcom arcade classic receives a whole new look with Super Street Fighter II Turbo HD Remix. Capcom maintains the integrity of the popular game by utilizing the original game code while upgrading the graphics with new artwork and high resolution 1080p images -- all of the art, from character animation to stage backgrounds, will be completely redrawn by Udon Entertainment, the company responsible for the official US Street Fighter series of comics. Super Street Fighter II Turbo HD Remix includes both online and offline competition for one to two players.",
-  "CommunityRating": "3.48",
-  "ESRB": "T - Teen",
-  "Genres": "Fighting",
-  "Developer": "Backbone Entertainment",
-  "Publisher": "Capcom",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "c9526849-57ef-403f-b3ce-90f84ced46be.png",
-        "Type": "Banner",
-        "CRC32": "152748256",
-        "URL": "http://images.launchbox-app.com/c9526849-57ef-403f-b3ce-90f84ced46be.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2265496923",
         "FileName": "44a0c0cc-e734-4216-b899-db5e44f82957.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2265496923",
         "URL": "http://images.launchbox-app.com/44a0c0cc-e734-4216-b899-db5e44f82957.jpg"
       },
       {
+        "CRC32": "3503522131",
         "FileName": "c57ac319-4978-4c52-a9a9-14389d9612ea.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3503522131",
         "URL": "http://images.launchbox-app.com/c57ac319-4978-4c52-a9a9-14389d9612ea.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "152748256",
+        "FileName": "c9526849-57ef-403f-b3ce-90f84ced46be.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/c9526849-57ef-403f-b3ce-90f84ced46be.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "02410667-90ff-4273-a73f-fa67ed4ebfcd.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3659195063",
+          "FileName": "02410667-90ff-4273-a73f-fa67ed4ebfcd.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/02410667-90ff-4273-a73f-fa67ed4ebfcd.jpg"
         }
       ]
     },
     "Disc": [
       {
+        "CRC32": "4144454336",
         "FileName": "dfa90860-e47e-46cc-8478-37d1afbe0fee.png",
         "Type": "Fanart - Disc",
-        "CRC32": "4144454336",
         "URL": "http://images.launchbox-app.com/dfa90860-e47e-46cc-8478-37d1afbe0fee.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "717c9091-ccc8-4e63-96b2-db0925f6746f.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1772899349",
-        "URL": "http://images.launchbox-app.com/717c9091-ccc8-4e63-96b2-db0925f6746f.jpg"
-      },
-      {
-        "FileName": "d14a8c5e-a307-4b51-b09b-970c9b587c0e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1133913100",
-        "URL": "http://images.launchbox-app.com/d14a8c5e-a307-4b51-b09b-970c9b587c0e.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "1279468464",
         "FileName": "be5f0eb3-f2b8-441b-bc7a-1fb38d8b5923.png",
         "Type": "Clear Logo",
-        "CRC32": "1279468464",
         "URL": "http://images.launchbox-app.com/be5f0eb3-f2b8-441b-bc7a-1fb38d8b5923.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1772899349",
+        "FileName": "717c9091-ccc8-4e63-96b2-db0925f6746f.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/717c9091-ccc8-4e63-96b2-db0925f6746f.jpg"
+      },
+      {
+        "CRC32": "1133913100",
+        "FileName": "d14a8c5e-a307-4b51-b09b-970c9b587c0e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d14a8c5e-a307-4b51-b09b-970c9b587c0e.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.48",
+  "DatabaseID": "16715",
+  "Developer": "Backbone Entertainment",
+  "ESRB": "T - Teen",
+  "Genres": "Fighting",
+  "Name": "Super Street Fighter II Turbo HD Remix",
+  "Overview": "The Capcom arcade classic receives a whole new look with Super Street Fighter II Turbo HD Remix. Capcom maintains the integrity of the popular game by utilizing the original game code while upgrading the graphics with new artwork and high resolution 1080p images -- all of the art, from character animation to stage backgrounds, will be completely redrawn by Udon Entertainment, the company responsible for the official US Street Fighter series of comics. Super Street Fighter II Turbo HD Remix includes both online and offline competition for one to two players.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2008-11-26T00:00:00+00:00"
 }

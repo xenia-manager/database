@@ -1,38 +1,38 @@
 {
-  "Name": " Bioerosion",
-  "DatabaseID": "468038",
-  "ReleaseDate": "2011-01-30T00:00:00+00:00",
-  "Overview": "It is a TPS (Third Person Shooter).\n\nDefeat the crazy monsters that approach you! As you progress through the stages, the city changes its appearance...",
-  "Genres": "Shooter",
-  "Developer": "mukagosoft",
-  "Publisher": "mukagosoft",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "11dfe2af-e36c-4ed3-8597-a1cf193cb2ee.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4056286792",
+          "FileName": "11dfe2af-e36c-4ed3-8597-a1cf193cb2ee.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/11dfe2af-e36c-4ed3-8597-a1cf193cb2ee.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "f6c7001f-d668-4b78-ae3e-431f1f35b18b.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3786109967",
+        "FileName": "76d91402-9cc2-4880-8cdb-576718dde829.jpg",
         "Region": "World",
-        "CRC32": "3642847740",
-        "URL": "http://images.launchbox-app.com/f6c7001f-d668-4b78-ae3e-431f1f35b18b.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/76d91402-9cc2-4880-8cdb-576718dde829.jpg"
       },
       {
-        "FileName": "76d91402-9cc2-4880-8cdb-576718dde829.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3642847740",
+        "FileName": "f6c7001f-d668-4b78-ae3e-431f1f35b18b.jpg",
         "Region": "World",
-        "CRC32": "3786109967",
-        "URL": "http://images.launchbox-app.com/76d91402-9cc2-4880-8cdb-576718dde829.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f6c7001f-d668-4b78-ae3e-431f1f35b18b.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468038",
+  "Developer": "mukagosoft",
+  "Genres": "Shooter",
+  "Name": " Bioerosion",
+  "Overview": "It is a TPS (Third Person Shooter).\n\nDefeat the crazy monsters that approach you! As you progress through the stages, the city changes its appearance...",
+  "Publisher": "mukagosoft",
+  "ReleaseDate": "2011-01-30T00:00:00+00:00"
 }

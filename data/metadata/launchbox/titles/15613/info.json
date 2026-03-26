@@ -1,64 +1,64 @@
 {
-  "Name": "GripShift",
-  "DatabaseID": "15613",
-  "ReleaseDate": "2007-12-12T00:00:00+00:00",
-  "Overview": "Gripshift is a driving game with a twist. It combines racing with puzzles and even some platform action. \n\nThe game is built around a tour mode where the player must complete the stages one by one. Clear these stages by driving fast to the finish or try to top the times required to obtain bronze, silver, and gold medals. There are also stars to collect and a hidden item on every stage to discover. All of the levels are afloat in the air, so if the player happens to drift off the course, the car drops into nothingness.\n\nThere are many multiplayer modes, including bonus games such as soccer, ice hockey and a Snake game played with cars. In the track editor, players can construct their own gravity-defying tracks and share them through a wireless connection.",
-  "CommunityRating": "2.9",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/GripShift",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Racing",
-  "Developer": "Sidhe",
-  "Publisher": "Ubisoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_fd5b5bc0-6576-4c1b-9f93-14e3cac42862.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "572100003",
-        "URL": "http://images.launchbox-app.com/r2_fd5b5bc0-6576-4c1b-9f93-14e3cac42862.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_6c3bb3d8-8ec2-4fd4-b2da-4a942fd539b0.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2653502021",
+        "FileName": "r2_6c3bb3d8-8ec2-4fd4-b2da-4a942fd539b0.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_6c3bb3d8-8ec2-4fd4-b2da-4a942fd539b0.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "572100003",
+        "FileName": "r2_fd5b5bc0-6576-4c1b-9f93-14e3cac42862.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_fd5b5bc0-6576-4c1b-9f93-14e3cac42862.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "818487832",
           "FileName": "7ee7fd74-8726-47bd-9d92-180fe5384409.jpg",
           "Type": "Box - Front",
-          "CRC32": "818487832",
           "URL": "http://images.launchbox-app.com/7ee7fd74-8726-47bd-9d92-180fe5384409.jpg"
         },
         {
-          "FileName": "r2_a159062e-46bf-445b-81bb-05053502e445.png",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3393644144",
+          "FileName": "r2_a159062e-46bf-445b-81bb-05053502e445.png",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a159062e-46bf-445b-81bb-05053502e445.png"
         },
         {
-          "FileName": "r2_f2f2d98b-19f4-44af-adf9-ce56c5be515a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3602285450",
+          "FileName": "r2_f2f2d98b-19f4-44af-adf9-ce56c5be515a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f2f2d98b-19f4-44af-adf9-ce56c5be515a.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "1891834096",
         "FileName": "23cb3587-296e-4ba5-a2c7-5cac0ba05222.png",
         "Type": "Clear Logo",
-        "CRC32": "1891834096",
         "URL": "http://images.launchbox-app.com/23cb3587-296e-4ba5-a2c7-5cac0ba05222.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.9",
+  "DatabaseID": "15613",
+  "Developer": "Sidhe",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Racing",
+  "Name": "GripShift",
+  "Overview": "Gripshift is a driving game with a twist. It combines racing with puzzles and even some platform action. \n\nThe game is built around a tour mode where the player must complete the stages one by one. Clear these stages by driving fast to the finish or try to top the times required to obtain bronze, silver, and gold medals. There are also stars to collect and a hidden item on every stage to discover. All of the levels are afloat in the air, so if the player happens to drift off the course, the car drops into nothingness.\n\nThere are many multiplayer modes, including bonus games such as soccer, ice hockey and a Snake game played with cars. In the track editor, players can construct their own gravity-defying tracks and share them through a wireless connection.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2007-12-12T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/GripShift"
 }

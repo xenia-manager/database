@@ -1,38 +1,38 @@
 {
-  "Name": "Love Tore: Bitter",
-  "DatabaseID": "460806",
-  "ReleaseDate": "2013-01-31T00:00:00+00:00",
-  "Overview": "Love Tore: Bitter is an anime-themed Kinect dance game released only in Japan. It is the third in the series.",
-  "Genres": "Music",
-  "Developer": "BOOST ON",
-  "Publisher": "BOOST ON",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "5fef01e6-6605-4cac-b346-691536c5ba93.png",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "3138192592",
+          "FileName": "5fef01e6-6605-4cac-b346-691536c5ba93.png",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/5fef01e6-6605-4cac-b346-691536c5ba93.png"
         }
       ],
       "Front": [
         {
-          "FileName": "ae095476-fe2c-426f-ac1e-3770e4e88c2d.png",
-          "Type": "Box - Front",
+          "CRC32": "495073170",
+          "FileName": "4f9cc595-e577-4e52-9ae4-a1a02513fd48.png",
           "Region": "Japan",
-          "CRC32": "12482706",
-          "URL": "http://images.launchbox-app.com/ae095476-fe2c-426f-ac1e-3770e4e88c2d.png"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/4f9cc595-e577-4e52-9ae4-a1a02513fd48.png"
         },
         {
-          "FileName": "4f9cc595-e577-4e52-9ae4-a1a02513fd48.png",
-          "Type": "Box - Front",
+          "CRC32": "12482706",
+          "FileName": "ae095476-fe2c-426f-ac1e-3770e4e88c2d.png",
           "Region": "Japan",
-          "CRC32": "495073170",
-          "URL": "http://images.launchbox-app.com/4f9cc595-e577-4e52-9ae4-a1a02513fd48.png"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/ae095476-fe2c-426f-ac1e-3770e4e88c2d.png"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "460806",
+  "Developer": "BOOST ON",
+  "Genres": "Music",
+  "Name": "Love Tore: Bitter",
+  "Overview": "Love Tore: Bitter is an anime-themed Kinect dance game released only in Japan. It is the third in the series.",
+  "Publisher": "BOOST ON",
+  "ReleaseDate": "2013-01-31T00:00:00+00:00"
 }

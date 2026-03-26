@@ -1,107 +1,107 @@
 {
-  "Name": "Sonic the Fighters",
-  "DatabaseID": "16647",
-  "ReleaseDate": "2012-11-28T00:00:00+00:00",
-  "Overview": "Join Sonic and friends in battle in this classic arcade game from AM2. Originally on consoles as part of the Sonic Gems collection, Sonic the Fighters is back with an all-new online mode, including both online versus and tournament play. In single player mode, choose from 10 playable characters and fight through 8 stages to stop Dr. Robotnik and Metal Sonic from unleashing the Death Egg II! Features include: True to its arcade form with all-new online modes, all 8 original characters and arenas, online versus mode for head-to-head matches, and an online room match mode for up to 6 players!",
-  "VideoURL": "https://www.youtube.com/watch?v=TZreUwigJZk",
-  "CommunityRating": "3.6",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Sonic_the_Fighters",
-  "ESRB": "E - Everyone",
-  "Genres": "Fighting",
-  "Developer": "Sega AM2",
-  "Publisher": "Sega",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "6b179640-c196-4558-b20f-4c164e5d5ff3.png",
-        "Type": "Banner",
-        "CRC32": "2750055195",
-        "URL": "http://images.launchbox-app.com/6b179640-c196-4558-b20f-4c164e5d5ff3.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3046745930",
         "FileName": "51ebcd2b-13f2-4468-9f24-15f55b6383d7.png",
         "Type": "Fanart - Background",
-        "CRC32": "3046745930",
         "URL": "http://images.launchbox-app.com/51ebcd2b-13f2-4468-9f24-15f55b6383d7.png"
       },
       {
-        "FileName": "61e742cb-6a50-4adf-bab7-93b5b499c9e3.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "958756455",
-        "URL": "http://images.launchbox-app.com/61e742cb-6a50-4adf-bab7-93b5b499c9e3.jpg"
-      },
-      {
-        "FileName": "e48a5aeb-9e07-4fc0-834e-3e7cdf98f608.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "4112137135",
-        "URL": "http://images.launchbox-app.com/e48a5aeb-9e07-4fc0-834e-3e7cdf98f608.jpg"
-      },
-      {
+        "CRC32": "1232525005",
         "FileName": "5ffdcbe1-f418-47a0-a4d3-19cd5f03382b.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1232525005",
         "URL": "http://images.launchbox-app.com/5ffdcbe1-f418-47a0-a4d3-19cd5f03382b.jpg"
       },
       {
+        "CRC32": "958756455",
+        "FileName": "61e742cb-6a50-4adf-bab7-93b5b499c9e3.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/61e742cb-6a50-4adf-bab7-93b5b499c9e3.jpg"
+      },
+      {
+        "CRC32": "2031790711",
         "FileName": "91c5a12c-6149-436b-8d7e-072b521b068d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2031790711",
         "URL": "http://images.launchbox-app.com/91c5a12c-6149-436b-8d7e-072b521b068d.jpg"
+      },
+      {
+        "CRC32": "4112137135",
+        "FileName": "e48a5aeb-9e07-4fc0-834e-3e7cdf98f608.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/e48a5aeb-9e07-4fc0-834e-3e7cdf98f608.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2750055195",
+        "FileName": "6b179640-c196-4558-b20f-4c164e5d5ff3.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/6b179640-c196-4558-b20f-4c164e5d5ff3.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "f0340be2-3f29-4326-96f9-ea8f73cc6bb7.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3293443506",
+          "FileName": "f0340be2-3f29-4326-96f9-ea8f73cc6bb7.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f0340be2-3f29-4326-96f9-ea8f73cc6bb7.jpg"
         },
         {
-          "FileName": "1af992c6-3887-46c3-90d5-dfc2e7c954d1.png",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "873741143",
+          "FileName": "1af992c6-3887-46c3-90d5-dfc2e7c954d1.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/1af992c6-3887-46c3-90d5-dfc2e7c954d1.png"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2114593394",
+        "FileName": "36d25413-97c1-4b79-a05b-ead391b215e1.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/36d25413-97c1-4b79-a05b-ead391b215e1.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "985337095",
         "FileName": "28ecab30-2832-459f-a3eb-d9acd7fad359.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "985337095",
         "URL": "http://images.launchbox-app.com/28ecab30-2832-459f-a3eb-d9acd7fad359.jpg"
       },
       {
+        "CRC32": "992368414",
         "FileName": "7fbf8e42-a308-4e80-93da-5dd0da90c9e8.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "992368414",
         "URL": "http://images.launchbox-app.com/7fbf8e42-a308-4e80-93da-5dd0da90c9e8.jpg"
       },
       {
+        "CRC32": "519730295",
         "FileName": "25cc0796-07aa-4169-b705-6dd3d521281f.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "519730295",
         "URL": "http://images.launchbox-app.com/25cc0796-07aa-4169-b705-6dd3d521281f.jpg"
       },
       {
+        "CRC32": "3636597892",
         "FileName": "48dea449-b869-43bc-9e51-2c65913c835e.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3636597892",
         "URL": "http://images.launchbox-app.com/48dea449-b869-43bc-9e51-2c65913c835e.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "36d25413-97c1-4b79-a05b-ead391b215e1.png",
-        "Type": "Clear Logo",
-        "CRC32": "2114593394",
-        "URL": "http://images.launchbox-app.com/36d25413-97c1-4b79-a05b-ead391b215e1.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.6",
+  "DatabaseID": "16647",
+  "Developer": "Sega AM2",
+  "ESRB": "E - Everyone",
+  "Genres": "Fighting",
+  "Name": "Sonic the Fighters",
+  "Overview": "Join Sonic and friends in battle in this classic arcade game from AM2. Originally on consoles as part of the Sonic Gems collection, Sonic the Fighters is back with an all-new online mode, including both online versus and tournament play. In single player mode, choose from 10 playable characters and fight through 8 stages to stop Dr. Robotnik and Metal Sonic from unleashing the Death Egg II! Features include: True to its arcade form with all-new online modes, all 8 original characters and arenas, online versus mode for head-to-head matches, and an online room match mode for up to 6 players!",
+  "Publisher": "Sega",
+  "ReleaseDate": "2012-11-28T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=TZreUwigJZk",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sonic_the_Fighters"
 }

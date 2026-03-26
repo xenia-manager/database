@@ -1,81 +1,81 @@
 {
-  "Name": "Resident Evil 6 Archives",
-  "DatabaseID": "13961",
-  "ReleaseDate": "2012-10-02T00:00:00+00:00",
-  "Overview": "Resident Evil 6 Archives is a Compilation game, developed and published by Capcom, which was released in 2012.",
-  "CommunityRating": "2",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Adventure; Role-Playing",
-  "Developer": "Capcom",
-  "Publisher": "Capcom",
   "Artwork": {
     "Background": [
       {
-        "FileName": "7e9a67f2-8e2e-4260-b55c-b26df6b18f00.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1108159865",
-        "URL": "http://images.launchbox-app.com/7e9a67f2-8e2e-4260-b55c-b26df6b18f00.jpg"
-      },
-      {
-        "FileName": "93a25312-9a89-42a7-863c-5498a5fbb5ca.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2128035795",
-        "URL": "http://images.launchbox-app.com/93a25312-9a89-42a7-863c-5498a5fbb5ca.jpg"
-      },
-      {
+        "CRC32": "274542069",
         "FileName": "72a46d33-2ae1-41fa-97e6-330a8653e3fc.png",
         "Type": "Fanart - Background",
-        "CRC32": "274542069",
         "URL": "http://images.launchbox-app.com/72a46d33-2ae1-41fa-97e6-330a8653e3fc.png"
       },
       {
+        "CRC32": "1108159865",
+        "FileName": "7e9a67f2-8e2e-4260-b55c-b26df6b18f00.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/7e9a67f2-8e2e-4260-b55c-b26df6b18f00.jpg"
+      },
+      {
+        "CRC32": "2128035795",
+        "FileName": "93a25312-9a89-42a7-863c-5498a5fbb5ca.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/93a25312-9a89-42a7-863c-5498a5fbb5ca.jpg"
+      },
+      {
+        "CRC32": "3803271935",
         "FileName": "c86735d7-6f36-4ec8-ab0a-c3d17111ac9a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3803271935",
         "URL": "http://images.launchbox-app.com/c86735d7-6f36-4ec8-ab0a-c3d17111ac9a.jpg"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "f8337993-fb44-4265-b43c-40df16de71c2.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2151641789",
+          "FileName": "f8337993-fb44-4265-b43c-40df16de71c2.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/f8337993-fb44-4265-b43c-40df16de71c2.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "2892205397",
           "FileName": "1867b0af-2641-4537-97fb-47c6bf1299ca.jpg",
           "Type": "Box - Front",
-          "CRC32": "2892205397",
           "URL": "http://images.launchbox-app.com/1867b0af-2641-4537-97fb-47c6bf1299ca.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "6a9a11e4-a6c6-4d60-9983-49de0067e1e4.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "643473218",
-        "URL": "http://images.launchbox-app.com/6a9a11e4-a6c6-4d60-9983-49de0067e1e4.png"
-      },
-      {
-        "FileName": "1cf70e3e-2472-4c0a-b33e-96c7fbb7e5b6.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3448066916",
+        "FileName": "1cf70e3e-2472-4c0a-b33e-96c7fbb7e5b6.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/1cf70e3e-2472-4c0a-b33e-96c7fbb7e5b6.png"
       },
       {
-        "FileName": "36d18772-6a34-4615-aa86-b69b60fe8a7f.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2678583904",
+        "FileName": "36d18772-6a34-4615-aa86-b69b60fe8a7f.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/36d18772-6a34-4615-aa86-b69b60fe8a7f.png"
+      },
+      {
+        "CRC32": "643473218",
+        "FileName": "6a9a11e4-a6c6-4d60-9983-49de0067e1e4.png",
+        "Region": "North America",
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/6a9a11e4-a6c6-4d60-9983-49de0067e1e4.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2",
+  "DatabaseID": "13961",
+  "Developer": "Capcom",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Adventure; Role-Playing",
+  "Name": "Resident Evil 6 Archives",
+  "Overview": "Resident Evil 6 Archives is a Compilation game, developed and published by Capcom, which was released in 2012.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2012-10-02T00:00:00+00:00"
 }

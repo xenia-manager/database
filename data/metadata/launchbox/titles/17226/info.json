@@ -1,134 +1,134 @@
 {
-  "Name": "Need for Speed: Rivals",
-  "DatabaseID": "17226",
-  "ReleaseDate": "2013-11-19T00:00:00+00:00",
-  "Overview": "Need for Speed: Rivals is an open world racing game and the 20th installment in this series. Like Need for Speed: Hot Pursuit it supports two storylines: The Racer and The Cop (with three separate paths: patrol, enforcer, or undercover). Both have a full career progression, through speedlists for the racer and assignments for the cop. Players level up by completing objectives. There are gadgets such as an EMPs, shockwaves and the ability to call in roadblocks that can be upgraded. The game takes place in the fictional location Redview County. It is an open world with 160 km (100 miles) of streets.\n\nThe game still incorporates the Autolog system and introduces AllDrive, which allows the player to seamlessly transition from the single-player game to online multiplayer, both cooperatively and head-to-head.",
-  "VideoURL": "http://www.youtube.com/watch?v=nu1MD9yn4L4",
-  "CommunityRating": "3.25",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Racing",
-  "Developer": "Ghost Games",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "500f311f-7ba1-4ef3-9218-98b42036badd.jpg",
-        "Type": "Banner",
-        "CRC32": "3542748939",
-        "URL": "http://images.launchbox-app.com/500f311f-7ba1-4ef3-9218-98b42036badd.jpg"
-      },
-      {
-        "FileName": "342d3645-d47d-449c-be8f-1a67e8244ae0.jpg",
-        "Type": "Banner",
-        "Region": "North America",
-        "CRC32": "2800994700",
-        "URL": "http://images.launchbox-app.com/342d3645-d47d-449c-be8f-1a67e8244ae0.jpg"
-      }
-    ],
     "Background": [
       {
-        "FileName": "5cd1b62a-8a20-40a6-ba9c-cb9c5c2b57dd.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2680146056",
-        "URL": "http://images.launchbox-app.com/5cd1b62a-8a20-40a6-ba9c-cb9c5c2b57dd.jpg"
-      },
-      {
-        "FileName": "b39cdd9f-c106-4d8c-a279-cdae1e200d4a.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3635228561",
-        "URL": "http://images.launchbox-app.com/b39cdd9f-c106-4d8c-a279-cdae1e200d4a.jpg"
-      },
-      {
+        "CRC32": "305192615",
         "FileName": "41cd09b0-6705-4cdb-a836-e871ed6c0419.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "305192615",
         "URL": "http://images.launchbox-app.com/41cd09b0-6705-4cdb-a836-e871ed6c0419.jpg"
       },
       {
+        "CRC32": "2454019332",
         "FileName": "4f5539b9-58d4-4103-b982-af2eac13dd97.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2454019332",
         "URL": "http://images.launchbox-app.com/4f5539b9-58d4-4103-b982-af2eac13dd97.jpg"
       },
       {
+        "CRC32": "2680146056",
+        "FileName": "5cd1b62a-8a20-40a6-ba9c-cb9c5c2b57dd.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/5cd1b62a-8a20-40a6-ba9c-cb9c5c2b57dd.jpg"
+      },
+      {
+        "CRC32": "3635228561",
+        "FileName": "b39cdd9f-c106-4d8c-a279-cdae1e200d4a.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/b39cdd9f-c106-4d8c-a279-cdae1e200d4a.jpg"
+      },
+      {
+        "CRC32": "1812346784",
         "FileName": "d280e3da-a443-46f6-87ff-e460b8d1ee8c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1812346784",
         "URL": "http://images.launchbox-app.com/d280e3da-a443-46f6-87ff-e460b8d1ee8c.jpg"
       },
       {
+        "CRC32": "2524320793",
         "FileName": "f78087e8-fae0-44e0-96bd-88a90ff6b70a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2524320793",
         "URL": "http://images.launchbox-app.com/f78087e8-fae0-44e0-96bd-88a90ff6b70a.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3542748939",
+        "FileName": "500f311f-7ba1-4ef3-9218-98b42036badd.jpg",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/500f311f-7ba1-4ef3-9218-98b42036badd.jpg"
+      },
+      {
+        "CRC32": "2800994700",
+        "FileName": "342d3645-d47d-449c-be8f-1a67e8244ae0.jpg",
+        "Region": "North America",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/342d3645-d47d-449c-be8f-1a67e8244ae0.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "4c9770d1-d51c-454f-bc5c-138c5a7b6fc1.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3214450003",
+          "FileName": "4c9770d1-d51c-454f-bc5c-138c5a7b6fc1.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/4c9770d1-d51c-454f-bc5c-138c5a7b6fc1.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_139f12cf-e3de-4b48-a593-25bafa7bb8be.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3416084965",
+          "FileName": "r2_139f12cf-e3de-4b48-a593-25bafa7bb8be.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_139f12cf-e3de-4b48-a593-25bafa7bb8be.jpg"
         },
         {
-          "FileName": "2f42cd38-c797-4344-a520-c11662af0141.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2111290736",
+          "FileName": "2f42cd38-c797-4344-a520-c11662af0141.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/2f42cd38-c797-4344-a520-c11662af0141.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_13465c64-55b2-4ba2-ac86-cbb24b5fb464.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3505580622",
+          "FileName": "r2_13465c64-55b2-4ba2-ac86-cbb24b5fb464.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_13465c64-55b2-4ba2-ac86-cbb24b5fb464.jpg"
         },
         {
-          "FileName": "1b8735dd-001c-4f3c-869f-d07a4a0636da.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1071095706",
+          "FileName": "1b8735dd-001c-4f3c-869f-d07a4a0636da.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1b8735dd-001c-4f3c-869f-d07a4a0636da.jpg"
         },
         {
-          "FileName": "6dbed74c-2703-4a0e-8af5-d22d1d3c0d9f.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "394967647",
+          "FileName": "6dbed74c-2703-4a0e-8af5-d22d1d3c0d9f.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/6dbed74c-2703-4a0e-8af5-d22d1d3c0d9f.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "c3713371-e5de-4746-b0f1-b34e563ef797.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2504601881",
+        "FileName": "c3713371-e5de-4746-b0f1-b34e563ef797.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c3713371-e5de-4746-b0f1-b34e563ef797.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2864694325",
         "FileName": "6939fa22-942e-403a-8020-0fe9161378cc.png",
         "Type": "Clear Logo",
-        "CRC32": "2864694325",
         "URL": "http://images.launchbox-app.com/6939fa22-942e-403a-8020-0fe9161378cc.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.25",
+  "DatabaseID": "17226",
+  "Developer": "Ghost Games",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Racing",
+  "Name": "Need for Speed: Rivals",
+  "Overview": "Need for Speed: Rivals is an open world racing game and the 20th installment in this series. Like Need for Speed: Hot Pursuit it supports two storylines: The Racer and The Cop (with three separate paths: patrol, enforcer, or undercover). Both have a full career progression, through speedlists for the racer and assignments for the cop. Players level up by completing objectives. There are gadgets such as an EMPs, shockwaves and the ability to call in roadblocks that can be upgraded. The game takes place in the fictional location Redview County. It is an open world with 160 km (100 miles) of streets.\n\nThe game still incorporates the Autolog system and introduces AllDrive, which allows the player to seamlessly transition from the single-player game to online multiplayer, both cooperatively and head-to-head.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2013-11-19T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=nu1MD9yn4L4"
 }

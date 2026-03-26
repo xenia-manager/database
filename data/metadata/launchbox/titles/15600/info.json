@@ -1,91 +1,91 @@
 {
-  "Name": "Ghostbusters: Sanctum of Slime",
-  "DatabaseID": "15600",
-  "ReleaseDate": "2011-03-23T00:00:00+00:00",
-  "Overview": "Ghostbusters: Sanctum of Slime is an action video game developed by Behaviour Santiago, and published by Atari.\n\nThe gameplay is a four player co-op twinstick shooter. Players must defeat hordes of ghosts in each room before eventually reaching the boss of each level. Each Ghostbuster is equipped with three proton streams, red, yellow, and blue, and the correct color must be switched to to defeat ghosts of a similar color. In addition each stream can produce effects on some enemies even if they are a different color: red slows enemies, yellow causes them to pause, and blue bounces off of obstacles. Stronger ghosts can sometimes leave behind powerups like double damage or bonus points. Points are awarded for chaining together defeats of ghosts, destroying property, or reviving teammates. In addition to the normal walking levels there are two levels where the Ghostbusters ride in the back of the Ecto-4WD, and must defend the vehicle from attacking ghosts. If less than four players are present AI will fill in for the missing slots.",
-  "CommunityRating": "3.78571428571429",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Ghostbusters:_Sanctum_of_Slime",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Shooter",
-  "Developer": "Behaviour Interactive Chile",
-  "Publisher": "Atari",
   "Artwork": {
     "Arcade": [
       {
+        "CRC32": "1315427724",
         "FileName": "508e8081-0e75-4036-8d24-3b1203b0376a.png",
         "Type": "Arcade - Controls Information",
-        "CRC32": "1315427724",
         "URL": "http://images.launchbox-app.com/508e8081-0e75-4036-8d24-3b1203b0376a.png"
-      }
-    ],
-    "Banner": [
-      {
-        "FileName": "0c7e3702-3c86-43c3-9a28-65cc0831e95d.png",
-        "Type": "Banner",
-        "CRC32": "4239961327",
-        "URL": "http://images.launchbox-app.com/0c7e3702-3c86-43c3-9a28-65cc0831e95d.png"
       }
     ],
     "Background": [
       {
+        "CRC32": "4007544580",
         "FileName": "190d512d-cdb5-4f6f-866a-4968c0661c09.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4007544580",
         "URL": "http://images.launchbox-app.com/190d512d-cdb5-4f6f-866a-4968c0661c09.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4239961327",
+        "FileName": "0c7e3702-3c86-43c3-9a28-65cc0831e95d.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/0c7e3702-3c86-43c3-9a28-65cc0831e95d.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "19f74ce9-2051-4173-87f3-16948c4ddc9a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1697917554",
+          "FileName": "19f74ce9-2051-4173-87f3-16948c4ddc9a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/19f74ce9-2051-4173-87f3-16948c4ddc9a.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "8635ce4d-2c90-4571-92b4-62719f9c3e96.png",
-        "Type": "Fanart - Disc",
-        "CRC32": "2508864583",
-        "URL": "http://images.launchbox-app.com/8635ce4d-2c90-4571-92b4-62719f9c3e96.png"
-      },
-      {
+        "CRC32": "3885466174",
         "FileName": "6bde162b-55c9-4ec7-935e-ec6aeaf3ad63.png",
         "Type": "Fanart - Disc",
-        "CRC32": "3885466174",
         "URL": "http://images.launchbox-app.com/6bde162b-55c9-4ec7-935e-ec6aeaf3ad63.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "e5150f00-0aba-4ef4-8fef-9f54189ab71f.png",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "2702626892",
-        "URL": "http://images.launchbox-app.com/e5150f00-0aba-4ef4-8fef-9f54189ab71f.png"
       },
       {
-        "FileName": "cbcadd2e-861b-48ad-8308-c21b9e4de02a.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2866373101",
-        "URL": "http://images.launchbox-app.com/cbcadd2e-861b-48ad-8308-c21b9e4de02a.png"
+        "CRC32": "2508864583",
+        "FileName": "8635ce4d-2c90-4571-92b4-62719f9c3e96.png",
+        "Type": "Fanart - Disc",
+        "URL": "http://images.launchbox-app.com/8635ce4d-2c90-4571-92b4-62719f9c3e96.png"
       }
     ],
     "Other": [
       {
-        "FileName": "bfe5fe48-b4e3-4dcb-8a52-8028a3d7c6c9.png",
-        "Type": "Clear Logo",
-        "CRC32": "1627570019",
-        "URL": "http://images.launchbox-app.com/bfe5fe48-b4e3-4dcb-8a52-8028a3d7c6c9.png"
-      },
-      {
+        "CRC32": "597229482",
         "FileName": "14001d12-543f-4113-877e-7aebcfe0a1ec.png",
         "Type": "Clear Logo",
-        "CRC32": "597229482",
         "URL": "http://images.launchbox-app.com/14001d12-543f-4113-877e-7aebcfe0a1ec.png"
+      },
+      {
+        "CRC32": "1627570019",
+        "FileName": "bfe5fe48-b4e3-4dcb-8a52-8028a3d7c6c9.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/bfe5fe48-b4e3-4dcb-8a52-8028a3d7c6c9.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2702626892",
+        "FileName": "e5150f00-0aba-4ef4-8fef-9f54189ab71f.png",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/e5150f00-0aba-4ef4-8fef-9f54189ab71f.png"
+      },
+      {
+        "CRC32": "2866373101",
+        "FileName": "cbcadd2e-861b-48ad-8308-c21b9e4de02a.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/cbcadd2e-861b-48ad-8308-c21b9e4de02a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.78571428571429",
+  "DatabaseID": "15600",
+  "Developer": "Behaviour Interactive Chile",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Shooter",
+  "Name": "Ghostbusters: Sanctum of Slime",
+  "Overview": "Ghostbusters: Sanctum of Slime is an action video game developed by Behaviour Santiago, and published by Atari.\n\nThe gameplay is a four player co-op twinstick shooter. Players must defeat hordes of ghosts in each room before eventually reaching the boss of each level. Each Ghostbuster is equipped with three proton streams, red, yellow, and blue, and the correct color must be switched to to defeat ghosts of a similar color. In addition each stream can produce effects on some enemies even if they are a different color: red slows enemies, yellow causes them to pause, and blue bounces off of obstacles. Stronger ghosts can sometimes leave behind powerups like double damage or bonus points. Points are awarded for chaining together defeats of ghosts, destroying property, or reviving teammates. In addition to the normal walking levels there are two levels where the Ghostbusters ride in the back of the Ecto-4WD, and must defend the vehicle from attacking ghosts. If less than four players are present AI will fill in for the missing slots.",
+  "Publisher": "Atari",
+  "ReleaseDate": "2011-03-23T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Ghostbusters:_Sanctum_of_Slime"
 }

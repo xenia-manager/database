@@ -1,122 +1,122 @@
 {
-  "Name": "Rayman Legends",
-  "DatabaseID": "16306",
-  "ReleaseDate": "2013-09-03T00:00:00+00:00",
-  "Overview": "Summary: Rayman Legends is the follow-up to last year's Rayman Origins and aims to bring multiplayer interactions for you to use. The Glade of Dreams is in trouble again. During a 100-year nap, the nightmares multiplied and spread, creating new monsters even scarier than before. These creatures are the stuff of legend… Dragons, giant toads, sea monsters, and even evil luchadores. With the help of Murfy, Rayman and Globox awake and must now help fight these nightmares and save the Teensies.",
-  "VideoURL": "https://www.youtube.com/watch?v=yMIKs1PKrEM&ab_channel=Ubisoft",
-  "CommunityRating": "3.91666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Rayman_Legends",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Platform",
-  "Developer": "Ubisoft Montpellier",
-  "Publisher": "Ubisoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "9888a593-bd9a-4e0d-a5ad-733264ce5d00.jpg",
-        "Type": "Banner",
-        "Region": "Europe",
-        "CRC32": "3462943170",
-        "URL": "http://images.launchbox-app.com/9888a593-bd9a-4e0d-a5ad-733264ce5d00.jpg"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "262959258",
         "FileName": "01ef1c7f-b98a-4b13-b1a1-30b4e443f616.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "262959258",
         "URL": "http://images.launchbox-app.com/01ef1c7f-b98a-4b13-b1a1-30b4e443f616.jpg"
       },
       {
+        "CRC32": "604369728",
         "FileName": "e857052a-b178-474e-ad08-dbd0d81daa42.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "604369728",
         "URL": "http://images.launchbox-app.com/e857052a-b178-474e-ad08-dbd0d81daa42.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3462943170",
+        "FileName": "9888a593-bd9a-4e0d-a5ad-733264ce5d00.jpg",
+        "Region": "Europe",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/9888a593-bd9a-4e0d-a5ad-733264ce5d00.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "ea5ef3bf-0329-4be3-b21e-0e778b9b2dbd.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3761917581",
+          "FileName": "ea5ef3bf-0329-4be3-b21e-0e778b9b2dbd.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/ea5ef3bf-0329-4be3-b21e-0e778b9b2dbd.png"
         }
       ],
       "Back": [
         {
-          "FileName": "564919ad-3c40-4bc8-887a-7c7de001048f.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "1989573747",
+          "FileName": "564919ad-3c40-4bc8-887a-7c7de001048f.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/564919ad-3c40-4bc8-887a-7c7de001048f.jpg"
         },
         {
-          "FileName": "r2_fac4f4c6-e345-4ccb-b4e6-efecf0cfad44.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "600268859",
+          "FileName": "r2_fac4f4c6-e345-4ccb-b4e6-efecf0cfad44.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_fac4f4c6-e345-4ccb-b4e6-efecf0cfad44.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "1b9196b5-114a-45a0-b434-7dafbef5a637.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2031626157",
+          "FileName": "1b9196b5-114a-45a0-b434-7dafbef5a637.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1b9196b5-114a-45a0-b434-7dafbef5a637.jpg"
         },
         {
-          "FileName": "r2_df2fadf0-56c3-46eb-8f5d-c7701de56056.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3019988385",
+          "FileName": "r2_df2fadf0-56c3-46eb-8f5d-c7701de56056.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_df2fadf0-56c3-46eb-8f5d-c7701de56056.jpg"
         },
         {
-          "FileName": "bdad1740-cd7d-4eb5-8693-522dad43ef27.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "262535014",
+          "FileName": "bdad1740-cd7d-4eb5-8693-522dad43ef27.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/bdad1740-cd7d-4eb5-8693-522dad43ef27.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2667961367",
+        "FileName": "9c858df3-70f6-472d-aba9-79a328841442.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/9c858df3-70f6-472d-aba9-79a328841442.png"
+      }
+    ],
     "Screenshots": [
       {
-        "FileName": "a349bed6-efc4-4d0d-aece-a89d8920b555.jpg",
+        "CRC32": "3436302173",
+        "FileName": "18a70841-ba24-4eb4-8cfd-4bff90b6544b.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1524852405",
-        "URL": "http://images.launchbox-app.com/a349bed6-efc4-4d0d-aece-a89d8920b555.jpg"
+        "URL": "http://images.launchbox-app.com/18a70841-ba24-4eb4-8cfd-4bff90b6544b.jpg"
       },
       {
-        "FileName": "5b306ebd-a8a3-4bc0-a487-d95348cb2093.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3598993204",
-        "URL": "http://images.launchbox-app.com/5b306ebd-a8a3-4bc0-a487-d95348cb2093.jpg"
-      },
-      {
+        "CRC32": "173986068",
         "FileName": "303e5597-40b5-4378-b985-3af2daf62bd8.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "173986068",
         "URL": "http://images.launchbox-app.com/303e5597-40b5-4378-b985-3af2daf62bd8.jpg"
       },
       {
-        "FileName": "18a70841-ba24-4eb4-8cfd-4bff90b6544b.jpg",
+        "CRC32": "3598993204",
+        "FileName": "5b306ebd-a8a3-4bc0-a487-d95348cb2093.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3436302173",
-        "URL": "http://images.launchbox-app.com/18a70841-ba24-4eb4-8cfd-4bff90b6544b.jpg"
-      }
-    ],
-    "Other": [
+        "URL": "http://images.launchbox-app.com/5b306ebd-a8a3-4bc0-a487-d95348cb2093.jpg"
+      },
       {
-        "FileName": "9c858df3-70f6-472d-aba9-79a328841442.png",
-        "Type": "Clear Logo",
-        "CRC32": "2667961367",
-        "URL": "http://images.launchbox-app.com/9c858df3-70f6-472d-aba9-79a328841442.png"
+        "CRC32": "1524852405",
+        "FileName": "a349bed6-efc4-4d0d-aece-a89d8920b555.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a349bed6-efc4-4d0d-aece-a89d8920b555.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.91666666666667",
+  "DatabaseID": "16306",
+  "Developer": "Ubisoft Montpellier",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Platform",
+  "Name": "Rayman Legends",
+  "Overview": "Summary: Rayman Legends is the follow-up to last year's Rayman Origins and aims to bring multiplayer interactions for you to use. The Glade of Dreams is in trouble again. During a 100-year nap, the nightmares multiplied and spread, creating new monsters even scarier than before. These creatures are the stuff of legend… Dragons, giant toads, sea monsters, and even evil luchadores. With the help of Murfy, Rayman and Globox awake and must now help fight these nightmares and save the Teensies.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2013-09-03T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=yMIKs1PKrEM&ab_channel=Ubisoft",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Rayman_Legends"
 }

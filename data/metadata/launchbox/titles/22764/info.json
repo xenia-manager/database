@@ -1,33 +1,33 @@
 {
-  "Name": "Sacred Citadel",
-  "DatabaseID": "22764",
-  "ReleaseDate": "2013-04-17T00:00:00+00:00",
-  "Overview": "Sacred Citadel is a side-scrolling action brawler video game in the Sacred series. It was released in April 2013, and takes place before the 2014 sequel Sacred 3. It was developed by Southend Interactive and published by Deep Silver for Xbox Live Arcade, PlayStation Network, and Microsoft Windows. A DLC called Sacred Citadel: Jungle Hunt was released on the same month.",
-  "CommunityRating": "2.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Sacred_Citadel",
-  "ESRB": "T - Teen",
-  "Genres": "Beat 'em Up",
-  "Developer": "SouthEnd Interactive",
-  "Publisher": "Deep Silver",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "49a62a17-3383-4f08-a70f-13ae03af7614.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3206799990",
+          "FileName": "49a62a17-3383-4f08-a70f-13ae03af7614.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/49a62a17-3383-4f08-a70f-13ae03af7614.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "1175716152",
         "FileName": "2ba923bd-1591-48e6-be44-610cce3d856c.png",
         "Type": "Clear Logo",
-        "CRC32": "1175716152",
         "URL": "http://images.launchbox-app.com/2ba923bd-1591-48e6-be44-610cce3d856c.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.5",
+  "DatabaseID": "22764",
+  "Developer": "SouthEnd Interactive",
+  "ESRB": "T - Teen",
+  "Genres": "Beat 'em Up",
+  "Name": "Sacred Citadel",
+  "Overview": "Sacred Citadel is a side-scrolling action brawler video game in the Sacred series. It was released in April 2013, and takes place before the 2014 sequel Sacred 3. It was developed by Southend Interactive and published by Deep Silver for Xbox Live Arcade, PlayStation Network, and Microsoft Windows. A DLC called Sacred Citadel: Jungle Hunt was released on the same month.",
+  "Publisher": "Deep Silver",
+  "ReleaseDate": "2013-04-17T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sacred_Citadel"
 }

@@ -1,31 +1,31 @@
 {
-  "Name": "Avatar Fear",
-  "DatabaseID": "467557",
-  "ReleaseDate": "2014-05-29T00:00:00+00:00",
-  "Overview": "Take your avatar on a scary journey through the ruins of a lost Mayan citadel. Team up with your friends in search of the sacred relics, but beware of the ancient creature that protects them...",
-  "Genres": "Action; Horror",
-  "Developer": "RenderCode Games",
-  "Publisher": "RenderCode Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "722b3513-3e67-4da5-bda1-14dd6f5c5df7.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3748673487",
+          "FileName": "722b3513-3e67-4da5-bda1-14dd6f5c5df7.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/722b3513-3e67-4da5-bda1-14dd6f5c5df7.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "25066f50-962f-4c9e-851f-bfb90903dc25.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1070300142",
+        "FileName": "25066f50-962f-4c9e-851f-bfb90903dc25.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/25066f50-962f-4c9e-851f-bfb90903dc25.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467557",
+  "Developer": "RenderCode Games",
+  "Genres": "Action; Horror",
+  "Name": "Avatar Fear",
+  "Overview": "Take your avatar on a scary journey through the ruins of a lost Mayan citadel. Team up with your friends in search of the sacred relics, but beware of the ancient creature that protects them...",
+  "Publisher": "RenderCode Games",
+  "ReleaseDate": "2014-05-29T00:00:00+00:00"
 }

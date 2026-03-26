@@ -1,45 +1,45 @@
 {
-  "Name": "Avatar Fighter Online",
-  "DatabaseID": "467561",
-  "ReleaseDate": "2011-09-21T00:00:00+00:00",
-  "Overview": "A fighting game with avatars... now with online multiplayer! Fight to become champion of the Avatar Fighter tournament! Choose out of eight characters, or use your own avatar as a custom fighter with a customizable move set!",
-  "Genres": "Fighting",
-  "Developer": "Bwoot Games",
-  "Publisher": "Bwoot Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "18fdac07-e582-49c7-85d9-de6d6fc92c48.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1584743309",
+          "FileName": "18fdac07-e582-49c7-85d9-de6d6fc92c48.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/18fdac07-e582-49c7-85d9-de6d6fc92c48.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "c8c0c695-8336-4c67-ab6d-ecfa995d12c3.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1223945823",
-        "URL": "http://images.launchbox-app.com/c8c0c695-8336-4c67-ab6d-ecfa995d12c3.jpg"
-      },
-      {
-        "FileName": "2bd3157b-f0f2-4998-9906-8dcbb4c7bb8e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1868731421",
+        "FileName": "2bd3157b-f0f2-4998-9906-8dcbb4c7bb8e.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/2bd3157b-f0f2-4998-9906-8dcbb4c7bb8e.jpg"
       },
       {
-        "FileName": "b14616de-36b1-4220-873a-4c7d970717c0.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3769412261",
+        "FileName": "b14616de-36b1-4220-873a-4c7d970717c0.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/b14616de-36b1-4220-873a-4c7d970717c0.jpg"
+      },
+      {
+        "CRC32": "1223945823",
+        "FileName": "c8c0c695-8336-4c67-ab6d-ecfa995d12c3.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c8c0c695-8336-4c67-ab6d-ecfa995d12c3.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467561",
+  "Developer": "Bwoot Games",
+  "Genres": "Fighting",
+  "Name": "Avatar Fighter Online",
+  "Overview": "A fighting game with avatars... now with online multiplayer! Fight to become champion of the Avatar Fighter tournament! Choose out of eight characters, or use your own avatar as a custom fighter with a customizable move set!",
+  "Publisher": "Bwoot Games",
+  "ReleaseDate": "2011-09-21T00:00:00+00:00"
 }

@@ -1,45 +1,45 @@
 {
-  "Name": "BattleSweeper",
-  "DatabaseID": "467996",
-  "ReleaseDate": "2009-02-11T00:00:00+00:00",
-  "Overview": "BattleSweeper is a straight Minesweeper variant. There is a grid and each time the player clicks on a field, the game either ends (a hidden bomb was found) or a number is revealed. This number shows how many bombs are found in the direct vicinity. Using those hints, the player has to work out where the bombs are hidden. Flags are used to mark the bomb spots. The game successfully ends when all fields without bombs are revealed.\n\nThis variant features three competitive multiplayer modes: Gems (the players needs to find as many hidden gems as possible), Survive (every player has three lives and no flags) and Zones (the goal is to uncover the largest area).",
-  "Genres": "Puzzle",
-  "Developer": "Studio Guinea Pig",
-  "Publisher": "Studio Guinea Pig",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "c328b1d0-791c-4e89-b64e-a466caa2f5e0.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2325017154",
+          "FileName": "c328b1d0-791c-4e89-b64e-a466caa2f5e0.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c328b1d0-791c-4e89-b64e-a466caa2f5e0.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "b0568c8e-961f-4980-8002-8e8c5d58024f.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "3066683229",
+        "FileName": "b0568c8e-961f-4980-8002-8e8c5d58024f.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/b0568c8e-961f-4980-8002-8e8c5d58024f.jpg"
       },
       {
-        "FileName": "56498f57-0c3a-45b5-83d1-c9f5b681322a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3091474048",
+        "FileName": "56498f57-0c3a-45b5-83d1-c9f5b681322a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/56498f57-0c3a-45b5-83d1-c9f5b681322a.jpg"
       },
       {
-        "FileName": "c591fbcd-a7b7-4d02-8047-24b1713a279c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2099198323",
+        "FileName": "c591fbcd-a7b7-4d02-8047-24b1713a279c.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/c591fbcd-a7b7-4d02-8047-24b1713a279c.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467996",
+  "Developer": "Studio Guinea Pig",
+  "Genres": "Puzzle",
+  "Name": "BattleSweeper",
+  "Overview": "BattleSweeper is a straight Minesweeper variant. There is a grid and each time the player clicks on a field, the game either ends (a hidden bomb was found) or a number is revealed. This number shows how many bombs are found in the direct vicinity. Using those hints, the player has to work out where the bombs are hidden. Flags are used to mark the bomb spots. The game successfully ends when all fields without bombs are revealed.\n\nThis variant features three competitive multiplayer modes: Gems (the players needs to find as many hidden gems as possible), Survive (every player has three lives and no flags) and Zones (the goal is to uncover the largest area).",
+  "Publisher": "Studio Guinea Pig",
+  "ReleaseDate": "2009-02-11T00:00:00+00:00"
 }

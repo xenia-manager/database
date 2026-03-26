@@ -1,53 +1,53 @@
 {
-  "Name": "Casino Nights",
-  "DatabaseID": "468352",
-  "ReleaseDate": "2010-12-24T00:00:00+00:00",
-  "Overview": "Casino Nights contains many exciting casino games, including Blackjack, Roulette, Video Poker, Slots, and more. Beat challenges to unlock trophies, and see how much you can make without breaking the bank!",
-  "VideoURL": "https://youtu.be/o-LVo6LFWi0",
-  "Genres": "Casino",
-  "Developer": "GZ Storm",
-  "Publisher": "GZ Storm",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "926532f2-1422-44d1-8b9d-974a536af46e.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1908811960",
+          "FileName": "926532f2-1422-44d1-8b9d-974a536af46e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/926532f2-1422-44d1-8b9d-974a536af46e.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "06dd2852-c886-4986-9244-8dc2c55b6711.jpg",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
         "CRC32": "1043338331",
+        "FileName": "06dd2852-c886-4986-9244-8dc2c55b6711.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
         "URL": "http://images.launchbox-app.com/06dd2852-c886-4986-9244-8dc2c55b6711.jpg"
       },
       {
-        "FileName": "ce2fadab-9da2-420e-9250-83d262a80209.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "959286532",
-        "URL": "http://images.launchbox-app.com/ce2fadab-9da2-420e-9250-83d262a80209.jpg"
-      },
-      {
-        "FileName": "6b047347-39c2-4a93-8dd6-a5119e484945.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2181959717",
+        "FileName": "6b047347-39c2-4a93-8dd6-a5119e484945.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/6b047347-39c2-4a93-8dd6-a5119e484945.jpg"
       },
       {
-        "FileName": "acd74f2a-4730-499b-bb80-15039006ec91.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2243324624",
+        "FileName": "acd74f2a-4730-499b-bb80-15039006ec91.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/acd74f2a-4730-499b-bb80-15039006ec91.jpg"
+      },
+      {
+        "CRC32": "959286532",
+        "FileName": "ce2fadab-9da2-420e-9250-83d262a80209.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ce2fadab-9da2-420e-9250-83d262a80209.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468352",
+  "Developer": "GZ Storm",
+  "Genres": "Casino",
+  "Name": "Casino Nights",
+  "Overview": "Casino Nights contains many exciting casino games, including Blackjack, Roulette, Video Poker, Slots, and more. Beat challenges to unlock trophies, and see how much you can make without breaking the bank!",
+  "Publisher": "GZ Storm",
+  "ReleaseDate": "2010-12-24T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/o-LVo6LFWi0"
 }

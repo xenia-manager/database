@@ -1,23 +1,23 @@
 {
-  "Name": "ig Pool",
-  "DatabaseID": "470158",
-  "ReleaseDate": "2010-11-10T00:00:00+00:00",
-  "Overview": "A game of classic pool for the XBox 360 with 3D visuals and realistic ball dynamics.\n\nPlay a 1 player match against the XBox or a 2 player match against a friend, or play an exciting game against the clock.",
-  "VideoURL": "https://youtu.be/1zaSIOSAvQ0",
-  "Genres": "Sports",
-  "Developer": "AJX",
-  "Publisher": "AJX",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "42af371b-f971-4697-a58e-2a249fb6a344.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1905489571",
+          "FileName": "42af371b-f971-4697-a58e-2a249fb6a344.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/42af371b-f971-4697-a58e-2a249fb6a344.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "470158",
+  "Developer": "AJX",
+  "Genres": "Sports",
+  "Name": "ig Pool",
+  "Overview": "A game of classic pool for the XBox 360 with 3D visuals and realistic ball dynamics.\n\nPlay a 1 player match against the XBox or a 2 player match against a friend, or play an exciting game against the clock.",
+  "Publisher": "AJX",
+  "ReleaseDate": "2010-11-10T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/1zaSIOSAvQ0"
 }

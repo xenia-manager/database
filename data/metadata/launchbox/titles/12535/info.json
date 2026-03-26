@@ -1,99 +1,99 @@
 {
-  "Name": "Kinect Star Wars",
-  "DatabaseID": "12535",
-  "ReleaseDate": "2012-04-03T00:00:00+00:00",
-  "Overview": "This game requires a Kinect Sensor. Step into Star Wars and experience a new galaxy of physical gameplay. Pilot a starfighter, race speeder bikes and even become the ultimate Jedi. Stomp, roar, grab and throw Stormtroopers as a powerful Rancor Monster, or speed past rivals to become a Podracing champion. Even dance for your life as you entertain Jabba the Hutt and other characters, and enjoy more adventures by yourself or with friends.",
-  "VideoURL": "https://www.youtube.com/watch?v=GlWOAYV4U_0",
-  "CommunityRating": "2.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Kinect_Star_Wars",
-  "ESRB": "T - Teen",
-  "Genres": "Action",
-  "Developer": "Terminal Reality",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "4075799584",
           "FileName": "21b70c3f-327a-4cf3-91b4-3be0ba0de065.png",
           "Type": "Box - 3D",
-          "CRC32": "4075799584",
           "URL": "http://images.launchbox-app.com/21b70c3f-327a-4cf3-91b4-3be0ba0de065.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_c2ffc2e9-1073-4bd2-83d1-76611185d64e.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3436099330",
+          "FileName": "r2_c2ffc2e9-1073-4bd2-83d1-76611185d64e.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_c2ffc2e9-1073-4bd2-83d1-76611185d64e.jpg"
         },
         {
-          "FileName": "e810bba1-12f8-420f-8105-163fa2561d48.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1423685662",
+          "FileName": "e810bba1-12f8-420f-8105-163fa2561d48.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/e810bba1-12f8-420f-8105-163fa2561d48.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "638222688",
           "FileName": "625dd7a1-d59d-45db-90ee-1c4db620f72b.jpg",
           "Type": "Box - Front",
-          "CRC32": "638222688",
           "URL": "http://images.launchbox-app.com/625dd7a1-d59d-45db-90ee-1c4db620f72b.jpg"
         },
         {
-          "FileName": "r2_8d2de413-7982-4126-bdfc-1f097bce3ea5.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3672190335",
+          "FileName": "r2_8d2de413-7982-4126-bdfc-1f097bce3ea5.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_8d2de413-7982-4126-bdfc-1f097bce3ea5.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "54e0fcff-1ac1-47ec-acf1-f602948a1b7d.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2155794465",
+        "FileName": "54e0fcff-1ac1-47ec-acf1-f602948a1b7d.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/54e0fcff-1ac1-47ec-acf1-f602948a1b7d.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "d2d2b2bf-aa12-428b-9d6c-4831b7bd15a2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "21171352",
-        "URL": "http://images.launchbox-app.com/d2d2b2bf-aa12-428b-9d6c-4831b7bd15a2.jpg"
-      },
-      {
-        "FileName": "10e39d38-6860-4ebe-ace6-ca54c374ac23.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2993293613",
-        "URL": "http://images.launchbox-app.com/10e39d38-6860-4ebe-ace6-ca54c374ac23.jpg"
-      },
-      {
-        "FileName": "6f91b489-0982-4e0f-971f-dd1240c2ab6e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4005872304",
-        "URL": "http://images.launchbox-app.com/6f91b489-0982-4e0f-971f-dd1240c2ab6e.jpg"
-      },
-      {
-        "FileName": "e0407f5f-6f06-43e2-bd7b-32b32bd671e7.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3154165921",
-        "URL": "http://images.launchbox-app.com/e0407f5f-6f06-43e2-bd7b-32b32bd671e7.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "2394894091",
         "FileName": "c47f1d58-e4dd-4342-a222-52404565aad0.png",
         "Type": "Clear Logo",
-        "CRC32": "2394894091",
         "URL": "http://images.launchbox-app.com/c47f1d58-e4dd-4342-a222-52404565aad0.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2993293613",
+        "FileName": "10e39d38-6860-4ebe-ace6-ca54c374ac23.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/10e39d38-6860-4ebe-ace6-ca54c374ac23.jpg"
+      },
+      {
+        "CRC32": "4005872304",
+        "FileName": "6f91b489-0982-4e0f-971f-dd1240c2ab6e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/6f91b489-0982-4e0f-971f-dd1240c2ab6e.jpg"
+      },
+      {
+        "CRC32": "21171352",
+        "FileName": "d2d2b2bf-aa12-428b-9d6c-4831b7bd15a2.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d2d2b2bf-aa12-428b-9d6c-4831b7bd15a2.jpg"
+      },
+      {
+        "CRC32": "3154165921",
+        "FileName": "e0407f5f-6f06-43e2-bd7b-32b32bd671e7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/e0407f5f-6f06-43e2-bd7b-32b32bd671e7.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "2.5",
+  "DatabaseID": "12535",
+  "Developer": "Terminal Reality",
+  "ESRB": "T - Teen",
+  "Genres": "Action",
+  "Name": "Kinect Star Wars",
+  "Overview": "This game requires a Kinect Sensor. Step into Star Wars and experience a new galaxy of physical gameplay. Pilot a starfighter, race speeder bikes and even become the ultimate Jedi. Stomp, roar, grab and throw Stormtroopers as a powerful Rancor Monster, or speed past rivals to become a Podracing champion. Even dance for your life as you entertain Jabba the Hutt and other characters, and enjoy more adventures by yourself or with friends.",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2012-04-03T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=GlWOAYV4U_0",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Kinect_Star_Wars"
 }

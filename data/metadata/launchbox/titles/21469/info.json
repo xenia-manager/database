@@ -1,127 +1,127 @@
 {
-  "Name": "Command & Conquer 3: Kane's Wrath",
-  "DatabaseID": "21469",
-  "ReleaseDate": "2008-06-23T00:00:00+00:00",
-  "Overview": "Command & Conquer 3: Kane's Wrath is an expansion pack for the 2007 real-time strategy video game Command & Conquer 3: Tiberium Wars. Developed by Electronic Arts Los Angeles and BreakAway Games studios, it was released on March 24, 2008 in the United States and on March 28, 2008 in Europe by publisher Electronic Arts, and was also released on June 24 for the Xbox 360.\n\nThe storyline campaign is set between the end of Tiberian Sun and the beginning of Tiberium Wars. It revolves around the seemingly immortal leader of the Brotherhood of Nod, Kane, and recounts his ascent to power after nearly escaping death in the year 2031, ending with Kane's taking over of Nod by 2047.",
-  "VideoURL": "https://www.youtube.com/watch?v=zWGLxKobJsQ",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Command_%26_Conquer_3:_Kane%27s_Wrath",
-  "ESRB": "T - Teen",
-  "Genres": "Strategy",
-  "Developer": "Electronic Arts",
-  "Publisher": "BreakAway Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "969426eb-9ca7-4594-8a60-f5b8a44c6446.png",
-        "Type": "Banner",
-        "CRC32": "413948046",
-        "URL": "http://images.launchbox-app.com/969426eb-9ca7-4594-8a60-f5b8a44c6446.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "4226901984",
         "FileName": "d271f588-a306-4135-a00c-c6e6ca3d6ef5.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4226901984",
         "URL": "http://images.launchbox-app.com/d271f588-a306-4135-a00c-c6e6ca3d6ef5.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "413948046",
+        "FileName": "969426eb-9ca7-4594-8a60-f5b8a44c6446.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/969426eb-9ca7-4594-8a60-f5b8a44c6446.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "57ddb5c1-93c1-4113-ac6d-8bf0321d8a49.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "3416575507",
+          "FileName": "57ddb5c1-93c1-4113-ac6d-8bf0321d8a49.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/57ddb5c1-93c1-4113-ac6d-8bf0321d8a49.jpg"
         },
         {
-          "FileName": "r2_7d94b14c-73dd-45d3-a0d2-683348273157.png",
-          "Type": "Box - Back",
-          "Region": "Korea",
           "CRC32": "2781511464",
+          "FileName": "r2_7d94b14c-73dd-45d3-a0d2-683348273157.png",
+          "Region": "Korea",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_7d94b14c-73dd-45d3-a0d2-683348273157.png"
         },
         {
-          "FileName": "5269fe89-5640-48f2-aa0b-660742e5ff99.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3760543149",
+          "FileName": "5269fe89-5640-48f2-aa0b-660742e5ff99.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/5269fe89-5640-48f2-aa0b-660742e5ff99.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "c4d7a286-a3d1-467e-9e8d-c45cd85ccd3a.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "1607289062",
+          "FileName": "c4d7a286-a3d1-467e-9e8d-c45cd85ccd3a.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c4d7a286-a3d1-467e-9e8d-c45cd85ccd3a.jpg"
         },
         {
-          "FileName": "r2_69c8130d-da97-440d-9f10-b45b8979bf1d.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "235325673",
+          "FileName": "r2_69c8130d-da97-440d-9f10-b45b8979bf1d.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_69c8130d-da97-440d-9f10-b45b8979bf1d.jpg"
         },
         {
-          "FileName": "r2_3ce11083-1c38-40b4-895d-2b11e7137be9.png",
-          "Type": "Box - Front",
-          "Region": "Korea",
           "CRC32": "978948103",
+          "FileName": "r2_3ce11083-1c38-40b4-895d-2b11e7137be9.png",
+          "Region": "Korea",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_3ce11083-1c38-40b4-895d-2b11e7137be9.png"
         },
         {
-          "FileName": "883a8650-94da-4034-8512-6f1c09db044a.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "385099146",
+          "FileName": "883a8650-94da-4034-8512-6f1c09db044a.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/883a8650-94da-4034-8512-6f1c09db044a.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_af0d5284-5b38-4684-8b1e-75e4b9fda480.png",
-          "Type": "Box - Spine",
-          "Region": "Korea",
           "CRC32": "2121531067",
+          "FileName": "r2_af0d5284-5b38-4684-8b1e-75e4b9fda480.png",
+          "Region": "Korea",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_af0d5284-5b38-4684-8b1e-75e4b9fda480.png"
         },
         {
-          "FileName": "17ff683f-9402-4d1b-9f4b-0f1116fbae50.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1460505469",
+          "FileName": "17ff683f-9402-4d1b-9f4b-0f1116fbae50.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/17ff683f-9402-4d1b-9f4b-0f1116fbae50.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_816a3c67-4115-4b49-8bd5-fb34b946ac28.png",
-        "Type": "Disc",
-        "Region": "Korea",
         "CRC32": "4280776785",
+        "FileName": "r2_816a3c67-4115-4b49-8bd5-fb34b946ac28.png",
+        "Region": "Korea",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_816a3c67-4115-4b49-8bd5-fb34b946ac28.png"
       },
       {
-        "FileName": "ac9c1688-a01b-422e-ac39-0d2db3c0d30e.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3280028763",
+        "FileName": "ac9c1688-a01b-422e-ac39-0d2db3c0d30e.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/ac9c1688-a01b-422e-ac39-0d2db3c0d30e.png"
       }
     ],
     "Other": [
       {
-        "FileName": "818fd4ee-3150-4eb4-bbd7-270fb138e63e.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "4174332261",
+        "FileName": "818fd4ee-3150-4eb4-bbd7-270fb138e63e.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/818fd4ee-3150-4eb4-bbd7-270fb138e63e.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "21469",
+  "Developer": "Electronic Arts",
+  "ESRB": "T - Teen",
+  "Genres": "Strategy",
+  "Name": "Command & Conquer 3: Kane's Wrath",
+  "Overview": "Command & Conquer 3: Kane's Wrath is an expansion pack for the 2007 real-time strategy video game Command & Conquer 3: Tiberium Wars. Developed by Electronic Arts Los Angeles and BreakAway Games studios, it was released on March 24, 2008 in the United States and on March 28, 2008 in Europe by publisher Electronic Arts, and was also released on June 24 for the Xbox 360.\n\nThe storyline campaign is set between the end of Tiberian Sun and the beginning of Tiberium Wars. It revolves around the seemingly immortal leader of the Brotherhood of Nod, Kane, and recounts his ascent to power after nearly escaping death in the year 2031, ending with Kane's taking over of Nod by 2047.",
+  "Publisher": "BreakAway Games",
+  "ReleaseDate": "2008-06-23T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=zWGLxKobJsQ",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Command_%26_Conquer_3:_Kane%27s_Wrath"
 }

@@ -1,39 +1,39 @@
 {
-  "Name": "Bricks",
-  "DatabaseID": "468267",
-  "ReleaseDate": "2012-04-16T00:00:00+00:00",
-  "Overview": "Classic breakout style game",
-  "VideoURL": "https://youtu.be/6P1msqRzMF8",
-  "Genres": "Action",
-  "Developer": "Vox23",
-  "Publisher": "Vox23",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "3f7cddc4-8e66-465e-b6d2-024d67b5922a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3756643102",
+          "FileName": "3f7cddc4-8e66-465e-b6d2-024d67b5922a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/3f7cddc4-8e66-465e-b6d2-024d67b5922a.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "bbab0584-f9d4-483d-9bc0-41925c4ff6b2.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2402481917",
+        "FileName": "4ccdc294-5aa9-433d-93a3-3a55e71c0997.jpg",
         "Region": "World",
-        "CRC32": "1272845252",
-        "URL": "http://images.launchbox-app.com/bbab0584-f9d4-483d-9bc0-41925c4ff6b2.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/4ccdc294-5aa9-433d-93a3-3a55e71c0997.jpg"
       },
       {
-        "FileName": "4ccdc294-5aa9-433d-93a3-3a55e71c0997.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1272845252",
+        "FileName": "bbab0584-f9d4-483d-9bc0-41925c4ff6b2.jpg",
         "Region": "World",
-        "CRC32": "2402481917",
-        "URL": "http://images.launchbox-app.com/4ccdc294-5aa9-433d-93a3-3a55e71c0997.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/bbab0584-f9d4-483d-9bc0-41925c4ff6b2.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468267",
+  "Developer": "Vox23",
+  "Genres": "Action",
+  "Name": "Bricks",
+  "Overview": "Classic breakout style game",
+  "Publisher": "Vox23",
+  "ReleaseDate": "2012-04-16T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/6P1msqRzMF8"
 }

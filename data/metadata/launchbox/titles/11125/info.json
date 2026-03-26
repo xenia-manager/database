@@ -1,111 +1,111 @@
 {
-  "Name": "MindJack",
-  "DatabaseID": "11125",
-  "ReleaseDate": "2011-01-18T00:00:00+00:00",
-  "Overview": "It is A.D. 2041. As world governments decline, terrorists and conspiracies arise, taking advantage of hyper-advanced technology to manipulate participants on both sides. FBI agent Jim Corbijin is thrust into the dark conspiracy when his mission to intercept anti-government activist Rebecca Weiss goes awry. Together, the unlikely pair fights for survival, searching for the mastermind behind the vast mind-control conspiracy before its unwitting participants push society into utter chaos.\n\nMindjack is a third-person shooter with cover mechanics and unique mind-control elements. The player has the ability to \"mind-hack\" enemy soldiers and bystanders, either to take control of them directly or enlist them to fight alongside him as mind slaves. Defeating enemies earns experience points which can be applied to Arts (player abilities) and Rules (game modifiers). Single-player and multi-player can be a fluid experience, where online players can hack into other players' games to take control of enemies.",
-  "CommunityRating": "3",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "feelplus",
-  "Publisher": "Square Enix",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "f14ebef6-dee7-4a63-a8d6-ec46e0f0dacf.png",
-        "Type": "Banner",
-        "CRC32": "78410343",
-        "URL": "http://images.launchbox-app.com/f14ebef6-dee7-4a63-a8d6-ec46e0f0dacf.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "695e9382-c4b1-4c21-988d-d3b49f7d1bbb.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3444208288",
-        "URL": "http://images.launchbox-app.com/695e9382-c4b1-4c21-988d-d3b49f7d1bbb.jpg"
-      },
-      {
+        "CRC32": "2593113186",
         "FileName": "44761402-8f98-4099-9faa-36c80c78ad8c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2593113186",
         "URL": "http://images.launchbox-app.com/44761402-8f98-4099-9faa-36c80c78ad8c.jpg"
+      },
+      {
+        "CRC32": "3444208288",
+        "FileName": "695e9382-c4b1-4c21-988d-d3b49f7d1bbb.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/695e9382-c4b1-4c21-988d-d3b49f7d1bbb.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "78410343",
+        "FileName": "f14ebef6-dee7-4a63-a8d6-ec46e0f0dacf.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/f14ebef6-dee7-4a63-a8d6-ec46e0f0dacf.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "1111824742",
           "FileName": "4b2f4c21-c54a-416e-b43a-c1a873b582dd.png",
           "Type": "Box - 3D",
-          "CRC32": "1111824742",
           "URL": "http://images.launchbox-app.com/4b2f4c21-c54a-416e-b43a-c1a873b582dd.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_a791ffcc-e388-42c3-bbeb-7404d442c701.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3882697892",
+          "FileName": "r2_a791ffcc-e388-42c3-bbeb-7404d442c701.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_a791ffcc-e388-42c3-bbeb-7404d442c701.jpg"
         },
         {
-          "FileName": "cf79e962-ee1a-4ebf-8038-689357ea0172.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "659716415",
+          "FileName": "cf79e962-ee1a-4ebf-8038-689357ea0172.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/cf79e962-ee1a-4ebf-8038-689357ea0172.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "8faef39b-ad4f-4654-b052-becc03894f2f.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "473917079",
+          "FileName": "8faef39b-ad4f-4654-b052-becc03894f2f.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8faef39b-ad4f-4654-b052-becc03894f2f.jpg"
         },
         {
-          "FileName": "r2_bb9d9c72-6e19-417f-b116-a1d1d3645631.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "4283410269",
+          "FileName": "r2_bb9d9c72-6e19-417f-b116-a1d1d3645631.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_bb9d9c72-6e19-417f-b116-a1d1d3645631.jpg"
         },
         {
-          "FileName": "12e467a1-e997-44c8-a8a0-a6985c714e5b.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3339717155",
+          "FileName": "12e467a1-e997-44c8-a8a0-a6985c714e5b.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/12e467a1-e997-44c8-a8a0-a6985c714e5b.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "e69dd100-6712-4180-a8e5-58b46d81fffc.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "4039860666",
+          "FileName": "e69dd100-6712-4180-a8e5-58b46d81fffc.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/e69dd100-6712-4180-a8e5-58b46d81fffc.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "aeb490b8-dcb4-437d-90a8-de005c73237a.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "731885956",
+        "FileName": "aeb490b8-dcb4-437d-90a8-de005c73237a.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/aeb490b8-dcb4-437d-90a8-de005c73237a.png"
       }
     ],
     "Other": [
       {
-        "FileName": "2c291d33-ecb4-4a39-adb4-f0980bd0904b.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "1655626926",
+        "FileName": "2c291d33-ecb4-4a39-adb4-f0980bd0904b.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/2c291d33-ecb4-4a39-adb4-f0980bd0904b.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "11125",
+  "Developer": "feelplus",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "MindJack",
+  "Overview": "It is A.D. 2041. As world governments decline, terrorists and conspiracies arise, taking advantage of hyper-advanced technology to manipulate participants on both sides. FBI agent Jim Corbijin is thrust into the dark conspiracy when his mission to intercept anti-government activist Rebecca Weiss goes awry. Together, the unlikely pair fights for survival, searching for the mastermind behind the vast mind-control conspiracy before its unwitting participants push society into utter chaos.\n\nMindjack is a third-person shooter with cover mechanics and unique mind-control elements. The player has the ability to \"mind-hack\" enemy soldiers and bystanders, either to take control of them directly or enlist them to fight alongside him as mind slaves. Defeating enemies earns experience points which can be applied to Arts (player abilities) and Rules (game modifiers). Single-player and multi-player can be a fluid experience, where online players can hack into other players' games to take control of enemies.",
+  "Publisher": "Square Enix",
+  "ReleaseDate": "2011-01-18T00:00:00+00:00"
 }

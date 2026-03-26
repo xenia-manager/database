@@ -1,32 +1,32 @@
 {
-  "Name": "A Game About My Cat",
-  "DatabaseID": "469683",
-  "ReleaseDate": "2011-06-19T00:00:00+00:00",
-  "Overview": "Go for high scores and do tricks as you sled the legendary slopes of Mt. Kittimanjaro. Also includes a laser pointer toy for your cat.",
-  "VideoURL": "https://youtu.be/QfgsyUpngDE",
-  "Genres": "Sports",
-  "Developer": "thelostone",
-  "Publisher": "thelostone",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "89300af3-53b5-4995-b4c6-185a246c9b54.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "421485943",
+          "FileName": "89300af3-53b5-4995-b4c6-185a246c9b54.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/89300af3-53b5-4995-b4c6-185a246c9b54.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "7d0288bb-5648-4211-9ac8-732f08a80515.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1445537087",
+        "FileName": "7d0288bb-5648-4211-9ac8-732f08a80515.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/7d0288bb-5648-4211-9ac8-732f08a80515.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469683",
+  "Developer": "thelostone",
+  "Genres": "Sports",
+  "Name": "A Game About My Cat",
+  "Overview": "Go for high scores and do tricks as you sled the legendary slopes of Mt. Kittimanjaro. Also includes a laser pointer toy for your cat.",
+  "Publisher": "thelostone",
+  "ReleaseDate": "2011-06-19T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/QfgsyUpngDE"
 }

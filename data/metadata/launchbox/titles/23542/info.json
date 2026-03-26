@@ -1,120 +1,120 @@
 {
-  "Name": "Divinity II: Ego Draconis",
-  "DatabaseID": "23542",
-  "ReleaseDate": "2010-01-06T00:00:00+00:00",
-  "Overview": "The action-RPG sequel to the critically acclaimed Divine Divinity, Divinity II - Ego Draconis transports players back to the wide-open world of Rivellon, where they'll face the ultimate challenge of becoming a Dragon Knight. With up to 60 hours of gameplay, and the ability to play as either a knight or a dragon, Divinity II offers players an expansive experience rife with lands to explore, dungeons to conquer and plenty of on-the-ground and aerial combat.",
-  "CommunityRating": "1.83333333333333",
-  "ESRB": "M - Mature",
-  "Genres": "Role-Playing",
-  "Developer": "Larian Studios",
-  "Publisher": "CDV Software Entertainment USA",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_0d59ea08-acfa-42eb-9f2b-1bb23a371e1a.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3006107771",
-        "URL": "http://images.launchbox-app.com/r2_0d59ea08-acfa-42eb-9f2b-1bb23a371e1a.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_72db9bfb-24c3-4c4f-a962-53bb16efad48.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "3871086607",
-        "URL": "http://images.launchbox-app.com/r2_72db9bfb-24c3-4c4f-a962-53bb16efad48.jpg"
-      },
-      {
-        "FileName": "r2_907444d3-6235-4720-ae2e-ed050d31412c.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
-        "CRC32": "1139808520",
-        "URL": "http://images.launchbox-app.com/r2_907444d3-6235-4720-ae2e-ed050d31412c.jpg"
-      },
-      {
-        "FileName": "r2_3e6107a2-fada-475f-9ded-e599712385cd.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1917881630",
+        "FileName": "r2_3e6107a2-fada-475f-9ded-e599712385cd.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_3e6107a2-fada-475f-9ded-e599712385cd.jpg"
       },
       {
-        "FileName": "r2_b9da8397-ca73-4ac7-9f82-8df4acfc34d0.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3871086607",
+        "FileName": "r2_72db9bfb-24c3-4c4f-a962-53bb16efad48.jpg",
         "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_72db9bfb-24c3-4c4f-a962-53bb16efad48.jpg"
+      },
+      {
+        "CRC32": "1139808520",
+        "FileName": "r2_907444d3-6235-4720-ae2e-ed050d31412c.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_907444d3-6235-4720-ae2e-ed050d31412c.jpg"
+      },
+      {
         "CRC32": "4132463426",
+        "FileName": "r2_b9da8397-ca73-4ac7-9f82-8df4acfc34d0.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_b9da8397-ca73-4ac7-9f82-8df4acfc34d0.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3006107771",
+        "FileName": "r2_0d59ea08-acfa-42eb-9f2b-1bb23a371e1a.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_0d59ea08-acfa-42eb-9f2b-1bb23a371e1a.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "152e737b-213c-4d20-bb16-fd443d39c849.png",
-          "Type": "Box - 3D",
-          "Region": "Australia",
           "CRC32": "381188427",
+          "FileName": "152e737b-213c-4d20-bb16-fd443d39c849.png",
+          "Region": "Australia",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/152e737b-213c-4d20-bb16-fd443d39c849.png"
         },
         {
-          "FileName": "r2_8295f710-8370-4673-9d1b-6b37d5b39ecb.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "758051476",
+          "FileName": "r2_8295f710-8370-4673-9d1b-6b37d5b39ecb.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_8295f710-8370-4673-9d1b-6b37d5b39ecb.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_bac0d2eb-c514-4540-ad5b-c0422b29accd.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3531803783",
+          "FileName": "r2_bac0d2eb-c514-4540-ad5b-c0422b29accd.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_bac0d2eb-c514-4540-ad5b-c0422b29accd.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_70717b7d-23a5-4911-9496-986d6bbd9f56.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1583155809",
+          "FileName": "r2_70717b7d-23a5-4911-9496-986d6bbd9f56.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_70717b7d-23a5-4911-9496-986d6bbd9f56.jpg"
         },
         {
-          "FileName": "a193866d-bb9d-4b40-a55e-07b95bd6fc2a.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1932712418",
+          "FileName": "a193866d-bb9d-4b40-a55e-07b95bd6fc2a.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a193866d-bb9d-4b40-a55e-07b95bd6fc2a.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_4ad0266d-6800-4cf4-be73-8d16b588bb9b.png",
-        "Type": "Disc",
+        "CRC32": "3513395334",
+        "FileName": "r2_28ef727a-7e4e-43d6-96bb-3462efba5ade.png",
         "Region": "North America",
-        "CRC32": "758051476",
-        "URL": "http://images.launchbox-app.com/r2_4ad0266d-6800-4cf4-be73-8d16b588bb9b.png"
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_28ef727a-7e4e-43d6-96bb-3462efba5ade.png"
       },
       {
-        "FileName": "r2_28ef727a-7e4e-43d6-96bb-3462efba5ade.png",
-        "Type": "Disc",
+        "CRC32": "758051476",
+        "FileName": "r2_4ad0266d-6800-4cf4-be73-8d16b588bb9b.png",
         "Region": "North America",
-        "CRC32": "3513395334",
-        "URL": "http://images.launchbox-app.com/r2_28ef727a-7e4e-43d6-96bb-3462efba5ade.png"
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_4ad0266d-6800-4cf4-be73-8d16b588bb9b.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_7fc9cb21-807a-4b82-bcca-c0b3d4ef6bfb.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "2587040437",
+        "FileName": "r2_7fc9cb21-807a-4b82-bcca-c0b3d4ef6bfb.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_7fc9cb21-807a-4b82-bcca-c0b3d4ef6bfb.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "1.83333333333333",
+  "DatabaseID": "23542",
+  "Developer": "Larian Studios",
+  "ESRB": "M - Mature",
+  "Genres": "Role-Playing",
+  "Name": "Divinity II: Ego Draconis",
+  "Overview": "The action-RPG sequel to the critically acclaimed Divine Divinity, Divinity II - Ego Draconis transports players back to the wide-open world of Rivellon, where they'll face the ultimate challenge of becoming a Dragon Knight. With up to 60 hours of gameplay, and the ability to play as either a knight or a dragon, Divinity II offers players an expansive experience rife with lands to explore, dungeons to conquer and plenty of on-the-ground and aerial combat.",
+  "Publisher": "CDV Software Entertainment USA",
+  "ReleaseDate": "2010-01-06T00:00:00+00:00"
 }

@@ -1,32 +1,32 @@
 {
-  "Name": "Dunjax",
-  "DatabaseID": "469103",
-  "ReleaseDate": "2012-03-31T00:00:00+00:00",
-  "Overview": "Don your power armor and explore the caves of a distant planet. Battle monsters which have stolen a vital part to your ship!",
-  "VideoURL": "https://www.youtube.com/watch?v=XB5qs6YhnNE",
-  "Genres": "Platform",
-  "Developer": "Jeff Mather",
-  "Publisher": "Jeff Mather",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "e7ebbeb8-29a1-4bb9-87c8-763b08b61014.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2425407884",
+          "FileName": "e7ebbeb8-29a1-4bb9-87c8-763b08b61014.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e7ebbeb8-29a1-4bb9-87c8-763b08b61014.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "4d279e70-c689-412f-9313-11c24bf2c731.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "863793925",
+        "FileName": "4d279e70-c689-412f-9313-11c24bf2c731.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/4d279e70-c689-412f-9313-11c24bf2c731.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469103",
+  "Developer": "Jeff Mather",
+  "Genres": "Platform",
+  "Name": "Dunjax",
+  "Overview": "Don your power armor and explore the caves of a distant planet. Battle monsters which have stolen a vital part to your ship!",
+  "Publisher": "Jeff Mather",
+  "ReleaseDate": "2012-03-31T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=XB5qs6YhnNE"
 }

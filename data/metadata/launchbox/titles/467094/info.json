@@ -1,52 +1,52 @@
 {
-  "Name": "Video Poker",
-  "DatabaseID": "467094",
-  "ReleaseDate": "2010-06-07T00:00:00+00:00",
-  "Overview": "Video Poker is a straight simulation of a video poker gambling machine. The player bets between one and five dollars and draws five cards. After deciding which ones to hold, the others are re-drawn. Depending on the card combination, money is either won or lost. Rinse and repeat until the player quits or all 1000 bucks are gone.\n\nBesides standard Jacks or Better, there are also the two variants Joker Poker and Deuces Wild available. These are almost identical to Jacks or Better, but either jokers or deuces (2s) replace any card for a winning combination.",
-  "Genres": "Casino",
-  "Developer": "Bionic Pony",
-  "Publisher": "Bionic Pony",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "aea5fc33-fd2c-4142-a4f5-d3b43d273ce5.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1412356960",
+          "FileName": "aea5fc33-fd2c-4142-a4f5-d3b43d273ce5.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/aea5fc33-fd2c-4142-a4f5-d3b43d273ce5.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "91953d03-bbba-4f18-a7ef-cba9d092c87a.png",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
         "CRC32": "3813996482",
+        "FileName": "91953d03-bbba-4f18-a7ef-cba9d092c87a.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
         "URL": "http://images.launchbox-app.com/91953d03-bbba-4f18-a7ef-cba9d092c87a.png"
       },
       {
-        "FileName": "bf15bdf6-b560-4b1d-b3a8-13cbf7086482.png",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "807546866",
+        "FileName": "bf15bdf6-b560-4b1d-b3a8-13cbf7086482.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/bf15bdf6-b560-4b1d-b3a8-13cbf7086482.png"
       },
       {
-        "FileName": "1bf00514-6322-4d0a-96c9-4f27e0ff725d.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "466670217",
+        "FileName": "1bf00514-6322-4d0a-96c9-4f27e0ff725d.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/1bf00514-6322-4d0a-96c9-4f27e0ff725d.png"
       },
       {
-        "FileName": "2d087e85-3ba1-4515-ba43-85dcaf2a4e7b.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "730019722",
+        "FileName": "2d087e85-3ba1-4515-ba43-85dcaf2a4e7b.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/2d087e85-3ba1-4515-ba43-85dcaf2a4e7b.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "467094",
+  "Developer": "Bionic Pony",
+  "Genres": "Casino",
+  "Name": "Video Poker",
+  "Overview": "Video Poker is a straight simulation of a video poker gambling machine. The player bets between one and five dollars and draws five cards. After deciding which ones to hold, the others are re-drawn. Depending on the card combination, money is either won or lost. Rinse and repeat until the player quits or all 1000 bucks are gone.\n\nBesides standard Jacks or Better, there are also the two variants Joker Poker and Deuces Wild available. These are almost identical to Jacks or Better, but either jokers or deuces (2s) replace any card for a winning combination.",
+  "Publisher": "Bionic Pony",
+  "ReleaseDate": "2010-06-07T00:00:00+00:00"
 }

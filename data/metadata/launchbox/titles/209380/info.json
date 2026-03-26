@@ -1,50 +1,50 @@
 {
-  "Name": "Football Genius: The Ultimate Quiz",
-  "DatabaseID": "209380",
-  "ReleaseDate": "2009-09-30T00:00:00+00:00",
-  "Overview": "Are you a Football Genius? Test your football knowledge in Football Genius - The Ultimate Quiz! The game features six questions packs covering International, English, French, German, Italian, and Spanish football with over 3500 questions about your favorite teams, players, and tournaments!",
-  "CommunityRating": "2.25",
-  "ESRB": "E - Everyone",
-  "Genres": "Quiz",
-  "Developer": "RTL Sports",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_cb55221f-207e-46f2-abd7-11ce62887e7b.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "567642339",
-        "URL": "http://images.launchbox-app.com/r2_cb55221f-207e-46f2-abd7-11ce62887e7b.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_7a0cdd22-ca75-479f-93aa-d85b475f8b46.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2048081543",
+        "FileName": "r2_7a0cdd22-ca75-479f-93aa-d85b475f8b46.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_7a0cdd22-ca75-479f-93aa-d85b475f8b46.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "567642339",
+        "FileName": "r2_cb55221f-207e-46f2-abd7-11ce62887e7b.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_cb55221f-207e-46f2-abd7-11ce62887e7b.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "221ca096-2eca-44c4-9243-1615f8ecaed6.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "706026228",
+          "FileName": "221ca096-2eca-44c4-9243-1615f8ecaed6.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/221ca096-2eca-44c4-9243-1615f8ecaed6.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_7d9c2290-8e62-451e-9bd4-94d51ff1e887.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "688522801",
+        "FileName": "r2_7d9c2290-8e62-451e-9bd4-94d51ff1e887.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_7d9c2290-8e62-451e-9bd4-94d51ff1e887.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.25",
+  "DatabaseID": "209380",
+  "Developer": "RTL Sports",
+  "ESRB": "E - Everyone",
+  "Genres": "Quiz",
+  "Name": "Football Genius: The Ultimate Quiz",
+  "Overview": "Are you a Football Genius? Test your football knowledge in Football Genius - The Ultimate Quiz! The game features six questions packs covering International, English, French, German, Italian, and Spanish football with over 3500 questions about your favorite teams, players, and tournaments!",
+  "ReleaseDate": "2009-09-30T00:00:00+00:00"
 }

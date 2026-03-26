@@ -1,53 +1,53 @@
 {
-  "Name": "A Jumper Robot Adventure",
-  "DatabaseID": "470355",
-  "ReleaseDate": "2010-08-19T00:00:00+00:00",
-  "Overview": "A Jumper Robot Adventure is a basic side-scrolling platform game starring a small robot, which plays much like the classic Super Mario series. The robot must reach the end of each area and defeat the boss. Green and red squares award points; collect 100 squares to win an extra life. There are also various powerups like temporary invincibility, and bullets that award the ability to shoot if enough are collected. The robot can also jump on many enemies to defeat them. Progress is saved at disk doors in each stage.",
-  "VideoURL": "https://youtu.be/ibwvAKmQurM",
-  "Genres": "Platform",
-  "Developer": "Angel Z",
-  "Publisher": "Angel Z",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "f10d4474-e12e-46bf-a2b6-e86fd69056f1.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4203950834",
+          "FileName": "f10d4474-e12e-46bf-a2b6-e86fd69056f1.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f10d4474-e12e-46bf-a2b6-e86fd69056f1.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "d802fa1f-d249-418f-b094-9a881c503930.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "3486107631",
-        "URL": "http://images.launchbox-app.com/d802fa1f-d249-418f-b094-9a881c503930.jpg"
-      },
-      {
-        "FileName": "6f88bf22-c64b-4576-9ca7-40a4499d2c61.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1903569326",
+        "FileName": "6f88bf22-c64b-4576-9ca7-40a4499d2c61.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/6f88bf22-c64b-4576-9ca7-40a4499d2c61.jpg"
       },
       {
-        "FileName": "be9aa84d-b4dc-417e-94d4-57b740568374.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2958660429",
+        "FileName": "a79db0b8-2fca-40e0-8bf9-64aed4e9a08b.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a79db0b8-2fca-40e0-8bf9-64aed4e9a08b.jpg"
+      },
+      {
         "CRC32": "770871518",
+        "FileName": "be9aa84d-b4dc-417e-94d4-57b740568374.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/be9aa84d-b4dc-417e-94d4-57b740568374.jpg"
       },
       {
-        "FileName": "a79db0b8-2fca-40e0-8bf9-64aed4e9a08b.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3486107631",
+        "FileName": "d802fa1f-d249-418f-b094-9a881c503930.jpg",
         "Region": "World",
-        "CRC32": "2958660429",
-        "URL": "http://images.launchbox-app.com/a79db0b8-2fca-40e0-8bf9-64aed4e9a08b.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d802fa1f-d249-418f-b094-9a881c503930.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "470355",
+  "Developer": "Angel Z",
+  "Genres": "Platform",
+  "Name": "A Jumper Robot Adventure",
+  "Overview": "A Jumper Robot Adventure is a basic side-scrolling platform game starring a small robot, which plays much like the classic Super Mario series. The robot must reach the end of each area and defeat the boss. Green and red squares award points; collect 100 squares to win an extra life. There are also various powerups like temporary invincibility, and bullets that award the ability to shoot if enough are collected. The robot can also jump on many enemies to defeat them. Progress is saved at disk doors in each stage.",
+  "Publisher": "Angel Z",
+  "ReleaseDate": "2010-08-19T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/ibwvAKmQurM"
 }

@@ -1,53 +1,53 @@
 {
-  "Name": "Jump Duck",
-  "DatabaseID": "470330",
-  "ReleaseDate": "2009-11-25T00:00:00+00:00",
-  "Overview": "In Jump Duck the goal is to either jump or duck to avoid laser beams flying across the screen from the right. Avoiding certain number of lasers will unlock additional characters.\n\nThe game features (aside from the single player mode) local multiplayer for up to 4 people or online play over Xbox Live Arcade for up to 16 players.",
-  "VideoURL": "https://youtu.be/ORwpNOLtAD8",
-  "Genres": "Action",
-  "Developer": "LocoPuyo",
-  "Publisher": "1337 Pwnage",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "46f27585-7908-4ef0-b35c-60091ff005f3.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3418374280",
+          "FileName": "46f27585-7908-4ef0-b35c-60091ff005f3.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/46f27585-7908-4ef0-b35c-60091ff005f3.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "053f96bf-12df-4eaf-8a08-87e551ac2420.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "3296469684",
+        "FileName": "053f96bf-12df-4eaf-8a08-87e551ac2420.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/053f96bf-12df-4eaf-8a08-87e551ac2420.jpg"
       },
       {
-        "FileName": "c99fc1b5-439e-495e-97e7-7f7abf722778.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "3305041087",
-        "URL": "http://images.launchbox-app.com/c99fc1b5-439e-495e-97e7-7f7abf722778.jpg"
-      },
-      {
-        "FileName": "37d7d0ee-ce75-46fc-bc81-7931da2bcd93.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "204288956",
+        "FileName": "37d7d0ee-ce75-46fc-bc81-7931da2bcd93.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/37d7d0ee-ce75-46fc-bc81-7931da2bcd93.jpg"
       },
       {
-        "FileName": "545ac166-121c-48a6-b21d-511849d318e1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2812807998",
+        "FileName": "545ac166-121c-48a6-b21d-511849d318e1.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/545ac166-121c-48a6-b21d-511849d318e1.jpg"
+      },
+      {
+        "CRC32": "3305041087",
+        "FileName": "c99fc1b5-439e-495e-97e7-7f7abf722778.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c99fc1b5-439e-495e-97e7-7f7abf722778.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "470330",
+  "Developer": "LocoPuyo",
+  "Genres": "Action",
+  "Name": "Jump Duck",
+  "Overview": "In Jump Duck the goal is to either jump or duck to avoid laser beams flying across the screen from the right. Avoiding certain number of lasers will unlock additional characters.\n\nThe game features (aside from the single player mode) local multiplayer for up to 4 people or online play over Xbox Live Arcade for up to 16 players.",
+  "Publisher": "1337 Pwnage",
+  "ReleaseDate": "2009-11-25T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/ORwpNOLtAD8"
 }

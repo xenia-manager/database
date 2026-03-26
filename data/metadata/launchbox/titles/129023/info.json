@@ -1,40 +1,40 @@
 {
-  "Name": "Dig Dug",
-  "DatabaseID": "129023",
-  "ReleaseDate": "2006-10-11T00:00:00+00:00",
-  "Overview": "Dig tunnels and defeat enemies. Use your harpoon to inflate and pop enemies or crush them with rocks! Earn bonus points by crushing multiple enemies with one rock! DIG DUG was released in 1981, and became an instant hit with its innovative gameplay and quirky music.",
-  "CommunityRating": "2.75",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dig_Dug",
-  "Genres": "Action",
-  "Developer": "Namco",
-  "Publisher": "Atari",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2367566111",
         "FileName": "0c1e67f7-3eca-4c50-928a-d19311f5d6d6.png",
         "Type": "Fanart - Background",
-        "CRC32": "2367566111",
         "URL": "http://images.launchbox-app.com/0c1e67f7-3eca-4c50-928a-d19311f5d6d6.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "fe3cf1f1-e890-49b1-adb1-276e913d582c.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "4228047716",
+          "FileName": "fe3cf1f1-e890-49b1-adb1-276e913d582c.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/fe3cf1f1-e890-49b1-adb1-276e913d582c.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "1397473897",
         "FileName": "8dae1854-172f-4717-86fd-edd38889e100.png",
         "Type": "Clear Logo",
-        "CRC32": "1397473897",
         "URL": "http://images.launchbox-app.com/8dae1854-172f-4717-86fd-edd38889e100.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.75",
+  "DatabaseID": "129023",
+  "Developer": "Namco",
+  "Genres": "Action",
+  "Name": "Dig Dug",
+  "Overview": "Dig tunnels and defeat enemies. Use your harpoon to inflate and pop enemies or crush them with rocks! Earn bonus points by crushing multiple enemies with one rock! DIG DUG was released in 1981, and became an instant hit with its innovative gameplay and quirky music.",
+  "Publisher": "Atari",
+  "ReleaseDate": "2006-10-11T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dig_Dug"
 }

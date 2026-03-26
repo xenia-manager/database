@@ -1,50 +1,50 @@
 {
-  "Name": "Yu-Gi-Oh! Millennium Duels",
-  "DatabaseID": "143394",
-  "ReleaseDate": "2014-03-26T00:00:00+00:00",
-  "Overview": "Duel Yu-Gi-Oh! characters from the past and present and others online!\n- Includes the latest cards from the official Yu-Gi-Oh! Trading Card Game.\n- Compete against the popular characters from Yu-Gi-Oh!, Yu-Gi-Oh! GX, Yu-Gi-Oh! 5D's, and Yu-Gi-Oh! ZEXAL.\n- Battle through Single Player or compete in 4 player tag duels with text and voice chat ability.\nONLINE PLAY INCLUDES 3 MODES:\nRANK MATCH - Compete against Yu-Gi-Oh! fans of the same rank and ability.\nQUICK MATCH - Jump right in the action and compete against any Yu-Gi-Oh! fan.\nCUSTOM MATCH - Battle your friends and completely customize the rules of play.",
-  "CommunityRating": "3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/List_of_Yu-Gi-Oh!_video_games",
-  "Genres": "Strategy",
-  "Developer": "Other Ocean Interactive",
-  "Publisher": "Konami",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7209a150-afe4-4e37-8ccf-f64bf5b3b31b.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2098463390",
-        "URL": "http://images.launchbox-app.com/r2_7209a150-afe4-4e37-8ccf-f64bf5b3b31b.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_74d94713-2940-416f-95ad-529a8c3dfeb3.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3706812057",
+        "FileName": "r2_74d94713-2940-416f-95ad-529a8c3dfeb3.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_74d94713-2940-416f-95ad-529a8c3dfeb3.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2098463390",
+        "FileName": "r2_7209a150-afe4-4e37-8ccf-f64bf5b3b31b.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7209a150-afe4-4e37-8ccf-f64bf5b3b31b.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "f049f515-a55d-4b9e-8571-99357260afa6.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "1482730384",
+          "FileName": "f049f515-a55d-4b9e-8571-99357260afa6.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f049f515-a55d-4b9e-8571-99357260afa6.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "911939028",
         "FileName": "e9549c74-fc5c-48ac-b7fe-3690cc8cffab.png",
         "Type": "Clear Logo",
-        "CRC32": "911939028",
         "URL": "http://images.launchbox-app.com/e9549c74-fc5c-48ac-b7fe-3690cc8cffab.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "143394",
+  "Developer": "Other Ocean Interactive",
+  "Genres": "Strategy",
+  "Name": "Yu-Gi-Oh! Millennium Duels",
+  "Overview": "Duel Yu-Gi-Oh! characters from the past and present and others online!\n- Includes the latest cards from the official Yu-Gi-Oh! Trading Card Game.\n- Compete against the popular characters from Yu-Gi-Oh!, Yu-Gi-Oh! GX, Yu-Gi-Oh! 5D's, and Yu-Gi-Oh! ZEXAL.\n- Battle through Single Player or compete in 4 player tag duels with text and voice chat ability.\nONLINE PLAY INCLUDES 3 MODES:\nRANK MATCH - Compete against Yu-Gi-Oh! fans of the same rank and ability.\nQUICK MATCH - Jump right in the action and compete against any Yu-Gi-Oh! fan.\nCUSTOM MATCH - Battle your friends and completely customize the rules of play.",
+  "Publisher": "Konami",
+  "ReleaseDate": "2014-03-26T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/List_of_Yu-Gi-Oh!_video_games"
 }

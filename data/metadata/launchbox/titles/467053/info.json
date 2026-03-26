@@ -1,38 +1,38 @@
 {
-  "Name": "Allied Assault Squadron",
-  "DatabaseID": "467053",
-  "ReleaseDate": "2011-03-21T00:00:00+00:00",
-  "Overview": "In Allied Assault Squadron (AAS), the player experiences aerial combat as a member of an elite World War II fighter pilot team. AAS is a top down 2D aerial shooter in which the player controls one of six World War II era fighter planes, on a mission to clear the grounds and skies of enemies.",
-  "Genres": "Shooter",
-  "Developer": "Aeternus Studios",
-  "Publisher": "Aeternus Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "a436fb56-0c30-4d70-9abc-00d9c9e1640d.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "111451743",
+          "FileName": "a436fb56-0c30-4d70-9abc-00d9c9e1640d.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a436fb56-0c30-4d70-9abc-00d9c9e1640d.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "cb24b340-e202-4278-b09b-c0356c316477.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "4131403167",
+        "FileName": "1cb22995-bfd2-495d-a7a7-523f76d97697.jpg",
         "Region": "World",
-        "CRC32": "3590398670",
-        "URL": "http://images.launchbox-app.com/cb24b340-e202-4278-b09b-c0356c316477.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/1cb22995-bfd2-495d-a7a7-523f76d97697.jpg"
       },
       {
-        "FileName": "1cb22995-bfd2-495d-a7a7-523f76d97697.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3590398670",
+        "FileName": "cb24b340-e202-4278-b09b-c0356c316477.jpg",
         "Region": "World",
-        "CRC32": "4131403167",
-        "URL": "http://images.launchbox-app.com/1cb22995-bfd2-495d-a7a7-523f76d97697.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/cb24b340-e202-4278-b09b-c0356c316477.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467053",
+  "Developer": "Aeternus Studios",
+  "Genres": "Shooter",
+  "Name": "Allied Assault Squadron",
+  "Overview": "In Allied Assault Squadron (AAS), the player experiences aerial combat as a member of an elite World War II fighter pilot team. AAS is a top down 2D aerial shooter in which the player controls one of six World War II era fighter planes, on a mission to clear the grounds and skies of enemies.",
+  "Publisher": "Aeternus Studios",
+  "ReleaseDate": "2011-03-21T00:00:00+00:00"
 }

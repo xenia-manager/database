@@ -1,74 +1,74 @@
 {
-  "Name": "Doritos: Dash of Destruction",
-  "DatabaseID": "19680",
-  "ReleaseDate": "2008-12-17T00:00:00+00:00",
-  "Overview": "Doritos: Dash of Destruction is a fun and fast-paced racing game. Blast your way through cities as a hungry Tyrannosaurus Rex, as you chase a speeding Delivery Truck full of tasty Doritos. Or, try zooming in and out of the T-Rex's path of destruction as the speedy Delivery Truck in search of your Doritos drop-off points. For even more racing madness, Chaos mode lets you and three friends charge through cities eating Trucks or trying not to be eaten. In Zen mode, eat the Truck to become the Truck.",
-  "VideoURL": "https://www.youtube.com/watch?v=soviF3Xx7Po",
-  "CommunityRating": "2.3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dash_of_Destruction",
-  "ESRB": "E - Everyone",
-  "Genres": "Action; Racing",
-  "Developer": "NinjaBee",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_c170d9c6-bd91-4452-a48a-5e3ea714d60a.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "468512995",
-        "URL": "http://images.launchbox-app.com/r2_c170d9c6-bd91-4452-a48a-5e3ea714d60a.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_3de8e860-648a-4bcb-87da-468ded29aec3.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "4007341342",
+        "FileName": "r2_3de8e860-648a-4bcb-87da-468ded29aec3.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_3de8e860-648a-4bcb-87da-468ded29aec3.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "468512995",
+        "FileName": "r2_c170d9c6-bd91-4452-a48a-5e3ea714d60a.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_c170d9c6-bd91-4452-a48a-5e3ea714d60a.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "332183415",
           "FileName": "542c5075-2271-4eec-beb5-803432fb2606.jpg",
           "Type": "Box - Front",
-          "CRC32": "332183415",
           "URL": "http://images.launchbox-app.com/542c5075-2271-4eec-beb5-803432fb2606.jpg"
         },
         {
-          "FileName": "8e244a0b-3393-41a4-b4a0-ae186c5c2e8b.jpg",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "World",
           "CRC32": "4006879888",
+          "FileName": "8e244a0b-3393-41a4-b4a0-ae186c5c2e8b.jpg",
+          "Region": "World",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/8e244a0b-3393-41a4-b4a0-ae186c5c2e8b.jpg"
         },
         {
-          "FileName": "4ba95e75-3ffc-48e5-acdf-995af72e865f.png",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "3839456656",
+          "FileName": "4ba95e75-3ffc-48e5-acdf-995af72e865f.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/4ba95e75-3ffc-48e5-acdf-995af72e865f.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "b9c99726-8536-4650-bc58-75dbfe085238.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "7334959",
-        "URL": "http://images.launchbox-app.com/b9c99726-8536-4650-bc58-75dbfe085238.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "r2_cb5311f2-81e2-4a45-a1e4-f96618f4f7da.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3792537602",
+        "FileName": "r2_cb5311f2-81e2-4a45-a1e4-f96618f4f7da.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_cb5311f2-81e2-4a45-a1e4-f96618f4f7da.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "7334959",
+        "FileName": "b9c99726-8536-4650-bc58-75dbfe085238.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/b9c99726-8536-4650-bc58-75dbfe085238.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "2.3",
+  "DatabaseID": "19680",
+  "Developer": "NinjaBee",
+  "ESRB": "E - Everyone",
+  "Genres": "Action; Racing",
+  "Name": "Doritos: Dash of Destruction",
+  "Overview": "Doritos: Dash of Destruction is a fun and fast-paced racing game. Blast your way through cities as a hungry Tyrannosaurus Rex, as you chase a speeding Delivery Truck full of tasty Doritos. Or, try zooming in and out of the T-Rex's path of destruction as the speedy Delivery Truck in search of your Doritos drop-off points. For even more racing madness, Chaos mode lets you and three friends charge through cities eating Trucks or trying not to be eaten. In Zen mode, eat the Truck to become the Truck.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2008-12-17T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=soviF3Xx7Po",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dash_of_Destruction"
 }

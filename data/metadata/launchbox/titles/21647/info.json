@@ -1,57 +1,57 @@
 {
-  "Name": "The History Channel: Battle for the Pacific",
-  "DatabaseID": "21647",
-  "ReleaseDate": "2007-12-04T00:00:00+00:00",
-  "Overview": "The History Channel takes you to the Battle for the Pacific, where you can experience history brought to life in one of the defining campaigns of World War II. Relive epic land battles fought on some of the most brutal and unforgiving battlefields in recorded history. Play through the eyes of an American GI as you experience intense, no holds barred action against an opponent for which surrender isn't an option!",
-  "VideoURL": "https://www.youtube.com/watch?v=fQg50if5GJA",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/The_History_Channel:_Battle_for_the_Pacific",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "Cauldron",
-  "Publisher": "Activision",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "2068773399",
           "FileName": "670f5189-160b-4517-8729-aa851740fe4f.png",
           "Type": "Box - 3D",
-          "CRC32": "2068773399",
           "URL": "http://images.launchbox-app.com/670f5189-160b-4517-8729-aa851740fe4f.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "1754499964",
           "FileName": "1f640b5f-9350-45c8-aa15-30e110b46538.jpg",
           "Type": "Box - Front",
-          "CRC32": "1754499964",
           "URL": "http://images.launchbox-app.com/1f640b5f-9350-45c8-aa15-30e110b46538.jpg"
         },
         {
-          "FileName": "r2_a1123ada-3c9a-4768-9745-5d71ff4e7223.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "497058840",
+          "FileName": "r2_a1123ada-3c9a-4768-9745-5d71ff4e7223.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a1123ada-3c9a-4768-9745-5d71ff4e7223.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_4182559a-d17c-4c50-80d2-ad9824cb84d0.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2086334449",
+        "FileName": "r2_4182559a-d17c-4c50-80d2-ad9824cb84d0.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_4182559a-d17c-4c50-80d2-ad9824cb84d0.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_c9607647-4391-48f7-be34-5dfbdf84b80f.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "3673537612",
+        "FileName": "r2_c9607647-4391-48f7-be34-5dfbdf84b80f.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_c9607647-4391-48f7-be34-5dfbdf84b80f.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "21647",
+  "Developer": "Cauldron",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "The History Channel: Battle for the Pacific",
+  "Overview": "The History Channel takes you to the Battle for the Pacific, where you can experience history brought to life in one of the defining campaigns of World War II. Relive epic land battles fought on some of the most brutal and unforgiving battlefields in recorded history. Play through the eyes of an American GI as you experience intense, no holds barred action against an opponent for which surrender isn't an option!",
+  "Publisher": "Activision",
+  "ReleaseDate": "2007-12-04T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=fQg50if5GJA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/The_History_Channel:_Battle_for_the_Pacific"
 }

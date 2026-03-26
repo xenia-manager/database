@@ -1,137 +1,137 @@
 {
-  "Name": "Vanquish",
-  "DatabaseID": "10606",
-  "ReleaseDate": "2010-10-19T00:00:00+00:00",
-  "Overview": "Vanquish takes place in the near future where planet Earth's human population has grown so rapidly that nations of people around the globe are fighting for the scarce available resources. The United States of America has attempted to alleviate its own energy problems by launching an O'Neill Cylinder space station harboring a solar energy-driven generator to provide them with an alternative source of fuel from the sun. However, the government of the Russian Federation on Earth has been overthrown in a coup d'état by ultra-nationalist forces calling themselves the Order of the Russian Star.\nRussian forces capture this space station and divert its harvested solar energy into a blast wave that devastates San Francisco, aiming to force the U.S. into a total and unconditional surrender. The main antagonist, known as Victor Zaitsev, demands that the American government surrender or he will choose New York City as his next target.",
-  "VideoURL": "https://www.youtube.com/watch?v=C9UrXYGraYQ",
-  "CommunityRating": "4.375",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Vanquish_(video_game)",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Shooter",
-  "Developer": "PlatinumGames",
-  "Publisher": "Sega",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1375050045",
         "FileName": "0dee3667-e763-4f34-bd47-a233483e1288.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1375050045",
         "URL": "http://images.launchbox-app.com/0dee3667-e763-4f34-bd47-a233483e1288.jpg"
       },
       {
+        "CRC32": "2735554471",
         "FileName": "113e4e6b-5c0e-46f9-9d24-3699ffa81202.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2735554471",
         "URL": "http://images.launchbox-app.com/113e4e6b-5c0e-46f9-9d24-3699ffa81202.jpg"
       },
       {
+        "CRC32": "1795692638",
         "FileName": "3c62db40-8350-4c13-a827-06ca3f618d13.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1795692638",
         "URL": "http://images.launchbox-app.com/3c62db40-8350-4c13-a827-06ca3f618d13.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "176f08b3-6222-40d2-b5d5-cb15e5c32972.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3231494144",
+          "FileName": "176f08b3-6222-40d2-b5d5-cb15e5c32972.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/176f08b3-6222-40d2-b5d5-cb15e5c32972.png"
         }
       ],
       "Back": [
         {
-          "FileName": "0a9a679e-afff-45c3-9b2c-d938cd6cfa82.jpg",
-          "Type": "Box - Back",
-          "Region": "Australia",
           "CRC32": "3231451164",
+          "FileName": "0a9a679e-afff-45c3-9b2c-d938cd6cfa82.jpg",
+          "Region": "Australia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/0a9a679e-afff-45c3-9b2c-d938cd6cfa82.jpg"
         },
         {
-          "FileName": "aa4418e0-2d61-46ed-b12d-cec7b2857e0c.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "16879127",
+          "FileName": "aa4418e0-2d61-46ed-b12d-cec7b2857e0c.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/aa4418e0-2d61-46ed-b12d-cec7b2857e0c.jpg"
         },
         {
-          "FileName": "ce848601-0d0d-4bed-be3a-7969f1ab6cce.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "179611787",
+          "FileName": "ce848601-0d0d-4bed-be3a-7969f1ab6cce.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/ce848601-0d0d-4bed-be3a-7969f1ab6cce.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "54767acc-b182-4998-8ae3-78a0bc9a6927.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
           "CRC32": "1499982437",
+          "FileName": "54767acc-b182-4998-8ae3-78a0bc9a6927.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/54767acc-b182-4998-8ae3-78a0bc9a6927.jpg"
         },
         {
-          "FileName": "8b5befb8-81b3-40f4-a73c-449f08823615.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2203667137",
+          "FileName": "8b5befb8-81b3-40f4-a73c-449f08823615.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8b5befb8-81b3-40f4-a73c-449f08823615.jpg"
         },
         {
-          "FileName": "a78efc00-6dd8-489b-a602-733e05789c36.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3004141243",
+          "FileName": "a78efc00-6dd8-489b-a602-733e05789c36.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a78efc00-6dd8-489b-a602-733e05789c36.jpg"
         },
         {
-          "FileName": "824bed68-48a3-44d3-971f-798850e72448.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "2341860029",
+          "FileName": "824bed68-48a3-44d3-971f-798850e72448.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/824bed68-48a3-44d3-971f-798850e72448.jpg"
         },
         {
-          "FileName": "23d9fe33-45e7-402e-b10a-5c3df3c8aa5c.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "790567788",
+          "FileName": "23d9fe33-45e7-402e-b10a-5c3df3c8aa5c.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/23d9fe33-45e7-402e-b10a-5c3df3c8aa5c.jpg"
         },
         {
-          "FileName": "96dd54f4-383c-445f-8f09-d78a2f6d0f81.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
           "CRC32": "24940603",
+          "FileName": "96dd54f4-383c-445f-8f09-d78a2f6d0f81.jpg",
+          "Region": "United Kingdom",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/96dd54f4-383c-445f-8f09-d78a2f6d0f81.jpg"
         },
         {
-          "FileName": "03d874b8-3f2f-4e58-b696-4a21f810826b.jpg",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "3973942455",
+          "FileName": "03d874b8-3f2f-4e58-b696-4a21f810826b.jpg",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/03d874b8-3f2f-4e58-b696-4a21f810826b.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "1f8d39f2-e6cf-4526-bdc7-1363edc70403.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3082634806",
+        "FileName": "1f8d39f2-e6cf-4526-bdc7-1363edc70403.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/1f8d39f2-e6cf-4526-bdc7-1363edc70403.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3077202739",
         "FileName": "36af4b03-20c1-4165-aced-31892f535b73.png",
         "Type": "Clear Logo",
-        "CRC32": "3077202739",
         "URL": "http://images.launchbox-app.com/36af4b03-20c1-4165-aced-31892f535b73.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.375",
+  "DatabaseID": "10606",
+  "Developer": "PlatinumGames",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Shooter",
+  "Name": "Vanquish",
+  "Overview": "Vanquish takes place in the near future where planet Earth's human population has grown so rapidly that nations of people around the globe are fighting for the scarce available resources. The United States of America has attempted to alleviate its own energy problems by launching an O'Neill Cylinder space station harboring a solar energy-driven generator to provide them with an alternative source of fuel from the sun. However, the government of the Russian Federation on Earth has been overthrown in a coup d'état by ultra-nationalist forces calling themselves the Order of the Russian Star.\nRussian forces capture this space station and divert its harvested solar energy into a blast wave that devastates San Francisco, aiming to force the U.S. into a total and unconditional surrender. The main antagonist, known as Victor Zaitsev, demands that the American government surrender or he will choose New York City as his next target.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2010-10-19T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=C9UrXYGraYQ",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Vanquish_(video_game)"
 }

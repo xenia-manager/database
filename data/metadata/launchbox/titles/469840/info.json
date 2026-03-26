@@ -1,22 +1,22 @@
 {
-  "Name": "Go 3D",
-  "DatabaseID": "469840",
-  "ReleaseDate": "2009-04-30T00:00:00+00:00",
-  "Overview": "FrogSlayer Studios presents, Go, an ancient Chinese game of strategy now available on XBox Live Community Games. Learn to play with our interactive tutorial and then play against your friends locally or against players at all skill levels via XBox Live.",
-  "Genres": "Board Game",
-  "Developer": "FrogSlayer Studios",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "645dc91b-3d15-4fa4-9076-390f1dad6f01.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1492169543",
+          "FileName": "645dc91b-3d15-4fa4-9076-390f1dad6f01.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/645dc91b-3d15-4fa4-9076-390f1dad6f01.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469840",
+  "Developer": "FrogSlayer Studios",
+  "Genres": "Board Game",
+  "Name": "Go 3D",
+  "Overview": "FrogSlayer Studios presents, Go, an ancient Chinese game of strategy now available on XBox Live Community Games. Learn to play with our interactive tutorial and then play against your friends locally or against players at all skill levels via XBox Live.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2009-04-30T00:00:00+00:00"
 }

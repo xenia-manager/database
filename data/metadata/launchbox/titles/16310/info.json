@@ -1,63 +1,63 @@
 {
-  "Name": "Real Steel",
-  "DatabaseID": "16310",
-  "ReleaseDate": "2011-10-12T00:00:00+00:00",
-  "Overview": "Real Steel is a video game produced by Yuke's Inc. It is a side-scrolling boxing game, consisting of five stages. Two of the stages are WRB and three are Underworld, where your custom-made robot will fight four robots per stage. It is important to note that its only for PlayStation 3 and Xbox 360, and is only downloadable.",
-  "VideoURL": "https://www.youtube.com/watch?v=__rr6OXlOXA",
-  "CommunityRating": "4.05",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Real_Steel#Video_game",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Fighting; Sports",
-  "Developer": "Yuke's",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "3f96a63b-dc70-4ee4-a11f-68f2a166baf7.png",
-        "Type": "Banner",
-        "CRC32": "2854301471",
-        "URL": "http://images.launchbox-app.com/3f96a63b-dc70-4ee4-a11f-68f2a166baf7.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2384514001",
         "FileName": "852ef132-6283-4146-abdb-b9f476aaf9a4.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2384514001",
         "URL": "http://images.launchbox-app.com/852ef132-6283-4146-abdb-b9f476aaf9a4.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2854301471",
+        "FileName": "3f96a63b-dc70-4ee4-a11f-68f2a166baf7.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/3f96a63b-dc70-4ee4-a11f-68f2a166baf7.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "2bb61436-9544-46c5-be73-40774f59fdbb.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
-          "CRC32": "783263317",
-          "URL": "http://images.launchbox-app.com/2bb61436-9544-46c5-be73-40774f59fdbb.jpg"
-        },
-        {
-          "FileName": "0bd84435-e089-4044-a0e8-d172db3c4fca.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4116666127",
+          "FileName": "0bd84435-e089-4044-a0e8-d172db3c4fca.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0bd84435-e089-4044-a0e8-d172db3c4fca.jpg"
         },
         {
-          "FileName": "d1f1bffd-7bed-40b0-9a86-50a0c906a7e8.png",
-          "Type": "Box - Front - Reconstructed",
+          "CRC32": "783263317",
+          "FileName": "2bb61436-9544-46c5-be73-40774f59fdbb.jpg",
           "Region": "World",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/2bb61436-9544-46c5-be73-40774f59fdbb.jpg"
+        },
+        {
           "CRC32": "2513657269",
+          "FileName": "d1f1bffd-7bed-40b0-9a86-50a0c906a7e8.png",
+          "Region": "World",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/d1f1bffd-7bed-40b0-9a86-50a0c906a7e8.png"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "3822216786",
         "FileName": "ed8a7a3d-59f3-4bf5-8406-5f83dd6d4870.png",
         "Type": "Clear Logo",
-        "CRC32": "3822216786",
         "URL": "http://images.launchbox-app.com/ed8a7a3d-59f3-4bf5-8406-5f83dd6d4870.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.05",
+  "DatabaseID": "16310",
+  "Developer": "Yuke's",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Fighting; Sports",
+  "Name": "Real Steel",
+  "Overview": "Real Steel is a video game produced by Yuke's Inc. It is a side-scrolling boxing game, consisting of five stages. Two of the stages are WRB and three are Underworld, where your custom-made robot will fight four robots per stage. It is important to note that its only for PlayStation 3 and Xbox 360, and is only downloadable.",
+  "ReleaseDate": "2011-10-12T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=__rr6OXlOXA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Real_Steel#Video_game"
 }

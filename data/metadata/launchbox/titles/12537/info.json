@@ -1,40 +1,40 @@
 {
-  "Name": "Record of Agarest War",
-  "DatabaseID": "12537",
-  "ReleaseDate": "2010-04-27T00:00:00+00:00",
-  "Overview": "Choose the path of Darkness or Light through a truly epic story, spanning multiple generations.",
-  "CommunityRating": "4",
-  "ESRB": "T - Teen",
-  "Genres": "Role-Playing; Strategy",
-  "Developer": "Red Entertainment",
-  "Publisher": "Aksys Games Localization",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "2957571017",
           "FileName": "7844f491-a896-4724-b7ab-f4ea77914dc9.png",
           "Type": "Box - 3D",
-          "CRC32": "2957571017",
           "URL": "http://images.launchbox-app.com/7844f491-a896-4724-b7ab-f4ea77914dc9.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "456027264",
           "FileName": "31276838-da36-452e-8295-94c2161ac559.jpg",
           "Type": "Box - Front",
-          "CRC32": "456027264",
           "URL": "http://images.launchbox-app.com/31276838-da36-452e-8295-94c2161ac559.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "8ade061d-8ab9-4273-ac84-141c5e5c27e9.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "91484638",
+        "FileName": "8ade061d-8ab9-4273-ac84-141c5e5c27e9.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/8ade061d-8ab9-4273-ac84-141c5e5c27e9.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "12537",
+  "Developer": "Red Entertainment",
+  "ESRB": "T - Teen",
+  "Genres": "Role-Playing; Strategy",
+  "Name": "Record of Agarest War",
+  "Overview": "Choose the path of Darkness or Light through a truly epic story, spanning multiple generations.",
+  "Publisher": "Aksys Games Localization",
+  "ReleaseDate": "2010-04-27T00:00:00+00:00"
 }

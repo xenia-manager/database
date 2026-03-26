@@ -1,54 +1,54 @@
 {
-  "Name": "Madden NFL 12",
-  "DatabaseID": "13469",
-  "ReleaseDate": "2011-08-30T00:00:00+00:00",
-  "Overview": "Madden NFL 12 is the 2011 game of the Madden NFL series, the officially licensed game of the NFL. This installment features a new collision system, providing the player with more control, and adds over 100 new tackle animations.\n\nIt also introduces the 'Custom Playbooks' feature, which allows players to build their own playbooks for use in the game, by modifying an existing playbook or creating an own one by selecting up to 400 offensive or defensive plays from any of the existing playbooks. This is integrated with the 'GamePlan' feature, enhanced from Madden NFL 11, by allowing players to rate their plays for each situation, and it thus interacts with the newly improved GameFlow system to allow players to pick between plays suggested by the game A.I. and based on their rating of the plays.\n\nEnhancements also have been made to the Franchise mode, including expanded rosters, pre-season cut-days, rookie scouting and more. Additionally, the game includes presentation with team-specific run-outs featuring mascots and cheerleaders, new cameras and TV broadcast style in-game presentation, and a new 'Dynamic Player Performance' system.",
-  "CommunityRating": "4",
-  "Genres": "Sports",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1563116598",
         "FileName": "25ee874f-1c8b-422b-8780-6b54b06176d7.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1563116598",
         "URL": "http://images.launchbox-app.com/25ee874f-1c8b-422b-8780-6b54b06176d7.jpg"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_51676dfe-e2a6-42aa-8eb3-ee26f36e7c0a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3326365903",
+          "FileName": "r2_51676dfe-e2a6-42aa-8eb3-ee26f36e7c0a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_51676dfe-e2a6-42aa-8eb3-ee26f36e7c0a.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "951292200",
           "FileName": "103183b9-0d79-4679-803c-a2091cc4357e.jpg",
           "Type": "Box - Front",
-          "CRC32": "951292200",
           "URL": "http://images.launchbox-app.com/103183b9-0d79-4679-803c-a2091cc4357e.jpg"
         },
         {
-          "FileName": "r2_35ac49b1-54e2-4fc9-898a-7c1a29646809.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "4246654003",
+          "FileName": "r2_35ac49b1-54e2-4fc9-898a-7c1a29646809.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_35ac49b1-54e2-4fc9-898a-7c1a29646809.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "04832009-24de-4548-a491-4a9bf3439da9.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1724121833",
+        "FileName": "04832009-24de-4548-a491-4a9bf3439da9.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/04832009-24de-4548-a491-4a9bf3439da9.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "13469",
+  "Genres": "Sports",
+  "Name": "Madden NFL 12",
+  "Overview": "Madden NFL 12 is the 2011 game of the Madden NFL series, the officially licensed game of the NFL. This installment features a new collision system, providing the player with more control, and adds over 100 new tackle animations.\n\nIt also introduces the 'Custom Playbooks' feature, which allows players to build their own playbooks for use in the game, by modifying an existing playbook or creating an own one by selecting up to 400 offensive or defensive plays from any of the existing playbooks. This is integrated with the 'GamePlan' feature, enhanced from Madden NFL 11, by allowing players to rate their plays for each situation, and it thus interacts with the newly improved GameFlow system to allow players to pick between plays suggested by the game A.I. and based on their rating of the plays.\n\nEnhancements also have been made to the Franchise mode, including expanded rosters, pre-season cut-days, rookie scouting and more. Additionally, the game includes presentation with team-specific run-outs featuring mascots and cheerleaders, new cameras and TV broadcast style in-game presentation, and a new 'Dynamic Player Performance' system.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2011-08-30T00:00:00+00:00"
 }

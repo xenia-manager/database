@@ -1,32 +1,32 @@
 {
-  "Name": "Sega Vintage Collection: Alex Kidd & Co.",
-  "DatabaseID": "209940",
-  "ReleaseDate": "2012-05-23T00:00:00+00:00",
-  "Overview": "Experience a blast from past with this collection of classic Sega titles! Save kingdoms, shatter time trials, and destroy evil in Alex Kidd in Miracle World, Super Hang-on, and The Revenge of Shinobi! Now available on Xbox LIVE, Alex Kidd & Company have been updated with all new achievements, challenging new trial modes, and other goodies like recordable and downloadable game sessions, 3D mode in Super Hang-on, in game juke boxes, and the original Japanese dialogue!",
-  "CommunityRating": "3",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action; Adventure; Platform; Racing",
-  "Developer": "M2 Co.",
-  "Publisher": "Sega",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3834851473",
         "FileName": "3d19833c-503b-453e-84ad-367c67ed0a69.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3834851473",
         "URL": "http://images.launchbox-app.com/3d19833c-503b-453e-84ad-367c67ed0a69.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "706464bd-221c-46ca-82a7-dfffcf005a58.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4250697577",
+          "FileName": "706464bd-221c-46ca-82a7-dfffcf005a58.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/706464bd-221c-46ca-82a7-dfffcf005a58.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "209940",
+  "Developer": "M2 Co.",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action; Adventure; Platform; Racing",
+  "Name": "Sega Vintage Collection: Alex Kidd & Co.",
+  "Overview": "Experience a blast from past with this collection of classic Sega titles! Save kingdoms, shatter time trials, and destroy evil in Alex Kidd in Miracle World, Super Hang-on, and The Revenge of Shinobi! Now available on Xbox LIVE, Alex Kidd & Company have been updated with all new achievements, challenging new trial modes, and other goodies like recordable and downloadable game sessions, 3D mode in Super Hang-on, in game juke boxes, and the original Japanese dialogue!",
+  "Publisher": "Sega",
+  "ReleaseDate": "2012-05-23T00:00:00+00:00"
 }

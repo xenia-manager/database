@@ -1,62 +1,62 @@
 {
-  "Name": "Altered Beast",
-  "DatabaseID": "209104",
-  "ReleaseDate": "2009-06-10T00:00:00+00:00",
-  "Overview": "When Zeus, the legendary Greek God, brings you back to life, you set forth on a mission to rescue his daughter Athena from the underworld. Along the way, collect the Spirit Balls dropped by enemies to increase your strength and transform into a variety of mythical creatures with powerful attacks.",
-  "CommunityRating": "3.38888888888889",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Beat 'em Up",
-  "Developer": "Backbone Emeryville",
-  "Publisher": "Sega of America",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "57d82f07-a04d-4a20-b076-67465d330237.png",
-        "Type": "Banner",
-        "CRC32": "3028409143",
-        "URL": "http://images.launchbox-app.com/57d82f07-a04d-4a20-b076-67465d330237.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2610926854",
         "FileName": "650a63dd-c1c7-4630-b640-dcdf2d74ca16.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2610926854",
         "URL": "http://images.launchbox-app.com/650a63dd-c1c7-4630-b640-dcdf2d74ca16.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3028409143",
+        "FileName": "57d82f07-a04d-4a20-b076-67465d330237.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/57d82f07-a04d-4a20-b076-67465d330237.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "1ab303a8-6426-4176-aa62-6b4ea05ee42a.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2819614014",
+          "FileName": "1ab303a8-6426-4176-aa62-6b4ea05ee42a.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1ab303a8-6426-4176-aa62-6b4ea05ee42a.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "8e5fe43e-29fd-4409-b4e1-179ab645ed13.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1824841639",
-        "URL": "http://images.launchbox-app.com/8e5fe43e-29fd-4409-b4e1-179ab645ed13.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "2915737057",
         "FileName": "65e70c04-3ac5-4e9c-b7e9-188a1fdec805.png",
         "Type": "Clear Logo",
-        "CRC32": "2915737057",
         "URL": "http://images.launchbox-app.com/65e70c04-3ac5-4e9c-b7e9-188a1fdec805.png"
       },
       {
+        "CRC32": "1704754120",
         "FileName": "854f5653-c347-45ba-9891-db1c9daf8863.png",
         "Type": "Clear Logo",
-        "CRC32": "1704754120",
         "URL": "http://images.launchbox-app.com/854f5653-c347-45ba-9891-db1c9daf8863.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1824841639",
+        "FileName": "8e5fe43e-29fd-4409-b4e1-179ab645ed13.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8e5fe43e-29fd-4409-b4e1-179ab645ed13.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.38888888888889",
+  "DatabaseID": "209104",
+  "Developer": "Backbone Emeryville",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Beat 'em Up",
+  "Name": "Altered Beast",
+  "Overview": "When Zeus, the legendary Greek God, brings you back to life, you set forth on a mission to rescue his daughter Athena from the underworld. Along the way, collect the Spirit Balls dropped by enemies to increase your strength and transform into a variety of mythical creatures with powerful attacks.",
+  "Publisher": "Sega of America",
+  "ReleaseDate": "2009-06-10T00:00:00+00:00"
 }

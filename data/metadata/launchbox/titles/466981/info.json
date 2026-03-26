@@ -1,38 +1,38 @@
 {
-  "Name": "Adventures in Text",
-  "DatabaseID": "466981",
-  "ReleaseDate": "2016-01-12T00:00:00+00:00",
-  "Overview": "Explore the world of Aeski, try to escape a locked room or be accepted to the School for Gifted Demons in Adventures in Text, three short multiple choice text adventures. Play with friends by co-operating and agreeing your answers. Fail to agree and the game decides your path! Also includes three quizzes.",
-  "Genres": "Action",
-  "Developer": "Oxygen Addict",
-  "Publisher": "Oxygen Addict",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "9167595f-9f50-4f18-b6e0-c91b3470bb5c.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "931058263",
+          "FileName": "9167595f-9f50-4f18-b6e0-c91b3470bb5c.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9167595f-9f50-4f18-b6e0-c91b3470bb5c.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "dfd70377-abbd-47e1-a6ca-b72ba06c9b83.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "461298696",
+        "FileName": "3aa9310c-d038-4ef4-a775-9aa1c96a603b.jpg",
         "Region": "World",
-        "CRC32": "2207658324",
-        "URL": "http://images.launchbox-app.com/dfd70377-abbd-47e1-a6ca-b72ba06c9b83.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/3aa9310c-d038-4ef4-a775-9aa1c96a603b.jpg"
       },
       {
-        "FileName": "3aa9310c-d038-4ef4-a775-9aa1c96a603b.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2207658324",
+        "FileName": "dfd70377-abbd-47e1-a6ca-b72ba06c9b83.jpg",
         "Region": "World",
-        "CRC32": "461298696",
-        "URL": "http://images.launchbox-app.com/3aa9310c-d038-4ef4-a775-9aa1c96a603b.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/dfd70377-abbd-47e1-a6ca-b72ba06c9b83.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "466981",
+  "Developer": "Oxygen Addict",
+  "Genres": "Action",
+  "Name": "Adventures in Text",
+  "Overview": "Explore the world of Aeski, try to escape a locked room or be accepted to the School for Gifted Demons in Adventures in Text, three short multiple choice text adventures. Play with friends by co-operating and agreeing your answers. Fail to agree and the game decides your path! Also includes three quizzes.",
+  "Publisher": "Oxygen Addict",
+  "ReleaseDate": "2016-01-12T00:00:00+00:00"
 }

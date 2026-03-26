@@ -1,142 +1,142 @@
 {
-  "Name": "Armored Core 4",
-  "DatabaseID": "7138",
-  "ReleaseDate": "2007-03-20T00:00:00+00:00",
-  "Overview": "Armored Core 4 is the 12th installment in the Armored Core series. The games are set in an alternate universe where corporations fights wars and have taken over governmental control. Due to the growth of the population, food and energy became scarce and widened the gap between the rich and the poor. Anarchy ensued and the government lost control of the situation. People turned to the corporations to provide for safety. Six corporations struggled for power and launched a full scale war, known as the Nation Dismantlement War. A new order was established and Pax Economica was introduced, a system where loyalty guaranteed food and safety.\n\nFive years after the establishment of the Pax Economica, the player takes the role of a member of the Ravens, a rebel group who wants to challenge the modern slavery by force. The player controls a giant Mech, part of a squad, which can be assembled with the available parts, and customized with weapons, paint and aesthetic options. On different locations all over the world, the player fights Mechs from the corporations in 30 missions grouped together in chapters. At the end of each level, new parts become available and the Mech can be repaired with the wages. Multiplayer is supported over the PlayStation Network and Xbox Live.",
-  "VideoURL": "https://www.youtube.com/watch?v=nSsGpopK1Q4",
-  "CommunityRating": "4.08333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Armored_Core_4",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "FromSoftware",
-  "Publisher": "Sega of America",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "f97ee4c4-73fc-4aa2-a075-3b269d381ebb.jpg",
-        "Type": "Banner",
-        "CRC32": "1230952585",
-        "URL": "http://images.launchbox-app.com/f97ee4c4-73fc-4aa2-a075-3b269d381ebb.jpg"
-      },
-      {
-        "FileName": "24bc3b30-822f-4600-9206-3fee96ad5359.png",
-        "Type": "Banner",
-        "CRC32": "1750194171",
-        "URL": "http://images.launchbox-app.com/24bc3b30-822f-4600-9206-3fee96ad5359.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3806977028",
         "FileName": "dbd67ba6-0de3-432f-b18f-4922e9a1d0df.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3806977028",
         "URL": "http://images.launchbox-app.com/dbd67ba6-0de3-432f-b18f-4922e9a1d0df.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1750194171",
+        "FileName": "24bc3b30-822f-4600-9206-3fee96ad5359.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/24bc3b30-822f-4600-9206-3fee96ad5359.png"
+      },
+      {
+        "CRC32": "1230952585",
+        "FileName": "f97ee4c4-73fc-4aa2-a075-3b269d381ebb.jpg",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/f97ee4c4-73fc-4aa2-a075-3b269d381ebb.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "628e855b-a757-4f5f-b0e0-82d1fbc40a43.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3277021112",
+          "FileName": "628e855b-a757-4f5f-b0e0-82d1fbc40a43.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/628e855b-a757-4f5f-b0e0-82d1fbc40a43.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_29f42a23-926c-4139-b470-f11041fd9aec.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "1140158837",
+          "FileName": "r2_29f42a23-926c-4139-b470-f11041fd9aec.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_29f42a23-926c-4139-b470-f11041fd9aec.jpg"
         },
         {
-          "FileName": "e81f7aa5-1d85-4958-b864-63e998a78686.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1290935602",
+          "FileName": "e81f7aa5-1d85-4958-b864-63e998a78686.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/e81f7aa5-1d85-4958-b864-63e998a78686.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a3146137-8e6d-48a2-94a2-a96d8bc4e0e0.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "295766756",
+          "FileName": "r2_a3146137-8e6d-48a2-94a2-a96d8bc4e0e0.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a3146137-8e6d-48a2-94a2-a96d8bc4e0e0.jpg"
         },
         {
-          "FileName": "r2_58849678-bc5e-4375-affd-bc405c031b74.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "3330450192",
+          "FileName": "r2_58849678-bc5e-4375-affd-bc405c031b74.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_58849678-bc5e-4375-affd-bc405c031b74.jpg"
         },
         {
-          "FileName": "dfeb5ef5-f684-47e0-a465-1f2d5cd64c6e.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3602251599",
+          "FileName": "dfeb5ef5-f684-47e0-a465-1f2d5cd64c6e.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/dfeb5ef5-f684-47e0-a465-1f2d5cd64c6e.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_ae4b6f24-e556-4c82-81b4-32a3b1aed146.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "2508108660",
+          "FileName": "r2_ae4b6f24-e556-4c82-81b4-32a3b1aed146.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_ae4b6f24-e556-4c82-81b4-32a3b1aed146.jpg"
         },
         {
-          "FileName": "r2_3283325d-916b-4183-b231-82ed8addf45f.jpg",
-          "Type": "Box - Spine",
-          "Region": "Japan",
           "CRC32": "1288983777",
+          "FileName": "r2_3283325d-916b-4183-b231-82ed8addf45f.jpg",
+          "Region": "Japan",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_3283325d-916b-4183-b231-82ed8addf45f.jpg"
         },
         {
-          "FileName": "6e01bd8f-6db3-4707-b11d-6a9c846309ec.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "4045797738",
+          "FileName": "6e01bd8f-6db3-4707-b11d-6a9c846309ec.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/6e01bd8f-6db3-4707-b11d-6a9c846309ec.jpg"
         },
         {
-          "FileName": "a18352c0-ac23-4f40-a034-bc2bfc791526.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3671943944",
+          "FileName": "a18352c0-ac23-4f40-a034-bc2bfc791526.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/a18352c0-ac23-4f40-a034-bc2bfc791526.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "40d8920b-bbf9-4d73-864e-dbf92df1d33c.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2010353361",
+        "FileName": "40d8920b-bbf9-4d73-864e-dbf92df1d33c.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/40d8920b-bbf9-4d73-864e-dbf92df1d33c.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_940923cc-a81e-4e7f-a14f-2ef3321cb7e2.png",
-        "Type": "Clear Logo",
-        "Region": "Europe",
         "CRC32": "2845587192",
+        "FileName": "r2_940923cc-a81e-4e7f-a14f-2ef3321cb7e2.png",
+        "Region": "Europe",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_940923cc-a81e-4e7f-a14f-2ef3321cb7e2.png"
       },
       {
-        "FileName": "8ba84d11-8e00-4f95-b1af-cb873a52cb2d.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "2538688669",
+        "FileName": "8ba84d11-8e00-4f95-b1af-cb873a52cb2d.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/8ba84d11-8e00-4f95-b1af-cb873a52cb2d.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.08333333333333",
+  "DatabaseID": "7138",
+  "Developer": "FromSoftware",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Armored Core 4",
+  "Overview": "Armored Core 4 is the 12th installment in the Armored Core series. The games are set in an alternate universe where corporations fights wars and have taken over governmental control. Due to the growth of the population, food and energy became scarce and widened the gap between the rich and the poor. Anarchy ensued and the government lost control of the situation. People turned to the corporations to provide for safety. Six corporations struggled for power and launched a full scale war, known as the Nation Dismantlement War. A new order was established and Pax Economica was introduced, a system where loyalty guaranteed food and safety.\n\nFive years after the establishment of the Pax Economica, the player takes the role of a member of the Ravens, a rebel group who wants to challenge the modern slavery by force. The player controls a giant Mech, part of a squad, which can be assembled with the available parts, and customized with weapons, paint and aesthetic options. On different locations all over the world, the player fights Mechs from the corporations in 30 missions grouped together in chapters. At the end of each level, new parts become available and the Mech can be repaired with the wages. Multiplayer is supported over the PlayStation Network and Xbox Live.",
+  "Publisher": "Sega of America",
+  "ReleaseDate": "2007-03-20T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=nSsGpopK1Q4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Armored_Core_4"
 }

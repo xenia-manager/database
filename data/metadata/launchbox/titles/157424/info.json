@@ -1,54 +1,54 @@
 {
-  "Name": "Pac-Man Championship Edition",
-  "DatabaseID": "157424",
-  "ReleaseDate": "2007-06-06T00:00:00+00:00",
-  "Overview": "Pac-Man Championship Edition features new and unique gameplay features, including six game modes, a time limit, constantly evolving mazes, and enhanced graphics and sound! Practice hard and play well to experience increased gameplay speed! Experience the evolution of Pac-Man!",
-  "VideoURL": "https://www.youtube.com/watch?v=nDWVMJL4stM&t=12s",
-  "CommunityRating": "4.125",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Pac-Man_Championship_Edition",
-  "ESRB": "E - Everyone",
-  "Genres": "Action",
-  "Developer": "Namco Bandai Games",
-  "Publisher": "Namco Bandai Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "06cfbe86-6ba5-4be2-b774-d0699b693681.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "269861589",
+          "FileName": "06cfbe86-6ba5-4be2-b774-d0699b693681.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/06cfbe86-6ba5-4be2-b774-d0699b693681.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "3731226195",
+        "FileName": "c8c315b5-d2ed-406e-8fb3-b5e361b65a3b.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/c8c315b5-d2ed-406e-8fb3-b5e361b65a3b.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "64379642",
         "FileName": "e8d9ce82-7dc8-4324-bd9e-6ab943615566.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "64379642",
         "URL": "http://images.launchbox-app.com/e8d9ce82-7dc8-4324-bd9e-6ab943615566.jpg"
       },
       {
-        "FileName": "c9545e09-ed32-41d3-9989-2de3ed1b3724.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3615677462",
-        "URL": "http://images.launchbox-app.com/c9545e09-ed32-41d3-9989-2de3ed1b3724.jpg"
-      },
-      {
+        "CRC32": "2701719472",
         "FileName": "be0845b3-1705-42d4-aef5-c5073e8fa6df.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2701719472",
         "URL": "http://images.launchbox-app.com/be0845b3-1705-42d4-aef5-c5073e8fa6df.jpg"
-      }
-    ],
-    "Other": [
+      },
       {
-        "FileName": "c8c315b5-d2ed-406e-8fb3-b5e361b65a3b.png",
-        "Type": "Clear Logo",
-        "CRC32": "3731226195",
-        "URL": "http://images.launchbox-app.com/c8c315b5-d2ed-406e-8fb3-b5e361b65a3b.png"
+        "CRC32": "3615677462",
+        "FileName": "c9545e09-ed32-41d3-9989-2de3ed1b3724.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c9545e09-ed32-41d3-9989-2de3ed1b3724.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.125",
+  "DatabaseID": "157424",
+  "Developer": "Namco Bandai Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Action",
+  "Name": "Pac-Man Championship Edition",
+  "Overview": "Pac-Man Championship Edition features new and unique gameplay features, including six game modes, a time limit, constantly evolving mazes, and enhanced graphics and sound! Practice hard and play well to experience increased gameplay speed! Experience the evolution of Pac-Man!",
+  "Publisher": "Namco Bandai Games",
+  "ReleaseDate": "2007-06-06T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=nDWVMJL4stM&t=12s",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Pac-Man_Championship_Edition"
 }

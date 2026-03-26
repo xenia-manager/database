@@ -1,40 +1,40 @@
 {
-  "Name": "The Adventures of Shuggy",
-  "DatabaseID": "199450",
-  "ReleaseDate": "2011-06-15T00:00:00+00:00",
-  "Overview": "The game begins with the vampire Shuggy inheriting a haunted Scottish mansion from his grandfather. In order to make it a livable space he must evict the undesirable creatures currently living in it. To do so he must collect all the gems in a given room to acquire a key. The keys are spread across five areas: The Dungeon, The Boiler Room, The Gallery, The Graveyard and The Clocktower. Once all keys are obtained Shuggy can evict the evil tenants and claim his mansion.",
-  "CommunityRating": "3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/The_Adventures_of_Shuggy",
-  "Genres": "Platform; Puzzle",
-  "Developer": "Smudged Cat Games",
-  "Publisher": "Valcon Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "1a70a78f-fce4-4557-9968-eb0ba59c0e2e.png",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "623938788",
+          "FileName": "1a70a78f-fce4-4557-9968-eb0ba59c0e2e.png",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1a70a78f-fce4-4557-9968-eb0ba59c0e2e.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "d3f6bef1-01e2-43a5-9057-874e220ebe6a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "201921284",
-        "URL": "http://images.launchbox-app.com/d3f6bef1-01e2-43a5-9057-874e220ebe6a.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "4000965807",
         "FileName": "57afe462-579f-4c6b-a4ea-fb0afeb710f3.png",
         "Type": "Clear Logo",
-        "CRC32": "4000965807",
         "URL": "http://images.launchbox-app.com/57afe462-579f-4c6b-a4ea-fb0afeb710f3.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "201921284",
+        "FileName": "d3f6bef1-01e2-43a5-9057-874e220ebe6a.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d3f6bef1-01e2-43a5-9057-874e220ebe6a.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "199450",
+  "Developer": "Smudged Cat Games",
+  "Genres": "Platform; Puzzle",
+  "Name": "The Adventures of Shuggy",
+  "Overview": "The game begins with the vampire Shuggy inheriting a haunted Scottish mansion from his grandfather. In order to make it a livable space he must evict the undesirable creatures currently living in it. To do so he must collect all the gems in a given room to acquire a key. The keys are spread across five areas: The Dungeon, The Boiler Room, The Gallery, The Graveyard and The Clocktower. Once all keys are obtained Shuggy can evict the evil tenants and claim his mansion.",
+  "Publisher": "Valcon Games",
+  "ReleaseDate": "2011-06-15T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/The_Adventures_of_Shuggy"
 }

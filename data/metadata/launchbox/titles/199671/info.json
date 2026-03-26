@@ -1,41 +1,41 @@
 {
-  "Name": "Tecmo Bowl Throwback",
-  "DatabaseID": "199671",
-  "ReleaseDate": "2010-04-28T00:00:00+00:00",
-  "Overview": "The legend is back! Tecmo Bowl® Throwback is a remake of the classic Tecmo Super Bowl, with the same rules and fast-paced gameplay as the original, but with the option to play it in brand-new high definition 3D graphics. Switch it back to old school in real time with the same graphics and music from back in the day! Tecmo Bowl® Throwback brings back the gameplay you loved, and stays true to the Tecmo Super Bowl legacy!",
-  "CommunityRating": "2",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "SouthEnd Interactive",
-  "Publisher": "Tecmo Koei America",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "5ce9c3b5-36f3-49d1-8377-83d8ebd45e2f.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1684760419",
+          "FileName": "5ce9c3b5-36f3-49d1-8377-83d8ebd45e2f.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5ce9c3b5-36f3-49d1-8377-83d8ebd45e2f.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "ce75c24d-1f0a-4e3f-aa59-c9bef498dac4.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "North America",
-        "CRC32": "1513193086",
-        "URL": "http://images.launchbox-app.com/ce75c24d-1f0a-4e3f-aa59-c9bef498dac4.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "2911902213",
         "FileName": "eadc2339-a768-4753-b428-ac48d58ec3d4.png",
         "Type": "Clear Logo",
-        "CRC32": "2911902213",
         "URL": "http://images.launchbox-app.com/eadc2339-a768-4753-b428-ac48d58ec3d4.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1513193086",
+        "FileName": "ce75c24d-1f0a-4e3f-aa59-c9bef498dac4.jpg",
+        "Region": "North America",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ce75c24d-1f0a-4e3f-aa59-c9bef498dac4.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "2",
+  "DatabaseID": "199671",
+  "Developer": "SouthEnd Interactive",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Tecmo Bowl Throwback",
+  "Overview": "The legend is back! Tecmo Bowl® Throwback is a remake of the classic Tecmo Super Bowl, with the same rules and fast-paced gameplay as the original, but with the option to play it in brand-new high definition 3D graphics. Switch it back to old school in real time with the same graphics and music from back in the day! Tecmo Bowl® Throwback brings back the gameplay you loved, and stays true to the Tecmo Super Bowl legacy!",
+  "Publisher": "Tecmo Koei America",
+  "ReleaseDate": "2010-04-28T00:00:00+00:00"
 }

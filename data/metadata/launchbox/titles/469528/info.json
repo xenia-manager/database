@@ -1,53 +1,53 @@
 {
-  "Name": "Flappy Avatar",
-  "DatabaseID": "469528",
-  "ReleaseDate": "2014-03-12T00:00:00+00:00",
-  "Overview": "All the fun of the smash hit 'Flappy Bird' but with avatars on your Xbox 360! Enjoy the new multiplayer mode and share your scores globally with the updated scoreboards!",
-  "VideoURL": "https://youtu.be/novuPRGr-zM",
-  "Genres": "Action",
-  "Developer": "Aztecgames",
-  "Publisher": "Aztecgames",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "505e44fd-b03b-453e-a317-02f07a20441e.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "393588805",
+          "FileName": "505e44fd-b03b-453e-a317-02f07a20441e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/505e44fd-b03b-453e-a317-02f07a20441e.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "7d93bed5-6846-43b0-a25d-32fa9b4be065.jpg",
-        "Type": "Screenshot - Game Over",
-        "Region": "World",
         "CRC32": "176904289",
+        "FileName": "7d93bed5-6846-43b0-a25d-32fa9b4be065.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Over",
         "URL": "http://images.launchbox-app.com/7d93bed5-6846-43b0-a25d-32fa9b4be065.jpg"
       },
       {
-        "FileName": "04c8eb53-f2cb-453b-953f-d65600b30f4e.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "395968245",
+        "FileName": "04c8eb53-f2cb-453b-953f-d65600b30f4e.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/04c8eb53-f2cb-453b-953f-d65600b30f4e.jpg"
       },
       {
-        "FileName": "f2b4140e-153d-4440-a6a2-e4a9974a96c0.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "694471122",
+        "FileName": "f0e3de58-6bcf-4499-bc57-36a848afe958.jpg",
         "Region": "World",
-        "CRC32": "346327940",
-        "URL": "http://images.launchbox-app.com/f2b4140e-153d-4440-a6a2-e4a9974a96c0.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f0e3de58-6bcf-4499-bc57-36a848afe958.jpg"
       },
       {
-        "FileName": "f0e3de58-6bcf-4499-bc57-36a848afe958.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "346327940",
+        "FileName": "f2b4140e-153d-4440-a6a2-e4a9974a96c0.jpg",
         "Region": "World",
-        "CRC32": "694471122",
-        "URL": "http://images.launchbox-app.com/f0e3de58-6bcf-4499-bc57-36a848afe958.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f2b4140e-153d-4440-a6a2-e4a9974a96c0.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469528",
+  "Developer": "Aztecgames",
+  "Genres": "Action",
+  "Name": "Flappy Avatar",
+  "Overview": "All the fun of the smash hit 'Flappy Bird' but with avatars on your Xbox 360! Enjoy the new multiplayer mode and share your scores globally with the updated scoreboards!",
+  "Publisher": "Aztecgames",
+  "ReleaseDate": "2014-03-12T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/novuPRGr-zM"
 }

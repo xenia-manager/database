@@ -1,109 +1,109 @@
 {
-  "Name": "GRID",
-  "DatabaseID": "12783",
-  "ReleaseDate": "2008-06-03T00:00:00+00:00",
-  "Overview": "The heart of GRID is the career-mode called GRID World. Divided into the three regions USA, Europe and Japan, the player has to earn money and prestige points to move up into a higher license category which then gives him access to more and harder racing events. These events are divided into categories like normal races, Drift-events, Destruction Derbies and even the famous 24 hours race in Le Mans.\n\nBut of course not every car is suitable for every event so there are several different series to chose from. So while the player drives a tuned car for the Drift- or Racing-events in Japan, muscle cars await him in for the Destruction Derbies in the USA or Formel 3000 racers in Europe. Each car also handles very differently. Of course the player needs to buy the suitable car first before he can enter a tournament. There he can decide if he wants to buy a brand new car or go over to eBay Motors and look for a solid used car which of course cost less but has already seen some crashes and might not provide the best possible performance.\n\nTo earn the money to buy a car for a event, the player can complete so-called Driver Offers. These are offers by other racing teams to take part in an event and see it through. But there are also bonus objectives like \"Finish before Team Top Secret\" which grant the player additional cash if he successfully completes them.\n\nBesides money the player also earns prestige points. These are required to unlock the next higher license category in the corresponding country. Of course tournaments give way more points than completing Driver Offers but the player can also get a few more points by adjusting the realism settings before the race. The higher the realism is, the higher the point gain will be after successful finishing the event. These settings include things like a difficulty level, traction assistant or how many flashbacks the player has available during a race. These flashbacks are similar to the Sands of Time in the Prince of Persia-Series. If the player for example drifts out into the gravel pit, he can activate the instant replay, rewind time a little bit and then immediately reenter the race at that point and try to avoid the crash.",
-  "VideoURL": "https://www.youtube.com/watch?v=eRYpOaFnY4U",
-  "CommunityRating": "3.28571428571429",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Race_Driver:_Grid",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Racing",
-  "Developer": "Codemasters",
-  "Publisher": "Codemasters",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "e7e14946-201e-4db2-977f-60d25300d865.jpg",
-        "Type": "Banner",
-        "Region": "Europe",
-        "CRC32": "2161669462",
-        "URL": "http://images.launchbox-app.com/e7e14946-201e-4db2-977f-60d25300d865.jpg"
-      },
-      {
-        "FileName": "r2_860b0d8f-6ea3-4fbe-95ac-8340315e3338.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2956116821",
-        "URL": "http://images.launchbox-app.com/r2_860b0d8f-6ea3-4fbe-95ac-8340315e3338.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_215689ba-d54f-4971-b96e-121524dbd391.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2295843644",
+        "FileName": "r2_215689ba-d54f-4971-b96e-121524dbd391.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_215689ba-d54f-4971-b96e-121524dbd391.jpg"
       },
       {
-        "FileName": "r2_b586990f-ade8-4697-b240-5822fea9fb81.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3442614146",
+        "FileName": "r2_b586990f-ade8-4697-b240-5822fea9fb81.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_b586990f-ade8-4697-b240-5822fea9fb81.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2161669462",
+        "FileName": "e7e14946-201e-4db2-977f-60d25300d865.jpg",
+        "Region": "Europe",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/e7e14946-201e-4db2-977f-60d25300d865.jpg"
+      },
+      {
+        "CRC32": "2956116821",
+        "FileName": "r2_860b0d8f-6ea3-4fbe-95ac-8340315e3338.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_860b0d8f-6ea3-4fbe-95ac-8340315e3338.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "485c929b-c6ce-41a3-83b4-e2a6d0550775.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1170288408",
+          "FileName": "485c929b-c6ce-41a3-83b4-e2a6d0550775.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/485c929b-c6ce-41a3-83b4-e2a6d0550775.png"
         }
       ],
       "Back": [
         {
-          "FileName": "48173169-cb97-422c-9206-8f71947e1277.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "3257694442",
+          "FileName": "48173169-cb97-422c-9206-8f71947e1277.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/48173169-cb97-422c-9206-8f71947e1277.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "f7fe4670-f97f-47d1-a856-e9d41e129bda.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2911526019",
+          "FileName": "f7fe4670-f97f-47d1-a856-e9d41e129bda.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f7fe4670-f97f-47d1-a856-e9d41e129bda.jpg"
         },
         {
-          "FileName": "8eb2f54c-2e4e-4ffb-941d-4f8585670f6d.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1213519080",
+          "FileName": "8eb2f54c-2e4e-4ffb-941d-4f8585670f6d.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8eb2f54c-2e4e-4ffb-941d-4f8585670f6d.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_424ec61c-20e4-47f3-b355-91ec4c4b3851.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "3129140202",
+          "FileName": "r2_424ec61c-20e4-47f3-b355-91ec4c4b3851.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_424ec61c-20e4-47f3-b355-91ec4c4b3851.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "1a6edc2c-bef2-4b9a-a277-fa18a3f49bf8.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2236198398",
+        "FileName": "1a6edc2c-bef2-4b9a-a277-fa18a3f49bf8.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/1a6edc2c-bef2-4b9a-a277-fa18a3f49bf8.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1334043669",
         "FileName": "a809a4d7-5e7f-458f-ad19-bd8ab1412f13.png",
         "Type": "Clear Logo",
-        "CRC32": "1334043669",
         "URL": "http://images.launchbox-app.com/a809a4d7-5e7f-458f-ad19-bd8ab1412f13.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.28571428571429",
+  "DatabaseID": "12783",
+  "Developer": "Codemasters",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Racing",
+  "Name": "GRID",
+  "Overview": "The heart of GRID is the career-mode called GRID World. Divided into the three regions USA, Europe and Japan, the player has to earn money and prestige points to move up into a higher license category which then gives him access to more and harder racing events. These events are divided into categories like normal races, Drift-events, Destruction Derbies and even the famous 24 hours race in Le Mans.\n\nBut of course not every car is suitable for every event so there are several different series to chose from. So while the player drives a tuned car for the Drift- or Racing-events in Japan, muscle cars await him in for the Destruction Derbies in the USA or Formel 3000 racers in Europe. Each car also handles very differently. Of course the player needs to buy the suitable car first before he can enter a tournament. There he can decide if he wants to buy a brand new car or go over to eBay Motors and look for a solid used car which of course cost less but has already seen some crashes and might not provide the best possible performance.\n\nTo earn the money to buy a car for a event, the player can complete so-called Driver Offers. These are offers by other racing teams to take part in an event and see it through. But there are also bonus objectives like \"Finish before Team Top Secret\" which grant the player additional cash if he successfully completes them.\n\nBesides money the player also earns prestige points. These are required to unlock the next higher license category in the corresponding country. Of course tournaments give way more points than completing Driver Offers but the player can also get a few more points by adjusting the realism settings before the race. The higher the realism is, the higher the point gain will be after successful finishing the event. These settings include things like a difficulty level, traction assistant or how many flashbacks the player has available during a race. These flashbacks are similar to the Sands of Time in the Prince of Persia-Series. If the player for example drifts out into the gravel pit, he can activate the instant replay, rewind time a little bit and then immediately reenter the race at that point and try to avoid the crash.",
+  "Publisher": "Codemasters",
+  "ReleaseDate": "2008-06-03T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=eRYpOaFnY4U",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Race_Driver:_Grid"
 }

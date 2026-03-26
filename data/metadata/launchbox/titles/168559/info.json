@@ -1,95 +1,95 @@
 {
-  "Name": "Haunted House",
-  "DatabaseID": "168559",
-  "ReleaseDate": "2010-10-28T00:00:00+00:00",
-  "Overview": "Atari's classic groundbreaking game is back with more chills, cool new unlockables and plenty of scary new enemies! Over thirty years have passed since your grandfather, Samuel Silverspring, disappeared without a trace. When a mysterious letter arrives claiming to have insight on your grandfatherâ™s whereabouts, you are led back to the place he was last seen, Graves Mansion. As you dare to embark on this spooky adventure to uncover the truth about your grandfather, you are forced to face your fears in the dark depths of the Haunted House?",
-  "CommunityRating": "3.625",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
-  "Developer": "ImaginEngine",
-  "Publisher": "Atari",
   "Artwork": {
     "Arcade": [
       {
+        "CRC32": "4112248993",
         "FileName": "452e825e-1821-466a-bde4-a48e5a33baa4.jpg",
         "Type": "Arcade - Controls Information",
-        "CRC32": "4112248993",
         "URL": "http://images.launchbox-app.com/452e825e-1821-466a-bde4-a48e5a33baa4.jpg"
-      }
-    ],
-    "Banner": [
-      {
-        "FileName": "dbaea9ef-900a-4ed5-8596-6ad2b5fa94d8.png",
-        "Type": "Banner",
-        "CRC32": "158972469",
-        "URL": "http://images.launchbox-app.com/dbaea9ef-900a-4ed5-8596-6ad2b5fa94d8.png"
       }
     ],
     "Background": [
       {
+        "CRC32": "273721337",
         "FileName": "20127a30-21a5-4d93-9098-f74e4a97d241.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "273721337",
         "URL": "http://images.launchbox-app.com/20127a30-21a5-4d93-9098-f74e4a97d241.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "158972469",
+        "FileName": "dbaea9ef-900a-4ed5-8596-6ad2b5fa94d8.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/dbaea9ef-900a-4ed5-8596-6ad2b5fa94d8.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "9326269e-ba6d-4fe9-80a1-dd15b56dc926.jpg",
-          "Type": "Box - Front",
+          "CRC32": "1066767114",
+          "FileName": "22144540-b731-441d-9fb2-eada19617211.png",
           "Region": "World",
-          "CRC32": "3983907411",
-          "URL": "http://images.launchbox-app.com/9326269e-ba6d-4fe9-80a1-dd15b56dc926.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/22144540-b731-441d-9fb2-eada19617211.png"
         },
         {
-          "FileName": "22144540-b731-441d-9fb2-eada19617211.png",
-          "Type": "Box - Front",
+          "CRC32": "3983907411",
+          "FileName": "9326269e-ba6d-4fe9-80a1-dd15b56dc926.jpg",
           "Region": "World",
-          "CRC32": "1066767114",
-          "URL": "http://images.launchbox-app.com/22144540-b731-441d-9fb2-eada19617211.png"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/9326269e-ba6d-4fe9-80a1-dd15b56dc926.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "301030836",
+        "FileName": "b3028845-c122-4307-af6b-a44994dd391a.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/b3028845-c122-4307-af6b-a44994dd391a.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "1878077419",
         "FileName": "93e8fabd-1752-4306-958d-bea339cf1d1e.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "1878077419",
         "URL": "http://images.launchbox-app.com/93e8fabd-1752-4306-958d-bea339cf1d1e.jpg"
       },
       {
+        "CRC32": "3766908191",
         "FileName": "fbcf1865-9348-4547-a348-c49a613c7305.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "3766908191",
         "URL": "http://images.launchbox-app.com/fbcf1865-9348-4547-a348-c49a613c7305.jpg"
       },
       {
+        "CRC32": "95009797",
         "FileName": "8e04da63-16dc-4668-b660-54df224d2a4d.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "95009797",
         "URL": "http://images.launchbox-app.com/8e04da63-16dc-4668-b660-54df224d2a4d.jpg"
       },
       {
+        "CRC32": "3636043128",
         "FileName": "06d38952-8aa1-4f17-8e2e-301e7d8377f8.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3636043128",
         "URL": "http://images.launchbox-app.com/06d38952-8aa1-4f17-8e2e-301e7d8377f8.jpg"
       },
       {
+        "CRC32": "3910803889",
         "FileName": "ad34b85d-2cd2-43ee-a4d0-c173f4b548b1.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3910803889",
         "URL": "http://images.launchbox-app.com/ad34b85d-2cd2-43ee-a4d0-c173f4b548b1.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "b3028845-c122-4307-af6b-a44994dd391a.png",
-        "Type": "Clear Logo",
-        "CRC32": "301030836",
-        "URL": "http://images.launchbox-app.com/b3028845-c122-4307-af6b-a44994dd391a.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.625",
+  "DatabaseID": "168559",
+  "Developer": "ImaginEngine",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action",
+  "Name": "Haunted House",
+  "Overview": "Atari's classic groundbreaking game is back with more chills, cool new unlockables and plenty of scary new enemies! Over thirty years have passed since your grandfather, Samuel Silverspring, disappeared without a trace. When a mysterious letter arrives claiming to have insight on your grandfatherâ™s whereabouts, you are led back to the place he was last seen, Graves Mansion. As you dare to embark on this spooky adventure to uncover the truth about your grandfather, you are forced to face your fears in the dark depths of the Haunted House?",
+  "Publisher": "Atari",
+  "ReleaseDate": "2010-10-28T00:00:00+00:00"
 }

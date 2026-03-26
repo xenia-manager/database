@@ -1,132 +1,132 @@
 {
-  "Name": "Binary Domain",
-  "DatabaseID": "10611",
-  "ReleaseDate": "2012-02-28T00:00:00+00:00",
-  "Overview": "Binary Domain is an original squad-based shooter by Toshihiro Nagoshi, the creator behind some of Sega's most well-known video game franchises, including the critically acclaimed Yakuza series. Campaign play in Binary Domain features a trust based system in which the maintenance of relationships developed with AI squadmates are crucial if they are to follow orders. The game also features full destructible robot enemies, a wide range of weapons and a robust range of online multiplayer options. \n\nBinary Domain puts players in the middle of a fast paced and intense battle for humanity against androids called the \"Hallow Children\" in 2080 Tokyo. Fighting through the derelict lower levels of the city, players control an international peacekeeping squad that soon starts to question their surroundings and the choices they make, especially as they realize that the androids appear to think that they are human and they witness the dramatic divisions within society. In the face of this struggle the question becomes, are these these robots becoming more human, or are humans becoming more like machines? \n\nPlayers assume the role of Dan Marshall, the leader of a multinational squad of commandos known as the \"Rust Crew.\" The different characters of the squad each have different skills and personalities which must be exploited. Players are always Dan, but also command all other squad members, communicating with them either through a headset or via their controller. As players progress through the game they build dynamic relationships with AI squadmates based on the overarching cause and effect component of the game known as the Consequence system. Within the Consequence system, the player's actions determine the amount of trust each squadmate has in Dan. The Consequence system also affects the way that the campaign of the story plays out, with the use of different characters in different situations influencing events and outcomes.",
-  "VideoURL": "https://www.youtube.com/watch?v=Qp1SGtosGI0",
-  "CommunityRating": "3.66666666666667",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Binary_Domain",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Ryu ga Gotoku Studio",
-  "Publisher": "SEGA Europe",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "83f76e84-7b50-49de-867c-e66e7c703b59.png",
-        "Type": "Banner",
-        "CRC32": "992496802",
-        "URL": "http://images.launchbox-app.com/83f76e84-7b50-49de-867c-e66e7c703b59.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "6a90da6e-dc82-4f4d-9d40-3d4efbc6285d.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2363637733",
-        "URL": "http://images.launchbox-app.com/6a90da6e-dc82-4f4d-9d40-3d4efbc6285d.jpg"
-      },
-      {
+        "CRC32": "310224309",
         "FileName": "35c1c20c-f180-472a-8a14-2e295937ded0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "310224309",
         "URL": "http://images.launchbox-app.com/35c1c20c-f180-472a-8a14-2e295937ded0.jpg"
       },
       {
-        "FileName": "cae9a5d5-ec81-41e8-89de-449255f9640e.jpg",
+        "CRC32": "2363637733",
+        "FileName": "6a90da6e-dc82-4f4d-9d40-3d4efbc6285d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1489700492",
-        "URL": "http://images.launchbox-app.com/cae9a5d5-ec81-41e8-89de-449255f9640e.jpg"
+        "URL": "http://images.launchbox-app.com/6a90da6e-dc82-4f4d-9d40-3d4efbc6285d.jpg"
       },
       {
+        "CRC32": "3416618882",
         "FileName": "b84a8fe0-d70e-49c7-9f2d-757131159239.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3416618882",
         "URL": "http://images.launchbox-app.com/b84a8fe0-d70e-49c7-9f2d-757131159239.jpg"
+      },
+      {
+        "CRC32": "1489700492",
+        "FileName": "cae9a5d5-ec81-41e8-89de-449255f9640e.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/cae9a5d5-ec81-41e8-89de-449255f9640e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "992496802",
+        "FileName": "83f76e84-7b50-49de-867c-e66e7c703b59.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/83f76e84-7b50-49de-867c-e66e7c703b59.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_971faeed-f072-4212-b23c-aeb3422f1260.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3099439475",
+          "FileName": "r2_971faeed-f072-4212-b23c-aeb3422f1260.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_971faeed-f072-4212-b23c-aeb3422f1260.png"
         },
         {
-          "FileName": "a7378294-1b3c-4618-a89f-ff7ea1a143e9.png",
-          "Type": "Box - 3D",
-          "Region": "United Kingdom",
           "CRC32": "3672690256",
+          "FileName": "a7378294-1b3c-4618-a89f-ff7ea1a143e9.png",
+          "Region": "United Kingdom",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/a7378294-1b3c-4618-a89f-ff7ea1a143e9.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_20a77bc0-20e6-46d1-b02e-546cf75dd574.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3558976069",
+          "FileName": "r2_20a77bc0-20e6-46d1-b02e-546cf75dd574.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_20a77bc0-20e6-46d1-b02e-546cf75dd574.jpg"
         },
         {
-          "FileName": "daae1ac5-9dc2-4feb-9c46-50c3c78e8a70.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2182245260",
+          "FileName": "daae1ac5-9dc2-4feb-9c46-50c3c78e8a70.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/daae1ac5-9dc2-4feb-9c46-50c3c78e8a70.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_bd4b3be6-4b2b-4791-bb76-5d0f8fc74945.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1044144469",
+          "FileName": "r2_bd4b3be6-4b2b-4791-bb76-5d0f8fc74945.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_bd4b3be6-4b2b-4791-bb76-5d0f8fc74945.jpg"
         },
         {
-          "FileName": "0ff9701e-6b34-4b29-b382-1468048b08fb.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2573266614",
+          "FileName": "0ff9701e-6b34-4b29-b382-1468048b08fb.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0ff9701e-6b34-4b29-b382-1468048b08fb.jpg"
         },
         {
-          "FileName": "47c07410-f489-4e27-a11d-9188e0133dd8.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "2506676205",
+          "FileName": "47c07410-f489-4e27-a11d-9188e0133dd8.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/47c07410-f489-4e27-a11d-9188e0133dd8.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "51aea94f-d91e-4fb0-ae4f-6bd331a7e1f9.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1517117168",
+          "FileName": "51aea94f-d91e-4fb0-ae4f-6bd331a7e1f9.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/51aea94f-d91e-4fb0-ae4f-6bd331a7e1f9.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "bc625887-2454-48a8-b7ee-380b0e827378.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "101843156",
+        "FileName": "bc625887-2454-48a8-b7ee-380b0e827378.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/bc625887-2454-48a8-b7ee-380b0e827378.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1858644561",
         "FileName": "ce9a20e9-718b-474e-985a-5abdeaae94b4.png",
         "Type": "Clear Logo",
-        "CRC32": "1858644561",
         "URL": "http://images.launchbox-app.com/ce9a20e9-718b-474e-985a-5abdeaae94b4.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.66666666666667",
+  "DatabaseID": "10611",
+  "Developer": "Ryu ga Gotoku Studio",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Binary Domain",
+  "Overview": "Binary Domain is an original squad-based shooter by Toshihiro Nagoshi, the creator behind some of Sega's most well-known video game franchises, including the critically acclaimed Yakuza series. Campaign play in Binary Domain features a trust based system in which the maintenance of relationships developed with AI squadmates are crucial if they are to follow orders. The game also features full destructible robot enemies, a wide range of weapons and a robust range of online multiplayer options. \n\nBinary Domain puts players in the middle of a fast paced and intense battle for humanity against androids called the \"Hallow Children\" in 2080 Tokyo. Fighting through the derelict lower levels of the city, players control an international peacekeeping squad that soon starts to question their surroundings and the choices they make, especially as they realize that the androids appear to think that they are human and they witness the dramatic divisions within society. In the face of this struggle the question becomes, are these these robots becoming more human, or are humans becoming more like machines? \n\nPlayers assume the role of Dan Marshall, the leader of a multinational squad of commandos known as the \"Rust Crew.\" The different characters of the squad each have different skills and personalities which must be exploited. Players are always Dan, but also command all other squad members, communicating with them either through a headset or via their controller. As players progress through the game they build dynamic relationships with AI squadmates based on the overarching cause and effect component of the game known as the Consequence system. Within the Consequence system, the player's actions determine the amount of trust each squadmate has in Dan. The Consequence system also affects the way that the campaign of the story plays out, with the use of different characters in different situations influencing events and outcomes.",
+  "Publisher": "SEGA Europe",
+  "ReleaseDate": "2012-02-28T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=Qp1SGtosGI0",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Binary_Domain"
 }

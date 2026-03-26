@@ -1,83 +1,83 @@
 {
-  "Name": "A.R.E.S. Extinction Agenda EX",
-  "DatabaseID": "26064",
-  "ReleaseDate": "2013-10-02T00:00:00+00:00",
-  "Overview": "A.R.E.S. Extinction Agenda EX is the upgraded version of A.R.E.S. Extinction Agenda, the award-winning 2.5D action-packed side-scrolling platform game that originally released in 2011. \n\nThe game takes players on a thrilling sci-fi adventure! Take control of combat specialist Ares, or the new playable character, Tarus, to battle deadly machines with a variety of powerful weapons and armor. Your goal: Save Minos Space Station’s survivors and uncover the nefarious Zytron’s extinction agenda!",
-  "VideoURL": "https://www.youtube.com/watch?v=ls21OWlBCXA",
-  "CommunityRating": "3.95454545454545",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/A.R.E.S.:_Extinction_Agenda",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Platform",
-  "Developer": "Extend Studio",
-  "Publisher": "ORiGO GAMES",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "4773da96-ac69-4a53-9a33-73be727046d1.png",
-        "Type": "Banner",
-        "CRC32": "3772080713",
-        "URL": "http://images.launchbox-app.com/4773da96-ac69-4a53-9a33-73be727046d1.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3530114109",
         "FileName": "e6a721e3-4b4c-404d-9945-335f187013a7.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3530114109",
         "URL": "http://images.launchbox-app.com/e6a721e3-4b4c-404d-9945-335f187013a7.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3772080713",
+        "FileName": "4773da96-ac69-4a53-9a33-73be727046d1.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/4773da96-ac69-4a53-9a33-73be727046d1.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c09199e5-52ce-476a-b170-9655fd1da61d.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2495871060",
+          "FileName": "c09199e5-52ce-476a-b170-9655fd1da61d.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c09199e5-52ce-476a-b170-9655fd1da61d.jpg"
         },
         {
+          "CRC32": "1942900113",
           "FileName": "a49ef19d-ddd9-4d62-a463-61e021fc5746.jpg",
           "Type": "Fanart - Box - Front",
-          "CRC32": "1942900113",
           "URL": "http://images.launchbox-app.com/a49ef19d-ddd9-4d62-a463-61e021fc5746.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "3611877193",
+        "FileName": "1b0d1872-af9d-4ee1-97f2-c77e8e847185.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/1b0d1872-af9d-4ee1-97f2-c77e8e847185.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "539156146",
         "FileName": "5c8d1402-51f2-4e00-96d9-cca86c0298c8.png",
         "Type": "Screenshot - Game Title",
-        "CRC32": "539156146",
         "URL": "http://images.launchbox-app.com/5c8d1402-51f2-4e00-96d9-cca86c0298c8.png"
       },
       {
-        "FileName": "9d012606-64a4-4d62-a6f2-2a0f14c45733.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "508192780",
-        "URL": "http://images.launchbox-app.com/9d012606-64a4-4d62-a6f2-2a0f14c45733.jpg"
-      },
-      {
+        "CRC32": "3267887998",
         "FileName": "679dbb48-3885-4739-acf2-01f0a623a389.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3267887998",
         "URL": "http://images.launchbox-app.com/679dbb48-3885-4739-acf2-01f0a623a389.jpg"
       },
       {
+        "CRC32": "508192780",
+        "FileName": "9d012606-64a4-4d62-a6f2-2a0f14c45733.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/9d012606-64a4-4d62-a6f2-2a0f14c45733.jpg"
+      },
+      {
+        "CRC32": "4114496539",
         "FileName": "cbaac82f-6b24-4e79-a317-2aa444c6a03d.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "4114496539",
         "URL": "http://images.launchbox-app.com/cbaac82f-6b24-4e79-a317-2aa444c6a03d.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "1b0d1872-af9d-4ee1-97f2-c77e8e847185.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "3611877193",
-        "URL": "http://images.launchbox-app.com/1b0d1872-af9d-4ee1-97f2-c77e8e847185.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.95454545454545",
+  "DatabaseID": "26064",
+  "Developer": "Extend Studio",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Platform",
+  "Name": "A.R.E.S. Extinction Agenda EX",
+  "Overview": "A.R.E.S. Extinction Agenda EX is the upgraded version of A.R.E.S. Extinction Agenda, the award-winning 2.5D action-packed side-scrolling platform game that originally released in 2011. \n\nThe game takes players on a thrilling sci-fi adventure! Take control of combat specialist Ares, or the new playable character, Tarus, to battle deadly machines with a variety of powerful weapons and armor. Your goal: Save Minos Space Station’s survivors and uncover the nefarious Zytron’s extinction agenda!",
+  "Publisher": "ORiGO GAMES",
+  "ReleaseDate": "2013-10-02T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=ls21OWlBCXA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/A.R.E.S.:_Extinction_Agenda"
 }

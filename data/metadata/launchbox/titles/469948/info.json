@@ -1,22 +1,22 @@
 {
-  "Name": "HackTris",
-  "DatabaseID": "469948",
-  "ReleaseDate": "2012-09-11T00:00:00+00:00",
-  "Overview": "The goal is hack the system, changing numbers positions and doing triple! Decrease the target number before timer fall to zero.\n\nLet's see how far you can go!",
-  "Genres": "Puzzle",
-  "Developer": "hhaunted",
-  "Publisher": "hhaunted",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "306cd5da-de33-42d0-8438-b371fbd66d2d.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "180638694",
+          "FileName": "306cd5da-de33-42d0-8438-b371fbd66d2d.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/306cd5da-de33-42d0-8438-b371fbd66d2d.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469948",
+  "Developer": "hhaunted",
+  "Genres": "Puzzle",
+  "Name": "HackTris",
+  "Overview": "The goal is hack the system, changing numbers positions and doing triple! Decrease the target number before timer fall to zero.\n\nLet's see how far you can go!",
+  "Publisher": "hhaunted",
+  "ReleaseDate": "2012-09-11T00:00:00+00:00"
 }

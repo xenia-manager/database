@@ -1,22 +1,22 @@
 {
-  "Name": "Happyface",
-  "DatabaseID": "469944",
-  "ReleaseDate": "2009-01-03T00:00:00+00:00",
-  "Overview": "Get five happyfaces in a row to clear them from the board and score points.",
-  "Genres": "Puzzle",
-  "Developer": "DSRush",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "bd5ac9eb-6547-4b71-9964-15a919b57ff6.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "550828605",
+          "FileName": "bd5ac9eb-6547-4b71-9964-15a919b57ff6.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/bd5ac9eb-6547-4b71-9964-15a919b57ff6.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469944",
+  "Developer": "DSRush",
+  "Genres": "Puzzle",
+  "Name": "Happyface",
+  "Overview": "Get five happyfaces in a row to clear them from the board and score points.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2009-01-03T00:00:00+00:00"
 }

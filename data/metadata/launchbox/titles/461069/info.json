@@ -1,58 +1,58 @@
 {
-  "Name": "X Edge Dash",
-  "DatabaseID": "461069",
-  "ReleaseDate": "2009-05-26T00:00:00+00:00",
-  "Overview": "Cross Edge (クロスエッジ Kurosu Ejji?, abbreviated as XEdge or X-Edge), is a role-playing video game for the PlayStation 3 and Xbox 360. The game was developed in collaboration by Capcom, Nippon Ichi, Namco Bandai, Gust, and Idea Factory. Released on September 25, 2008 in Japan, the game features turn-based battles, a plot that involves rescuing souls, and the ability to dress the female characters of the player's party in a wide variety of outfits. The game features characters from Darkstalkers, Disgaea, Ar tonelico: Melody of Elemia, Spectral Souls: Resurrection of the Ethereal Empires, Atelier Marie and Mana Khemia 2: Fall of Alchemy. NIS America published the game in North America, and it was released for that region on May 26, 2009. An Xbox 360 version titled \"Cross Edge Dash\" was released in Japan on October 1, 2009.",
-  "Genres": "Role-Playing",
-  "Developer": "Compile Heart",
-  "Publisher": "NIS America",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7ec4d3d5-85fe-4b42-b930-e6af86e284eb.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "1663630027",
-        "URL": "http://images.launchbox-app.com/r2_7ec4d3d5-85fe-4b42-b930-e6af86e284eb.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_6b103d26-3e58-400f-82c8-47d66bd6fbba.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1623163119",
+        "FileName": "r2_6b103d26-3e58-400f-82c8-47d66bd6fbba.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_6b103d26-3e58-400f-82c8-47d66bd6fbba.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1663630027",
+        "FileName": "r2_7ec4d3d5-85fe-4b42-b930-e6af86e284eb.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7ec4d3d5-85fe-4b42-b930-e6af86e284eb.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "fae98058-973a-4c3c-80b1-c4c5a942d3bc.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "592770856",
+          "FileName": "fae98058-973a-4c3c-80b1-c4c5a942d3bc.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/fae98058-973a-4c3c-80b1-c4c5a942d3bc.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "7110d2b4-4a09-4914-8138-8ace9d28cfe1.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "1104707252",
+          "FileName": "7110d2b4-4a09-4914-8138-8ace9d28cfe1.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7110d2b4-4a09-4914-8138-8ace9d28cfe1.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_7f9d5218-f2ac-4200-a2d9-39387fc8c28b.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "349527348",
+        "FileName": "r2_7f9d5218-f2ac-4200-a2d9-39387fc8c28b.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_7f9d5218-f2ac-4200-a2d9-39387fc8c28b.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "461069",
+  "Developer": "Compile Heart",
+  "Genres": "Role-Playing",
+  "Name": "X Edge Dash",
+  "Overview": "Cross Edge (クロスエッジ Kurosu Ejji?, abbreviated as XEdge or X-Edge), is a role-playing video game for the PlayStation 3 and Xbox 360. The game was developed in collaboration by Capcom, Nippon Ichi, Namco Bandai, Gust, and Idea Factory. Released on September 25, 2008 in Japan, the game features turn-based battles, a plot that involves rescuing souls, and the ability to dress the female characters of the player's party in a wide variety of outfits. The game features characters from Darkstalkers, Disgaea, Ar tonelico: Melody of Elemia, Spectral Souls: Resurrection of the Ethereal Empires, Atelier Marie and Mana Khemia 2: Fall of Alchemy. NIS America published the game in North America, and it was released for that region on May 26, 2009. An Xbox 360 version titled \"Cross Edge Dash\" was released in Japan on October 1, 2009.",
+  "Publisher": "NIS America",
+  "ReleaseDate": "2009-05-26T00:00:00+00:00"
 }

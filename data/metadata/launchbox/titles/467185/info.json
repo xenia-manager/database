@@ -1,22 +1,22 @@
 {
-  "Name": " Arena of Fire",
-  "DatabaseID": "467185",
-  "ReleaseDate": "2012-04-30T00:00:00+00:00",
-  "Overview": "Arena of Fire is a particle simulator akin to the falling sand internet phenomenon games. Arena of Fire uses the Xbox's video card to perform all the particle logic, providing an extremely fast high-definition simulation. The elements included are dirt, concrete, water, oil, fire, plant, and gunpowder.",
-  "Genres": "Strategy",
-  "Developer": "BinaryFreeze",
-  "Publisher": "BinaryFreeze",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "7a1c4128-3782-4149-b5bd-21ae001835d1.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1215010926",
+          "FileName": "7a1c4128-3782-4149-b5bd-21ae001835d1.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7a1c4128-3782-4149-b5bd-21ae001835d1.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "467185",
+  "Developer": "BinaryFreeze",
+  "Genres": "Strategy",
+  "Name": " Arena of Fire",
+  "Overview": "Arena of Fire is a particle simulator akin to the falling sand internet phenomenon games. Arena of Fire uses the Xbox's video card to perform all the particle logic, providing an extremely fast high-definition simulation. The elements included are dirt, concrete, water, oil, fire, plant, and gunpowder.",
+  "Publisher": "BinaryFreeze",
+  "ReleaseDate": "2012-04-30T00:00:00+00:00"
 }

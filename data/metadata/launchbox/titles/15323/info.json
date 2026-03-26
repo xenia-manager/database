@@ -1,58 +1,58 @@
 {
-  "Name": "Bionic Commando: Rearmed",
-  "DatabaseID": "15323",
-  "ReleaseDate": "2008-08-13T00:00:00+00:00",
-  "Overview": "The classic 8-bit side-scroller reports back for duty in a stunning remake, complete with all-new HD graphics and features that puts 2D gaming back on the map!",
-  "CommunityRating": "4.03846153846154",
-  "WikipediaURL": "https://www.wikipedia.org/wiki/Bionic_Commando_Rearmed",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "GRIN",
-  "Publisher": "Capcom",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_f59f56b7-62ac-49f4-909a-b0ad0f0cfea1.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "4227038983",
-        "URL": "http://images.launchbox-app.com/r2_f59f56b7-62ac-49f4-909a-b0ad0f0cfea1.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2143728788",
         "FileName": "9338e4d6-65bd-4015-b31b-7bf35ad77354.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2143728788",
         "URL": "http://images.launchbox-app.com/9338e4d6-65bd-4015-b31b-7bf35ad77354.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4227038983",
+        "FileName": "r2_f59f56b7-62ac-49f4-909a-b0ad0f0cfea1.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_f59f56b7-62ac-49f4-909a-b0ad0f0cfea1.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c82a5695-9461-411b-8b4d-39f344d43d3e.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2973493985",
+          "FileName": "c82a5695-9461-411b-8b4d-39f344d43d3e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c82a5695-9461-411b-8b4d-39f344d43d3e.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "5dcb8f8d-1ea0-41c6-b346-6ad9074ea4ae.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "569901278",
-        "URL": "http://images.launchbox-app.com/5dcb8f8d-1ea0-41c6-b346-6ad9074ea4ae.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "178991564",
         "FileName": "c8c8bcad-7a1e-4d73-87b0-d58ead33fdec.png",
         "Type": "Clear Logo",
-        "CRC32": "178991564",
         "URL": "http://images.launchbox-app.com/c8c8bcad-7a1e-4d73-87b0-d58ead33fdec.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "569901278",
+        "FileName": "5dcb8f8d-1ea0-41c6-b346-6ad9074ea4ae.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/5dcb8f8d-1ea0-41c6-b346-6ad9074ea4ae.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.03846153846154",
+  "DatabaseID": "15323",
+  "Developer": "GRIN",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Bionic Commando: Rearmed",
+  "Overview": "The classic 8-bit side-scroller reports back for duty in a stunning remake, complete with all-new HD graphics and features that puts 2D gaming back on the map!",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2008-08-13T00:00:00+00:00",
+  "WikipediaURL": "https://www.wikipedia.org/wiki/Bionic_Commando_Rearmed"
 }

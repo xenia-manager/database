@@ -1,92 +1,92 @@
 {
-  "Name": "El Chavo Kart",
-  "DatabaseID": "173296",
-  "ReleaseDate": "2014-02-21T00:00:00+00:00",
-  "Overview": "El Chavo Kart is a kart racing game based on the Latin American TV show 'El Chavo del 8'. The game includes the original voices from the animated series, both in Spanish and Portuguese. The game features 12 characters, 8 Cups, 10 racing tracks, and 7 game modes. The soundtrack contains 11 originally composed songs by the popular Mexican rock band La Gusana Ciega.\n\nIn the main Cups mode the player races to unlock new characters, while in the Challenges mode new scenarios and tracks can be unlocked. Tracks have forking paths, traps, obstacles, gaps, jumps, nitro arrows and short flying sections. It is also possible to pick up power-ups along the way. Through local multiplayer up to four players can race against each other. The game features a drifting style similar to Mario Kart games.",
-  "CommunityRating": "4.16666666666667",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Racing",
-  "Developer": "Efecto Studios",
-  "Publisher": "Slang",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_e1e47395-6b54-4d0a-b8a5-43e58a8481c8.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1793049678",
-        "URL": "http://images.launchbox-app.com/r2_e1e47395-6b54-4d0a-b8a5-43e58a8481c8.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_e37c73a0-3c29-4095-a862-d154cddd010b.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2597355638",
+        "FileName": "r2_e37c73a0-3c29-4095-a862-d154cddd010b.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_e37c73a0-3c29-4095-a862-d154cddd010b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1793049678",
+        "FileName": "r2_e1e47395-6b54-4d0a-b8a5-43e58a8481c8.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_e1e47395-6b54-4d0a-b8a5-43e58a8481c8.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "d84b02e9-32ba-4349-bc2a-b3f6fddd96b0.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2835143690",
+          "FileName": "d84b02e9-32ba-4349-bc2a-b3f6fddd96b0.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/d84b02e9-32ba-4349-bc2a-b3f6fddd96b0.png"
         }
       ],
       "Back": [
         {
-          "FileName": "9adc45c5-19dc-4ffa-8640-628c7ea564c3.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "373015231",
+          "FileName": "9adc45c5-19dc-4ffa-8640-628c7ea564c3.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/9adc45c5-19dc-4ffa-8640-628c7ea564c3.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "4b367a6d-be48-45d1-a5f6-caac96ba0c91.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1846351220",
+          "FileName": "4b367a6d-be48-45d1-a5f6-caac96ba0c91.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4b367a6d-be48-45d1-a5f6-caac96ba0c91.jpg"
         },
         {
-          "FileName": "c4883645-e303-4dab-8ece-09f43e44cf96.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "993365259",
+          "FileName": "c4883645-e303-4dab-8ece-09f43e44cf96.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/c4883645-e303-4dab-8ece-09f43e44cf96.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_27b96a67-3826-4426-8232-914a76c801c1.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "782183109",
+        "FileName": "r2_27b96a67-3826-4426-8232-914a76c801c1.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_27b96a67-3826-4426-8232-914a76c801c1.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "2c746401-bc0e-4d88-97b3-352eb283b73d.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3060439284",
-        "URL": "http://images.launchbox-app.com/2c746401-bc0e-4d88-97b3-352eb283b73d.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3349347006",
         "FileName": "e9ee4c34-019b-41cc-8d51-9f6a8eafc954.png",
         "Type": "Clear Logo",
-        "CRC32": "3349347006",
         "URL": "http://images.launchbox-app.com/e9ee4c34-019b-41cc-8d51-9f6a8eafc954.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3060439284",
+        "FileName": "2c746401-bc0e-4d88-97b3-352eb283b73d.png",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/2c746401-bc0e-4d88-97b3-352eb283b73d.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.16666666666667",
+  "DatabaseID": "173296",
+  "Developer": "Efecto Studios",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Racing",
+  "Name": "El Chavo Kart",
+  "Overview": "El Chavo Kart is a kart racing game based on the Latin American TV show 'El Chavo del 8'. The game includes the original voices from the animated series, both in Spanish and Portuguese. The game features 12 characters, 8 Cups, 10 racing tracks, and 7 game modes. The soundtrack contains 11 originally composed songs by the popular Mexican rock band La Gusana Ciega.\n\nIn the main Cups mode the player races to unlock new characters, while in the Challenges mode new scenarios and tracks can be unlocked. Tracks have forking paths, traps, obstacles, gaps, jumps, nitro arrows and short flying sections. It is also possible to pick up power-ups along the way. Through local multiplayer up to four players can race against each other. The game features a drifting style similar to Mario Kart games.",
+  "Publisher": "Slang",
+  "ReleaseDate": "2014-02-21T00:00:00+00:00"
 }

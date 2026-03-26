@@ -1,53 +1,53 @@
 {
-  "Name": "bricks4ever",
-  "DatabaseID": "468259",
-  "ReleaseDate": "2009-02-17T00:00:00+00:00",
-  "Overview": "bricks4ever is a Breakout variant. The classic game mode is the closest to the usual mechanics: The player controls a paddle which is confined to the bottom of the screen and can move left or right. it is used to bounce a ball towards the blocks positioned all over the playing area. The goal is to destroy all blocks by hitting them with the ball - but failing to reach it with the paddle and letting it fall down the screen causes the loss of a life. Sometimes destroyed blocks leave behind power-ups which can be collected for beneficial temporary effects, e.g. the ball is glued to the paddle instead of bouncing off directly or the paddle becomes bigger. There are overall 50 levels and three additional playing modes: Zen (blocks move automatically downwards and the goal is to destroy as many of them as possible before the end is reached), 4ever (an endless mode) and bipolar (the player controls two paddles simultaneously with the two analogue sticks).",
-  "VideoURL": "https://youtu.be/HYiTQFs6S2Q",
-  "Genres": "Action",
-  "Developer": "Running Pixel",
-  "Publisher": "Running Pixel",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "af6308fa-53fa-499d-bcd2-30c8ea8f5582.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3660366014",
+          "FileName": "af6308fa-53fa-499d-bcd2-30c8ea8f5582.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/af6308fa-53fa-499d-bcd2-30c8ea8f5582.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "9937cee2-8398-478c-b3ad-9628433a0d5a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "1383698772",
-        "URL": "http://images.launchbox-app.com/9937cee2-8398-478c-b3ad-9628433a0d5a.jpg"
-      },
-      {
-        "FileName": "c6898389-de1a-4ec5-8271-4551208111f2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "2725956918",
-        "URL": "http://images.launchbox-app.com/c6898389-de1a-4ec5-8271-4551208111f2.jpg"
-      },
-      {
-        "FileName": "1d70e050-2f87-4242-954f-0a61aa6dcfd2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3772878453",
+        "FileName": "1d70e050-2f87-4242-954f-0a61aa6dcfd2.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/1d70e050-2f87-4242-954f-0a61aa6dcfd2.jpg"
       },
       {
-        "FileName": "ad579d52-c9ec-43af-b13a-044da3b074c4.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1383698772",
+        "FileName": "9937cee2-8398-478c-b3ad-9628433a0d5a.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/9937cee2-8398-478c-b3ad-9628433a0d5a.jpg"
+      },
+      {
         "CRC32": "3241370369",
+        "FileName": "ad579d52-c9ec-43af-b13a-044da3b074c4.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/ad579d52-c9ec-43af-b13a-044da3b074c4.jpg"
+      },
+      {
+        "CRC32": "2725956918",
+        "FileName": "c6898389-de1a-4ec5-8271-4551208111f2.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c6898389-de1a-4ec5-8271-4551208111f2.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468259",
+  "Developer": "Running Pixel",
+  "Genres": "Action",
+  "Name": "bricks4ever",
+  "Overview": "bricks4ever is a Breakout variant. The classic game mode is the closest to the usual mechanics: The player controls a paddle which is confined to the bottom of the screen and can move left or right. it is used to bounce a ball towards the blocks positioned all over the playing area. The goal is to destroy all blocks by hitting them with the ball - but failing to reach it with the paddle and letting it fall down the screen causes the loss of a life. Sometimes destroyed blocks leave behind power-ups which can be collected for beneficial temporary effects, e.g. the ball is glued to the paddle instead of bouncing off directly or the paddle becomes bigger. There are overall 50 levels and three additional playing modes: Zen (blocks move automatically downwards and the goal is to destroy as many of them as possible before the end is reached), 4ever (an endless mode) and bipolar (the player controls two paddles simultaneously with the two analogue sticks).",
+  "Publisher": "Running Pixel",
+  "ReleaseDate": "2009-02-17T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/HYiTQFs6S2Q"
 }

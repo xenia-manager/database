@@ -1,75 +1,75 @@
 {
-  "Name": "Battle Academy",
-  "DatabaseID": "209147",
-  "ReleaseDate": "2014-12-12T00:00:00+00:00",
-  "Overview": "The only true World War II turn-based strategy game playable on a console.  Battle Academy is a real classic. Approachable, absorbing and with a unique visual approach, it’s a game that pulls you in with its intuitive design and its compelling gameplay. Firepower is only one of the key elements that will allow you to succeed: keeping the morale of your men high, planning on cunning tactics and a fine balance in the use of infantry and armoured units are also vital to win. You will select and take the lead of a number of units across a huge variety of campaigns and nearly 100 scenarios! The countless number of missions ranges from the invasion of France all the way to the what-if Sealion campaign where the German troops try the invasion of England.",
-  "CommunityRating": "5",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Strategy",
-  "Developer": "Slitherine",
-  "Publisher": "Slitherine",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "1712cb9b-1649-4de9-883c-89647d968351.png",
-        "Type": "Banner",
-        "CRC32": "3140909802",
-        "URL": "http://images.launchbox-app.com/1712cb9b-1649-4de9-883c-89647d968351.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3889904301",
         "FileName": "f5d4868d-7e2c-4b8a-8266-dc97864e33b0.png",
         "Type": "Fanart - Background",
-        "CRC32": "3889904301",
         "URL": "http://images.launchbox-app.com/f5d4868d-7e2c-4b8a-8266-dc97864e33b0.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3140909802",
+        "FileName": "1712cb9b-1649-4de9-883c-89647d968351.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/1712cb9b-1649-4de9-883c-89647d968351.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "5817da37-76ce-4192-8fe7-65c8ec9456b6.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1868595469",
+          "FileName": "5817da37-76ce-4192-8fe7-65c8ec9456b6.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5817da37-76ce-4192-8fe7-65c8ec9456b6.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "4011305765",
+        "FileName": "r2_8af293a5-c02f-48fd-b941-33225c34a9a4.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_8af293a5-c02f-48fd-b941-33225c34a9a4.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "3556125284",
         "FileName": "26c93816-4565-49cb-9efe-dcf72cb85a8f.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3556125284",
         "URL": "http://images.launchbox-app.com/26c93816-4565-49cb-9efe-dcf72cb85a8f.jpg"
       },
       {
-        "FileName": "c37446d1-cb8a-4419-b442-37504ea217ce.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "209301907",
-        "URL": "http://images.launchbox-app.com/c37446d1-cb8a-4419-b442-37504ea217ce.jpg"
-      },
-      {
+        "CRC32": "3588807492",
         "FileName": "420da0b0-faa7-41f9-bfc5-c580f86a0b3d.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3588807492",
         "URL": "http://images.launchbox-app.com/420da0b0-faa7-41f9-bfc5-c580f86a0b3d.jpg"
       },
       {
+        "CRC32": "4178733016",
         "FileName": "9683fad7-931e-4a72-bc52-35efa93ab5af.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "4178733016",
         "URL": "http://images.launchbox-app.com/9683fad7-931e-4a72-bc52-35efa93ab5af.jpg"
-      }
-    ],
-    "Other": [
+      },
       {
-        "FileName": "r2_8af293a5-c02f-48fd-b941-33225c34a9a4.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "4011305765",
-        "URL": "http://images.launchbox-app.com/r2_8af293a5-c02f-48fd-b941-33225c34a9a4.png"
+        "CRC32": "209301907",
+        "FileName": "c37446d1-cb8a-4419-b442-37504ea217ce.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c37446d1-cb8a-4419-b442-37504ea217ce.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "5",
+  "DatabaseID": "209147",
+  "Developer": "Slitherine",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Strategy",
+  "Name": "Battle Academy",
+  "Overview": "The only true World War II turn-based strategy game playable on a console.  Battle Academy is a real classic. Approachable, absorbing and with a unique visual approach, it’s a game that pulls you in with its intuitive design and its compelling gameplay. Firepower is only one of the key elements that will allow you to succeed: keeping the morale of your men high, planning on cunning tactics and a fine balance in the use of infantry and armoured units are also vital to win. You will select and take the lead of a number of units across a huge variety of campaigns and nearly 100 scenarios! The countless number of missions ranges from the invasion of France all the way to the what-if Sealion campaign where the German troops try the invasion of England.",
+  "Publisher": "Slitherine",
+  "ReleaseDate": "2014-12-12T00:00:00+00:00"
 }

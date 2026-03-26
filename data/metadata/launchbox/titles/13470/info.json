@@ -1,103 +1,103 @@
 {
-  "Name": "Cars 2",
-  "DatabaseID": "13470",
-  "ReleaseDate": "2011-06-21T00:00:00+00:00",
-  "Overview": "Cars 2 is a third person racing game where players have a choice of 25 different characters, and will train to become a world-class spy. As part of training, players participate in missions using high-tech gadgets, for example, to avoid enemies or slow them down.\nThe game has three types of trophies: bronze, silver and gold. Points are awarded at different values depending on what type of vehicle class players are using. The game characters are divided into three weight classes: heavy, medium and light. Players can unlock new cars, tracks and missions be collecting emblems. And, drop-in/drop-out multiplayer modes support up to four players simultaneously.\nThe game has a connection with The World of Cars Online. It is a browser game based on the cartoon universe. Players will be able to discover a new world outside of Radiator Springs, along with the master, Fillmore, Sergeant, and other characters. For compensation received during the game, opening up new facilities in \"World of Online wheelbarrows.\"",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Cars_2_(video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Racing",
-  "Developer": "Avalanche Software",
-  "Publisher": "Disney Interactive Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "79242aac-8c89-45dd-a0ef-d1b0482b9195.png",
-        "Type": "Banner",
-        "CRC32": "2068910129",
-        "URL": "http://images.launchbox-app.com/79242aac-8c89-45dd-a0ef-d1b0482b9195.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "34989295",
         "FileName": "b1565343-0c16-4191-81b8-9f01f28463a9.png",
         "Type": "Fanart - Background",
-        "CRC32": "34989295",
         "URL": "http://images.launchbox-app.com/b1565343-0c16-4191-81b8-9f01f28463a9.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2068910129",
+        "FileName": "79242aac-8c89-45dd-a0ef-d1b0482b9195.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/79242aac-8c89-45dd-a0ef-d1b0482b9195.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "833978577",
           "FileName": "f5c6379d-095a-4a9e-833b-8650974f4fa2.png",
           "Type": "Box - 3D",
-          "CRC32": "833978577",
           "URL": "http://images.launchbox-app.com/f5c6379d-095a-4a9e-833b-8650974f4fa2.png"
         },
         {
-          "FileName": "r2_c6404717-4f21-4320-b288-9f4da57c0d8c.png",
-          "Type": "Box - 3D",
+          "CRC32": "345794903",
+          "FileName": "r2_249a78d7-364b-4e0c-9d4e-b62fc183e635.png",
           "Region": "Russia",
-          "CRC32": "4001410239",
-          "URL": "http://images.launchbox-app.com/r2_c6404717-4f21-4320-b288-9f4da57c0d8c.png"
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_249a78d7-364b-4e0c-9d4e-b62fc183e635.png"
         },
         {
-          "FileName": "r2_249a78d7-364b-4e0c-9d4e-b62fc183e635.png",
-          "Type": "Box - 3D",
+          "CRC32": "4001410239",
+          "FileName": "r2_c6404717-4f21-4320-b288-9f4da57c0d8c.png",
           "Region": "Russia",
-          "CRC32": "345794903",
-          "URL": "http://images.launchbox-app.com/r2_249a78d7-364b-4e0c-9d4e-b62fc183e635.png"
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_c6404717-4f21-4320-b288-9f4da57c0d8c.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_059b6915-f969-49c9-a481-4cf7b648b331.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2683412283",
+          "FileName": "r2_059b6915-f969-49c9-a481-4cf7b648b331.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_059b6915-f969-49c9-a481-4cf7b648b331.jpg"
         },
         {
-          "FileName": "r2_d8b57191-d12c-49b7-beec-887ff07c82b0.png",
-          "Type": "Box - Back",
-          "Region": "Russia",
           "CRC32": "3669139284",
+          "FileName": "r2_d8b57191-d12c-49b7-beec-887ff07c82b0.png",
+          "Region": "Russia",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_d8b57191-d12c-49b7-beec-887ff07c82b0.png"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_2257a4d9-fcc1-4966-8258-2ece95be1fb1.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "75719282",
+          "FileName": "r2_2257a4d9-fcc1-4966-8258-2ece95be1fb1.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_2257a4d9-fcc1-4966-8258-2ece95be1fb1.jpg"
         },
         {
-          "FileName": "cc42bc5d-0fe6-4cf3-a79b-933e7a8f0680.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "804230664",
+          "FileName": "cc42bc5d-0fe6-4cf3-a79b-933e7a8f0680.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/cc42bc5d-0fe6-4cf3-a79b-933e7a8f0680.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "5b794e63-d50a-45fd-8fed-223f1db8604a.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2572814815",
+        "FileName": "5b794e63-d50a-45fd-8fed-223f1db8604a.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/5b794e63-d50a-45fd-8fed-223f1db8604a.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "708846395",
         "FileName": "5766ddb5-5055-4b12-92cc-840478f4b133.png",
         "Type": "Clear Logo",
-        "CRC32": "708846395",
         "URL": "http://images.launchbox-app.com/5766ddb5-5055-4b12-92cc-840478f4b133.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "13470",
+  "Developer": "Avalanche Software",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Racing",
+  "Name": "Cars 2",
+  "Overview": "Cars 2 is a third person racing game where players have a choice of 25 different characters, and will train to become a world-class spy. As part of training, players participate in missions using high-tech gadgets, for example, to avoid enemies or slow them down.\nThe game has three types of trophies: bronze, silver and gold. Points are awarded at different values depending on what type of vehicle class players are using. The game characters are divided into three weight classes: heavy, medium and light. Players can unlock new cars, tracks and missions be collecting emblems. And, drop-in/drop-out multiplayer modes support up to four players simultaneously.\nThe game has a connection with The World of Cars Online. It is a browser game based on the cartoon universe. Players will be able to discover a new world outside of Radiator Springs, along with the master, Fillmore, Sergeant, and other characters. For compensation received during the game, opening up new facilities in \"World of Online wheelbarrows.\"",
+  "Publisher": "Disney Interactive Studios",
+  "ReleaseDate": "2011-06-21T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Cars_2_(video_game)"
 }

@@ -1,77 +1,77 @@
 {
-  "Name": "DiRT 3",
-  "DatabaseID": "13053",
-  "ReleaseDate": "2011-05-24T00:00:00+00:00",
-  "Overview": "DiRT 3 will boast more cars, more locations, more routes and more events than any other game in the series, including over 50 rally cars representing the very best from five decades of the sport. DiRT 3 delivers mud, sweat and gears world over: from the intense weather-beaten rally stages of Europe, Africa and the US, to executing performance driving showcases and career challenges where car control is pushed to spectacular limits.",
-  "VideoURL": "https://www.youtube.com/watch?v=5573XrG594Y",
-  "CommunityRating": "3.8",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dirt_3",
-  "ESRB": "T - Teen",
-  "Genres": "Racing",
-  "Developer": "Codemasters Southam",
-  "Publisher": "Codemasters Software",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_2f43079d-511b-49cf-8a5d-625969169a09.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2784488848",
-        "URL": "http://images.launchbox-app.com/r2_2f43079d-511b-49cf-8a5d-625969169a09.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_25307c4f-4883-41cf-9f31-866f0efe4e50.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2692604326",
+        "FileName": "r2_25307c4f-4883-41cf-9f31-866f0efe4e50.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_25307c4f-4883-41cf-9f31-866f0efe4e50.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2784488848",
+        "FileName": "r2_2f43079d-511b-49cf-8a5d-625969169a09.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_2f43079d-511b-49cf-8a5d-625969169a09.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "14d511a9-fcad-46e6-b2c5-42b4fca913b9.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "4035208389",
+          "FileName": "14d511a9-fcad-46e6-b2c5-42b4fca913b9.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/14d511a9-fcad-46e6-b2c5-42b4fca913b9.png"
         }
       ],
       "Front": [
         {
-          "FileName": "eff5ec68-67b3-499a-85f0-fa37de8b4328.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2554696667",
+          "FileName": "eff5ec68-67b3-499a-85f0-fa37de8b4328.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/eff5ec68-67b3-499a-85f0-fa37de8b4328.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_aede5608-726b-4003-b4be-24b3ab971f6d.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1430438931",
+        "FileName": "r2_aede5608-726b-4003-b4be-24b3ab971f6d.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_aede5608-726b-4003-b4be-24b3ab971f6d.png"
       },
       {
-        "FileName": "2f2a86f5-9a3e-425a-8c3f-a3a0a0eb6c61.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "4179963001",
+        "FileName": "2f2a86f5-9a3e-425a-8c3f-a3a0a0eb6c61.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/2f2a86f5-9a3e-425a-8c3f-a3a0a0eb6c61.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3985105453",
         "FileName": "2509f5ba-4dd0-4d1d-83dc-1f02096ba05b.png",
         "Type": "Clear Logo",
-        "CRC32": "3985105453",
         "URL": "http://images.launchbox-app.com/2509f5ba-4dd0-4d1d-83dc-1f02096ba05b.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.8",
+  "DatabaseID": "13053",
+  "Developer": "Codemasters Southam",
+  "ESRB": "T - Teen",
+  "Genres": "Racing",
+  "Name": "DiRT 3",
+  "Overview": "DiRT 3 will boast more cars, more locations, more routes and more events than any other game in the series, including over 50 rally cars representing the very best from five decades of the sport. DiRT 3 delivers mud, sweat and gears world over: from the intense weather-beaten rally stages of Europe, Africa and the US, to executing performance driving showcases and career challenges where car control is pushed to spectacular limits.",
+  "Publisher": "Codemasters Software",
+  "ReleaseDate": "2011-05-24T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=5573XrG594Y",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dirt_3"
 }

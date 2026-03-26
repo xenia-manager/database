@@ -1,151 +1,151 @@
 {
-  "Name": "DOOM II",
-  "DatabaseID": "129040",
-  "ReleaseDate": "2012-10-31T00:00:00+00:00",
-  "Overview": "To save Earth, you must descend into the stygian depths of hell. Battle nastier, deadlier demons and monsters with your trusty Super Shotgun. Survive more mind-blowing explosions and take part in the bloodiest, fiercest, most awesome blastfest ever. Recruit your friends and plow through 9 all-new levels in the new episode, No Rest for the Living! Play solo or multiplayer over Xbox LIVE with up to 4 players. DOOM II for XBLA includes split screen co-op over Xbox LIVE, Game clips, 5.1 Surround Sound, enhanced graphics, and HD display support.",
-  "VideoURL": "https://www.youtube.com/watch?v=hgIwqLg_N4U",
-  "CommunityRating": "3.85294117647059",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "id Software",
-  "Publisher": "Bethesda Softworks",
   "Artwork": {
     "Arcade": [
       {
+        "CRC32": "834538787",
         "FileName": "a8c7237b-c81b-4de7-a06e-ec8bb35b6ea3.jpg",
         "Type": "Arcade - Controls Information",
-        "CRC32": "834538787",
         "URL": "http://images.launchbox-app.com/a8c7237b-c81b-4de7-a06e-ec8bb35b6ea3.jpg"
-      }
-    ],
-    "Banner": [
-      {
-        "FileName": "ed70e333-d258-4628-a4ff-8b85c886a675.png",
-        "Type": "Banner",
-        "CRC32": "2251315966",
-        "URL": "http://images.launchbox-app.com/ed70e333-d258-4628-a4ff-8b85c886a675.png"
       }
     ],
     "Background": [
       {
+        "CRC32": "1800273782",
         "FileName": "2c6732f4-d73d-4884-8dd4-17eac6c5333d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1800273782",
         "URL": "http://images.launchbox-app.com/2c6732f4-d73d-4884-8dd4-17eac6c5333d.jpg"
       }
     ],
+    "Banner": [
+      {
+        "CRC32": "2251315966",
+        "FileName": "ed70e333-d258-4628-a4ff-8b85c886a675.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/ed70e333-d258-4628-a4ff-8b85c886a675.png"
+      }
+    ],
     "Box": {
+      "Back": [
+        {
+          "CRC32": "3272333866",
+          "FileName": "234baff2-57fd-4d85-83e9-d8061abf61ef.jpg",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/234baff2-57fd-4d85-83e9-d8061abf61ef.jpg"
+        },
+        {
+          "CRC32": "1493194701",
+          "FileName": "b42e2ac8-511a-4bd0-8503-2354ad74002a.jpg",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/b42e2ac8-511a-4bd0-8503-2354ad74002a.jpg"
+        }
+      ],
       "Front": [
         {
-          "FileName": "bcf174dc-21f2-40b3-bea6-268f09dbe000.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1511025837",
+          "FileName": "bcf174dc-21f2-40b3-bea6-268f09dbe000.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/bcf174dc-21f2-40b3-bea6-268f09dbe000.jpg"
         },
         {
-          "FileName": "5549d271-590e-42d0-8e09-ace5cdaea106.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "World",
           "CRC32": "3665561330",
+          "FileName": "5549d271-590e-42d0-8e09-ace5cdaea106.png",
+          "Region": "World",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/5549d271-590e-42d0-8e09-ace5cdaea106.png"
         },
         {
-          "FileName": "9c62119f-a8ba-454a-b56a-ae1f75483dc6.png",
-          "Type": "Fanart - Box - Front",
-          "Region": "World",
           "CRC32": "104836094",
+          "FileName": "9c62119f-a8ba-454a-b56a-ae1f75483dc6.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/9c62119f-a8ba-454a-b56a-ae1f75483dc6.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "1d79a449-ef77-420c-81c8-062756f171c7.jpg",
-          "Type": "Box - Spine",
-          "Region": "World",
           "CRC32": "1399197671",
+          "FileName": "1d79a449-ef77-420c-81c8-062756f171c7.jpg",
+          "Region": "World",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/1d79a449-ef77-420c-81c8-062756f171c7.jpg"
-        }
-      ],
-      "Back": [
-        {
-          "FileName": "234baff2-57fd-4d85-83e9-d8061abf61ef.jpg",
-          "Type": "Fanart - Box - Back",
-          "CRC32": "3272333866",
-          "URL": "http://images.launchbox-app.com/234baff2-57fd-4d85-83e9-d8061abf61ef.jpg"
-        },
-        {
-          "FileName": "b42e2ac8-511a-4bd0-8503-2354ad74002a.jpg",
-          "Type": "Fanart - Box - Back",
-          "CRC32": "1493194701",
-          "URL": "http://images.launchbox-app.com/b42e2ac8-511a-4bd0-8503-2354ad74002a.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "580040363",
+        "FileName": "dc046372-d6ce-44e5-8633-8d9b9fb8eb63.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/dc046372-d6ce-44e5-8633-8d9b9fb8eb63.png"
+      }
+    ],
     "Screenshots": [
       {
-        "FileName": "ccf5987c-703c-4a0c-9da5-013a107abb14.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "8464189",
-        "URL": "http://images.launchbox-app.com/ccf5987c-703c-4a0c-9da5-013a107abb14.jpg"
-      },
-      {
+        "CRC32": "3778728446",
         "FileName": "08f3e51a-d2bb-44ee-9cf4-b586a3668d1c.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "3778728446",
         "URL": "http://images.launchbox-app.com/08f3e51a-d2bb-44ee-9cf4-b586a3668d1c.jpg"
       },
       {
+        "CRC32": "8464189",
+        "FileName": "ccf5987c-703c-4a0c-9da5-013a107abb14.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/ccf5987c-703c-4a0c-9da5-013a107abb14.jpg"
+      },
+      {
+        "CRC32": "672406311",
         "FileName": "9388a3e0-fded-45d9-add8-b635f1ad7f7c.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "672406311",
         "URL": "http://images.launchbox-app.com/9388a3e0-fded-45d9-add8-b635f1ad7f7c.jpg"
       },
       {
-        "FileName": "ef756187-9766-4b6b-a2d1-dfc3d34d9600.jpg",
+        "CRC32": "3350643880",
+        "FileName": "5e8f3fa7-bb2d-4cbe-9e53-7855daa787b7.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3744213138",
-        "URL": "http://images.launchbox-app.com/ef756187-9766-4b6b-a2d1-dfc3d34d9600.jpg"
+        "URL": "http://images.launchbox-app.com/5e8f3fa7-bb2d-4cbe-9e53-7855daa787b7.jpg"
       },
       {
-        "FileName": "86fa125a-bc83-463b-9fc1-f28f9265b003.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2835862258",
-        "URL": "http://images.launchbox-app.com/86fa125a-bc83-463b-9fc1-f28f9265b003.jpg"
-      },
-      {
+        "CRC32": "2936838348",
         "FileName": "67b65882-f1fe-4955-89de-5a72ceeac08f.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2936838348",
         "URL": "http://images.launchbox-app.com/67b65882-f1fe-4955-89de-5a72ceeac08f.jpg"
       },
       {
+        "CRC32": "2835862258",
+        "FileName": "86fa125a-bc83-463b-9fc1-f28f9265b003.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/86fa125a-bc83-463b-9fc1-f28f9265b003.jpg"
+      },
+      {
+        "CRC32": "2004205864",
         "FileName": "cf4f73ee-9016-4069-bf70-d5b2e1dbd6f6.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2004205864",
         "URL": "http://images.launchbox-app.com/cf4f73ee-9016-4069-bf70-d5b2e1dbd6f6.jpg"
       },
       {
+        "CRC32": "2577154963",
         "FileName": "e4c2cb8f-7f1c-40b7-8fab-fd176119851a.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2577154963",
         "URL": "http://images.launchbox-app.com/e4c2cb8f-7f1c-40b7-8fab-fd176119851a.jpg"
       },
       {
-        "FileName": "5e8f3fa7-bb2d-4cbe-9e53-7855daa787b7.jpg",
+        "CRC32": "3744213138",
+        "FileName": "ef756187-9766-4b6b-a2d1-dfc3d34d9600.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3350643880",
-        "URL": "http://images.launchbox-app.com/5e8f3fa7-bb2d-4cbe-9e53-7855daa787b7.jpg"
-      }
-    ],
-    "Other": [
-      {
-        "FileName": "dc046372-d6ce-44e5-8633-8d9b9fb8eb63.png",
-        "Type": "Clear Logo",
-        "CRC32": "580040363",
-        "URL": "http://images.launchbox-app.com/dc046372-d6ce-44e5-8633-8d9b9fb8eb63.png"
+        "URL": "http://images.launchbox-app.com/ef756187-9766-4b6b-a2d1-dfc3d34d9600.jpg"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.85294117647059",
+  "DatabaseID": "129040",
+  "Developer": "id Software",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "DOOM II",
+  "Overview": "To save Earth, you must descend into the stygian depths of hell. Battle nastier, deadlier demons and monsters with your trusty Super Shotgun. Survive more mind-blowing explosions and take part in the bloodiest, fiercest, most awesome blastfest ever. Recruit your friends and plow through 9 all-new levels in the new episode, No Rest for the Living! Play solo or multiplayer over Xbox LIVE with up to 4 players. DOOM II for XBLA includes split screen co-op over Xbox LIVE, Game clips, 5.1 Surround Sound, enhanced graphics, and HD display support.",
+  "Publisher": "Bethesda Softworks",
+  "ReleaseDate": "2012-10-31T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=hgIwqLg_N4U",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth"
 }

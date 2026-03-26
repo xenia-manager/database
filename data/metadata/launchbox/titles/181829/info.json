@@ -1,50 +1,50 @@
 {
-  "Name": "Sensible World of Soccer",
-  "DatabaseID": "181829",
-  "ReleaseDate": "2007-12-19T00:00:00+00:00",
-  "Overview": "Sensible World of Soccer is a port of Commodore Amiga's Sensible World of Soccer '96/'97.\n\nWhile the Linux/Macintosh/Windows are just the emulated DOS version, the Xbox 360 version has some genuine changes: online multiplayer, updated graphics (the graphical style and the top-down perspective are kept) and dynamic advertisements. The team rosters are still based on season 1996/1997, but the names are not authentic anymore.",
-  "CommunityRating": "3.55555555555556",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Sensible_World_of_Soccer",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Sensible Software",
-  "Publisher": "Codemasters",
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "73b87a73-f606-4bd9-9ca6-864511abd997.png",
-          "Type": "Box - 3D",
-          "Region": "World",
           "CRC32": "2909927866",
+          "FileName": "73b87a73-f606-4bd9-9ca6-864511abd997.png",
+          "Region": "World",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/73b87a73-f606-4bd9-9ca6-864511abd997.png"
         }
       ],
       "Front": [
         {
-          "FileName": "f4cdb0f3-3c78-4ac5-b958-6282233f9cc8.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1531470173",
+          "FileName": "f4cdb0f3-3c78-4ac5-b958-6282233f9cc8.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f4cdb0f3-3c78-4ac5-b958-6282233f9cc8.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "68f6a722-e556-4ba9-98af-b487cca70a59.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1524026178",
-        "URL": "http://images.launchbox-app.com/68f6a722-e556-4ba9-98af-b487cca70a59.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "2906500259",
         "FileName": "b87852c8-5c2e-48d1-a9ca-33fd336a3114.png",
         "Type": "Clear Logo",
-        "CRC32": "2906500259",
         "URL": "http://images.launchbox-app.com/b87852c8-5c2e-48d1-a9ca-33fd336a3114.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1524026178",
+        "FileName": "68f6a722-e556-4ba9-98af-b487cca70a59.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/68f6a722-e556-4ba9-98af-b487cca70a59.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.55555555555556",
+  "DatabaseID": "181829",
+  "Developer": "Sensible Software",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Sensible World of Soccer",
+  "Overview": "Sensible World of Soccer is a port of Commodore Amiga's Sensible World of Soccer '96/'97.\n\nWhile the Linux/Macintosh/Windows are just the emulated DOS version, the Xbox 360 version has some genuine changes: online multiplayer, updated graphics (the graphical style and the top-down perspective are kept) and dynamic advertisements. The team rosters are still based on season 1996/1997, but the names are not authentic anymore.",
+  "Publisher": "Codemasters",
+  "ReleaseDate": "2007-12-19T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sensible_World_of_Soccer"
 }

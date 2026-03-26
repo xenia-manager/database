@@ -1,41 +1,41 @@
 {
-  "Name": "DLC Quest",
-  "DatabaseID": "155173",
-  "ReleaseDate": "2011-11-02T00:00:00+00:00",
-  "Overview": "DLC Quest is a 2D platformer that mocks the use of downloadable content for commercial games as a barrier to access a full game experience. The player has to rescue a princess that has been kidnapped by a bad guy. At the start of the game however, many features are missing, such as sound, animation, or the ability to jump or move left. After collecting a number of coins these can be exchanged at a shopkeeper to buy DLC with the in-game currency.",
-  "VideoURL": "https://www.youtube.com/watch?v=pEF3R32Jedg",
-  "CommunityRating": "4.5",
-  "ESRB": "Not Rated",
-  "Genres": "Platform",
-  "Developer": "Going Loud Studios",
-  "Publisher": "Going Loud Studios",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2070183462",
         "FileName": "0dcc2376-2dd9-4a5b-bb15-a963dc809793.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2070183462",
         "URL": "http://images.launchbox-app.com/0dcc2376-2dd9-4a5b-bb15-a963dc809793.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "a7928db3-a674-4e90-a65f-4427f6d024c6.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1311923936",
+          "FileName": "a7928db3-a674-4e90-a65f-4427f6d024c6.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a7928db3-a674-4e90-a65f-4427f6d024c6.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "864005003",
         "FileName": "03f75478-3479-4c26-a0c1-ae429dd4dbe2.png",
         "Type": "Clear Logo",
-        "CRC32": "864005003",
         "URL": "http://images.launchbox-app.com/03f75478-3479-4c26-a0c1-ae429dd4dbe2.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "155173",
+  "Developer": "Going Loud Studios",
+  "ESRB": "Not Rated",
+  "Genres": "Platform",
+  "Name": "DLC Quest",
+  "Overview": "DLC Quest is a 2D platformer that mocks the use of downloadable content for commercial games as a barrier to access a full game experience. The player has to rescue a princess that has been kidnapped by a bad guy. At the start of the game however, many features are missing, such as sound, animation, or the ability to jump or move left. After collecting a number of coins these can be exchanged at a shopkeeper to buy DLC with the in-game currency.",
+  "Publisher": "Going Loud Studios",
+  "ReleaseDate": "2011-11-02T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=pEF3R32Jedg"
 }

@@ -1,102 +1,102 @@
 {
-  "Name": "The Cursed Crusade",
-  "DatabaseID": "8892",
-  "ReleaseDate": "2011-10-25T00:00:00+00:00",
-  "Overview": "In The Cursed Crusade the player takes the role of the knight Denz de Bayle who has a slight problem: he was subjected to a Templar curse which brings strength but dams him into hell over time. His quest is to find a cure and to do so he affiliates with crusaders where he gets to know Esteban Noviembre who has the same curse to bear. During the course of the game they will have to fight against an also cursed group with sinister plans. Noviembre is either controlled by the AI or another player.\n\nThe basic premise of this game is a traditional hack & slay: walking through linear levels and killing a lot of enemies with a focus on melee combat. But the curse gives de Bayle the ability to switch between the normal game world and a hell version. This has a few advantages: the heroes get stronger, have special attacks and can find collectibles. However, being in the hell world drains energy which is refilled by killing enemies. For every weapon there is a skill tree with combo attacks. Those are unlocked with victory points which are earned by solving the mission and finding the mentioned collectibles in hell or hidden treasure chests.",
-  "CommunityRating": "2.9",
-  "ESRB": "M - Mature",
-  "Genres": "Beat 'em Up",
-  "Developer": "Kylotonn",
-  "Publisher": "Atlus",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "bd830e8a-8d38-4676-9ab0-2943bda05609.png",
-        "Type": "Banner",
-        "CRC32": "688838312",
-        "URL": "http://images.launchbox-app.com/bd830e8a-8d38-4676-9ab0-2943bda05609.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "337791269",
         "FileName": "48a56fb7-ca63-446d-bf2c-d4ae39b391ff.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "337791269",
         "URL": "http://images.launchbox-app.com/48a56fb7-ca63-446d-bf2c-d4ae39b391ff.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "688838312",
+        "FileName": "bd830e8a-8d38-4676-9ab0-2943bda05609.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/bd830e8a-8d38-4676-9ab0-2943bda05609.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "1111423718",
           "FileName": "2ce4c5d3-700b-4b53-a317-18407e3b0738.png",
           "Type": "Box - 3D",
-          "CRC32": "1111423718",
           "URL": "http://images.launchbox-app.com/2ce4c5d3-700b-4b53-a317-18407e3b0738.png"
         },
         {
-          "FileName": "r2_8ac23792-121c-4f6a-bb71-5ee07cb88067.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "872527952",
+          "FileName": "r2_8ac23792-121c-4f6a-bb71-5ee07cb88067.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_8ac23792-121c-4f6a-bb71-5ee07cb88067.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "1296596769",
           "FileName": "fe82f4fc-5c6c-4851-8ab3-fcb695e1abac.jpg",
           "Type": "Box - Back",
-          "CRC32": "1296596769",
           "URL": "http://images.launchbox-app.com/fe82f4fc-5c6c-4851-8ab3-fcb695e1abac.jpg"
         },
         {
-          "FileName": "r2_7e326ba9-4cda-474a-b409-a2fa305a8170.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3673515421",
+          "FileName": "r2_7e326ba9-4cda-474a-b409-a2fa305a8170.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_7e326ba9-4cda-474a-b409-a2fa305a8170.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "1018984571",
           "FileName": "a62d9d72-84f0-40b4-b1d0-243117248f37.jpg",
           "Type": "Box - Front",
-          "CRC32": "1018984571",
           "URL": "http://images.launchbox-app.com/a62d9d72-84f0-40b4-b1d0-243117248f37.jpg"
         },
         {
-          "FileName": "r2_a2390d63-b106-408f-8376-a233692b3757.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1644121436",
+          "FileName": "r2_a2390d63-b106-408f-8376-a233692b3757.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a2390d63-b106-408f-8376-a233692b3757.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "4a8c169b-c96b-4337-a4e9-51944b2dcdb1.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "147047812",
+          "FileName": "4a8c169b-c96b-4337-a4e9-51944b2dcdb1.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/4a8c169b-c96b-4337-a4e9-51944b2dcdb1.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_dac86bb3-bde1-4fd6-854c-a6180aaf99f6.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "950541538",
+        "FileName": "r2_dac86bb3-bde1-4fd6-854c-a6180aaf99f6.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_dac86bb3-bde1-4fd6-854c-a6180aaf99f6.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1683078513",
         "FileName": "7d0ba31e-aa8d-4b5f-8198-aceb0546a7e5.png",
         "Type": "Clear Logo",
-        "CRC32": "1683078513",
         "URL": "http://images.launchbox-app.com/7d0ba31e-aa8d-4b5f-8198-aceb0546a7e5.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.9",
+  "DatabaseID": "8892",
+  "Developer": "Kylotonn",
+  "ESRB": "M - Mature",
+  "Genres": "Beat 'em Up",
+  "Name": "The Cursed Crusade",
+  "Overview": "In The Cursed Crusade the player takes the role of the knight Denz de Bayle who has a slight problem: he was subjected to a Templar curse which brings strength but dams him into hell over time. His quest is to find a cure and to do so he affiliates with crusaders where he gets to know Esteban Noviembre who has the same curse to bear. During the course of the game they will have to fight against an also cursed group with sinister plans. Noviembre is either controlled by the AI or another player.\n\nThe basic premise of this game is a traditional hack & slay: walking through linear levels and killing a lot of enemies with a focus on melee combat. But the curse gives de Bayle the ability to switch between the normal game world and a hell version. This has a few advantages: the heroes get stronger, have special attacks and can find collectibles. However, being in the hell world drains energy which is refilled by killing enemies. For every weapon there is a skill tree with combo attacks. Those are unlocked with victory points which are earned by solving the mission and finding the mentioned collectibles in hell or hidden treasure chests.",
+  "Publisher": "Atlus",
+  "ReleaseDate": "2011-10-25T00:00:00+00:00"
 }

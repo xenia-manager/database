@@ -1,23 +1,23 @@
 {
-  "Name": "Bubble Booster",
-  "DatabaseID": "468289",
-  "ReleaseDate": "2016-05-18T00:00:00+00:00",
-  "Overview": "Burst the bubbles by connecting at least three of the same type. Earn bonuses for speed and breaking off chunks of other bubbles.\n\nWork your way through the many levels and climb the online high score tables.",
-  "VideoURL": "https://youtu.be/w0VwMdfV1bI",
-  "Genres": "Puzzle",
-  "Developer": "ElvishJumpSuit",
-  "Publisher": "ElvishJumpSuit",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "c050e582-98f5-4479-acd0-b49a2ab6e32d.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "547914573",
+          "FileName": "c050e582-98f5-4479-acd0-b49a2ab6e32d.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c050e582-98f5-4479-acd0-b49a2ab6e32d.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468289",
+  "Developer": "ElvishJumpSuit",
+  "Genres": "Puzzle",
+  "Name": "Bubble Booster",
+  "Overview": "Burst the bubbles by connecting at least three of the same type. Earn bonuses for speed and breaking off chunks of other bubbles.\n\nWork your way through the many levels and climb the online high score tables.",
+  "Publisher": "ElvishJumpSuit",
+  "ReleaseDate": "2016-05-18T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/w0VwMdfV1bI"
 }

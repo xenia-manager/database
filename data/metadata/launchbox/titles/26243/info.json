@@ -1,86 +1,86 @@
 {
-  "Name": "America's Army: True Soldiers",
-  "DatabaseID": "26243",
-  "Overview": "America’s Army: True Soldiers is a first-person shooter video game developed by Red Storm Entertainment and published by Ubisoft. It was released on November 15, 2007. It is a spin-off of the United States Army's computer game America's Army. Unlike the original America's Army, this game is not freeware.",
-  "VideoURL": "http://www.youtube.com/watch?v=BxAHhXAw870",
-  "CommunityRating": "2.2",
-  "Genres": null,
   "Artwork": {
     "Banner": [
       {
-        "FileName": "bbc205f6-16ac-4c7d-abb4-16649cc029d3.png",
-        "Type": "Banner",
-        "CRC32": "788407749",
-        "URL": "http://images.launchbox-app.com/bbc205f6-16ac-4c7d-abb4-16649cc029d3.png"
-      },
-      {
+        "CRC32": "3531211",
         "FileName": "00d5cf96-3019-4637-ac65-7a3f3fac59cd.png",
         "Type": "Banner",
-        "CRC32": "3531211",
         "URL": "http://images.launchbox-app.com/00d5cf96-3019-4637-ac65-7a3f3fac59cd.png"
+      },
+      {
+        "CRC32": "788407749",
+        "FileName": "bbc205f6-16ac-4c7d-abb4-16649cc029d3.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/bbc205f6-16ac-4c7d-abb4-16649cc029d3.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "1945899042",
           "FileName": "a005661f-58fa-4015-acb1-4f2cd90b5430.png",
           "Type": "Box - 3D",
-          "CRC32": "1945899042",
           "URL": "http://images.launchbox-app.com/a005661f-58fa-4015-acb1-4f2cd90b5430.png"
         }
       ],
       "Back": [
         {
-          "FileName": "e7fd8c0e-5398-4109-bff8-656afcdedeb3.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1110712319",
+          "FileName": "e7fd8c0e-5398-4109-bff8-656afcdedeb3.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/e7fd8c0e-5398-4109-bff8-656afcdedeb3.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "5736c3d1-d028-4c47-94f1-31c28a863a83.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "4037156515",
+          "FileName": "5736c3d1-d028-4c47-94f1-31c28a863a83.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5736c3d1-d028-4c47-94f1-31c28a863a83.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "62265f27-dc86-41fa-a2e7-d604e43f4a34.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1750916071",
+          "FileName": "62265f27-dc86-41fa-a2e7-d604e43f4a34.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/62265f27-dc86-41fa-a2e7-d604e43f4a34.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "03a174bd-8542-4b6e-b650-c3790f08d0b3.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1613622393",
+        "FileName": "03a174bd-8542-4b6e-b650-c3790f08d0b3.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/03a174bd-8542-4b6e-b650-c3790f08d0b3.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "5a771f9f-daca-4f0f-98bf-5a8f39959f90.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2679843427",
-        "URL": "http://images.launchbox-app.com/5a771f9f-daca-4f0f-98bf-5a8f39959f90.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "598729614",
         "FileName": "c810a23b-2b4e-4815-950c-9f547f4eef71.png",
         "Type": "Clear Logo",
-        "CRC32": "598729614",
         "URL": "http://images.launchbox-app.com/c810a23b-2b4e-4815-950c-9f547f4eef71.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2679843427",
+        "FileName": "5a771f9f-daca-4f0f-98bf-5a8f39959f90.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/5a771f9f-daca-4f0f-98bf-5a8f39959f90.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "2.2",
+  "DatabaseID": "26243",
+  "Genres": null,
+  "Name": "America's Army: True Soldiers",
+  "Overview": "America’s Army: True Soldiers is a first-person shooter video game developed by Red Storm Entertainment and published by Ubisoft. It was released on November 15, 2007. It is a spin-off of the United States Army's computer game America's Army. Unlike the original America's Army, this game is not freeware.",
+  "VideoURL": "http://www.youtube.com/watch?v=BxAHhXAw870"
 }

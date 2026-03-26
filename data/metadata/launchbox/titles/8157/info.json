@@ -1,108 +1,108 @@
 {
-  "Name": "Left 4 Dead",
-  "DatabaseID": "8157",
-  "ReleaseDate": "2008-08-19T00:00:00+00:00",
-  "Overview": "Left 4 Dead is a cooperative first-person shooter video game with survival horror elements, developed by Turtle Rock Studios and published by Valve Corporation. The game uses Valve's proprietary Source engine, and is available for Microsoft Windows, Xbox 360 and Mac OS X. Development on the game was completed on November 13, 2008, and two versions were released digitally: A downloadable digital version, released on November 17, 2008, and a digital retail disc version, with a release date determined by region. The digital retail disc version was released in North America and Australia on November 18, 2008; and in Europe and Japan on November 21, 2008.\n\nSet during the aftermath of an apocalyptic pandemic, the game pits its four protagonists—dubbed the \"Survivors\"—against hordes of the infected. There are four game modes: a single-player mode in which allied characters are controlled by AI; a four-player, co-op campaign mode; an eight-player online versus mode; and a four-player survival mode. In all modes, an artificial intelligence (AI), dubbed the \"Director\", controls level pacing and item placements, in an attempt to create a dynamic experience and increase replay value.\n\nLeft 4 Dead was well received by the industry media upon its release, with praise given for its replay value, focus on cooperative play, and movie-like experience. Several criticisms were aimed at limited level selection and the lack of a narrative. The game has won several publication awards, as well as distinctions from the Academy of Interactive Arts & Sciences and British Academy of Film and Television Arts. As was done with Team Fortress 2, Valve supplemented the game with free downloadable content. The first, called the \"Survival Pack\", was released on April 21, 2009. The second piece of DLC was charged for on Xbox Live and came in the form of a new Campaign entitled \"Crash Course,\" released for both the PC and Xbox 360 on September 29, 2009.\n\nThe popularity of the game led to the development of a sequel, Left 4 Dead 2, which was released November 17, 2009. Left 4 Dead 2 was released on Mac OS X via Steam on October 5, 2010, and the original Left 4 Dead was released for the Mac soon after on October 28, 2010. The Mac version of Left 4 Dead 2 incorporated a new map for both Left 4 Dead and Left 4 Dead 2, called \"The Sacrifice\". Eventually all Left 4 Dead campaigns were ported over to Left 4 Dead 2 and allowing for cross-platform support between Windows and Mac versions.",
-  "CommunityRating": "4.13157894736842",
-  "ESRB": "M - Mature",
-  "Genres": "Horror; Shooter",
-  "Developer": "Valve",
-  "Publisher": "Valve",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "2452204179",
         "FileName": "4a66627a-4caa-4afc-91e6-6f342ca6f4b0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2452204179",
         "URL": "http://images.launchbox-app.com/4a66627a-4caa-4afc-91e6-6f342ca6f4b0.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "bfce78a6-19cf-440b-874c-7fab34be13e7.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "608864101",
+          "FileName": "bfce78a6-19cf-440b-874c-7fab34be13e7.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/bfce78a6-19cf-440b-874c-7fab34be13e7.png"
         }
       ],
       "Back": [
         {
-          "FileName": "f335b18f-26da-4321-b60c-6e582d70b243.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2937304567",
+          "FileName": "f335b18f-26da-4321-b60c-6e582d70b243.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/f335b18f-26da-4321-b60c-6e582d70b243.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "8f02450e-3857-4b12-87be-8c5201c7161b.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "700364139",
-          "URL": "http://images.launchbox-app.com/8f02450e-3857-4b12-87be-8c5201c7161b.jpg"
-        },
-        {
           "FileName": "57744116-6b78-4b68-81b1-7f3b7aea9320.jpg",
-          "Type": "Box - Front",
           "Region": "North America",
-          "CRC32": "700364139",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/57744116-6b78-4b68-81b1-7f3b7aea9320.jpg"
         },
         {
-          "FileName": "70bc47b5-6553-494c-9e5a-4955a893ace0.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1912119366",
+          "FileName": "70bc47b5-6553-494c-9e5a-4955a893ace0.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/70bc47b5-6553-494c-9e5a-4955a893ace0.jpg"
+        },
+        {
+          "CRC32": "700364139",
+          "FileName": "8f02450e-3857-4b12-87be-8c5201c7161b.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/8f02450e-3857-4b12-87be-8c5201c7161b.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "c555f194-cbc0-45f8-a1bf-5b78e74f0f9f.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "3470787589",
+        "FileName": "c555f194-cbc0-45f8-a1bf-5b78e74f0f9f.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c555f194-cbc0-45f8-a1bf-5b78e74f0f9f.png"
       },
       {
-        "FileName": "fe04f226-b929-4820-8399-59a1162c10b3.png",
-        "Type": "Disc",
-        "Region": "Germany",
         "CRC32": "3946594685",
+        "FileName": "fe04f226-b929-4820-8399-59a1162c10b3.png",
+        "Region": "Germany",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/fe04f226-b929-4820-8399-59a1162c10b3.png"
       },
       {
-        "FileName": "c8d2e8c9-37ac-4699-8aca-56fbebcfefcc.png",
-        "Type": "Disc",
-        "Region": "Japan",
         "CRC32": "620331294",
+        "FileName": "c8d2e8c9-37ac-4699-8aca-56fbebcfefcc.png",
+        "Region": "Japan",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c8d2e8c9-37ac-4699-8aca-56fbebcfefcc.png"
       },
       {
-        "FileName": "6b6ffab1-03ca-4b4e-813b-5db52a548676.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2813508419",
+        "FileName": "6b6ffab1-03ca-4b4e-813b-5db52a548676.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/6b6ffab1-03ca-4b4e-813b-5db52a548676.png"
       }
     ],
     "Other": [
       {
-        "FileName": "317597d6-69e3-4494-bde3-87cf7ca511d2.png",
-        "Type": "Clear Logo",
-        "CRC32": "3029876939",
-        "URL": "http://images.launchbox-app.com/317597d6-69e3-4494-bde3-87cf7ca511d2.png"
-      },
-      {
+        "CRC32": "1645295272",
         "FileName": "0448c024-3dd7-4b49-9c20-ce469516fb87.png",
         "Type": "Clear Logo",
-        "CRC32": "1645295272",
         "URL": "http://images.launchbox-app.com/0448c024-3dd7-4b49-9c20-ce469516fb87.png"
+      },
+      {
+        "CRC32": "3029876939",
+        "FileName": "317597d6-69e3-4494-bde3-87cf7ca511d2.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/317597d6-69e3-4494-bde3-87cf7ca511d2.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.13157894736842",
+  "DatabaseID": "8157",
+  "Developer": "Valve",
+  "ESRB": "M - Mature",
+  "Genres": "Horror; Shooter",
+  "Name": "Left 4 Dead",
+  "Overview": "Left 4 Dead is a cooperative first-person shooter video game with survival horror elements, developed by Turtle Rock Studios and published by Valve Corporation. The game uses Valve's proprietary Source engine, and is available for Microsoft Windows, Xbox 360 and Mac OS X. Development on the game was completed on November 13, 2008, and two versions were released digitally: A downloadable digital version, released on November 17, 2008, and a digital retail disc version, with a release date determined by region. The digital retail disc version was released in North America and Australia on November 18, 2008; and in Europe and Japan on November 21, 2008.\n\nSet during the aftermath of an apocalyptic pandemic, the game pits its four protagonists—dubbed the \"Survivors\"—against hordes of the infected. There are four game modes: a single-player mode in which allied characters are controlled by AI; a four-player, co-op campaign mode; an eight-player online versus mode; and a four-player survival mode. In all modes, an artificial intelligence (AI), dubbed the \"Director\", controls level pacing and item placements, in an attempt to create a dynamic experience and increase replay value.\n\nLeft 4 Dead was well received by the industry media upon its release, with praise given for its replay value, focus on cooperative play, and movie-like experience. Several criticisms were aimed at limited level selection and the lack of a narrative. The game has won several publication awards, as well as distinctions from the Academy of Interactive Arts & Sciences and British Academy of Film and Television Arts. As was done with Team Fortress 2, Valve supplemented the game with free downloadable content. The first, called the \"Survival Pack\", was released on April 21, 2009. The second piece of DLC was charged for on Xbox Live and came in the form of a new Campaign entitled \"Crash Course,\" released for both the PC and Xbox 360 on September 29, 2009.\n\nThe popularity of the game led to the development of a sequel, Left 4 Dead 2, which was released November 17, 2009. Left 4 Dead 2 was released on Mac OS X via Steam on October 5, 2010, and the original Left 4 Dead was released for the Mac soon after on October 28, 2010. The Mac version of Left 4 Dead 2 incorporated a new map for both Left 4 Dead and Left 4 Dead 2, called \"The Sacrifice\". Eventually all Left 4 Dead campaigns were ported over to Left 4 Dead 2 and allowing for cross-platform support between Windows and Mac versions.",
+  "Publisher": "Valve",
+  "ReleaseDate": "2008-08-19T00:00:00+00:00"
 }

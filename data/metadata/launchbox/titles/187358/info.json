@@ -1,43 +1,43 @@
 {
-  "Name": "Exit",
-  "DatabaseID": "187358",
-  "ReleaseDate": "2007-10-24T00:00:00+00:00",
-  "Overview": "Exit is a unique puzzle game for the Xbox 360. You can play as \"Mr. Esc,\" a professional rescuer, and help people escape from a variety of dangerous disasters. The game features more than 100 different escape scenarios, ranging from exploding factories to flooding subways. Rescued victims become allies and can help you move heavy objects or complete tricky puzzles. The platforming gameplay is augmented by colorful comic book stylings and fluid animation",
-  "CommunityRating": "2.875",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Exit_(video_game)",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "Taito",
-  "Publisher": "Ubisoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_66caa0bc-be6d-4318-b228-6721c6af0496.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1854886831",
-        "URL": "http://images.launchbox-app.com/r2_66caa0bc-be6d-4318-b228-6721c6af0496.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_8f4d4044-a7b4-4772-a965-906d0cebbec8.png",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2143596437",
+        "FileName": "r2_8f4d4044-a7b4-4772-a965-906d0cebbec8.png",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8f4d4044-a7b4-4772-a965-906d0cebbec8.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1854886831",
+        "FileName": "r2_66caa0bc-be6d-4318-b228-6721c6af0496.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_66caa0bc-be6d-4318-b228-6721c6af0496.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "d00ad19d-9643-4a1f-a2ad-13653c950fe2.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "162585076",
+          "FileName": "d00ad19d-9643-4a1f-a2ad-13653c950fe2.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d00ad19d-9643-4a1f-a2ad-13653c950fe2.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "2.875",
+  "DatabaseID": "187358",
+  "Developer": "Taito",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Exit",
+  "Overview": "Exit is a unique puzzle game for the Xbox 360. You can play as \"Mr. Esc,\" a professional rescuer, and help people escape from a variety of dangerous disasters. The game features more than 100 different escape scenarios, ranging from exploding factories to flooding subways. Rescued victims become allies and can help you move heavy objects or complete tricky puzzles. The platforming gameplay is augmented by colorful comic book stylings and fluid animation",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2007-10-24T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Exit_(video_game)"
 }

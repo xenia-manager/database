@@ -1,23 +1,23 @@
 {
-  "Name": "Gravitas",
-  "DatabaseID": "469856",
-  "ReleaseDate": "2012-02-19T00:00:00+00:00",
-  "Overview": "Challenge the AI and up to three of your friends in a game of galactic artillery. Whom will gravity defeat?",
-  "VideoURL": "https://youtu.be/yBZz5-xJ0x0",
-  "Genres": "Strategy",
-  "Developer": "Oliver Brown",
-  "Publisher": "Oliver Brown",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "d18d6f4e-3473-45a9-a708-d548f75d8bcd.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "755145097",
+          "FileName": "d18d6f4e-3473-45a9-a708-d548f75d8bcd.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d18d6f4e-3473-45a9-a708-d548f75d8bcd.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469856",
+  "Developer": "Oliver Brown",
+  "Genres": "Strategy",
+  "Name": "Gravitas",
+  "Overview": "Challenge the AI and up to three of your friends in a game of galactic artillery. Whom will gravity defeat?",
+  "Publisher": "Oliver Brown",
+  "ReleaseDate": "2012-02-19T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/yBZz5-xJ0x0"
 }

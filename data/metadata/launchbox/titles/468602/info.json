@@ -1,23 +1,23 @@
 {
-  "Name": "Constrictor",
-  "DatabaseID": "468602",
-  "ReleaseDate": "2008-12-29T00:00:00+00:00",
-  "Overview": "Constrictor is a Snake variant. The player controls a snake which grows larger after eating yellow dots. The game is over when crashing into obstacles (such as obstacles, the own tail or other players) and the goal is to accumulate points by surviving long enough. While the single-player is basic, there are also three multiplayer modes: predator (trying to eat them), wraith (running away from them) or sport (playing ball). There a few additional options which change the game, e.g. power-ups for gaining special abilities.",
-  "VideoURL": "https://youtu.be/pqdpWeLbC2o",
-  "Genres": "Action",
-  "Developer": "A Jolly Corpse",
-  "Publisher": "A Jolly Corpse",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "fa1ebdec-ae79-481f-8227-e86149a703d5.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1312682063",
+          "FileName": "fa1ebdec-ae79-481f-8227-e86149a703d5.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/fa1ebdec-ae79-481f-8227-e86149a703d5.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468602",
+  "Developer": "A Jolly Corpse",
+  "Genres": "Action",
+  "Name": "Constrictor",
+  "Overview": "Constrictor is a Snake variant. The player controls a snake which grows larger after eating yellow dots. The game is over when crashing into obstacles (such as obstacles, the own tail or other players) and the goal is to accumulate points by surviving long enough. While the single-player is basic, there are also three multiplayer modes: predator (trying to eat them), wraith (running away from them) or sport (playing ball). There a few additional options which change the game, e.g. power-ups for gaining special abilities.",
+  "Publisher": "A Jolly Corpse",
+  "ReleaseDate": "2008-12-29T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/pqdpWeLbC2o"
 }

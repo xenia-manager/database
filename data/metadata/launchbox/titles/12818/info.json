@@ -1,51 +1,51 @@
 {
-  "Name": "Madden NFL 11",
-  "DatabaseID": "12818",
-  "ReleaseDate": "2010-08-10T00:00:00+00:00",
-  "Overview": "Madden NFL 11 is the 22nd version of EA Sports' classic video game football franchise. Featuring cover athlete Drew Brees, Super Bowl XLIV MVP and quarterback for the New Orleans Saints, Madden NFL 11 incorporates a blend of simpler, quicker and deeper new features with time-tested classic features expected from a game in the Madden franchise. Features included in the Xbox 360 version include Franchise mode, All-new GameFlow playcall system, dual stick control, extensive online functionality and more.",
-  "VideoURL": "https://www.youtube.com/watch?v=BEWNHKoj_Ec",
-  "CommunityRating": "4.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Madden_NFL_11",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Tiburon",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1221375893",
         "FileName": "82768917-6b7e-41d3-b85c-23c171f8b9fb.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1221375893",
         "URL": "http://images.launchbox-app.com/82768917-6b7e-41d3-b85c-23c171f8b9fb.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "2625836932",
           "FileName": "c48bdab5-810f-4445-987c-f48acb70241c.png",
           "Type": "Box - 3D",
-          "CRC32": "2625836932",
           "URL": "http://images.launchbox-app.com/c48bdab5-810f-4445-987c-f48acb70241c.png"
         }
       ],
       "Front": [
         {
-          "FileName": "1e6c407e-c334-437c-9517-5f740adc9c6a.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3188333588",
+          "FileName": "1e6c407e-c334-437c-9517-5f740adc9c6a.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1e6c407e-c334-437c-9517-5f740adc9c6a.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_3d1522f3-f322-4b5f-95f2-400cc269cd11.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "638818983",
+        "FileName": "r2_3d1522f3-f322-4b5f-95f2-400cc269cd11.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_3d1522f3-f322-4b5f-95f2-400cc269cd11.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "12818",
+  "Developer": "Electronic Arts Tiburon",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Madden NFL 11",
+  "Overview": "Madden NFL 11 is the 22nd version of EA Sports' classic video game football franchise. Featuring cover athlete Drew Brees, Super Bowl XLIV MVP and quarterback for the New Orleans Saints, Madden NFL 11 incorporates a blend of simpler, quicker and deeper new features with time-tested classic features expected from a game in the Madden franchise. Features included in the Xbox 360 version include Franchise mode, All-new GameFlow playcall system, dual stick control, extensive online functionality and more.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2010-08-10T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=BEWNHKoj_Ec",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Madden_NFL_11"
 }

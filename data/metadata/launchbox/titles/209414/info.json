@@ -1,42 +1,42 @@
 {
-  "Name": "Jewel Quest",
-  "DatabaseID": "209414",
-  "ReleaseDate": "2010-01-04T00:00:00+00:00",
-  "Overview": "Further mysteries await you in this archaeological puzzle adventure! Delve deeper when you purchase the FULL version of Jewel Quest.",
-  "CommunityRating": "3.28571428571429",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "CTXM",
-  "Publisher": "Microsoft Studios",
   "Artwork": {
     "Banner": [
       {
-        "FileName": "r2_60954ad3-3d1c-4af1-96a1-d2f3d103f516.png",
-        "Type": "Banner",
-        "Region": "World",
         "CRC32": "3846092087",
+        "FileName": "r2_60954ad3-3d1c-4af1-96a1-d2f3d103f516.png",
+        "Region": "World",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/r2_60954ad3-3d1c-4af1-96a1-d2f3d103f516.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "a5298b0e-f4d8-44b6-838d-44720f212a3f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "555758780",
+          "FileName": "a5298b0e-f4d8-44b6-838d-44720f212a3f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a5298b0e-f4d8-44b6-838d-44720f212a3f.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_45b7e16e-11be-4410-8f51-364818eda81b.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "854217956",
+        "FileName": "r2_45b7e16e-11be-4410-8f51-364818eda81b.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_45b7e16e-11be-4410-8f51-364818eda81b.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.28571428571429",
+  "DatabaseID": "209414",
+  "Developer": "CTXM",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Jewel Quest",
+  "Overview": "Further mysteries await you in this archaeological puzzle adventure! Delve deeper when you purchase the FULL version of Jewel Quest.",
+  "Publisher": "Microsoft Studios",
+  "ReleaseDate": "2010-01-04T00:00:00+00:00"
 }

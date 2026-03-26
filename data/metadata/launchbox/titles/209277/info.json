@@ -1,58 +1,58 @@
 {
-  "Name": "Constant C",
-  "DatabaseID": "209277",
-  "ReleaseDate": "2014-03-12T00:00:00+00:00",
-  "Overview": "In the year 1905, Albert Einstein published the theory of special relativity, suggesting that nothing can move faster than the speed of light, what if any mortal could break that constant? Stretch beyond that limits? Would human finally find a way to cheat death and wins over immortality? Or is it Chaos that follows the manipulation of time and gravity? Constant C is a 2D Puzzle Platformer with two core gameplay mechanics, Gravity Shifting and the Time Field, using these two mechanics to control the game's various objects momentum to complete each level. Dive into the world of Constant C, where rules of fundamental physics could no longer apply. In a space station away from Earth, mysterious event has triggered the distortion of time. Journey through the game as a lone robot, who step by step uncovering the truth behind the incident, and to find the purpose of his own creation.",
-  "CommunityRating": "3",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Platform; Puzzle",
-  "Developer": "International Game System",
-  "Publisher": "MAGES.",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_a0ef9f32-9de0-4011-94a6-01d086ceef9c.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2312829884",
-        "URL": "http://images.launchbox-app.com/r2_a0ef9f32-9de0-4011-94a6-01d086ceef9c.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_6d6ebe3e-98b4-4224-9ff2-5f6baa950af8.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "51498655",
+        "FileName": "r2_6d6ebe3e-98b4-4224-9ff2-5f6baa950af8.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_6d6ebe3e-98b4-4224-9ff2-5f6baa950af8.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2312829884",
+        "FileName": "r2_a0ef9f32-9de0-4011-94a6-01d086ceef9c.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_a0ef9f32-9de0-4011-94a6-01d086ceef9c.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c7101b58-36e7-44f0-aa31-2ded8a55fbd3.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "3912647925",
+          "FileName": "c7101b58-36e7-44f0-aa31-2ded8a55fbd3.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c7101b58-36e7-44f0-aa31-2ded8a55fbd3.jpg"
         },
         {
-          "FileName": "r2_84d141e7-1760-4dcd-9001-460179543c16.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2758469543",
+          "FileName": "r2_84d141e7-1760-4dcd-9001-460179543c16.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_84d141e7-1760-4dcd-9001-460179543c16.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_adba5232-7c4e-44e6-a688-fb898bbef967.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1913797824",
+        "FileName": "r2_adba5232-7c4e-44e6-a688-fb898bbef967.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_adba5232-7c4e-44e6-a688-fb898bbef967.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "209277",
+  "Developer": "International Game System",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Platform; Puzzle",
+  "Name": "Constant C",
+  "Overview": "In the year 1905, Albert Einstein published the theory of special relativity, suggesting that nothing can move faster than the speed of light, what if any mortal could break that constant? Stretch beyond that limits? Would human finally find a way to cheat death and wins over immortality? Or is it Chaos that follows the manipulation of time and gravity? Constant C is a 2D Puzzle Platformer with two core gameplay mechanics, Gravity Shifting and the Time Field, using these two mechanics to control the game's various objects momentum to complete each level. Dive into the world of Constant C, where rules of fundamental physics could no longer apply. In a space station away from Earth, mysterious event has triggered the distortion of time. Journey through the game as a lone robot, who step by step uncovering the truth behind the incident, and to find the purpose of his own creation.",
+  "Publisher": "MAGES.",
+  "ReleaseDate": "2014-03-12T00:00:00+00:00"
 }

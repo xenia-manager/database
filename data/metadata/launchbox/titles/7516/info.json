@@ -1,92 +1,92 @@
 {
-  "Name": "LEGO Star Wars II: The Original Trilogy",
-  "DatabaseID": "7516",
-  "ReleaseDate": "2006-09-12T00:00:00+00:00",
-  "Overview": "LEGO Star Wars II is based on A New Hope, The Empire Strikes Back and Return of the Jedi. The game comically retells the trilogy's events using cut scenes without dialogue.\n\nThe player assumes the roles of the films' characters, each of which possess specific weapons and abilities. At any time, a second player can join the game by activating a second controller.",
-  "VideoURL": "https://www.youtube.com/watch?v=XRZTJ35w9Sw",
-  "CommunityRating": "4.14285714285714",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Star_Wars_II:_The_Original_Trilogy",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action; Adventure",
-  "Developer": "Traveller's Tales",
-  "Publisher": "LucasArts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "c87ec71e-6298-4cb9-9b56-1450b4057ac0.jpg",
-        "Type": "Banner",
-        "Region": "North America",
-        "CRC32": "4018990759",
-        "URL": "http://images.launchbox-app.com/c87ec71e-6298-4cb9-9b56-1450b4057ac0.jpg"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "472707243",
         "FileName": "a8d4aba6-45f6-4075-a858-9cac9b6f4b21.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "472707243",
         "URL": "http://images.launchbox-app.com/a8d4aba6-45f6-4075-a858-9cac9b6f4b21.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4018990759",
+        "FileName": "c87ec71e-6298-4cb9-9b56-1450b4057ac0.jpg",
+        "Region": "North America",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/c87ec71e-6298-4cb9-9b56-1450b4057ac0.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "5451fc3c-09f8-4ef4-a5ea-46bfa5000ba2.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "467099451",
+          "FileName": "5451fc3c-09f8-4ef4-a5ea-46bfa5000ba2.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/5451fc3c-09f8-4ef4-a5ea-46bfa5000ba2.png"
         }
       ],
       "Back": [
         {
-          "FileName": "92c4f621-6ed8-41e7-b22e-f98e1deaa3c4.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1790748369",
+          "FileName": "92c4f621-6ed8-41e7-b22e-f98e1deaa3c4.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/92c4f621-6ed8-41e7-b22e-f98e1deaa3c4.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_8b83191c-6b35-4a60-9c12-8a3e8510b2a2.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2210749263",
+          "FileName": "r2_8b83191c-6b35-4a60-9c12-8a3e8510b2a2.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_8b83191c-6b35-4a60-9c12-8a3e8510b2a2.jpg"
         },
         {
-          "FileName": "56e6be02-799d-4b83-aab5-27ec0ea86a55.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1546441667",
+          "FileName": "56e6be02-799d-4b83-aab5-27ec0ea86a55.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/56e6be02-799d-4b83-aab5-27ec0ea86a55.jpg"
         },
         {
-          "FileName": "b68d8307-1b24-4ceb-b558-25d02dc770ae.png",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1956917338",
+          "FileName": "b68d8307-1b24-4ceb-b558-25d02dc770ae.png",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b68d8307-1b24-4ceb-b558-25d02dc770ae.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "9238ca28-2886-45b5-93e4-cdec7a4d461c.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "282485602",
+        "FileName": "9238ca28-2886-45b5-93e4-cdec7a4d461c.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/9238ca28-2886-45b5-93e4-cdec7a4d461c.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1798325595",
         "FileName": "8928e824-d68d-4afa-814c-2eded4cdf996.png",
         "Type": "Clear Logo",
-        "CRC32": "1798325595",
         "URL": "http://images.launchbox-app.com/8928e824-d68d-4afa-814c-2eded4cdf996.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.14285714285714",
+  "DatabaseID": "7516",
+  "Developer": "Traveller's Tales",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action; Adventure",
+  "Name": "LEGO Star Wars II: The Original Trilogy",
+  "Overview": "LEGO Star Wars II is based on A New Hope, The Empire Strikes Back and Return of the Jedi. The game comically retells the trilogy's events using cut scenes without dialogue.\n\nThe player assumes the roles of the films' characters, each of which possess specific weapons and abilities. At any time, a second player can join the game by activating a second controller.",
+  "Publisher": "LucasArts",
+  "ReleaseDate": "2006-09-12T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=XRZTJ35w9Sw",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Star_Wars_II:_The_Original_Trilogy"
 }

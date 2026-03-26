@@ -1,52 +1,52 @@
 {
-  "Name": "Guacamelee! Super Turbo Championship Edition",
-  "DatabaseID": "209392",
-  "ReleaseDate": "2014-07-02T00:00:00+00:00",
-  "Overview": "Dive into the world of Guacamelee! with the Super Turbo Championship Edition (STCE) - complete with expanded abilities, additional levels, deeper story-line and enhanced graphics. Guacamelee! builds upon the style of classic 2D open-world action-platformers by adding a strong melee combat component, a new dimension switching mechanic, and cooperative same-screen multiplayer for the entire story. The game also blurs the boundaries between combat and platforming by making many of the moves useful and necessary for both of these. Travel through a mystical and mysterious Mexican world as a Luchador using the power of your two fists to battle Carlos Calaca’s army of evil. Uncover hidden wrestling techniques like the Rooster Uppercut, and Dimension Swap to open new areas and secrets. But beware, for the Hero's journey is a treacherous one, and saving the world is not a task for the faint of heart...",
-  "CommunityRating": "4.08333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Guacamelee!",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Fighting; Platform",
-  "Developer": "Drinkbox Studios",
-  "Publisher": "Activision",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_022a3f84-df24-4122-aac8-9c78d1cff5cc.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1486560721",
-        "URL": "http://images.launchbox-app.com/r2_022a3f84-df24-4122-aac8-9c78d1cff5cc.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_7f98c649-4d9b-4387-b478-1e8ddbd3b926.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "944446554",
+        "FileName": "r2_7f98c649-4d9b-4387-b478-1e8ddbd3b926.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_7f98c649-4d9b-4387-b478-1e8ddbd3b926.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1486560721",
+        "FileName": "r2_022a3f84-df24-4122-aac8-9c78d1cff5cc.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_022a3f84-df24-4122-aac8-9c78d1cff5cc.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "d30fe4f6-0c66-4d3b-a897-42e3369d988f.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2809576201",
+          "FileName": "d30fe4f6-0c66-4d3b-a897-42e3369d988f.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d30fe4f6-0c66-4d3b-a897-42e3369d988f.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_5f663b9a-f3dd-44b5-87ed-93a2892557f2.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2976695739",
+        "FileName": "r2_5f663b9a-f3dd-44b5-87ed-93a2892557f2.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_5f663b9a-f3dd-44b5-87ed-93a2892557f2.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.08333333333333",
+  "DatabaseID": "209392",
+  "Developer": "Drinkbox Studios",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Fighting; Platform",
+  "Name": "Guacamelee! Super Turbo Championship Edition",
+  "Overview": "Dive into the world of Guacamelee! with the Super Turbo Championship Edition (STCE) - complete with expanded abilities, additional levels, deeper story-line and enhanced graphics. Guacamelee! builds upon the style of classic 2D open-world action-platformers by adding a strong melee combat component, a new dimension switching mechanic, and cooperative same-screen multiplayer for the entire story. The game also blurs the boundaries between combat and platforming by making many of the moves useful and necessary for both of these. Travel through a mystical and mysterious Mexican world as a Luchador using the power of your two fists to battle Carlos Calaca’s army of evil. Uncover hidden wrestling techniques like the Rooster Uppercut, and Dimension Swap to open new areas and secrets. But beware, for the Hero's journey is a treacherous one, and saving the world is not a task for the faint of heart...",
+  "Publisher": "Activision",
+  "ReleaseDate": "2014-07-02T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Guacamelee!"
 }

@@ -1,153 +1,153 @@
 {
-  "Name": "Angry Birds Trilogy",
-  "DatabaseID": "12736",
-  "ReleaseDate": "2012-09-25T00:00:00+00:00",
-  "Overview": "Angry Birds Trilogy is a compilation of the first three games in the series:\n\n-  Angry Birds\n-  Angry Birds Rio\n-  Angry Birds Seasons\n\nExcept for the original Angry Birds on the PS3 as a PlayStation Mini, none of the games were previously available for the listed platforms. Exclusive to this version is the addition of 19 original levels not found in other versions as well as unlockable artwork. The visuals have been remastered with reactive backgrounds and revised lighting, support for the Kinect and Move peripherals, 3D support, new cinematics, surround sound, and achievements/trophies. The 3DS version supports streetpass. This release contains over 700 levels, but does not include any of the updates (or additional levels) released in 2012.",
-  "VideoURL": "https://www.youtube.com/watch?v=XvF7fmg9sWk",
-  "CommunityRating": "3.08823529411765",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Angry_Birds_Trilogy",
-  "ESRB": "E - Everyone",
-  "Genres": "Compilation",
-  "Developer": "Housemarque",
-  "Publisher": "Activision Publishing",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "7fb366d3-2b7a-4fc3-8c1a-b92e8b64c706.png",
-        "Type": "Banner",
-        "CRC32": "2120349725",
-        "URL": "http://images.launchbox-app.com/7fb366d3-2b7a-4fc3-8c1a-b92e8b64c706.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "d6fd172a-fd55-48b8-a8c7-0ecffb014c3e.png",
-        "Type": "Fanart - Background",
-        "CRC32": "675734132",
-        "URL": "http://images.launchbox-app.com/d6fd172a-fd55-48b8-a8c7-0ecffb014c3e.png"
-      },
-      {
+        "CRC32": "1507275927",
         "FileName": "2364a389-2610-45b2-a81f-f0b048f1683d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1507275927",
         "URL": "http://images.launchbox-app.com/2364a389-2610-45b2-a81f-f0b048f1683d.jpg"
+      },
+      {
+        "CRC32": "675734132",
+        "FileName": "d6fd172a-fd55-48b8-a8c7-0ecffb014c3e.png",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/d6fd172a-fd55-48b8-a8c7-0ecffb014c3e.png"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2120349725",
+        "FileName": "7fb366d3-2b7a-4fc3-8c1a-b92e8b64c706.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/7fb366d3-2b7a-4fc3-8c1a-b92e8b64c706.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "c0ebb50d-571d-4a09-af6d-3cc6e174a9af.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "3808213136",
+          "FileName": "c0ebb50d-571d-4a09-af6d-3cc6e174a9af.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/c0ebb50d-571d-4a09-af6d-3cc6e174a9af.png"
         },
         {
-          "FileName": "r2_ba5ca447-58ff-4bad-996a-5ddc3e72c531.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1615707951",
+          "FileName": "r2_ba5ca447-58ff-4bad-996a-5ddc3e72c531.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_ba5ca447-58ff-4bad-996a-5ddc3e72c531.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_263085ca-68d2-4def-9f8a-e4874ce46b99.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2814148840",
+          "FileName": "r2_263085ca-68d2-4def-9f8a-e4874ce46b99.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_263085ca-68d2-4def-9f8a-e4874ce46b99.jpg"
         },
         {
-          "FileName": "83577c17-d247-463b-8c0f-4d82612656d6.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1236079987",
+          "FileName": "83577c17-d247-463b-8c0f-4d82612656d6.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/83577c17-d247-463b-8c0f-4d82612656d6.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "67f7a336-3ec7-4d05-b497-b7078e7b2331.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "1893372252",
+          "FileName": "67f7a336-3ec7-4d05-b497-b7078e7b2331.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/67f7a336-3ec7-4d05-b497-b7078e7b2331.jpg"
         },
         {
-          "FileName": "r2_bd4b09a6-68c7-4cd3-a47f-1089dbd9e8fc.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2551776713",
+          "FileName": "r2_bd4b09a6-68c7-4cd3-a47f-1089dbd9e8fc.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_bd4b09a6-68c7-4cd3-a47f-1089dbd9e8fc.jpg"
         },
         {
-          "FileName": "4c21a365-c868-41b7-9d44-1bf9a8b1052e.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "291730013",
+          "FileName": "4c21a365-c868-41b7-9d44-1bf9a8b1052e.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4c21a365-c868-41b7-9d44-1bf9a8b1052e.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "706cccbf-f1d2-45e6-adde-e759a73feabb.jpg",
-          "Type": "Box - Spine",
+          "CRC32": "1322803590",
+          "FileName": "0a80dc64-2a61-4eb3-849a-6fa5170f47f1.jpg",
           "Region": "North America",
-          "CRC32": "3994908328",
-          "URL": "http://images.launchbox-app.com/706cccbf-f1d2-45e6-adde-e759a73feabb.jpg"
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/0a80dc64-2a61-4eb3-849a-6fa5170f47f1.jpg"
         },
         {
-          "FileName": "0a80dc64-2a61-4eb3-849a-6fa5170f47f1.jpg",
-          "Type": "Box - Spine",
+          "CRC32": "3994908328",
+          "FileName": "706cccbf-f1d2-45e6-adde-e759a73feabb.jpg",
           "Region": "North America",
-          "CRC32": "1322803590",
-          "URL": "http://images.launchbox-app.com/0a80dc64-2a61-4eb3-849a-6fa5170f47f1.jpg"
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/706cccbf-f1d2-45e6-adde-e759a73feabb.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "ce5f4c4a-8f7f-4d93-955e-e07e1553655f.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2325845932",
+        "FileName": "ce5f4c4a-8f7f-4d93-955e-e07e1553655f.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/ce5f4c4a-8f7f-4d93-955e-e07e1553655f.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "2863fe70-233a-41c4-969b-c84c47015aed.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2703909651",
-        "URL": "http://images.launchbox-app.com/2863fe70-233a-41c4-969b-c84c47015aed.jpg"
-      },
-      {
-        "FileName": "630cb5f8-028d-49ef-8433-ae728c8adfce.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2769565301",
-        "URL": "http://images.launchbox-app.com/630cb5f8-028d-49ef-8433-ae728c8adfce.jpg"
-      },
-      {
-        "FileName": "2b88791f-9d4b-4d64-b826-83a3b3e207af.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2514138746",
-        "URL": "http://images.launchbox-app.com/2b88791f-9d4b-4d64-b826-83a3b3e207af.jpg"
-      },
-      {
-        "FileName": "214b763d-f3b8-402d-b1a2-4cd9cb063ee9.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "728322229",
-        "URL": "http://images.launchbox-app.com/214b763d-f3b8-402d-b1a2-4cd9cb063ee9.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "514005425",
         "FileName": "306dd0d0-cfa6-4ea0-9ebe-e3cfe01107dd.png",
         "Type": "Clear Logo",
-        "CRC32": "514005425",
         "URL": "http://images.launchbox-app.com/306dd0d0-cfa6-4ea0-9ebe-e3cfe01107dd.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2703909651",
+        "FileName": "2863fe70-233a-41c4-969b-c84c47015aed.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/2863fe70-233a-41c4-969b-c84c47015aed.jpg"
+      },
+      {
+        "CRC32": "728322229",
+        "FileName": "214b763d-f3b8-402d-b1a2-4cd9cb063ee9.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/214b763d-f3b8-402d-b1a2-4cd9cb063ee9.jpg"
+      },
+      {
+        "CRC32": "2514138746",
+        "FileName": "2b88791f-9d4b-4d64-b826-83a3b3e207af.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/2b88791f-9d4b-4d64-b826-83a3b3e207af.jpg"
+      },
+      {
+        "CRC32": "2769565301",
+        "FileName": "630cb5f8-028d-49ef-8433-ae728c8adfce.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/630cb5f8-028d-49ef-8433-ae728c8adfce.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.28947368421053",
+  "DatabaseID": "12736",
+  "Developer": "Housemarque",
+  "ESRB": "E - Everyone",
+  "Genres": "Compilation",
+  "Name": "Angry Birds Trilogy",
+  "Overview": "Angry Birds Trilogy is a compilation of the first three games in the series:\n\n-  Angry Birds\n-  Angry Birds Rio\n-  Angry Birds Seasons\n\nExcept for the original Angry Birds on the PS3 as a PlayStation Mini, none of the games were previously available for the listed platforms. Exclusive to this version is the addition of 19 original levels not found in other versions as well as unlockable artwork. The visuals have been remastered with reactive backgrounds and revised lighting, support for the Kinect and Move peripherals, 3D support, new cinematics, surround sound, and achievements/trophies. The 3DS version supports streetpass. This release contains over 700 levels, but does not include any of the updates (or additional levels) released in 2012.",
+  "Publisher": "Activision Publishing",
+  "ReleaseDate": "2012-09-25T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=XvF7fmg9sWk",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Angry_Birds_Trilogy"
 }

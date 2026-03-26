@@ -1,112 +1,112 @@
 {
-  "Name": "Earth Defense Force 2025",
-  "DatabaseID": "19150",
-  "ReleaseDate": "2013-07-04T00:00:00+00:00",
-  "Overview": "The long awaited sequel that hardcore shooter fans demanded, Earth Defense Force®2025 is an action shooting bonanza that arms players to repel the most terrifying invasion of giant aliens and ravagers the world has ever seen. Equip hundreds of weapons across four character classes; exterminate menacing creatures of all sizes, and save the world!\n\nEight years since the defeat of the alien invasion and the destruction of the Mothership, civilization recovered most of the prosperity it once had. But a new catastrophe falls upon Earth once again. In 2025 a new state of emergency arises as giant aliens and insects are discovered deep underground. The Ravagers have evolved, and are stronger than ever. The Earth Defense Force must now stand up to these terrifying creatures to save humanity once more!",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Earth_Defense_Force_2025",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Sandlot",
-  "Publisher": "D3Publisher of America",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_6a7f294d-e5b4-4b5d-bbf3-148563cb19a3.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "4069560634",
-        "URL": "http://images.launchbox-app.com/r2_6a7f294d-e5b4-4b5d-bbf3-148563cb19a3.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3482588246",
         "FileName": "ce480b8d-e617-436d-92b2-d5ee12624dc1.png",
         "Type": "Fanart - Background",
-        "CRC32": "3482588246",
         "URL": "http://images.launchbox-app.com/ce480b8d-e617-436d-92b2-d5ee12624dc1.png"
       },
       {
-        "FileName": "r2_207d30ad-ba5b-4c26-b66c-30d7d408dad5.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3049583267",
+        "FileName": "r2_207d30ad-ba5b-4c26-b66c-30d7d408dad5.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_207d30ad-ba5b-4c26-b66c-30d7d408dad5.jpg"
       },
       {
-        "FileName": "r2_29d62084-32bb-4418-a970-e3f2a31934d0.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1013919644",
+        "FileName": "r2_29d62084-32bb-4418-a970-e3f2a31934d0.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_29d62084-32bb-4418-a970-e3f2a31934d0.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4069560634",
+        "FileName": "r2_6a7f294d-e5b4-4b5d-bbf3-148563cb19a3.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_6a7f294d-e5b4-4b5d-bbf3-148563cb19a3.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_9ab1dd4b-5edb-4621-96f6-bf40436bcef3.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "673282450",
+          "FileName": "r2_9ab1dd4b-5edb-4621-96f6-bf40436bcef3.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_9ab1dd4b-5edb-4621-96f6-bf40436bcef3.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_b769a592-8f81-4868-b7ce-9ad00b272fe6.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2490460278",
+          "FileName": "r2_b769a592-8f81-4868-b7ce-9ad00b272fe6.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_b769a592-8f81-4868-b7ce-9ad00b272fe6.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_15e26e1c-0e3d-4e92-91ba-5dbb3ec40573.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "394376718",
+          "FileName": "r2_15e26e1c-0e3d-4e92-91ba-5dbb3ec40573.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_15e26e1c-0e3d-4e92-91ba-5dbb3ec40573.jpg"
         },
         {
-          "FileName": "r2_a7761c3d-2a93-4799-a48c-9f3c6f665eb8.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "1048364584",
+          "FileName": "r2_a7761c3d-2a93-4799-a48c-9f3c6f665eb8.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a7761c3d-2a93-4799-a48c-9f3c6f665eb8.jpg"
         },
         {
-          "FileName": "293bbfd0-35cd-45df-beca-259ea4c82812.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3226319158",
+          "FileName": "293bbfd0-35cd-45df-beca-259ea4c82812.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/293bbfd0-35cd-45df-beca-259ea4c82812.jpg"
         },
         {
-          "FileName": "r2_fd7c3ed1-6abf-490f-a4d6-94fbdd5f5570.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2774764767",
+          "FileName": "r2_fd7c3ed1-6abf-490f-a4d6-94fbdd5f5570.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_fd7c3ed1-6abf-490f-a4d6-94fbdd5f5570.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_5cae6d0f-5df5-4acb-81dd-70fff24243c4.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2156370694",
+        "FileName": "r2_5cae6d0f-5df5-4acb-81dd-70fff24243c4.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_5cae6d0f-5df5-4acb-81dd-70fff24243c4.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "4070549091",
         "FileName": "cc21aa7a-a260-4d8b-b575-f5ca79f06246.png",
         "Type": "Clear Logo",
-        "CRC32": "4070549091",
         "URL": "http://images.launchbox-app.com/cc21aa7a-a260-4d8b-b575-f5ca79f06246.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "19150",
+  "Developer": "Sandlot",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Earth Defense Force 2025",
+  "Overview": "The long awaited sequel that hardcore shooter fans demanded, Earth Defense Force®2025 is an action shooting bonanza that arms players to repel the most terrifying invasion of giant aliens and ravagers the world has ever seen. Equip hundreds of weapons across four character classes; exterminate menacing creatures of all sizes, and save the world!\n\nEight years since the defeat of the alien invasion and the destruction of the Mothership, civilization recovered most of the prosperity it once had. But a new catastrophe falls upon Earth once again. In 2025 a new state of emergency arises as giant aliens and insects are discovered deep underground. The Ravagers have evolved, and are stronger than ever. The Earth Defense Force must now stand up to these terrifying creatures to save humanity once more!",
+  "Publisher": "D3Publisher of America",
+  "ReleaseDate": "2013-07-04T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Earth_Defense_Force_2025"
 }

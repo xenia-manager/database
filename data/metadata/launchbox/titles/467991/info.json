@@ -1,45 +1,45 @@
 {
-  "Name": "BattleWorms",
-  "DatabaseID": "467991",
-  "ReleaseDate": "2010-05-05T00:00:00+00:00",
-  "Overview": "Battleships? Phaw! Instead of trying to sink your opponent's ships, try to squish his or her worms? A fun twist on this classic board game. Squish all the worms in your opponent's garden before he can squish all of yours. Happy stomping!",
-  "Genres": "Board Game",
-  "Developer": "fr0man",
-  "Publisher": "fr0man",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "d65e5fdf-d433-4f3a-8823-a4ed2deae02d.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4218999165",
+          "FileName": "d65e5fdf-d433-4f3a-8823-a4ed2deae02d.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d65e5fdf-d433-4f3a-8823-a4ed2deae02d.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "22200e16-0a38-4df9-88ba-4f05fb80b7d0.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "2154451115",
+        "FileName": "22200e16-0a38-4df9-88ba-4f05fb80b7d0.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/22200e16-0a38-4df9-88ba-4f05fb80b7d0.jpg"
       },
       {
-        "FileName": "8a5c23c4-08dd-490e-9c65-9af2daef566d.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2970395740",
+        "FileName": "44333ef1-5716-4fa0-afe4-f38e67012de8.jpg",
         "Region": "World",
-        "CRC32": "2233595522",
-        "URL": "http://images.launchbox-app.com/8a5c23c4-08dd-490e-9c65-9af2daef566d.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/44333ef1-5716-4fa0-afe4-f38e67012de8.jpg"
       },
       {
-        "FileName": "44333ef1-5716-4fa0-afe4-f38e67012de8.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2233595522",
+        "FileName": "8a5c23c4-08dd-490e-9c65-9af2daef566d.jpg",
         "Region": "World",
-        "CRC32": "2970395740",
-        "URL": "http://images.launchbox-app.com/44333ef1-5716-4fa0-afe4-f38e67012de8.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8a5c23c4-08dd-490e-9c65-9af2daef566d.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467991",
+  "Developer": "fr0man",
+  "Genres": "Board Game",
+  "Name": "BattleWorms",
+  "Overview": "Battleships? Phaw! Instead of trying to sink your opponent's ships, try to squish his or her worms? A fun twist on this classic board game. Squish all the worms in your opponent's garden before he can squish all of yours. Happy stomping!",
+  "Publisher": "fr0man",
+  "ReleaseDate": "2010-05-05T00:00:00+00:00"
 }

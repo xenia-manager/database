@@ -1,97 +1,97 @@
 {
-  "Name": "Defiance",
-  "DatabaseID": "15423",
-  "ReleaseDate": "2013-04-02T00:00:00+00:00",
-  "Overview": "Defiance is a science fiction-themed persistent world massively multiplayer online third-person shooter developed by Trion Worlds. Defiance takes place on a terraformed Earth several decades into the future. It is a tie-in to the Syfy show of the same name. The game was released in April 2013 for Microsoft Windows, PlayStation 3 and Xbox 360. It was also released on Steam. The game went free-to-play on June 4, 2014 for PC, August 14, 2014 for PS3 and November 18, 2014 for Xbox 360.",
-  "VideoURL": "https://www.youtube.com/watch?v=Jfi3SRjC0hs",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Defiance_(video_game)",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Trion Worlds",
-  "Publisher": "Trion Worlds",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "b6c85e03-9d5e-49f0-9c7b-99bf6b5daf0c.png",
-        "Type": "Banner",
-        "CRC32": "644926165",
-        "URL": "http://images.launchbox-app.com/b6c85e03-9d5e-49f0-9c7b-99bf6b5daf0c.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3243895776",
         "FileName": "d48078a1-de27-4568-bfda-4ee35e4294d5.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3243895776",
         "URL": "http://images.launchbox-app.com/d48078a1-de27-4568-bfda-4ee35e4294d5.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "644926165",
+        "FileName": "b6c85e03-9d5e-49f0-9c7b-99bf6b5daf0c.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/b6c85e03-9d5e-49f0-9c7b-99bf6b5daf0c.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_f61235fd-f6db-40c8-9d46-299f007df705.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3619289434",
+          "FileName": "r2_f61235fd-f6db-40c8-9d46-299f007df705.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_f61235fd-f6db-40c8-9d46-299f007df705.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_7b89c6bc-2dbc-4544-92d4-cda5ace680aa.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1527749795",
+          "FileName": "r2_7b89c6bc-2dbc-4544-92d4-cda5ace680aa.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_7b89c6bc-2dbc-4544-92d4-cda5ace680aa.jpg"
         },
         {
-          "FileName": "eeea554e-0334-4956-865b-7f9b7a5cc100.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2519810903",
+          "FileName": "eeea554e-0334-4956-865b-7f9b7a5cc100.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/eeea554e-0334-4956-865b-7f9b7a5cc100.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_349facf9-a23f-4a29-85e8-e3537bcc4b03.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "701473308",
+          "FileName": "r2_349facf9-a23f-4a29-85e8-e3537bcc4b03.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_349facf9-a23f-4a29-85e8-e3537bcc4b03.jpg"
         },
         {
-          "FileName": "0392622e-f80b-4dcf-b044-73ae4ab04272.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3959896842",
+          "FileName": "0392622e-f80b-4dcf-b044-73ae4ab04272.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0392622e-f80b-4dcf-b044-73ae4ab04272.jpg"
         },
         {
-          "FileName": "914ae65f-aee9-4101-9b07-c72ce4beebc8.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1005137430",
+          "FileName": "914ae65f-aee9-4101-9b07-c72ce4beebc8.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/914ae65f-aee9-4101-9b07-c72ce4beebc8.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_23367699-1291-470b-85a3-73d323cdf70f.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1517534562",
+        "FileName": "r2_23367699-1291-470b-85a3-73d323cdf70f.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_23367699-1291-470b-85a3-73d323cdf70f.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "4163063347",
         "FileName": "6ec84b42-8633-4fce-91d4-1bbe835bd344.png",
         "Type": "Clear Logo",
-        "CRC32": "4163063347",
         "URL": "http://images.launchbox-app.com/6ec84b42-8633-4fce-91d4-1bbe835bd344.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "15423",
+  "Developer": "Trion Worlds",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Defiance",
+  "Overview": "Defiance is a science fiction-themed persistent world massively multiplayer online third-person shooter developed by Trion Worlds. Defiance takes place on a terraformed Earth several decades into the future. It is a tie-in to the Syfy show of the same name. The game was released in April 2013 for Microsoft Windows, PlayStation 3 and Xbox 360. It was also released on Steam. The game went free-to-play on June 4, 2014 for PC, August 14, 2014 for PS3 and November 18, 2014 for Xbox 360.",
+  "Publisher": "Trion Worlds",
+  "ReleaseDate": "2013-04-02T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=Jfi3SRjC0hs",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Defiance_(video_game)"
 }

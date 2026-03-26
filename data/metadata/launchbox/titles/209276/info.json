@@ -1,52 +1,52 @@
 {
-  "Name": "Commanders: Attack of the Genos",
-  "DatabaseID": "209276",
-  "ReleaseDate": "2009-12-15T00:00:00+00:00",
-  "Overview": "Deploy, Engage, Win!!! Utilize many diverse units including Tanks, Scouts, Infantry, etc. alongside your powerful Commander unit to cripple the enemy and defend your territory.",
-  "CommunityRating": "3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Commanders:_Attack_of_the_Genos",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Strategy",
-  "Developer": "SouthEnd Interactive",
-  "Publisher": "Activision",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_ce07ad52-ec0f-4187-868b-bdfea0eea414.jpg",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3870784156",
-        "URL": "http://images.launchbox-app.com/r2_ce07ad52-ec0f-4187-868b-bdfea0eea414.jpg"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_5ea08bfc-5682-47dd-9fa3-299599928d99.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3189299553",
+        "FileName": "r2_5ea08bfc-5682-47dd-9fa3-299599928d99.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_5ea08bfc-5682-47dd-9fa3-299599928d99.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3870784156",
+        "FileName": "r2_ce07ad52-ec0f-4187-868b-bdfea0eea414.jpg",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_ce07ad52-ec0f-4187-868b-bdfea0eea414.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "52c9ff58-a5e9-457c-bd8b-6c3f7e0942c6.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "1017369585",
+          "FileName": "52c9ff58-a5e9-457c-bd8b-6c3f7e0942c6.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/52c9ff58-a5e9-457c-bd8b-6c3f7e0942c6.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_1d78098d-7a1e-416c-95e1-c39e28443887.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "1198351955",
+        "FileName": "r2_1d78098d-7a1e-416c-95e1-c39e28443887.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_1d78098d-7a1e-416c-95e1-c39e28443887.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "209276",
+  "Developer": "SouthEnd Interactive",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Strategy",
+  "Name": "Commanders: Attack of the Genos",
+  "Overview": "Deploy, Engage, Win!!! Utilize many diverse units including Tanks, Scouts, Infantry, etc. alongside your powerful Commander unit to cripple the enemy and defend your territory.",
+  "Publisher": "Activision",
+  "ReleaseDate": "2009-12-15T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Commanders:_Attack_of_the_Genos"
 }

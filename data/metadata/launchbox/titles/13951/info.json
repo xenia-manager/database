@@ -1,56 +1,56 @@
 {
-  "Name": "Victorious: Time to Shine",
-  "DatabaseID": "13951",
-  "ReleaseDate": "2011-11-15T00:00:00+00:00",
-  "Overview": "In Victorious: Time to Shine for the Kinect, players create a Hollywood Arts show where they act, direct, play an air instrument, sing, dance and star in a music video featuring hit songs from the series! Collaborative play amongst friends adds to the fun with up to two players, co-op and competitive, to see how much star power they really have.",
-  "VideoURL": "https://www.youtube.com/watch?v=4bn4T1tWNbI",
-  "CommunityRating": "1",
-  "ESRB": "E - Everyone",
-  "Genres": "Action",
-  "Developer": "High Voltage Software",
-  "Publisher": "D3Publisher",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "1903528424",
           "FileName": "eac2485f-f11b-454a-bbf4-98f78df88210.png",
           "Type": "Box - 3D",
-          "CRC32": "1903528424",
           "URL": "http://images.launchbox-app.com/eac2485f-f11b-454a-bbf4-98f78df88210.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_7fa8f3b3-02e9-4bdd-90ab-d4920df9c11a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "803601690",
+          "FileName": "r2_7fa8f3b3-02e9-4bdd-90ab-d4920df9c11a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_7fa8f3b3-02e9-4bdd-90ab-d4920df9c11a.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "1211488104",
           "FileName": "1b90ce54-57c6-473d-acaa-725333a008a6.jpg",
           "Type": "Box - Front",
-          "CRC32": "1211488104",
           "URL": "http://images.launchbox-app.com/1b90ce54-57c6-473d-acaa-725333a008a6.jpg"
         },
         {
-          "FileName": "r2_965ff895-93f6-4b1d-b447-cc8c4d725356.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3126080939",
+          "FileName": "r2_965ff895-93f6-4b1d-b447-cc8c4d725356.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_965ff895-93f6-4b1d-b447-cc8c4d725356.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "720871678",
         "FileName": "42085d86-07fc-4c2f-8e0c-115e902589a3.png",
         "Type": "Clear Logo",
-        "CRC32": "720871678",
         "URL": "http://images.launchbox-app.com/42085d86-07fc-4c2f-8e0c-115e902589a3.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "1",
+  "DatabaseID": "13951",
+  "Developer": "High Voltage Software",
+  "ESRB": "E - Everyone",
+  "Genres": "Action",
+  "Name": "Victorious: Time to Shine",
+  "Overview": "In Victorious: Time to Shine for the Kinect, players create a Hollywood Arts show where they act, direct, play an air instrument, sing, dance and star in a music video featuring hit songs from the series! Collaborative play amongst friends adds to the fun with up to two players, co-op and competitive, to see how much star power they really have.",
+  "Publisher": "D3Publisher",
+  "ReleaseDate": "2011-11-15T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=4bn4T1tWNbI"
 }

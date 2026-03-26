@@ -1,120 +1,120 @@
 {
-  "Name": "Bioshock 2",
-  "DatabaseID": "10916",
-  "ReleaseDate": "2010-02-09T00:00:00+00:00",
-  "Overview": "Set approximately 10 years after the events of the original BioShock, the halls of Rapture once again echo with sins of the past. Along the Atlantic coastline, a monster has been snatching little girls and bringing them back to the undersea city of Rapture. Players step into the boots of the most iconic denizen of Rapture, the Big Daddy, as they travel through the decrepit and beautiful fallen city, chasing an unseen foe in search of answers and their own survival. \n\nMultiplayer in BioShock 2 will provide a rich prequel experience that expands the origins of the BioShock fiction. Set during the fall of Rapture, players assume the role of a Plasmid test subject for Sinclair Solutions, a premier provider of Plasmids and Tonics in the underwater city of Rapture that was first explored in the original BioShock. Players will need to use all the elements of the BioShock toolset to survive, as the full depth of the BioShock experience is refined and transformed into a unique multiplayer experience that can only be found in Rapture.",
-  "VideoURL": "https://www.youtube.com/watch?v=tzWTcDydlpM",
-  "CommunityRating": "4.19565217391304",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/BioShock_2",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Digital Extremes",
-  "Publisher": "2K Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_caeb58f6-070c-4666-8e30-b1b97e4145fb.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2570467801",
-        "URL": "http://images.launchbox-app.com/r2_caeb58f6-070c-4666-8e30-b1b97e4145fb.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "c72162a3-d491-40ea-9c3c-7ac3b141164b.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2862170724",
-        "URL": "http://images.launchbox-app.com/c72162a3-d491-40ea-9c3c-7ac3b141164b.jpg"
-      },
-      {
-        "FileName": "f45a82b9-c599-41db-a18e-54a0abb0f7d3.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2120806719",
-        "URL": "http://images.launchbox-app.com/f45a82b9-c599-41db-a18e-54a0abb0f7d3.jpg"
-      },
-      {
+        "CRC32": "2231904961",
         "FileName": "5f3b25fd-9708-4217-99a0-f108ce675146.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2231904961",
         "URL": "http://images.launchbox-app.com/5f3b25fd-9708-4217-99a0-f108ce675146.jpg"
       },
       {
-        "FileName": "r2_4d412aca-dd18-458f-95e6-19ac38b55e42.jpg",
+        "CRC32": "2862170724",
+        "FileName": "c72162a3-d491-40ea-9c3c-7ac3b141164b.jpg",
         "Type": "Fanart - Background",
-        "Region": "World",
+        "URL": "http://images.launchbox-app.com/c72162a3-d491-40ea-9c3c-7ac3b141164b.jpg"
+      },
+      {
+        "CRC32": "2120806719",
+        "FileName": "f45a82b9-c599-41db-a18e-54a0abb0f7d3.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/f45a82b9-c599-41db-a18e-54a0abb0f7d3.jpg"
+      },
+      {
         "CRC32": "2284733105",
+        "FileName": "r2_4d412aca-dd18-458f-95e6-19ac38b55e42.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_4d412aca-dd18-458f-95e6-19ac38b55e42.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2570467801",
+        "FileName": "r2_caeb58f6-070c-4666-8e30-b1b97e4145fb.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_caeb58f6-070c-4666-8e30-b1b97e4145fb.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "bfc9d0f3-1243-44fb-9acb-6e71987ab3a5.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1471778942",
+          "FileName": "bfc9d0f3-1243-44fb-9acb-6e71987ab3a5.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/bfc9d0f3-1243-44fb-9acb-6e71987ab3a5.png"
         }
       ],
       "Back": [
         {
-          "FileName": "62543550-c1a9-417b-a6cf-87037992012b.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "567953326",
+          "FileName": "62543550-c1a9-417b-a6cf-87037992012b.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/62543550-c1a9-417b-a6cf-87037992012b.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_edf485e5-232e-423b-9cab-2cee823c9d36.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "949337169",
+          "FileName": "r2_edf485e5-232e-423b-9cab-2cee823c9d36.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_edf485e5-232e-423b-9cab-2cee823c9d36.jpg"
         },
         {
-          "FileName": "r2_29af2f1b-5700-46b7-a42a-b823873df3bc.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1064300538",
+          "FileName": "r2_29af2f1b-5700-46b7-a42a-b823873df3bc.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_29af2f1b-5700-46b7-a42a-b823873df3bc.jpg"
         },
         {
-          "FileName": "e7587fc6-366e-4741-9ebb-ad48d6f0e879.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3751462662",
+          "FileName": "e7587fc6-366e-4741-9ebb-ad48d6f0e879.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e7587fc6-366e-4741-9ebb-ad48d6f0e879.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "11cc5edd-421c-4220-89b6-f9c146b38999.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2325684983",
+          "FileName": "11cc5edd-421c-4220-89b6-f9c146b38999.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/11cc5edd-421c-4220-89b6-f9c146b38999.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "0f90debb-b788-457a-baef-c272fe10d43b.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2655077097",
+        "FileName": "0f90debb-b788-457a-baef-c272fe10d43b.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/0f90debb-b788-457a-baef-c272fe10d43b.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "4245532178",
         "FileName": "3b884145-d161-4de3-ac02-cc68b7d24e98.png",
         "Type": "Clear Logo",
-        "CRC32": "4245532178",
         "URL": "http://images.launchbox-app.com/3b884145-d161-4de3-ac02-cc68b7d24e98.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.19565217391304",
+  "DatabaseID": "10916",
+  "Developer": "Digital Extremes",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Bioshock 2",
+  "Overview": "Set approximately 10 years after the events of the original BioShock, the halls of Rapture once again echo with sins of the past. Along the Atlantic coastline, a monster has been snatching little girls and bringing them back to the undersea city of Rapture. Players step into the boots of the most iconic denizen of Rapture, the Big Daddy, as they travel through the decrepit and beautiful fallen city, chasing an unseen foe in search of answers and their own survival. \n\nMultiplayer in BioShock 2 will provide a rich prequel experience that expands the origins of the BioShock fiction. Set during the fall of Rapture, players assume the role of a Plasmid test subject for Sinclair Solutions, a premier provider of Plasmids and Tonics in the underwater city of Rapture that was first explored in the original BioShock. Players will need to use all the elements of the BioShock toolset to survive, as the full depth of the BioShock experience is refined and transformed into a unique multiplayer experience that can only be found in Rapture.",
+  "Publisher": "2K Games",
+  "ReleaseDate": "2010-02-09T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=tzWTcDydlpM",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/BioShock_2"
 }

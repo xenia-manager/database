@@ -1,176 +1,176 @@
 {
-  "Name": "Devil May Cry HD Collection",
-  "DatabaseID": "9453",
-  "ReleaseDate": "2012-04-03T00:00:00+00:00",
-  "Overview": "The Devil May Cry HD collection brings the first three Devil May Cry titles, originally released on the PlayStation 2 platform, together in one high definition package for the first time. The games included are: Devil May Cry, Devil May Cry 2, and Devil May Cry 3: Dante's Awakening Special Edition. Devil May Cry is an Action game series that revolves around the demon hunter, Dante and his destiny shaped by revenge. Combat in the games is fast paced and stylized, featuring chain attacks utilizing a combination of melee weapons, charged gauntlets and guns, as well as demonic abilities.",
-  "VideoURL": "https://www.youtube.com/watch?v=ly7RDsugQRw",
-  "CommunityRating": "4.30769230769231",
-  "ESRB": "M - Mature",
-  "Genres": "Beat 'em Up; Compilation",
-  "Developer": "Capcom",
-  "Publisher": "Capcom",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_7be06927-91a7-49ff-8921-3f5aad27bf1d.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2703152573",
-        "URL": "http://images.launchbox-app.com/r2_7be06927-91a7-49ff-8921-3f5aad27bf1d.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3356495737",
         "FileName": "c71e9a39-c73b-49ab-9a3b-0e3e1dbd1647.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3356495737",
         "URL": "http://images.launchbox-app.com/c71e9a39-c73b-49ab-9a3b-0e3e1dbd1647.jpg"
       },
       {
-        "FileName": "r2_6ec43226-94e7-4a09-990e-338be5064db3.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "463727560",
+        "FileName": "r2_6ec43226-94e7-4a09-990e-338be5064db3.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_6ec43226-94e7-4a09-990e-338be5064db3.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2703152573",
+        "FileName": "r2_7be06927-91a7-49ff-8921-3f5aad27bf1d.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_7be06927-91a7-49ff-8921-3f5aad27bf1d.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "54302204",
           "FileName": "85685c62-13c5-4686-a24c-364af6c24f01.png",
           "Type": "Box - 3D",
-          "CRC32": "54302204",
           "URL": "http://images.launchbox-app.com/85685c62-13c5-4686-a24c-364af6c24f01.png"
         },
         {
-          "FileName": "r2_719034d4-1d2e-4451-b79b-161a709248a1.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3026293351",
+          "FileName": "r2_719034d4-1d2e-4451-b79b-161a709248a1.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_719034d4-1d2e-4451-b79b-161a709248a1.png"
         }
       ],
       "Back": [
         {
-          "FileName": "cc75432d-fb9d-427b-b1f4-b5e88f2f5b97.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "1768574845",
+          "FileName": "cc75432d-fb9d-427b-b1f4-b5e88f2f5b97.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/cc75432d-fb9d-427b-b1f4-b5e88f2f5b97.jpg"
         },
         {
-          "FileName": "r2_8c585e0e-9af6-445b-8c68-a757ceed0e17.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2666437141",
+          "FileName": "r2_8c585e0e-9af6-445b-8c68-a757ceed0e17.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_8c585e0e-9af6-445b-8c68-a757ceed0e17.jpg"
         },
         {
-          "FileName": "r2_abbf34a4-9a8f-4007-95a8-4c0b4412b100.png",
-          "Type": "Box - Back",
-          "Region": "Korea",
           "CRC32": "1873708216",
+          "FileName": "r2_abbf34a4-9a8f-4007-95a8-4c0b4412b100.png",
+          "Region": "Korea",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_abbf34a4-9a8f-4007-95a8-4c0b4412b100.png"
         },
         {
-          "FileName": "78203727-549a-49a8-9624-429bbe1f01be.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1447494789",
+          "FileName": "78203727-549a-49a8-9624-429bbe1f01be.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/78203727-549a-49a8-9624-429bbe1f01be.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "ae4bb1de-5fda-43c5-ae19-7557ec14eb60.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "2783874192",
-          "URL": "http://images.launchbox-app.com/ae4bb1de-5fda-43c5-ae19-7557ec14eb60.jpg"
-        },
-        {
-          "FileName": "b1d3c07d-7cd8-4dcc-ae93-45fabfdf4710.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "4175140136",
-          "URL": "http://images.launchbox-app.com/b1d3c07d-7cd8-4dcc-ae93-45fabfdf4710.jpg"
-        },
-        {
           "FileName": "72fdf457-e960-4835-9b6c-137d491610f1.jpg",
-          "Type": "Box - Front",
           "Region": "Europe",
-          "CRC32": "4175140136",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/72fdf457-e960-4835-9b6c-137d491610f1.jpg"
         },
         {
-          "FileName": "r2_d25dea84-714a-4319-b3ce-30c494ef7213.jpg",
+          "CRC32": "2783874192",
+          "FileName": "ae4bb1de-5fda-43c5-ae19-7557ec14eb60.jpg",
+          "Region": "Europe",
           "Type": "Box - Front",
-          "Region": "Germany",
+          "URL": "http://images.launchbox-app.com/ae4bb1de-5fda-43c5-ae19-7557ec14eb60.jpg"
+        },
+        {
+          "CRC32": "4175140136",
+          "FileName": "b1d3c07d-7cd8-4dcc-ae93-45fabfdf4710.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/b1d3c07d-7cd8-4dcc-ae93-45fabfdf4710.jpg"
+        },
+        {
           "CRC32": "801451945",
+          "FileName": "r2_d25dea84-714a-4319-b3ce-30c494ef7213.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d25dea84-714a-4319-b3ce-30c494ef7213.jpg"
         },
         {
-          "FileName": "r2_993fe28a-de4f-4ac4-ac84-3108bdb50c19.png",
-          "Type": "Box - Front",
-          "Region": "Korea",
           "CRC32": "1572114037",
+          "FileName": "r2_993fe28a-de4f-4ac4-ac84-3108bdb50c19.png",
+          "Region": "Korea",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_993fe28a-de4f-4ac4-ac84-3108bdb50c19.png"
         },
         {
-          "FileName": "60117b77-919c-4064-859c-bdbc07aed646.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2149506778",
+          "FileName": "60117b77-919c-4064-859c-bdbc07aed646.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/60117b77-919c-4064-859c-bdbc07aed646.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "4a7c88c1-50f3-4ec9-b6c9-0aa3571bf20a.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "2306379849",
+          "FileName": "4a7c88c1-50f3-4ec9-b6c9-0aa3571bf20a.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/4a7c88c1-50f3-4ec9-b6c9-0aa3571bf20a.jpg"
         },
         {
-          "FileName": "r2_e4ca16c1-c377-4867-8880-9080a7081cdc.png",
-          "Type": "Box - Spine",
-          "Region": "Korea",
           "CRC32": "1600712651",
+          "FileName": "r2_e4ca16c1-c377-4867-8880-9080a7081cdc.png",
+          "Region": "Korea",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_e4ca16c1-c377-4867-8880-9080a7081cdc.png"
         },
         {
-          "FileName": "c419013e-9539-42fc-b9e0-727d7e6f78b7.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2470788642",
+          "FileName": "c419013e-9539-42fc-b9e0-727d7e6f78b7.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/c419013e-9539-42fc-b9e0-727d7e6f78b7.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_8d0ae067-c22d-4ee2-ad90-4ed98113b02f.png",
-        "Type": "Disc",
-        "Region": "Korea",
         "CRC32": "1802040825",
+        "FileName": "r2_8d0ae067-c22d-4ee2-ad90-4ed98113b02f.png",
+        "Region": "Korea",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_8d0ae067-c22d-4ee2-ad90-4ed98113b02f.png"
       },
       {
-        "FileName": "r2_03d24b3e-73ab-46c4-a315-69e6bcc1a71b.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1317072509",
+        "FileName": "r2_03d24b3e-73ab-46c4-a315-69e6bcc1a71b.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_03d24b3e-73ab-46c4-a315-69e6bcc1a71b.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2704812287",
         "FileName": "c3a654fe-adca-45a7-83c5-1a2db8b485fd.png",
         "Type": "Clear Logo",
-        "CRC32": "2704812287",
         "URL": "http://images.launchbox-app.com/c3a654fe-adca-45a7-83c5-1a2db8b485fd.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.30769230769231",
+  "DatabaseID": "9453",
+  "Developer": "Capcom",
+  "ESRB": "M - Mature",
+  "Genres": "Beat 'em Up; Compilation",
+  "Name": "Devil May Cry HD Collection",
+  "Overview": "The Devil May Cry HD collection brings the first three Devil May Cry titles, originally released on the PlayStation 2 platform, together in one high definition package for the first time. The games included are: Devil May Cry, Devil May Cry 2, and Devil May Cry 3: Dante's Awakening Special Edition. Devil May Cry is an Action game series that revolves around the demon hunter, Dante and his destiny shaped by revenge. Combat in the games is fast paced and stylized, featuring chain attacks utilizing a combination of melee weapons, charged gauntlets and guns, as well as demonic abilities.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2012-04-03T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=ly7RDsugQRw"
 }

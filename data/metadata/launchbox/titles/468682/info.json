@@ -1,23 +1,23 @@
 {
-  "Name": "Crystaloid",
-  "DatabaseID": "468682",
-  "ReleaseDate": "2014-03-20T00:00:00+00:00",
-  "Overview": "Crystaloid is a breakout game. Clone of the famous Arkanoid.\n\nFeatures:\n\n-Over 40 Levels\n-18 Power bonus\n-Continue support",
-  "VideoURL": "https://youtu.be/5ycn2lXgE_g",
-  "Genres": "Action",
-  "Developer": "3T Games",
-  "Publisher": "3T Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "1a82b80a-7a77-4a02-b7bb-5be1a5a1c723.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3522710771",
+          "FileName": "1a82b80a-7a77-4a02-b7bb-5be1a5a1c723.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1a82b80a-7a77-4a02-b7bb-5be1a5a1c723.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468682",
+  "Developer": "3T Games",
+  "Genres": "Action",
+  "Name": "Crystaloid",
+  "Overview": "Crystaloid is a breakout game. Clone of the famous Arkanoid.\n\nFeatures:\n\n-Over 40 Levels\n-18 Power bonus\n-Continue support",
+  "Publisher": "3T Games",
+  "ReleaseDate": "2014-03-20T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/5ycn2lXgE_g"
 }

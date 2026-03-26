@@ -1,46 +1,46 @@
 {
-  "Name": "Equitunes",
-  "DatabaseID": "469203",
-  "ReleaseDate": "2009-10-25T00:00:00+00:00",
-  "Overview": "Welcome to Equitunes, a game of balance... and bombs. Your goal is to arrange the cells of a grid, so that the number of bars inside each blue cell is equal to the sum of bars placed in the red cells around it. You only have a limited amount of time to balance the grid, so think fast!",
-  "VideoURL": "https://youtu.be/_lgK75UB-m0",
-  "Genres": "Puzzle",
-  "Developer": "See Games",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "34847c16-91c2-4653-a515-e6fc8015a753.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1048004922",
+          "FileName": "34847c16-91c2-4653-a515-e6fc8015a753.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/34847c16-91c2-4653-a515-e6fc8015a753.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "39f3d76b-59fc-48ac-b808-db9679f6715b.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "354454672",
+        "FileName": "39f3d76b-59fc-48ac-b808-db9679f6715b.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/39f3d76b-59fc-48ac-b808-db9679f6715b.jpg"
       },
       {
-        "FileName": "f34d6608-0fc0-498f-9f40-0464f1d5835d.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "2783486586",
+        "FileName": "bdae8574-bf4a-4877-82c5-dde0b75557c6.jpg",
         "Region": "World",
-        "CRC32": "3966949004",
-        "URL": "http://images.launchbox-app.com/f34d6608-0fc0-498f-9f40-0464f1d5835d.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/bdae8574-bf4a-4877-82c5-dde0b75557c6.jpg"
       },
       {
-        "FileName": "bdae8574-bf4a-4877-82c5-dde0b75557c6.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "3966949004",
+        "FileName": "f34d6608-0fc0-498f-9f40-0464f1d5835d.jpg",
         "Region": "World",
-        "CRC32": "2783486586",
-        "URL": "http://images.launchbox-app.com/bdae8574-bf4a-4877-82c5-dde0b75557c6.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/f34d6608-0fc0-498f-9f40-0464f1d5835d.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469203",
+  "Developer": "See Games",
+  "Genres": "Puzzle",
+  "Name": "Equitunes",
+  "Overview": "Welcome to Equitunes, a game of balance... and bombs. Your goal is to arrange the cells of a grid, so that the number of bars inside each blue cell is equal to the sum of bars placed in the red cells around it. You only have a limited amount of time to balance the grid, so think fast!",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2009-10-25T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/_lgK75UB-m0"
 }

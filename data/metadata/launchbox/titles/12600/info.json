@@ -1,131 +1,131 @@
 {
-  "Name": "Band Hero",
-  "DatabaseID": "12600",
-  "ReleaseDate": "2009-11-03T00:00:00+00:00",
-  "Overview": "Band Hero is a spinoff video game as part of the Guitar Hero series of music rhythm games, released by Activision on November 3, 2009, for the PlayStation 2, PlayStation 3, Xbox 360, Wii and Nintendo DS consoles. The game is structurally similar to Guitar Hero 5, and supports full band play (lead and bass guitar, drums, and vocals) including the drop-in/drop-out and in-song instrument and difficulty change menus, and additional multiplayer modes as Guitar Hero 5. The console versions use instrument-shaped game controllers, while the DS version uses either the \"Guitar Grip\" introduced with the Guitar Hero: On Tour series or a new Drum Skin that comes with the game. Like previous games, virtual avatars of Taylor Swift, Adam Levine, and the band No Doubt are presented in the game.\n\nBand Hero received mixed reviews from journalists. Some considered the game to be an appropriately flavored version of Guitar Hero 5 for the \"Top 40\" pop rock hits, while others felt the game was strictly aimed at teenagers. They also contested the cost of the full game, featuring only 65 songs compared with 85 songs in Guitar Hero 5, and considered if the content would have been better in downloadable form. A day after the game's release, the band No Doubt sued Activision, citing similar misuse of their avatars as the Kurt Cobain avatar in Guitar Hero 5.",
-  "VideoURL": "http://www.youtube.com/watch?v=2h7qVwFxiNA",
-  "CommunityRating": "4.5",
-  "Genres": "Music",
-  "Developer": "Neversoft Entertainment",
-  "Publisher": "Activision Publishing",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "4785a349-e443-4c76-b42f-143e91f19f13.png",
-        "Type": "Banner",
-        "CRC32": "4160982838",
-        "URL": "http://images.launchbox-app.com/4785a349-e443-4c76-b42f-143e91f19f13.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "4020250935",
         "FileName": "6ec311da-7768-42f0-b3ef-f25e256b8ea6.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4020250935",
         "URL": "http://images.launchbox-app.com/6ec311da-7768-42f0-b3ef-f25e256b8ea6.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4160982838",
+        "FileName": "4785a349-e443-4c76-b42f-143e91f19f13.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/4785a349-e443-4c76-b42f-143e91f19f13.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "7f4353ca-86e4-4400-bdf7-cba76543b2f2.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2654107063",
+          "FileName": "7f4353ca-86e4-4400-bdf7-cba76543b2f2.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/7f4353ca-86e4-4400-bdf7-cba76543b2f2.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_2c4f1420-c465-495f-8755-93db4636e756.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2646216377",
+          "FileName": "r2_2c4f1420-c465-495f-8755-93db4636e756.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_2c4f1420-c465-495f-8755-93db4636e756.jpg"
         },
         {
-          "FileName": "bba843f4-74d1-4980-abd8-9071cab910f8.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "931160988",
+          "FileName": "bba843f4-74d1-4980-abd8-9071cab910f8.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/bba843f4-74d1-4980-abd8-9071cab910f8.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "ab200294-04d7-4eb5-b515-7a181b37e455.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "2229567552",
+          "FileName": "ab200294-04d7-4eb5-b515-7a181b37e455.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ab200294-04d7-4eb5-b515-7a181b37e455.jpg"
         },
         {
-          "FileName": "r2_0941a3e9-0aa9-4ef0-9c25-5e046719b771.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1162637633",
+          "FileName": "r2_0941a3e9-0aa9-4ef0-9c25-5e046719b771.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_0941a3e9-0aa9-4ef0-9c25-5e046719b771.jpg"
         },
         {
-          "FileName": "5f8b5862-e2b5-4e81-b398-267ddde63354.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3418758770",
+          "FileName": "5f8b5862-e2b5-4e81-b398-267ddde63354.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5f8b5862-e2b5-4e81-b398-267ddde63354.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "d82fbb41-8987-44dd-b916-5ed5cbeb9101.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "298874522",
+          "FileName": "d82fbb41-8987-44dd-b916-5ed5cbeb9101.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/d82fbb41-8987-44dd-b916-5ed5cbeb9101.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "673f2c06-c8ed-45c8-9ef1-735ea0993725.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2855785919",
+        "FileName": "673f2c06-c8ed-45c8-9ef1-735ea0993725.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/673f2c06-c8ed-45c8-9ef1-735ea0993725.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "c0c73675-bfb0-48ad-92e8-e691011cb46b.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1675168937",
-        "URL": "http://images.launchbox-app.com/c0c73675-bfb0-48ad-92e8-e691011cb46b.jpg"
-      },
-      {
-        "FileName": "30bab6fe-b9b7-47a2-adcc-b24a4d722283.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1077478550",
-        "URL": "http://images.launchbox-app.com/30bab6fe-b9b7-47a2-adcc-b24a4d722283.jpg"
-      },
-      {
-        "FileName": "7bf3c12a-73ef-4b81-b90e-fa541b952842.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3637034358",
-        "URL": "http://images.launchbox-app.com/7bf3c12a-73ef-4b81-b90e-fa541b952842.jpg"
-      },
-      {
-        "FileName": "55e4cf38-b078-405c-8e81-b4a904f18ce4.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2668189930",
-        "URL": "http://images.launchbox-app.com/55e4cf38-b078-405c-8e81-b4a904f18ce4.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "1265094745",
         "FileName": "6321e1a6-83d2-4af6-9d70-d87b85f6549e.png",
         "Type": "Clear Logo",
-        "CRC32": "1265094745",
         "URL": "http://images.launchbox-app.com/6321e1a6-83d2-4af6-9d70-d87b85f6549e.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1077478550",
+        "FileName": "30bab6fe-b9b7-47a2-adcc-b24a4d722283.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/30bab6fe-b9b7-47a2-adcc-b24a4d722283.jpg"
+      },
+      {
+        "CRC32": "2668189930",
+        "FileName": "55e4cf38-b078-405c-8e81-b4a904f18ce4.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/55e4cf38-b078-405c-8e81-b4a904f18ce4.jpg"
+      },
+      {
+        "CRC32": "3637034358",
+        "FileName": "7bf3c12a-73ef-4b81-b90e-fa541b952842.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7bf3c12a-73ef-4b81-b90e-fa541b952842.jpg"
+      },
+      {
+        "CRC32": "1675168937",
+        "FileName": "c0c73675-bfb0-48ad-92e8-e691011cb46b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/c0c73675-bfb0-48ad-92e8-e691011cb46b.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "12600",
+  "Developer": "Neversoft Entertainment",
+  "Genres": "Music",
+  "Name": "Band Hero",
+  "Overview": "Band Hero is a spinoff video game as part of the Guitar Hero series of music rhythm games, released by Activision on November 3, 2009, for the PlayStation 2, PlayStation 3, Xbox 360, Wii and Nintendo DS consoles. The game is structurally similar to Guitar Hero 5, and supports full band play (lead and bass guitar, drums, and vocals) including the drop-in/drop-out and in-song instrument and difficulty change menus, and additional multiplayer modes as Guitar Hero 5. The console versions use instrument-shaped game controllers, while the DS version uses either the \"Guitar Grip\" introduced with the Guitar Hero: On Tour series or a new Drum Skin that comes with the game. Like previous games, virtual avatars of Taylor Swift, Adam Levine, and the band No Doubt are presented in the game.\n\nBand Hero received mixed reviews from journalists. Some considered the game to be an appropriately flavored version of Guitar Hero 5 for the \"Top 40\" pop rock hits, while others felt the game was strictly aimed at teenagers. They also contested the cost of the full game, featuring only 65 songs compared with 85 songs in Guitar Hero 5, and considered if the content would have been better in downloadable form. A day after the game's release, the band No Doubt sued Activision, citing similar misuse of their avatars as the Kurt Cobain avatar in Guitar Hero 5.",
+  "Publisher": "Activision Publishing",
+  "ReleaseDate": "2009-11-03T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=2h7qVwFxiNA"
 }

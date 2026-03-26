@@ -1,33 +1,33 @@
 {
-  "Name": "Phantasy Star II",
-  "DatabaseID": "187362",
-  "ReleaseDate": "2009-06-10T00:00:00+00:00",
-  "Overview": "Hailed as one of the greatest games of all time by fans and media alike, the role-playing game Phantasy Star II features an epic storyline and turn-based battles. Play as Rolf, Nei, Rudo, or several other characters as you navigate through the Algol Star System battling the evil Dark Force. Build your characters, select the right weapons and armor, and battle the forces of evil through various missions as you find the right combination of characters to complete each objective. Experience the magic once again in this great sequel!",
-  "CommunityRating": "3.58333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Phantasy_Star_II",
-  "ESRB": "E - Everyone",
-  "Genres": "Role-Playing",
-  "Developer": "Backbone Entertainment",
-  "Publisher": "Sega",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "346341299",
         "FileName": "c98ec7e9-56d8-4164-a67b-1e0fcd8b00fb.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "346341299",
         "URL": "http://images.launchbox-app.com/c98ec7e9-56d8-4164-a67b-1e0fcd8b00fb.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "4d99979e-681a-49d1-9eb6-4cec9243c6a4.png",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4008021982",
+          "FileName": "4d99979e-681a-49d1-9eb6-4cec9243c6a4.png",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4d99979e-681a-49d1-9eb6-4cec9243c6a4.png"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "3.58333333333333",
+  "DatabaseID": "187362",
+  "Developer": "Backbone Entertainment",
+  "ESRB": "E - Everyone",
+  "Genres": "Role-Playing",
+  "Name": "Phantasy Star II",
+  "Overview": "Hailed as one of the greatest games of all time by fans and media alike, the role-playing game Phantasy Star II features an epic storyline and turn-based battles. Play as Rolf, Nei, Rudo, or several other characters as you navigate through the Algol Star System battling the evil Dark Force. Build your characters, select the right weapons and armor, and battle the forces of evil through various missions as you find the right combination of characters to complete each objective. Experience the magic once again in this great sequel!",
+  "Publisher": "Sega",
+  "ReleaseDate": "2009-06-10T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Phantasy_Star_II"
 }

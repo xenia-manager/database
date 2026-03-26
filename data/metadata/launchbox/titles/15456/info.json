@@ -1,51 +1,51 @@
 {
-  "Name": "Droplitz",
-  "DatabaseID": "15456",
-  "ReleaseDate": "2009-06-24T00:00:00+00:00",
-  "Overview": "Droplitz is a puzzle video game developed by Blitz Arcade and published by Atlus USA. It was released for Xbox Live Arcade, PlayStation Network, Microsoft Windows and iOS in June 2009. A sequel called Droplitz Delight was released for Windows Phone in May 2012.\n\nReception\nThe PC and PlayStation 3 versions received \"generally favorable reviews\", while the Xbox 360 version received above-average reviews, according to the review aggregation website Metacritic.\n\nSince its release, the Xbox 360 version sold 6,740 units worldwide by January 2011. Sales moved up to 10,341 units by the end of 2011.\n\nDispute\nThere is an ongoing dispute as to who originally came up with the original game concept for Droplitz as an individual provided evidence that they came up with a similar game concept over one year before the release of Droplitz and attempted to pitch it to the same game studio, Blitz Games Studios, which would then go on to produce the Droplitz game.",
-  "CommunityRating": "2.83333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Droplitz",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "Blitz Arcade",
-  "Publisher": "Atlus",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_bbbf123c-0ac1-4046-b8b2-8d631b60e2d5.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1679389603",
-        "URL": "http://images.launchbox-app.com/r2_bbbf123c-0ac1-4046-b8b2-8d631b60e2d5.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_47663ff3-fbcd-4e98-b7e6-68e1f9c3bfe2.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1289682863",
+        "FileName": "r2_47663ff3-fbcd-4e98-b7e6-68e1f9c3bfe2.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_47663ff3-fbcd-4e98-b7e6-68e1f9c3bfe2.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1679389603",
+        "FileName": "r2_bbbf123c-0ac1-4046-b8b2-8d631b60e2d5.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_bbbf123c-0ac1-4046-b8b2-8d631b60e2d5.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "286731218",
           "FileName": "8098c390-5ac5-48bc-ac94-f248a62f4ce7.jpg",
           "Type": "Box - Front",
-          "CRC32": "286731218",
           "URL": "http://images.launchbox-app.com/8098c390-5ac5-48bc-ac94-f248a62f4ce7.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_6e086ec2-c78d-4cdb-b79d-8b5bc83b6046.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "329027120",
+        "FileName": "r2_6e086ec2-c78d-4cdb-b79d-8b5bc83b6046.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_6e086ec2-c78d-4cdb-b79d-8b5bc83b6046.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.83333333333333",
+  "DatabaseID": "15456",
+  "Developer": "Blitz Arcade",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Droplitz",
+  "Overview": "Droplitz is a puzzle video game developed by Blitz Arcade and published by Atlus USA. It was released for Xbox Live Arcade, PlayStation Network, Microsoft Windows and iOS in June 2009. A sequel called Droplitz Delight was released for Windows Phone in May 2012.\n\nReception\nThe PC and PlayStation 3 versions received \"generally favorable reviews\", while the Xbox 360 version received above-average reviews, according to the review aggregation website Metacritic.\n\nSince its release, the Xbox 360 version sold 6,740 units worldwide by January 2011. Sales moved up to 10,341 units by the end of 2011.\n\nDispute\nThere is an ongoing dispute as to who originally came up with the original game concept for Droplitz as an individual provided evidence that they came up with a similar game concept over one year before the release of Droplitz and attempted to pitch it to the same game studio, Blitz Games Studios, which would then go on to produce the Droplitz game.",
+  "Publisher": "Atlus",
+  "ReleaseDate": "2009-06-24T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Droplitz"
 }

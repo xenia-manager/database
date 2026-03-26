@@ -1,119 +1,119 @@
 {
-  "Name": "Bejeweled 3",
-  "DatabaseID": "16145",
-  "ReleaseDate": "2010-12-07T00:00:00+00:00",
-  "Overview": "The biggest, brightest Bejeweled ever! Discover all-new ways to play the world's #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax.",
-  "VideoURL": "https://www.youtube.com/watch?v=McOI0_syCtA",
-  "CommunityRating": "3.77777777777778",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Bejeweled_3",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "PopCap Games",
-  "Publisher": "PopCap Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "9049d321-a07b-4869-b513-d124aeda476f.png",
-        "Type": "Banner",
-        "CRC32": "3444517236",
-        "URL": "http://images.launchbox-app.com/9049d321-a07b-4869-b513-d124aeda476f.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "fb97f54f-b2de-4442-960f-2ce2222db0e4.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "388646258",
-        "URL": "http://images.launchbox-app.com/fb97f54f-b2de-4442-960f-2ce2222db0e4.jpg"
-      },
-      {
+        "CRC32": "445411633",
         "FileName": "01b4accf-ac87-4dff-aeb2-c21c10783c07.png",
         "Type": "Fanart - Background",
-        "CRC32": "445411633",
         "URL": "http://images.launchbox-app.com/01b4accf-ac87-4dff-aeb2-c21c10783c07.png"
       },
       {
+        "CRC32": "3670266901",
         "FileName": "c866f1ab-dd10-41d4-81f9-eaf849c71819.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3670266901",
         "URL": "http://images.launchbox-app.com/c866f1ab-dd10-41d4-81f9-eaf849c71819.jpg"
+      },
+      {
+        "CRC32": "388646258",
+        "FileName": "fb97f54f-b2de-4442-960f-2ce2222db0e4.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/fb97f54f-b2de-4442-960f-2ce2222db0e4.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3444517236",
+        "FileName": "9049d321-a07b-4869-b513-d124aeda476f.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/9049d321-a07b-4869-b513-d124aeda476f.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_c8040a0f-8e35-4fcd-8a75-e9996dd53c8a.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3040599474",
+          "FileName": "r2_c8040a0f-8e35-4fcd-8a75-e9996dd53c8a.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_c8040a0f-8e35-4fcd-8a75-e9996dd53c8a.png"
         }
       ],
       "Back": [
         {
-          "FileName": "f54db3d5-d346-4c03-b173-29b6729226b6.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "2784330713",
+          "FileName": "f54db3d5-d346-4c03-b173-29b6729226b6.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/f54db3d5-d346-4c03-b173-29b6729226b6.jpg"
         },
         {
-          "FileName": "r2_8ba98b78-a753-431b-a505-cd6b50082401.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "3432473765",
+          "FileName": "r2_8ba98b78-a753-431b-a505-cd6b50082401.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_8ba98b78-a753-431b-a505-cd6b50082401.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "d1934551-c630-420f-b48a-4d9040754906.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "232884180",
+          "FileName": "d1934551-c630-420f-b48a-4d9040754906.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d1934551-c630-420f-b48a-4d9040754906.jpg"
         },
         {
-          "FileName": "r2_d1936853-59c7-4a2e-9f66-7f09fab7c86a.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1278659784",
+          "FileName": "r2_d1936853-59c7-4a2e-9f66-7f09fab7c86a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d1936853-59c7-4a2e-9f66-7f09fab7c86a.jpg"
         },
         {
-          "FileName": "24b965c2-8804-4beb-8032-a799649553ce.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "164666637",
+          "FileName": "24b965c2-8804-4beb-8032-a799649553ce.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/24b965c2-8804-4beb-8032-a799649553ce.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "619cee3c-8522-4acb-b75e-97d1fa901f4c.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "4136332681",
+          "FileName": "619cee3c-8522-4acb-b75e-97d1fa901f4c.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/619cee3c-8522-4acb-b75e-97d1fa901f4c.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "019acead-05a7-4f71-a167-b6f27c0fff1a.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "302935587",
+        "FileName": "019acead-05a7-4f71-a167-b6f27c0fff1a.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/019acead-05a7-4f71-a167-b6f27c0fff1a.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1553362732",
         "FileName": "35820170-ffa3-4797-a27d-e72df00b5090.png",
         "Type": "Clear Logo",
-        "CRC32": "1553362732",
         "URL": "http://images.launchbox-app.com/35820170-ffa3-4797-a27d-e72df00b5090.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.77777777777778",
+  "DatabaseID": "16145",
+  "Developer": "PopCap Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Bejeweled 3",
+  "Overview": "The biggest, brightest Bejeweled ever! Discover all-new ways to play the world's #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax.",
+  "Publisher": "PopCap Games",
+  "ReleaseDate": "2010-12-07T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=McOI0_syCtA",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Bejeweled_3"
 }

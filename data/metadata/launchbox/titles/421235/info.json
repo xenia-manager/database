@@ -1,48 +1,48 @@
 {
-  "Name": "The Elder Scrolls IV: Shivering Isles",
-  "DatabaseID": "421235",
-  "ReleaseDate": "2007-03-26T00:00:00+00:00",
-  "CommunityRating": "4.75",
-  "ESRB": "M - Mature",
-  "Genres": "Role-Playing",
-  "Developer": "Bethesda Game Studios",
-  "Publisher": "Bethesda Softworks",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "r2_1e61a885-8f3d-4742-8c33-672ce526ae51.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "4176680606",
+          "FileName": "r2_1e61a885-8f3d-4742-8c33-672ce526ae51.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_1e61a885-8f3d-4742-8c33-672ce526ae51.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_36c0564c-5c45-4d13-beba-b98d7e7635d4.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2862380265",
+          "FileName": "r2_36c0564c-5c45-4d13-beba-b98d7e7635d4.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_36c0564c-5c45-4d13-beba-b98d7e7635d4.jpg"
         },
         {
-          "FileName": "10dbb443-7098-4550-84b5-5010a5da924d.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2860387557",
+          "FileName": "10dbb443-7098-4550-84b5-5010a5da924d.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/10dbb443-7098-4550-84b5-5010a5da924d.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_2653ad35-adb8-47c2-b1c1-0ad1fc1fc97e.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "363418745",
+        "FileName": "r2_2653ad35-adb8-47c2-b1c1-0ad1fc1fc97e.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_2653ad35-adb8-47c2-b1c1-0ad1fc1fc97e.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.75",
+  "DatabaseID": "421235",
+  "Developer": "Bethesda Game Studios",
+  "ESRB": "M - Mature",
+  "Genres": "Role-Playing",
+  "Name": "The Elder Scrolls IV: Shivering Isles",
+  "Publisher": "Bethesda Softworks",
+  "ReleaseDate": "2007-03-26T00:00:00+00:00"
 }

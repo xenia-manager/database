@@ -1,23 +1,23 @@
 {
-  "Name": "HACOTAMA",
-  "DatabaseID": "469945",
-  "ReleaseDate": "2011-09-08T00:00:00+00:00",
-  "Overview": "A true puzzle game without an action element. \"Features\" A mysterious virtual world where you can stand on any box or ball surface. Beautiful graphics with balls that reflect, refract and concentrate light amid colorful boxes. An entirely new experience! Thinking three-dimensionally makes this a simple but profound game.",
-  "VideoURL": "https://youtu.be/W4Ssg-GA4Lc",
-  "Genres": "Puzzle",
-  "Developer": "heloli",
-  "Publisher": "YO1KOMORI",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "031c8ce3-34c8-4773-98f3-4223c19cf1b3.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1769635031",
+          "FileName": "031c8ce3-34c8-4773-98f3-4223c19cf1b3.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/031c8ce3-34c8-4773-98f3-4223c19cf1b3.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469945",
+  "Developer": "heloli",
+  "Genres": "Puzzle",
+  "Name": "HACOTAMA",
+  "Overview": "A true puzzle game without an action element. \"Features\" A mysterious virtual world where you can stand on any box or ball surface. Beautiful graphics with balls that reflect, refract and concentrate light amid colorful boxes. An entirely new experience! Thinking three-dimensionally makes this a simple but profound game.",
+  "Publisher": "YO1KOMORI",
+  "ReleaseDate": "2011-09-08T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/W4Ssg-GA4Lc"
 }

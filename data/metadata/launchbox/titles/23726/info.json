@@ -1,88 +1,88 @@
 {
-  "Name": "Espgaluda II: Black Label",
-  "DatabaseID": "23726",
-  "ReleaseDate": "2021-02-25T00:00:00+00:00",
-  "Overview": "Espgaluda II (エスプガルーダII) is a bullet hell shoot'em up originally released by Cave in the arcades in 2005 as a sequel to Espgaluda. An Xbox 360 release, titled Espgaluda II Black Label, was released in 2010 in Japan.\n\nThe Xbox 360 version features online leaderboards, redrawn HD graphics, the ability to save replays, and has the following modes: Arcade Mode, Xbox 360 Mode (identical to arcade but with HD graphics), Novice Mode, Black Label Novice Mode (Seseri is playable), Black Label (Seseri is playable), Arrange Mode, Omake Mode (unlocked after beating any mode on any settings).",
-  "CommunityRating": "3.375",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Espgaluda_II",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "Cave",
-  "Publisher": "Cave",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_306a1e6e-46a2-420b-b5ed-5fb42f10fd57.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "516510318",
-        "URL": "http://images.launchbox-app.com/r2_306a1e6e-46a2-420b-b5ed-5fb42f10fd57.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2741872686",
         "FileName": "fce5b7cc-2a04-4298-a8b4-869bc92f08f5.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2741872686",
         "URL": "http://images.launchbox-app.com/fce5b7cc-2a04-4298-a8b4-869bc92f08f5.jpg"
       },
       {
-        "FileName": "r2_70e8e502-f3c8-4d88-b16f-fc6de3733566.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1351163912",
+        "FileName": "r2_23105eab-0b61-4284-9eda-f63c7d78f2a7.jpg",
         "Region": "World",
-        "CRC32": "3652917860",
-        "URL": "http://images.launchbox-app.com/r2_70e8e502-f3c8-4d88-b16f-fc6de3733566.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_23105eab-0b61-4284-9eda-f63c7d78f2a7.jpg"
       },
       {
-        "FileName": "r2_3a2e5be1-79d5-4df5-8b0c-f54bd7cadba3.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "101735808",
+        "FileName": "r2_3a2e5be1-79d5-4df5-8b0c-f54bd7cadba3.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_3a2e5be1-79d5-4df5-8b0c-f54bd7cadba3.jpg"
       },
       {
-        "FileName": "r2_23105eab-0b61-4284-9eda-f63c7d78f2a7.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3652917860",
+        "FileName": "r2_70e8e502-f3c8-4d88-b16f-fc6de3733566.jpg",
         "Region": "World",
-        "CRC32": "1351163912",
-        "URL": "http://images.launchbox-app.com/r2_23105eab-0b61-4284-9eda-f63c7d78f2a7.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_70e8e502-f3c8-4d88-b16f-fc6de3733566.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "516510318",
+        "FileName": "r2_306a1e6e-46a2-420b-b5ed-5fb42f10fd57.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_306a1e6e-46a2-420b-b5ed-5fb42f10fd57.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "789577817",
           "FileName": "dce9102b-eaf2-48e7-a561-9da2d603f82b.png",
           "Type": "Box - 3D",
-          "CRC32": "789577817",
           "URL": "http://images.launchbox-app.com/dce9102b-eaf2-48e7-a561-9da2d603f82b.png"
         }
       ],
       "Front": [
         {
-          "FileName": "9270e846-1575-4cf5-a1bc-3d42fdae3822.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "509667833",
+          "FileName": "9270e846-1575-4cf5-a1bc-3d42fdae3822.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9270e846-1575-4cf5-a1bc-3d42fdae3822.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_79845f4a-ab27-4094-ab56-b6f5a3c0d018.png",
-        "Type": "Disc",
-        "Region": "Japan",
         "CRC32": "2666024838",
+        "FileName": "r2_79845f4a-ab27-4094-ab56-b6f5a3c0d018.png",
+        "Region": "Japan",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_79845f4a-ab27-4094-ab56-b6f5a3c0d018.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "982803414",
         "FileName": "5eb0a0c8-69f1-463d-b510-011f66715a47.png",
         "Type": "Clear Logo",
-        "CRC32": "982803414",
         "URL": "http://images.launchbox-app.com/5eb0a0c8-69f1-463d-b510-011f66715a47.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.375",
+  "DatabaseID": "23726",
+  "Developer": "Cave",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "Espgaluda II: Black Label",
+  "Overview": "Espgaluda II (エスプガルーダII) is a bullet hell shoot'em up originally released by Cave in the arcades in 2005 as a sequel to Espgaluda. An Xbox 360 release, titled Espgaluda II Black Label, was released in 2010 in Japan.\n\nThe Xbox 360 version features online leaderboards, redrawn HD graphics, the ability to save replays, and has the following modes: Arcade Mode, Xbox 360 Mode (identical to arcade but with HD graphics), Novice Mode, Black Label Novice Mode (Seseri is playable), Black Label (Seseri is playable), Arrange Mode, Omake Mode (unlocked after beating any mode on any settings).",
+  "Publisher": "Cave",
+  "ReleaseDate": "2021-02-25T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Espgaluda_II"
 }

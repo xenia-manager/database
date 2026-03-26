@@ -1,32 +1,32 @@
 {
-  "Name": "radiangames Inferno",
-  "DatabaseID": "155160",
-  "ReleaseDate": "2010-09-01T00:00:00+00:00",
-  "Overview": "Dive into the Inferno and take a journey on an intense twin-stick adventure. Explore 30 levels, collect gold, upgrade your ship, and destroy everything in your path.",
-  "VideoURL": "https://www.youtube.com/watch?v=0XLL50StdvI",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "radiangames",
-  "Publisher": "radiangames",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "583401534",
         "FileName": "39762828-bfcc-4d18-9310-f65e20a2a321.png",
         "Type": "Fanart - Background",
-        "CRC32": "583401534",
         "URL": "http://images.launchbox-app.com/39762828-bfcc-4d18-9310-f65e20a2a321.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "8f4a9668-b59b-46a7-8842-fe7b5b18ed93.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3555687558",
+          "FileName": "8f4a9668-b59b-46a7-8842-fe7b5b18ed93.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8f4a9668-b59b-46a7-8842-fe7b5b18ed93.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "155160",
+  "Developer": "radiangames",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "radiangames Inferno",
+  "Overview": "Dive into the Inferno and take a journey on an intense twin-stick adventure. Explore 30 levels, collect gold, upgrade your ship, and destroy everything in your path.",
+  "Publisher": "radiangames",
+  "ReleaseDate": "2010-09-01T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=0XLL50StdvI"
 }

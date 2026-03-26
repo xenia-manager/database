@@ -1,107 +1,107 @@
 {
-  "Name": "Dragon Ball Z: Ultimate Tenkaichi",
-  "DatabaseID": "8861",
-  "ReleaseDate": "2011-10-25T00:00:00+00:00",
-  "Overview": "Dragon Ball Z: Ultimate Tenkaichi is a game based on the manga and anime franchise Dragon Ball Z, and it is the fourth installment of the Budokai Tenkaichi series. The game is a 3D fighter that features various characters from the Dragon Ball Z franchise. Players can select from among 28 characters or create their own custom character to fight against the AI, or with another player locally or online.\n\nThe game has several modes of play. The Story mode follows the plot of the anime including several of the movies and recreates many of the series' iconic battles. Most of the battles are standard one-on-one fights, but there are some special boss fights that feature giant characters like Great Ape Vegeta and Janemba. The Hero mode is similar to the Story mode in gameplay, but it features a new story centered around the player's custom character. Finally, there is the Tournament mode in which up to 16 characters can participate in a standard single-elimination tournament.",
-  "VideoURL": "https://www.youtube.com/watch?v=bq9h_AzlJ2Q",
-  "CommunityRating": "3.3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Ultimate_Tenkaichi",
-  "ESRB": "T - Teen",
-  "Genres": "Action",
-  "Developer": "Spike",
-  "Publisher": "Namco Bandai Games America",
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "1942161588",
+        "FileName": "r2_41cb50ad-e498-435d-9869-775c19410f68.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_41cb50ad-e498-435d-9869-775c19410f68.jpg"
+      }
+    ],
     "Banner": [
       {
-        "FileName": "r2_8c4cd898-1a10-47c0-af15-08c82f3e3f8e.png",
-        "Type": "Banner",
-        "Region": "Japan",
         "CRC32": "443370450",
+        "FileName": "r2_8c4cd898-1a10-47c0-af15-08c82f3e3f8e.png",
+        "Region": "Japan",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/r2_8c4cd898-1a10-47c0-af15-08c82f3e3f8e.png"
       },
       {
-        "FileName": "r2_44bb1711-6269-4dc7-b548-745e7586dfd6.png",
-        "Type": "Banner",
-        "Region": "World",
         "CRC32": "2097965960",
-        "URL": "http://images.launchbox-app.com/r2_44bb1711-6269-4dc7-b548-745e7586dfd6.png"
-      }
-    ],
-    "Background": [
-      {
-        "FileName": "r2_41cb50ad-e498-435d-9869-775c19410f68.jpg",
-        "Type": "Fanart - Background",
+        "FileName": "r2_44bb1711-6269-4dc7-b548-745e7586dfd6.png",
         "Region": "World",
-        "CRC32": "1942161588",
-        "URL": "http://images.launchbox-app.com/r2_41cb50ad-e498-435d-9869-775c19410f68.jpg"
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_44bb1711-6269-4dc7-b548-745e7586dfd6.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "a5ebde5f-d78d-448c-84f1-015727216be2.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "3504568945",
+          "FileName": "a5ebde5f-d78d-448c-84f1-015727216be2.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/a5ebde5f-d78d-448c-84f1-015727216be2.png"
         },
         {
-          "FileName": "r2_cdffa6ad-0804-415c-9718-5702bba5e9a7.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1170552313",
+          "FileName": "r2_cdffa6ad-0804-415c-9718-5702bba5e9a7.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_cdffa6ad-0804-415c-9718-5702bba5e9a7.png"
-        }
-      ],
-      "Front": [
-        {
-          "FileName": "1422f8ec-41ef-4591-bd39-29fd7ad9c714.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "3565995573",
-          "URL": "http://images.launchbox-app.com/1422f8ec-41ef-4591-bd39-29fd7ad9c714.jpg"
-        },
-        {
-          "FileName": "b17f3d7d-690b-4ef3-a389-57fba56feeab.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "220716631",
-          "URL": "http://images.launchbox-app.com/b17f3d7d-690b-4ef3-a389-57fba56feeab.jpg"
-        },
-        {
-          "FileName": "6f0b19e0-6093-40ec-ada8-9539b2736f20.jpg",
-          "Type": "Fanart - Box - Front",
-          "Region": "North America",
-          "CRC32": "1749322555",
-          "URL": "http://images.launchbox-app.com/6f0b19e0-6093-40ec-ada8-9539b2736f20.jpg"
         }
       ],
       "Back": [
         {
-          "FileName": "a2e86b0b-99a9-46d7-b298-dd43a816d190.jpg",
-          "Type": "Fanart - Box - Back",
-          "Region": "North America",
           "CRC32": "2728448725",
+          "FileName": "a2e86b0b-99a9-46d7-b298-dd43a816d190.jpg",
+          "Region": "North America",
+          "Type": "Fanart - Box - Back",
           "URL": "http://images.launchbox-app.com/a2e86b0b-99a9-46d7-b298-dd43a816d190.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "CRC32": "3565995573",
+          "FileName": "1422f8ec-41ef-4591-bd39-29fd7ad9c714.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/1422f8ec-41ef-4591-bd39-29fd7ad9c714.jpg"
+        },
+        {
+          "CRC32": "220716631",
+          "FileName": "b17f3d7d-690b-4ef3-a389-57fba56feeab.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/b17f3d7d-690b-4ef3-a389-57fba56feeab.jpg"
+        },
+        {
+          "CRC32": "1749322555",
+          "FileName": "6f0b19e0-6093-40ec-ada8-9539b2736f20.jpg",
+          "Region": "North America",
+          "Type": "Fanart - Box - Front",
+          "URL": "http://images.launchbox-app.com/6f0b19e0-6093-40ec-ada8-9539b2736f20.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_4f4013ac-00d1-42b2-affa-fee089b8fbe3.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1269716646",
+        "FileName": "r2_4f4013ac-00d1-42b2-affa-fee089b8fbe3.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_4f4013ac-00d1-42b2-affa-fee089b8fbe3.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "4199462190",
         "FileName": "891e71fd-fa8b-4174-bd49-77016305cd2b.png",
         "Type": "Clear Logo",
-        "CRC32": "4199462190",
         "URL": "http://images.launchbox-app.com/891e71fd-fa8b-4174-bd49-77016305cd2b.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.3",
+  "DatabaseID": "8861",
+  "Developer": "Spike",
+  "ESRB": "T - Teen",
+  "Genres": "Action",
+  "Name": "Dragon Ball Z: Ultimate Tenkaichi",
+  "Overview": "Dragon Ball Z: Ultimate Tenkaichi is a game based on the manga and anime franchise Dragon Ball Z, and it is the fourth installment of the Budokai Tenkaichi series. The game is a 3D fighter that features various characters from the Dragon Ball Z franchise. Players can select from among 28 characters or create their own custom character to fight against the AI, or with another player locally or online.\n\nThe game has several modes of play. The Story mode follows the plot of the anime including several of the movies and recreates many of the series' iconic battles. Most of the battles are standard one-on-one fights, but there are some special boss fights that feature giant characters like Great Ape Vegeta and Janemba. The Hero mode is similar to the Story mode in gameplay, but it features a new story centered around the player's custom character. Finally, there is the Tournament mode in which up to 16 characters can participate in a standard single-elimination tournament.",
+  "Publisher": "Namco Bandai Games America",
+  "ReleaseDate": "2011-10-25T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=bq9h_AzlJ2Q",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Ultimate_Tenkaichi"
 }

@@ -1,46 +1,46 @@
 {
-  "Name": "Cubix Classic",
-  "DatabaseID": "468710",
-  "ReleaseDate": "2009-05-21T00:00:00+00:00",
-  "Overview": "Cubix Cube is a digital adaption of the toy Rubic Cube. It consists of a cube with six faces, each made up of nine smaller squares in one of six solid colors. The puzzle's internal mechanism allows each face to rotate independently, scrambling the colors. The challenge is to return the cube to its original state, where each face displays a single uniform color. This version presents the puzzle in 3D and also includes a flat pattern view.",
-  "VideoURL": "https://youtu.be/wNKKZShAPTs",
-  "Genres": "Puzzle",
-  "Developer": "Raccoon Software Limited",
-  "Publisher": "Raccoon Software Limited",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "8fe9fe18-261d-4c1d-a1e0-5eb448e1fdc9.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3735195917",
+          "FileName": "8fe9fe18-261d-4c1d-a1e0-5eb448e1fdc9.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/8fe9fe18-261d-4c1d-a1e0-5eb448e1fdc9.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "5fffe602-8bc4-40a1-b339-3aafcfc00eba.jpg",
-        "Type": "Screenshot - Game Select",
-        "Region": "World",
         "CRC32": "2778460875",
+        "FileName": "5fffe602-8bc4-40a1-b339-3aafcfc00eba.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
         "URL": "http://images.launchbox-app.com/5fffe602-8bc4-40a1-b339-3aafcfc00eba.jpg"
       },
       {
-        "FileName": "2889e1ee-01a3-46f9-ba36-05c4715b8e68.jpg",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "3375121448",
+        "FileName": "2889e1ee-01a3-46f9-ba36-05c4715b8e68.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/2889e1ee-01a3-46f9-ba36-05c4715b8e68.jpg"
       },
       {
-        "FileName": "997fab8a-1eb8-4c58-a152-5058907bcad1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3928723477",
+        "FileName": "997fab8a-1eb8-4c58-a152-5058907bcad1.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/997fab8a-1eb8-4c58-a152-5058907bcad1.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "468710",
+  "Developer": "Raccoon Software Limited",
+  "Genres": "Puzzle",
+  "Name": "Cubix Classic",
+  "Overview": "Cubix Cube is a digital adaption of the toy Rubic Cube. It consists of a cube with six faces, each made up of nine smaller squares in one of six solid colors. The puzzle's internal mechanism allows each face to rotate independently, scrambling the colors. The challenge is to return the cube to its original state, where each face displays a single uniform color. This version presents the puzzle in 3D and also includes a flat pattern view.",
+  "Publisher": "Raccoon Software Limited",
+  "ReleaseDate": "2009-05-21T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/wNKKZShAPTs"
 }

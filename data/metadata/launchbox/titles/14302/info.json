@@ -1,40 +1,40 @@
 {
-  "Name": "Wipeout 3",
-  "DatabaseID": "14302",
-  "ReleaseDate": "2012-09-25T00:00:00+00:00",
-  "Overview": "Wipeout 3 gets gamers back on their favorite insane obstacle course game show, complete with updated features, even more wacky characters, and all the epic wipeouts players can handle.",
-  "CommunityRating": "4.25",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
-  "Developer": "Behaviour Interactive",
-  "Publisher": "Activision Publishing",
   "Artwork": {
     "Box": {
       "Front": [
         {
+          "CRC32": "2849733394",
           "FileName": "e631501b-52ed-4af3-beb1-d0f4d1aa18d7.jpg",
           "Type": "Box - Front",
-          "CRC32": "2849733394",
           "URL": "http://images.launchbox-app.com/e631501b-52ed-4af3-beb1-d0f4d1aa18d7.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "ab30a5b5-2591-420b-a74f-cf7f3272004f.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1948172786",
+        "FileName": "ab30a5b5-2591-420b-a74f-cf7f3272004f.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/ab30a5b5-2591-420b-a74f-cf7f3272004f.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "626109593",
         "FileName": "8976d8f9-9d99-4535-b5a6-ea8a0568cdf6.png",
         "Type": "Clear Logo",
-        "CRC32": "626109593",
         "URL": "http://images.launchbox-app.com/8976d8f9-9d99-4535-b5a6-ea8a0568cdf6.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.25",
+  "DatabaseID": "14302",
+  "Developer": "Behaviour Interactive",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action",
+  "Name": "Wipeout 3",
+  "Overview": "Wipeout 3 gets gamers back on their favorite insane obstacle course game show, complete with updated features, even more wacky characters, and all the epic wipeouts players can handle.",
+  "Publisher": "Activision Publishing",
+  "ReleaseDate": "2012-09-25T00:00:00+00:00"
 }

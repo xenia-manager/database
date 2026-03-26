@@ -1,58 +1,58 @@
 {
-  "Name": "Amy",
-  "DatabaseID": "18992",
-  "ReleaseDate": "2012-01-11T00:00:00+00:00",
-  "Overview": "The city is infected! Walking corpses sniff the air, flaring out anything still alive. There is only one thing keeping you from running for your life. A special little girl holds your hand... You're not going anywhere without her. AMY offers you a tense, innovative and immersive experience in survival horror gaming. Play two original characters who alone are desperately fragile, but united become a force capable of confronting the denizens of a living hell. Get ready to become infected.",
-  "VideoURL": "http://www.youtube.com/watch?v=8-so0EZupSw",
-  "CommunityRating": "2.83333333333333",
-  "WikipediaURL": "https://www.wikipedia.org/wiki/Amy_(video_game)",
-  "ESRB": "M - Mature",
-  "Genres": "Horror",
-  "Developer": "VectorCell",
-  "Publisher": "Lexis Numérique",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "7544ca23-b0ba-43f5-a059-6fe08bc16356.png",
-        "Type": "Banner",
-        "CRC32": "4263029403",
-        "URL": "http://images.launchbox-app.com/7544ca23-b0ba-43f5-a059-6fe08bc16356.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2747272578",
         "FileName": "2db0cc18-f196-41af-b013-62606253ef43.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2747272578",
         "URL": "http://images.launchbox-app.com/2db0cc18-f196-41af-b013-62606253ef43.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4263029403",
+        "FileName": "7544ca23-b0ba-43f5-a059-6fe08bc16356.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/7544ca23-b0ba-43f5-a059-6fe08bc16356.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "17552874-3348-4f9d-9682-1a8f3f057ca2.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2475170340",
+          "FileName": "17552874-3348-4f9d-9682-1a8f3f057ca2.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/17552874-3348-4f9d-9682-1a8f3f057ca2.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "3685f7df-0b59-472a-862e-d683c7f4a78d.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3199480658",
-        "URL": "http://images.launchbox-app.com/3685f7df-0b59-472a-862e-d683c7f4a78d.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "3490561461",
         "FileName": "8ea989a7-7112-4a33-9320-f0803c5f3879.png",
         "Type": "Clear Logo",
-        "CRC32": "3490561461",
         "URL": "http://images.launchbox-app.com/8ea989a7-7112-4a33-9320-f0803c5f3879.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3199480658",
+        "FileName": "3685f7df-0b59-472a-862e-d683c7f4a78d.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/3685f7df-0b59-472a-862e-d683c7f4a78d.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "2.83333333333333",
+  "DatabaseID": "18992",
+  "Developer": "VectorCell",
+  "ESRB": "M - Mature",
+  "Genres": "Horror",
+  "Name": "Amy",
+  "Overview": "The city is infected! Walking corpses sniff the air, flaring out anything still alive. There is only one thing keeping you from running for your life. A special little girl holds your hand... You're not going anywhere without her. AMY offers you a tense, innovative and immersive experience in survival horror gaming. Play two original characters who alone are desperately fragile, but united become a force capable of confronting the denizens of a living hell. Get ready to become infected.",
+  "Publisher": "Lexis Numérique",
+  "ReleaseDate": "2012-01-11T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=8-so0EZupSw",
+  "WikipediaURL": "https://www.wikipedia.org/wiki/Amy_(video_game)"
 }

@@ -1,73 +1,73 @@
 {
-  "Name": "Golf: Tee It Up!",
-  "DatabaseID": "181823",
-  "ReleaseDate": "2008-07-09T00:00:00+00:00",
-  "Overview": "Golf: Tee It Up! is a simulation of golf with a loose approach, with customizable characters similar to the Xbox avatars, powered shots, and the ability to apply an amount of aftertouch while the ball is in the air. While playing there are different clubs to choose from and the course can be browsed. The wind also needs to be taken into account. Hitting is done by pressing a button to start an indicator moving over a meter, starting the swing. Pressing it another time then locks the power, based on how far to the right the cursor is. It then returns and reaches a coloured part - from red to green, and pressing it there a third time determines the accuracy. Pressing B, the maximum distance can also be extended.\n\nOn the right a meter is built up based on how well you do on the different holes. Using that meter a maximum of twelve seconds of focus can be applied: aftertouch, where you can still direct the course of the ball and make it move more towards the hole. While putting using focus can be used to preview the putt. The singleplayer mode consists of a tournament of eighteen holes. Multiplayer is supported locally and online for up to four players, split up in teams of two.",
-  "VideoURL": "https://www.youtube.com/watch?v=l7b_y__fz5I",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Golf:_Tee_It_Up!",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Housemarque",
-  "Publisher": "Activision Publishing",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_a7723438-f3ab-467f-b6e1-1e5077cea96a.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1588997405",
-        "URL": "http://images.launchbox-app.com/r2_a7723438-f3ab-467f-b6e1-1e5077cea96a.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_8f2fdfa6-f7a0-4daa-9e07-d8f80c5e0a2e.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2924166050",
+        "FileName": "r2_8f2fdfa6-f7a0-4daa-9e07-d8f80c5e0a2e.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8f2fdfa6-f7a0-4daa-9e07-d8f80c5e0a2e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1588997405",
+        "FileName": "r2_a7723438-f3ab-467f-b6e1-1e5077cea96a.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_a7723438-f3ab-467f-b6e1-1e5077cea96a.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_4ccfa272-2722-40ea-afef-2227f863f01f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
-          "CRC32": "770656615",
-          "URL": "http://images.launchbox-app.com/r2_4ccfa272-2722-40ea-afef-2227f863f01f.jpg"
-        },
-        {
-          "FileName": "a637c729-9439-4a09-93f9-c1b8dcc1dae4.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4275082025",
+          "FileName": "a637c729-9439-4a09-93f9-c1b8dcc1dae4.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a637c729-9439-4a09-93f9-c1b8dcc1dae4.jpg"
         },
         {
+          "CRC32": "770656615",
+          "FileName": "r2_4ccfa272-2722-40ea-afef-2227f863f01f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_4ccfa272-2722-40ea-afef-2227f863f01f.jpg"
+        },
+        {
+          "CRC32": "266929678",
           "FileName": "f1f96eb2-e476-4606-873b-fdb8599047b1.jpg",
           "Type": "Box - Front - Reconstructed",
-          "CRC32": "266929678",
           "URL": "http://images.launchbox-app.com/f1f96eb2-e476-4606-873b-fdb8599047b1.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "9e425b72-3932-4120-88cb-22d1a933ffde.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "537192599",
-        "URL": "http://images.launchbox-app.com/9e425b72-3932-4120-88cb-22d1a933ffde.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "409490545",
         "FileName": "bc1c14d2-fa8d-47c9-b401-1f818381ddd9.png",
         "Type": "Clear Logo",
-        "CRC32": "409490545",
         "URL": "http://images.launchbox-app.com/bc1c14d2-fa8d-47c9-b401-1f818381ddd9.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "537192599",
+        "FileName": "9e425b72-3932-4120-88cb-22d1a933ffde.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/9e425b72-3932-4120-88cb-22d1a933ffde.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "181823",
+  "Developer": "Housemarque",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Golf: Tee It Up!",
+  "Overview": "Golf: Tee It Up! is a simulation of golf with a loose approach, with customizable characters similar to the Xbox avatars, powered shots, and the ability to apply an amount of aftertouch while the ball is in the air. While playing there are different clubs to choose from and the course can be browsed. The wind also needs to be taken into account. Hitting is done by pressing a button to start an indicator moving over a meter, starting the swing. Pressing it another time then locks the power, based on how far to the right the cursor is. It then returns and reaches a coloured part - from red to green, and pressing it there a third time determines the accuracy. Pressing B, the maximum distance can also be extended.\n\nOn the right a meter is built up based on how well you do on the different holes. Using that meter a maximum of twelve seconds of focus can be applied: aftertouch, where you can still direct the course of the ball and make it move more towards the hole. While putting using focus can be used to preview the putt. The singleplayer mode consists of a tournament of eighteen holes. Multiplayer is supported locally and online for up to four players, split up in teams of two.",
+  "Publisher": "Activision Publishing",
+  "ReleaseDate": "2008-07-09T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=l7b_y__fz5I",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Golf:_Tee_It_Up!"
 }

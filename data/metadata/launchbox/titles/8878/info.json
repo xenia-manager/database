@@ -1,50 +1,50 @@
 {
-  "Name": "NCAA Football 12",
-  "DatabaseID": "8878",
-  "ReleaseDate": "2011-07-12T00:00:00+00:00",
-  "Overview": "NCAA Football 12, takes the journey of the college athlete to the next level of depth and authenticity. Experience the pride and pageantry of gameday Saturday with all new enhanced in-game presentation, traditions and school specific crowd celebrations. Make an impact on the field as your team takes down your heated rival on the road to the National Championship.",
-  "VideoURL": "https://www.youtube.com/watch?v=zC_bFuCjctA",
-  "CommunityRating": "5",
-  "WikipediaURL": "https://www.youtube.com/watch?v=zC_bFuCjctA",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Tiburon",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Box": {
       "3D": [
         {
+          "CRC32": "1832203346",
           "FileName": "3310bbef-2b84-44ed-a431-ea31da3f4946.png",
           "Type": "Box - 3D",
-          "CRC32": "1832203346",
           "URL": "http://images.launchbox-app.com/3310bbef-2b84-44ed-a431-ea31da3f4946.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "3318010862",
           "FileName": "841cea91-a183-4807-91cb-1d0987e237d1.jpg",
           "Type": "Box - Back",
-          "CRC32": "3318010862",
           "URL": "http://images.launchbox-app.com/841cea91-a183-4807-91cb-1d0987e237d1.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "859002163",
           "FileName": "85ae4548-de6d-417d-b40a-436c6fd6655a.jpg",
           "Type": "Box - Front",
-          "CRC32": "859002163",
           "URL": "http://images.launchbox-app.com/85ae4548-de6d-417d-b40a-436c6fd6655a.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_ef6c98ff-db17-4bb0-a87f-046c5e340df9.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2076160197",
+        "FileName": "r2_ef6c98ff-db17-4bb0-a87f-046c5e340df9.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_ef6c98ff-db17-4bb0-a87f-046c5e340df9.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "5",
+  "DatabaseID": "8878",
+  "Developer": "Electronic Arts Tiburon",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "NCAA Football 12",
+  "Overview": "NCAA Football 12, takes the journey of the college athlete to the next level of depth and authenticity. Experience the pride and pageantry of gameday Saturday with all new enhanced in-game presentation, traditions and school specific crowd celebrations. Make an impact on the field as your team takes down your heated rival on the road to the National Championship.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2011-07-12T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=zC_bFuCjctA",
+  "WikipediaURL": "https://www.youtube.com/watch?v=zC_bFuCjctA"
 }

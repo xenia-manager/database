@@ -1,170 +1,170 @@
 {
-  "Name": "Battlefield: Bad Company",
-  "DatabaseID": "10899",
-  "ReleaseDate": "2008-06-23T00:00:00+00:00",
-  "Overview": "Set in the near future, the Battlefield: Bad Company single-player campaign drops gamers behind enemy lines as part of a squad of four soldiers - risking it all to go AWOL on a personal quest. Featuring a dramatic storyline flavoured with attitude, Battlefield: Bad Company leads gamers far from the traditional frontlines on a wild ride with a group of renegade soldiers who decide that sometimes the gratitude of a nation just isn’t enough.\n\nBattlefield: Bad Company is the first game built from the ground up for next-generation consoles using DICE’s bleeding-edge Frostbite game engine, delivering unrivalled graphics, effects and gameplay. Join Bad Company now.",
-  "VideoURL": "http://www.youtube.com/watch?v=qJHYYmeAC8A&hd=1",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Battlefield:_Bad_Company",
-  "ESRB": "T - Teen",
-  "Genres": "Action; Shooter",
-  "Developer": "DiCE",
-  "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3566761162",
         "FileName": "433de812-97d3-4688-a72d-422ad988315a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3566761162",
         "URL": "http://images.launchbox-app.com/433de812-97d3-4688-a72d-422ad988315a.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "f6b704dd-769a-4097-8050-d14e782862f0.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1177983617",
+          "FileName": "f6b704dd-769a-4097-8050-d14e782862f0.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/f6b704dd-769a-4097-8050-d14e782862f0.png"
         }
       ],
       "Back": [
         {
-          "FileName": "10a36cf2-ef3a-4ce1-95ca-a859105268a5.png",
-          "Type": "Box - Back",
-          "Region": "Korea",
           "CRC32": "601719441",
+          "FileName": "10a36cf2-ef3a-4ce1-95ca-a859105268a5.png",
+          "Region": "Korea",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/10a36cf2-ef3a-4ce1-95ca-a859105268a5.png"
         },
         {
-          "FileName": "90a59476-fc41-4bd7-9127-22417a997668.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1961066100",
+          "FileName": "90a59476-fc41-4bd7-9127-22417a997668.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/90a59476-fc41-4bd7-9127-22417a997668.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_ea5f70e3-8d54-4a93-95e2-99edaaae74b9.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "2027943317",
-          "URL": "http://images.launchbox-app.com/r2_ea5f70e3-8d54-4a93-95e2-99edaaae74b9.jpg"
-        },
-        {
-          "FileName": "r2_622b375b-47ac-4673-959f-a3b6113e64ab.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2820383340",
+          "FileName": "r2_622b375b-47ac-4673-959f-a3b6113e64ab.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_622b375b-47ac-4673-959f-a3b6113e64ab.jpg"
         },
         {
-          "FileName": "r2_7c84be0b-e140-4a27-a0e0-0086a7aae2a2.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "4021832488",
+          "FileName": "r2_7c84be0b-e140-4a27-a0e0-0086a7aae2a2.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_7c84be0b-e140-4a27-a0e0-0086a7aae2a2.jpg"
         },
         {
-          "FileName": "a1366739-8ee4-4da1-91bc-23bd4a9ee574.png",
+          "CRC32": "2027943317",
+          "FileName": "r2_ea5f70e3-8d54-4a93-95e2-99edaaae74b9.jpg",
+          "Region": "Germany",
           "Type": "Box - Front",
-          "Region": "Korea",
+          "URL": "http://images.launchbox-app.com/r2_ea5f70e3-8d54-4a93-95e2-99edaaae74b9.jpg"
+        },
+        {
           "CRC32": "3879132488",
+          "FileName": "a1366739-8ee4-4da1-91bc-23bd4a9ee574.png",
+          "Region": "Korea",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a1366739-8ee4-4da1-91bc-23bd4a9ee574.png"
         },
         {
-          "FileName": "ff8e2453-6269-4d8c-9925-f7d236bd9654.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1552620221",
+          "FileName": "ff8e2453-6269-4d8c-9925-f7d236bd9654.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ff8e2453-6269-4d8c-9925-f7d236bd9654.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "81cc3e0f-1d94-4292-a747-0ab2939fa530.png",
-          "Type": "Box - Spine",
-          "Region": "Korea",
           "CRC32": "828520348",
+          "FileName": "81cc3e0f-1d94-4292-a747-0ab2939fa530.png",
+          "Region": "Korea",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/81cc3e0f-1d94-4292-a747-0ab2939fa530.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "c7492690-75ce-4310-90a4-70de23dd3ffc.png",
-        "Type": "Disc",
-        "Region": "Korea",
         "CRC32": "2096445052",
+        "FileName": "c7492690-75ce-4310-90a4-70de23dd3ffc.png",
+        "Region": "Korea",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c7492690-75ce-4310-90a4-70de23dd3ffc.png"
       },
       {
-        "FileName": "056e0f99-12e3-48e7-b6d2-43b9a2a2bd55.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3489478034",
+        "FileName": "056e0f99-12e3-48e7-b6d2-43b9a2a2bd55.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/056e0f99-12e3-48e7-b6d2-43b9a2a2bd55.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "0adff37b-9958-4f5e-9bec-1080429068fb.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1685913124",
-        "URL": "http://images.launchbox-app.com/0adff37b-9958-4f5e-9bec-1080429068fb.jpg"
-      },
-      {
-        "FileName": "d62bd766-1e0b-49bb-bb04-bf39abe32143.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3618981458",
-        "URL": "http://images.launchbox-app.com/d62bd766-1e0b-49bb-bb04-bf39abe32143.jpg"
-      },
-      {
-        "FileName": "6d754c16-b866-4d4e-8023-9bd4062cd47a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2591710044",
-        "URL": "http://images.launchbox-app.com/6d754c16-b866-4d4e-8023-9bd4062cd47a.jpg"
-      },
-      {
-        "FileName": "91f62664-021e-4102-bcb0-cb2059446123.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2302553145",
-        "URL": "http://images.launchbox-app.com/91f62664-021e-4102-bcb0-cb2059446123.jpg"
-      },
-      {
-        "FileName": "ccc39892-e540-4e06-bdbd-283e091e4f30.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "357279993",
-        "URL": "http://images.launchbox-app.com/ccc39892-e540-4e06-bdbd-283e091e4f30.jpg"
-      },
-      {
-        "FileName": "009eb721-333a-4988-b666-67c4be9c5172.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "990344077",
-        "URL": "http://images.launchbox-app.com/009eb721-333a-4988-b666-67c4be9c5172.jpg"
-      },
-      {
-        "FileName": "53bc6ad5-a307-4617-a97e-85a1d957520f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1945963480",
-        "URL": "http://images.launchbox-app.com/53bc6ad5-a307-4617-a97e-85a1d957520f.jpg"
-      },
-      {
-        "FileName": "2bb25818-7083-4a49-b686-67d439a0a0b6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1230245050",
-        "URL": "http://images.launchbox-app.com/2bb25818-7083-4a49-b686-67d439a0a0b6.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "2874073661",
         "FileName": "1a6b61fa-7d2c-46b3-9ba2-5806ae0604f8.png",
         "Type": "Clear Logo",
-        "CRC32": "2874073661",
         "URL": "http://images.launchbox-app.com/1a6b61fa-7d2c-46b3-9ba2-5806ae0604f8.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "990344077",
+        "FileName": "009eb721-333a-4988-b666-67c4be9c5172.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/009eb721-333a-4988-b666-67c4be9c5172.jpg"
+      },
+      {
+        "CRC32": "1685913124",
+        "FileName": "0adff37b-9958-4f5e-9bec-1080429068fb.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/0adff37b-9958-4f5e-9bec-1080429068fb.jpg"
+      },
+      {
+        "CRC32": "1230245050",
+        "FileName": "2bb25818-7083-4a49-b686-67d439a0a0b6.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/2bb25818-7083-4a49-b686-67d439a0a0b6.jpg"
+      },
+      {
+        "CRC32": "1945963480",
+        "FileName": "53bc6ad5-a307-4617-a97e-85a1d957520f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/53bc6ad5-a307-4617-a97e-85a1d957520f.jpg"
+      },
+      {
+        "CRC32": "2591710044",
+        "FileName": "6d754c16-b866-4d4e-8023-9bd4062cd47a.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/6d754c16-b866-4d4e-8023-9bd4062cd47a.jpg"
+      },
+      {
+        "CRC32": "2302553145",
+        "FileName": "91f62664-021e-4102-bcb0-cb2059446123.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/91f62664-021e-4102-bcb0-cb2059446123.jpg"
+      },
+      {
+        "CRC32": "357279993",
+        "FileName": "ccc39892-e540-4e06-bdbd-283e091e4f30.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ccc39892-e540-4e06-bdbd-283e091e4f30.jpg"
+      },
+      {
+        "CRC32": "3618981458",
+        "FileName": "d62bd766-1e0b-49bb-bb04-bf39abe32143.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d62bd766-1e0b-49bb-bb04-bf39abe32143.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "10899",
+  "Developer": "DiCE",
+  "ESRB": "T - Teen",
+  "Genres": "Action; Shooter",
+  "Name": "Battlefield: Bad Company",
+  "Overview": "Set in the near future, the Battlefield: Bad Company single-player campaign drops gamers behind enemy lines as part of a squad of four soldiers - risking it all to go AWOL on a personal quest. Featuring a dramatic storyline flavoured with attitude, Battlefield: Bad Company leads gamers far from the traditional frontlines on a wild ride with a group of renegade soldiers who decide that sometimes the gratitude of a nation just isn’t enough.\n\nBattlefield: Bad Company is the first game built from the ground up for next-generation consoles using DICE’s bleeding-edge Frostbite game engine, delivering unrivalled graphics, effects and gameplay. Join Bad Company now.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2008-06-23T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=qJHYYmeAC8A&hd=1",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Battlefield:_Bad_Company"
 }

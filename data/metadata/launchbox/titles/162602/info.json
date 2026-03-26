@@ -1,136 +1,136 @@
 {
-  "Name": "Crystal Quest",
-  "DatabaseID": "162602",
-  "ReleaseDate": "2006-02-07T00:00:00+00:00",
-  "Overview": "The 1987 Apple Mac classic returns with updated graphics, enhanced special effects and Dolby Digital sound! Pilot your ship through 60 waves of frantic action, collecting crystals and evading the Nasties. These unique baddies spawn from portals on each side of the screen. Fire your main gun or deploy a smart bomb to vaporize every Nasty on the screen. Grab all the crystals to open the gateway and complete the level. And don’t forget to gather up the goodies in each wave… you can grab bonus points, extra smart bombs and even an occasional mega-crystal for massive points!\n\nClassic gameplay: Sixty action-packed levels with extra bonuses and power-ups.\n\nNext-gen arcade: Updated graphics, enhanced special effects, and Dolby sound.",
-  "VideoURL": "https://www.youtube.com/watch?v=GWt-BEfH4Hg",
-  "CommunityRating": "3.3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Crystal_Quest",
-  "ESRB": "E - Everyone",
-  "Genres": "Action",
-  "Developer": "Stainless Games",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Arcade": [
       {
+        "CRC32": "719998483",
         "FileName": "cc57bf80-e1a7-430b-9e5b-b0112727a344.png",
         "Type": "Arcade - Controls Information",
-        "CRC32": "719998483",
         "URL": "http://images.launchbox-app.com/cc57bf80-e1a7-430b-9e5b-b0112727a344.png"
-      }
-    ],
-    "Banner": [
-      {
-        "FileName": "17cc3ba8-237e-42c7-b5cd-283d784316be.jpg",
-        "Type": "Banner",
-        "CRC32": "991560892",
-        "URL": "http://images.launchbox-app.com/17cc3ba8-237e-42c7-b5cd-283d784316be.jpg"
       }
     ],
     "Background": [
       {
-        "FileName": "94fd1261-b98f-4c88-8063-8b25c98b9aab.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1237175031",
-        "URL": "http://images.launchbox-app.com/94fd1261-b98f-4c88-8063-8b25c98b9aab.jpg"
-      },
-      {
+        "CRC32": "1828784113",
         "FileName": "3e3f85a4-d333-4d13-a053-a1cbaeb74a0e.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1828784113",
         "URL": "http://images.launchbox-app.com/3e3f85a4-d333-4d13-a053-a1cbaeb74a0e.jpg"
+      },
+      {
+        "CRC32": "1237175031",
+        "FileName": "94fd1261-b98f-4c88-8063-8b25c98b9aab.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/94fd1261-b98f-4c88-8063-8b25c98b9aab.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "991560892",
+        "FileName": "17cc3ba8-237e-42c7-b5cd-283d784316be.jpg",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/17cc3ba8-237e-42c7-b5cd-283d784316be.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "ed3f7a13-6e0a-4da6-90af-4a7646be5b56.png",
-          "Type": "Box - 3D",
-          "CRC32": "4129934961",
-          "URL": "http://images.launchbox-app.com/ed3f7a13-6e0a-4da6-90af-4a7646be5b56.png"
-        },
-        {
+          "CRC32": "1530441508",
           "FileName": "9db18674-c17c-48ae-b1e7-5ea63f0c9bc2.png",
           "Type": "Box - 3D",
-          "CRC32": "1530441508",
           "URL": "http://images.launchbox-app.com/9db18674-c17c-48ae-b1e7-5ea63f0c9bc2.png"
+        },
+        {
+          "CRC32": "4129934961",
+          "FileName": "ed3f7a13-6e0a-4da6-90af-4a7646be5b56.png",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/ed3f7a13-6e0a-4da6-90af-4a7646be5b56.png"
         }
       ],
       "Front": [
         {
-          "FileName": "4d23c3ef-b0a2-4e50-9e78-b99e90d93ecc.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2286977819",
+          "FileName": "4d23c3ef-b0a2-4e50-9e78-b99e90d93ecc.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4d23c3ef-b0a2-4e50-9e78-b99e90d93ecc.jpg"
         },
         {
+          "CRC32": "4099342600",
           "FileName": "4170f1a7-fbb5-418a-85b2-3819c0f7348f.png",
           "Type": "Fanart - Box - Front",
-          "CRC32": "4099342600",
           "URL": "http://images.launchbox-app.com/4170f1a7-fbb5-418a-85b2-3819c0f7348f.png"
         }
       ]
     },
     "Disc": [
       {
+        "CRC32": "2361650255",
         "FileName": "24a63f24-4d7c-4988-a867-ab5e4be07e76.png",
         "Type": "Fanart - Disc",
-        "CRC32": "2361650255",
         "URL": "http://images.launchbox-app.com/24a63f24-4d7c-4988-a867-ab5e4be07e76.png"
       },
       {
+        "CRC32": "155515646",
         "FileName": "b94c7aef-22ab-4544-bb9f-d9fb3a6ce902.png",
         "Type": "Fanart - Disc",
-        "CRC32": "155515646",
         "URL": "http://images.launchbox-app.com/b94c7aef-22ab-4544-bb9f-d9fb3a6ce902.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "50d87ecc-4cdb-4bec-b447-46df185c1b7a.png",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "3199746210",
-        "URL": "http://images.launchbox-app.com/50d87ecc-4cdb-4bec-b447-46df185c1b7a.png"
-      },
-      {
-        "FileName": "dfbabe0b-4ff9-4905-8b6f-8e305b384a8d.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "647485809",
-        "URL": "http://images.launchbox-app.com/dfbabe0b-4ff9-4905-8b6f-8e305b384a8d.png"
-      },
-      {
-        "FileName": "63084a47-4eed-48fb-9d23-edcdf0e3e612.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2171431717",
-        "URL": "http://images.launchbox-app.com/63084a47-4eed-48fb-9d23-edcdf0e3e612.jpg"
-      },
-      {
-        "FileName": "e57d2a68-26cc-4729-bf4a-e26166cdd9a9.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3346338725",
-        "URL": "http://images.launchbox-app.com/e57d2a68-26cc-4729-bf4a-e26166cdd9a9.jpg"
-      },
-      {
-        "FileName": "322059ad-3e40-4d75-b3b5-4dc75118d1d1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2576541613",
-        "URL": "http://images.launchbox-app.com/322059ad-3e40-4d75-b3b5-4dc75118d1d1.jpg"
-      },
-      {
-        "FileName": "3cb9ec0e-0a12-438d-b766-d13b3209118d.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "436125825",
-        "URL": "http://images.launchbox-app.com/3cb9ec0e-0a12-438d-b766-d13b3209118d.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "647697340",
         "FileName": "454f9814-ec22-44b3-b86e-4c74eec4a65e.png",
         "Type": "Clear Logo",
-        "CRC32": "647697340",
         "URL": "http://images.launchbox-app.com/454f9814-ec22-44b3-b86e-4c74eec4a65e.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3199746210",
+        "FileName": "50d87ecc-4cdb-4bec-b447-46df185c1b7a.png",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/50d87ecc-4cdb-4bec-b447-46df185c1b7a.png"
+      },
+      {
+        "CRC32": "647485809",
+        "FileName": "dfbabe0b-4ff9-4905-8b6f-8e305b384a8d.png",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/dfbabe0b-4ff9-4905-8b6f-8e305b384a8d.png"
+      },
+      {
+        "CRC32": "2576541613",
+        "FileName": "322059ad-3e40-4d75-b3b5-4dc75118d1d1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/322059ad-3e40-4d75-b3b5-4dc75118d1d1.jpg"
+      },
+      {
+        "CRC32": "436125825",
+        "FileName": "3cb9ec0e-0a12-438d-b766-d13b3209118d.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/3cb9ec0e-0a12-438d-b766-d13b3209118d.jpg"
+      },
+      {
+        "CRC32": "2171431717",
+        "FileName": "63084a47-4eed-48fb-9d23-edcdf0e3e612.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/63084a47-4eed-48fb-9d23-edcdf0e3e612.jpg"
+      },
+      {
+        "CRC32": "3346338725",
+        "FileName": "e57d2a68-26cc-4729-bf4a-e26166cdd9a9.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/e57d2a68-26cc-4729-bf4a-e26166cdd9a9.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.3",
+  "DatabaseID": "162602",
+  "Developer": "Stainless Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Action",
+  "Name": "Crystal Quest",
+  "Overview": "The 1987 Apple Mac classic returns with updated graphics, enhanced special effects and Dolby Digital sound! Pilot your ship through 60 waves of frantic action, collecting crystals and evading the Nasties. These unique baddies spawn from portals on each side of the screen. Fire your main gun or deploy a smart bomb to vaporize every Nasty on the screen. Grab all the crystals to open the gateway and complete the level. And don’t forget to gather up the goodies in each wave… you can grab bonus points, extra smart bombs and even an occasional mega-crystal for massive points!\n\nClassic gameplay: Sixty action-packed levels with extra bonuses and power-ups.\n\nNext-gen arcade: Updated graphics, enhanced special effects, and Dolby sound.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2006-02-07T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=GWt-BEfH4Hg",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Crystal_Quest"
 }

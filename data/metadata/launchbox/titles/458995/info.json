@@ -1,70 +1,70 @@
 {
-  "Name": "Code_18",
-  "DatabaseID": "458995",
-  "ReleaseDate": "2011-09-29T00:00:00+00:00",
-  "Overview": "As with the rest of the Infinity series, Code_18 is a visual novel in which the player makes progress through the linear story by talking to characters and listening to dialogue. Disposing of the escape scenarios of earlier Infinity games, the core gameplay features the player character Hayato Hino exploring his school environment and interacting with five female characters with whom he can develop relationships. The state of Hayato's romantic relationships, together with choices made during the story, can alter the flow of events to a degree; some options can trigger alternative bad endings for characters, and the game's full ending is altered depending on whom Hayato has formed a romantic relationship with.",
-  "VideoURL": "https://www.youtube.com/watch?v=CXS1pBQFqxc",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Code_18",
-  "ESRB": "T - Teen",
-  "Genres": "Visual Novel",
-  "Developer": "CyberFront",
-  "Publisher": "CyberFront",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_be9c75e7-1826-4aa8-bb70-a1627bdacaf0.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "2264096909",
-        "URL": "http://images.launchbox-app.com/r2_be9c75e7-1826-4aa8-bb70-a1627bdacaf0.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_4226afda-b538-43e7-841e-51e8ef4e2720.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "694769839",
+        "FileName": "r2_4226afda-b538-43e7-841e-51e8ef4e2720.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_4226afda-b538-43e7-841e-51e8ef4e2720.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2264096909",
+        "FileName": "r2_be9c75e7-1826-4aa8-bb70-a1627bdacaf0.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_be9c75e7-1826-4aa8-bb70-a1627bdacaf0.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_ce6045f8-b0ab-45df-b0fc-a6faaf05874d.png",
-          "Type": "Box - 3D",
-          "Region": "Japan",
           "CRC32": "2728012565",
+          "FileName": "r2_ce6045f8-b0ab-45df-b0fc-a6faaf05874d.png",
+          "Region": "Japan",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_ce6045f8-b0ab-45df-b0fc-a6faaf05874d.png"
         }
       ],
       "Front": [
         {
-          "FileName": "17476fbd-50e4-4852-a4f5-57beaa798cd0.png",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "3574445194",
+          "FileName": "17476fbd-50e4-4852-a4f5-57beaa798cd0.png",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/17476fbd-50e4-4852-a4f5-57beaa798cd0.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_5b34c6c3-ed2e-4134-8e40-bbf41c56ef31.png",
-        "Type": "Disc",
-        "Region": "Japan",
         "CRC32": "783952864",
+        "FileName": "r2_5b34c6c3-ed2e-4134-8e40-bbf41c56ef31.png",
+        "Region": "Japan",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_5b34c6c3-ed2e-4134-8e40-bbf41c56ef31.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_a1f4de33-5cc9-4b5f-813a-b5fb21117c4d.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "2442090299",
+        "FileName": "r2_a1f4de33-5cc9-4b5f-813a-b5fb21117c4d.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_a1f4de33-5cc9-4b5f-813a-b5fb21117c4d.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "458995",
+  "Developer": "CyberFront",
+  "ESRB": "T - Teen",
+  "Genres": "Visual Novel",
+  "Name": "Code_18",
+  "Overview": "As with the rest of the Infinity series, Code_18 is a visual novel in which the player makes progress through the linear story by talking to characters and listening to dialogue. Disposing of the escape scenarios of earlier Infinity games, the core gameplay features the player character Hayato Hino exploring his school environment and interacting with five female characters with whom he can develop relationships. The state of Hayato's romantic relationships, together with choices made during the story, can alter the flow of events to a degree; some options can trigger alternative bad endings for characters, and the game's full ending is altered depending on whom Hayato has formed a romantic relationship with.",
+  "Publisher": "CyberFront",
+  "ReleaseDate": "2011-09-29T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=CXS1pBQFqxc",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Code_18"
 }

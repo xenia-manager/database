@@ -1,106 +1,106 @@
 {
-  "Name": "NBA Jam: On Fire Edition",
-  "DatabaseID": "172225",
-  "ReleaseDate": "2011-10-04T00:00:00+00:00",
-  "Overview": "The latest, downloadable-only addition to the franchise is NBA Jam: On Fire Edition, which builds upon the foundation laid by 2010's series-rebirthing NBA Jam, yet this is a far greater expansion on the formula than you may have been expecting – particularly at this price point. Rather than merely refreshing the rosters and adding a few new one-liners for the wisecracking commentator, the developers at EA Canada have made a surprising number of gameplay-balancing tweaks and additions, as well as overhauling the career mode and throwing a far more compelling unlock system into the mix.",
-  "VideoURL": "https://www.youtube.com/watch?v=z_UfANCM05Y",
-  "CommunityRating": "3.77272727272727",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/NBA_Jam_(2010_video_game)#Release",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "55879984-efa1-4776-8022-9973edda1fd3.png",
-        "Type": "Banner",
-        "CRC32": "3513676901",
-        "URL": "http://images.launchbox-app.com/55879984-efa1-4776-8022-9973edda1fd3.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "ec6c5ac9-d668-4b29-9ddf-a9b0636f3203.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "201765747",
-        "URL": "http://images.launchbox-app.com/ec6c5ac9-d668-4b29-9ddf-a9b0636f3203.jpg"
-      },
-      {
+        "CRC32": "2686071115",
         "FileName": "c92685e0-84ec-4a34-894e-4318230f4bb0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2686071115",
         "URL": "http://images.launchbox-app.com/c92685e0-84ec-4a34-894e-4318230f4bb0.jpg"
+      },
+      {
+        "CRC32": "201765747",
+        "FileName": "ec6c5ac9-d668-4b29-9ddf-a9b0636f3203.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/ec6c5ac9-d668-4b29-9ddf-a9b0636f3203.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3513676901",
+        "FileName": "55879984-efa1-4776-8022-9973edda1fd3.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/55879984-efa1-4776-8022-9973edda1fd3.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "e7e50df1-bab1-4317-8f71-c0ce337013b9.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2312829698",
+          "FileName": "e7e50df1-bab1-4317-8f71-c0ce337013b9.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/e7e50df1-bab1-4317-8f71-c0ce337013b9.jpg"
         },
         {
-          "FileName": "10ce6bf6-8973-486d-ac4b-d418da72c8f9.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "289326284",
+          "FileName": "10ce6bf6-8973-486d-ac4b-d418da72c8f9.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/10ce6bf6-8973-486d-ac4b-d418da72c8f9.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "c6a5efb0-1c7e-43d2-9542-7e2553d44d09.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1998254940",
+          "FileName": "c6a5efb0-1c7e-43d2-9542-7e2553d44d09.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c6a5efb0-1c7e-43d2-9542-7e2553d44d09.jpg"
         },
         {
-          "FileName": "b4180ad3-160c-476f-8721-ac013a1e7dd5.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1864068294",
+          "FileName": "b4180ad3-160c-476f-8721-ac013a1e7dd5.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b4180ad3-160c-476f-8721-ac013a1e7dd5.jpg"
         },
         {
-          "FileName": "417e7f87-a1d2-419d-955c-b22f8469add4.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2072083689",
+          "FileName": "417e7f87-a1d2-419d-955c-b22f8469add4.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/417e7f87-a1d2-419d-955c-b22f8469add4.jpg"
         },
         {
+          "CRC32": "1549731645",
           "FileName": "b4ae6dab-b718-4054-a2cc-4b353df67f75.png",
           "Type": "Box - Front - Reconstructed",
-          "CRC32": "1549731645",
           "URL": "http://images.launchbox-app.com/b4ae6dab-b718-4054-a2cc-4b353df67f75.png"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "2267547936",
+        "FileName": "39c1769d-253c-453f-b545-487791411999.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/39c1769d-253c-453f-b545-487791411999.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "3684416697",
         "FileName": "09edd79a-54d5-4ea5-96f7-d53f1e9adf65.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "3684416697",
         "URL": "http://images.launchbox-app.com/09edd79a-54d5-4ea5-96f7-d53f1e9adf65.jpg"
       },
       {
+        "CRC32": "673861262",
         "FileName": "afe32533-2e58-454d-bce3-e9c5f3cb2d64.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "673861262",
         "URL": "http://images.launchbox-app.com/afe32533-2e58-454d-bce3-e9c5f3cb2d64.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "39c1769d-253c-453f-b545-487791411999.png",
-        "Type": "Clear Logo",
-        "CRC32": "2267547936",
-        "URL": "http://images.launchbox-app.com/39c1769d-253c-453f-b545-487791411999.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.77272727272727",
+  "DatabaseID": "172225",
+  "Developer": "Electronic Arts",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "NBA Jam: On Fire Edition",
+  "Overview": "The latest, downloadable-only addition to the franchise is NBA Jam: On Fire Edition, which builds upon the foundation laid by 2010's series-rebirthing NBA Jam, yet this is a far greater expansion on the formula than you may have been expecting – particularly at this price point. Rather than merely refreshing the rosters and adding a few new one-liners for the wisecracking commentator, the developers at EA Canada have made a surprising number of gameplay-balancing tweaks and additions, as well as overhauling the career mode and throwing a far more compelling unlock system into the mix.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2011-10-04T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=z_UfANCM05Y",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/NBA_Jam_(2010_video_game)#Release"
 }

@@ -1,57 +1,57 @@
 {
-  "Name": "Call of Juarez: Gunslinger",
-  "DatabaseID": "17084",
-  "ReleaseDate": "2013-05-22T00:00:00+00:00",
-  "Overview": "CAN YOU STAND AGAINST THE DEADLIEST GUNSLINGERS WHO EVER LIVED? \n\nFrom the dust of a gold mine to the dirt of a saloon, Call of Juarez Gunslinger is a real homage to the Wild West tales. Live the epic and violent journey of a ruthless bounty hunter on the trail of the West’s most notorious outlaws. Blurring the lines between man and myth, this adventure made of memorable encounters unveils the untold truth behind some of the greatest legends of the Old West.",
-  "VideoURL": "https://www.youtube.com/watch?v=V7ajsveie1Y",
-  "CommunityRating": "4.0625",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Juarez:_Gunslinger",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Techland",
-  "Publisher": "Ubisoft",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "1f151aa2-cf91-4f56-bb94-6921a83faf47.png",
-        "Type": "Banner",
-        "CRC32": "2262545681",
-        "URL": "http://images.launchbox-app.com/1f151aa2-cf91-4f56-bb94-6921a83faf47.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3682821988",
         "FileName": "50463049-c52a-4522-a9e0-2aafca52133f.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3682821988",
         "URL": "http://images.launchbox-app.com/50463049-c52a-4522-a9e0-2aafca52133f.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2262545681",
+        "FileName": "1f151aa2-cf91-4f56-bb94-6921a83faf47.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/1f151aa2-cf91-4f56-bb94-6921a83faf47.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "cc36653d-3bd6-45e9-a1aa-f0dd8815e037.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "660316322",
+          "FileName": "cc36653d-3bd6-45e9-a1aa-f0dd8815e037.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/cc36653d-3bd6-45e9-a1aa-f0dd8815e037.jpg"
         },
         {
-          "FileName": "59328c81-882d-48ea-a61c-81b29c3459d2.jpg",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "World",
           "CRC32": "3558463943",
+          "FileName": "59328c81-882d-48ea-a61c-81b29c3459d2.jpg",
+          "Region": "World",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/59328c81-882d-48ea-a61c-81b29c3459d2.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "4171476335",
         "FileName": "4d85549c-9ed7-405a-a352-4e0c51ea5af5.png",
         "Type": "Clear Logo",
-        "CRC32": "4171476335",
         "URL": "http://images.launchbox-app.com/4d85549c-9ed7-405a-a352-4e0c51ea5af5.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.0625",
+  "DatabaseID": "17084",
+  "Developer": "Techland",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Call of Juarez: Gunslinger",
+  "Overview": "CAN YOU STAND AGAINST THE DEADLIEST GUNSLINGERS WHO EVER LIVED? \n\nFrom the dust of a gold mine to the dirt of a saloon, Call of Juarez Gunslinger is a real homage to the Wild West tales. Live the epic and violent journey of a ruthless bounty hunter on the trail of the West’s most notorious outlaws. Blurring the lines between man and myth, this adventure made of memorable encounters unveils the untold truth behind some of the greatest legends of the Old West.",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2013-05-22T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=V7ajsveie1Y",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Juarez:_Gunslinger"
 }

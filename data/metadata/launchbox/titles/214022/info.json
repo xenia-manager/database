@@ -1,37 +1,37 @@
 {
-  "Name": "Resident Evil: Operation Raccoon City (Special Edition)",
-  "DatabaseID": "214022",
-  "ReleaseDate": "2012-03-20T00:00:00+00:00",
-  "Genres": null,
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "5f09814b-5d35-4556-9f00-d8e7f83ad993.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1399576649",
+          "FileName": "5f09814b-5d35-4556-9f00-d8e7f83ad993.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/5f09814b-5d35-4556-9f00-d8e7f83ad993.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "9c705beb-acac-478e-a975-142a9b44c27c.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2958346297",
+          "FileName": "9c705beb-acac-478e-a975-142a9b44c27c.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9c705beb-acac-478e-a975-142a9b44c27c.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "39fee4e4-8b03-4cd8-afa6-1c02a98655a8.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "4281497962",
+        "FileName": "39fee4e4-8b03-4cd8-afa6-1c02a98655a8.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/39fee4e4-8b03-4cd8-afa6-1c02a98655a8.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "214022",
+  "Genres": null,
+  "Name": "Resident Evil: Operation Raccoon City (Special Edition)",
+  "ReleaseDate": "2012-03-20T00:00:00+00:00"
 }

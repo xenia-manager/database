@@ -1,23 +1,23 @@
 {
-  "Name": "Desert Hoppers",
-  "DatabaseID": "468895",
-  "ReleaseDate": "2014-10-16T00:00:00+00:00",
-  "Overview": "Desert Hoppers is an ATV racing style game with four different campaigns. One for hopping into airborne emoticons for bonus points, another for on-track jumps for airtime points. Another for destructive track obstacles. Another for just racing with no hopping.",
-  "VideoURL": "https://youtu.be/WIZTEkzkkfc",
-  "Genres": "Racing",
-  "Developer": "puppypooky",
-  "Publisher": "puppypooky",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "84f25707-eb72-4b25-b940-e083f81ec14e.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3694285036",
+          "FileName": "84f25707-eb72-4b25-b940-e083f81ec14e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/84f25707-eb72-4b25-b940-e083f81ec14e.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468895",
+  "Developer": "puppypooky",
+  "Genres": "Racing",
+  "Name": "Desert Hoppers",
+  "Overview": "Desert Hoppers is an ATV racing style game with four different campaigns. One for hopping into airborne emoticons for bonus points, another for on-track jumps for airtime points. Another for destructive track obstacles. Another for just racing with no hopping.",
+  "Publisher": "puppypooky",
+  "ReleaseDate": "2014-10-16T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/WIZTEkzkkfc"
 }

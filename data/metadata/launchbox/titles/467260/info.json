@@ -1,38 +1,38 @@
 {
-  "Name": "Ask Angela",
-  "DatabaseID": "467260",
-  "ReleaseDate": "2010-03-05T00:00:00+00:00",
-  "Overview": "I don't have a crystal ball, but Angela does! If you are lucky she will tell you your future.",
-  "Genres": null,
-  "Developer": "DigitalDNA Games",
-  "Publisher": "DigitalDNA Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "606aaa5c-c003-488b-aba6-344ca914dbd0.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4017398870",
+          "FileName": "606aaa5c-c003-488b-aba6-344ca914dbd0.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/606aaa5c-c003-488b-aba6-344ca914dbd0.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "776f1c9b-d53f-4b0b-ad2f-5c7d8f4ad5c7.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1714863373",
+        "FileName": "263b265d-29b2-4502-a5d1-919c12973cd5.jpg",
         "Region": "World",
-        "CRC32": "1477167248",
-        "URL": "http://images.launchbox-app.com/776f1c9b-d53f-4b0b-ad2f-5c7d8f4ad5c7.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/263b265d-29b2-4502-a5d1-919c12973cd5.jpg"
       },
       {
-        "FileName": "263b265d-29b2-4502-a5d1-919c12973cd5.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "1477167248",
+        "FileName": "776f1c9b-d53f-4b0b-ad2f-5c7d8f4ad5c7.jpg",
         "Region": "World",
-        "CRC32": "1714863373",
-        "URL": "http://images.launchbox-app.com/263b265d-29b2-4502-a5d1-919c12973cd5.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/776f1c9b-d53f-4b0b-ad2f-5c7d8f4ad5c7.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "467260",
+  "Developer": "DigitalDNA Games",
+  "Genres": null,
+  "Name": "Ask Angela",
+  "Overview": "I don't have a crystal ball, but Angela does! If you are lucky she will tell you your future.",
+  "Publisher": "DigitalDNA Games",
+  "ReleaseDate": "2010-03-05T00:00:00+00:00"
 }

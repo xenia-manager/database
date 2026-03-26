@@ -1,43 +1,43 @@
 {
-  "Name": "Chaos;Head Love Chu Chu!",
-  "DatabaseID": "458985",
-  "ReleaseDate": "2010-03-25T00:00:00+00:00",
-  "Overview": "Chaos;Head Love Chu Chu! was the third collaborative work between 5pb. and Nitroplus after Chaos;Head and Steins;Gate. Character design was handled by Mutsumi Sasaki and the art of the game was provided by Yukihiro Matsuo. The scenario was written by Naotaka Hayashi and the producer was Tatsuya Matsuhara. Product design was done by Choco. According to Tatsuya, the project was conceived during the development of Steins;Gate. The Love Chu Chu! title was narrowed down from a list of about one hundred candidates. The game is described by the developers as an \"exploding delusions ADV\" (妄想爆裂ADV, Mōsō Bakuretsu ADV)",
-  "VideoURL": "https://www.youtube.com/watch?v=-dMHXUJyISU",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Chaos;Head_Love_Chu_Chu!",
-  "ESRB": "Not Rated",
-  "Genres": "Visual Novel",
-  "Developer": "5pb.",
-  "Publisher": "5pb.",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_9a4bf0b8-2fd8-42cb-b83b-b93abefe7dd3.png",
-        "Type": "Banner",
-        "Region": "Japan",
-        "CRC32": "1599898526",
-        "URL": "http://images.launchbox-app.com/r2_9a4bf0b8-2fd8-42cb-b83b-b93abefe7dd3.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_0d7f37da-df17-4a57-97c9-79e034b7a263.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3771571271",
+        "FileName": "r2_0d7f37da-df17-4a57-97c9-79e034b7a263.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_0d7f37da-df17-4a57-97c9-79e034b7a263.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1599898526",
+        "FileName": "r2_9a4bf0b8-2fd8-42cb-b83b-b93abefe7dd3.png",
+        "Region": "Japan",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_9a4bf0b8-2fd8-42cb-b83b-b93abefe7dd3.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c94c3d9c-068b-42ca-a298-377603e8eba0.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "3834162856",
+          "FileName": "c94c3d9c-068b-42ca-a298-377603e8eba0.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c94c3d9c-068b-42ca-a298-377603e8eba0.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "458985",
+  "Developer": "5pb.",
+  "ESRB": "Not Rated",
+  "Genres": "Visual Novel",
+  "Name": "Chaos;Head Love Chu Chu!",
+  "Overview": "Chaos;Head Love Chu Chu! was the third collaborative work between 5pb. and Nitroplus after Chaos;Head and Steins;Gate. Character design was handled by Mutsumi Sasaki and the art of the game was provided by Yukihiro Matsuo. The scenario was written by Naotaka Hayashi and the producer was Tatsuya Matsuhara. Product design was done by Choco. According to Tatsuya, the project was conceived during the development of Steins;Gate. The Love Chu Chu! title was narrowed down from a list of about one hundred candidates. The game is described by the developers as an \"exploding delusions ADV\" (妄想爆裂ADV, Mōsō Bakuretsu ADV)",
+  "Publisher": "5pb.",
+  "ReleaseDate": "2010-03-25T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=-dMHXUJyISU",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Chaos;Head_Love_Chu_Chu!"
 }

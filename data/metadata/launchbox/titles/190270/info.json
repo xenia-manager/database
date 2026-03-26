@@ -1,99 +1,99 @@
 {
-  "Name": "Abyss Odyssey",
-  "DatabaseID": "190270",
-  "ReleaseDate": "2014-07-16T00:00:00+00:00",
-  "Overview": "From indie Chilean developer ACE Team comes an Art Nouveau-styled, side-scrolling action adventure game featuring a complex fighting engine in procedurally generated levels that destine its three warriors to battle for an eternity. Enter the bold Katrien, the tortured specter Ghost Monk, and the ethereal Pincoya. Perform combos and chain attacks, and release a flurry of blows in order to survive what lies beneath. Your path into the unknown may start out with three fierce warriors, but when you learn to possess your enemies, you can challenge the abyss with their skills and combat abilities. Use these abilities available to you and attempt to figure out the infinite abyss. But the difficulties in accomplishing this great task don't end there! The side-scrolling levels never play out the same way twice, from the monsters they are filled with, to the locations of life-saving merchants, or the unique encounters and treasures to be found.",
-  "VideoURL": "https://www.youtube.com/watch?v=AZOqYWNTdyQ",
-  "CommunityRating": "4.42857142857143",
-  "WikipediaURL": "https://www.wikipedia.org/wiki/Abyss_Odyssey",
-  "ESRB": "T - Teen",
-  "Genres": "Adventure; Beat 'em Up; Role-Playing",
-  "Developer": "ACE Team Software",
-  "Publisher": "Atlus U.S.A.",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "0ec2a5d2-8c63-4b1b-9c4e-451b1db7733c.png",
-        "Type": "Banner",
-        "CRC32": "3135120359",
-        "URL": "http://images.launchbox-app.com/0ec2a5d2-8c63-4b1b-9c4e-451b1db7733c.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "f08b3143-a719-4a59-a53c-6aa7e4eabd3a.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "895430415",
-        "URL": "http://images.launchbox-app.com/f08b3143-a719-4a59-a53c-6aa7e4eabd3a.jpg"
-      },
-      {
+        "CRC32": "763408363",
         "FileName": "9fd3cb95-7018-47fc-b533-7a861d033ae3.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "763408363",
         "URL": "http://images.launchbox-app.com/9fd3cb95-7018-47fc-b533-7a861d033ae3.jpg"
       },
       {
-        "FileName": "r2_0828065c-c472-4076-a24a-588c2a50549b.jpg",
+        "CRC32": "895430415",
+        "FileName": "f08b3143-a719-4a59-a53c-6aa7e4eabd3a.jpg",
         "Type": "Fanart - Background",
-        "Region": "World",
+        "URL": "http://images.launchbox-app.com/f08b3143-a719-4a59-a53c-6aa7e4eabd3a.jpg"
+      },
+      {
         "CRC32": "3201133136",
+        "FileName": "r2_0828065c-c472-4076-a24a-588c2a50549b.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_0828065c-c472-4076-a24a-588c2a50549b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3135120359",
+        "FileName": "0ec2a5d2-8c63-4b1b-9c4e-451b1db7733c.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/0ec2a5d2-8c63-4b1b-9c4e-451b1db7733c.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c12e68fd-82e0-47f8-a1ce-c414a4330a5f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3545524681",
+          "FileName": "c12e68fd-82e0-47f8-a1ce-c414a4330a5f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c12e68fd-82e0-47f8-a1ce-c414a4330a5f.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_6458a8fe-1562-4bb4-9495-c4bcc8f026ce.png",
-        "Type": "Fanart - Disc",
-        "Region": "North America",
         "CRC32": "3296468138",
+        "FileName": "r2_6458a8fe-1562-4bb4-9495-c4bcc8f026ce.png",
+        "Region": "North America",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/r2_6458a8fe-1562-4bb4-9495-c4bcc8f026ce.png"
       },
       {
-        "FileName": "r2_225fe351-09ef-4e4e-9b00-035bf7154d26.png",
-        "Type": "Fanart - Disc",
-        "Region": "World",
         "CRC32": "2656338228",
+        "FileName": "r2_225fe351-09ef-4e4e-9b00-035bf7154d26.png",
+        "Region": "World",
+        "Type": "Fanart - Disc",
         "URL": "http://images.launchbox-app.com/r2_225fe351-09ef-4e4e-9b00-035bf7154d26.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "988ee5b5-f7ae-42e7-9741-82aade187cc3.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1078520875",
-        "URL": "http://images.launchbox-app.com/988ee5b5-f7ae-42e7-9741-82aade187cc3.jpg"
-      },
-      {
-        "FileName": "ca2f71c7-2a83-45b0-b4ce-206e397b2487.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2206489876",
-        "URL": "http://images.launchbox-app.com/ca2f71c7-2a83-45b0-b4ce-206e397b2487.jpg"
-      },
-      {
-        "FileName": "d62f76ee-a00f-4693-b0ca-362ca33f7839.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1858510563",
-        "URL": "http://images.launchbox-app.com/d62f76ee-a00f-4693-b0ca-362ca33f7839.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "4171730276",
         "FileName": "82ff18de-f13a-4da5-9fd5-f83f4b3b2ed7.png",
         "Type": "Clear Logo",
-        "CRC32": "4171730276",
         "URL": "http://images.launchbox-app.com/82ff18de-f13a-4da5-9fd5-f83f4b3b2ed7.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1078520875",
+        "FileName": "988ee5b5-f7ae-42e7-9741-82aade187cc3.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/988ee5b5-f7ae-42e7-9741-82aade187cc3.jpg"
+      },
+      {
+        "CRC32": "2206489876",
+        "FileName": "ca2f71c7-2a83-45b0-b4ce-206e397b2487.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/ca2f71c7-2a83-45b0-b4ce-206e397b2487.jpg"
+      },
+      {
+        "CRC32": "1858510563",
+        "FileName": "d62f76ee-a00f-4693-b0ca-362ca33f7839.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/d62f76ee-a00f-4693-b0ca-362ca33f7839.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "4.42857142857143",
+  "DatabaseID": "190270",
+  "Developer": "ACE Team Software",
+  "ESRB": "T - Teen",
+  "Genres": "Adventure; Beat 'em Up; Role-Playing",
+  "Name": "Abyss Odyssey",
+  "Overview": "From indie Chilean developer ACE Team comes an Art Nouveau-styled, side-scrolling action adventure game featuring a complex fighting engine in procedurally generated levels that destine its three warriors to battle for an eternity. Enter the bold Katrien, the tortured specter Ghost Monk, and the ethereal Pincoya. Perform combos and chain attacks, and release a flurry of blows in order to survive what lies beneath. Your path into the unknown may start out with three fierce warriors, but when you learn to possess your enemies, you can challenge the abyss with their skills and combat abilities. Use these abilities available to you and attempt to figure out the infinite abyss. But the difficulties in accomplishing this great task don't end there! The side-scrolling levels never play out the same way twice, from the monsters they are filled with, to the locations of life-saving merchants, or the unique encounters and treasures to be found.",
+  "Publisher": "Atlus U.S.A.",
+  "ReleaseDate": "2014-07-16T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=AZOqYWNTdyQ",
+  "WikipediaURL": "https://www.wikipedia.org/wiki/Abyss_Odyssey"
 }

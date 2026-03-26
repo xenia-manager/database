@@ -1,32 +1,32 @@
 {
-  "Name": "DLC Quest: Live Freemium or Die",
-  "DatabaseID": "155177",
-  "ReleaseDate": "2013-03-18T00:00:00+00:00",
-  "Overview": "A new evil rises and the villagers are terrorized. It's up to the hero to save the day while collecting coins and purchasing new DLC packs to aid him. The game introduces environmental hazards, checkpoints, and wall-jumping mechanics, among other things.",
-  "VideoURL": "https://www.youtube.com/watch?v=13gxyO-8mEI",
-  "ESRB": "Not Rated",
-  "Genres": "Platform",
-  "Developer": "Going Loud Studios",
-  "Publisher": "Going Loud Studios",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "487021055",
         "FileName": "69cd00da-c3e6-47ac-a1dc-9d4fd5b1b8a0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "487021055",
         "URL": "http://images.launchbox-app.com/69cd00da-c3e6-47ac-a1dc-9d4fd5b1b8a0.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "61d6e4b3-f03b-49f4-98b4-f88164311362.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1859555110",
+          "FileName": "61d6e4b3-f03b-49f4-98b4-f88164311362.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/61d6e4b3-f03b-49f4-98b4-f88164311362.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "155177",
+  "Developer": "Going Loud Studios",
+  "ESRB": "Not Rated",
+  "Genres": "Platform",
+  "Name": "DLC Quest: Live Freemium or Die",
+  "Overview": "A new evil rises and the villagers are terrorized. It's up to the hero to save the day while collecting coins and purchasing new DLC packs to aid him. The game introduces environmental hazards, checkpoints, and wall-jumping mechanics, among other things.",
+  "Publisher": "Going Loud Studios",
+  "ReleaseDate": "2013-03-18T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=13gxyO-8mEI"
 }

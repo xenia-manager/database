@@ -1,109 +1,109 @@
 {
-  "Name": "Turok",
-  "DatabaseID": "7697",
-  "ReleaseDate": "2008-02-05T00:00:00+00:00",
-  "Overview": "Turok is a first-person shooter developed by Propaganda Games, and published by Touchstone Games and Disney Interactive Studios, originally for the PlayStation 3 and Xbox 360 in February 2008. It was later ported on to Microsoft Windows in April 2008. A sequel was planned and developed for the Xbox 360 but it was cancelled before it was even officially announced.\n\nThe game is loosely based on the comic book series of the same title and is unrelated to the story and setting of previous Turok video games. Players assume the role of Native American space marine Joseph Turok, who is part of a team sent to a remote planet to apprehend his previous commanding officer, General Roland Kane, now a wanted war criminal. After crash landing, Turok discovers this planet is home to all manner of dinosaurs, and must fight both the predatory creatures and Kane's private army on his mission to take down his former mentor.",
-  "VideoURL": "https://www.youtube.com/watch?v=5VgqyBLU4n4&ab_channel=ElAmigoInocente",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Turok_(video_game)",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Propaganda Games",
-  "Publisher": "Disney Interactive Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "3d1acf6b-ac04-41d4-8c65-c93bdafe6dde.png",
-        "Type": "Banner",
-        "CRC32": "4235806532",
-        "URL": "http://images.launchbox-app.com/3d1acf6b-ac04-41d4-8c65-c93bdafe6dde.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2004096737",
         "FileName": "173323ab-a838-4857-923f-553e6d7c6077.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2004096737",
         "URL": "http://images.launchbox-app.com/173323ab-a838-4857-923f-553e6d7c6077.jpg"
       },
       {
+        "CRC32": "1383341331",
         "FileName": "3680cba5-2f37-47ba-9acd-9faa865f0a8a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1383341331",
         "URL": "http://images.launchbox-app.com/3680cba5-2f37-47ba-9acd-9faa865f0a8a.jpg"
       },
       {
-        "FileName": "79470343-14cf-46de-9bd9-f1bdb2653ac6.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "704886170",
-        "URL": "http://images.launchbox-app.com/79470343-14cf-46de-9bd9-f1bdb2653ac6.jpg"
-      },
-      {
+        "CRC32": "4233614515",
         "FileName": "3aa0b261-158d-4d14-8363-bc8d1ab798ef.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4233614515",
         "URL": "http://images.launchbox-app.com/3aa0b261-158d-4d14-8363-bc8d1ab798ef.jpg"
+      },
+      {
+        "CRC32": "704886170",
+        "FileName": "79470343-14cf-46de-9bd9-f1bdb2653ac6.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/79470343-14cf-46de-9bd9-f1bdb2653ac6.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4235806532",
+        "FileName": "3d1acf6b-ac04-41d4-8c65-c93bdafe6dde.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/3d1acf6b-ac04-41d4-8c65-c93bdafe6dde.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "25eb9661-be68-45cd-ae6d-a59002e5896f.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3445846891",
+          "FileName": "25eb9661-be68-45cd-ae6d-a59002e5896f.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/25eb9661-be68-45cd-ae6d-a59002e5896f.png"
         }
       ],
       "Back": [
         {
-          "FileName": "1489d7a9-7dfb-4145-8c8c-9ef0e2580fc0.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2655959115",
+          "FileName": "1489d7a9-7dfb-4145-8c8c-9ef0e2580fc0.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/1489d7a9-7dfb-4145-8c8c-9ef0e2580fc0.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a263243e-15c4-468d-88ce-2cfd7d4f1def.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1668830611",
+          "FileName": "r2_a263243e-15c4-468d-88ce-2cfd7d4f1def.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a263243e-15c4-468d-88ce-2cfd7d4f1def.jpg"
         },
         {
-          "FileName": "43cad3fd-f3c2-4266-826b-353892a1f45b.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1291042423",
+          "FileName": "43cad3fd-f3c2-4266-826b-353892a1f45b.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/43cad3fd-f3c2-4266-826b-353892a1f45b.jpg"
         },
         {
-          "FileName": "ba4625c7-2d80-49e7-9fa8-36725c41803f.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1561348342",
+          "FileName": "ba4625c7-2d80-49e7-9fa8-36725c41803f.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/ba4625c7-2d80-49e7-9fa8-36725c41803f.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "07632779-1633-4a0a-9e87-69ffcaf6ea43.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3628377593",
+        "FileName": "07632779-1633-4a0a-9e87-69ffcaf6ea43.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/07632779-1633-4a0a-9e87-69ffcaf6ea43.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3088651363",
         "FileName": "33dd143b-8244-471b-91f6-6e0e6901ca3b.png",
         "Type": "Clear Logo",
-        "CRC32": "3088651363",
         "URL": "http://images.launchbox-app.com/33dd143b-8244-471b-91f6-6e0e6901ca3b.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "7697",
+  "Developer": "Propaganda Games",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Turok",
+  "Overview": "Turok is a first-person shooter developed by Propaganda Games, and published by Touchstone Games and Disney Interactive Studios, originally for the PlayStation 3 and Xbox 360 in February 2008. It was later ported on to Microsoft Windows in April 2008. A sequel was planned and developed for the Xbox 360 but it was cancelled before it was even officially announced.\n\nThe game is loosely based on the comic book series of the same title and is unrelated to the story and setting of previous Turok video games. Players assume the role of Native American space marine Joseph Turok, who is part of a team sent to a remote planet to apprehend his previous commanding officer, General Roland Kane, now a wanted war criminal. After crash landing, Turok discovers this planet is home to all manner of dinosaurs, and must fight both the predatory creatures and Kane's private army on his mission to take down his former mentor.",
+  "Publisher": "Disney Interactive Studios",
+  "ReleaseDate": "2008-02-05T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=5VgqyBLU4n4&ab_channel=ElAmigoInocente",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Turok_(video_game)"
 }

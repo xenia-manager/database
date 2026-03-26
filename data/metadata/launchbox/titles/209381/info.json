@@ -1,65 +1,65 @@
 {
-  "Name": "Foul Play",
-  "DatabaseID": "209381",
-  "ReleaseDate": "2013-09-18T00:00:00+00:00",
-  "Overview": "Play as the daemon hunter Baron Dashforth in a side-scrolling brawler set ENTIRELY on a theater stage. Perform shattering takedowns and reversals! Electrify spectators with linked attacks, have a friend join as sidekick Scampwick and use every stage-trick you know to bring the house down! Play out the most spectacular moments of the Baron’s life; improbable beasts, astonishing villainy and, at the heart of it all, the mysterious Foul Play.",
-  "CommunityRating": "4",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action; Adventure",
-  "Developer": "Mediatonic",
-  "Publisher": "Sold Out Sales & Marketing",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_eafd796f-c2c3-4a6d-87d4-875031f182d5.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3782491599",
-        "URL": "http://images.launchbox-app.com/r2_eafd796f-c2c3-4a6d-87d4-875031f182d5.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_b94e7d6e-b9ba-4ff3-911e-0749b1f39e01.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3300137400",
+        "FileName": "r2_11588355-48c0-4155-9277-41152735af75.jpg",
         "Region": "World",
-        "CRC32": "2806686881",
-        "URL": "http://images.launchbox-app.com/r2_b94e7d6e-b9ba-4ff3-911e-0749b1f39e01.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_11588355-48c0-4155-9277-41152735af75.jpg"
       },
       {
-        "FileName": "r2_11588355-48c0-4155-9277-41152735af75.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "2806686881",
+        "FileName": "r2_b94e7d6e-b9ba-4ff3-911e-0749b1f39e01.jpg",
         "Region": "World",
-        "CRC32": "3300137400",
-        "URL": "http://images.launchbox-app.com/r2_11588355-48c0-4155-9277-41152735af75.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_b94e7d6e-b9ba-4ff3-911e-0749b1f39e01.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3782491599",
+        "FileName": "r2_eafd796f-c2c3-4a6d-87d4-875031f182d5.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_eafd796f-c2c3-4a6d-87d4-875031f182d5.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "cb2c54af-4e2f-495b-9a11-c14c525372d7.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "180226772",
+          "FileName": "cb2c54af-4e2f-495b-9a11-c14c525372d7.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/cb2c54af-4e2f-495b-9a11-c14c525372d7.jpg"
         },
         {
-          "FileName": "r2_c3fae18d-60bb-44ce-802e-bb4943aa65a5.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3920875320",
+          "FileName": "r2_c3fae18d-60bb-44ce-802e-bb4943aa65a5.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_c3fae18d-60bb-44ce-802e-bb4943aa65a5.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_bbe37fa7-ab63-4dd8-8505-f16c272f95b2.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3099991516",
+        "FileName": "r2_bbe37fa7-ab63-4dd8-8505-f16c272f95b2.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_bbe37fa7-ab63-4dd8-8505-f16c272f95b2.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "209381",
+  "Developer": "Mediatonic",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action; Adventure",
+  "Name": "Foul Play",
+  "Overview": "Play as the daemon hunter Baron Dashforth in a side-scrolling brawler set ENTIRELY on a theater stage. Perform shattering takedowns and reversals! Electrify spectators with linked attacks, have a friend join as sidekick Scampwick and use every stage-trick you know to bring the house down! Play out the most spectacular moments of the Baron’s life; improbable beasts, astonishing villainy and, at the heart of it all, the mysterious Foul Play.",
+  "Publisher": "Sold Out Sales & Marketing",
+  "ReleaseDate": "2013-09-18T00:00:00+00:00"
 }

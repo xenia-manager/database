@@ -1,89 +1,89 @@
 {
-  "Name": "Warriors Orochi 2",
-  "DatabaseID": "7702",
-  "ReleaseDate": "2008-09-18T00:00:00+00:00",
-  "Overview": "Warriors Orochi 2[4] (無双OROCHI魔王再臨 Musō Orochi Maō Sairin?, lit. Unmatched Orochi: Rebirth of the Demon Lord) is a 2008 video game developed by Koei (now Tecmo Koei) and Omega Force for the PlayStation 2. It is the sequel to Warriors Orochi, a crossover video game of the Dynasty Warriors and Samurai Warriors series. The game was released on September 23 in North America and September 19 in Europe. A version for the Xbox 360 was released on September 4, 2008 in Japan, and alongside the PS2 releases in North America and Europe. A PlayStation Portable version has been released in Japan, North America and Europe.",
-  "VideoURL": "https://youtu.be/dCBKDrYSYjk?t=24",
-  "CommunityRating": "3.25",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Warriors_Orochi_2",
-  "ESRB": "T - Teen",
-  "Genres": "Beat 'em Up",
-  "Developer": "Omega Force",
-  "Publisher": "Koei",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3226080667",
         "FileName": "26510059-c8a4-484a-bf32-3817bd4112ef.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3226080667",
         "URL": "http://images.launchbox-app.com/26510059-c8a4-484a-bf32-3817bd4112ef.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "1225558698",
           "FileName": "82964671-47b1-4470-ad7f-4fb1e2e93da6.png",
           "Type": "Box - 3D",
-          "CRC32": "1225558698",
           "URL": "http://images.launchbox-app.com/82964671-47b1-4470-ad7f-4fb1e2e93da6.png"
         }
       ],
       "Back": [
         {
-          "FileName": "89674977-1aa7-4533-8bf6-8e62edf5a034.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3500457763",
+          "FileName": "89674977-1aa7-4533-8bf6-8e62edf5a034.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/89674977-1aa7-4533-8bf6-8e62edf5a034.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_2d640064-0e01-4595-9d62-d4090a1546a5.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2331803306",
+          "FileName": "r2_2d640064-0e01-4595-9d62-d4090a1546a5.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_2d640064-0e01-4595-9d62-d4090a1546a5.jpg"
         },
         {
-          "FileName": "cdc9430f-5fc9-44a7-93aa-6307649671cc.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2640258632",
+          "FileName": "cdc9430f-5fc9-44a7-93aa-6307649671cc.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/cdc9430f-5fc9-44a7-93aa-6307649671cc.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "92eea63f-7e55-4d6a-b975-31be906fea3a.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1794689082",
+        "FileName": "92eea63f-7e55-4d6a-b975-31be906fea3a.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/92eea63f-7e55-4d6a-b975-31be906fea3a.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "a11cbd2f-e48f-4ce4-ae69-1828bb579c7c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2000073265",
-        "URL": "http://images.launchbox-app.com/a11cbd2f-e48f-4ce4-ae69-1828bb579c7c.jpg"
-      },
-      {
-        "FileName": "a250dcf2-7e9b-40ca-a0b5-b0cb463c7768.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1708832308",
-        "URL": "http://images.launchbox-app.com/a250dcf2-7e9b-40ca-a0b5-b0cb463c7768.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "1803726010",
         "FileName": "761f4a6b-c418-476d-8b83-28c57c798109.png",
         "Type": "Clear Logo",
-        "CRC32": "1803726010",
         "URL": "http://images.launchbox-app.com/761f4a6b-c418-476d-8b83-28c57c798109.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2000073265",
+        "FileName": "a11cbd2f-e48f-4ce4-ae69-1828bb579c7c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a11cbd2f-e48f-4ce4-ae69-1828bb579c7c.jpg"
+      },
+      {
+        "CRC32": "1708832308",
+        "FileName": "a250dcf2-7e9b-40ca-a0b5-b0cb463c7768.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a250dcf2-7e9b-40ca-a0b5-b0cb463c7768.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.25",
+  "DatabaseID": "7702",
+  "Developer": "Omega Force",
+  "ESRB": "T - Teen",
+  "Genres": "Beat 'em Up",
+  "Name": "Warriors Orochi 2",
+  "Overview": "Warriors Orochi 2[4] (無双OROCHI魔王再臨 Musō Orochi Maō Sairin?, lit. Unmatched Orochi: Rebirth of the Demon Lord) is a 2008 video game developed by Koei (now Tecmo Koei) and Omega Force for the PlayStation 2. It is the sequel to Warriors Orochi, a crossover video game of the Dynasty Warriors and Samurai Warriors series. The game was released on September 23 in North America and September 19 in Europe. A version for the Xbox 360 was released on September 4, 2008 in Japan, and alongside the PS2 releases in North America and Europe. A PlayStation Portable version has been released in Japan, North America and Europe.",
+  "Publisher": "Koei",
+  "ReleaseDate": "2008-09-18T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/dCBKDrYSYjk?t=24",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Warriors_Orochi_2"
 }

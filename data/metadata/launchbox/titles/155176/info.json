@@ -1,34 +1,34 @@
 {
-  "Name": "Escape Goat",
-  "DatabaseID": "155176",
-  "ReleaseDate": "2011-11-02T00:00:00+00:00",
-  "Overview": "A goat, imprisoned for witchcraft, must escape the treacherous Prison of Agnus. Take heart, for a friendly mouse accompanies you, and he can help in the most unexpected ways. With no combative abilities, you must use the environment to your advantage. A custom-built physics engine powers this mysterious place–watch as rooms rearrange themselves before your eyes.",
-  "VideoURL": "https://www.youtube.com/watch?v=m_4Hd_-K0bg",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Escape_Goat",
-  "ESRB": "Not Rated",
-  "Genres": "Platform; Puzzle",
-  "Developer": "MagicalTimeBean",
-  "Publisher": "MagicalTimeBean",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "834544849",
         "FileName": "f13b6e6a-a2cd-4206-a762-28f5bf4efc80.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "834544849",
         "URL": "http://images.launchbox-app.com/f13b6e6a-a2cd-4206-a762-28f5bf4efc80.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "d5ea42af-002a-4c54-9914-c785ba5b8ed9.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2914501534",
+          "FileName": "d5ea42af-002a-4c54-9914-c785ba5b8ed9.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d5ea42af-002a-4c54-9914-c785ba5b8ed9.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "155176",
+  "Developer": "MagicalTimeBean",
+  "ESRB": "Not Rated",
+  "Genres": "Platform; Puzzle",
+  "Name": "Escape Goat",
+  "Overview": "A goat, imprisoned for witchcraft, must escape the treacherous Prison of Agnus. Take heart, for a friendly mouse accompanies you, and he can help in the most unexpected ways. With no combative abilities, you must use the environment to your advantage. A custom-built physics engine powers this mysterious place–watch as rooms rearrange themselves before your eyes.",
+  "Publisher": "MagicalTimeBean",
+  "ReleaseDate": "2011-11-02T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=m_4Hd_-K0bg",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Escape_Goat"
 }

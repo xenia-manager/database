@@ -1,46 +1,46 @@
 {
-  "Name": "For Glory",
-  "DatabaseID": "469598",
-  "ReleaseDate": "2010-10-29T00:00:00+00:00",
-  "Overview": "Battle your way through a seemingly endless horde of monsters on a journey to stop their evil leader. Defeat monsters to earn glory and upgrade your equipment.",
-  "VideoURL": "https://youtu.be/Wc4BW9Is0K4",
-  "Genres": "Action",
-  "Developer": "Celey",
-  "Publisher": "Celey",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "c3e925f4-7bd0-4707-a628-0d62495b0d86.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3028563421",
+          "FileName": "c3e925f4-7bd0-4707-a628-0d62495b0d86.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c3e925f4-7bd0-4707-a628-0d62495b0d86.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "7dba4b5e-807a-4cf2-8f7a-abbbdbb764b9.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "4020014536",
-        "URL": "http://images.launchbox-app.com/7dba4b5e-807a-4cf2-8f7a-abbbdbb764b9.jpg"
-      },
-      {
-        "FileName": "24d010de-98e8-41c2-8e97-ca3cd06792b6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3743126261",
+        "FileName": "24d010de-98e8-41c2-8e97-ca3cd06792b6.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/24d010de-98e8-41c2-8e97-ca3cd06792b6.jpg"
       },
       {
-        "FileName": "fd78596d-dc95-4a37-b30e-1370f5baa6fc.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "4020014536",
+        "FileName": "7dba4b5e-807a-4cf2-8f7a-abbbdbb764b9.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/7dba4b5e-807a-4cf2-8f7a-abbbdbb764b9.jpg"
+      },
+      {
         "CRC32": "2243619915",
+        "FileName": "fd78596d-dc95-4a37-b30e-1370f5baa6fc.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/fd78596d-dc95-4a37-b30e-1370f5baa6fc.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469598",
+  "Developer": "Celey",
+  "Genres": "Action",
+  "Name": "For Glory",
+  "Overview": "Battle your way through a seemingly endless horde of monsters on a journey to stop their evil leader. Defeat monsters to earn glory and upgrade your equipment.",
+  "Publisher": "Celey",
+  "ReleaseDate": "2010-10-29T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/Wc4BW9Is0K4"
 }

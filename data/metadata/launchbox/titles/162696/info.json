@@ -1,80 +1,80 @@
 {
-  "Name": "Everyone Sing",
-  "DatabaseID": "162696",
-  "Overview": "Everyone Sing is the first multi-format singing game where everyone can sing.",
-  "CommunityRating": "4.5",
-  "Genres": null,
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_3cd5db91-6e00-49a0-b04f-a84f9dbb2fd5.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1047560143",
-        "URL": "http://images.launchbox-app.com/r2_3cd5db91-6e00-49a0-b04f-a84f9dbb2fd5.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_5c31bec9-16f4-425a-a29c-c193173bc46b.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "933600826",
+        "FileName": "r2_5c31bec9-16f4-425a-a29c-c193173bc46b.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_5c31bec9-16f4-425a-a29c-c193173bc46b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1047560143",
+        "FileName": "r2_3cd5db91-6e00-49a0-b04f-a84f9dbb2fd5.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_3cd5db91-6e00-49a0-b04f-a84f9dbb2fd5.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "1864987525",
           "FileName": "b70f0d74-618b-4507-8c7d-dbb59baa8bf9.png",
           "Type": "Box - 3D",
-          "CRC32": "1864987525",
           "URL": "http://images.launchbox-app.com/b70f0d74-618b-4507-8c7d-dbb59baa8bf9.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_ea1bb9a0-b7af-4f15-9c07-f4fa5a3bbc7e.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2670378850",
+          "FileName": "r2_ea1bb9a0-b7af-4f15-9c07-f4fa5a3bbc7e.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_ea1bb9a0-b7af-4f15-9c07-f4fa5a3bbc7e.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "0406b7b6-b4a3-4830-a19b-c18ab0f3bcb3.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "4055973421",
+          "FileName": "0406b7b6-b4a3-4830-a19b-c18ab0f3bcb3.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0406b7b6-b4a3-4830-a19b-c18ab0f3bcb3.jpg"
         },
         {
-          "FileName": "r2_857ccb5b-9634-47b3-8405-d4ec1e04e7c4.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3014365699",
+          "FileName": "r2_857ccb5b-9634-47b3-8405-d4ec1e04e7c4.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_857ccb5b-9634-47b3-8405-d4ec1e04e7c4.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_0499fc0d-231b-48da-81b0-fcb169f1a14b.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "849506361",
+        "FileName": "r2_0499fc0d-231b-48da-81b0-fcb169f1a14b.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_0499fc0d-231b-48da-81b0-fcb169f1a14b.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_7a152777-0610-435c-871d-33da5b7be6d1.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "939058392",
+        "FileName": "r2_7a152777-0610-435c-871d-33da5b7be6d1.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_7a152777-0610-435c-871d-33da5b7be6d1.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "162696",
+  "Genres": null,
+  "Name": "Everyone Sing",
+  "Overview": "Everyone Sing is the first multi-format singing game where everyone can sing."
 }

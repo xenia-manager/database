@@ -1,41 +1,41 @@
 {
-  "Name": "FunTown Mahjong",
-  "DatabaseID": "209386",
-  "ReleaseDate": "2009-12-16T00:00:00+00:00",
-  "Overview": "FunTown Mahjong is a board video game based on Mahjong released on January 28, 2009 for the Xbox Live Arcade. It was created by Taiwanese developer Funtown World Studios.\n\nGameplay\nClassic gameplay: A clear scoring system and the standard 16-tile Mahjong rules provide a classic gaming experience.\nGreat visuals: The vivid audio and visuals keep you in the game, and give you the ability to change background images and tiles.\nEasy to learn: The simple tutorial mode gives you all the information you need for those new to the game.",
-  "CommunityRating": "2.33333333333333",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/FunTown_Mahjong",
-  "ESRB": "E - Everyone",
-  "Genres": "Board Game; Casino",
-  "Developer": "FunTown World",
-  "Publisher": "Microsoft",
   "Artwork": {
     "Banner": [
       {
-        "FileName": "r2_59435092-704f-47f4-96b3-510bba3aee04.png",
-        "Type": "Banner",
-        "Region": "World",
         "CRC32": "452242816",
+        "FileName": "r2_59435092-704f-47f4-96b3-510bba3aee04.png",
+        "Region": "World",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/r2_59435092-704f-47f4-96b3-510bba3aee04.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_c5a92308-98dd-4263-8687-724d990dae67.jpg",
-          "Type": "Box - Front",
+          "CRC32": "550130813",
+          "FileName": "6f3a044f-9b1c-40be-87f9-d4b4883b965b.jpg",
           "Region": "World",
-          "CRC32": "3790975288",
-          "URL": "http://images.launchbox-app.com/r2_c5a92308-98dd-4263-8687-724d990dae67.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/6f3a044f-9b1c-40be-87f9-d4b4883b965b.jpg"
         },
         {
-          "FileName": "6f3a044f-9b1c-40be-87f9-d4b4883b965b.jpg",
-          "Type": "Box - Front",
+          "CRC32": "3790975288",
+          "FileName": "r2_c5a92308-98dd-4263-8687-724d990dae67.jpg",
           "Region": "World",
-          "CRC32": "550130813",
-          "URL": "http://images.launchbox-app.com/6f3a044f-9b1c-40be-87f9-d4b4883b965b.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_c5a92308-98dd-4263-8687-724d990dae67.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "2.33333333333333",
+  "DatabaseID": "209386",
+  "Developer": "FunTown World",
+  "ESRB": "E - Everyone",
+  "Genres": "Board Game; Casino",
+  "Name": "FunTown Mahjong",
+  "Overview": "FunTown Mahjong is a board video game based on Mahjong released on January 28, 2009 for the Xbox Live Arcade. It was created by Taiwanese developer Funtown World Studios.\n\nGameplay\nClassic gameplay: A clear scoring system and the standard 16-tile Mahjong rules provide a classic gaming experience.\nGreat visuals: The vivid audio and visuals keep you in the game, and give you the ability to change background images and tiles.\nEasy to learn: The simple tutorial mode gives you all the information you need for those new to the game.",
+  "Publisher": "Microsoft",
+  "ReleaseDate": "2009-12-16T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/FunTown_Mahjong"
 }

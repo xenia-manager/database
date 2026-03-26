@@ -1,56 +1,56 @@
 {
-  "Name": "Stormrise",
-  "DatabaseID": "13431",
-  "ReleaseDate": "2009-03-24T00:00:00+00:00",
-  "Overview": "Stormrise is a real-time tactics video game developed by The Creative Assembly's Australian studio and published by Sega for Microsoft Windows, PlayStation 3, and Xbox 360.",
-  "CommunityRating": "3",
-  "Genres": "Strategy",
-  "Developer": "Creative Assembly",
-  "Publisher": "Sega",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "r2_faaf67f9-1d27-4ebb-b7f7-35bec8a4c43b.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2036670872",
+          "FileName": "r2_faaf67f9-1d27-4ebb-b7f7-35bec8a4c43b.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_faaf67f9-1d27-4ebb-b7f7-35bec8a4c43b.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_d9d47a1b-96e7-48b9-b72f-cad701e16bcf.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "804301807",
+          "FileName": "r2_d9d47a1b-96e7-48b9-b72f-cad701e16bcf.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d9d47a1b-96e7-48b9-b72f-cad701e16bcf.jpg"
         },
         {
-          "FileName": "a761c692-1cc5-4d1d-8b1c-16a30d9017c0.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1590680947",
+          "FileName": "a761c692-1cc5-4d1d-8b1c-16a30d9017c0.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a761c692-1cc5-4d1d-8b1c-16a30d9017c0.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "f4df8f1c-2628-4d39-966d-0e3e5eafa26c.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "3847505235",
+        "FileName": "f4df8f1c-2628-4d39-966d-0e3e5eafa26c.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/f4df8f1c-2628-4d39-966d-0e3e5eafa26c.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1337285642",
         "FileName": "a7ea4466-99e0-4917-a626-0c57427e6b5a.png",
         "Type": "Clear Logo",
-        "CRC32": "1337285642",
         "URL": "http://images.launchbox-app.com/a7ea4466-99e0-4917-a626-0c57427e6b5a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "13431",
+  "Developer": "Creative Assembly",
+  "Genres": "Strategy",
+  "Name": "Stormrise",
+  "Overview": "Stormrise is a real-time tactics video game developed by The Creative Assembly's Australian studio and published by Sega for Microsoft Windows, PlayStation 3, and Xbox 360.",
+  "Publisher": "Sega",
+  "ReleaseDate": "2009-03-24T00:00:00+00:00"
 }

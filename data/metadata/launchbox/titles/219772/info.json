@@ -1,52 +1,52 @@
 {
-  "Name": "Gel: Set & Match",
-  "DatabaseID": "219772",
-  "ReleaseDate": "2009-05-20T00:00:00+00:00",
-  "Overview": "Gel is a puzzle game in which players use a small character to move colored blocks and arrange them into formations. Players can also customize their characters with a variety of zany costumes.",
-  "VideoURL": "https://www.youtube.com/watch?v=euST9lZOZdw",
-  "CommunityRating": "3",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "Gastronaut Studios",
-  "Publisher": "Xbox Game Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_4916af30-6633-4bd2-8f4d-e286802538b8.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "599152492",
-        "URL": "http://images.launchbox-app.com/r2_4916af30-6633-4bd2-8f4d-e286802538b8.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_59765785-ca13-4081-b15b-e7dd6fde5eec.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2094110238",
+        "FileName": "r2_59765785-ca13-4081-b15b-e7dd6fde5eec.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_59765785-ca13-4081-b15b-e7dd6fde5eec.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "599152492",
+        "FileName": "r2_4916af30-6633-4bd2-8f4d-e286802538b8.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_4916af30-6633-4bd2-8f4d-e286802538b8.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "5b5cca49-bdc2-4fab-8601-ce78fcff4b33.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1253571812",
+          "FileName": "5b5cca49-bdc2-4fab-8601-ce78fcff4b33.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5b5cca49-bdc2-4fab-8601-ce78fcff4b33.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_1b7ffcf0-a7a9-43df-9dec-7b733534143a.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "694997925",
+        "FileName": "r2_1b7ffcf0-a7a9-43df-9dec-7b733534143a.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_1b7ffcf0-a7a9-43df-9dec-7b733534143a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "219772",
+  "Developer": "Gastronaut Studios",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Gel: Set & Match",
+  "Overview": "Gel is a puzzle game in which players use a small character to move colored blocks and arrange them into formations. Players can also customize their characters with a variety of zany costumes.",
+  "Publisher": "Xbox Game Studios",
+  "ReleaseDate": "2009-05-20T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=euST9lZOZdw"
 }

@@ -1,92 +1,92 @@
 {
-  "Name": "Halo 3 Limited Edition",
-  "DatabaseID": "14577",
-  "ReleaseDate": "2007-09-25T00:00:00+00:00",
-  "Overview": "Master Chief returns to a Covenant Dominated Earth on a mission to kill the final alien leader. Meanwhile, the Arbiter, Johnson, and Keyes form a loose alliance and escape from Delta Halo. The Covenant is ripped in civil war, and the Elites along with a handful of other alien races become sympathetic to the human cause. Delta Halo's impromptu dis-activation has brought all of the Halos to a \"remote activation phase\". They can be activated from a facility called the ark, which happens to be on Earth.",
-  "CommunityRating": "4.5",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Adventure; Shooter",
-  "Developer": "Bungie Studios",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1169283895",
         "FileName": "178d259d-2b46-487e-9ae0-6f563ce5a68d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1169283895",
         "URL": "http://images.launchbox-app.com/178d259d-2b46-487e-9ae0-6f563ce5a68d.jpg"
       },
       {
+        "CRC32": "3052958489",
         "FileName": "5f1dcfe9-7b2e-443b-9984-e793388e3ea3.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3052958489",
         "URL": "http://images.launchbox-app.com/5f1dcfe9-7b2e-443b-9984-e793388e3ea3.jpg"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "2dc84877-ac0d-4d02-a26b-d60ce2921a44.png",
-          "Type": "Box - Back",
-          "Region": "Korea",
           "CRC32": "2174864872",
+          "FileName": "2dc84877-ac0d-4d02-a26b-d60ce2921a44.png",
+          "Region": "Korea",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/2dc84877-ac0d-4d02-a26b-d60ce2921a44.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "781003707",
           "FileName": "909b2638-fcad-4fc6-8e15-129314a1ab44.jpg",
           "Type": "Box - Front",
-          "CRC32": "781003707",
           "URL": "http://images.launchbox-app.com/909b2638-fcad-4fc6-8e15-129314a1ab44.jpg"
         },
         {
-          "FileName": "7ab8461c-1a3e-407b-8d20-db5a2346a421.png",
-          "Type": "Box - Front",
-          "Region": "Korea",
           "CRC32": "3068247295",
+          "FileName": "7ab8461c-1a3e-407b-8d20-db5a2346a421.png",
+          "Region": "Korea",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7ab8461c-1a3e-407b-8d20-db5a2346a421.png"
         },
         {
-          "FileName": "7409eafd-a4a4-4cb4-98af-05359dfe5424.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "9211164",
+          "FileName": "7409eafd-a4a4-4cb4-98af-05359dfe5424.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7409eafd-a4a4-4cb4-98af-05359dfe5424.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "320468d5-059e-46be-a1f2-c643f65b6454.png",
-          "Type": "Box - Spine",
-          "Region": "Korea",
           "CRC32": "3686906798",
+          "FileName": "320468d5-059e-46be-a1f2-c643f65b6454.png",
+          "Region": "Korea",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/320468d5-059e-46be-a1f2-c643f65b6454.png"
         },
         {
-          "FileName": "36ed920c-3392-43a2-9baf-a02b62a3337b.png",
-          "Type": "Box - Spine",
-          "Region": "Korea",
           "CRC32": "352452540",
+          "FileName": "36ed920c-3392-43a2-9baf-a02b62a3337b.png",
+          "Region": "Korea",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/36ed920c-3392-43a2-9baf-a02b62a3337b.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "e18993bc-1456-4955-878a-cb3677ced711.png",
-        "Type": "Disc",
+        "CRC32": "3453300846",
+        "FileName": "8b20b8e6-7efb-4a43-aadb-ff48c3621dbc.png",
         "Region": "Korea",
-        "CRC32": "4039737760",
-        "URL": "http://images.launchbox-app.com/e18993bc-1456-4955-878a-cb3677ced711.png"
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/8b20b8e6-7efb-4a43-aadb-ff48c3621dbc.png"
       },
       {
-        "FileName": "8b20b8e6-7efb-4a43-aadb-ff48c3621dbc.png",
-        "Type": "Disc",
+        "CRC32": "4039737760",
+        "FileName": "e18993bc-1456-4955-878a-cb3677ced711.png",
         "Region": "Korea",
-        "CRC32": "3453300846",
-        "URL": "http://images.launchbox-app.com/8b20b8e6-7efb-4a43-aadb-ff48c3621dbc.png"
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/e18993bc-1456-4955-878a-cb3677ced711.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.5",
+  "DatabaseID": "14577",
+  "Developer": "Bungie Studios",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Adventure; Shooter",
+  "Name": "Halo 3 Limited Edition",
+  "Overview": "Master Chief returns to a Covenant Dominated Earth on a mission to kill the final alien leader. Meanwhile, the Arbiter, Johnson, and Keyes form a loose alliance and escape from Delta Halo. The Covenant is ripped in civil war, and the Elites along with a handful of other alien races become sympathetic to the human cause. Delta Halo's impromptu dis-activation has brought all of the Halos to a \"remote activation phase\". They can be activated from a facility called the ark, which happens to be on Earth.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2007-09-25T00:00:00+00:00"
 }

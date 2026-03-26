@@ -1,93 +1,93 @@
 {
-  "Name": "Cars: Race-O-Rama",
-  "DatabaseID": "162441",
-  "ReleaseDate": "2009-10-13T00:00:00+00:00",
-  "Overview": "Cars: Race-O-Rama is a racing game set in the Disney/Pixar Cars universe. It is the third entry in a series of THQ licensed games that include Cars and Cars: Mater-National Championship . The game includes a single-player story mode and an arcade mode. In story mode, you progress through a series of races and mini-games with a series of cutscenes. In arcade mode, you can replay story mode events and compete in 2-player split-screen races.\n\nThe plot of Cars: Race-O-Rama centers around Lightning McQueen as he trains students of the Doc Hudson Racing Academy to compete in the Race-O-Rama Circuit. Soon, Lightning discovers that his arch-enemy, Chick Hicks, is training a rival group of racers who don't race by the rules. Lightning must compete against these rival racers in an effort to win the Race-O-Rama trophy.\n\nStory mode uses an open-world format, where you can explore the world and play different events by driving to marked waypoints. There are 7 different main explorable areas including Radiator Springs Stadium, Ornament Valley, Tailfin Pass, Radiator Springs, Santa Carburera, Autovia, and Motoropolis. There are also 3 mini-games based on the Disney/Pixar animated short series \"Cars Toons\" that center around the character Mater. These include \"Mater the Greater\", \"El Materdor\", and \"Tokyo Mater\".\n\nWhile racing, there is a boost meter that slowly fills over time. Using the boost will give you a quick speed increase. There is also a new drifting mechanic that allows you to take tighter turns and fill the boost meter more rapidly. You can also jump in most races to avoid obstacles and other racers.",
-  "VideoURL": "https://www.youtube.com/watch?v=0dTKnVSENgk",
-  "CommunityRating": "3.875",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Cars_Race-O-Rama",
-  "ESRB": "E - Everyone",
-  "Genres": "Racing",
-  "Developer": "Incinerator Studios",
-  "Publisher": "THQ",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_8ca3c00a-7117-4a83-9e29-cd5ae5cc0640.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2354273528",
-        "URL": "http://images.launchbox-app.com/r2_8ca3c00a-7117-4a83-9e29-cd5ae5cc0640.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2316746207",
         "FileName": "6dc86fda-ee89-437c-bc22-926d61da8b90.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2316746207",
         "URL": "http://images.launchbox-app.com/6dc86fda-ee89-437c-bc22-926d61da8b90.jpg"
       },
       {
-        "FileName": "r2_39910ad9-2a82-4645-89ab-323f60e0fae7.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2128132420",
+        "FileName": "r2_39910ad9-2a82-4645-89ab-323f60e0fae7.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_39910ad9-2a82-4645-89ab-323f60e0fae7.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2354273528",
+        "FileName": "r2_8ca3c00a-7117-4a83-9e29-cd5ae5cc0640.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_8ca3c00a-7117-4a83-9e29-cd5ae5cc0640.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "bc14e20a-9f91-46ed-bcac-b73e1f19cd31.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3322538444",
+          "FileName": "bc14e20a-9f91-46ed-bcac-b73e1f19cd31.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/bc14e20a-9f91-46ed-bcac-b73e1f19cd31.png"
         }
       ],
       "Back": [
         {
-          "FileName": "7752592b-fc13-4971-9756-7120f98adc9a.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1114317631",
+          "FileName": "7752592b-fc13-4971-9756-7120f98adc9a.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/7752592b-fc13-4971-9756-7120f98adc9a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a1b1c927-4e6f-4ac2-8a27-9e1f8e897782.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "912632603",
+          "FileName": "r2_a1b1c927-4e6f-4ac2-8a27-9e1f8e897782.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a1b1c927-4e6f-4ac2-8a27-9e1f8e897782.jpg"
         },
         {
-          "FileName": "aa071bb9-cfe3-4158-8c92-104fbc87f68e.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3017133334",
+          "FileName": "aa071bb9-cfe3-4158-8c92-104fbc87f68e.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/aa071bb9-cfe3-4158-8c92-104fbc87f68e.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "da4edc6d-fa5d-4f27-8fc6-2817bf31b4e6.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3875360608",
+        "FileName": "da4edc6d-fa5d-4f27-8fc6-2817bf31b4e6.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/da4edc6d-fa5d-4f27-8fc6-2817bf31b4e6.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_eaef6d16-2476-4ce9-8108-fe84e5803e2d.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "970303791",
+        "FileName": "r2_eaef6d16-2476-4ce9-8108-fe84e5803e2d.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_eaef6d16-2476-4ce9-8108-fe84e5803e2d.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.875",
+  "DatabaseID": "162441",
+  "Developer": "Incinerator Studios",
+  "ESRB": "E - Everyone",
+  "Genres": "Racing",
+  "Name": "Cars: Race-O-Rama",
+  "Overview": "Cars: Race-O-Rama is a racing game set in the Disney/Pixar Cars universe. It is the third entry in a series of THQ licensed games that include Cars and Cars: Mater-National Championship . The game includes a single-player story mode and an arcade mode. In story mode, you progress through a series of races and mini-games with a series of cutscenes. In arcade mode, you can replay story mode events and compete in 2-player split-screen races.\n\nThe plot of Cars: Race-O-Rama centers around Lightning McQueen as he trains students of the Doc Hudson Racing Academy to compete in the Race-O-Rama Circuit. Soon, Lightning discovers that his arch-enemy, Chick Hicks, is training a rival group of racers who don't race by the rules. Lightning must compete against these rival racers in an effort to win the Race-O-Rama trophy.\n\nStory mode uses an open-world format, where you can explore the world and play different events by driving to marked waypoints. There are 7 different main explorable areas including Radiator Springs Stadium, Ornament Valley, Tailfin Pass, Radiator Springs, Santa Carburera, Autovia, and Motoropolis. There are also 3 mini-games based on the Disney/Pixar animated short series \"Cars Toons\" that center around the character Mater. These include \"Mater the Greater\", \"El Materdor\", and \"Tokyo Mater\".\n\nWhile racing, there is a boost meter that slowly fills over time. Using the boost will give you a quick speed increase. There is also a new drifting mechanic that allows you to take tighter turns and fill the boost meter more rapidly. You can also jump in most races to avoid obstacles and other racers.",
+  "Publisher": "THQ",
+  "ReleaseDate": "2009-10-13T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=0dTKnVSENgk",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Cars_Race-O-Rama"
 }

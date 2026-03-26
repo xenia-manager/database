@@ -1,86 +1,86 @@
 {
-  "Name": "Guitar Hero II",
-  "DatabaseID": "7487",
-  "ReleaseDate": "2007-04-03T00:00:00+00:00",
-  "Overview": "Guitar Hero II, the follow-up to the PS2-only game Guitar Hero, expands upon the gameplay and features of the original game. As a wannabe rockstar, you need to play songs by pressing combinations of five fret buttons on a guitar-shaped controller, while working the strum bar, along with an optional whammy bar for distortion. The sequel contains 64 songs, of which 40 have been licensed. One of the tracks was discovered through a contest at beaguitarhero.com, where unlicensed bands could send in a demo to be included in the game. Most of the tracks have been covered in-studio, but a few use original recordings.",
-  "VideoURL": "https://www.youtube.com/watch?v=AktdtY8XOos",
-  "CommunityRating": "4.1875",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_II",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Harmonix Music Systems",
-  "Publisher": "RedOctane",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_910ebea4-062c-4d0a-89e6-30b6573db9b9.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3911843255",
-        "URL": "http://images.launchbox-app.com/r2_910ebea4-062c-4d0a-89e6-30b6573db9b9.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_6392cc95-a27d-433e-88a8-05e66da92e4a.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "218689995",
+        "FileName": "r2_6392cc95-a27d-433e-88a8-05e66da92e4a.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_6392cc95-a27d-433e-88a8-05e66da92e4a.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3911843255",
+        "FileName": "r2_910ebea4-062c-4d0a-89e6-30b6573db9b9.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_910ebea4-062c-4d0a-89e6-30b6573db9b9.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "2692826e-2b45-4f61-9e4e-ed3b0d22d35c.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1396405507",
+          "FileName": "2692826e-2b45-4f61-9e4e-ed3b0d22d35c.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/2692826e-2b45-4f61-9e4e-ed3b0d22d35c.png"
         }
       ],
       "Back": [
         {
-          "FileName": "d3fb08d4-b531-45f9-ad7d-feb340479ba8.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3318485837",
+          "FileName": "d3fb08d4-b531-45f9-ad7d-feb340479ba8.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/d3fb08d4-b531-45f9-ad7d-feb340479ba8.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_0a5d09a6-3cca-4228-b357-9a068b761c5e.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "36390563",
+          "FileName": "r2_0a5d09a6-3cca-4228-b357-9a068b761c5e.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_0a5d09a6-3cca-4228-b357-9a068b761c5e.jpg"
         },
         {
-          "FileName": "9a408138-4006-405f-ac4f-6d9830281db2.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3431072988",
+          "FileName": "9a408138-4006-405f-ac4f-6d9830281db2.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/9a408138-4006-405f-ac4f-6d9830281db2.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_3fe54cc9-b847-4612-8a4e-c9572f6c592b.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1802851822",
+        "FileName": "r2_3fe54cc9-b847-4612-8a4e-c9572f6c592b.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_3fe54cc9-b847-4612-8a4e-c9572f6c592b.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3430328783",
         "FileName": "f89802d1-2047-4bf3-870f-e0e3b3b4b5ce.png",
         "Type": "Clear Logo",
-        "CRC32": "3430328783",
         "URL": "http://images.launchbox-app.com/f89802d1-2047-4bf3-870f-e0e3b3b4b5ce.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.1875",
+  "DatabaseID": "7487",
+  "Developer": "Harmonix Music Systems",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "Guitar Hero II",
+  "Overview": "Guitar Hero II, the follow-up to the PS2-only game Guitar Hero, expands upon the gameplay and features of the original game. As a wannabe rockstar, you need to play songs by pressing combinations of five fret buttons on a guitar-shaped controller, while working the strum bar, along with an optional whammy bar for distortion. The sequel contains 64 songs, of which 40 have been licensed. One of the tracks was discovered through a contest at beaguitarhero.com, where unlicensed bands could send in a demo to be included in the game. Most of the tracks have been covered in-studio, but a few use original recordings.",
+  "Publisher": "RedOctane",
+  "ReleaseDate": "2007-04-03T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=AktdtY8XOos",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_II"
 }

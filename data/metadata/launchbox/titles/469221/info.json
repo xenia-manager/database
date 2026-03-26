@@ -1,32 +1,32 @@
 {
-  "Name": "Evan Quest",
-  "DatabaseID": "469221",
-  "ReleaseDate": "2012-02-19T00:00:00+00:00",
-  "Overview": "Evan Quest - An interactive story book for young readers.",
-  "VideoURL": "https://youtu.be/5NVBJ1Bkhtw",
-  "Genres": "Adventure",
-  "Developer": "ECHS BACHS",
-  "Publisher": "ECHS BACHS",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "aeac7738-b6cc-4e65-9d4a-be152a766d1f.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2494570615",
+          "FileName": "aeac7738-b6cc-4e65-9d4a-be152a766d1f.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/aeac7738-b6cc-4e65-9d4a-be152a766d1f.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "d5e7f51e-bcd5-429a-9477-99c83757aacb.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2373855843",
+        "FileName": "d5e7f51e-bcd5-429a-9477-99c83757aacb.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/d5e7f51e-bcd5-429a-9477-99c83757aacb.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469221",
+  "Developer": "ECHS BACHS",
+  "Genres": "Adventure",
+  "Name": "Evan Quest",
+  "Overview": "Evan Quest - An interactive story book for young readers.",
+  "Publisher": "ECHS BACHS",
+  "ReleaseDate": "2012-02-19T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/5NVBJ1Bkhtw"
 }

@@ -1,23 +1,23 @@
 {
-  "Name": "Catalyst 2012",
-  "DatabaseID": "468360",
-  "ReleaseDate": "2012-12-20T00:00:00+00:00",
-  "Overview": "Based on the 2012 FIRST® Robotics Competition, Catalyst 2012 is a game where up to 4 players compete in a basketball-like game with 5 foot tall, 120 pound robots! To win the match you will need to strategize with your alliance partner and customize your robot to one of over 900 unique configurations!",
-  "VideoURL": "https://youtu.be/4k5d1rvbJ3A",
-  "Genres": "Action",
-  "Developer": "Diamond Bullet Studios",
-  "Publisher": "Diamond Bullet Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "fc04eae8-cb08-48e4-b3df-8db3b54509f7.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3012190725",
+          "FileName": "fc04eae8-cb08-48e4-b3df-8db3b54509f7.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/fc04eae8-cb08-48e4-b3df-8db3b54509f7.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468360",
+  "Developer": "Diamond Bullet Studios",
+  "Genres": "Action",
+  "Name": "Catalyst 2012",
+  "Overview": "Based on the 2012 FIRST® Robotics Competition, Catalyst 2012 is a game where up to 4 players compete in a basketball-like game with 5 foot tall, 120 pound robots! To win the match you will need to strategize with your alliance partner and customize your robot to one of over 900 unique configurations!",
+  "Publisher": "Diamond Bullet Studios",
+  "ReleaseDate": "2012-12-20T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/4k5d1rvbJ3A"
 }

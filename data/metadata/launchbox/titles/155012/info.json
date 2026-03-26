@@ -1,32 +1,32 @@
 {
-  "Name": "NYAN-TECH",
-  "DatabaseID": "155012",
-  "ReleaseDate": "2011-02-04T00:00:00+00:00",
-  "Overview": "NYAN-TECH is a puzzle platformer where the goal is simply to get a key and find an exit door. The unique factor here is that the controller's 4 triggers and 4 colored face buttons are used to activate platforms. The harder difficulty levels (and especially the Expert levels) demand multiple buttons be pressed at the same time while jumping and dodging various spikes. \n\nThe game is separated into 5 different difficulty stages, Tutorial, Easy, Normal, Hard, and Expert, each containing 10 levels. Expert is unlocked after beating the Hard difficulty. Expert is hidden on the level select screen, but can be accessed by pressing down after highlighting Hard.",
-  "VideoURL": "https://www.youtube.com/watch?v=jq1wTLuny0I",
-  "ESRB": "Not Rated",
-  "Genres": "Platform; Puzzle",
-  "Developer": "Dot Zo Games",
-  "Publisher": "Dot Zo Games",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1402135412",
         "FileName": "2bc1eaff-9795-4ba8-9a3a-4816ba7a9bdc.png",
         "Type": "Fanart - Background",
-        "CRC32": "1402135412",
         "URL": "http://images.launchbox-app.com/2bc1eaff-9795-4ba8-9a3a-4816ba7a9bdc.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "4517af87-3857-41de-8e8d-554aeb4f6dee.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "2123963065",
+          "FileName": "4517af87-3857-41de-8e8d-554aeb4f6dee.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4517af87-3857-41de-8e8d-554aeb4f6dee.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "155012",
+  "Developer": "Dot Zo Games",
+  "ESRB": "Not Rated",
+  "Genres": "Platform; Puzzle",
+  "Name": "NYAN-TECH",
+  "Overview": "NYAN-TECH is a puzzle platformer where the goal is simply to get a key and find an exit door. The unique factor here is that the controller's 4 triggers and 4 colored face buttons are used to activate platforms. The harder difficulty levels (and especially the Expert levels) demand multiple buttons be pressed at the same time while jumping and dodging various spikes. \n\nThe game is separated into 5 different difficulty stages, Tutorial, Easy, Normal, Hard, and Expert, each containing 10 levels. Expert is unlocked after beating the Hard difficulty. Expert is hidden on the level select screen, but can be accessed by pressing down after highlighting Hard.",
+  "Publisher": "Dot Zo Games",
+  "ReleaseDate": "2011-02-04T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=jq1wTLuny0I"
 }

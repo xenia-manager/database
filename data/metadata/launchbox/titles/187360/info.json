@@ -1,41 +1,41 @@
 {
-  "Name": "Qix++",
-  "DatabaseID": "187360",
-  "ReleaseDate": "2009-12-09T00:00:00+00:00",
-  "Overview": "Inheriting the style of the renowned arcade title, QIX++ allows you to take up the fight again in a variety of different ways. With customized weapon improvements, a technique-based scoring system, and events triggered by opening Item Containers, the evolution of the series has truly come a long way.The object of the game is to defeat the QIX using the marker. When the total area cut off by the marker reaches a percentage equal to the Threshold, your final attack begins and you have cleared the stage.",
-  "CommunityRating": "3.1",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Qix%2B%2B",
-  "ESRB": "E - Everyone",
-  "Genres": "Action; Puzzle",
-  "Developer": "Pegasus Japan",
-  "Publisher": "Taito",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "6bac963b-a411-41c1-bba0-3539ad8991c0.png",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2502332698",
+          "FileName": "6bac963b-a411-41c1-bba0-3539ad8991c0.png",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6bac963b-a411-41c1-bba0-3539ad8991c0.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "221bab9d-53e8-4234-8a71-bcad2494eeda.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2761925432",
-        "URL": "http://images.launchbox-app.com/221bab9d-53e8-4234-8a71-bcad2494eeda.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "3972297895",
         "FileName": "04d84623-bf7f-452c-92c1-586c4b6742bb.png",
         "Type": "Clear Logo",
-        "CRC32": "3972297895",
         "URL": "http://images.launchbox-app.com/04d84623-bf7f-452c-92c1-586c4b6742bb.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2761925432",
+        "FileName": "221bab9d-53e8-4234-8a71-bcad2494eeda.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/221bab9d-53e8-4234-8a71-bcad2494eeda.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.1",
+  "DatabaseID": "187360",
+  "Developer": "Pegasus Japan",
+  "ESRB": "E - Everyone",
+  "Genres": "Action; Puzzle",
+  "Name": "Qix++",
+  "Overview": "Inheriting the style of the renowned arcade title, QIX++ allows you to take up the fight again in a variety of different ways. With customized weapon improvements, a technique-based scoring system, and events triggered by opening Item Containers, the evolution of the series has truly come a long way.The object of the game is to defeat the QIX using the marker. When the total area cut off by the marker reaches a percentage equal to the Threshold, your final attack begins and you have cleared the stage.",
+  "Publisher": "Taito",
+  "ReleaseDate": "2009-12-09T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Qix%2B%2B"
 }

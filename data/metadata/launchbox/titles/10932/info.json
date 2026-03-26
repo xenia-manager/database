@@ -1,107 +1,107 @@
 {
-  "Name": "L.A. Noire",
-  "DatabaseID": "10932",
-  "ReleaseDate": "2011-05-17T00:00:00+00:00",
-  "Overview": "L.A. Noire is set in Los Angeles in 1947 and challenges the player, assuming the role of a Los Angeles Police Department (LAPD) detective, to solve a range of cases across five departments. Players must investigate crime scenes for clues, follow up leads, and interrogate suspects, and the players' success at these activities will impact how much of the cases' stories are revealed.",
-  "VideoURL": "https://youtube.com/watch?v=06YWcBJ9dt4",
-  "CommunityRating": "4.38461538461539",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/L.A._Noire",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Adventure",
-  "Developer": "Team Bondi",
-  "Publisher": "Rockstar Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_2a30a989-642e-47d4-989e-b4ac473e7416.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2808823270",
-        "URL": "http://images.launchbox-app.com/r2_2a30a989-642e-47d4-989e-b4ac473e7416.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_b17d8cee-2464-4482-8680-1b13d1d2e6d5.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "987159130",
+        "FileName": "r2_b17d8cee-2464-4482-8680-1b13d1d2e6d5.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_b17d8cee-2464-4482-8680-1b13d1d2e6d5.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2808823270",
+        "FileName": "r2_2a30a989-642e-47d4-989e-b4ac473e7416.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_2a30a989-642e-47d4-989e-b4ac473e7416.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "9dd4329e-42a0-4f62-83ad-7259797bc222.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2880156396",
+          "FileName": "9dd4329e-42a0-4f62-83ad-7259797bc222.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/9dd4329e-42a0-4f62-83ad-7259797bc222.png"
         }
       ],
       "Back": [
         {
-          "FileName": "5115cc50-9cfe-4192-bff5-073eb1b79360.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1390623858",
+          "FileName": "5115cc50-9cfe-4192-bff5-073eb1b79360.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/5115cc50-9cfe-4192-bff5-073eb1b79360.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_dd01aa7c-1b62-4cf6-ae13-b0d917f672b7.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2972102276",
+          "FileName": "r2_dd01aa7c-1b62-4cf6-ae13-b0d917f672b7.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_dd01aa7c-1b62-4cf6-ae13-b0d917f672b7.jpg"
         },
         {
-          "FileName": "3509a470-7610-4c7b-9b78-0058cb5c84de.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2611511685",
+          "FileName": "3509a470-7610-4c7b-9b78-0058cb5c84de.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/3509a470-7610-4c7b-9b78-0058cb5c84de.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_ced2faac-5e39-4827-86f5-50ad109700b8.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "525630269",
-        "URL": "http://images.launchbox-app.com/r2_ced2faac-5e39-4827-86f5-50ad109700b8.png"
-      },
-      {
-        "FileName": "r2_0bf0a253-f537-4438-84ed-b6d3242ff341.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "784598111",
+        "FileName": "r2_0bf0a253-f537-4438-84ed-b6d3242ff341.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_0bf0a253-f537-4438-84ed-b6d3242ff341.png"
       },
       {
-        "FileName": "r2_bb6577a7-ba54-4c70-884e-5831287fadba.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "208320125",
+        "FileName": "r2_bb6577a7-ba54-4c70-884e-5831287fadba.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_bb6577a7-ba54-4c70-884e-5831287fadba.png"
       },
       {
-        "FileName": "ff3012d7-deac-410d-9fb4-94645e3fffae.png",
+        "CRC32": "525630269",
+        "FileName": "r2_ced2faac-5e39-4827-86f5-50ad109700b8.png",
+        "Region": "North America",
         "Type": "Disc",
-        "Region": "World",
+        "URL": "http://images.launchbox-app.com/r2_ced2faac-5e39-4827-86f5-50ad109700b8.png"
+      },
+      {
         "CRC32": "58198481",
+        "FileName": "ff3012d7-deac-410d-9fb4-94645e3fffae.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/ff3012d7-deac-410d-9fb4-94645e3fffae.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3864147868",
         "FileName": "2d6ac86c-8de3-4a51-9c3a-3206b6afb5d9.png",
         "Type": "Clear Logo",
-        "CRC32": "3864147868",
         "URL": "http://images.launchbox-app.com/2d6ac86c-8de3-4a51-9c3a-3206b6afb5d9.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.38461538461539",
+  "DatabaseID": "10932",
+  "Developer": "Team Bondi",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Adventure",
+  "Name": "L.A. Noire",
+  "Overview": "L.A. Noire is set in Los Angeles in 1947 and challenges the player, assuming the role of a Los Angeles Police Department (LAPD) detective, to solve a range of cases across five departments. Players must investigate crime scenes for clues, follow up leads, and interrogate suspects, and the players' success at these activities will impact how much of the cases' stories are revealed.",
+  "Publisher": "Rockstar Games",
+  "ReleaseDate": "2011-05-17T00:00:00+00:00",
+  "VideoURL": "https://youtube.com/watch?v=06YWcBJ9dt4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/L.A._Noire"
 }

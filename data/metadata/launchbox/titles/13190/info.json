@@ -1,108 +1,108 @@
 {
-  "Name": "F.E.A.R. Files",
-  "DatabaseID": "13190",
-  "ReleaseDate": "2007-11-06T00:00:00+00:00",
-  "Overview": "F.E.A.R. is a series of first-person shooter survival horror video games developed by Monolith Productions. The game currently has three main games, F.E.A.R., F.E.A.R. 2: Project Origin and F.E.A.R. 3. The series is known for its horror game play and its main antagonist, Alma Wade.",
-  "CommunityRating": "3.5",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Day 1 Studios",
-  "Publisher": "Sierra Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_88fd0b30-1072-4423-99f5-ba54558fbda4.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "172114853",
-        "URL": "http://images.launchbox-app.com/r2_88fd0b30-1072-4423-99f5-ba54558fbda4.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_91fec1c7-d6ce-40e5-b49c-c8730a9048b7.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "3469900349",
+        "FileName": "r2_91fec1c7-d6ce-40e5-b49c-c8730a9048b7.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_91fec1c7-d6ce-40e5-b49c-c8730a9048b7.jpg"
       },
       {
-        "FileName": "r2_b1e9846a-277c-49ba-93cb-992824b12b3a.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1083078042",
+        "FileName": "r2_b1e9846a-277c-49ba-93cb-992824b12b3a.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_b1e9846a-277c-49ba-93cb-992824b12b3a.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "172114853",
+        "FileName": "r2_88fd0b30-1072-4423-99f5-ba54558fbda4.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_88fd0b30-1072-4423-99f5-ba54558fbda4.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "a6785058-1975-43a3-822e-019e55b59eee.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3456232691",
+          "FileName": "a6785058-1975-43a3-822e-019e55b59eee.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/a6785058-1975-43a3-822e-019e55b59eee.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_5692bb93-13c1-4c2c-8f3e-6752c520cee2.png",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3213557163",
+          "FileName": "r2_5692bb93-13c1-4c2c-8f3e-6752c520cee2.png",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_5692bb93-13c1-4c2c-8f3e-6752c520cee2.png"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_3d34813b-1496-491f-8847-023ffba09e1d.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "945664995",
+          "FileName": "r2_3d34813b-1496-491f-8847-023ffba09e1d.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_3d34813b-1496-491f-8847-023ffba09e1d.jpg"
         },
         {
-          "FileName": "r2_02bc07d6-868f-4f1c-a4d4-241a9770814d.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "308900219",
+          "FileName": "r2_02bc07d6-868f-4f1c-a4d4-241a9770814d.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_02bc07d6-868f-4f1c-a4d4-241a9770814d.jpg"
         },
         {
-          "FileName": "0001b0d3-2df7-45f9-8544-467020bab1f2.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1808057771",
+          "FileName": "0001b0d3-2df7-45f9-8544-467020bab1f2.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0001b0d3-2df7-45f9-8544-467020bab1f2.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "r2_9273efcd-5bd2-443b-9c47-6fc9a6b2a4bd.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1821449081",
+          "FileName": "r2_9273efcd-5bd2-443b-9c47-6fc9a6b2a4bd.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_9273efcd-5bd2-443b-9c47-6fc9a6b2a4bd.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "df6b7c6a-0b78-4519-af60-4a2387c3723a.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "683286122",
+        "FileName": "df6b7c6a-0b78-4519-af60-4a2387c3723a.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/df6b7c6a-0b78-4519-af60-4a2387c3723a.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_7fa86612-c47e-46ae-b26b-6754a1df8208.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3241006543",
+        "FileName": "r2_7fa86612-c47e-46ae-b26b-6754a1df8208.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_7fa86612-c47e-46ae-b26b-6754a1df8208.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "13190",
+  "Developer": "Day 1 Studios",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "F.E.A.R. Files",
+  "Overview": "F.E.A.R. is a series of first-person shooter survival horror video games developed by Monolith Productions. The game currently has three main games, F.E.A.R., F.E.A.R. 2: Project Origin and F.E.A.R. 3. The series is known for its horror game play and its main antagonist, Alma Wade.",
+  "Publisher": "Sierra Entertainment",
+  "ReleaseDate": "2007-11-06T00:00:00+00:00"
 }

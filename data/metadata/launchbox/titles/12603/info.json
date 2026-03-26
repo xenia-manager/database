@@ -1,46 +1,46 @@
 {
-  "Name": "XBLA Triple Pack",
-  "DatabaseID": "12603",
-  "ReleaseDate": "2011-04-19T00:00:00+00:00",
-  "Overview": "A compilation pack of three popular Xbox 360 games: Limbo, Trials HD, & 'Splosion Man.",
-  "CommunityRating": "3",
-  "ESRB": "T - Teen",
-  "Genres": null,
-  "Publisher": "Microsoft",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "r2_de28f24c-6127-42ec-9a7f-3e7eb222732d.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "515034557",
+          "FileName": "r2_de28f24c-6127-42ec-9a7f-3e7eb222732d.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_de28f24c-6127-42ec-9a7f-3e7eb222732d.jpg"
         },
         {
-          "FileName": "r2_1ee7e0c7-f1ff-4bbb-ab3c-909ddd17ed43.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3802792320",
+          "FileName": "r2_1ee7e0c7-f1ff-4bbb-ab3c-909ddd17ed43.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_1ee7e0c7-f1ff-4bbb-ab3c-909ddd17ed43.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_f0e38092-f82b-4513-ba54-53c437a8cc94.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1876009773",
+          "FileName": "r2_f0e38092-f82b-4513-ba54-53c437a8cc94.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f0e38092-f82b-4513-ba54-53c437a8cc94.jpg"
         },
         {
-          "FileName": "a6487cf5-ac94-4323-b4d0-e725ecdb3263.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "2769942510",
+          "FileName": "a6487cf5-ac94-4323-b4d0-e725ecdb3263.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a6487cf5-ac94-4323-b4d0-e725ecdb3263.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "12603",
+  "ESRB": "T - Teen",
+  "Genres": null,
+  "Name": "XBLA Triple Pack",
+  "Overview": "A compilation pack of three popular Xbox 360 games: Limbo, Trials HD, & 'Splosion Man.",
+  "Publisher": "Microsoft",
+  "ReleaseDate": "2011-04-19T00:00:00+00:00"
 }

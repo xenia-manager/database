@@ -1,53 +1,53 @@
 {
-  "Name": "Duel: The Art of Combat",
-  "DatabaseID": "469100",
-  "ReleaseDate": "2009-12-06T00:00:00+00:00",
-  "Overview": "Duel is a side-view 3D action game full of shooting, jumping, fleeing, chasing, slashing, dodging, rope-swinging and trying to kill your opponent. The game shows its best when you're playing in split-screen mode with your friend. There's also challenging story mode and cooperative survival mode. Try it!",
-  "VideoURL": "https://www.youtube.com/watch?v=XrtGrObVjZo",
-  "Genres": "Action",
-  "Developer": "Awesome Games Studio",
-  "Publisher": "Awesome Games Studio",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "3f9ee5fc-b77b-4d3e-956a-9f6ac841bd29.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3822883093",
+          "FileName": "3f9ee5fc-b77b-4d3e-956a-9f6ac841bd29.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/3f9ee5fc-b77b-4d3e-956a-9f6ac841bd29.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "ac115e2f-b623-4b34-85c6-87080ec331da.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "4219401619",
+        "FileName": "664f25e5-49ae-4006-a41b-8f8e2cbac5f3.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/664f25e5-49ae-4006-a41b-8f8e2cbac5f3.jpg"
+      },
+      {
         "CRC32": "3808680595",
+        "FileName": "ac115e2f-b623-4b34-85c6-87080ec331da.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/ac115e2f-b623-4b34-85c6-87080ec331da.jpg"
       },
       {
-        "FileName": "e8f3e069-78b1-4dc0-b0f2-d66bcb80b7ad.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "4145837911",
-        "URL": "http://images.launchbox-app.com/e8f3e069-78b1-4dc0-b0f2-d66bcb80b7ad.jpg"
-      },
-      {
-        "FileName": "daa586d5-a36c-4b3c-9fd2-0fcdcbaf9926.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "141492233",
+        "FileName": "daa586d5-a36c-4b3c-9fd2-0fcdcbaf9926.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/daa586d5-a36c-4b3c-9fd2-0fcdcbaf9926.jpg"
       },
       {
-        "FileName": "664f25e5-49ae-4006-a41b-8f8e2cbac5f3.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "4145837911",
+        "FileName": "e8f3e069-78b1-4dc0-b0f2-d66bcb80b7ad.jpg",
         "Region": "World",
-        "CRC32": "4219401619",
-        "URL": "http://images.launchbox-app.com/664f25e5-49ae-4006-a41b-8f8e2cbac5f3.jpg"
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/e8f3e069-78b1-4dc0-b0f2-d66bcb80b7ad.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "469100",
+  "Developer": "Awesome Games Studio",
+  "Genres": "Action",
+  "Name": "Duel: The Art of Combat",
+  "Overview": "Duel is a side-view 3D action game full of shooting, jumping, fleeing, chasing, slashing, dodging, rope-swinging and trying to kill your opponent. The game shows its best when you're playing in split-screen mode with your friend. There's also challenging story mode and cooperative survival mode. Try it!",
+  "Publisher": "Awesome Games Studio",
+  "ReleaseDate": "2009-12-06T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=XrtGrObVjZo"
 }

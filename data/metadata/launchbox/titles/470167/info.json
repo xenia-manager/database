@@ -1,23 +1,23 @@
 {
-  "Name": "Imaginary",
-  "DatabaseID": "470167",
-  "ReleaseDate": "2012-08-18T00:00:00+00:00",
-  "Overview": "Imaginary is a platformer where you run, jump, and hide from enemies. Then wait for you chance to strike back.",
-  "VideoURL": "https://youtu.be/PQXV28ocfIA",
-  "Genres": "Platform",
-  "Developer": "Randomly Generated Games",
-  "Publisher": "Randomly Generated Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "947a41c5-ec27-4d2e-8485-716ca49b49ec.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2855239270",
+          "FileName": "947a41c5-ec27-4d2e-8485-716ca49b49ec.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/947a41c5-ec27-4d2e-8485-716ca49b49ec.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "470167",
+  "Developer": "Randomly Generated Games",
+  "Genres": "Platform",
+  "Name": "Imaginary",
+  "Overview": "Imaginary is a platformer where you run, jump, and hide from enemies. Then wait for you chance to strike back.",
+  "Publisher": "Randomly Generated Games",
+  "ReleaseDate": "2012-08-18T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/PQXV28ocfIA"
 }

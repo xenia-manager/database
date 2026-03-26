@@ -1,60 +1,60 @@
 {
-  "Name": "Battlestar Galactica",
-  "DatabaseID": "209148",
-  "ReleaseDate": "2007-10-24T00:00:00+00:00",
-  "Overview": "Battlestar Galactica is an action-packed top-down space combat game set in the universe of the hugely popular sci-fi television show. Players can take part in enormous multiplayer space battles with up to eight players online or play through the single-player campaign that includes memorable missions from the TV series. Pilots can either sign up to defend the Galactica or play as the ruthless Cylons as they seek to remove the human race from existence.",
-  "CommunityRating": "2.9",
-  "Genres": "Shooter",
-  "Developer": "Auran Games",
-  "Publisher": "Sierra Online",
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "655093805",
+        "FileName": "5e718c97-1e92-4519-a079-7fce620475c4.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/5e718c97-1e92-4519-a079-7fce620475c4.jpg"
+      }
+    ],
     "Banner": [
       {
+        "CRC32": "3584565159",
         "FileName": "0c3247c3-357d-474d-8a55-5be34a5cfe1c.jpg",
         "Type": "Banner",
-        "CRC32": "3584565159",
         "URL": "http://images.launchbox-app.com/0c3247c3-357d-474d-8a55-5be34a5cfe1c.jpg"
       },
       {
+        "CRC32": "2420787304",
         "FileName": "e7527359-a8e2-4d6d-80f4-4a2a5e90fb1a.png",
         "Type": "Banner",
-        "CRC32": "2420787304",
         "URL": "http://images.launchbox-app.com/e7527359-a8e2-4d6d-80f4-4a2a5e90fb1a.png"
-      }
-    ],
-    "Background": [
-      {
-        "FileName": "5e718c97-1e92-4519-a079-7fce620475c4.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "655093805",
-        "URL": "http://images.launchbox-app.com/5e718c97-1e92-4519-a079-7fce620475c4.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "703977b1-4c19-47eb-87b8-f200587a869a.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2021302243",
+          "FileName": "703977b1-4c19-47eb-87b8-f200587a869a.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/703977b1-4c19-47eb-87b8-f200587a869a.jpg"
         },
         {
-          "FileName": "b364599d-75be-4fde-8600-e289728da5c4.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1657737888",
+          "FileName": "b364599d-75be-4fde-8600-e289728da5c4.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b364599d-75be-4fde-8600-e289728da5c4.jpg"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "1244137930",
         "FileName": "69a31743-2a68-4948-a6f3-dde6c4826d17.png",
         "Type": "Clear Logo",
-        "CRC32": "1244137930",
         "URL": "http://images.launchbox-app.com/69a31743-2a68-4948-a6f3-dde6c4826d17.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "2.9",
+  "DatabaseID": "209148",
+  "Developer": "Auran Games",
+  "Genres": "Shooter",
+  "Name": "Battlestar Galactica",
+  "Overview": "Battlestar Galactica is an action-packed top-down space combat game set in the universe of the hugely popular sci-fi television show. Players can take part in enormous multiplayer space battles with up to eight players online or play through the single-player campaign that includes memorable missions from the TV series. Pilots can either sign up to defend the Galactica or play as the ruthless Cylons as they seek to remove the human race from existence.",
+  "Publisher": "Sierra Online",
+  "ReleaseDate": "2007-10-24T00:00:00+00:00"
 }

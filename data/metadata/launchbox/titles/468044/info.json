@@ -1,22 +1,22 @@
 {
-  "Name": "BioHack",
-  "DatabaseID": "468044",
-  "ReleaseDate": "2010-08-11T00:00:00+00:00",
-  "Overview": "We've all played physics-based games before. But have you ever tried one based on biochemical kinetics?\n\nBioHack is a simulation game where you must solve challenging design problems. The game includes 25 unique levels, plus randomly-generated mutant levels.\n\nNo science background necessary!",
-  "Genres": "Strategy",
-  "Developer": "Mark Walker",
-  "Publisher": "Mark Walker",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "dfb1ea96-d300-4297-a726-1c352aaf5abd.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "795531427",
+          "FileName": "dfb1ea96-d300-4297-a726-1c352aaf5abd.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/dfb1ea96-d300-4297-a726-1c352aaf5abd.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "468044",
+  "Developer": "Mark Walker",
+  "Genres": "Strategy",
+  "Name": "BioHack",
+  "Overview": "We've all played physics-based games before. But have you ever tried one based on biochemical kinetics?\n\nBioHack is a simulation game where you must solve challenging design problems. The game includes 25 unique levels, plus randomly-generated mutant levels.\n\nNo science background necessary!",
+  "Publisher": "Mark Walker",
+  "ReleaseDate": "2010-08-11T00:00:00+00:00"
 }

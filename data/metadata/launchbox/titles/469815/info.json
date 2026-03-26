@@ -1,22 +1,22 @@
 {
-  "Name": "Glare",
-  "DatabaseID": "469815",
-  "ReleaseDate": "2012-09-09T00:00:00+00:00",
-  "Overview": "Glare is a fast paced arcade style shooter that bases its difficulty on the players skill level during the game.",
-  "Genres": "Shooter",
-  "Developer": "Crabbo",
-  "Publisher": "Crabbo",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "ba5f2985-3bed-406f-b0cc-0eb6c63241b6.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3448770781",
+          "FileName": "ba5f2985-3bed-406f-b0cc-0eb6c63241b6.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ba5f2985-3bed-406f-b0cc-0eb6c63241b6.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "469815",
+  "Developer": "Crabbo",
+  "Genres": "Shooter",
+  "Name": "Glare",
+  "Overview": "Glare is a fast paced arcade style shooter that bases its difficulty on the players skill level during the game.",
+  "Publisher": "Crabbo",
+  "ReleaseDate": "2012-09-09T00:00:00+00:00"
 }

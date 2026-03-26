@@ -1,79 +1,79 @@
 {
-  "Name": "Earthworm Jim HD",
-  "DatabaseID": "94365",
-  "ReleaseDate": "2010-06-09T00:00:00+00:00",
-  "Overview": "Earthworm Jim HD is a high definition remake of the original Earthworm Jim video game. While the original was released in 1994 for the Sega Genesis and then ported to many other platforms, the remake was released digitally through Xbox Live Arcade on Xbox 360 on June 9, 2010 and then later through the PlayStation Network on the PlayStation 3 on August 3, 2010. While critics had mixed feelings with regard to how well the game had aged, they generally praised the new content, mainly the cooperative multiplayer mode.",
-  "CommunityRating": "3.45454545454545",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Earthworm_Jim_HD",
-  "ESRB": "T - Teen",
-  "Genres": "Platform; Shooter",
-  "Developer": "Gameloft Software Beijing",
-  "Publisher": "Gameloft",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "867075711",
         "FileName": "0f8025a3-162c-4399-85eb-01488e1f5b46.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "867075711",
         "URL": "http://images.launchbox-app.com/0f8025a3-162c-4399-85eb-01488e1f5b46.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "3086080840",
           "FileName": "5381f9c7-4603-43e9-afb0-e2031f03a49f.png",
           "Type": "Box - 3D",
-          "CRC32": "3086080840",
           "URL": "http://images.launchbox-app.com/5381f9c7-4603-43e9-afb0-e2031f03a49f.png"
         }
       ],
       "Front": [
         {
-          "FileName": "16e6368a-059e-495b-bf46-78e189b55d75.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3533571660",
+          "FileName": "16e6368a-059e-495b-bf46-78e189b55d75.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/16e6368a-059e-495b-bf46-78e189b55d75.jpg"
         },
         {
-          "FileName": "e21ba7a6-af78-464a-87e0-a348ecb73acf.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2875836681",
+          "FileName": "e21ba7a6-af78-464a-87e0-a348ecb73acf.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e21ba7a6-af78-464a-87e0-a348ecb73acf.jpg"
         },
         {
-          "FileName": "d725ad21-d575-4f53-a328-6235b671e41d.png",
-          "Type": "Box - Front - Reconstructed",
+          "CRC32": "1962954732",
+          "FileName": "3b2d4d37-76c1-4588-8bd4-6b1b923e5543.png",
           "Region": "World",
-          "CRC32": "3703098541",
-          "URL": "http://images.launchbox-app.com/d725ad21-d575-4f53-a328-6235b671e41d.png"
+          "Type": "Box - Front - Reconstructed",
+          "URL": "http://images.launchbox-app.com/3b2d4d37-76c1-4588-8bd4-6b1b923e5543.png"
         },
         {
-          "FileName": "3b2d4d37-76c1-4588-8bd4-6b1b923e5543.png",
-          "Type": "Box - Front - Reconstructed",
+          "CRC32": "3703098541",
+          "FileName": "d725ad21-d575-4f53-a328-6235b671e41d.png",
           "Region": "World",
-          "CRC32": "1962954732",
-          "URL": "http://images.launchbox-app.com/3b2d4d37-76c1-4588-8bd4-6b1b923e5543.png"
+          "Type": "Box - Front - Reconstructed",
+          "URL": "http://images.launchbox-app.com/d725ad21-d575-4f53-a328-6235b671e41d.png"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "716d8d36-40a3-44ff-b7c4-e906f58ff5bc.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "3020020562",
-        "URL": "http://images.launchbox-app.com/716d8d36-40a3-44ff-b7c4-e906f58ff5bc.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "1813032936",
         "FileName": "b832c7d7-d2a9-486d-a0a8-1ac30b44a729.png",
         "Type": "Clear Logo",
-        "CRC32": "1813032936",
         "URL": "http://images.launchbox-app.com/b832c7d7-d2a9-486d-a0a8-1ac30b44a729.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3020020562",
+        "FileName": "716d8d36-40a3-44ff-b7c4-e906f58ff5bc.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/716d8d36-40a3-44ff-b7c4-e906f58ff5bc.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.45454545454545",
+  "DatabaseID": "94365",
+  "Developer": "Gameloft Software Beijing",
+  "ESRB": "T - Teen",
+  "Genres": "Platform; Shooter",
+  "Name": "Earthworm Jim HD",
+  "Overview": "Earthworm Jim HD is a high definition remake of the original Earthworm Jim video game. While the original was released in 1994 for the Sega Genesis and then ported to many other platforms, the remake was released digitally through Xbox Live Arcade on Xbox 360 on June 9, 2010 and then later through the PlayStation Network on the PlayStation 3 on August 3, 2010. While critics had mixed feelings with regard to how well the game had aged, they generally praised the new content, mainly the cooperative multiplayer mode.",
+  "Publisher": "Gameloft",
+  "ReleaseDate": "2010-06-09T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Earthworm_Jim_HD"
 }

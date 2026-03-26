@@ -1,51 +1,51 @@
 {
-  "Name": "Days of Thunder: Arcade",
-  "DatabaseID": "15396",
-  "ReleaseDate": "2011-02-25T00:00:00+00:00",
-  "Overview": "Days of Thunder: Arcade is a high adrenaline Stock car arcade racer. Coached by Rowdy Burns himself you can relive the intensity of the film while you race to the top of the leader boards. Watch out for Cole trickle and Russ Wheeler though! Race on Oval and road tracks to prove that you've got what it takes.",
-  "CommunityRating": "3.64285714285714",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Days_of_Thunder_(2011_video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Racing; Sports",
-  "Developer": "Piranha Games",
-  "Publisher": "Paramount Digital Entertainment",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_4cb90f69-1302-477e-8b42-c62864ee238a.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1867390088",
-        "URL": "http://images.launchbox-app.com/r2_4cb90f69-1302-477e-8b42-c62864ee238a.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_9d6359c3-1d71-4cfe-8f48-d47b19aacbeb.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1580029148",
+        "FileName": "r2_9d6359c3-1d71-4cfe-8f48-d47b19aacbeb.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_9d6359c3-1d71-4cfe-8f48-d47b19aacbeb.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1867390088",
+        "FileName": "r2_4cb90f69-1302-477e-8b42-c62864ee238a.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_4cb90f69-1302-477e-8b42-c62864ee238a.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "88349022",
           "FileName": "19d54db9-c5d8-454d-ba1c-6d23ca97deac.jpg",
           "Type": "Box - Front",
-          "CRC32": "88349022",
           "URL": "http://images.launchbox-app.com/19d54db9-c5d8-454d-ba1c-6d23ca97deac.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_65f18156-635a-4568-b4b4-3cccbf9c4bbf.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "4144038887",
+        "FileName": "r2_65f18156-635a-4568-b4b4-3cccbf9c4bbf.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_65f18156-635a-4568-b4b4-3cccbf9c4bbf.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.64285714285714",
+  "DatabaseID": "15396",
+  "Developer": "Piranha Games",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Racing; Sports",
+  "Name": "Days of Thunder: Arcade",
+  "Overview": "Days of Thunder: Arcade is a high adrenaline Stock car arcade racer. Coached by Rowdy Burns himself you can relive the intensity of the film while you race to the top of the leader boards. Watch out for Cole trickle and Russ Wheeler though! Race on Oval and road tracks to prove that you've got what it takes.",
+  "Publisher": "Paramount Digital Entertainment",
+  "ReleaseDate": "2011-02-25T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Days_of_Thunder_(2011_video_game)"
 }

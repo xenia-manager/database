@@ -1,127 +1,127 @@
 {
-  "Name": "Call of Duty: Advanced Warfare",
-  "DatabaseID": "147571",
-  "ReleaseDate": "2014-11-04T00:00:00+00:00",
-  "Overview": "Advanced Warfare is Sledgehammer's first Call of Duty title where they are the primary developer, following the supporting work they did on Call of Duty: Modern Warfare 3 alongside Infinity Ward in 2011. The game was released on November 4, 2014, but a special edition titled the Day Zero Edition, which came with bonus in-game content, was released on November 3 for people who pre-ordered the game. The game was not released on the Wii U, making it the first title in the series since Call of Duty: Modern Warfare 2 to not be released on either the Wii or Wii U. It is the last Call of Duty title to feature a single-player campaign mode for the PlayStation 3 and Xbox 360.\n\nBefore the development of Advanced Warfare, Sledgehammer were originally working on an action-adventure game titled Call of Duty: Fog of War, which was going to be set during the events of the Vietnam War. Development for Advanced Warfare began in late 2011, shortly before the release of Modern Warfare 3. The game became the first entry in the Call of Duty series since Call of Duty 2 to feature a game engine that has had its majority re-written and built from scratch. For the game's single-player campaign mode, Sledgehammer employed veteran actors Troy Baker and Kevin Spacey in lead roles. The game's story, featuring a futuristic setting which is set between 2054 and 2061, follows Jack Mitchell of the United States Marine Corps and his interactions with Atlas, a private military corporation that sells its services to the highest bidder.",
-  "VideoURL": "https://www.youtube.com/watch?v=0C2cG30FBas",
-  "CommunityRating": "3.18181818181818",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty:_Advanced_Warfare",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Sledgehammer Games",
-  "Publisher": "Activision",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "6480b0a2-2feb-413b-8617-0922a4e36422.png",
-        "Type": "Banner",
-        "CRC32": "3023488925",
-        "URL": "http://images.launchbox-app.com/6480b0a2-2feb-413b-8617-0922a4e36422.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "d1caca0d-8876-4eb7-b824-32b2149f32cd.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "630766387",
-        "URL": "http://images.launchbox-app.com/d1caca0d-8876-4eb7-b824-32b2149f32cd.jpg"
-      },
-      {
+        "CRC32": "2484234748",
         "FileName": "49367010-6265-4a9b-866b-b226af8c19f2.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2484234748",
         "URL": "http://images.launchbox-app.com/49367010-6265-4a9b-866b-b226af8c19f2.jpg"
+      },
+      {
+        "CRC32": "630766387",
+        "FileName": "d1caca0d-8876-4eb7-b824-32b2149f32cd.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/d1caca0d-8876-4eb7-b824-32b2149f32cd.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3023488925",
+        "FileName": "6480b0a2-2feb-413b-8617-0922a4e36422.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/6480b0a2-2feb-413b-8617-0922a4e36422.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "59980168-9568-4321-8045-3ecc9ce90f04.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
           "CRC32": "3370424096",
+          "FileName": "59980168-9568-4321-8045-3ecc9ce90f04.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/59980168-9568-4321-8045-3ecc9ce90f04.png"
         },
         {
-          "FileName": "89728c62-da4f-444b-ae22-71f6f1ff12cd.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2448208475",
+          "FileName": "89728c62-da4f-444b-ae22-71f6f1ff12cd.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/89728c62-da4f-444b-ae22-71f6f1ff12cd.png"
         }
       ],
       "Back": [
         {
-          "FileName": "d3f06271-eb6d-49fd-8be4-c3c53d5b3fea.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1704991670",
+          "FileName": "d3f06271-eb6d-49fd-8be4-c3c53d5b3fea.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/d3f06271-eb6d-49fd-8be4-c3c53d5b3fea.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_a64f3231-70ea-4b59-824c-4e46a36baf32.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3059652548",
+          "FileName": "r2_a64f3231-70ea-4b59-824c-4e46a36baf32.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_a64f3231-70ea-4b59-824c-4e46a36baf32.jpg"
         },
         {
-          "FileName": "00b85ece-2c84-4f23-85db-27e48640169f.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "2735384417",
+          "FileName": "00b85ece-2c84-4f23-85db-27e48640169f.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/00b85ece-2c84-4f23-85db-27e48640169f.jpg"
         },
         {
-          "FileName": "615dfae5-b7ab-4bc1-918e-c7b94d524acb.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "534757949",
+          "FileName": "615dfae5-b7ab-4bc1-918e-c7b94d524acb.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/615dfae5-b7ab-4bc1-918e-c7b94d524acb.jpg"
         },
         {
-          "FileName": "be3bbbfb-6288-4961-acbf-c274b98e840a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "567148153",
+          "FileName": "be3bbbfb-6288-4961-acbf-c274b98e840a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/be3bbbfb-6288-4961-acbf-c274b98e840a.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "82082e01-9de4-4892-8769-8c17867962b7.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "668812737",
+          "FileName": "82082e01-9de4-4892-8769-8c17867962b7.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/82082e01-9de4-4892-8769-8c17867962b7.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "7dee7636-bc56-4b27-ba29-fbb1ef65ccf2.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "573858589",
+        "FileName": "7dee7636-bc56-4b27-ba29-fbb1ef65ccf2.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/7dee7636-bc56-4b27-ba29-fbb1ef65ccf2.png"
       },
       {
-        "FileName": "r2_2b580348-cc81-4d92-90aa-e689a1e32488.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "978659768",
+        "FileName": "r2_2b580348-cc81-4d92-90aa-e689a1e32488.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_2b580348-cc81-4d92-90aa-e689a1e32488.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2931302796",
         "FileName": "d2dc04c2-5dbf-4290-9f1a-f53889d830cc.png",
         "Type": "Clear Logo",
-        "CRC32": "2931302796",
         "URL": "http://images.launchbox-app.com/d2dc04c2-5dbf-4290-9f1a-f53889d830cc.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.18181818181818",
+  "DatabaseID": "147571",
+  "Developer": "Sledgehammer Games",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Call of Duty: Advanced Warfare",
+  "Overview": "Advanced Warfare is Sledgehammer's first Call of Duty title where they are the primary developer, following the supporting work they did on Call of Duty: Modern Warfare 3 alongside Infinity Ward in 2011. The game was released on November 4, 2014, but a special edition titled the Day Zero Edition, which came with bonus in-game content, was released on November 3 for people who pre-ordered the game. The game was not released on the Wii U, making it the first title in the series since Call of Duty: Modern Warfare 2 to not be released on either the Wii or Wii U. It is the last Call of Duty title to feature a single-player campaign mode for the PlayStation 3 and Xbox 360.\n\nBefore the development of Advanced Warfare, Sledgehammer were originally working on an action-adventure game titled Call of Duty: Fog of War, which was going to be set during the events of the Vietnam War. Development for Advanced Warfare began in late 2011, shortly before the release of Modern Warfare 3. The game became the first entry in the Call of Duty series since Call of Duty 2 to feature a game engine that has had its majority re-written and built from scratch. For the game's single-player campaign mode, Sledgehammer employed veteran actors Troy Baker and Kevin Spacey in lead roles. The game's story, featuring a futuristic setting which is set between 2054 and 2061, follows Jack Mitchell of the United States Marine Corps and his interactions with Atlas, a private military corporation that sells its services to the highest bidder.",
+  "Publisher": "Activision",
+  "ReleaseDate": "2014-11-04T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=0C2cG30FBas",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty:_Advanced_Warfare"
 }

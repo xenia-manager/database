@@ -1,118 +1,118 @@
 {
-  "Name": "Duke Nukem Forever",
-  "DatabaseID": "10615",
-  "ReleaseDate": "2011-06-14T00:00:00+00:00",
-  "Overview": "Put on your shades and prepare to step into the boots of Duke Nukem, whose legend has reached epic proportions in the years since his last adventure. The alien hordes are invading and only Duke can save the world. Pig cops, alien shrink rays and enormous alien bosses can't stop our hero from accomplishing his goal: to save the world, save the babes and to be a bad-ass while doing it. The King arrives with an arsenal of over-the-top weapons, non-stop action, and unprecedented levels of interactivity. This game puts the pedal to the metal and tongue firmly in cheek. Shoot hoops, lift weights, read adult magazines, draw crude messages on whiteboards or ogle the many hot women that occupy Duke's life - that is if you can pull yourself away from destroying alien invaders. With hours and hours of over-the-top single player action, and a range of bodacious multiplayer modes, rest assured knowing the fun will last. Duke Nukem was and will forever be a gaming icon, and this is his legend.",
-  "VideoURL": "http://www.youtube.com/watch?v=wVuuyRGB_BA",
-  "CommunityRating": "3.70833333333333",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "Gearbox Software",
-  "Publisher": "2K Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_01a62172-d3dd-470a-bb3c-e851f393fd06.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3232363381",
-        "URL": "http://images.launchbox-app.com/r2_01a62172-d3dd-470a-bb3c-e851f393fd06.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "3079947347",
         "FileName": "45ac7332-c65c-4a58-95dd-c3253f7c124b.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3079947347",
         "URL": "http://images.launchbox-app.com/45ac7332-c65c-4a58-95dd-c3253f7c124b.jpg"
       },
       {
+        "CRC32": "4138498479",
         "FileName": "c1cdb930-5041-41a4-8b73-10dd9ce39260.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4138498479",
         "URL": "http://images.launchbox-app.com/c1cdb930-5041-41a4-8b73-10dd9ce39260.jpg"
       },
       {
-        "FileName": "r2_7b92f917-dea1-4a8f-b6bf-ba10f3981140.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3059068283",
+        "FileName": "r2_23d4fbb0-a580-4ae9-9da5-813c8f76bb62.jpg",
         "Region": "World",
-        "CRC32": "1382261371",
-        "URL": "http://images.launchbox-app.com/r2_7b92f917-dea1-4a8f-b6bf-ba10f3981140.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_23d4fbb0-a580-4ae9-9da5-813c8f76bb62.jpg"
       },
       {
-        "FileName": "r2_23d4fbb0-a580-4ae9-9da5-813c8f76bb62.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1382261371",
+        "FileName": "r2_7b92f917-dea1-4a8f-b6bf-ba10f3981140.jpg",
         "Region": "World",
-        "CRC32": "3059068283",
-        "URL": "http://images.launchbox-app.com/r2_23d4fbb0-a580-4ae9-9da5-813c8f76bb62.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_7b92f917-dea1-4a8f-b6bf-ba10f3981140.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3232363381",
+        "FileName": "r2_01a62172-d3dd-470a-bb3c-e851f393fd06.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_01a62172-d3dd-470a-bb3c-e851f393fd06.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "e5e619f8-2c7e-44f3-bcaa-ea575ae07ed6.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2329583809",
+          "FileName": "e5e619f8-2c7e-44f3-bcaa-ea575ae07ed6.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/e5e619f8-2c7e-44f3-bcaa-ea575ae07ed6.png"
         }
       ],
       "Back": [
         {
-          "FileName": "4e689786-94be-4e77-9f18-a30d196a9612.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1274815344",
+          "FileName": "4e689786-94be-4e77-9f18-a30d196a9612.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/4e689786-94be-4e77-9f18-a30d196a9612.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_38bce96d-4993-4e91-a556-15c448bf114b.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3814111989",
+          "FileName": "r2_38bce96d-4993-4e91-a556-15c448bf114b.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_38bce96d-4993-4e91-a556-15c448bf114b.jpg"
         },
         {
-          "FileName": "d44b0f75-14c3-4a04-ba8a-da8ae57355e9.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "4984601",
+          "FileName": "d44b0f75-14c3-4a04-ba8a-da8ae57355e9.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/d44b0f75-14c3-4a04-ba8a-da8ae57355e9.jpg"
         },
         {
-          "FileName": "8c9e7074-db58-4d71-a9fb-15b36b0b32c9.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "1150100321",
+          "FileName": "8c9e7074-db58-4d71-a9fb-15b36b0b32c9.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/8c9e7074-db58-4d71-a9fb-15b36b0b32c9.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "a068fd4c-6631-4130-8a6f-8af6d6daffe5.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "3979185931",
+        "FileName": "a068fd4c-6631-4130-8a6f-8af6d6daffe5.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/a068fd4c-6631-4130-8a6f-8af6d6daffe5.png"
       },
       {
-        "FileName": "r2_21eb81c0-1dc2-4f7a-ace0-0412ba2dae21.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "954316749",
+        "FileName": "r2_21eb81c0-1dc2-4f7a-ace0-0412ba2dae21.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_21eb81c0-1dc2-4f7a-ace0-0412ba2dae21.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2736610389",
         "FileName": "66558842-785d-4ca6-b9c6-9f804090ff5a.png",
         "Type": "Clear Logo",
-        "CRC32": "2736610389",
         "URL": "http://images.launchbox-app.com/66558842-785d-4ca6-b9c6-9f804090ff5a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.70833333333333",
+  "DatabaseID": "10615",
+  "Developer": "Gearbox Software",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Duke Nukem Forever",
+  "Overview": "Put on your shades and prepare to step into the boots of Duke Nukem, whose legend has reached epic proportions in the years since his last adventure. The alien hordes are invading and only Duke can save the world. Pig cops, alien shrink rays and enormous alien bosses can't stop our hero from accomplishing his goal: to save the world, save the babes and to be a bad-ass while doing it. The King arrives with an arsenal of over-the-top weapons, non-stop action, and unprecedented levels of interactivity. This game puts the pedal to the metal and tongue firmly in cheek. Shoot hoops, lift weights, read adult magazines, draw crude messages on whiteboards or ogle the many hot women that occupy Duke's life - that is if you can pull yourself away from destroying alien invaders. With hours and hours of over-the-top single player action, and a range of bodacious multiplayer modes, rest assured knowing the fun will last. Duke Nukem was and will forever be a gaming icon, and this is his legend.",
+  "Publisher": "2K Games",
+  "ReleaseDate": "2011-06-14T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=wVuuyRGB_BA"
 }

@@ -1,66 +1,66 @@
 {
-  "Name": "Hexic 2",
-  "DatabaseID": "29920",
-  "ReleaseDate": "2007-08-15T00:00:00+00:00",
-  "Overview": "The follow-up to Tetris creator Alexey Pajitnov’s Hexic, Hexic 2 expands the formula with a new multiplayer mode and new special pieces. The gameplay has remained the same; Spin a trio of hexes to create a cluster of three or more pieces of same color. If you manage to create some of the more advanced formations, you create a special piece with different abilities. Like before, formations made out of these special pieces lead to the biggest scores, so mastering them is vital for reaching high-scores. \n\nThere are various gameplay options, ranging from easy-going and relaxed puzzle solving to more hectic races against clock or an opponent. Hexic 2 also sports a new 3-D presentation with plenty of eye-candy as well as soothing electronic soundtrack.",
-  "VideoURL": "https://www.youtube.com/watch?v=7hfuHiQQD_I",
-  "CommunityRating": "3.25",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Hexic_2",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "Carbonated Games",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_1e701fc6-fb88-4601-ac3e-0e0b8c3729e1.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3111915158",
-        "URL": "http://images.launchbox-app.com/r2_1e701fc6-fb88-4601-ac3e-0e0b8c3729e1.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2664072713",
         "FileName": "dad82f06-a91e-4b0f-ad65-f41fcc639cd4.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2664072713",
         "URL": "http://images.launchbox-app.com/dad82f06-a91e-4b0f-ad65-f41fcc639cd4.jpg"
       },
       {
-        "FileName": "r2_8251fe19-0d50-4c98-b07d-5338e7cdb2be.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2861224863",
+        "FileName": "r2_8251fe19-0d50-4c98-b07d-5338e7cdb2be.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8251fe19-0d50-4c98-b07d-5338e7cdb2be.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3111915158",
+        "FileName": "r2_1e701fc6-fb88-4601-ac3e-0e0b8c3729e1.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_1e701fc6-fb88-4601-ac3e-0e0b8c3729e1.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "f66eaa6c-2efd-4a82-b47f-61530cb853f9.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "934232283",
+          "FileName": "f66eaa6c-2efd-4a82-b47f-61530cb853f9.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/f66eaa6c-2efd-4a82-b47f-61530cb853f9.jpg"
         },
         {
-          "FileName": "r2_8385b65d-4cd1-4a55-ada4-23bd8d23a038.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1127909637",
+          "FileName": "r2_8385b65d-4cd1-4a55-ada4-23bd8d23a038.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_8385b65d-4cd1-4a55-ada4-23bd8d23a038.jpg"
         }
       ]
     },
     "Other": [
       {
-        "FileName": "r2_25b294aa-627d-4c6e-a274-10b83f968fe7.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "3142046955",
+        "FileName": "r2_25b294aa-627d-4c6e-a274-10b83f968fe7.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_25b294aa-627d-4c6e-a274-10b83f968fe7.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.25",
+  "DatabaseID": "29920",
+  "Developer": "Carbonated Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Hexic 2",
+  "Overview": "The follow-up to Tetris creator Alexey Pajitnov’s Hexic, Hexic 2 expands the formula with a new multiplayer mode and new special pieces. The gameplay has remained the same; Spin a trio of hexes to create a cluster of three or more pieces of same color. If you manage to create some of the more advanced formations, you create a special piece with different abilities. Like before, formations made out of these special pieces lead to the biggest scores, so mastering them is vital for reaching high-scores. \n\nThere are various gameplay options, ranging from easy-going and relaxed puzzle solving to more hectic races against clock or an opponent. Hexic 2 also sports a new 3-D presentation with plenty of eye-candy as well as soothing electronic soundtrack.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2007-08-15T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=7hfuHiQQD_I",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Hexic_2"
 }

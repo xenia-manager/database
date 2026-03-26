@@ -1,100 +1,100 @@
 {
-  "Name": "Guitar Hero 5",
-  "DatabaseID": "7485",
-  "ReleaseDate": "2009-09-01T00:00:00+00:00",
-  "Overview": "Guitar Hero 5 (initially referred to as Guitar Hero V) is a music rhythm game and the fifth main entry in the Guitar Hero series. The game was developed by Neversoft and published by Activision, and released internationally in September 2009 for the Xbox 360, PlayStation 2, 3 and Wii consoles. Similar to the preceding title, Guitar Hero World Tour, Guitar Hero 5 is geared towards playing in a four-person band experience, including lead and bass guitar, drums, and vocals. The game is available as a standalone title, allowing players to use existing compatible instrument controllers, and as a bundle that provides these controllers. Guitar Hero 5 adds several new features, such as drop-in/drop-out play, bands composed of any combination of available instruments, a Rockfest competitive mode consisting of several various scoring mechanisms, and both song-specific and general Challenges to unlock new avatars, clothing, and other extras in the game. Many of these changes were added to make the game a more social experience, allowing players across a range of skill levels to be able to play cooperatively and competitively against each other both locally and online.\n\nGuitar Hero 5's track list contains 85 songs by 83 separate artists, and like previous Guitar Hero games, several musicians with works in the game have been modeled through motion capture for playable characters in the game, including Johnny Cash, Carlos Santana, Shirley Manson, Matthew Bellamy, and Kurt Cobain. Players can also create their own character and instrument to play with. The game continues to support the user-created music studio introduced in World Tour through GHTunes, and additional downloadable content for the game was also made available. A majority of existing downloadable tracks from World Tour are forward-compatible with Guitar Hero 5, along with selected on-disc tracks from World Tour and Guitar Hero Smash Hits, and songs from the game could also be exported for a fee to play in its sequel, Guitar Hero: Warriors of Rock, and spin-off game Band Hero.\n\nThe game was well received by reviewers, who appreciated the improvements in the accessibility of the game, allowing players to immediately jump in and play without spending excessive time in the game's menus. The game also sold well, however, it sold about less than 50 percent of Guitar Hero: World Tour's sales, specifically selling 1.2 million copies across all platforms. Improvements to both the Career and competitive multiplayer modes were also highlights of the game. However, the game's track list was considered to be too broad, and controversy arose over the ability to use the avatar of Kurt Cobain to perform in any other song within the game.",
-  "VideoURL": "https://www.youtube.com/watch?v=Wq8cMcLP74s",
-  "CommunityRating": "3.40909090909091",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_5",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Neversoft Entertainment",
-  "Publisher": "RedOctane",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_b6ec82e7-1449-400a-bcf0-7a8e8096c782.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "873208110",
-        "URL": "http://images.launchbox-app.com/r2_b6ec82e7-1449-400a-bcf0-7a8e8096c782.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_23f13b96-6304-48e7-97bf-2e8c3c9af2f2.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "567038406",
+        "FileName": "r2_23f13b96-6304-48e7-97bf-2e8c3c9af2f2.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_23f13b96-6304-48e7-97bf-2e8c3c9af2f2.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "873208110",
+        "FileName": "r2_b6ec82e7-1449-400a-bcf0-7a8e8096c782.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_b6ec82e7-1449-400a-bcf0-7a8e8096c782.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "2264995697",
           "FileName": "43610b30-85ea-46f5-b676-e0a91311accc.png",
           "Type": "Box - 3D",
-          "CRC32": "2264995697",
           "URL": "http://images.launchbox-app.com/43610b30-85ea-46f5-b676-e0a91311accc.png"
         }
       ],
       "Back": [
         {
+          "CRC32": "2372463002",
           "FileName": "30d6badb-a2c3-47e0-9d6a-7adac2ba8837.jpg",
           "Type": "Box - Back",
-          "CRC32": "2372463002",
           "URL": "http://images.launchbox-app.com/30d6badb-a2c3-47e0-9d6a-7adac2ba8837.jpg"
         },
         {
-          "FileName": "r2_5fb2898d-890f-4ffb-8732-9bec2c99c1c8.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1808973410",
+          "FileName": "r2_5fb2898d-890f-4ffb-8732-9bec2c99c1c8.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_5fb2898d-890f-4ffb-8732-9bec2c99c1c8.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "2493524178",
           "FileName": "9f50e296-cd95-4495-afab-3fe1714f511d.jpg",
           "Type": "Box - Front",
-          "CRC32": "2493524178",
           "URL": "http://images.launchbox-app.com/9f50e296-cd95-4495-afab-3fe1714f511d.jpg"
         },
         {
-          "FileName": "r2_f7244f79-b5cc-4417-8691-77c6e42788da.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2782203190",
+          "FileName": "r2_f7244f79-b5cc-4417-8691-77c6e42788da.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f7244f79-b5cc-4417-8691-77c6e42788da.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "677d83c3-607e-4bfb-b931-ef41a4e8f8ad.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "3008363989",
+          "FileName": "677d83c3-607e-4bfb-b931-ef41a4e8f8ad.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/677d83c3-607e-4bfb-b931-ef41a4e8f8ad.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "406b031c-e750-4e2a-8c9d-67c990923498.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1773988459",
+        "FileName": "406b031c-e750-4e2a-8c9d-67c990923498.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/406b031c-e750-4e2a-8c9d-67c990923498.png"
       }
     ],
     "Other": [
       {
-        "FileName": "r2_cf93d6ed-b0ad-481e-8902-4ef7fbdd58c8.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "2194978733",
+        "FileName": "r2_cf93d6ed-b0ad-481e-8902-4ef7fbdd58c8.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_cf93d6ed-b0ad-481e-8902-4ef7fbdd58c8.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.40909090909091",
+  "DatabaseID": "7485",
+  "Developer": "Neversoft Entertainment",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "Guitar Hero 5",
+  "Overview": "Guitar Hero 5 (initially referred to as Guitar Hero V) is a music rhythm game and the fifth main entry in the Guitar Hero series. The game was developed by Neversoft and published by Activision, and released internationally in September 2009 for the Xbox 360, PlayStation 2, 3 and Wii consoles. Similar to the preceding title, Guitar Hero World Tour, Guitar Hero 5 is geared towards playing in a four-person band experience, including lead and bass guitar, drums, and vocals. The game is available as a standalone title, allowing players to use existing compatible instrument controllers, and as a bundle that provides these controllers. Guitar Hero 5 adds several new features, such as drop-in/drop-out play, bands composed of any combination of available instruments, a Rockfest competitive mode consisting of several various scoring mechanisms, and both song-specific and general Challenges to unlock new avatars, clothing, and other extras in the game. Many of these changes were added to make the game a more social experience, allowing players across a range of skill levels to be able to play cooperatively and competitively against each other both locally and online.\n\nGuitar Hero 5's track list contains 85 songs by 83 separate artists, and like previous Guitar Hero games, several musicians with works in the game have been modeled through motion capture for playable characters in the game, including Johnny Cash, Carlos Santana, Shirley Manson, Matthew Bellamy, and Kurt Cobain. Players can also create their own character and instrument to play with. The game continues to support the user-created music studio introduced in World Tour through GHTunes, and additional downloadable content for the game was also made available. A majority of existing downloadable tracks from World Tour are forward-compatible with Guitar Hero 5, along with selected on-disc tracks from World Tour and Guitar Hero Smash Hits, and songs from the game could also be exported for a fee to play in its sequel, Guitar Hero: Warriors of Rock, and spin-off game Band Hero.\n\nThe game was well received by reviewers, who appreciated the improvements in the accessibility of the game, allowing players to immediately jump in and play without spending excessive time in the game's menus. The game also sold well, however, it sold about less than 50 percent of Guitar Hero: World Tour's sales, specifically selling 1.2 million copies across all platforms. Improvements to both the Career and competitive multiplayer modes were also highlights of the game. However, the game's track list was considered to be too broad, and controversy arose over the ability to use the avatar of Kurt Cobain to perform in any other song within the game.",
+  "Publisher": "RedOctane",
+  "ReleaseDate": "2009-09-01T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=Wq8cMcLP74s",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_5"
 }

@@ -1,76 +1,76 @@
 {
-  "Name": "Mushihimesama",
-  "DatabaseID": "24782",
-  "ReleaseDate": "2012-05-24T00:00:00+00:00",
-  "Overview": "Mushihimesama (Japanese: 虫姫さま, \"Bug Princess\") is a manic shooter developed by Cave. The world of Mushihimesama is a wild, untainted one where large desertic areas abruptly change into lush forests, all inhabited by arthropods called Koujuu: such beasts (basically oversized insects) are capable of surviving due to their hardened shells and, upon their deaths, leave them behind for vegetation to grow around them, in a natural cycle of life and death. However, their life force, called Levi-Sense, proved to be poisonous to humans to the point of being named the Miasma; only sparse human settlements were allowed to survive, one of them being the Hoshifuri village, in exchange for the sacrifice of a 15-year-old girl every 200 years. However, the daughter of the royal family, Reco, is apparently the next in line after being given an ornate bracelet by a mysterious boy in Shinju Forest, where she lost herself at a young age: by the day she turns 15, the Miasma contaminates the village. In order to save her people, she enters Shinju Forest once more, riding the golden Koujuu beetle Kiniro (with which the golden bracelet grants a telepathic link) on a quest to meet the Koujuu god himself.",
-  "CommunityRating": "3.5",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Mushihimesama",
-  "ESRB": "Not Rated",
-  "Genres": "Shooter",
-  "Developer": "Cave",
-  "Publisher": "Cave",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "9907fded-6eb4-4345-aa7c-3524e480d666.jpg",
-          "Type": "Box - Back",
-          "Region": "Japan",
           "CRC32": "2458631380",
+          "FileName": "9907fded-6eb4-4345-aa7c-3524e480d666.jpg",
+          "Region": "Japan",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/9907fded-6eb4-4345-aa7c-3524e480d666.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "e6d3172b-8eda-48df-9233-715b47b3316d.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
           "CRC32": "2414445056",
+          "FileName": "e6d3172b-8eda-48df-9233-715b47b3316d.jpg",
+          "Region": "Japan",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/e6d3172b-8eda-48df-9233-715b47b3316d.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "b94561b9-9999-499d-b1eb-11eb5311343c.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "907189865",
-        "URL": "http://images.launchbox-app.com/b94561b9-9999-499d-b1eb-11eb5311343c.jpg"
-      },
-      {
-        "FileName": "4d01b5c6-dbc7-49e1-9392-4fc3f00ed58e.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2213265116",
-        "URL": "http://images.launchbox-app.com/4d01b5c6-dbc7-49e1-9392-4fc3f00ed58e.jpg"
-      },
-      {
-        "FileName": "8527b997-5d50-46b0-9112-70940483b7a6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2628971642",
-        "URL": "http://images.launchbox-app.com/8527b997-5d50-46b0-9112-70940483b7a6.jpg"
-      },
-      {
-        "FileName": "a937d5f4-bf80-4f38-8cd9-87a723ea9884.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "391322677",
-        "URL": "http://images.launchbox-app.com/a937d5f4-bf80-4f38-8cd9-87a723ea9884.jpg"
-      }
-    ],
     "Other": [
       {
-        "FileName": "211b6ad0-9f20-49c6-9bec-55ef7ea7f928.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
         "CRC32": "2669194094",
+        "FileName": "211b6ad0-9f20-49c6-9bec-55ef7ea7f928.png",
+        "Region": "Japan",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/211b6ad0-9f20-49c6-9bec-55ef7ea7f928.png"
       },
       {
-        "FileName": "22e9e74e-0842-4979-999f-aef8ea93f22b.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "562570230",
+        "FileName": "22e9e74e-0842-4979-999f-aef8ea93f22b.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/22e9e74e-0842-4979-999f-aef8ea93f22b.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "907189865",
+        "FileName": "b94561b9-9999-499d-b1eb-11eb5311343c.jpg",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/b94561b9-9999-499d-b1eb-11eb5311343c.jpg"
+      },
+      {
+        "CRC32": "2213265116",
+        "FileName": "4d01b5c6-dbc7-49e1-9392-4fc3f00ed58e.jpg",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/4d01b5c6-dbc7-49e1-9392-4fc3f00ed58e.jpg"
+      },
+      {
+        "CRC32": "2628971642",
+        "FileName": "8527b997-5d50-46b0-9112-70940483b7a6.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/8527b997-5d50-46b0-9112-70940483b7a6.jpg"
+      },
+      {
+        "CRC32": "391322677",
+        "FileName": "a937d5f4-bf80-4f38-8cd9-87a723ea9884.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/a937d5f4-bf80-4f38-8cd9-87a723ea9884.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.5",
+  "DatabaseID": "24782",
+  "Developer": "Cave",
+  "ESRB": "Not Rated",
+  "Genres": "Shooter",
+  "Name": "Mushihimesama",
+  "Overview": "Mushihimesama (Japanese: 虫姫さま, \"Bug Princess\") is a manic shooter developed by Cave. The world of Mushihimesama is a wild, untainted one where large desertic areas abruptly change into lush forests, all inhabited by arthropods called Koujuu: such beasts (basically oversized insects) are capable of surviving due to their hardened shells and, upon their deaths, leave them behind for vegetation to grow around them, in a natural cycle of life and death. However, their life force, called Levi-Sense, proved to be poisonous to humans to the point of being named the Miasma; only sparse human settlements were allowed to survive, one of them being the Hoshifuri village, in exchange for the sacrifice of a 15-year-old girl every 200 years. However, the daughter of the royal family, Reco, is apparently the next in line after being given an ornate bracelet by a mysterious boy in Shinju Forest, where she lost herself at a young age: by the day she turns 15, the Miasma contaminates the village. In order to save her people, she enters Shinju Forest once more, riding the golden Koujuu beetle Kiniro (with which the golden bracelet grants a telepathic link) on a quest to meet the Koujuu god himself.",
+  "Publisher": "Cave",
+  "ReleaseDate": "2012-05-24T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Mushihimesama"
 }

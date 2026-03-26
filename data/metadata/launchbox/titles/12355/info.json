@@ -1,91 +1,91 @@
 {
-  "Name": "Mafia II",
-  "DatabaseID": "12355",
-  "ReleaseDate": "2010-08-24T00:00:00+00:00",
-  "Overview": "Mafia II provides a beautifully crafted look into the dark and unforgiving world of the Mob. Expanding upon the original hit that captivated more than two million gamers, 2K Czech takes players deeper into the Mafia with a mature and compelling narrative that will immerse players like never before.",
-  "VideoURL": "https://www.youtube.com/watch?v=1_Q3MZC-34o",
-  "CommunityRating": "4.03846153846154",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Mafia_II",
-  "ESRB": "M - Mature",
-  "Genres": "Action; Adventure",
-  "Developer": "2K Czech",
-  "Publisher": "2K Games",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "3762557129",
         "FileName": "efdc251c-5287-4d26-bf18-1784ebf74da0.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3762557129",
         "URL": "http://images.launchbox-app.com/efdc251c-5287-4d26-bf18-1784ebf74da0.jpg"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "3673295218",
           "FileName": "bfcdf684-72a1-4145-8164-145b42d6aa1c.png",
           "Type": "Box - 3D",
-          "CRC32": "3673295218",
           "URL": "http://images.launchbox-app.com/bfcdf684-72a1-4145-8164-145b42d6aa1c.png"
         }
       ],
       "Back": [
         {
-          "FileName": "d2d97e67-2319-443d-b5df-489c554be2f6.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "3952154166",
+          "FileName": "d2d97e67-2319-443d-b5df-489c554be2f6.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/d2d97e67-2319-443d-b5df-489c554be2f6.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_3738a485-5caf-4b14-913f-f92d6524547f.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "509161699",
-          "URL": "http://images.launchbox-app.com/r2_3738a485-5caf-4b14-913f-f92d6524547f.jpg"
-        },
-        {
-          "FileName": "r2_2a778bad-f8e6-40e9-99a7-dde2b839d153.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "521352999",
+          "FileName": "r2_2a778bad-f8e6-40e9-99a7-dde2b839d153.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_2a778bad-f8e6-40e9-99a7-dde2b839d153.jpg"
         },
         {
-          "FileName": "bbf2adc0-5853-43c5-af7c-b18ee24c104c.jpg",
+          "CRC32": "509161699",
+          "FileName": "r2_3738a485-5caf-4b14-913f-f92d6524547f.jpg",
+          "Region": "Germany",
           "Type": "Box - Front",
-          "Region": "North America",
+          "URL": "http://images.launchbox-app.com/r2_3738a485-5caf-4b14-913f-f92d6524547f.jpg"
+        },
+        {
           "CRC32": "3730611315",
+          "FileName": "bbf2adc0-5853-43c5-af7c-b18ee24c104c.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/bbf2adc0-5853-43c5-af7c-b18ee24c104c.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "2e455359-c2c6-4381-b9a6-997d31cb4524.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "2745109673",
+          "FileName": "2e455359-c2c6-4381-b9a6-997d31cb4524.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/2e455359-c2c6-4381-b9a6-997d31cb4524.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "588e2c72-d9d8-4790-952c-738d74c32210.png",
-        "Type": "Disc",
-        "Region": "Germany",
         "CRC32": "2002967871",
+        "FileName": "588e2c72-d9d8-4790-952c-738d74c32210.png",
+        "Region": "Germany",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/588e2c72-d9d8-4790-952c-738d74c32210.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "447038691",
         "FileName": "c53a7b7e-5215-4083-828e-a1bb158b7e59.png",
         "Type": "Clear Logo",
-        "CRC32": "447038691",
         "URL": "http://images.launchbox-app.com/c53a7b7e-5215-4083-828e-a1bb158b7e59.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.03846153846154",
+  "DatabaseID": "12355",
+  "Developer": "2K Czech",
+  "ESRB": "M - Mature",
+  "Genres": "Action; Adventure",
+  "Name": "Mafia II",
+  "Overview": "Mafia II provides a beautifully crafted look into the dark and unforgiving world of the Mob. Expanding upon the original hit that captivated more than two million gamers, 2K Czech takes players deeper into the Mafia with a mature and compelling narrative that will immerse players like never before.",
+  "Publisher": "2K Games",
+  "ReleaseDate": "2010-08-24T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=1_Q3MZC-34o",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Mafia_II"
 }

@@ -1,53 +1,53 @@
 {
-  "Name": "Hexothermic",
-  "DatabaseID": "470034",
-  "ReleaseDate": "2008-12-19T00:00:00+00:00",
-  "Overview": "In Hexothermic, atoms are aligned on a hexagonal grid. The player can select each desired atom and add electrons to it. If an atom has enough electrons, it explodes and hurls electrons into all six directions. The electron counter of each hit atom rises by one and may directly explode when its condition was right. Of course chain reactions reward bonus points for the high-score list. How many more electrons the atom needs is indicated by its color.\n\nThe player has only a limited amount of electrons available, but they can be earned back by creating chain reactions. The four playing modes are marathon (the game keeps going until all electrons are used), timed (similar as marathon but with an additional time limit), survival (the player has 99 electrons and can't earn any back) and puzzle (pre-determined situations which have to be solved with the provided electrons).",
-  "VideoURL": "https://youtu.be/2h6fHHRBnPk",
-  "Genres": "Puzzle",
-  "Developer": "Epic Pasta",
-  "Publisher": "Epic Pasta",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "790e6f4d-a207-400b-824c-cabecee18d91.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1172205370",
+          "FileName": "790e6f4d-a207-400b-824c-cabecee18d91.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/790e6f4d-a207-400b-824c-cabecee18d91.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "61075e80-a28b-47fe-9067-12160d5a498f.jpg",
-        "Type": "Screenshot - Game Over",
-        "Region": "World",
         "CRC32": "2187551992",
+        "FileName": "61075e80-a28b-47fe-9067-12160d5a498f.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Over",
         "URL": "http://images.launchbox-app.com/61075e80-a28b-47fe-9067-12160d5a498f.jpg"
       },
       {
-        "FileName": "5e431105-8613-471e-a5f5-ea196ffab51e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "456125942",
-        "URL": "http://images.launchbox-app.com/5e431105-8613-471e-a5f5-ea196ffab51e.jpg"
-      },
-      {
-        "FileName": "0e070cb4-20d5-4d30-8e56-772a6b7e2e0e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "2370943002",
+        "FileName": "0e070cb4-20d5-4d30-8e56-772a6b7e2e0e.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/0e070cb4-20d5-4d30-8e56-772a6b7e2e0e.jpg"
       },
       {
-        "FileName": "b111b8bf-b58c-43d4-895b-cc715a66c05e.jpg",
-        "Type": "Screenshot - Gameplay",
+        "CRC32": "456125942",
+        "FileName": "5e431105-8613-471e-a5f5-ea196ffab51e.jpg",
         "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/5e431105-8613-471e-a5f5-ea196ffab51e.jpg"
+      },
+      {
         "CRC32": "2111119748",
+        "FileName": "b111b8bf-b58c-43d4-895b-cc715a66c05e.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/b111b8bf-b58c-43d4-895b-cc715a66c05e.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "470034",
+  "Developer": "Epic Pasta",
+  "Genres": "Puzzle",
+  "Name": "Hexothermic",
+  "Overview": "In Hexothermic, atoms are aligned on a hexagonal grid. The player can select each desired atom and add electrons to it. If an atom has enough electrons, it explodes and hurls electrons into all six directions. The electron counter of each hit atom rises by one and may directly explode when its condition was right. Of course chain reactions reward bonus points for the high-score list. How many more electrons the atom needs is indicated by its color.\n\nThe player has only a limited amount of electrons available, but they can be earned back by creating chain reactions. The four playing modes are marathon (the game keeps going until all electrons are used), timed (similar as marathon but with an additional time limit), survival (the player has 99 electrons and can't earn any back) and puzzle (pre-determined situations which have to be solved with the provided electrons).",
+  "Publisher": "Epic Pasta",
+  "ReleaseDate": "2008-12-19T00:00:00+00:00",
+  "VideoURL": "https://youtu.be/2h6fHHRBnPk"
 }

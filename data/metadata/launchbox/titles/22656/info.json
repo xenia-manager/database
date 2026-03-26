@@ -1,76 +1,76 @@
 {
-  "Name": "NFL Blitz",
-  "DatabaseID": "22656",
-  "ReleaseDate": "2012-01-04T00:00:00+00:00",
-  "Overview": "The big hits and stellar plays are back with all-new NFL Blitz. Featuring a combination of the arcade-style gameplay that made the original a hit and the deep, immersive game modes of today, NFL Blitz is recharged with an energetic, football gaming experience. Whether battling your rival in a 7-on-7 grudge match, fighting your way through a season of the Blitz Gauntlet, or taking over the online Battle Boards in Blitz Battles, Every Game Is a Two-Minute Drill with NFL Blitz!",
-  "CommunityRating": "3.6",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/NFL_Blitz",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Tiburon",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "8f34c288-3f92-4119-aef0-8d3819b5dd32.png",
-        "Type": "Banner",
-        "CRC32": "3406738224",
-        "URL": "http://images.launchbox-app.com/8f34c288-3f92-4119-aef0-8d3819b5dd32.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2288567145",
         "FileName": "1f6c9018-4a3b-4f66-945f-134c979692ce.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2288567145",
         "URL": "http://images.launchbox-app.com/1f6c9018-4a3b-4f66-945f-134c979692ce.jpg"
       },
       {
+        "CRC32": "4235729218",
         "FileName": "50f2a58a-a726-4a0d-ab33-e3cb22af6f4d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4235729218",
         "URL": "http://images.launchbox-app.com/50f2a58a-a726-4a0d-ab33-e3cb22af6f4d.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3406738224",
+        "FileName": "8f34c288-3f92-4119-aef0-8d3819b5dd32.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/8f34c288-3f92-4119-aef0-8d3819b5dd32.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "790a28d6-6e6c-4fd8-ad4f-71e844846e05.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2373288466",
+          "FileName": "790a28d6-6e6c-4fd8-ad4f-71e844846e05.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/790a28d6-6e6c-4fd8-ad4f-71e844846e05.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "1660917534",
+        "FileName": "0b842cd1-3c2a-4a66-91b2-dff40f8e1e15.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/0b842cd1-3c2a-4a66-91b2-dff40f8e1e15.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "4079653840",
         "FileName": "911615ac-c4e9-4765-b67c-c1e7b387429d.jpg",
         "Type": "Screenshot - Game Title",
-        "CRC32": "4079653840",
         "URL": "http://images.launchbox-app.com/911615ac-c4e9-4765-b67c-c1e7b387429d.jpg"
       },
       {
+        "CRC32": "3983291782",
         "FileName": "000da7d7-9f8c-4f2a-a30a-c917d6b13477.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3983291782",
         "URL": "http://images.launchbox-app.com/000da7d7-9f8c-4f2a-a30a-c917d6b13477.jpg"
       },
       {
+        "CRC32": "4034279290",
         "FileName": "955f7c0b-211f-4419-9e8f-e00b25456d13.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "4034279290",
         "URL": "http://images.launchbox-app.com/955f7c0b-211f-4419-9e8f-e00b25456d13.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "0b842cd1-3c2a-4a66-91b2-dff40f8e1e15.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
-        "CRC32": "1660917534",
-        "URL": "http://images.launchbox-app.com/0b842cd1-3c2a-4a66-91b2-dff40f8e1e15.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.6",
+  "DatabaseID": "22656",
+  "Developer": "Electronic Arts Tiburon",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Sports",
+  "Name": "NFL Blitz",
+  "Overview": "The big hits and stellar plays are back with all-new NFL Blitz. Featuring a combination of the arcade-style gameplay that made the original a hit and the deep, immersive game modes of today, NFL Blitz is recharged with an energetic, football gaming experience. Whether battling your rival in a 7-on-7 grudge match, fighting your way through a season of the Blitz Gauntlet, or taking over the online Battle Boards in Blitz Battles, Every Game Is a Two-Minute Drill with NFL Blitz!",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2012-01-04T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/NFL_Blitz"
 }

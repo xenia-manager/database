@@ -1,40 +1,40 @@
 {
-  "Name": "Monopoly Plus",
-  "DatabaseID": "150649",
-  "ReleaseDate": "2015-01-14T00:00:00+00:00",
-  "Overview": "It’s MONOPOLY for a new era! Play the classic game and watch the board come alive!\n\nWatch your empire come to life in this all-new take on MONOPOLY! You can choose amongst all your favorite house rules, challenge other players from around the world, and even control the fun from your smartphone or tablet device!",
-  "CommunityRating": "5",
-  "ESRB": "E - Everyone",
-  "Genres": "Board Game",
-  "Developer": "Asobo Studio",
-  "Publisher": "Ubisoft",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "88c7220f-0ff4-49f1-8cad-b3d5b97181aa.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "323578971",
+          "FileName": "88c7220f-0ff4-49f1-8cad-b3d5b97181aa.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/88c7220f-0ff4-49f1-8cad-b3d5b97181aa.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "b2e12eba-36bf-45f7-a8b7-7fe0b838b155.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1092786161",
-        "URL": "http://images.launchbox-app.com/b2e12eba-36bf-45f7-a8b7-7fe0b838b155.png"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "859322493",
         "FileName": "22f93f34-70d6-46dc-a46d-73d982934047.png",
         "Type": "Clear Logo",
-        "CRC32": "859322493",
         "URL": "http://images.launchbox-app.com/22f93f34-70d6-46dc-a46d-73d982934047.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1092786161",
+        "FileName": "b2e12eba-36bf-45f7-a8b7-7fe0b838b155.png",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/b2e12eba-36bf-45f7-a8b7-7fe0b838b155.png"
+      }
     ]
-  }
+  },
+  "CommunityRating": "5",
+  "DatabaseID": "150649",
+  "Developer": "Asobo Studio",
+  "ESRB": "E - Everyone",
+  "Genres": "Board Game",
+  "Name": "Monopoly Plus",
+  "Overview": "It’s MONOPOLY for a new era! Play the classic game and watch the board come alive!\n\nWatch your empire come to life in this all-new take on MONOPOLY! You can choose amongst all your favorite house rules, challenge other players from around the world, and even control the fun from your smartphone or tablet device!",
+  "Publisher": "Ubisoft",
+  "ReleaseDate": "2015-01-14T00:00:00+00:00"
 }

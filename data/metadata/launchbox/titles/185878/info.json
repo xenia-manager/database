@@ -1,73 +1,73 @@
 {
-  "Name": "Geometry Wars 3: Dimensions",
-  "DatabaseID": "185878",
-  "ReleaseDate": "2014-11-26T00:00:00+00:00",
-  "Overview": "The player pilots a claw-shaped ship that can shoot independently of where it is pointing. The primary objective is to destroy a variety of enemy shapes which attempt to destroy the ship. Depending on the game mode, extra lives and extra supers can be collected upon achieving a certain number of points. Supers can be chosen before the game starts, and are expendable power-ups that have extreme effects on the game, such as turrets that shoot enemies and a massive wave of bullets. In addition, a drone can be selected to accompany the main ship in the battle, that can attack enemies for you and ram into them, among other things.\n \nCrucial to effective play is the score multiplier, which can be increased by collecting small green diamonds called \"geoms\". Skilled players may get the multiplier into the ten-thousands on occasions.",
-  "CommunityRating": "3.75",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Geometry_Wars_3:_Dimensions",
-  "ESRB": "E - Everyone",
-  "Genres": "Shooter",
-  "Developer": "Lucid Games",
-  "Publisher": "Activision",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_a796fafd-6d1d-4758-9b91-538c8b05f598.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3910807683",
-        "URL": "http://images.launchbox-app.com/r2_a796fafd-6d1d-4758-9b91-538c8b05f598.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_bb9f5247-0231-40af-ae29-efff3013d5e6.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "1578852894",
+        "FileName": "r2_b50766f3-5532-49f6-b61d-3ee19a59ce8b.jpg",
         "Region": "World",
-        "CRC32": "253368523",
-        "URL": "http://images.launchbox-app.com/r2_bb9f5247-0231-40af-ae29-efff3013d5e6.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_b50766f3-5532-49f6-b61d-3ee19a59ce8b.jpg"
       },
       {
-        "FileName": "r2_b50766f3-5532-49f6-b61d-3ee19a59ce8b.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "253368523",
+        "FileName": "r2_bb9f5247-0231-40af-ae29-efff3013d5e6.jpg",
         "Region": "World",
-        "CRC32": "1578852894",
-        "URL": "http://images.launchbox-app.com/r2_b50766f3-5532-49f6-b61d-3ee19a59ce8b.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_bb9f5247-0231-40af-ae29-efff3013d5e6.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "3910807683",
+        "FileName": "r2_a796fafd-6d1d-4758-9b91-538c8b05f598.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_a796fafd-6d1d-4758-9b91-538c8b05f598.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "r2_fb9dbc86-e172-407c-bbe5-f633548caeba.jpg",
-          "Type": "Box - Front",
+          "CRC32": "953180430",
+          "FileName": "3c8a304f-a0c6-4575-b6db-8d987e004110.png",
           "Region": "World",
-          "CRC32": "2744994681",
-          "URL": "http://images.launchbox-app.com/r2_fb9dbc86-e172-407c-bbe5-f633548caeba.jpg"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/3c8a304f-a0c6-4575-b6db-8d987e004110.png"
         },
         {
-          "FileName": "3c8a304f-a0c6-4575-b6db-8d987e004110.png",
-          "Type": "Box - Front",
+          "CRC32": "2744994681",
+          "FileName": "r2_fb9dbc86-e172-407c-bbe5-f633548caeba.jpg",
           "Region": "World",
-          "CRC32": "953180430",
-          "URL": "http://images.launchbox-app.com/3c8a304f-a0c6-4575-b6db-8d987e004110.png"
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_fb9dbc86-e172-407c-bbe5-f633548caeba.jpg"
         }
       ]
     },
-    "Screenshots": [
-      {
-        "FileName": "3a0ad4f1-8978-4dce-8431-64e936219043.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "963540471",
-        "URL": "http://images.launchbox-app.com/3a0ad4f1-8978-4dce-8431-64e936219043.jpg"
-      }
-    ],
     "Other": [
       {
+        "CRC32": "2514527616",
         "FileName": "4c104a2b-f795-47b2-8d93-d6b48d0ddc88.png",
         "Type": "Clear Logo",
-        "CRC32": "2514527616",
         "URL": "http://images.launchbox-app.com/4c104a2b-f795-47b2-8d93-d6b48d0ddc88.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "963540471",
+        "FileName": "3a0ad4f1-8978-4dce-8431-64e936219043.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/3a0ad4f1-8978-4dce-8431-64e936219043.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3.75",
+  "DatabaseID": "185878",
+  "Developer": "Lucid Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Shooter",
+  "Name": "Geometry Wars 3: Dimensions",
+  "Overview": "The player pilots a claw-shaped ship that can shoot independently of where it is pointing. The primary objective is to destroy a variety of enemy shapes which attempt to destroy the ship. Depending on the game mode, extra lives and extra supers can be collected upon achieving a certain number of points. Supers can be chosen before the game starts, and are expendable power-ups that have extreme effects on the game, such as turrets that shoot enemies and a massive wave of bullets. In addition, a drone can be selected to accompany the main ship in the battle, that can attack enemies for you and ram into them, among other things.\n \nCrucial to effective play is the score multiplier, which can be increased by collecting small green diamonds called \"geoms\". Skilled players may get the multiplier into the ten-thousands on occasions.",
+  "Publisher": "Activision",
+  "ReleaseDate": "2014-11-26T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Geometry_Wars_3:_Dimensions"
 }

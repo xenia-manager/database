@@ -1,42 +1,42 @@
 {
-  "Name": "Chivalry: Medieval Warfare",
-  "DatabaseID": "421226",
-  "ReleaseDate": "2014-12-03T00:00:00+00:00",
-  "Overview": "CHIVALRY: Medieval Warfare is a first-person medieval combat game that seeks to deliver the intensity of epic hollywood medieval block busters to the hands of a gamer. CHIVALRY hurls the player into a fictional yet realistic medieval world where the Agathian Knights are battling against the newly formed Mason Order for control of the lands of Agatha.\n\nBesiege castles and raid villages in this 24 player online experience. Trade in your guns and grenades to test your mettle against cold hard steel on the medieval battlefield.",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Chivalry:_Medieval_Warfare",
-  "ESRB": "M - Mature",
-  "Genres": "Action",
-  "Developer": "Torn Banner Studios",
-  "Publisher": "Activision",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_a83d2f87-1e3f-4d37-9c88-89cf2475395b.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2805814692",
-        "URL": "http://images.launchbox-app.com/r2_a83d2f87-1e3f-4d37-9c88-89cf2475395b.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_01e95270-a36b-4b0b-995b-d446dfb873ba.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1165120362",
+        "FileName": "r2_01e95270-a36b-4b0b-995b-d446dfb873ba.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_01e95270-a36b-4b0b-995b-d446dfb873ba.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2805814692",
+        "FileName": "r2_a83d2f87-1e3f-4d37-9c88-89cf2475395b.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_a83d2f87-1e3f-4d37-9c88-89cf2475395b.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "2f8e0a2b-b5e4-4025-afe0-fbbf59e719d7.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "4252298606",
+          "FileName": "2f8e0a2b-b5e4-4025-afe0-fbbf59e719d7.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/2f8e0a2b-b5e4-4025-afe0-fbbf59e719d7.jpg"
         }
       ]
     }
-  }
+  },
+  "DatabaseID": "421226",
+  "Developer": "Torn Banner Studios",
+  "ESRB": "M - Mature",
+  "Genres": "Action",
+  "Name": "Chivalry: Medieval Warfare",
+  "Overview": "CHIVALRY: Medieval Warfare is a first-person medieval combat game that seeks to deliver the intensity of epic hollywood medieval block busters to the hands of a gamer. CHIVALRY hurls the player into a fictional yet realistic medieval world where the Agathian Knights are battling against the newly formed Mason Order for control of the lands of Agatha.\n\nBesiege castles and raid villages in this 24 player online experience. Trade in your guns and grenades to test your mettle against cold hard steel on the medieval battlefield.",
+  "Publisher": "Activision",
+  "ReleaseDate": "2014-12-03T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Chivalry:_Medieval_Warfare"
 }

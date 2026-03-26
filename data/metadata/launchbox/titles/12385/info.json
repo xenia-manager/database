@@ -1,104 +1,104 @@
 {
-  "Name": "NBA Jam",
-  "DatabaseID": "12385",
-  "ReleaseDate": "2010-11-16T00:00:00+00:00",
-  "Overview": "NBA Jam is a basketball video game developed by EA Canada and published by EA Sports. It is the latest installment in the NBA Jam video game franchise and it was released on October 5, 2010. The game was initially planned to be available as a full retail release for the Wii, with the PlayStation 3 and Xbox 360 versions available for download via a coupon upon purchasing NBA Elite 11. However, on September 28, 2010, EA announced that Elite would be delayed. The PS3 and Xbox 360 versions were released as standalone titles on November 17, 2010.\n\nThe game has a unique visual style, using 3D models with high-resolution photographs for the heads of each of the players. Several aspects such as the outrageous slam dunks and the ball catching on fire return from the original games. Original NBA Jam creator Mark Turmell is serving as a consultant. Tim Kitzrow, the announcer from the original NBA Jam also returns, re-recording all the lines from previous NBA Jam titles. All NBA Rosters are accurate as of April 7, 2010. The iOS version of the game is also available for OS X through the Mac version of the App Store, making it the only official computer version of the game.",
-  "CommunityRating": "3.56666666666667",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Electronic Arts Canada",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "9d8f7005-3cfd-44ec-a5a8-95c86dd37b78.png",
-        "Type": "Banner",
-        "CRC32": "4160508942",
-        "URL": "http://images.launchbox-app.com/9d8f7005-3cfd-44ec-a5a8-95c86dd37b78.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "b53f0ece-8e57-4cbf-9b7e-05b3b6b927da.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2302458639",
-        "URL": "http://images.launchbox-app.com/b53f0ece-8e57-4cbf-9b7e-05b3b6b927da.jpg"
-      },
-      {
+        "CRC32": "3489902827",
         "FileName": "0440f9d0-35be-457d-adf7-fc3a27e4685b.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3489902827",
         "URL": "http://images.launchbox-app.com/0440f9d0-35be-457d-adf7-fc3a27e4685b.jpg"
+      },
+      {
+        "CRC32": "2302458639",
+        "FileName": "b53f0ece-8e57-4cbf-9b7e-05b3b6b927da.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/b53f0ece-8e57-4cbf-9b7e-05b3b6b927da.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4160508942",
+        "FileName": "9d8f7005-3cfd-44ec-a5a8-95c86dd37b78.png",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/9d8f7005-3cfd-44ec-a5a8-95c86dd37b78.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "e652ddd9-0665-4dab-bc88-bf9ee7ff07a0.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1508181016",
+          "FileName": "e652ddd9-0665-4dab-bc88-bf9ee7ff07a0.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/e652ddd9-0665-4dab-bc88-bf9ee7ff07a0.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_f692eae1-6310-4de5-bd46-6cafe4e98577.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "4107101850",
+          "FileName": "r2_f692eae1-6310-4de5-bd46-6cafe4e98577.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_f692eae1-6310-4de5-bd46-6cafe4e98577.jpg"
         },
         {
-          "FileName": "7c5afebc-b333-4ab9-9475-02facab188b9.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "510435644",
+          "FileName": "7c5afebc-b333-4ab9-9475-02facab188b9.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/7c5afebc-b333-4ab9-9475-02facab188b9.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_e38c1792-f3f8-4900-ae99-c268c90961c9.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1998254940",
+          "FileName": "r2_e38c1792-f3f8-4900-ae99-c268c90961c9.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_e38c1792-f3f8-4900-ae99-c268c90961c9.jpg"
         },
         {
-          "FileName": "17888fae-fb5b-4693-a39c-49cc2bfd543a.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "1864068294",
+          "FileName": "17888fae-fb5b-4693-a39c-49cc2bfd543a.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/17888fae-fb5b-4693-a39c-49cc2bfd543a.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "681a2875-efe6-44b6-bb8a-6dd6099bcb22.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "241129555",
+          "FileName": "681a2875-efe6-44b6-bb8a-6dd6099bcb22.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/681a2875-efe6-44b6-bb8a-6dd6099bcb22.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_ba10c1d6-b5a6-4886-bcf6-3b1baf15805b.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2865068001",
+        "FileName": "r2_ba10c1d6-b5a6-4886-bcf6-3b1baf15805b.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_ba10c1d6-b5a6-4886-bcf6-3b1baf15805b.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "56800113",
         "FileName": "999536b8-8b3a-4c5d-ab1b-11d448251fe8.png",
         "Type": "Clear Logo",
-        "CRC32": "56800113",
         "URL": "http://images.launchbox-app.com/999536b8-8b3a-4c5d-ab1b-11d448251fe8.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.56666666666667",
+  "DatabaseID": "12385",
+  "Developer": "Electronic Arts Canada",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "NBA Jam",
+  "Overview": "NBA Jam is a basketball video game developed by EA Canada and published by EA Sports. It is the latest installment in the NBA Jam video game franchise and it was released on October 5, 2010. The game was initially planned to be available as a full retail release for the Wii, with the PlayStation 3 and Xbox 360 versions available for download via a coupon upon purchasing NBA Elite 11. However, on September 28, 2010, EA announced that Elite would be delayed. The PS3 and Xbox 360 versions were released as standalone titles on November 17, 2010.\n\nThe game has a unique visual style, using 3D models with high-resolution photographs for the heads of each of the players. Several aspects such as the outrageous slam dunks and the ball catching on fire return from the original games. Original NBA Jam creator Mark Turmell is serving as a consultant. Tim Kitzrow, the announcer from the original NBA Jam also returns, re-recording all the lines from previous NBA Jam titles. All NBA Rosters are accurate as of April 7, 2010. The iOS version of the game is also available for OS X through the Mac version of the App Store, making it the only official computer version of the game.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2010-11-16T00:00:00+00:00"
 }

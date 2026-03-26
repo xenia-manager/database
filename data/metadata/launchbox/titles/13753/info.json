@@ -1,74 +1,74 @@
 {
-  "Name": "Guitar Hero: World Tour",
-  "DatabaseID": "13753",
-  "ReleaseDate": "2008-10-26T00:00:00+00:00",
-  "Overview": "Guitar Hero World Tour delivers more ways to play than ever before. Virtual musicians can live out their rock and roll fantasies by playing either a single instrument, or any combination of instruments, in addition to the full band experience. In addition to all of the online gameplay modes from Guitar Hero III: Legends of Rock, Guitar Hero World Tour introduces Battle of the Bands mode which allows eight players to join online and challenge each other band-to-band to determine who is the best of the best. In the Band modes, up to four players can jam together, online or off, as they progress through the game, and in single-player Career Mode, players can jam on any of the instruments in branching venue progression enabling them to rock out in the order of their choice.",
-  "VideoURL": "http://www.youtube.com/watch?v=JzYLZCeaYgw",
-  "CommunityRating": "4.28571428571429",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_World_Tour",
-  "ESRB": "T - Teen",
-  "Genres": "Music",
-  "Developer": "Neversoft Entertainment",
-  "Publisher": "RedOctane",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_8a51ecb6-da70-4244-b5b1-b44787746ffc.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2276543630",
-        "URL": "http://images.launchbox-app.com/r2_8a51ecb6-da70-4244-b5b1-b44787746ffc.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1430232812",
         "FileName": "7e587d4d-2402-4b07-8f8e-f03a2e3ac33b.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1430232812",
         "URL": "http://images.launchbox-app.com/7e587d4d-2402-4b07-8f8e-f03a2e3ac33b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2276543630",
+        "FileName": "r2_8a51ecb6-da70-4244-b5b1-b44787746ffc.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_8a51ecb6-da70-4244-b5b1-b44787746ffc.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "1506093668",
           "FileName": "be73fbf9-7c89-4a1b-ac3b-8f0a80d7c675.png",
           "Type": "Box - 3D",
-          "CRC32": "1506093668",
           "URL": "http://images.launchbox-app.com/be73fbf9-7c89-4a1b-ac3b-8f0a80d7c675.png"
         }
       ],
       "Front": [
         {
+          "CRC32": "3054085189",
           "FileName": "30f4a8b7-b175-4974-a512-2f812dd355eb.jpg",
           "Type": "Box - Front",
-          "CRC32": "3054085189",
           "URL": "http://images.launchbox-app.com/30f4a8b7-b175-4974-a512-2f812dd355eb.jpg"
         },
         {
-          "FileName": "r2_27cff16d-66d2-40ab-854a-c6856d0ac960.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "589403213",
+          "FileName": "r2_27cff16d-66d2-40ab-854a-c6856d0ac960.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_27cff16d-66d2-40ab-854a-c6856d0ac960.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_19e89f4c-c8c7-4d9f-8313-8074669f80fa.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1246872647",
+        "FileName": "r2_19e89f4c-c8c7-4d9f-8313-8074669f80fa.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_19e89f4c-c8c7-4d9f-8313-8074669f80fa.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3089579714",
         "FileName": "65bc0e1a-86a0-4701-8b51-b50d7aacb5d4.png",
         "Type": "Clear Logo",
-        "CRC32": "3089579714",
         "URL": "http://images.launchbox-app.com/65bc0e1a-86a0-4701-8b51-b50d7aacb5d4.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.28571428571429",
+  "DatabaseID": "13753",
+  "Developer": "Neversoft Entertainment",
+  "ESRB": "T - Teen",
+  "Genres": "Music",
+  "Name": "Guitar Hero: World Tour",
+  "Overview": "Guitar Hero World Tour delivers more ways to play than ever before. Virtual musicians can live out their rock and roll fantasies by playing either a single instrument, or any combination of instruments, in addition to the full band experience. In addition to all of the online gameplay modes from Guitar Hero III: Legends of Rock, Guitar Hero World Tour introduces Battle of the Bands mode which allows eight players to join online and challenge each other band-to-band to determine who is the best of the best. In the Band modes, up to four players can jam together, online or off, as they progress through the game, and in single-player Career Mode, players can jam on any of the instruments in branching venue progression enabling them to rock out in the order of their choice.",
+  "Publisher": "RedOctane",
+  "ReleaseDate": "2008-10-26T00:00:00+00:00",
+  "VideoURL": "http://www.youtube.com/watch?v=JzYLZCeaYgw",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_World_Tour"
 }

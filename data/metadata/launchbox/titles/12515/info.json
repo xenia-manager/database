@@ -1,99 +1,99 @@
 {
-  "Name": "Doom 3: BFG Edition",
-  "DatabaseID": "12515",
-  "ReleaseDate": "2012-10-16T00:00:00+00:00",
-  "Overview": "Welcome Back to Hell. The ruins of an ancient Martian civilization have unlocked the secrets to teleportation, and the UAC (Union Aerospace Corporation) will stop at nothing to harness this world-altering technology. As part of a marine detachment sent to protect the facility, your duty seemed simple enough... until the invasion. Now, in an epic clash against pure evil you must fight to understand who is with you, who is against you, and what must be done to stop this nightmare from reaching earth.\n\nDOOM 3: BFG Edition is the ultimate collection of groundbreaking games that defined the First-Person Shooter (FPS) game genre. The collection includes DOOM, DOOM 2, DOOM 3, and DOOM 3: Resurrection of Evil, as well as the 'Lost Mission.' All DOOM 3 content has been re-mastered for Xbox 360 for an even more terrifying FPS experience, and as the subtext to the edition's name suggests, all the content included feature guns and other weapons of substantial power and size.",
-  "VideoURL": "https://www.youtube.com/watch?v=h8TnP-mgDoI",
-  "CommunityRating": "4.15384615384615",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Doom_3:_BFG_Edition",
-  "ESRB": "M - Mature",
-  "Genres": "Shooter",
-  "Developer": "id Software",
-  "Publisher": "Bethesda Softworks",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_b640e374-df6e-41dc-afd1-e1d99ed50372.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "1727096998",
-        "URL": "http://images.launchbox-app.com/r2_b640e374-df6e-41dc-afd1-e1d99ed50372.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1925852801",
         "FileName": "5fbb9190-327f-4b6b-8e58-cc62a424910d.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1925852801",
         "URL": "http://images.launchbox-app.com/5fbb9190-327f-4b6b-8e58-cc62a424910d.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1727096998",
+        "FileName": "r2_b640e374-df6e-41dc-afd1-e1d99ed50372.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_b640e374-df6e-41dc-afd1-e1d99ed50372.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "r2_1350be9e-4a46-47ef-a21f-a5d72c637c4e.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "1875576446",
+          "FileName": "r2_1350be9e-4a46-47ef-a21f-a5d72c637c4e.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_1350be9e-4a46-47ef-a21f-a5d72c637c4e.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_36fc2b85-86b2-47cc-92e5-586463f8290f.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2812390814",
+          "FileName": "r2_36fc2b85-86b2-47cc-92e5-586463f8290f.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_36fc2b85-86b2-47cc-92e5-586463f8290f.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "5a4e4acd-0c43-4e1e-80c2-b18568ce7082.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "49551619",
+          "FileName": "5a4e4acd-0c43-4e1e-80c2-b18568ce7082.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5a4e4acd-0c43-4e1e-80c2-b18568ce7082.jpg"
         },
         {
-          "FileName": "r2_68758431-56fe-4480-80a8-ffd4041fb737.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2530180868",
+          "FileName": "r2_68758431-56fe-4480-80a8-ffd4041fb737.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_68758431-56fe-4480-80a8-ffd4041fb737.jpg"
         },
         {
-          "FileName": "6833d2aa-f011-4ec8-a9c5-7c5cf9a2fec3.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2082637838",
+          "FileName": "6833d2aa-f011-4ec8-a9c5-7c5cf9a2fec3.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6833d2aa-f011-4ec8-a9c5-7c5cf9a2fec3.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_3cd17090-4504-47c1-8876-8903c02ccbee.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1291470894",
+        "FileName": "r2_3cd17090-4504-47c1-8876-8903c02ccbee.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_3cd17090-4504-47c1-8876-8903c02ccbee.png"
       },
       {
-        "FileName": "3d08db99-379b-447b-a926-8380a6820612.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "3913669517",
+        "FileName": "3d08db99-379b-447b-a926-8380a6820612.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/3d08db99-379b-447b-a926-8380a6820612.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "524328480",
         "FileName": "1dcd8781-35ef-4eaf-ae2d-ca41e7e21cc8.png",
         "Type": "Clear Logo",
-        "CRC32": "524328480",
         "URL": "http://images.launchbox-app.com/1dcd8781-35ef-4eaf-ae2d-ca41e7e21cc8.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4.15384615384615",
+  "DatabaseID": "12515",
+  "Developer": "id Software",
+  "ESRB": "M - Mature",
+  "Genres": "Shooter",
+  "Name": "Doom 3: BFG Edition",
+  "Overview": "Welcome Back to Hell. The ruins of an ancient Martian civilization have unlocked the secrets to teleportation, and the UAC (Union Aerospace Corporation) will stop at nothing to harness this world-altering technology. As part of a marine detachment sent to protect the facility, your duty seemed simple enough... until the invasion. Now, in an epic clash against pure evil you must fight to understand who is with you, who is against you, and what must be done to stop this nightmare from reaching earth.\n\nDOOM 3: BFG Edition is the ultimate collection of groundbreaking games that defined the First-Person Shooter (FPS) game genre. The collection includes DOOM, DOOM 2, DOOM 3, and DOOM 3: Resurrection of Evil, as well as the 'Lost Mission.' All DOOM 3 content has been re-mastered for Xbox 360 for an even more terrifying FPS experience, and as the subtext to the edition's name suggests, all the content included feature guns and other weapons of substantial power and size.",
+  "Publisher": "Bethesda Softworks",
+  "ReleaseDate": "2012-10-16T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=h8TnP-mgDoI",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Doom_3:_BFG_Edition"
 }

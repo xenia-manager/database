@@ -1,114 +1,114 @@
 {
-  "Name": "Epic Mickey 2: The Power of Two",
-  "DatabaseID": "12514",
-  "ReleaseDate": "2012-11-18T00:00:00+00:00",
-  "Overview": "Epic Mickey 2 takes place in a world based on classic and retired Disney characters and attractions. The story begins sometime after the conclusion of the original Epic Mickey, with Oswald and the other Wasteland characters starting to rebuild their world. A series of earthquakes threaten to undo the work, but the Mad Doctor appears and convinces Oswald to join forces and combat the new menace. Ortensia, Oswald's girlfriend, doesn't trust the Doctor, so she and Gus, Oswald's gremlin assistant, bring Mickey Mouse back to Wasteland to help.",
-  "VideoURL": "https://www.youtube.com/watch?v=hH9Kx06oO_0",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Epic_Mickey_2:_The_Power_of_Two",
-  "ESRB": "E - Everyone",
-  "Genres": "Action",
-  "Developer": "Junction Point Studios",
-  "Publisher": "Disney Interactive Studios",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_f99598ab-9ddb-4a8d-9983-a58cdc1067f4.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "3189042749",
-        "URL": "http://images.launchbox-app.com/r2_f99598ab-9ddb-4a8d-9983-a58cdc1067f4.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "2225439318",
         "FileName": "552a2c8d-c20b-4c34-b527-0faa6893151c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2225439318",
         "URL": "http://images.launchbox-app.com/552a2c8d-c20b-4c34-b527-0faa6893151c.jpg"
       },
       {
+        "CRC32": "540123987",
+        "FileName": "744f7639-ba40-4eda-9cb3-4d73f39f5242.jpg",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/744f7639-ba40-4eda-9cb3-4d73f39f5242.jpg"
+      },
+      {
+        "CRC32": "689381730",
         "FileName": "b57efda7-a564-4e99-9601-d1a23561a988.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "689381730",
         "URL": "http://images.launchbox-app.com/b57efda7-a564-4e99-9601-d1a23561a988.jpg"
       },
       {
+        "CRC32": "1409189209",
         "FileName": "b7158955-e6e9-4ee1-be1f-a715cad9f646.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1409189209",
         "URL": "http://images.launchbox-app.com/b7158955-e6e9-4ee1-be1f-a715cad9f646.jpg"
       },
       {
+        "CRC32": "1343316313",
         "FileName": "cccdfa20-d9c4-4616-bf2b-13d03ff1e8f7.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1343316313",
         "URL": "http://images.launchbox-app.com/cccdfa20-d9c4-4616-bf2b-13d03ff1e8f7.jpg"
-      },
+      }
+    ],
+    "Banner": [
       {
-        "FileName": "744f7639-ba40-4eda-9cb3-4d73f39f5242.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "540123987",
-        "URL": "http://images.launchbox-app.com/744f7639-ba40-4eda-9cb3-4d73f39f5242.jpg"
+        "CRC32": "3189042749",
+        "FileName": "r2_f99598ab-9ddb-4a8d-9983-a58cdc1067f4.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_f99598ab-9ddb-4a8d-9983-a58cdc1067f4.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "694994143",
           "FileName": "d4c9c11f-f9bd-4c84-8e0e-bb42b22dd013.png",
           "Type": "Box - 3D",
-          "CRC32": "694994143",
           "URL": "http://images.launchbox-app.com/d4c9c11f-f9bd-4c84-8e0e-bb42b22dd013.png"
         },
         {
-          "FileName": "r2_835dd03a-5aa1-43f0-b870-a409e2788620.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "3638414688",
+          "FileName": "r2_835dd03a-5aa1-43f0-b870-a409e2788620.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/r2_835dd03a-5aa1-43f0-b870-a409e2788620.png"
         }
       ],
       "Back": [
         {
-          "FileName": "r2_d6fe9a90-95c5-4f2b-93de-92472ef812f8.jpg",
-          "Type": "Box - Back",
-          "Region": "France",
           "CRC32": "1167378512",
+          "FileName": "r2_d6fe9a90-95c5-4f2b-93de-92472ef812f8.jpg",
+          "Region": "France",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_d6fe9a90-95c5-4f2b-93de-92472ef812f8.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "504954814",
           "FileName": "70550a2c-0fc2-4424-a4cd-a8a7cb6fd283.jpg",
           "Type": "Box - Front",
-          "CRC32": "504954814",
           "URL": "http://images.launchbox-app.com/70550a2c-0fc2-4424-a4cd-a8a7cb6fd283.jpg"
         },
         {
-          "FileName": "r2_bfe2afdf-4b4c-44c6-a654-68ff3d3a0245.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "4149568857",
+          "FileName": "r2_bfe2afdf-4b4c-44c6-a654-68ff3d3a0245.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_bfe2afdf-4b4c-44c6-a654-68ff3d3a0245.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "c8c032fe-1b1a-49e0-836b-a1d84f41a8bd.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2823896496",
+        "FileName": "c8c032fe-1b1a-49e0-836b-a1d84f41a8bd.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/c8c032fe-1b1a-49e0-836b-a1d84f41a8bd.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2711798311",
         "FileName": "a5d04430-3a5b-45dc-b773-5ac21e753022.png",
         "Type": "Clear Logo",
-        "CRC32": "2711798311",
         "URL": "http://images.launchbox-app.com/a5d04430-3a5b-45dc-b773-5ac21e753022.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "12514",
+  "Developer": "Junction Point Studios",
+  "ESRB": "E - Everyone",
+  "Genres": "Action",
+  "Name": "Epic Mickey 2: The Power of Two",
+  "Overview": "Epic Mickey 2 takes place in a world based on classic and retired Disney characters and attractions. The story begins sometime after the conclusion of the original Epic Mickey, with Oswald and the other Wasteland characters starting to rebuild their world. A series of earthquakes threaten to undo the work, but the Mad Doctor appears and convinces Oswald to join forces and combat the new menace. Ortensia, Oswald's girlfriend, doesn't trust the Doctor, so she and Gus, Oswald's gremlin assistant, bring Mickey Mouse back to Wasteland to help.",
+  "Publisher": "Disney Interactive Studios",
+  "ReleaseDate": "2012-11-18T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=hH9Kx06oO_0",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Epic_Mickey_2:_The_Power_of_Two"
 }

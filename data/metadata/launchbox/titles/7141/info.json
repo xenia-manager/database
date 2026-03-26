@@ -1,90 +1,90 @@
 {
-  "Name": "Battlefield 2: Modern Combat",
-  "DatabaseID": "7141",
-  "ReleaseDate": "2006-04-11T00:00:00+00:00",
-  "Overview": "Although called Battlefield 2, this is the first of the Battlefield series to pass over to console. Vehicles like the Humvees, tanks, APCs and helicopters all make it into the game although fixed wing aircraft are noticeable absent.\n\nMultiplayer allows up to 24 players battle it out in a Conquest mode where you capture flags and maintain control of them until the enemy tickers run down, or Capture the Flag which is all out attack to get the enemy flag back to your own base. A single player campaign, which is story led, see's China and USA go up against each other in Kazakhstan. Throughout the single player campaign you switch between China and USA armies as you follow orders based on news reports which show both sides of the war giving you a view of how war is and how it's reported. The new Hot Swap feature allows you to jump into almost any other allied troop on the battlefield which saves loads of running and gets you into the best position for your next attack or defense.",
-  "CommunityRating": "3.77777777777778",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Battlefield_2:_Modern_Combat",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "DiCE",
-  "Publisher": "Electronic Arts",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_17a327b5-ad54-43c2-ac28-89e6a1d8c557.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2519562146",
-        "URL": "http://images.launchbox-app.com/r2_17a327b5-ad54-43c2-ac28-89e6a1d8c557.png"
-      }
-    ],
     "Background": [
       {
+        "CRC32": "1745884241",
         "FileName": "423a3b85-1748-4f11-96e5-ae980b1cb14b.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1745884241",
         "URL": "http://images.launchbox-app.com/423a3b85-1748-4f11-96e5-ae980b1cb14b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2519562146",
+        "FileName": "r2_17a327b5-ad54-43c2-ac28-89e6a1d8c557.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_17a327b5-ad54-43c2-ac28-89e6a1d8c557.png"
       }
     ],
     "Box": {
       "3D": [
         {
+          "CRC32": "244579997",
           "FileName": "e6cb9a92-ea5e-4747-800f-3cdc18499c5f.png",
           "Type": "Box - 3D",
-          "CRC32": "244579997",
           "URL": "http://images.launchbox-app.com/e6cb9a92-ea5e-4747-800f-3cdc18499c5f.png"
         }
       ],
       "Back": [
         {
-          "FileName": "ec053e29-9388-46db-b6b9-f54a4bc16342.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "2484740497",
+          "FileName": "ec053e29-9388-46db-b6b9-f54a4bc16342.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/ec053e29-9388-46db-b6b9-f54a4bc16342.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_3566402b-0f3a-4ab6-b81f-f39196eb5ad7.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "2655487353",
+          "FileName": "r2_3566402b-0f3a-4ab6-b81f-f39196eb5ad7.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_3566402b-0f3a-4ab6-b81f-f39196eb5ad7.jpg"
         },
         {
-          "FileName": "09d6d36d-e133-4a3b-8223-f2b8458fe102.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "2482057783",
+          "FileName": "09d6d36d-e133-4a3b-8223-f2b8458fe102.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/09d6d36d-e133-4a3b-8223-f2b8458fe102.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "2a3450bc-ec9d-42f4-b568-273167d3612c.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1133760386",
+        "FileName": "2a3450bc-ec9d-42f4-b568-273167d3612c.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/2a3450bc-ec9d-42f4-b568-273167d3612c.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "3886489268",
         "FileName": "a2a24ff5-5274-486c-8b95-16729943d3c6.png",
         "Type": "Clear Logo",
-        "CRC32": "3886489268",
         "URL": "http://images.launchbox-app.com/a2a24ff5-5274-486c-8b95-16729943d3c6.png"
       },
       {
-        "FileName": "6ad8aee6-566c-499d-9a65-435179e39b0a.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
         "CRC32": "178716783",
+        "FileName": "6ad8aee6-566c-499d-9a65-435179e39b0a.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/6ad8aee6-566c-499d-9a65-435179e39b0a.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.77777777777778",
+  "DatabaseID": "7141",
+  "Developer": "DiCE",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Battlefield 2: Modern Combat",
+  "Overview": "Although called Battlefield 2, this is the first of the Battlefield series to pass over to console. Vehicles like the Humvees, tanks, APCs and helicopters all make it into the game although fixed wing aircraft are noticeable absent.\n\nMultiplayer allows up to 24 players battle it out in a Conquest mode where you capture flags and maintain control of them until the enemy tickers run down, or Capture the Flag which is all out attack to get the enemy flag back to your own base. A single player campaign, which is story led, see's China and USA go up against each other in Kazakhstan. Throughout the single player campaign you switch between China and USA armies as you follow orders based on news reports which show both sides of the war giving you a view of how war is and how it's reported. The new Hot Swap feature allows you to jump into almost any other allied troop on the battlefield which saves loads of running and gets you into the best position for your next attack or defense.",
+  "Publisher": "Electronic Arts",
+  "ReleaseDate": "2006-04-11T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Battlefield_2:_Modern_Combat"
 }

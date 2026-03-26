@@ -1,38 +1,38 @@
 {
-  "Name": "Haunt",
-  "DatabaseID": "460080",
-  "ReleaseDate": "2012-01-18T00:00:00+00:00",
-  "Overview": "Players explore Benjy's Mansion, a haunted mansion unvisited for ages. Exploring the mansion from a first-person perspective using full-body motion controls, players must try to avoid dangerous ghosts while finding the mansion's secrets and treasures.",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Haunt_(video_game)",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
-  "Developer": "NanaOn-Sha",
-  "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "081b36b5-d0d7-44bb-bc5a-da42286ec62a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1645312943",
+          "FileName": "081b36b5-d0d7-44bb-bc5a-da42286ec62a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/081b36b5-d0d7-44bb-bc5a-da42286ec62a.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "5c911e2d-b52b-4211-ad8a-fd23466b2dd7.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3516856714",
-        "URL": "http://images.launchbox-app.com/5c911e2d-b52b-4211-ad8a-fd23466b2dd7.jpg"
-      },
-      {
+        "CRC32": "2530044752",
         "FileName": "0436a8bf-5638-4a3a-b481-10ef5988dcf5.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2530044752",
         "URL": "http://images.launchbox-app.com/0436a8bf-5638-4a3a-b481-10ef5988dcf5.jpg"
+      },
+      {
+        "CRC32": "3516856714",
+        "FileName": "5c911e2d-b52b-4211-ad8a-fd23466b2dd7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/5c911e2d-b52b-4211-ad8a-fd23466b2dd7.jpg"
       }
     ]
-  }
+  },
+  "DatabaseID": "460080",
+  "Developer": "NanaOn-Sha",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action",
+  "Name": "Haunt",
+  "Overview": "Players explore Benjy's Mansion, a haunted mansion unvisited for ages. Exploring the mansion from a first-person perspective using full-body motion controls, players must try to avoid dangerous ghosts while finding the mansion's secrets and treasures.",
+  "Publisher": "Microsoft Game Studios",
+  "ReleaseDate": "2012-01-18T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Haunt_(video_game)"
 }

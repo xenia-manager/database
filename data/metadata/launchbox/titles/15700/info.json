@@ -1,36 +1,36 @@
 {
-  "Name": "Saints Row: Double Pack",
-  "DatabaseID": "15700",
-  "ReleaseDate": "2010-09-07T00:00:00+00:00",
-  "Overview": "This compilation contains:\nSaints Row\nSaints Row 2",
-  "CommunityRating": "3.25",
-  "ESRB": "M - Mature",
-  "Genres": "Compilation",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "1828069286",
         "FileName": "692b65fa-90e4-4705-833c-c184f5c80228.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1828069286",
         "URL": "http://images.launchbox-app.com/692b65fa-90e4-4705-833c-c184f5c80228.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "716901105",
           "FileName": "2ecf7722-472e-4267-bf88-a2abf053c3a1.jpg",
           "Type": "Box - Front",
-          "CRC32": "716901105",
           "URL": "http://images.launchbox-app.com/2ecf7722-472e-4267-bf88-a2abf053c3a1.jpg"
         },
         {
-          "FileName": "6927c7ec-4e5b-4150-902f-7855d2634fca.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "16424585",
+          "FileName": "6927c7ec-4e5b-4150-902f-7855d2634fca.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/6927c7ec-4e5b-4150-902f-7855d2634fca.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "3.25",
+  "DatabaseID": "15700",
+  "ESRB": "M - Mature",
+  "Genres": "Compilation",
+  "Name": "Saints Row: Double Pack",
+  "Overview": "This compilation contains:\nSaints Row\nSaints Row 2",
+  "ReleaseDate": "2010-09-07T00:00:00+00:00"
 }

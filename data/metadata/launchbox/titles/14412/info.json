@@ -1,64 +1,64 @@
 {
-  "Name": "History Legends of War: Patton",
-  "DatabaseID": "14412",
-  "ReleaseDate": "2012-11-20T00:00:00+00:00",
-  "Overview": "History Legends of War: Patton is a turn-based strategy game and the follow-up to Legends of War: Patton's Campaign. The game puts you in control of General Patton's army during World War II. Players can go through the whole war, from Belgium to the beaches of France. A small unit of army men is guided as they battle through 21 unique missions. There are four different styles of missions: Attack, Defense, Infiltration, and Sabotage. Attack involves simply eliminating the enemies units, while defense involves resisting enemy attacks over a set number of turns. Infiltration involves completing various missions with your infantrymen while going undetected by enemy units, with Sabotage being the opposite.\n\nThere are two types of currency used throughout the game: skill points and Prestige. Skill points are used to upgrade certain aspects of the army's units. Prestige points are essentially an in-game currency, used to buy new units, heal old units, repair vehicles, and upgrade units. The amount of each you receive after each battle is determined by how well you accomplish each mission. In addition, units themselves go through \"evolution\" as the game progresses. Units will gain experience themselves and advance in levels. The higher the rank, the more effective the unit is in combat and missions.",
-  "ESRB": "T - Teen",
-  "Genres": "Strategy",
-  "Developer": "Enigma Software Productions",
-  "Publisher": "Maximum Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_2b6a2d07-52c3-4bf3-95dc-04a3477cb132.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "4062559482",
-        "URL": "http://images.launchbox-app.com/r2_2b6a2d07-52c3-4bf3-95dc-04a3477cb132.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_a45067e5-d838-4d05-b835-c544fa4a78ef.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "1430755260",
+        "FileName": "r2_a45067e5-d838-4d05-b835-c544fa4a78ef.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_a45067e5-d838-4d05-b835-c544fa4a78ef.jpg"
       },
       {
-        "FileName": "r2_a4815e9c-9469-481a-9878-144e187c85af.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2739080196",
+        "FileName": "r2_a4815e9c-9469-481a-9878-144e187c85af.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_a4815e9c-9469-481a-9878-144e187c85af.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "4062559482",
+        "FileName": "r2_2b6a2d07-52c3-4bf3-95dc-04a3477cb132.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_2b6a2d07-52c3-4bf3-95dc-04a3477cb132.png"
       }
     ],
     "Box": {
       "Front": [
         {
+          "CRC32": "2939068493",
           "FileName": "c11f4481-3fc8-4ead-807e-29b0d9de64c2.jpg",
           "Type": "Box - Front",
-          "CRC32": "2939068493",
           "URL": "http://images.launchbox-app.com/c11f4481-3fc8-4ead-807e-29b0d9de64c2.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_e7aad9c9-1687-426d-89fa-6269a8fe3f53.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "735197420",
+        "FileName": "r2_e7aad9c9-1687-426d-89fa-6269a8fe3f53.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_e7aad9c9-1687-426d-89fa-6269a8fe3f53.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "1316553973",
         "FileName": "a3842df8-250e-49d3-9a4f-bc7dd7783397.png",
         "Type": "Clear Logo",
-        "CRC32": "1316553973",
         "URL": "http://images.launchbox-app.com/a3842df8-250e-49d3-9a4f-bc7dd7783397.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "14412",
+  "Developer": "Enigma Software Productions",
+  "ESRB": "T - Teen",
+  "Genres": "Strategy",
+  "Name": "History Legends of War: Patton",
+  "Overview": "History Legends of War: Patton is a turn-based strategy game and the follow-up to Legends of War: Patton's Campaign. The game puts you in control of General Patton's army during World War II. Players can go through the whole war, from Belgium to the beaches of France. A small unit of army men is guided as they battle through 21 unique missions. There are four different styles of missions: Attack, Defense, Infiltration, and Sabotage. Attack involves simply eliminating the enemies units, while defense involves resisting enemy attacks over a set number of turns. Infiltration involves completing various missions with your infantrymen while going undetected by enemy units, with Sabotage being the opposite.\n\nThere are two types of currency used throughout the game: skill points and Prestige. Skill points are used to upgrade certain aspects of the army's units. Prestige points are essentially an in-game currency, used to buy new units, heal old units, repair vehicles, and upgrade units. The amount of each you receive after each battle is determined by how well you accomplish each mission. In addition, units themselves go through \"evolution\" as the game progresses. Units will gain experience themselves and advance in levels. The higher the rank, the more effective the unit is in combat and missions.",
+  "Publisher": "Maximum Games",
+  "ReleaseDate": "2012-11-20T00:00:00+00:00"
 }

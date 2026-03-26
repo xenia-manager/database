@@ -1,68 +1,68 @@
 {
-  "Name": "Alien Breed 3: Descent",
-  "DatabaseID": "128868",
-  "ReleaseDate": "2010-11-17T00:00:00+00:00",
-  "Overview": "Alien Breed 3: Descent is a 3rd person shooter in which players assume the role of a soldier battling aliens aboard a stranded space station. Players collect weapons as they navigate dark halls in an effort to regain control of the space station.",
-  "CommunityRating": "3",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Alien_Breed_3:_Descent",
-  "ESRB": "T - Teen",
-  "Genres": "Shooter",
-  "Developer": "Team17 Software",
-  "Publisher": "Team17 Software",
   "Artwork": {
     "Banner": [
       {
-        "FileName": "r2_bc260603-aa5f-4eed-9eb5-513dc67648c9.png",
-        "Type": "Banner",
-        "Region": "World",
         "CRC32": "3304907339",
+        "FileName": "r2_bc260603-aa5f-4eed-9eb5-513dc67648c9.png",
+        "Region": "World",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/r2_bc260603-aa5f-4eed-9eb5-513dc67648c9.png"
       }
     ],
     "Box": {
       "3D": [
         {
-          "FileName": "d14e8047-4e25-4340-865c-f5e0c1a2cbe4.png",
-          "Type": "Box - 3D",
-          "Region": "World",
           "CRC32": "1293369341",
+          "FileName": "d14e8047-4e25-4340-865c-f5e0c1a2cbe4.png",
+          "Region": "World",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/d14e8047-4e25-4340-865c-f5e0c1a2cbe4.png"
         }
       ],
       "Front": [
         {
-          "FileName": "7b4d2d22-e2ef-4fc4-9ea1-31ae22e95caa.png",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "2419627406",
+          "FileName": "7b4d2d22-e2ef-4fc4-9ea1-31ae22e95caa.png",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7b4d2d22-e2ef-4fc4-9ea1-31ae22e95caa.png"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "9ced91d2-afa5-478b-a0b8-26ec5e0d60be.png",
-        "Type": "Disc",
-        "Region": "World",
         "CRC32": "221065505",
+        "FileName": "9ced91d2-afa5-478b-a0b8-26ec5e0d60be.png",
+        "Region": "World",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/9ced91d2-afa5-478b-a0b8-26ec5e0d60be.png"
-      }
-    ],
-    "Screenshots": [
-      {
-        "FileName": "4129c849-bf32-4b10-b63d-c40690aa2a85.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2355831909",
-        "URL": "http://images.launchbox-app.com/4129c849-bf32-4b10-b63d-c40690aa2a85.jpg"
       }
     ],
     "Other": [
       {
+        "CRC32": "2758549764",
         "FileName": "0c5e9819-6895-42ac-80b8-c4072230e695.png",
         "Type": "Clear Logo",
-        "CRC32": "2758549764",
         "URL": "http://images.launchbox-app.com/0c5e9819-6895-42ac-80b8-c4072230e695.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2355831909",
+        "FileName": "4129c849-bf32-4b10-b63d-c40690aa2a85.jpg",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/4129c849-bf32-4b10-b63d-c40690aa2a85.jpg"
+      }
     ]
-  }
+  },
+  "CommunityRating": "3",
+  "DatabaseID": "128868",
+  "Developer": "Team17 Software",
+  "ESRB": "T - Teen",
+  "Genres": "Shooter",
+  "Name": "Alien Breed 3: Descent",
+  "Overview": "Alien Breed 3: Descent is a 3rd person shooter in which players assume the role of a soldier battling aliens aboard a stranded space station. Players collect weapons as they navigate dark halls in an effort to regain control of the space station.",
+  "Publisher": "Team17 Software",
+  "ReleaseDate": "2010-11-17T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Alien_Breed_3:_Descent"
 }

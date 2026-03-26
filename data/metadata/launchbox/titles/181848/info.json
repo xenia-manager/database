@@ -1,65 +1,65 @@
 {
-  "Name": "Zombie Wranglers",
-  "DatabaseID": "181848",
-  "ReleaseDate": "2009-05-06T00:00:00+00:00",
-  "Overview": "Zombie Wranglers is a fast-paced action co-op game that pits four zombie wrangling youths against hordes of undead that threaten the city of Potters Field. The kids of Wrangler Union 138 take the fight to the streets, travel through the suburbs, local summer camp, and the local strip mall. Played from a third-person perspective in a world with cartoony, cell shaded graphics, the kids run around to fight Emo, Skater, and Mailman zombies using weaponry such as glue bombs, shrink grenades and zombie repellent headgear. Their most important tool is always at their disposal, the Wrangler pack. Turning undead into raw essence is rewarded with cash.\n\nMost of the 20 missions have a number of chores that need to be performed – destroying specific monsters, and locating or destroying items and structures.",
-  "CommunityRating": "3.8",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Zombie_Wranglers",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Horror; Shooter",
-  "Developer": "Frozen Codebase",
-  "Publisher": "Activision",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_aff85270-867e-4518-892d-38ea309f8a36.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "898048320",
-        "URL": "http://images.launchbox-app.com/r2_aff85270-867e-4518-892d-38ea309f8a36.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_be219be1-41dd-437f-8504-dac8158e42ae.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2631601087",
+        "FileName": "r2_be219be1-41dd-437f-8504-dac8158e42ae.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_be219be1-41dd-437f-8504-dac8158e42ae.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "898048320",
+        "FileName": "r2_aff85270-867e-4518-892d-38ea309f8a36.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_aff85270-867e-4518-892d-38ea309f8a36.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "c14fb140-0e1f-42df-b310-79f9e3521f4a.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "2168398467",
+          "FileName": "c14fb140-0e1f-42df-b310-79f9e3521f4a.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/c14fb140-0e1f-42df-b310-79f9e3521f4a.jpg"
         }
       ]
     },
+    "Other": [
+      {
+        "CRC32": "3132472883",
+        "FileName": "28ee4f74-715c-4190-a86b-75aee37515e2.png",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/28ee4f74-715c-4190-a86b-75aee37515e2.png"
+      }
+    ],
     "Screenshots": [
       {
+        "CRC32": "3276110074",
         "FileName": "1a7f3240-2ea8-4cd7-b8df-5aa61afe5be1.png",
         "Type": "Screenshot - Game Title",
-        "CRC32": "3276110074",
         "URL": "http://images.launchbox-app.com/1a7f3240-2ea8-4cd7-b8df-5aa61afe5be1.png"
       },
       {
+        "CRC32": "773716962",
         "FileName": "bbfc72d8-0ec1-4482-90e6-d2c634addada.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "773716962",
         "URL": "http://images.launchbox-app.com/bbfc72d8-0ec1-4482-90e6-d2c634addada.jpg"
       }
-    ],
-    "Other": [
-      {
-        "FileName": "28ee4f74-715c-4190-a86b-75aee37515e2.png",
-        "Type": "Clear Logo",
-        "CRC32": "3132472883",
-        "URL": "http://images.launchbox-app.com/28ee4f74-715c-4190-a86b-75aee37515e2.png"
-      }
     ]
-  }
+  },
+  "CommunityRating": "3.8",
+  "DatabaseID": "181848",
+  "Developer": "Frozen Codebase",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Horror; Shooter",
+  "Name": "Zombie Wranglers",
+  "Overview": "Zombie Wranglers is a fast-paced action co-op game that pits four zombie wrangling youths against hordes of undead that threaten the city of Potters Field. The kids of Wrangler Union 138 take the fight to the streets, travel through the suburbs, local summer camp, and the local strip mall. Played from a third-person perspective in a world with cartoony, cell shaded graphics, the kids run around to fight Emo, Skater, and Mailman zombies using weaponry such as glue bombs, shrink grenades and zombie repellent headgear. Their most important tool is always at their disposal, the Wrangler pack. Turning undead into raw essence is rewarded with cash.\n\nMost of the 20 missions have a number of chores that need to be performed – destroying specific monsters, and locating or destroying items and structures.",
+  "Publisher": "Activision",
+  "ReleaseDate": "2009-05-06T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Zombie_Wranglers"
 }

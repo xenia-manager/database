@@ -1,43 +1,43 @@
 {
-  "Name": "Inferno Pool",
-  "DatabaseID": "209401",
-  "ReleaseDate": "2009-10-28T00:00:00+00:00",
-  "Overview": "Inferno Pool is a revolutionary, simultaneous multi-player Pool action game, where every ball you pot is dropped onto your opponents table. Battle against your friends locally or compete against the world online. Learn punishing skill shots to unleash Inferno Mode and humiliate your opponents. This is Pool on fire! With perfect ball physics, and stunning 720p, 60fps graphics, Inferno Pool is as slick as lightning. Includes classic 8-ball and 9-ball Pool and gruelling Endurance mode! For the first time Pool is a fast and frantic party game, with a gritty, underground atmosphere puntuated by the brutal and hilarious Inferno Pool commentator – you’ll never look at your balls in the same way again!",
-  "CommunityRating": "3.375",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Inferno_Pool",
-  "ESRB": "E - Everyone",
-  "Genres": "Sports",
-  "Developer": "Dark Energy Digital",
-  "Publisher": "koch Media",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_886357e4-b29c-472d-b28c-65e95f4152e0.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2170526867",
-        "URL": "http://images.launchbox-app.com/r2_886357e4-b29c-472d-b28c-65e95f4152e0.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_8db55b02-1e54-4044-a34f-5f1de573a56b.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "130977125",
+        "FileName": "r2_8db55b02-1e54-4044-a34f-5f1de573a56b.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_8db55b02-1e54-4044-a34f-5f1de573a56b.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2170526867",
+        "FileName": "r2_886357e4-b29c-472d-b28c-65e95f4152e0.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_886357e4-b29c-472d-b28c-65e95f4152e0.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "59d92340-cc34-438b-8d6f-dffa0839015a.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
           "CRC32": "1767269106",
+          "FileName": "59d92340-cc34-438b-8d6f-dffa0839015a.jpg",
+          "Region": "United States",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/59d92340-cc34-438b-8d6f-dffa0839015a.jpg"
         }
       ]
     }
-  }
+  },
+  "CommunityRating": "3.375",
+  "DatabaseID": "209401",
+  "Developer": "Dark Energy Digital",
+  "ESRB": "E - Everyone",
+  "Genres": "Sports",
+  "Name": "Inferno Pool",
+  "Overview": "Inferno Pool is a revolutionary, simultaneous multi-player Pool action game, where every ball you pot is dropped onto your opponents table. Battle against your friends locally or compete against the world online. Learn punishing skill shots to unleash Inferno Mode and humiliate your opponents. This is Pool on fire! With perfect ball physics, and stunning 720p, 60fps graphics, Inferno Pool is as slick as lightning. Includes classic 8-ball and 9-ball Pool and gruelling Endurance mode! For the first time Pool is a fast and frantic party game, with a gritty, underground atmosphere puntuated by the brutal and hilarious Inferno Pool commentator – you’ll never look at your balls in the same way again!",
+  "Publisher": "koch Media",
+  "ReleaseDate": "2009-10-28T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Inferno_Pool"
 }

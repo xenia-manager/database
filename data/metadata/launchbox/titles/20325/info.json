@@ -1,48 +1,48 @@
 {
-  "Name": "Peggle",
-  "DatabaseID": "20325",
-  "ReleaseDate": "2009-03-11T00:00:00+00:00",
-  "Overview": "Experience the ball-bouncing, peg-busting phenomenon sweeping the globe, now on Xbox LIVE Arcade. Do you have what it takes to become a Peggle master? Conquer dozens of levels with 10 different characters, each with a unique special power. Face off against two to four friends in multiplayer play over Xbox LIVE, and test your skills with the Grand Master Challenges. Take your best shot. \n\nEnjoy multiple game modes like Adventure and Quick Play. Play through more than 55 levels and 75 challenges, using 10 Peggle Masters with unique abilities.  Join with friends for 2-4 way multiplayer over Xbox LIVE plus local multiplayer, co-op, and party game modes.",
-  "VideoURL": "https://www.youtube.com/watch?v=GuIhuoY5C5o",
-  "CommunityRating": "3.75",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Peggle",
-  "ESRB": "E - Everyone",
-  "Genres": "Puzzle",
-  "Developer": "PopCap Games",
-  "Publisher": "PopCap Games",
   "Artwork": {
     "Background": [
       {
+        "CRC32": "358296303",
         "FileName": "6526e399-fa26-4e29-ae24-40d1860ad6b7.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "358296303",
         "URL": "http://images.launchbox-app.com/6526e399-fa26-4e29-ae24-40d1860ad6b7.jpg"
       },
       {
+        "CRC32": "976816831",
         "FileName": "bb8141ae-dd04-4932-94e3-badac567e01a.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "976816831",
         "URL": "http://images.launchbox-app.com/bb8141ae-dd04-4932-94e3-badac567e01a.jpg"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "4ff1a500-106a-4ec6-a94a-a72d1e65ef2e.png",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1856169202",
+          "FileName": "4ff1a500-106a-4ec6-a94a-a72d1e65ef2e.png",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/4ff1a500-106a-4ec6-a94a-a72d1e65ef2e.png"
         }
       ]
     },
     "Other": [
       {
+        "CRC32": "2580802654",
         "FileName": "2683e870-a322-4548-bbe3-72a9bded2534.png",
         "Type": "Clear Logo",
-        "CRC32": "2580802654",
         "URL": "http://images.launchbox-app.com/2683e870-a322-4548-bbe3-72a9bded2534.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.75",
+  "DatabaseID": "20325",
+  "Developer": "PopCap Games",
+  "ESRB": "E - Everyone",
+  "Genres": "Puzzle",
+  "Name": "Peggle",
+  "Overview": "Experience the ball-bouncing, peg-busting phenomenon sweeping the globe, now on Xbox LIVE Arcade. Do you have what it takes to become a Peggle master? Conquer dozens of levels with 10 different characters, each with a unique special power. Face off against two to four friends in multiplayer play over Xbox LIVE, and test your skills with the Grand Master Challenges. Take your best shot. \n\nEnjoy multiple game modes like Adventure and Quick Play. Play through more than 55 levels and 75 challenges, using 10 Peggle Masters with unique abilities.  Join with friends for 2-4 way multiplayer over Xbox LIVE plus local multiplayer, co-op, and party game modes.",
+  "Publisher": "PopCap Games",
+  "ReleaseDate": "2009-03-11T00:00:00+00:00",
+  "VideoURL": "https://www.youtube.com/watch?v=GuIhuoY5C5o",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Peggle"
 }

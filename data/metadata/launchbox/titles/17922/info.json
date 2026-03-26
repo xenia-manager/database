@@ -1,87 +1,87 @@
 {
-  "Name": "XCOM: Enemy Within",
-  "DatabaseID": "17922",
-  "ReleaseDate": "2013-11-12T00:00:00+00:00",
-  "Overview": "XCOM: Enemy Within is an expansion pack for the turn-based military alien invasion strategy wargaming simulator XCOM: Enemy Unknown. The Windows and OS X editions require XCOM: Enemy Unknown to play; Enemy Within was released for Xbox 360 and PlayStation 3 as part of the Commander Edition bundled with Enemy Unknown. The iOS and Android versions were released as stand-alone apps not requiring the original mobile port of Enemy Unknown to play.\n\nEnemy Within primarily adds new gameplay elements to the base game, as well as introducing new themes of transhumanism via aggressive gene therapy.",
-  "CommunityRating": "3.7",
-  "Genres": "Role-Playing; Strategy",
-  "Developer": "Firaxis Games",
-  "Publisher": "2K Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_baa5e6f5-adcc-489f-b682-734adfce0ed9.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "60838049",
-        "URL": "http://images.launchbox-app.com/r2_baa5e6f5-adcc-489f-b682-734adfce0ed9.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_fc4d23e9-6a84-40e4-8270-33db86124326.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "3782285331",
+        "FileName": "r2_fbf5fa43-cee7-4c95-86f9-c3fe15533d87.jpg",
         "Region": "World",
-        "CRC32": "2392446316",
-        "URL": "http://images.launchbox-app.com/r2_fc4d23e9-6a84-40e4-8270-33db86124326.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_fbf5fa43-cee7-4c95-86f9-c3fe15533d87.jpg"
       },
       {
-        "FileName": "r2_fbf5fa43-cee7-4c95-86f9-c3fe15533d87.jpg",
-        "Type": "Fanart - Background",
+        "CRC32": "2392446316",
+        "FileName": "r2_fc4d23e9-6a84-40e4-8270-33db86124326.jpg",
         "Region": "World",
-        "CRC32": "3782285331",
-        "URL": "http://images.launchbox-app.com/r2_fbf5fa43-cee7-4c95-86f9-c3fe15533d87.jpg"
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_fc4d23e9-6a84-40e4-8270-33db86124326.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "60838049",
+        "FileName": "r2_baa5e6f5-adcc-489f-b682-734adfce0ed9.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_baa5e6f5-adcc-489f-b682-734adfce0ed9.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_5bc1b203-968c-4c6a-a453-ec34c6004271.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1537517400",
+          "FileName": "r2_5bc1b203-968c-4c6a-a453-ec34c6004271.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_5bc1b203-968c-4c6a-a453-ec34c6004271.jpg"
         }
       ],
       "Front": [
         {
+          "CRC32": "1802994506",
           "FileName": "62619f9c-2437-4153-8ffa-6b412f9da1bb.jpg",
           "Type": "Box - Front",
-          "CRC32": "1802994506",
           "URL": "http://images.launchbox-app.com/62619f9c-2437-4153-8ffa-6b412f9da1bb.jpg"
         },
         {
-          "FileName": "r2_e8adff90-00cc-44dd-97c9-3da310242da8.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3173968615",
+          "FileName": "r2_e8adff90-00cc-44dd-97c9-3da310242da8.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_e8adff90-00cc-44dd-97c9-3da310242da8.jpg"
         },
         {
-          "FileName": "r2_d89d0811-adf9-4838-9878-3a7ba7e21c14.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "3534136509",
+          "FileName": "r2_d89d0811-adf9-4838-9878-3a7ba7e21c14.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_d89d0811-adf9-4838-9878-3a7ba7e21c14.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_7ce8a1bc-e4cd-4163-b224-815fd2a91787.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "1632576695",
+        "FileName": "r2_7ce8a1bc-e4cd-4163-b224-815fd2a91787.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_7ce8a1bc-e4cd-4163-b224-815fd2a91787.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "720391941",
         "FileName": "1dd5a330-4617-4af6-99ff-ff9527e8133c.png",
         "Type": "Clear Logo",
-        "CRC32": "720391941",
         "URL": "http://images.launchbox-app.com/1dd5a330-4617-4af6-99ff-ff9527e8133c.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "3.7",
+  "DatabaseID": "17922",
+  "Developer": "Firaxis Games",
+  "Genres": "Role-Playing; Strategy",
+  "Name": "XCOM: Enemy Within",
+  "Overview": "XCOM: Enemy Within is an expansion pack for the turn-based military alien invasion strategy wargaming simulator XCOM: Enemy Unknown. The Windows and OS X editions require XCOM: Enemy Unknown to play; Enemy Within was released for Xbox 360 and PlayStation 3 as part of the Commander Edition bundled with Enemy Unknown. The iOS and Android versions were released as stand-alone apps not requiring the original mobile port of Enemy Unknown to play.\n\nEnemy Within primarily adds new gameplay elements to the base game, as well as introducing new themes of transhumanism via aggressive gene therapy.",
+  "Publisher": "2K Games",
+  "ReleaseDate": "2013-11-12T00:00:00+00:00"
 }

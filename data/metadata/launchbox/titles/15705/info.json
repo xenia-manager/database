@@ -1,121 +1,121 @@
 {
-  "Name": "JASF: Jane's Advanced Strike Fighters",
-  "DatabaseID": "15705",
-  "ReleaseDate": "2011-10-21T00:00:00+00:00",
-  "Overview": "JASF is a flight game with story-based missions, accessible physics and flight controls, first or third person camera views, co-op play for 2-4 players and four online multiplayer modes for up to 16 players (Dogfight, Team Dogfight, Rabbit and Base Assault).\n\nThe game follows the story of the war to reunify the fictional country of Azbaristan. The game's sixteen missions follow the progression of the war as the player helps the people of Southern Azbaristan to free themselves from the oppression and tyranny of the North.\n\nEach of the missions features combat over land, air and sea, with a large continuous terrain, including cities, industrial centers, mountainous regions and deserts.\n\nJASF has over 30 licensed flyable jets from the US, Europe, Russia and China; including the the latest fighters such as the F-22A Raptor, F-35 Lightning II, Russia's Su-35 Super Flanker and their newest plane, the 5th Generation PAK-FA. The different planes have diverse weapon load-outs, including air-to-air missiles, rockets and bombs.",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/JASF:_Jane%27s_Advanced_Strike_Fighters",
-  "ESRB": "T - Teen",
-  "Genres": "Flight Simulator",
-  "Developer": "Transmission Games",
-  "Publisher": "Evolved Games",
   "Artwork": {
-    "Banner": [
-      {
-        "FileName": "r2_879f4e3f-7285-4580-a587-9156a01153c3.png",
-        "Type": "Banner",
-        "Region": "World",
-        "CRC32": "2589597165",
-        "URL": "http://images.launchbox-app.com/r2_879f4e3f-7285-4580-a587-9156a01153c3.png"
-      }
-    ],
     "Background": [
       {
-        "FileName": "r2_39780289-8247-45d4-a9ef-49706bda03de.jpg",
-        "Type": "Fanart - Background",
-        "Region": "World",
         "CRC32": "2952593221",
+        "FileName": "r2_39780289-8247-45d4-a9ef-49706bda03de.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/r2_39780289-8247-45d4-a9ef-49706bda03de.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "2589597165",
+        "FileName": "r2_879f4e3f-7285-4580-a587-9156a01153c3.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_879f4e3f-7285-4580-a587-9156a01153c3.png"
       }
     ],
     "Box": {
       "Back": [
         {
-          "FileName": "r2_9c79b447-9bee-4322-9d52-b16f8dfaabed.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "1237923829",
+          "FileName": "r2_9c79b447-9bee-4322-9d52-b16f8dfaabed.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_9c79b447-9bee-4322-9d52-b16f8dfaabed.jpg"
         },
         {
-          "FileName": "r2_c2032554-d793-4724-8f77-b071a0d6a0af.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "2776300841",
+          "FileName": "r2_c2032554-d793-4724-8f77-b071a0d6a0af.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_c2032554-d793-4724-8f77-b071a0d6a0af.jpg"
         },
         {
-          "FileName": "763df7c5-f75d-484d-bd6d-488890c4ece4.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
           "CRC32": "1831689154",
+          "FileName": "763df7c5-f75d-484d-bd6d-488890c4ece4.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/763df7c5-f75d-484d-bd6d-488890c4ece4.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "r2_086babbc-4dfa-4406-888c-b5c0335f5b5c.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "1855376009",
+          "FileName": "r2_086babbc-4dfa-4406-888c-b5c0335f5b5c.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_086babbc-4dfa-4406-888c-b5c0335f5b5c.jpg"
         },
         {
-          "FileName": "r2_2ddc9188-f3d1-4b6b-a432-b0846a4f90ca.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "3305984833",
+          "FileName": "r2_2ddc9188-f3d1-4b6b-a432-b0846a4f90ca.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_2ddc9188-f3d1-4b6b-a432-b0846a4f90ca.jpg"
         },
         {
-          "FileName": "b2bba1d6-a38b-4aef-9be4-f6ae9e3e9321.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "3879292913",
+          "FileName": "b2bba1d6-a38b-4aef-9be4-f6ae9e3e9321.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/b2bba1d6-a38b-4aef-9be4-f6ae9e3e9321.jpg"
         },
         {
-          "FileName": "48f4e31b-9625-4a4e-98f1-8e9dc3056e66.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
           "CRC32": "2268007527",
+          "FileName": "48f4e31b-9625-4a4e-98f1-8e9dc3056e66.png",
+          "Region": "North America",
+          "Type": "Box - Front - Reconstructed",
           "URL": "http://images.launchbox-app.com/48f4e31b-9625-4a4e-98f1-8e9dc3056e66.png"
         }
       ],
       "Spine": [
         {
-          "FileName": "4ffe208e-cb3d-4e86-8ad0-0abe181d9539.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
           "CRC32": "1515217739",
+          "FileName": "4ffe208e-cb3d-4e86-8ad0-0abe181d9539.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/4ffe208e-cb3d-4e86-8ad0-0abe181d9539.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "r2_833956b3-1ead-4437-a3f9-e07d34dd6b4b.png",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "505686730",
+        "FileName": "r2_833956b3-1ead-4437-a3f9-e07d34dd6b4b.png",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_833956b3-1ead-4437-a3f9-e07d34dd6b4b.png"
       },
       {
-        "FileName": "r2_e90d3234-3e54-413f-b38c-f21468d751e2.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "3116607099",
+        "FileName": "r2_e90d3234-3e54-413f-b38c-f21468d751e2.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_e90d3234-3e54-413f-b38c-f21468d751e2.png"
       }
     ],
     "Other": [
       {
-        "FileName": "afc5e309-75fc-4312-a1d4-1c8421cae0ad.png",
-        "Type": "Clear Logo",
-        "Region": "World",
         "CRC32": "642877648",
+        "FileName": "afc5e309-75fc-4312-a1d4-1c8421cae0ad.png",
+        "Region": "World",
+        "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/afc5e309-75fc-4312-a1d4-1c8421cae0ad.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "15705",
+  "Developer": "Transmission Games",
+  "ESRB": "T - Teen",
+  "Genres": "Flight Simulator",
+  "Name": "JASF: Jane's Advanced Strike Fighters",
+  "Overview": "JASF is a flight game with story-based missions, accessible physics and flight controls, first or third person camera views, co-op play for 2-4 players and four online multiplayer modes for up to 16 players (Dogfight, Team Dogfight, Rabbit and Base Assault).\n\nThe game follows the story of the war to reunify the fictional country of Azbaristan. The game's sixteen missions follow the progression of the war as the player helps the people of Southern Azbaristan to free themselves from the oppression and tyranny of the North.\n\nEach of the missions features combat over land, air and sea, with a large continuous terrain, including cities, industrial centers, mountainous regions and deserts.\n\nJASF has over 30 licensed flyable jets from the US, Europe, Russia and China; including the the latest fighters such as the F-22A Raptor, F-35 Lightning II, Russia's Su-35 Super Flanker and their newest plane, the 5th Generation PAK-FA. The different planes have diverse weapon load-outs, including air-to-air missiles, rockets and bombs.",
+  "Publisher": "Evolved Games",
+  "ReleaseDate": "2011-10-21T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/JASF:_Jane%27s_Advanced_Strike_Fighters"
 }

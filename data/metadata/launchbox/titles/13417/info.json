@@ -1,95 +1,95 @@
 {
-  "Name": "Steel Battalion: Heavy Armor",
-  "DatabaseID": "13417",
-  "ReleaseDate": "2012-06-19T00:00:00+00:00",
-  "Overview": "Steel Battalion: Heavy Armor (Japanese: 重鉄騎 Hepburn: Jūtekki?) is a video game developed by FromSoftware and published by Capcom for the Xbox 360. It is a sequel to both Steel Battalion and Steel Battalion: Line of Contact on the Xbox. It was announced at the 2010 Tokyo Game Show, and requires the Kinect sensor. The game uses a combination of the standard Xbox 360 controller and the Kinect for gameplay.",
-  "CommunityRating": "1.5",
-  "Genres": "Shooter",
-  "Developer": "FromSoftware",
-  "Publisher": "Capcom",
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "162b5579-1215-444e-9c34-915066a0d35a.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
           "CRC32": "2625752134",
+          "FileName": "162b5579-1215-444e-9c34-915066a0d35a.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/162b5579-1215-444e-9c34-915066a0d35a.png"
         }
       ],
       "Back": [
         {
-          "FileName": "bdb15217-f704-492c-8914-72c03b2b56a6.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
           "CRC32": "2577649992",
+          "FileName": "bdb15217-f704-492c-8914-72c03b2b56a6.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/bdb15217-f704-492c-8914-72c03b2b56a6.jpg"
         },
         {
-          "FileName": "r2_13627f5d-06f1-4fa7-9119-9a098eb6314a.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
           "CRC32": "1612772062",
+          "FileName": "r2_13627f5d-06f1-4fa7-9119-9a098eb6314a.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_13627f5d-06f1-4fa7-9119-9a098eb6314a.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "a1968742-6475-49a5-a3e5-27e09eb1d27e.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
           "CRC32": "729458475",
+          "FileName": "a1968742-6475-49a5-a3e5-27e09eb1d27e.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a1968742-6475-49a5-a3e5-27e09eb1d27e.jpg"
         },
         {
-          "FileName": "r2_f54ef759-6700-45af-a8d5-19110b315aa4.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
           "CRC32": "1701520550",
+          "FileName": "r2_f54ef759-6700-45af-a8d5-19110b315aa4.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f54ef759-6700-45af-a8d5-19110b315aa4.jpg"
         },
         {
-          "FileName": "0eec2871-2931-4044-9552-fe63f3c597f6.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
           "CRC32": "641175596",
+          "FileName": "0eec2871-2931-4044-9552-fe63f3c597f6.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0eec2871-2931-4044-9552-fe63f3c597f6.jpg"
         }
       ],
       "Spine": [
         {
-          "FileName": "9117cb8a-4f1d-47a8-9679-2971c7cddfbc.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
           "CRC32": "1675861476",
+          "FileName": "9117cb8a-4f1d-47a8-9679-2971c7cddfbc.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/9117cb8a-4f1d-47a8-9679-2971c7cddfbc.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "cd2b9711-7a79-4da8-bc94-7465b258e911.jpg",
-        "Type": "Disc",
-        "Region": "Europe",
         "CRC32": "2847067361",
+        "FileName": "cd2b9711-7a79-4da8-bc94-7465b258e911.jpg",
+        "Region": "Europe",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/cd2b9711-7a79-4da8-bc94-7465b258e911.jpg"
       },
       {
-        "FileName": "4bef6a32-50a5-41cf-b459-9db1be57cbc0.png",
-        "Type": "Disc",
-        "Region": "North America",
         "CRC32": "2301384310",
+        "FileName": "4bef6a32-50a5-41cf-b459-9db1be57cbc0.png",
+        "Region": "North America",
+        "Type": "Disc",
         "URL": "http://images.launchbox-app.com/4bef6a32-50a5-41cf-b459-9db1be57cbc0.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2940148199",
         "FileName": "234153e3-5cbc-46fa-8638-b88a4f9d2c51.png",
         "Type": "Clear Logo",
-        "CRC32": "2940148199",
         "URL": "http://images.launchbox-app.com/234153e3-5cbc-46fa-8638-b88a4f9d2c51.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "1.5",
+  "DatabaseID": "13417",
+  "Developer": "FromSoftware",
+  "Genres": "Shooter",
+  "Name": "Steel Battalion: Heavy Armor",
+  "Overview": "Steel Battalion: Heavy Armor (Japanese: 重鉄騎 Hepburn: Jūtekki?) is a video game developed by FromSoftware and published by Capcom for the Xbox 360. It is a sequel to both Steel Battalion and Steel Battalion: Line of Contact on the Xbox. It was announced at the 2010 Tokyo Game Show, and requires the Kinect sensor. The game uses a combination of the standard Xbox 360 controller and the Kinect for gameplay.",
+  "Publisher": "Capcom",
+  "ReleaseDate": "2012-06-19T00:00:00+00:00"
 }

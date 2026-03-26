@@ -1,45 +1,45 @@
 {
-  "Name": "The Blaggers",
-  "DatabaseID": "468064",
-  "ReleaseDate": "2014-04-20T00:00:00+00:00",
-  "Overview": "The Blaggers is a single-screen platformer. In each level, the protagonist first has to collect all keys so he can open the exit door. Of course there are several obstacles in the way such as hazardous objects, moving enemies (which don't actively target the player), conveyor belts or platforms which dissolve after stepping on them. Each contact with something dangerous results as instant death and the need to start the level over. There is also a time limit.",
-  "Genres": "Action",
-  "Developer": "3T Games",
-  "Publisher": "3T Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "7e609a4f-4e9b-429f-8890-e8da4e2830f6.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "1117596974",
+          "FileName": "7e609a4f-4e9b-429f-8890-e8da4e2830f6.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/7e609a4f-4e9b-429f-8890-e8da4e2830f6.jpg"
         }
       ]
     },
     "Screenshots": [
       {
-        "FileName": "3466cdb3-305e-4a69-9e2d-5e0637d7efb4.png",
-        "Type": "Screenshot - Game Title",
-        "Region": "World",
         "CRC32": "3760460813",
+        "FileName": "3466cdb3-305e-4a69-9e2d-5e0637d7efb4.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/3466cdb3-305e-4a69-9e2d-5e0637d7efb4.png"
       },
       {
-        "FileName": "23a9cc35-4bae-4686-a20f-063df4c1fef2.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "1220009589",
+        "FileName": "23a9cc35-4bae-4686-a20f-063df4c1fef2.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/23a9cc35-4bae-4686-a20f-063df4c1fef2.png"
       },
       {
-        "FileName": "aa5912aa-70aa-459e-87d6-5d178eef00f3.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
         "CRC32": "3358396623",
+        "FileName": "aa5912aa-70aa-459e-87d6-5d178eef00f3.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/aa5912aa-70aa-459e-87d6-5d178eef00f3.png"
       }
     ]
-  }
+  },
+  "DatabaseID": "468064",
+  "Developer": "3T Games",
+  "Genres": "Action",
+  "Name": "The Blaggers",
+  "Overview": "The Blaggers is a single-screen platformer. In each level, the protagonist first has to collect all keys so he can open the exit door. Of course there are several obstacles in the way such as hazardous objects, moving enemies (which don't actively target the player), conveyor belts or platforms which dissolve after stepping on them. Each contact with something dangerous results as instant death and the need to start the level over. There is also a time limit.",
+  "Publisher": "3T Games",
+  "ReleaseDate": "2014-04-20T00:00:00+00:00"
 }

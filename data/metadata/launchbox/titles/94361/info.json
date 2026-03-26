@@ -1,51 +1,51 @@
 {
-  "Name": "Worms 2: Armageddon",
-  "DatabaseID": "94361",
-  "ReleaseDate": "2009-07-01T00:00:00+00:00",
-  "Overview": "Worms 2: Armageddon is the most fully-featured digital version of Worms™ ever. With online and offline multiplayer, voice support, a raft of new weapons, all new landscape themes, play modes, hats, skins, speech-banks and single player content; it’s a package as high on fun as it is destruction!",
-  "CommunityRating": "4",
-  "WikipediaURL": "https://en.wikipedia.org/wiki/Worms_2:_Armageddon",
-  "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Strategy",
-  "Developer": "Team17 Software",
-  "Publisher": "Team17 Software",
   "Artwork": {
     "Banner": [
       {
-        "FileName": "r2_0b3f1ae4-d01e-4461-955d-de4a31c46d89.png",
-        "Type": "Banner",
-        "Region": "United States",
         "CRC32": "4206601169",
+        "FileName": "r2_0b3f1ae4-d01e-4461-955d-de4a31c46d89.png",
+        "Region": "United States",
+        "Type": "Banner",
         "URL": "http://images.launchbox-app.com/r2_0b3f1ae4-d01e-4461-955d-de4a31c46d89.png"
       }
     ],
     "Box": {
       "Front": [
         {
-          "FileName": "dd4afdc1-7e18-498a-aaf4-2bda36a27dd4.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
           "CRC32": "4241603556",
+          "FileName": "dd4afdc1-7e18-498a-aaf4-2bda36a27dd4.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/dd4afdc1-7e18-498a-aaf4-2bda36a27dd4.jpg"
         }
       ]
     },
     "Icon": [
       {
-        "FileName": "r2_e7e15cab-b86d-42f0-a8e6-6577196772a1.png",
-        "Type": "Icon",
-        "Region": "World",
         "CRC32": "977120724",
+        "FileName": "r2_e7e15cab-b86d-42f0-a8e6-6577196772a1.png",
+        "Region": "World",
+        "Type": "Icon",
         "URL": "http://images.launchbox-app.com/r2_e7e15cab-b86d-42f0-a8e6-6577196772a1.png"
       }
     ],
     "Other": [
       {
+        "CRC32": "2940611321",
         "FileName": "efb40903-ff4d-4f28-bcf2-5eedc914d1f9.png",
         "Type": "Clear Logo",
-        "CRC32": "2940611321",
         "URL": "http://images.launchbox-app.com/efb40903-ff4d-4f28-bcf2-5eedc914d1f9.png"
       }
     ]
-  }
+  },
+  "CommunityRating": "4",
+  "DatabaseID": "94361",
+  "Developer": "Team17 Software",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Strategy",
+  "Name": "Worms 2: Armageddon",
+  "Overview": "Worms 2: Armageddon is the most fully-featured digital version of Worms™ ever. With online and offline multiplayer, voice support, a raft of new weapons, all new landscape themes, play modes, hats, skins, speech-banks and single player content; it’s a package as high on fun as it is destruction!",
+  "Publisher": "Team17 Software",
+  "ReleaseDate": "2009-07-01T00:00:00+00:00",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Worms_2:_Armageddon"
 }
