@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "6a47370",
+    "target_commitish": "6a47370219ced8dc63a5c81b20159924d1c1f885",
+    "published_at": "2026-03-26T07:25:49Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6a47370",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6a47370219ced8dc63a5c81b20159924d1c1f885",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [a64] Fix `ATOMIC_EXCHANGE` `swp` operand order (`6a47370`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e0fcf29...6a47370"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6a47370/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6a47370/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "e0fcf29",
     "target_commitish": "e0fcf29d4ba67dabe80283e471efd808173041e3",
     "published_at": "2026-03-25T19:24:59Z",
