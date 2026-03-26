@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "cf013fd",
+    "target_commitish": "cf013fdc158cd9d70c55a9ba6ac7c9b5258cf08c",
+    "published_at": "2026-03-26T14:32:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/cf013fd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/cf013fdc158cd9d70c55a9ba6ac7c9b5258cf08c",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [Base/Posix] mapped_memory portability and correctness fixes (`cf013fd`)\n- [Base/Posix] filesystem portability and correctness fixes (`19e9d0c`)\n- [Build/A64] Extend ARM64 architecture detection for macOS (`648b2ba`)\n- [Build] Generalize POSIX platform guards (`cb12f7f`)\n- [Build] Guard Linux-specific CMake config behind platform check (`6c20f64`)\n- [Xboxkrnl] Use towupper in RtlUpcaseUnicodeChar for portability (`597a0c2`)\n- [CPU] Fix breakpoint host_address() to_hex_string portability (`30fd2a5`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/45cf464...cf013fd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cf013fd/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cf013fd/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "a90f599",
+    "target_commitish": "a90f5996dec1e295f6b9f199e6888b30434573a2",
+    "published_at": "2026-03-26T12:36:42Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a90f599",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a90f5996dec1e295f6b9f199e6888b30434573a2",
+    "changelog": {
+      "title": "### Changes",
+      "changes": "- [Build] Python min version -> 3.6 (`a90f599`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/3efc88a...a90f599"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a90f599/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a90f599/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "6a47370",
     "target_commitish": "6a47370219ced8dc63a5c81b20159924d1c1f885",
     "published_at": "2026-03-26T07:25:49Z",
