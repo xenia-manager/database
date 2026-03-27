@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "a8ef7fa",
+    "target_commitish": "a8ef7faeaeaafe4f0b5be00effeb1e81eed75e11",
+    "published_at": "2026-03-27T09:05:13Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a8ef7fa",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a8ef7faeaeaafe4f0b5be00effeb1e81eed75e11",
+    "changelog": {
+      "title": "a8ef7fa_canary_experimental",
+      "changes": "- [Build/macOS] Exclude empty translation units and Vulkan/SPIR-V targets (`a8ef7fa`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/24015ef...a8ef7fa"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a8ef7fa/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a8ef7fa/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "24015ef",
     "target_commitish": "24015ef16419d292176dac2ece7e2ba6748e07f2",
     "published_at": "2026-03-27T07:14:58Z",
