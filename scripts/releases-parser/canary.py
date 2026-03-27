@@ -154,9 +154,19 @@ def fetch_releases(repo: str, existing_tags=None):
             break
         debug(f"Fetched {len(batch)} releases from {repo}, page {page}")
         all_releases.extend(batch)
+        # Stop fetching if we hit the exact "experimental" tag or "a4412ad" (fallback)
+        if any(rel.get("tag_name") == "experimental" for rel in batch):
+            debug(f"Found 'experimental' tag on page {page}, stopping fetch.")
+            break
+        if any(rel.get("tag_name") == "a4412ad" for rel in batch):
+            debug(f"Found 'a4412ad' tag on page {page}, stopping fetch.")
+            break
         page += 1
 
     debug(f"Total releases fetched from {repo}: {len(all_releases)}")
+
+    # Sort all releases by published_at (newest first)
+    all_releases.sort(key=lambda r: r.get("published_at") or "", reverse=False)
 
     # Phase 2: Filter releases if existing_tags is provided
     if existing_tags:
@@ -166,8 +176,7 @@ def fetch_releases(repo: str, existing_tags=None):
                 filtered_releases.append(rel)
             else:
                 # Stop when we hit an existing tag (releases are ordered by date)
-                debug(f"Found existing tag {rel.get('tag_name')}, stopping filter.")
-                break
+                debug(f"Found existing tag {rel.get('tag_name')}, skipping it")
         debug(f"New releases after filtering: {len(filtered_releases)}")
         return filtered_releases
 

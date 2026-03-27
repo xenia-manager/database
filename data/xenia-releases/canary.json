@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "24015ef",
+    "target_commitish": "24015ef16419d292176dac2ece7e2ba6748e07f2",
+    "published_at": "2026-03-27T07:14:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/24015ef",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/24015ef16419d292176dac2ece7e2ba6748e07f2",
+    "changelog": {
+      "title": "24015ef_canary_experimental",
+      "changes": "- [Build/Release] Convert linux release to produce an appimage (`24015ef`)\n- [Build] Ensure clang/lld are pinned to the correct version (`02ca074`)\n- [README] Update netplay status (`e97d0a8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/57c1af4...24015ef"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/24015ef/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/24015ef/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "57c1af4",
+    "target_commitish": "57c1af465ac9bd9b934fe49e7f6fb7b6db69b4e9",
+    "published_at": "2026-03-26T18:08:46Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/57c1af4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/57c1af465ac9bd9b934fe49e7f6fb7b6db69b4e9",
+    "changelog": {
+      "title": "57c1af4_canary_experimental",
+      "changes": "- [Build/CPU] Remove #pragma pack from Export and PPCOpcodeDisasmInfo (`57c1af4`)\n- [macOS] Build infrastructure and portability fixes (`57c4051`)\n- [Build/MacOS] Fix sprintf deprecation warnings (`1af9648`)\n- [Build/MacOS] Add SDL2 framework (`5f04b54`)\n- [Build/MacOS] Skip vulkan (`824e7f4`)\n- [Kernel] Fix macro collisions with macOS system headers (`8cd7f69`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/46613f1...57c1af4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/57c1af4/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/57c1af4/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "46613f1",
     "target_commitish": "46613f1126484fd05e39f8e7643bee461c612cae",
     "published_at": "2026-03-26T15:28:11Z",
@@ -332,6 +374,27 @@
       {
         "name": "xenia_canary_windows.zip",
         "url": "https://github.com/xenia-canary/xenia-canary/releases/download/395219c_canary_experimental/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "02d2cb5",
+    "target_commitish": "02d2cb5cc4bfbf047a3ee136923c263ae11f8356",
+    "published_at": "2026-03-24T06:36:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/tag/02d2cb5",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/02d2cb5cc4bfbf047a3ee136923c263ae11f8356",
+    "changelog": {
+      "title": "[A64] Add v8-v15 to allocatable VEC pool",
+      "changes": "Expands the vector register allocator from 20 to 28 registers by\nincluding v8-v15. The HostToGuestThunk now saves/restores full Q8-Q15\n(128-bit) instead of just D8-D15, and the GuestToHostThunk adds Q8-Q15\nto its save/restore set since AAPCS64 only preserves their lower 64\nbits across C calls.\n\nReduces register pressure for VMX-heavy guest code at the cost of\nslightly larger thunk stack frames."
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.tar.xz",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/02d2cb5/xenia_canary_linux.tar.xz"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/02d2cb5/xenia_canary_windows.zip"
       }
     ]
   },
