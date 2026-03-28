@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "9d6b27e",
+    "target_commitish": "9d6b27e2adca17e51f09571f77330116da507e7a",
+    "published_at": "2026-03-28T04:18:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9d6b27e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9d6b27e2adca17e51f09571f77330116da507e7a",
+    "changelog": {
+      "title": "9d6b27e_canary_experimental",
+      "changes": "- [Build] Fix MSVC compilation on ARM64 (`9d6b27e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a8ef7fa...9d6b27e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9d6b27e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9d6b27e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "a8ef7fa",
     "target_commitish": "a8ef7faeaeaafe4f0b5be00effeb1e81eed75e11",
     "published_at": "2026-03-27T09:05:13Z",
