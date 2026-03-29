@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "553aede",
+    "target_commitish": "553aedebb59340d3106cd979ca7d09cc8e3bd98e",
+    "published_at": "2026-03-29T08:39:11Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/553aede",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/553aedebb59340d3106cd979ca7d09cc8e3bd98e",
+    "changelog": {
+      "title": "553aede_canary_experimental",
+      "changes": "- [A64] Remove dead code (`553aede`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2d2105c...553aede"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/553aede/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/553aede/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "2d2105c",
+    "target_commitish": "2d2105cfd8fc1d8e7c0bdb73d4d48eaa289d0f71",
+    "published_at": "2026-03-29T06:40:10Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2d2105c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2d2105cfd8fc1d8e7c0bdb73d4d48eaa289d0f71",
+    "changelog": {
+      "title": "2d2105c_canary_experimental",
+      "changes": "- [A64] Assert OPCODE_MEMSET invariants, remove dead general-case path (`2d2105c`)\n- [a64] Optimize `OPCODE_MEMSET` with `zva` (`664b77f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1a53f26...2d2105c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2d2105c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2d2105c/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "1a53f26",
     "target_commitish": "1a53f261f70e422ac2086419ff3682096f13830c",
     "published_at": "2026-03-28T21:02:35Z",
