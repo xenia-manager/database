@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "1a53f26",
+    "target_commitish": "1a53f261f70e422ac2086419ff3682096f13830c",
+    "published_at": "2026-03-28T21:02:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1a53f26",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1a53f261f70e422ac2086419ff3682096f13830c",
+    "changelog": {
+      "title": "1a53f26_canary_experimental",
+      "changes": "- [Base] Increase arena chunk size (`1a53f26`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d680f5a...1a53f26"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1a53f26/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1a53f26/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "d680f5a",
+    "target_commitish": "d680f5a499542c4d0e67745de3ba3355a4abb477",
+    "published_at": "2026-03-28T20:07:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d680f5a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d680f5a499542c4d0e67745de3ba3355a4abb477",
+    "changelog": {
+      "title": "d680f5a_canary_experimental",
+      "changes": "- [Kernel] Fixed XTimer reporting resume support (`d680f5a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9b1ebff...d680f5a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d680f5a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d680f5a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "9b1ebff",
+    "target_commitish": "9b1ebffd2710ff7aa4e12e949732522f8f3ad4ad",
+    "published_at": "2026-03-28T19:33:20Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9b1ebff",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9b1ebffd2710ff7aa4e12e949732522f8f3ad4ad",
+    "changelog": {
+      "title": "9b1ebff_canary_experimental",
+      "changes": "- [Memory] GetPhysicalAddress - Added case to assume that input address is already physical (`9b1ebff`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9d6b27e...9b1ebff"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9b1ebff/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9b1ebff/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "9d6b27e",
     "target_commitish": "9d6b27e2adca17e51f09571f77330116da507e7a",
     "published_at": "2026-03-28T04:18:15Z",
