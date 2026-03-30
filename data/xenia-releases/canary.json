@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "904c6c8",
+    "target_commitish": "904c6c8b1c8b47340a17658d693604b664021660",
+    "published_at": "2026-03-30T02:39:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/904c6c8",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/904c6c8b1c8b47340a17658d693604b664021660",
+    "changelog": {
+      "title": "904c6c8_canary_experimental",
+      "changes": "- [A64] Fix RESERVED_STORE LSE path leaving labels unbound (`904c6c8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d3d0478...904c6c8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/904c6c8/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/904c6c8/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "d3d0478",
+    "target_commitish": "d3d0478403eba041f0e2d581d3768868e9646d2e",
+    "published_at": "2026-03-29T19:35:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d3d0478",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d3d0478403eba041f0e2d581d3768868e9646d2e",
+    "changelog": {
+      "title": "d3d0478_canary_experimental",
+      "changes": "- [Kernel] Fixed ObCreateSymbolicLink returning error if symbolic link is already registered (`d3d0478`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/553aede...d3d0478"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d3d0478/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d3d0478/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "553aede",
     "target_commitish": "553aedebb59340d3106cd979ca7d09cc8e3bd98e",
     "published_at": "2026-03-29T08:39:11Z",
