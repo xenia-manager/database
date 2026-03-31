@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "d2c8ca6",
+    "target_commitish": "d2c8ca675e78e3730af5f2d90669d37a69ebfd94",
+    "published_at": "2026-03-31T09:43:30Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d2c8ca6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d2c8ca675e78e3730af5f2d90669d37a69ebfd94",
+    "changelog": {
+      "title": "d2c8ca6_canary_experimental",
+      "changes": "- [A64] Use ARM64 bitmask immediates for AND/OR/XOR with constants (`d2c8ca6`)\n- [A64] Skip software denormal flushing when FPCR.FZ handles inputs (`84b05bd`)\n- [A64] Replace RSQRT CallNativeSafe with direct blr calls (`02ea71e`)\n- [A64] Inline V128 bit-shifts with NEON, remove C helper thunks (`06f56a2`)\n- [A64] Optimizations for DIV, MUL_HI, SWIZZLE, LOAD_VECTOR_SHL/SHR (`2fc5aca`)\n- [A64] Optimize FPCR switching with lazy mode tracking (`59f9fb9`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/904c6c8...d2c8ca6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d2c8ca6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d2c8ca6/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "904c6c8",
     "target_commitish": "904c6c8b1c8b47340a17658d693604b664021660",
     "published_at": "2026-03-30T02:39:35Z",
