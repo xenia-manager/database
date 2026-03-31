@@ -1,5 +1,14 @@
 [
   {
+    "issue": 1047,
+    "id": "443607D6",
+    "title": "Back to the Future The Game - 30th Anniversary Edition",
+    "updated": "2026-03-30T10:41:35Z",
+    "state": "Unknown",
+    "labels": [],
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1047"
+  },
+  {
     "issue": 1046,
     "id": "494707EE",
     "title": "The Chronicles Of Riddick Assault On Dark Athena",
@@ -12,34 +21,40 @@
     "issue": 1045,
     "id": "58410996",
     "title": "Space Invaders Extreme",
-    "updated": "2026-03-26T16:26:32Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:40:49Z",
+    "state": "Playable",
+    "labels": [
+      "state-playable"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1045"
   },
   {
     "issue": 1044,
     "id": "58410A70",
     "title": "Harms Way",
-    "updated": "2026-03-26T14:12:41Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:40:36Z",
+    "state": "Playable",
+    "labels": [
+      "state-playable"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1044"
   },
   {
     "issue": 1043,
     "id": "464707D1",
     "title": "Aquazone",
-    "updated": "2026-03-23T15:08:41Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:40:16Z",
+    "state": "Loads",
+    "labels": [
+      "state-intro"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1043"
   },
   {
     "issue": 1042,
     "id": "465307DA",
     "title": "AC for Answer",
-    "updated": "2026-03-23T00:19:13Z",
+    "updated": "2026-03-30T12:12:29Z",
     "state": "Unknown",
     "labels": [],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1042"
@@ -48,171 +63,216 @@
     "issue": 1040,
     "id": "57520817",
     "title": "LEGO Batman 2 DC Super Heroes",
-    "updated": "2026-03-17T03:51:12Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:39:35Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "gpu-drawing-corrupt"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1040"
   },
   {
     "issue": 1039,
     "id": "415608A7",
     "title": "Prototype 2",
-    "updated": "2026-03-12T18:30:38Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:38:59Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "gpu-drawing-missing"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1039"
   },
   {
     "issue": 1038,
     "id": "58411401",
     "title": "Trials Fusion",
-    "updated": "2026-03-12T05:19:08Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:37:29Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "gpu-drawing-corrupt",
+      "gpu-drawing-missing"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1038"
   },
   {
     "issue": 1037,
     "id": "5752082F",
     "title": "Midway Arcade Origins",
-    "updated": "2026-03-10T13:21:50Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:36:56Z",
+    "state": "Playable",
+    "labels": [
+      "state-playable"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1037"
   },
   {
     "issue": 1036,
     "id": "4541093E",
     "title": "Kingdoms of Amalur Reckoning",
-    "updated": "2026-03-08T17:59:47Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:36:20Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1036"
   },
   {
     "issue": 1033,
     "id": "465607F4",
     "title": "Disorder6",
-    "updated": "2026-02-24T09:47:45Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:35:50Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "gpu-drawing-missing"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1033"
   },
   {
     "issue": 1032,
     "id": "45410869",
     "title": "Rock Band 2",
-    "updated": "2026-02-12T18:40:12Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:35:06Z",
+    "state": "Loads",
+    "labels": [
+      "state-intro",
+      "custom-patch-required"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1032"
   },
   {
     "issue": 1031,
     "id": "45410829",
     "title": "Rock Band",
-    "updated": "2026-02-11T17:57:11Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:27:39Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "gpu-drawing-corrupt",
+      "gpu-readback",
+      "tech-microphone-optional"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1031"
   },
   {
     "issue": 1030,
     "id": "58410B62",
     "title": "Mortal Kombat Arcade Kollection",
-    "updated": "2026-02-09T20:13:26Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:26:58Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1030"
   },
   {
     "issue": 1029,
     "id": "464F07EC",
     "title": "Top Gun: Hard Lock",
-    "updated": "2026-02-07T22:39:53Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:26:40Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "gpu-drawing-corrupt"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1029"
   },
   {
     "issue": 1028,
     "id": "454108B1",
     "title": "The Beatles: Rock Band",
-    "updated": "2026-02-06T23:50:02Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:26:09Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "apu-slow",
+      "tech-microphone-optional"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1028"
   },
   {
     "issue": 1027,
     "id": "584109A4",
     "title": "Shinobi",
-    "updated": "2026-02-05T19:14:01Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:25:13Z",
+    "state": "Playable",
+    "labels": [
+      "state-playable"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1027"
   },
   {
     "issue": 1025,
     "id": "454108D9",
     "title": "G.I Joe: The Rise of Cobra (PAL)",
-    "updated": "2026-02-03T12:22:14Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:24:33Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1025"
   },
   {
     "issue": 1024,
     "id": "4E4D085C",
     "title": "Naruto Shippuden: UNS 3 Full Burst",
-    "updated": "2026-02-01T17:56:36Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:24:01Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1024"
   },
   {
     "issue": 1023,
     "id": "555307E5",
     "title": "Naruto: Rise of a Ninja",
-    "updated": "2026-02-01T17:49:25Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:23:38Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "tech-engine-jade"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1023"
   },
   {
     "issue": 1022,
     "id": "575207E6",
     "title": "LEGO Harry Potter Years 1-4",
-    "updated": "2026-02-01T18:06:52Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:16:50Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "apu-garbage"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1022"
   },
   {
     "issue": 1021,
     "id": "415607E8",
     "title": "Shrek the Third",
-    "updated": "2026-02-06T11:03:34Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:16:15Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "regression",
+      "cpu-jit-problems"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1021"
-  },
-  {
-    "issue": 1020,
-    "id": null,
-    "title": "UFC 2010",
-    "updated": "2026-01-30T13:20:04Z",
-    "state": "Unknown",
-    "labels": [],
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/1020"
   },
   {
     "issue": 1019,
     "id": "545408B6",
     "title": "WWE 2K15",
-    "updated": "2026-02-11T17:00:48Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:15:43Z",
+    "state": "Gameplay",
+    "labels": [
+      "state-gameplay",
+      "gpu-drawing-corrupt",
+      "backwards-compatibility-unsupported"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1019"
   },
   {
@@ -743,7 +803,7 @@
     "issue": 963,
     "id": "55530879",
     "title": "Assassin's Creed: Revelations",
-    "updated": "2026-03-29T22:26:51Z",
+    "updated": "2026-03-30T09:35:17Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay"
@@ -1177,9 +1237,12 @@
     "issue": 927,
     "id": "4E4D07E0",
     "title": "Soul Calibur IV",
-    "updated": "2025-10-18T22:57:01Z",
-    "state": "Unknown",
-    "labels": [],
+    "updated": "2026-03-30T06:49:50Z",
+    "state": "Unplayable",
+    "labels": [
+      "state-nothing",
+      "cpu-jit-problems"
+    ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/927"
   },
   {
@@ -3477,10 +3540,11 @@
     "issue": 736,
     "id": "4D5307DE",
     "title": "Too Human",
-    "updated": "2026-03-16T17:11:13Z",
+    "updated": "2026-03-30T06:59:43Z",
     "state": "Gameplay",
     "labels": [
-      "state-gameplay"
+      "state-gameplay",
+      "cpu-jit-problems"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/736"
   },
@@ -5956,7 +6020,7 @@
     "issue": 521,
     "id": "434D07E9",
     "title": "Clive Barker's Jericho",
-    "updated": "2025-03-14T03:24:36Z",
+    "updated": "2026-03-30T13:15:54Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -6328,14 +6392,13 @@
     "issue": 492,
     "id": "544307D5",
     "title": "NINJA GAIDEN II",
-    "updated": "2026-03-27T18:36:37Z",
+    "updated": "2026-03-30T06:20:34Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
       "gpu-drawing-corrupt",
       "gpu-drawing-missing",
       "vsync-off-speedup",
-      "requires_protect_zero_false",
       "gpu-driver-issues-nvidia",
       "requires_clear_memory_page_state_true"
     ],
@@ -10053,7 +10116,7 @@
     "issue": 207,
     "id": "544307D1",
     "title": "DEAD OR ALIVE 4",
-    "updated": "2026-03-30T00:30:02Z",
+    "updated": "2026-03-30T13:31:31Z",
     "state": "Playable",
     "labels": [
       "state-playable"
