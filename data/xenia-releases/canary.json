@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "7e39a70",
+    "target_commitish": "7e39a7018f865b80082fb7bd53ad881a20af162c",
+    "published_at": "2026-03-31T19:06:04Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7e39a70",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7e39a7018f865b80082fb7bd53ad881a20af162c",
+    "changelog": {
+      "title": "7e39a70_canary_experimental",
+      "changes": "- [Memory] Added heap offset to alignment guards (`7e39a70`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c383d04...7e39a70"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7e39a70/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7e39a70/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "c383d04",
+    "target_commitish": "c383d049ecd8e89fad4a72567ad66151d7572e1c",
+    "published_at": "2026-03-31T17:17:04Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c383d04",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c383d049ecd8e89fad4a72567ad66151d7572e1c",
+    "changelog": {
+      "title": "c383d04_canary_experimental",
+      "changes": "- [CPU] Implement `AND`+`NOT` folding into `AND_NOT` (`c383d04`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/11ad6b0...c383d04"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c383d04/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c383d04/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "11ad6b0",
+    "target_commitish": "11ad6b0a87d80a4a7ac8478ac620b14907a69c00",
+    "published_at": "2026-03-31T16:51:03Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/11ad6b0",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/11ad6b0a87d80a4a7ac8478ac620b14907a69c00",
+    "changelog": {
+      "title": "11ad6b0_canary_experimental",
+      "changes": "- [Memory] Add alignment guards to PhysicalHeap allocations (`11ad6b0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d2c8ca6...11ad6b0"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/11ad6b0/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/11ad6b0/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "d2c8ca6",
     "target_commitish": "d2c8ca675e78e3730af5f2d90669d37a69ebfd94",
     "published_at": "2026-03-31T09:43:30Z",
