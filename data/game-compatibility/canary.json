@@ -1134,10 +1134,12 @@
     "issue": 936,
     "id": "584114C6",
     "title": "Minecraft Story Mode 2",
-    "updated": "2026-03-31T09:24:23Z",
-    "state": "Unplayable",
+    "updated": "2026-04-02T17:26:45Z",
+    "state": "Gameplay",
     "labels": [
-      "state-crash-host",
+      "state-gameplay",
+      "gpu-drawing-corrupt",
+      "gpu-drawing-missing",
       "tech-engine-telltaletool",
       "backwards-compatibility-unsupported"
     ],
@@ -3000,7 +3002,7 @@
     "issue": 785,
     "id": "5553088C",
     "title": "Far Cry 3",
-    "updated": "2026-04-02T00:56:09Z",
+    "updated": "2026-04-02T10:26:57Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -10614,7 +10616,7 @@
     "issue": 162,
     "id": "4E4D083E",
     "title": "Ridge Racer Unbounded",
-    "updated": "2025-03-31T17:41:17Z",
+    "updated": "2026-04-02T17:02:15Z",
     "state": "Playable",
     "labels": [
       "state-playable",
@@ -11110,7 +11112,7 @@
     "issue": 120,
     "id": "45410811",
     "title": "UEFA Champions League 2006–2007",
-    "updated": "2026-03-27T21:04:21Z",
+    "updated": "2026-04-02T22:09:37Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
