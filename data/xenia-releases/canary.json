@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "8a49c03",
+    "target_commitish": "8a49c0380f1e4dd47538a8d0e3da9cc454786428",
+    "published_at": "2026-04-04T20:40:39Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8a49c03",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8a49c0380f1e4dd47538a8d0e3da9cc454786428",
+    "changelog": {
+      "title": "8a49c03_canary_experimental",
+      "changes": "- [GPU] EVENT_WRITE_ZPD relaxed END detection (`8a49c03`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9c00ce9...8a49c03"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8a49c03/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8a49c03/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "9c00ce9",
+    "target_commitish": "9c00ce93661566c3ed25967fe0f0e9197e9d48d2",
+    "published_at": "2026-04-04T17:51:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9c00ce9",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9c00ce93661566c3ed25967fe0f0e9197e9d48d2",
+    "changelog": {
+      "title": "9c00ce9_canary_experimental",
+      "changes": "- [GPU] EVENT_WRITE_ZPD batched sample accumulation cvar (`9c00ce9`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7e39a70...9c00ce9"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9c00ce9/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9c00ce9/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "7e39a70",
     "target_commitish": "7e39a7018f865b80082fb7bd53ad881a20af162c",
     "published_at": "2026-03-31T19:06:04Z",

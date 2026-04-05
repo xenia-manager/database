@@ -1,21 +1,21 @@
 {
   "stable": "3.4.2",
-  "experimental": "2026-04-03-467653e",
+  "experimental": "2026-04-04-fea9b38",
   "xenia_manager": {
     "stable": {
       "tag_name": "3.4.2",
       "url": "https://github.com/xenia-manager/xenia-manager/releases/download/3.4.2/xenia_manager.zip"
     },
     "experimental": {
-      "tag_name": "2026-04-03-467653e",
-      "url": "https://github.com/xenia-manager/experimental-builds/releases/download/2026-04-03-467653e/xenia_manager.zip"
+      "tag_name": "2026-04-04-fea9b38",
+      "url": "https://github.com/xenia-manager/experimental-builds/releases/download/2026-04-04-fea9b38/xenia_manager.zip"
     }
   },
   "xenia": {
     "canary": {
-      "tag_name": "7e39a70",
-      "date": "2026-03-31T19:06:04Z",
-      "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7e39a70/xenia_canary_windows.zip"
+      "tag_name": "8a49c03",
+      "date": "2026-04-04T20:40:39Z",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8a49c03/xenia_canary_windows.zip"
     },
     "netplay": {
       "stable": {
