@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "ade7e61",
+    "target_commitish": "ade7e610bb2ea7da1cc18a7940285d21289a4e83",
+    "published_at": "2026-04-07T15:05:36Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/ade7e61",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/ade7e610bb2ea7da1cc18a7940285d21289a4e83",
+    "changelog": {
+      "title": "ade7e61_canary_experimental",
+      "changes": "- [XMA] Fix stall detection false positive in Work loop (`ade7e61`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8a49c03...ade7e61"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ade7e61/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ade7e61/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "8a49c03",
     "target_commitish": "8a49c0380f1e4dd47538a8d0e3da9cc454786428",
     "published_at": "2026-04-04T20:40:39Z",
