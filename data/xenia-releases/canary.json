@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "e23376a",
+    "target_commitish": "e23376afccc1a5147e7b0687d799cf8df41d4617",
+    "published_at": "2026-04-07T18:27:17Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e23376a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e23376afccc1a5147e7b0687d799cf8df41d4617",
+    "changelog": {
+      "title": "e23376a_canary_experimental",
+      "changes": "- [Kernel] Fixed NtSignalAndWaitForSingleObjectEx prototype (`e23376a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4acda22...e23376a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e23376a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e23376a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "4acda22",
+    "target_commitish": "4acda223db8b814445deac9727d54a0b9e61f231",
+    "published_at": "2026-04-07T17:03:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4acda22",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/4acda223db8b814445deac9727d54a0b9e61f231",
+    "changelog": {
+      "title": "4acda22_canary_experimental",
+      "changes": "- [CPU] Remove ATOMIC_EXCHANGE opcode (dead code) (`4acda22`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/ade7e61...4acda22"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4acda22/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4acda22/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "ade7e61",
     "target_commitish": "ade7e610bb2ea7da1cc18a7940285d21289a4e83",
     "published_at": "2026-04-07T15:05:36Z",

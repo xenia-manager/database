@@ -1,5 +1,23 @@
 [
   {
+    "issue": 1052,
+    "id": "424107DC",
+    "title": "Dragon Ball Z : Burst Limit",
+    "updated": "2026-04-07T12:37:34Z",
+    "state": "Unknown",
+    "labels": [],
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1052"
+  },
+  {
+    "issue": 1051,
+    "id": "4E4D0803",
+    "title": "Dragon Ball : Raging Blast",
+    "updated": "2026-04-07T14:28:19Z",
+    "state": "Unknown",
+    "labels": [],
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1051"
+  },
+  {
     "issue": 1050,
     "id": "443607D0",
     "title": "Jurassic Park: The Game",
@@ -308,7 +326,7 @@
     "issue": 1016,
     "id": "58411498",
     "title": "Goat Simulator",
-    "updated": "2026-02-03T23:43:28Z",
+    "updated": "2026-04-07T17:21:15Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -1252,18 +1270,6 @@
     "url": "https://github.com/xenia-canary/game-compatibility/issues/928"
   },
   {
-    "issue": 927,
-    "id": "4E4D07E0",
-    "title": "Soul Calibur IV",
-    "updated": "2026-03-30T06:49:50Z",
-    "state": "Unplayable",
-    "labels": [
-      "state-nothing",
-      "cpu-jit-problems"
-    ],
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/927"
-  },
-  {
     "issue": 926,
     "id": "4B5907E6",
     "title": "DARK",
@@ -1430,12 +1436,10 @@
     "issue": 913,
     "id": "534A07D1",
     "title": "Williams Pinball Classics",
-    "updated": "2025-10-24T18:35:14Z",
-    "state": "Gameplay",
+    "updated": "2026-04-07T17:25:17Z",
+    "state": "Unknown",
     "labels": [
-      "state-gameplay",
-      "vsync-off-speedup",
-      "supports-1080p"
+      "issue-duplicate"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/913"
   },
@@ -2620,7 +2624,7 @@
     "issue": 815,
     "id": "4E4D0855",
     "title": "Witcher 2",
-    "updated": "2025-08-12T05:19:46Z",
+    "updated": "2026-04-07T17:23:52Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -4747,7 +4751,7 @@
     "issue": 629,
     "id": "565507E8",
     "title": "F.E.A.R: Files",
-    "updated": "2025-07-03T08:15:23Z",
+    "updated": "2026-04-07T17:24:15Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay"
@@ -6564,7 +6568,7 @@
     "issue": 477,
     "id": "5454086C",
     "title": "L.A. Noire - The Complete Edition",
-    "updated": "2026-03-15T00:17:06Z",
+    "updated": "2026-04-07T16:05:02Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -7155,7 +7159,7 @@
     "issue": 433,
     "id": "4E4D07E4",
     "title": "Eternal Sonata",
-    "updated": "2026-01-22T21:47:47Z",
+    "updated": "2026-04-07T17:22:13Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -7329,7 +7333,7 @@
     "issue": 420,
     "id": "4541087F",
     "title": "Skate 2",
-    "updated": "2026-02-17T08:52:49Z",
+    "updated": "2026-04-07T17:26:42Z",
     "state": "Playable",
     "labels": [
       "state-playable"
@@ -7406,7 +7410,7 @@
     "issue": 413,
     "id": "4D5307D1",
     "title": "Project Gotham Racing 3",
-    "updated": "2026-04-03T06:54:39Z",
+    "updated": "2026-04-07T17:27:35Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay"
@@ -7492,7 +7496,7 @@
     "issue": 406,
     "id": "555307DC",
     "title": "Far Cry: Instincts Predator",
-    "updated": "2026-04-05T22:05:22Z",
+    "updated": "2026-04-07T20:36:38Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -9585,7 +9589,7 @@
     "issue": 251,
     "id": "45410876",
     "title": "Need for Speed: Undercover",
-    "updated": "2025-12-31T17:34:26Z",
+    "updated": "2026-04-07T17:26:13Z",
     "state": "Playable",
     "labels": [
       "state-playable"
@@ -9780,7 +9784,7 @@
     "issue": 234,
     "id": "494707D4",
     "title": "Test Drive Unlimited",
-    "updated": "2025-12-19T16:19:02Z",
+    "updated": "2026-04-07T17:27:07Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -9964,7 +9968,7 @@
     "issue": 219,
     "id": "45410809",
     "title": "The Simpsons Game",
-    "updated": "2026-01-10T18:18:34Z",
+    "updated": "2026-04-07T17:25:09Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay"
@@ -10032,7 +10036,7 @@
     "issue": 214,
     "id": "4D5307E6",
     "title": "Halo 3",
-    "updated": "2026-04-04T18:07:04Z",
+    "updated": "2026-04-07T17:22:57Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -10519,7 +10523,7 @@
     "issue": 171,
     "id": "58410A7A",
     "title": "Castlevania: Harmony of Despair",
-    "updated": "2026-01-29T09:26:12Z",
+    "updated": "2026-04-08T01:26:46Z",
     "state": "Playable",
     "labels": [
       "state-playable",
@@ -10856,7 +10860,7 @@
     "issue": 145,
     "id": "545407F8",
     "title": "Midnight Club: Los Angeles",
-    "updated": "2026-03-05T18:08:21Z",
+    "updated": "2026-04-07T18:01:35Z",
     "state": "Playable",
     "labels": [
       "state-playable",
@@ -11119,7 +11123,7 @@
     "issue": 120,
     "id": "45410811",
     "title": "UEFA Champions League 2006–2007",
-    "updated": "2026-04-02T22:09:37Z",
+    "updated": "2026-04-07T17:25:33Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -11515,7 +11519,7 @@
     "issue": 74,
     "id": "4D5307F1",
     "title": "Fable 2",
-    "updated": "2026-03-19T00:56:07Z",
+    "updated": "2026-04-07T17:27:47Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -11979,7 +11983,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-04-06T09:25:38Z",
+    "updated": "2026-04-07T06:24:25Z",
     "state": "Playable",
     "labels": [
       "state-playable",
