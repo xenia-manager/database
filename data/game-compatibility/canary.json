@@ -1,5 +1,23 @@
 [
   {
+    "issue": 1054,
+    "id": "45410961",
+    "title": "Need For Speed Most Wanted (2012)",
+    "updated": "2026-04-08T21:18:35Z",
+    "state": "Unknown",
+    "labels": [],
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1054"
+  },
+  {
+    "issue": 1053,
+    "id": "54510875",
+    "title": "Rio",
+    "updated": "2026-04-08T14:26:19Z",
+    "state": "Unknown",
+    "labels": [],
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1053"
+  },
+  {
     "issue": 1052,
     "id": "424107DC",
     "title": "Dragon Ball Z : Burst Limit",
@@ -240,8 +258,8 @@
   {
     "issue": 1025,
     "id": "454108D9",
-    "title": "G.I Joe: The Rise of Cobra (PAL)",
-    "updated": "2026-03-30T06:24:33Z",
+    "title": "G.I Joe: The Rise of Cobra",
+    "updated": "2026-04-08T08:15:08Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay"
@@ -712,9 +730,9 @@
   },
   {
     "issue": 975,
-    "id": "45410814",
+    "id": "54510866",
     "title": "WWE All-Stars",
-    "updated": "2025-11-19T01:59:58Z",
+    "updated": "2026-04-08T08:21:21Z",
     "state": "Unknown",
     "labels": [],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/975"
@@ -780,7 +798,7 @@
     "issue": 968,
     "id": "5553083F",
     "title": "CSI: Crime Scene Investigation: Deadly Intent",
-    "updated": "2025-11-14T14:20:20Z",
+    "updated": "2026-04-08T08:05:54Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay"
@@ -1431,17 +1449,6 @@
       "gpu-driver-issues-nvidia"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/914"
-  },
-  {
-    "issue": 913,
-    "id": "534A07D1",
-    "title": "Williams Pinball Classics",
-    "updated": "2026-04-07T17:25:17Z",
-    "state": "Unknown",
-    "labels": [
-      "issue-duplicate"
-    ],
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/913"
   },
   {
     "issue": 912,
@@ -2330,7 +2337,7 @@
     "issue": 840,
     "id": "454109AB",
     "title": "Army of Two: The Devil's Cartel",
-    "updated": "2026-03-04T15:36:14Z",
+    "updated": "2026-04-08T08:07:59Z",
     "state": "Unknown",
     "labels": [],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/840"
@@ -2545,9 +2552,9 @@
   },
   {
     "issue": 821,
-    "id": "EA SPORTS",
-    "title": "MMA - 454108FC",
-    "updated": "2025-08-24T12:33:10Z",
+    "id": "454108FC",
+    "title": "EA SPORTS - MMA",
+    "updated": "2026-04-08T08:04:43Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -3322,7 +3329,7 @@
     "issue": 757,
     "id": "4B4D07F6",
     "title": "Saints Row IV",
-    "updated": "2026-03-29T09:56:08Z",
+    "updated": "2026-04-08T14:08:34Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -3370,10 +3377,12 @@
     "issue": 753,
     "id": "534A07D1",
     "title": "Williams Pinball Classics",
-    "updated": "2025-08-04T19:57:32Z",
-    "state": "Playable",
+    "updated": "2026-04-08T08:23:23Z",
+    "state": "Gameplay",
     "labels": [
-      "state-playable"
+      "state-gameplay",
+      "vsync-off-speedup",
+      "supports-1080p"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/753"
   },
@@ -6692,7 +6701,7 @@
     "issue": 468,
     "id": "5841122F",
     "title": "Darkstalkers Resurrection",
-    "updated": "2025-01-25T13:59:00Z",
+    "updated": "2026-04-08T08:06:11Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -7185,7 +7194,7 @@
     "issue": 431,
     "id": "4E4D0862",
     "title": "DRAGON BALL XENOVERSE",
-    "updated": "2025-01-22T03:38:55Z",
+    "updated": "2026-04-08T08:12:06Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -7384,7 +7393,7 @@
     "issue": 415,
     "id": "545107F4",
     "title": "Stuntman: Ignition",
-    "updated": "2025-01-12T23:06:39Z",
+    "updated": "2026-04-08T08:12:36Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -7710,7 +7719,7 @@
     "issue": 392,
     "id": "534307D4",
     "title": "Tomb Raider: Legend",
-    "updated": "2025-01-15T21:41:01Z",
+    "updated": "2026-04-08T08:12:22Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -7773,7 +7782,7 @@
     "issue": 387,
     "id": "54510842",
     "title": "Metro 2033",
-    "updated": "2026-03-08T16:58:34Z",
+    "updated": "2026-04-08T17:16:28Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -7852,7 +7861,7 @@
     "issue": 381,
     "id": "584113E7",
     "title": "Takedown: Red Sabre",
-    "updated": "2025-01-08T06:13:33Z",
+    "updated": "2026-04-08T08:10:07Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -9292,7 +9301,7 @@
     "issue": 272,
     "id": "494D084F",
     "title": "Xbox 360 The Official Xbox Magazine (OXM) - Issue 88 (August 2012)",
-    "updated": "2024-10-28T13:03:18Z",
+    "updated": "2026-04-08T08:08:25Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -9304,8 +9313,8 @@
   {
     "issue": 271,
     "id": "474907D1",
-    "title": "Bass Pro Shops - The Strike (USA)",
-    "updated": "2024-10-25T18:57:12Z",
+    "title": "Bass Pro Shops - The Strike",
+    "updated": "2026-04-08T08:14:51Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -10004,7 +10013,7 @@
     "issue": 216,
     "id": "4D530919",
     "title": "Halo 4",
-    "updated": "2025-12-04T13:12:19Z",
+    "updated": "2026-04-08T08:11:42Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -10244,7 +10253,7 @@
     "issue": 196,
     "id": "5553080B",
     "title": "Tom Clancy’s Splinter Cell: Conviction",
-    "updated": "2026-02-25T06:47:34Z",
+    "updated": "2026-04-08T08:13:06Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
@@ -11175,7 +11184,7 @@
     "issue": 115,
     "id": "575207D7",
     "title": "LEGO Batman",
-    "updated": "2025-06-18T14:50:18Z",
+    "updated": "2026-04-08T08:13:23Z",
     "state": "Playable",
     "labels": [
       "state-playable"
@@ -11901,7 +11910,7 @@
     "issue": 39,
     "id": "4D5308AB",
     "title": "Gears of War 3",
-    "updated": "2026-02-20T17:08:21Z",
+    "updated": "2026-04-08T08:11:27Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
