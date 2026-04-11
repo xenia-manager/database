@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "65b7481",
+    "target_commitish": "65b74819aac85f188919b0a81902793585d0037a",
+    "published_at": "2026-04-11T12:16:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/65b7481",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/65b74819aac85f188919b0a81902793585d0037a",
+    "changelog": {
+      "title": "65b7481_canary_experimental",
+      "changes": "- [Threading] Implement priority boost on wake (`65b7481`)\n- [Threading] Add thread priority mapping with timer-driven quantum decay (`b3d8a21`)\n- [Threading] Improve same-CPU spinlock contention (`61c8eb0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e23376a...65b7481"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/65b7481/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/65b7481/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "e23376a",
     "target_commitish": "e23376afccc1a5147e7b0687d799cf8df41d4617",
     "published_at": "2026-04-07T18:27:17Z",
