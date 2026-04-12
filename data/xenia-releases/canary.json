@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "1da37db",
+    "target_commitish": "1da37db58496e3d02d5cc8dd2f96c5a8024507ef",
+    "published_at": "2026-04-12T08:08:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1da37db",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1da37db58496e3d02d5cc8dd2f96c5a8024507ef",
+    "changelog": {
+      "title": "1da37db_canary_experimental",
+      "changes": "- [Winkey] Passthrough: Added support for hid key codes. (`1da37db`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/65b7481...1da37db"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1da37db/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1da37db/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "65b7481",
     "target_commitish": "65b74819aac85f188919b0a81902793585d0037a",
     "published_at": "2026-04-11T12:16:45Z",
