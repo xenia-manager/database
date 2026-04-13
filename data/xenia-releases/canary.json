@@ -1,5 +1,110 @@
 [
   {
+    "tag_name": "763b160",
+    "target_commitish": "763b160c7aefb0d8fb34911986716351adfcf829",
+    "published_at": "2026-04-13T08:18:48Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/763b160",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/763b160c7aefb0d8fb34911986716351adfcf829",
+    "changelog": {
+      "title": "763b160_canary_experimental",
+      "changes": "- [Threading/Linux] Add fallback to nice values (`763b160`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/844cc6e...763b160"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/763b160/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/763b160/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "844cc6e",
+    "target_commitish": "844cc6e2ed8d288fd8ebca0aa03072f774c529d6",
+    "published_at": "2026-04-13T05:24:11Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/844cc6e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/844cc6e2ed8d288fd8ebca0aa03072f774c529d6",
+    "changelog": {
+      "title": "844cc6e_canary_experimental",
+      "changes": "- [Memory] Remove unnecessary 256MB carve-out from v00000000 virtual heap (`844cc6e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/658bd5d...844cc6e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/844cc6e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/844cc6e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "658bd5d",
+    "target_commitish": "658bd5db702ab127a8302ba3285e193b235451a7",
+    "published_at": "2026-04-13T04:32:12Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/658bd5d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/658bd5db702ab127a8302ba3285e193b235451a7",
+    "changelog": {
+      "title": "658bd5d_canary_experimental",
+      "changes": "- [Xboxkrnl] Return error code from KeSetAffinityThread on null thread (`658bd5d`)\n- [Kernel] Fix NtReleaseSemaphore returning wrong status code (`d42411e`)\n- [Kernel] Implement per-process TLS allocation (`c17a3b1`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2590f03...658bd5d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/658bd5d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/658bd5d/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "2590f03",
+    "target_commitish": "2590f03bc13c58a30ace8514dd775a8ae1aff832",
+    "published_at": "2026-04-13T04:01:13Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2590f03",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2590f03bc13c58a30ace8514dd775a8ae1aff832",
+    "changelog": {
+      "title": "2590f03_canary_experimental",
+      "changes": "- [Emulator] Delegate to UI thread instead of assert (`2590f03`)\n- [UI] Fix leaked locked_achievement_icon_ texture on drawer teardown (`c261027`)\n- [APU] fix potential semaphore leak on invalid client index (`7887efa`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c28019e...2590f03"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2590f03/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2590f03/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "c28019e",
+    "target_commitish": "c28019e333e5bd34b6f18d40491a3ddb5a6fa064",
+    "published_at": "2026-04-13T03:39:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c28019e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c28019e333e5bd34b6f18d40491a3ddb5a6fa064",
+    "changelog": {
+      "title": "c28019e_canary_experimental",
+      "changes": "- [Memory] Fix AllocRange upper bound and update PhysicalHeap tests (`c28019e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/ea02e8d...c28019e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c28019e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c28019e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "ea02e8d",
     "target_commitish": "ea02e8d31714ffea748a2aba836bf5de36aafca3",
     "published_at": "2026-04-13T02:58:34Z",
