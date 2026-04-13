@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "ea02e8d",
+    "target_commitish": "ea02e8d31714ffea748a2aba836bf5de36aafca3",
+    "published_at": "2026-04-13T02:58:34Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/ea02e8d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/ea02e8d31714ffea748a2aba836bf5de36aafca3",
+    "changelog": {
+      "title": "ea02e8d_canary_experimental",
+      "changes": "- [Memory] Add free block tracker to BaseHeap for O(log n) allocation (`ea02e8d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/80c6751...ea02e8d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ea02e8d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ea02e8d/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "80c6751",
+    "target_commitish": "80c6751b82f39a547a934897f3080d1d1c49a6ef",
+    "published_at": "2026-04-12T23:39:28Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/80c6751",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/80c6751b82f39a547a934897f3080d1d1c49a6ef",
+    "changelog": {
+      "title": "80c6751_canary_experimental",
+      "changes": "- [UI] Eliminate mouse requirement for initial profile create dialogs (`80c6751`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a292248...80c6751"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/80c6751/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/80c6751/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "a292248",
+    "target_commitish": "a292248bee76799a53aa08d5467b70d569b400eb",
+    "published_at": "2026-04-12T18:00:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a292248",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a292248bee76799a53aa08d5467b70d569b400eb",
+    "changelog": {
+      "title": "a292248_canary_experimental",
+      "changes": "- [XAM/CONTENT] - Stub XamContentLaunchImage (`a292248`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1da37db...a292248"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a292248/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a292248/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "1da37db",
     "target_commitish": "1da37db58496e3d02d5cc8dd2f96c5a8024507ef",
     "published_at": "2026-04-12T08:08:31Z",
