@@ -2090,7 +2090,7 @@
         }
       ]
     },
-    "CommunityRating": "4.51724137931035",
+    "CommunityRating": "4.50574712643678",
     "DatabaseID": "90",
     "Developer": "Bungie",
     "ESRB": "M - Mature",
@@ -5541,7 +5541,7 @@
         }
       ]
     },
-    "CommunityRating": "4.26315789473684",
+    "CommunityRating": "4.28205128205128",
     "DatabaseID": "910",
     "Developer": "Remedy Entertainment",
     "ESRB": "T - Teen",
@@ -54999,7 +54999,7 @@
         }
       ]
     },
-    "CommunityRating": "4",
+    "CommunityRating": "3.83333333333333",
     "DatabaseID": "12514",
     "Developer": "Junction Point Studios",
     "ESRB": "E - Everyone",
@@ -92501,7 +92501,7 @@
         {
           "CRC32": "749608357",
           "FileName": "da117cbd-2698-4515-8d98-3eb90b960f5d.png",
-          "Region": "Europe",
+          "Region": "Australia",
           "Type": "Disc",
           "URL": "http://images.launchbox-app.com/da117cbd-2698-4515-8d98-3eb90b960f5d.png"
         }
@@ -127694,6 +127694,7 @@
         {
           "CRC32": "3518436315",
           "FileName": "27f66bd0-0862-4436-89ad-c60d7bb2f1cb.jpg",
+          "Region": "World",
           "Type": "Fanart - Background",
           "URL": "http://images.launchbox-app.com/27f66bd0-0862-4436-89ad-c60d7bb2f1cb.jpg"
         },
@@ -127738,7 +127739,7 @@
           {
             "CRC32": "1670880513",
             "FileName": "7cbafdf4-76e3-46a9-b59d-2d54d3b7b691.png",
-            "Region": "World",
+            "Region": "North America",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/7cbafdf4-76e3-46a9-b59d-2d54d3b7b691.png"
           }
@@ -127750,6 +127751,13 @@
             "Region": "Europe",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/9b49771b-3a3b-4636-818a-622b7b2b23c9.jpg"
+          },
+          {
+            "CRC32": "598819691",
+            "FileName": "faa48061-3a7f-45dd-bb78-c6e66db39a80.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/faa48061-3a7f-45dd-bb78-c6e66db39a80.png"
           },
           {
             "CRC32": "399509718",
@@ -127764,20 +127772,13 @@
             "Region": "World",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/ae2dd2a3-73a9-47db-af8c-6a650469db77.jpg"
-          },
-          {
-            "CRC32": "598819691",
-            "FileName": "faa48061-3a7f-45dd-bb78-c6e66db39a80.png",
-            "Region": "World",
-            "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/faa48061-3a7f-45dd-bb78-c6e66db39a80.png"
           }
         ],
         "Spine": [
           {
             "CRC32": "2026837025",
             "FileName": "42dfebf1-d46c-4fb0-8e50-f282126e41ac.png",
-            "Region": "World",
+            "Region": "North America",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/42dfebf1-d46c-4fb0-8e50-f282126e41ac.png"
           }
@@ -130471,7 +130472,7 @@
         }
       ]
     },
-    "CommunityRating": "4.34615384615385",
+    "CommunityRating": "4.39285714285714",
     "DatabaseID": "23723",
     "Developer": "Cave",
     "ESRB": "Not Rated",
@@ -130847,7 +130848,7 @@
         ]
       }
     },
-    "CommunityRating": "4.16666666666667",
+    "CommunityRating": "4.19047619047619",
     "DatabaseID": "23728",
     "Developer": "Cave",
     "ESRB": "Not Rated",
@@ -241845,7 +241846,7 @@
     "DatabaseID": "469694",
     "Developer": "Latin Soul Studio",
     "Genres": "Action",
-    "Name": "A Game You Can't Beat!!",
+    "Name": "A Game You Can't Beat!",
     "Overview": "Jump over blocks and nails to Take the Ball to the end of the level, sounds easy, well it is not. If you want a good challenge, try this game.",
     "Publisher": "Latin Soul Studio",
     "ReleaseDate": "2010-11-22T00:00:00+00:00",
@@ -255714,5 +255715,25 @@
     "Publisher": "Milohax",
     "ReleaseYear": "2024",
     "VideoURL": "https://youtu.be/nJOgd_tO7gQ?si=2md00GfiPObuyBk1"
+  },
+  {
+    "Artwork": {
+      "Screenshots": [
+        {
+          "CRC32": "2001519275",
+          "FileName": "5699e514-88f8-43f0-9dff-fb472cf501fe.jpg",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/5699e514-88f8-43f0-9dff-fb472cf501fe.jpg"
+        }
+      ]
+    },
+    "DatabaseID": "471606",
+    "Developer": "Wans Zai",
+    "ESRB": "Not Rated",
+    "Genres": "Racing",
+    "Name": "Ridge Racer Collection",
+    "Overview": "A System 22 emulator fine-tuned for the Ridge Racer series on XBOX 360. Supports Ridge Racer, Ridge Racer 2, and Rave Racer. Offline solo play enabled in all three titles. Online Head-to-Head play enabled for Ridge Racer 2 and Rave Racer.",
+    "ReleaseDate": "2026-04-04T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=eNtb8myubnI"
   }
 ]
