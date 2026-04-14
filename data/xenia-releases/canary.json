@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "4fcb8e4",
+    "target_commitish": "4fcb8e4498aca8bfb13a8150c2e6375a58fdf767",
+    "published_at": "2026-04-14T05:52:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4fcb8e4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/4fcb8e4498aca8bfb13a8150c2e6375a58fdf767",
+    "changelog": {
+      "title": "4fcb8e4_canary_experimental",
+      "changes": "- [Memory] Treat AllocRange high_page_number as exclusive (`4fcb8e4`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/763b160...4fcb8e4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4fcb8e4/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4fcb8e4/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "763b160",
     "target_commitish": "763b160c7aefb0d8fb34911986716351adfcf829",
     "published_at": "2026-04-13T08:18:48Z",
