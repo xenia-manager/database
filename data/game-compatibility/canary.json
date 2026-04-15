@@ -1,5 +1,23 @@
 [
   {
+    "issue": 1063,
+    "id": "5345083F",
+    "title": "Anarchy Reigns",
+    "updated": "2026-04-14T09:06:21Z",
+    "state": "Unknown",
+    "labels": [],
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1063"
+  },
+  {
+    "issue": 1062,
+    "id": "4156081A",
+    "title": "Guitar Hero World Tour",
+    "updated": "2026-04-14T04:08:58Z",
+    "state": "Unknown",
+    "labels": [],
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1062"
+  },
+  {
     "issue": 1061,
     "id": "4B5607D4",
     "title": "Ninja Gaiden 3",
@@ -184,12 +202,13 @@
     "issue": 1038,
     "id": "58411401",
     "title": "Trials Fusion",
-    "updated": "2026-03-30T06:37:29Z",
+    "updated": "2026-04-14T23:06:09Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
       "gpu-drawing-corrupt",
-      "gpu-drawing-missing"
+      "gpu-drawing-missing",
+      "gpu-viz-query"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1038"
   },
@@ -5699,14 +5718,15 @@
     "issue": 552,
     "id": "4D5309B1",
     "title": "Halo: Combat Evolved Anniversary",
-    "updated": "2025-04-27T20:30:44Z",
+    "updated": "2026-04-14T23:07:35Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
       "tech-engine-blam",
       "tech-kinect-optional",
       "tech-engine-saber3d",
-      "kernel-KeSetCurrentStackPointers"
+      "kernel-KeSetCurrentStackPointers",
+      "gpu-viz-query"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/552"
   },
@@ -6661,7 +6681,7 @@
     "issue": 474,
     "id": "545408A7",
     "title": "Grand Theft Auto V",
-    "updated": "2026-03-12T20:17:15Z",
+    "updated": "2026-04-14T23:07:26Z",
     "state": "Gameplay",
     "labels": [
       "kernel-unimplemented-feature",
@@ -6671,7 +6691,8 @@
       "tech-middleware-euphoria",
       "backwards-compatibility-unsupported",
       "requires_hdd_install",
-      "gpu-occlusion-query"
+      "gpu-occlusion-query",
+      "gpu-viz-query"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/474"
   },
@@ -9614,14 +9635,14 @@
     "issue": 253,
     "id": "5841095A",
     "title": "Trials HD",
-    "updated": "2026-03-03T05:23:48Z",
+    "updated": "2026-04-14T23:06:30Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
       "cpu-timing",
       "tech-physics-bullet",
       "gpu-readback",
-      "gpu-occlusion-query"
+      "gpu-viz-query"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/253"
   },
@@ -10090,14 +10111,16 @@
     "issue": 214,
     "id": "4D5307E6",
     "title": "Halo 3",
-    "updated": "2026-04-07T17:22:57Z",
+    "updated": "2026-04-14T23:05:52Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
       "tech-engine-blam",
       "gpu-readback",
       "kernel-KeSetCurrentStackPointers",
-      "vsync-off-speedup"
+      "vsync-off-speedup",
+      "gpu-occlusion-query",
+      "gpu-viz-query"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/214"
   },
@@ -11084,13 +11107,14 @@
     "issue": 129,
     "id": "5454082B",
     "title": "Red Dead Redemption",
-    "updated": "2024-09-26T11:25:11Z",
+    "updated": "2026-04-14T23:06:43Z",
     "state": "Playable",
     "labels": [
       "state-playable",
       "tech-engine-rage",
       "tech-middleware-euphoria",
-      "gpu-occlusion-query"
+      "gpu-occlusion-query",
+      "gpu-viz-query"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/129"
   },
@@ -11969,14 +11993,15 @@
     "issue": 37,
     "id": "58410AAD",
     "title": "Trials Evolution",
-    "updated": "2026-03-12T04:38:28Z",
+    "updated": "2026-04-14T23:06:22Z",
     "state": "Gameplay",
     "labels": [
       "state-gameplay",
       "gpu-drawing-corrupt",
       "gpu-drawing-missing",
       "gpu-shader-errors",
-      "tech-physics-bullet"
+      "tech-physics-bullet",
+      "gpu-viz-query"
     ],
     "url": "https://github.com/xenia-canary/game-compatibility/issues/37"
   },
