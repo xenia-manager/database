@@ -1158,7 +1158,7 @@
         }
       ]
     },
-    "CommunityRating": "4.25",
+    "CommunityRating": "4.25862068965517",
     "DatabaseID": "49",
     "Developer": "Team Ninja",
     "ESRB": "M - Mature",
@@ -1581,7 +1581,7 @@
         }
       ]
     },
-    "CommunityRating": "3.97083333134651",
+    "CommunityRating": "3.90434782401375",
     "DatabaseID": "59",
     "Developer": "Namco",
     "ESRB": "E - Everyone",
@@ -6014,7 +6014,7 @@
         }
       ]
     },
-    "CommunityRating": "4.46428571428571",
+    "CommunityRating": "4.46666666666667",
     "DatabaseID": "947",
     "Developer": "Ninja Theory",
     "ESRB": "T - Teen",
@@ -18740,7 +18740,7 @@
         }
       ]
     },
-    "CommunityRating": "3.70833333333333",
+    "CommunityRating": "3.59090909090909",
     "DatabaseID": "7524",
     "Developer": "Capcom",
     "ESRB": "T - Teen",
@@ -90204,7 +90204,7 @@
         }
       ]
     },
-    "CommunityRating": "3.75",
+    "CommunityRating": "3.7",
     "DatabaseID": "15101",
     "Developer": "Rockstar San Diego",
     "ESRB": "E - Everyone",
@@ -192286,7 +192286,23 @@
   {
     "Artwork": {
       "Box": {
+        "Back": [
+          {
+            "CRC32": "3722372962",
+            "FileName": "r2_c7e9d6c3-4fed-4dd4-9c87-7abc59b0bedb.jpg",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_c7e9d6c3-4fed-4dd4-9c87-7abc59b0bedb.jpg"
+          }
+        ],
         "Front": [
+          {
+            "CRC32": "2291494824",
+            "FileName": "r2_fe4acef1-a61f-4cbd-ab15-a6a897740afe.jpg",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_fe4acef1-a61f-4cbd-ab15-a6a897740afe.jpg"
+          },
           {
             "CRC32": "2833715605",
             "FileName": "578dea8a-dafb-4f89-b776-f75286f3a785.jpg",
@@ -192294,8 +192310,61 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/578dea8a-dafb-4f89-b776-f75286f3a785.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "4214928402",
+            "FileName": "r2_051e031f-37ab-48ed-b1c7-d13435fcf0dd.jpg",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_051e031f-37ab-48ed-b1c7-d13435fcf0dd.jpg"
+          }
         ]
-      }
+      },
+      "Disc": [
+        {
+          "CRC32": "3801613077",
+          "FileName": "r2_0fb8c214-adcf-4994-b087-d903454a3969.png",
+          "Region": "Europe",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_0fb8c214-adcf-4994-b087-d903454a3969.png"
+        },
+        {
+          "CRC32": "747482204",
+          "FileName": "r2_37ad9d64-d924-4f95-80b3-31aef6394aab.png",
+          "Region": "Europe",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_37ad9d64-d924-4f95-80b3-31aef6394aab.png"
+        },
+        {
+          "CRC32": "3632220204",
+          "FileName": "r2_76cf7635-15f6-4eaf-bd96-302a6309ed6a.png",
+          "Region": "Europe",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_76cf7635-15f6-4eaf-bd96-302a6309ed6a.png"
+        },
+        {
+          "CRC32": "2181511417",
+          "FileName": "r2_8612842f-134f-42fd-bcd3-a4aaa0a978f5.png",
+          "Region": "Europe",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_8612842f-134f-42fd-bcd3-a4aaa0a978f5.png"
+        },
+        {
+          "CRC32": "3065045510",
+          "FileName": "r2_93245424-34c3-4cbd-9ebc-139bf3cb36ed.png",
+          "Region": "Europe",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_93245424-34c3-4cbd-9ebc-139bf3cb36ed.png"
+        },
+        {
+          "CRC32": "77880461",
+          "FileName": "r2_d79c6087-b69b-42bb-881f-f649b68c4142.png",
+          "Region": "Europe",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_d79c6087-b69b-42bb-881f-f649b68c4142.png"
+        }
+      ]
     },
     "DatabaseID": "464113",
     "Developer": "Ubisoft Montréal",
