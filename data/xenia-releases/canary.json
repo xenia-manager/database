@@ -1,5 +1,89 @@
 [
   {
+    "tag_name": "a6e92f4",
+    "target_commitish": "a6e92f43ea5225836cdc86cc5cfd9730d0f91320",
+    "published_at": "2026-04-19T20:24:46Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a6e92f4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a6e92f43ea5225836cdc86cc5cfd9730d0f91320",
+    "changelog": {
+      "title": "a6e92f4_canary_experimental",
+      "changes": "- [XAM/XNOTIFY] - Fixes and more flags (`a6e92f4`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/73e3caa...a6e92f4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a6e92f4/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a6e92f4/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "73e3caa",
+    "target_commitish": "73e3caa5e164655b8146db9df75163155600593a",
+    "published_at": "2026-04-19T19:13:06Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/73e3caa",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/73e3caa5e164655b8146db9df75163155600593a",
+    "changelog": {
+      "title": "73e3caa_canary_experimental",
+      "changes": "- [CPU] Disable instruction info cache if context promotion is disabled (`73e3caa`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/049a55f...73e3caa"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/73e3caa/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/73e3caa/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "049a55f",
+    "target_commitish": "049a55f03679b204379b17996bd032ce54bff156",
+    "published_at": "2026-04-19T18:42:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/049a55f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/049a55f03679b204379b17996bd032ce54bff156",
+    "changelog": {
+      "title": "049a55f_canary_experimental",
+      "changes": "- [CPU/Posix] Fixed crash caused by calling mmap on empty file (`049a55f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/bc7bc76...049a55f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/049a55f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/049a55f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "bc7bc76",
+    "target_commitish": "bc7bc76d68677d1cf85dd12f624ed91dac0d4d23",
+    "published_at": "2026-04-19T16:53:21Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/bc7bc76",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/bc7bc76d68677d1cf85dd12f624ed91dac0d4d23",
+    "changelog": {
+      "title": "bc7bc76_canary_experimental",
+      "changes": "- [APP] Fixed loading profile icon via login slots (`bc7bc76`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4fcb8e4...bc7bc76"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/bc7bc76/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/bc7bc76/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "4fcb8e4",
     "target_commitish": "4fcb8e4498aca8bfb13a8150c2e6375a58fdf767",
     "published_at": "2026-04-14T05:52:59Z",
