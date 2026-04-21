@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "e3e57bd",
+    "target_commitish": "e3e57bdb47af35b111d7150c39b2801949872098",
+    "published_at": "2026-04-20T19:04:00Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e3e57bd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e3e57bdb47af35b111d7150c39b2801949872098",
+    "changelog": {
+      "title": "e3e57bd_canary_experimental",
+      "changes": "- [XAM/XMP] Fixed incorrect size of XMP_SONGINFO structure (`e3e57bd`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a6e92f4...e3e57bd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e3e57bd/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e3e57bd/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "a6e92f4",
     "target_commitish": "a6e92f43ea5225836cdc86cc5cfd9730d0f91320",
     "published_at": "2026-04-19T20:24:46Z",
