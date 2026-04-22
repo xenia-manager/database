@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "68d409e",
+    "target_commitish": "68d409ebbae1560a13cfb5db8d524de6096f7770",
+    "published_at": "2026-04-21T21:02:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/68d409e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/68d409ebbae1560a13cfb5db8d524de6096f7770",
+    "changelog": {
+      "title": "68d409e_canary_experimental",
+      "changes": "- [Kernel] Fixed releasing XObject handles on title termination (`68d409e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e91faca...68d409e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/68d409e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/68d409e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "e91faca",
+    "target_commitish": "e91faca1c44790b26410084c43bead9ef2edd3f0",
+    "published_at": "2026-04-21T20:20:03Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e91faca",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e91faca1c44790b26410084c43bead9ef2edd3f0",
+    "changelog": {
+      "title": "e91faca_canary_experimental",
+      "changes": "- [VFS] Return more proper error codes in OpenFile (`e91faca`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e3e57bd...e91faca"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e91faca/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e91faca/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "e3e57bd",
     "target_commitish": "e3e57bdb47af35b111d7150c39b2801949872098",
     "published_at": "2026-04-20T19:04:00Z",
