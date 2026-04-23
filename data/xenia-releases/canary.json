@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "e2200e8",
+    "target_commitish": "e2200e84358b49ae618c9fe6f55a7e455db25563",
+    "published_at": "2026-04-23T05:48:30Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e2200e8",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e2200e84358b49ae618c9fe6f55a7e455db25563",
+    "changelog": {
+      "title": "e2200e8_canary_experimental",
+      "changes": "- [BUILD] Fixed clang format selecting wrong binary architecture (`e2200e8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5174c2f...e2200e8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e2200e8/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e2200e8/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "5174c2f",
     "target_commitish": "5174c2f2e06879c36bd59e0702c46c9f6f806d43",
     "published_at": "2026-04-22T18:11:52Z",
