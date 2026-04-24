@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "8e1b286",
+    "target_commitish": "8e1b286578738d3ef12e73fcc47b9df0154ed950",
+    "published_at": "2026-04-23T20:29:28Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8e1b286",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8e1b286578738d3ef12e73fcc47b9df0154ed950",
+    "changelog": {
+      "title": "8e1b286_canary_experimental",
+      "changes": "- [x64] Add GFNI and AVX512VBMI optimizations for VECTOR_SHL(Int8) (`8e1b286`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e2200e8...8e1b286"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8e1b286/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8e1b286/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "e2200e8",
     "target_commitish": "e2200e84358b49ae618c9fe6f55a7e455db25563",
     "published_at": "2026-04-23T05:48:30Z",
