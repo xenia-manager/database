@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "cff0773",
+    "target_commitish": "cff0773e00d756af6669b127ef6c09562ace62c3",
+    "published_at": "2026-04-26T11:50:56Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/cff0773",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/cff0773e00d756af6669b127ef6c09562ace62c3",
+    "changelog": {
+      "title": "cff0773_canary_experimental",
+      "changes": "- [HID] Portal: Simplified device searching procedure (`cff0773`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/dc561e4...cff0773"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cff0773/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cff0773/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "dc561e4",
     "target_commitish": "dc561e4df578c903087f9bdf56ff61d9ef9f2a93",
     "published_at": "2026-04-25T16:46:03Z",
