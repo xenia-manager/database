@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "60f77c3",
+    "target_commitish": "60f77c36228cc5f1dc3af0c0b400d19db43a80f0",
+    "published_at": "2026-04-27T18:40:54Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/60f77c3",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/60f77c36228cc5f1dc3af0c0b400d19db43a80f0",
+    "changelog": {
+      "title": "60f77c3_canary_experimental",
+      "changes": "- [VFS] Skip treating NT Device paths root as non-directory. (`60f77c3`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/cff0773...60f77c3"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/60f77c3/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/60f77c3/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "cff0773",
     "target_commitish": "cff0773e00d756af6669b127ef6c09562ace62c3",
     "published_at": "2026-04-26T11:50:56Z",
