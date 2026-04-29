@@ -8779,6 +8779,13 @@
         ],
         "Back": [
           {
+            "CRC32": "3650521967",
+            "FileName": "r2_35616e39-c0e9-4ca5-9641-7261a894c019.jpg",
+            "Region": "Germany",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_35616e39-c0e9-4ca5-9641-7261a894c019.jpg"
+          },
+          {
             "CRC32": "1623986231",
             "FileName": "d5fc7a11-c9a7-4ac4-86ba-bfa48eaebb89.png",
             "Region": "Korea",
@@ -8800,6 +8807,13 @@
             "Region": "Germany",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_6fbcbf6e-e2dc-48cd-8612-b20f52232e02.jpg"
+          },
+          {
+            "CRC32": "153533986",
+            "FileName": "r2_7381d25b-5cd7-4159-992d-71090f03a093.jpg",
+            "Region": "Germany",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_7381d25b-5cd7-4159-992d-71090f03a093.jpg"
           },
           {
             "CRC32": "3085343650",
@@ -8845,6 +8859,13 @@
           }
         ],
         "Spine": [
+          {
+            "CRC32": "3927629872",
+            "FileName": "r2_29f2ee72-95e7-46d3-a994-b3b826178c08.jpg",
+            "Region": "Germany",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_29f2ee72-95e7-46d3-a994-b3b826178c08.jpg"
+          },
           {
             "CRC32": "461542805",
             "FileName": "f4bba70c-c77a-4afd-9e9e-51519307864c.png",
@@ -16411,7 +16432,7 @@
         }
       ]
     },
-    "CommunityRating": "3.91666666666667",
+    "CommunityRating": "3.92857142857143",
     "DatabaseID": "7480",
     "Developer": "Pseudo Interactive",
     "ESRB": "T - Teen",
@@ -31441,7 +31462,7 @@
         }
       ]
     },
-    "CommunityRating": "4.08382352660684",
+    "CommunityRating": "4.09710144651109",
     "DatabaseID": "8480",
     "Developer": "Sonic Team",
     "ESRB": "E10+ - Everyone 10+",
@@ -160143,24 +160164,25 @@
         {
           "CRC32": "428819519",
           "FileName": "r2_c995ecf3-073e-424d-98ce-790b5141c84f.jpg",
-          "Region": "World",
+          "Region": "North America",
           "Type": "Fanart - Background",
           "URL": "http://images.launchbox-app.com/r2_c995ecf3-073e-424d-98ce-790b5141c84f.jpg"
         }
       ],
       "Banner": [
         {
-          "CRC32": "1782712971",
-          "FileName": "90e49780-035d-4391-bef2-3bf2d93376e6.png",
-          "Type": "Banner",
-          "URL": "http://images.launchbox-app.com/90e49780-035d-4391-bef2-3bf2d93376e6.png"
-        },
-        {
           "CRC32": "4265470063",
           "FileName": "8c6ab58e-71a5-4aa8-9138-a9a8a6a0b880.png",
           "Region": "North America",
           "Type": "Banner",
           "URL": "http://images.launchbox-app.com/8c6ab58e-71a5-4aa8-9138-a9a8a6a0b880.png"
+        },
+        {
+          "CRC32": "1782712971",
+          "FileName": "90e49780-035d-4391-bef2-3bf2d93376e6.png",
+          "Region": "North America",
+          "Type": "Banner",
+          "URL": "http://images.launchbox-app.com/90e49780-035d-4391-bef2-3bf2d93376e6.png"
         }
       ],
       "Box": {
@@ -160205,7 +160227,7 @@
         {
           "CRC32": "1854883559",
           "FileName": "r2_32e24513-8bfe-4119-a682-4ef8eba44213.png",
-          "Region": "World",
+          "Region": "North America",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/r2_32e24513-8bfe-4119-a682-4ef8eba44213.png"
         }
@@ -160219,7 +160241,8 @@
     "Name": "Attack of the Movies 3-D",
     "Overview": "Attack of the movies 3-D is a first-person rail shooter that is based on stereoscopic 3D and contains four sets of 3D glasses along with the game. In the six different movie gameplay scenes players are put in mini-game-esque battles, each with a different theme. Players try to defeat large alien space cruisers in Cosmic Combat, and join the resistance against the machines and try to destroy the machine mainframe in Robot Rebellion. In each level, three weapons to use against the enemies of that genre are provided. For example, the quintessential zombie-slaying shotgun in the horror level; an automatic laser cannon in the science fiction level, etc. In multiplayer up to four players are supported simultaneously, with each player controlling a crosshair of a different colour. Typically for the genre, no movement is required as the camera glides around automatically.",
     "Publisher": "Majesco Entertainment",
-    "ReleaseDate": "2010-05-18T00:00:00+00:00"
+    "ReleaseDate": "2010-05-18T00:00:00+00:00",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Attack_of_the_Movies_3D"
   },
   {
     "Artwork": {
@@ -162232,7 +162255,7 @@
         }
       ]
     },
-    "CommunityRating": "3.9",
+    "CommunityRating": "3.91666666666667",
     "DatabaseID": "173304",
     "Developer": "Electronic Arts",
     "ESRB": "E - Everyone",
