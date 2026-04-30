@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "6de80df",
+    "target_commitish": "6de80dffe261b368ecefee36c9b2b337335228c0",
+    "published_at": "2026-04-29T18:42:26Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6de80df",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6de80dffe261b368ecefee36c9b2b337335228c0",
+    "changelog": {
+      "title": "6de80df_canary_experimental",
+      "changes": "- [Emulator] Load title plugins before main thread execution begins (`6de80df`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6dca898...6de80df"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6de80df/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6de80df/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "6dca898",
     "target_commitish": "6dca89834e644884130c2f677bf5936c352bb1fc",
     "published_at": "2026-04-28T11:55:36Z",
