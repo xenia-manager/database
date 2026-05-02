@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "08c0cf5",
+    "target_commitish": "08c0cf5ad0fbc8d7a0d090e158af6d6b533adf87",
+    "published_at": "2026-05-02T16:20:34Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/08c0cf5",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/08c0cf5ad0fbc8d7a0d090e158af6d6b533adf87",
+    "changelog": {
+      "title": "08c0cf5_canary_experimental",
+      "changes": "- [GPU] Improved fake ZPD for QueryBatch titles (`08c0cf5`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6e1bd0a...08c0cf5"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/08c0cf5/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/08c0cf5/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "6e1bd0a",
+    "target_commitish": "6e1bd0a9a60250cb84006cdf307b7a734283c777",
+    "published_at": "2026-05-02T15:55:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6e1bd0a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6e1bd0a9a60250cb84006cdf307b7a734283c777",
+    "changelog": {
+      "title": "6e1bd0a_canary_experimental",
+      "changes": "- [XBDM] Fixed DmGetConsoleType using value from cvar (`6e1bd0a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6de80df...6e1bd0a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6e1bd0a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6e1bd0a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "6de80df",
     "target_commitish": "6de80dffe261b368ecefee36c9b2b337335228c0",
     "published_at": "2026-04-29T18:42:26Z",
