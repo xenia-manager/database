@@ -1,14 +1,14 @@
 {
   "stable": "4.1.2",
-  "experimental": "2026-05-02-1f4f21f",
+  "experimental": "2026-05-03-c2ef6ee",
   "xenia_manager": {
     "stable": {
       "tag_name": "4.1.2",
       "url": "https://github.com/xenia-manager/xenia-manager/releases/download/4.1.2/xenia_manager.zip"
     },
     "experimental": {
-      "tag_name": "2026-05-02-1f4f21f",
-      "url": "https://github.com/xenia-manager/experimental-builds/releases/download/2026-05-02-1f4f21f/xenia_manager.zip"
+      "tag_name": "2026-05-03-c2ef6ee",
+      "url": "https://github.com/xenia-manager/experimental-builds/releases/download/2026-05-03-c2ef6ee/xenia_manager.zip"
     }
   },
   "xenia": {
@@ -24,9 +24,9 @@
         "url": "https://github.com/AdrianCassar/xenia-canary/releases/download/v5.0.0/xenia_canary_netplay_windows.zip"
       },
       "nightly": {
-        "tag_name": "a8d8353",
-        "commit_sha": "a8d835308a69534f32a95ef1cc9e6d8ac6082a08",
-        "date": "2026-05-03T13:06:49Z",
+        "tag_name": "a733fbe",
+        "commit_sha": "a733fbe63f2039887f4a587ef407d09e9b02f904",
+        "date": "2026-04-30T00:51:35Z",
         "url": "https://nightly.link/AdrianCassar/xenia-canary/workflows/Windows_build/netplay_canary_experimental/xenia_canary_netplay_windows.zip"
       }
     },
@@ -37,9 +37,9 @@
         "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/may-2-2026/xenia-canary-mousehook.zip"
       },
       "netplay": {
-        "tag_name": "netplay-midhooks-refactor",
-        "date": "2026-04-25T12:21:15Z",
-        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/netplay-midhooks-refactor/xenia_canary_netplay.zip"
+        "tag_name": "netplay-xsocket-fixed-assigning-implicitly-bound-sockets-ports",
+        "date": "2026-05-03T16:44:18Z",
+        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/netplay-xsocket-fixed-assigning-implicitly-bound-sockets-ports/xenia_canary_netplay.zip"
       }
     }
   }
