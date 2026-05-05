@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "ec18a89",
+    "target_commitish": "ec18a89da493514b2e49ecb87f10490f53109720",
+    "published_at": "2026-05-04T18:14:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/ec18a89",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/ec18a89da493514b2e49ecb87f10490f53109720",
+    "changelog": {
+      "title": "ec18a89_canary_experimental",
+      "changes": "- [APP] Allow profiler to be enabled via cmake option (`ec18a89`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9467c77...ec18a89"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ec18a89/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ec18a89/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "9467c77",
     "target_commitish": "9467c77f0825f3f8156038ef1a03e27b6c727393",
     "published_at": "2026-05-02T16:47:06Z",
