@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "80f2b53",
+    "target_commitish": "80f2b535e9736a9772de528952877e912c328aea",
+    "published_at": "2026-05-05T09:07:23Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/80f2b53",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/80f2b535e9736a9772de528952877e912c328aea",
+    "changelog": {
+      "title": "80f2b53_canary_experimental",
+      "changes": "- [Kernel] Added KeSaveFloatingPointState and KeRestoreFloatingPointState from nukernel (`80f2b53`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/ec18a89...80f2b53"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/80f2b53/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/80f2b53/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "ec18a89",
     "target_commitish": "ec18a89da493514b2e49ecb87f10490f53109720",
     "published_at": "2026-05-04T18:14:33Z",
