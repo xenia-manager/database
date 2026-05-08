@@ -15,11 +15,17 @@
     "issue": 1100,
     "id": "425307E6",
     "title": "Elder Scrolls V: Skyrim",
-    "updated": "2026-05-04T16:56:45Z",
-    "state": "Unknown",
+    "updated": "2026-05-07T21:29:28Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-drawing-missing",
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1100"
   },
@@ -63,10 +69,12 @@
     "issue": 1095,
     "id": "555307E0",
     "title": "Tom Clancy's EndWar",
-    "updated": "2026-05-05T19:17:13Z",
-    "state": "Unknown",
+    "updated": "2026-05-07T22:31:45Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1095"
@@ -383,7 +391,7 @@
     "issue": 1072,
     "id": "58410991",
     "title": "ARKANOID Live",
-    "updated": "2026-04-18T19:38:21Z",
+    "updated": "2026-05-07T21:12:42Z",
     "state": "Unknown",
     "labels": {
       "state": [],
@@ -561,6 +569,20 @@
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1059"
   },
   {
+    "issue": 1058,
+    "id": "4B5607E8",
+    "title": "Dead or Alive 5 Ultimate",
+    "updated": "2026-05-07T06:17:30Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1058"
+  },
+  {
     "issue": 1056,
     "id": "45410860",
     "title": "Command & Conquer - Red Alert 3",
@@ -619,6 +641,34 @@
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1053"
+  },
+  {
+    "issue": 1052,
+    "id": "424107DC",
+    "title": "Dragon Ball Z : Burst Limit",
+    "updated": "2026-05-07T06:17:56Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1052"
+  },
+  {
+    "issue": 1051,
+    "id": "4E4D0803",
+    "title": "Dragon Ball : Raging Blast",
+    "updated": "2026-05-07T06:18:19Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1051"
   },
   {
     "issue": 1050,
@@ -744,7 +794,7 @@
     "issue": 1039,
     "id": "415608A7",
     "title": "Prototype 2",
-    "updated": "2026-03-30T06:38:59Z",
+    "updated": "2026-05-07T23:48:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1294,13 +1344,15 @@
     "issue": 995,
     "id": "4C4107D6",
     "title": "Thrillville: OTR",
-    "updated": "2026-05-01T16:21:46Z",
-    "state": "Unplayable",
+    "updated": "2026-05-07T21:08:08Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-crash-host"
+        "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/995"
   },
@@ -1536,10 +1588,12 @@
     "issue": 975,
     "id": "54510866",
     "title": "WWE All-Stars",
-    "updated": "2026-04-08T08:21:21Z",
-    "state": "Unknown",
+    "updated": "2026-05-08T00:41:12Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/975"
@@ -1650,11 +1704,12 @@
     "issue": 966,
     "id": "555308C2",
     "title": "Assassin's Creed IV: Black Flag",
-    "updated": "2026-04-22T20:08:12Z",
-    "state": "Gameplay",
+    "updated": "2026-05-08T00:47:17Z",
+    "state": "Unplayable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-menus",
+        "state-crash-guest"
       ],
       "others": []
     },
@@ -1709,11 +1764,12 @@
     "issue": 962,
     "id": "555307D4",
     "title": "Assassin's Creed",
-    "updated": "2026-03-29T10:52:10Z",
-    "state": "Gameplay",
+    "updated": "2026-05-08T00:43:33Z",
+    "state": "Unplayable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-menus",
+        "state-crash-guest"
       ],
       "others": []
     },
@@ -1803,13 +1859,16 @@
     "issue": 956,
     "id": "454107EE",
     "title": "Def Jam Icon",
-    "updated": "2026-01-26T12:40:29Z",
-    "state": "Loads",
+    "updated": "2026-05-07T23:32:32Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-intro"
+        "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "apu-slow",
+        "apu-garbage"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/956"
   },
@@ -3849,13 +3908,17 @@
     "issue": 826,
     "id": "475007D5",
     "title": "Velvet Assassin",
-    "updated": "2026-04-28T19:57:53Z",
+    "updated": "2026-05-07T21:04:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-drawing-missing",
+        "apu-garbage"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/826"
   },
@@ -4324,11 +4387,11 @@
     "issue": 796,
     "id": "584113DD",
     "title": "Poker Night 2",
-    "updated": "2025-08-23T06:35:34Z",
-    "state": "Gameplay",
+    "updated": "2026-05-07T23:31:39Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "marketplace-delisted",
@@ -5213,7 +5276,7 @@
     "issue": 736,
     "id": "4D5307DE",
     "title": "Too Human",
-    "updated": "2026-03-30T06:59:43Z",
+    "updated": "2026-05-07T08:41:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6268,7 +6331,7 @@
     "issue": 662,
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "updated": "2025-12-30T06:31:48Z",
+    "updated": "2026-05-07T21:18:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6284,7 +6347,7 @@
     "issue": 661,
     "id": "41560905",
     "title": "The Amazing Spider-Man 2",
-    "updated": "2025-07-08T05:43:27Z",
+    "updated": "2026-05-07T21:20:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6331,13 +6394,15 @@
     "issue": 658,
     "id": "434307DE",
     "title": "Lost Planet Extreme Conditions: Colonies Edition",
-    "updated": "2025-12-10T13:28:24Z",
-    "state": "Gameplay",
+    "updated": "2026-05-07T20:58:51Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
-      "others": []
+      "others": [
+        "vsync-off-speedup"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/658"
   },
@@ -6479,14 +6544,14 @@
     "issue": 648,
     "id": "4B4E07D1",
     "title": "Rumble Roses XX",
-    "updated": "2025-07-03T08:36:13Z",
-    "state": "Gameplay",
+    "updated": "2026-05-07T23:17:37Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "apu-garbage"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/648"
@@ -8483,15 +8548,13 @@
     "issue": 516,
     "id": "454108CF",
     "title": "Dante's Inferno",
-    "updated": "2026-03-14T18:06:53Z",
-    "state": "Gameplay",
+    "updated": "2026-05-07T20:49:46Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
-      "others": [
-        "vsync-off-speedup"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/516"
   },
@@ -8887,15 +8950,13 @@
     "issue": 492,
     "id": "544307D5",
     "title": "NINJA GAIDEN II",
-    "updated": "2026-04-20T22:12:09Z",
-    "state": "Gameplay",
+    "updated": "2026-05-07T23:15:54Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
         "vsync-off-speedup",
         "gpu-driver-issues-nvidia",
         "requires_clear_memory_page_state_true"
@@ -10562,11 +10623,11 @@
     "issue": 391,
     "id": "534307DB",
     "title": "Hitman HD Trilogy (Disk 2 - Hitman: Blood Money)",
-    "updated": "2026-01-29T17:40:46Z",
-    "state": "Gameplay",
+    "updated": "2026-05-07T21:06:25Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-glacier",
@@ -10629,7 +10690,7 @@
     "issue": 387,
     "id": "54510842",
     "title": "Metro 2033",
-    "updated": "2026-04-10T17:18:30Z",
+    "updated": "2026-05-07T21:21:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11647,10 +11708,12 @@
     "issue": 326,
     "id": "434D0819",
     "title": "DiRT 2",
-    "updated": "2026-04-17T18:02:35Z",
-    "state": "Unknown",
+    "updated": "2026-05-07T21:17:59Z",
+    "state": "Playable",
     "labels": {
-      "state": [],
+      "state": [
+        "state-playable"
+      ],
       "others": [
         "tech-engine-ego",
         "gpu-readback",
@@ -12416,7 +12479,7 @@
     "issue": 282,
     "id": "454107D8",
     "title": "NBA LIVE 06",
-    "updated": "2024-11-02T18:19:44Z",
+    "updated": "2026-05-07T23:36:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12424,7 +12487,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "apu-slow",
+        "apu-garbage",
         "backwards-compatibility-unsupported"
       ]
     },
@@ -12868,14 +12931,14 @@
     "issue": 256,
     "id": "454107E9",
     "title": "The Godfather",
-    "updated": "2026-04-01T18:53:02Z",
+    "updated": "2026-05-07T23:35:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-slow",
+        "apu-garbage",
         "tech-engine-renderware",
         "backwards-compatibility-unsupported"
       ]
@@ -12926,11 +12989,12 @@
     "issue": 253,
     "id": "5841095A",
     "title": "Trials HD",
-    "updated": "2026-05-05T19:51:04Z",
-    "state": "Gameplay",
+    "updated": "2026-05-07T23:29:41Z",
+    "state": "Unplayable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable",
+        "state-crash-guest"
       ],
       "others": [
         "cpu-timing",
@@ -14032,13 +14096,15 @@
     "issue": 180,
     "id": "534507E6",
     "title": "Sega Rally (Sega Rally Revo)",
-    "updated": "2025-02-15T23:12:15Z",
+    "updated": "2026-05-07T23:34:10Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": []
+      "others": [
+        "gpu-slow"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/180"
   },
@@ -14110,13 +14176,14 @@
     "issue": 174,
     "id": "53510823",
     "title": "Rise of the Tomb Raider",
-    "updated": "2024-09-27T05:58:00Z",
-    "state": "Loads",
+    "updated": "2026-05-08T00:52:26Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-title"
+        "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported"
       ]
@@ -14698,12 +14765,13 @@
     "issue": 139,
     "id": "5841128F",
     "title": "Terraria",
-    "updated": "2024-09-26T11:34:26Z",
-    "state": "Unknown",
+    "updated": "2026-05-07T23:26:45Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": [
-        "tech-engine-xna",
         "vsync-off-speedup"
       ]
     },
@@ -15178,7 +15246,7 @@
     "issue": 102,
     "id": "4D5307DC",
     "title": "Crackdown",
-    "updated": "2026-02-22T13:30:28Z",
+    "updated": "2026-05-07T23:37:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15221,11 +15289,12 @@
     "issue": 98,
     "id": "41560855",
     "title": "Call of Duty: Black Ops",
-    "updated": "2025-11-26T03:49:14Z",
-    "state": "Gameplay",
+    "updated": "2026-05-08T00:44:19Z",
+    "state": "Unplayable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-gameplay",
+        "state-crash-guest"
       ],
       "others": [
         "tech-engine-iw",
