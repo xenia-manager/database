@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "2c68a2f",
+    "target_commitish": "2c68a2fc4bbf360fb79c373664331c03ba70ac31",
+    "published_at": "2026-05-08T13:26:27Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2c68a2f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2c68a2fc4bbf360fb79c373664331c03ba70ac31",
+    "changelog": {
+      "title": "2c68a2f_canary_experimental",
+      "changes": "- [XAM] Fixed XamUserReadProfileSettingsEx setting buffer_size_ptr (`2c68a2f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/80f2b53...2c68a2f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2c68a2f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2c68a2f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "80f2b53",
     "target_commitish": "80f2b535e9736a9772de528952877e912c328aea",
     "published_at": "2026-05-05T09:07:23Z",
