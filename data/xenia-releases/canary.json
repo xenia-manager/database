@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "2072d9b",
+    "target_commitish": "2072d9bdf122e7aba8759b0eca077ced25181e12",
+    "published_at": "2026-05-08T18:23:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2072d9b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2072d9bdf122e7aba8759b0eca077ced25181e12",
+    "changelog": {
+      "title": "2072d9b_canary_experimental",
+      "changes": "- [APP] Limit logging SPA properties (`2072d9b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/74f3481...2072d9b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2072d9b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2072d9b/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "74f3481",
+    "target_commitish": "74f34818e75a4a1b1778a4f8499f5c3038bc588d",
+    "published_at": "2026-05-08T17:18:54Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/74f3481",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/74f34818e75a4a1b1778a4f8499f5c3038bc588d",
+    "changelog": {
+      "title": "74f3481_canary_experimental",
+      "changes": "- [Lint] Added InsertBraces to linter to unify codebase to one standard (`74f3481`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2c68a2f...74f3481"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/74f3481/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/74f3481/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "2c68a2f",
     "target_commitish": "2c68a2fc4bbf360fb79c373664331c03ba70ac31",
     "published_at": "2026-05-08T13:26:27Z",
