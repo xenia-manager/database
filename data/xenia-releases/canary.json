@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "3e1bff2",
+    "target_commitish": "3e1bff213d2d59c2b36239b9668d3298d99ca3e5",
+    "published_at": "2026-05-09T09:52:34Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/3e1bff2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/3e1bff213d2d59c2b36239b9668d3298d99ca3e5",
+    "changelog": {
+      "title": "3e1bff2_canary_experimental",
+      "changes": "- [Cmake] Fixed whoopsie. Disabled profiler from default (`3e1bff2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2072d9b...3e1bff2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3e1bff2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3e1bff2/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "2072d9b",
     "target_commitish": "2072d9bdf122e7aba8759b0eca077ced25181e12",
     "published_at": "2026-05-08T18:23:51Z",
