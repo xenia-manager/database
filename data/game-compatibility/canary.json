@@ -1,5 +1,59 @@
 [
   {
+    "issue": 1110,
+    "id": "58410811",
+    "title": "PAC-MAN",
+    "updated": "2026-05-09T23:12:26Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1110"
+  },
+  {
+    "issue": 1109,
+    "id": "58410837",
+    "title": "Ms PAC-MAN",
+    "updated": "2026-05-09T22:27:38Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1109"
+  },
+  {
+    "issue": 1108,
+    "id": "584108A9",
+    "title": "Bean (GoldenEye 007 XBLA)",
+    "updated": "2026-05-09T13:37:23Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1108"
+  },
+  {
+    "issue": 1107,
+    "id": "545108AF",
+    "title": "Wheel of Fortune",
+    "updated": "2026-05-09T03:50:57Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "gpu-shader-errors"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1107"
+  },
+  {
     "issue": 1106,
     "id": "4E4D0826",
     "title": "Dragon Ball : Raging Blast 2",
@@ -451,10 +505,12 @@
     "issue": 1072,
     "id": "58410991",
     "title": "ARKANOID Live",
-    "updated": "2026-05-07T21:12:42Z",
-    "state": "Unknown",
+    "updated": "2026-05-09T13:36:19Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1072"
@@ -463,7 +519,7 @@
     "issue": 1071,
     "id": "555307D3",
     "title": "Peter Jacksons King Kong",
-    "updated": "2026-05-04T06:11:41Z",
+    "updated": "2026-05-10T00:09:07Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -7221,7 +7277,7 @@
     "issue": 609,
     "id": "4156084C",
     "title": "Transformers: War for Cybertron",
-    "updated": "2025-06-20T03:13:48Z",
+    "updated": "2026-05-09T07:14:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9079,7 +9135,7 @@
     "issue": 490,
     "id": "58410957",
     "title": "Call of Duty Classic",
-    "updated": "2026-05-08T18:18:35Z",
+    "updated": "2026-05-09T16:22:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12197,7 +12253,7 @@
     "issue": 304,
     "id": "534307F6",
     "title": "Batman: Arkham Asylum",
-    "updated": "2026-05-09T02:06:47Z",
+    "updated": "2026-05-09T16:09:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13193,7 +13249,7 @@
     "issue": 248,
     "id": "454107EC",
     "title": "Need for Speed: Carbon",
-    "updated": "2026-03-19T00:17:59Z",
+    "updated": "2026-05-09T13:46:25Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16326,7 +16382,7 @@
     "issue": 27,
     "id": "415607E1",
     "title": "Call of Duty 3",
-    "updated": "2026-04-02T02:04:13Z",
+    "updated": "2026-05-09T23:38:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16335,7 +16391,8 @@
       "others": [
         "gpu-drawing-corrupt",
         "gpu-drawing-missing",
-        "tech-middleware-demonware"
+        "tech-middleware-demonware",
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/27"
