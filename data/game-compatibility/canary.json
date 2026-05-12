@@ -3,10 +3,12 @@
     "issue": 1110,
     "id": "58410811",
     "title": "PAC-MAN",
-    "updated": "2026-05-09T23:12:26Z",
-    "state": "Unknown",
+    "updated": "2026-05-11T14:23:04Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1110"
@@ -15,10 +17,12 @@
     "issue": 1109,
     "id": "58410837",
     "title": "Ms PAC-MAN",
-    "updated": "2026-05-09T22:27:38Z",
-    "state": "Unknown",
+    "updated": "2026-05-11T14:22:37Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1109"
@@ -71,7 +75,7 @@
     "issue": 1105,
     "id": "53450848",
     "title": "Sonic Generations",
-    "updated": "2026-05-09T02:58:08Z",
+    "updated": "2026-05-11T16:34:29Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -820,7 +824,7 @@
     "issue": 1047,
     "id": "443607D6",
     "title": "Back to the Future The Game - 30th Anniversary Edition",
-    "updated": "2026-05-04T05:54:46Z",
+    "updated": "2026-05-11T16:38:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1315,7 +1319,7 @@
     "issue": 1006,
     "id": "545107E6",
     "title": "Darksiders",
-    "updated": "2026-03-12T08:37:13Z",
+    "updated": "2026-05-11T16:39:47Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -3538,14 +3542,13 @@
     "issue": 857,
     "id": "415607D2",
     "title": "Quake 4",
-    "updated": "2026-03-28T21:01:08Z",
+    "updated": "2026-05-11T21:03:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage",
         "tech-engine-idtech",
         "gpu-readback",
         "backwards-compatibility-unsupported",
@@ -4064,7 +4067,7 @@
     "issue": 826,
     "id": "475007D5",
     "title": "Velvet Assassin",
-    "updated": "2026-05-07T21:04:02Z",
+    "updated": "2026-05-11T21:05:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4073,7 +4076,8 @@
       "others": [
         "gpu-drawing-corrupt",
         "gpu-drawing-missing",
-        "apu-garbage"
+        "apu-garbage",
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/826"
@@ -5610,13 +5614,15 @@
     "issue": 723,
     "id": "584107F5",
     "title": "Spyglass Board Games",
-    "updated": "2026-04-26T20:14:09Z",
+    "updated": "2026-05-11T16:58:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-missing"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/723"
   },
@@ -13014,14 +13020,13 @@
     "issue": 261,
     "id": "4541081F",
     "title": "FIFA 08",
-    "updated": "2026-02-24T18:01:25Z",
+    "updated": "2026-05-11T20:57:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage",
         "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
@@ -13469,7 +13474,7 @@
     "issue": 233,
     "id": "415608EC",
     "title": "Deadpool",
-    "updated": "2025-08-20T19:50:17Z",
+    "updated": "2026-05-11T20:50:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13482,7 +13487,8 @@
         "tech-physics-physx",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "gpu-occlusion-query",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/233"
@@ -13722,14 +13728,13 @@
     "issue": 217,
     "id": "425307DB",
     "title": "WET",
-    "updated": "2026-03-06T14:02:56Z",
+    "updated": "2026-05-11T20:36:21Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "apu-slow",
         "tech-middleware-havok"
       ]
     },
@@ -14858,7 +14863,7 @@
     "issue": 145,
     "id": "545407F8",
     "title": "Midnight Club: Los Angeles",
-    "updated": "2026-05-11T00:10:43Z",
+    "updated": "2026-05-12T00:08:04Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15253,7 +15258,7 @@
     "issue": 116,
     "id": "4541094A",
     "title": "Need For Speed The Run",
-    "updated": "2026-04-18T20:43:47Z",
+    "updated": "2026-05-11T22:40:48Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -15910,7 +15915,7 @@
     "issue": 58,
     "id": "535107E8",
     "title": "NIER",
-    "updated": "2025-03-21T00:50:21Z",
+    "updated": "2026-05-11T20:38:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15919,7 +15924,6 @@
       "others": [
         "gpu-drawing-missing",
         "tech-middleware-criware",
-        "apu-slow",
         "gpu-readback"
       ]
     },
@@ -16400,14 +16404,13 @@
     "issue": 26,
     "id": "415607D1",
     "title": "Call of Duty 2",
-    "updated": "2025-06-23T19:33:18Z",
+    "updated": "2026-05-11T20:47:38Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "apu-garbage",
         "tech-engine-iw",
         "tech-middleware-demonware"
       ]
@@ -16544,7 +16547,7 @@
     "issue": 10,
     "id": "485507D4",
     "title": "Fuzion Frenzy 2",
-    "updated": "2026-01-12T03:14:14Z",
+    "updated": "2026-05-11T17:22:03Z",
     "state": "Gameplay",
     "labels": {
       "state": [

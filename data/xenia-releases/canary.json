@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "bfdaa41",
+    "target_commitish": "bfdaa41827204fd31e722d76061209ff9aeda7ea",
+    "published_at": "2026-05-11T19:25:19Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/bfdaa41",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/bfdaa41827204fd31e722d76061209ff9aeda7ea",
+    "changelog": {
+      "title": "bfdaa41_canary_experimental",
+      "changes": "- [XGI] Cleanup XUserWriteAchievements (`bfdaa41`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/ad57bfa...bfdaa41"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/bfdaa41/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/bfdaa41/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "ad57bfa",
+    "target_commitish": "ad57bfa7ddbc7667616f51a634bf3f4e1f0e9499",
+    "published_at": "2026-05-11T18:25:53Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/ad57bfa",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/ad57bfa7ddbc7667616f51a634bf3f4e1f0e9499",
+    "changelog": {
+      "title": "ad57bfa_canary_experimental",
+      "changes": "- [APP] Fixed zar creation file naming bug (`ad57bfa`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/3e1bff2...ad57bfa"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ad57bfa/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ad57bfa/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "3e1bff2",
     "target_commitish": "3e1bff213d2d59c2b36239b9668d3298d99ca3e5",
     "published_at": "2026-05-09T09:52:34Z",
