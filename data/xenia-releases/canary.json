@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "f4f8212",
+    "target_commitish": "f4f821215e76e0994549aeda0a645198d4e4b26e",
+    "published_at": "2026-05-12T11:32:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f4f8212",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f4f821215e76e0994549aeda0a645198d4e4b26e",
+    "changelog": {
+      "title": "f4f8212_canary_experimental",
+      "changes": "- [XGI] Stubbed XUserAwardAvatarAssets (`f4f8212`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/bfdaa41...f4f8212"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f4f8212/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f4f8212/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "bfdaa41",
     "target_commitish": "bfdaa41827204fd31e722d76061209ff9aeda7ea",
     "published_at": "2026-05-11T19:25:19Z",
