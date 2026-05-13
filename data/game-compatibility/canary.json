@@ -1,5 +1,62 @@
 [
   {
+    "issue": 1114,
+    "id": "454109C9",
+    "title": "Plants vs Zombies Garden Warfare",
+    "updated": "2026-05-13T03:12:13Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1114"
+  },
+  {
+    "issue": 1113,
+    "id": "4B4D0800",
+    "title": "Saints Row Gat Out of Hell",
+    "updated": "2026-05-12T19:51:45Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1113"
+  },
+  {
+    "issue": 1112,
+    "id": "425307D1",
+    "title": "Elder Scrolls IV: Oblivion",
+    "updated": "2026-05-12T14:37:12Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "gpu-readback",
+        "gpu-occlusion-query"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1112"
+  },
+  {
+    "issue": 1111,
+    "id": "5553082F",
+    "title": "Shaun White Skateboarding",
+    "updated": "2026-05-12T15:37:10Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "crash-random"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1111"
+  },
+  {
     "issue": 1110,
     "id": "58410811",
     "title": "PAC-MAN",
@@ -1645,14 +1702,15 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-05-08T11:07:09Z",
+    "updated": "2026-05-12T19:37:00Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "tech-engine-blam"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/981"
@@ -3671,14 +3729,15 @@
     "issue": 850,
     "id": "425307E0",
     "title": "Fallout: New Vegas - Ultimate Edition",
-    "updated": "2025-09-22T17:30:56Z",
+    "updated": "2026-05-12T04:12:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/850"
@@ -4222,23 +4281,6 @@
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/816"
-  },
-  {
-    "issue": 815,
-    "id": "4E4D0855",
-    "title": "Witcher 2",
-    "updated": "2026-04-07T17:23:52Z",
-    "state": "Gameplay",
-    "labels": {
-      "state": [
-        "state-gameplay"
-      ],
-      "others": [
-        "gpu-drawing-corrupt",
-        "gpu-readback"
-      ]
-    },
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/815"
   },
   {
     "issue": 814,
@@ -5019,14 +5061,13 @@
     "issue": 763,
     "id": "4E4D07F1",
     "title": "Enslaved: Odyssey to the West",
-    "updated": "2025-11-02T15:59:42Z",
+    "updated": "2026-05-12T17:08:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-middleware-wwise"
       ]
@@ -5127,7 +5168,7 @@
     "issue": 757,
     "id": "4B4D07F6",
     "title": "Saints Row IV",
-    "updated": "2026-04-08T14:08:34Z",
+    "updated": "2026-05-12T20:17:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6437,7 +6478,7 @@
     "issue": 666,
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
-    "updated": "2026-04-06T01:54:51Z",
+    "updated": "2026-05-12T12:19:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8129,7 +8170,7 @@
     "issue": 552,
     "id": "4D5309B1",
     "title": "Halo: Combat Evolved Anniversary",
-    "updated": "2026-04-19T21:09:58Z",
+    "updated": "2026-05-12T17:11:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8704,14 +8745,15 @@
     "issue": 517,
     "id": "45410850",
     "title": "Mirror's Edge",
-    "updated": "2026-02-03T18:47:22Z",
+    "updated": "2026-05-12T16:23:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-unreal"
+        "tech-engine-unreal",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/517"
@@ -10321,7 +10363,7 @@
     "issue": 419,
     "id": "4B4E0823",
     "title": "Silent Hill: Downpour",
-    "updated": "2025-01-21T04:12:45Z",
+    "updated": "2026-05-12T08:10:50Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -11102,11 +11144,11 @@
     "issue": 373,
     "id": "434D07FF",
     "title": "GRID",
-    "updated": "2025-10-08T16:42:21Z",
-    "state": "Gameplay",
+    "updated": "2026-05-12T20:52:41Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-readback"
@@ -12555,7 +12597,7 @@
     "issue": 288,
     "id": "45410864",
     "title": "Madden NFL 09",
-    "updated": "2026-02-11T13:23:42Z",
+    "updated": "2026-05-12T17:22:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13457,7 +13499,7 @@
     "issue": 234,
     "id": "494707D4",
     "title": "Test Drive Unlimited",
-    "updated": "2026-05-09T00:58:47Z",
+    "updated": "2026-05-12T15:17:42Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15311,7 +15353,7 @@
     "issue": 111,
     "id": "4D530AA4",
     "title": "Forza Horizon 2",
-    "updated": "2026-04-05T03:34:18Z",
+    "updated": "2026-05-12T04:11:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15320,7 +15362,8 @@
       "others": [
         "kernel-unimplemented-feature",
         "tech-kinect-optional",
-        "requires_mount_cache"
+        "requires_mount_cache",
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/111"
@@ -15329,14 +15372,14 @@
     "issue": 109,
     "id": "54540809",
     "title": "NHL 2K8",
-    "updated": "2024-09-21T11:01:50Z",
+    "updated": "2026-05-12T18:03:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-silent"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/109"
@@ -16326,7 +16369,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-04-09T19:48:59Z",
+    "updated": "2026-05-12T04:11:13Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16337,7 +16380,8 @@
         "gpu-drawing-missing",
         "gpu-shader-errors",
         "tech-kinect-optional",
-        "requires_mount_cache"
+        "requires_mount_cache",
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/30"

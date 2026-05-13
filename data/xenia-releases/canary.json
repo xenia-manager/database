@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "f3086cf",
+    "target_commitish": "f3086cfcedaa88b522aa0de38864819963761db3",
+    "published_at": "2026-05-12T21:04:22Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f3086cf",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f3086cfcedaa88b522aa0de38864819963761db3",
+    "changelog": {
+      "title": "f3086cf_canary_experimental",
+      "changes": "- [Compilation] Fix Clang 23 (`f3086cf`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f4f8212...f3086cf"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f3086cf/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f3086cf/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "f4f8212",
     "target_commitish": "f4f821215e76e0994549aeda0a645198d4e4b26e",
     "published_at": "2026-05-12T11:32:24Z",
