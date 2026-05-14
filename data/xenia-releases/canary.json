@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "331ddf7",
+    "target_commitish": "331ddf79bf96e294702ecf310f62a618dd65ef63",
+    "published_at": "2026-05-13T18:37:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/331ddf7",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/331ddf79bf96e294702ecf310f62a618dd65ef63",
+    "changelog": {
+      "title": "331ddf7_canary_experimental",
+      "changes": "- [Kernel] KeGetImagePageTableEntry: Added bit 0 set (`331ddf7`)\n- [Kernel] Remove IsQueued check for DPC (`cdb88d0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f3086cf...331ddf7"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/331ddf7/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/331ddf7/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "f3086cf",
     "target_commitish": "f3086cfcedaa88b522aa0de38864819963761db3",
     "published_at": "2026-05-12T21:04:22Z",

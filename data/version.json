@@ -13,9 +13,9 @@
   },
   "xenia": {
     "canary": {
-      "tag_name": "f3086cf",
-      "date": "2026-05-12T21:04:22Z",
-      "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f3086cf/xenia_canary_windows.zip"
+      "tag_name": "331ddf7",
+      "date": "2026-05-13T18:37:59Z",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/download/331ddf7/xenia_canary_windows.zip"
     },
     "netplay": {
       "stable": {
@@ -24,9 +24,9 @@
         "url": "https://github.com/AdrianCassar/xenia-canary/releases/download/v5.0.0/xenia_canary_netplay_windows.zip"
       },
       "nightly": {
-        "tag_name": "0b8d32f",
-        "commit_sha": "0b8d32fa0319564257c5e6766a74f6bc88bb99d1",
-        "date": "2026-05-11T21:06:35Z",
+        "tag_name": "09983cf",
+        "commit_sha": "09983cf7706a63b4f37b24da5871c8c16b3a9924",
+        "date": "2026-05-13T22:05:56Z",
         "url": "https://nightly.link/AdrianCassar/xenia-canary/workflows/Windows_build/netplay_canary_experimental/xenia_canary_netplay_windows.zip"
       }
     },
@@ -37,9 +37,9 @@
         "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/may-2-2026/xenia-canary-mousehook.zip"
       },
       "netplay": {
-        "tag_name": "netplay-net-enable-xhttp-by-default-avatar-editor",
-        "date": "2026-05-06T14:02:30Z",
-        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/netplay-net-enable-xhttp-by-default-avatar-editor/xenia_canary_netplay.zip"
+        "tag_name": "netplay-fixed-xamreadtiletotexture-not-resolving-gamer-picture",
+        "date": "2026-05-13T20:01:51Z",
+        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/netplay-fixed-xamreadtiletotexture-not-resolving-gamer-picture/xenia_canary_netplay.zip"
       }
     }
   }

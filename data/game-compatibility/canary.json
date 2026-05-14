@@ -1,13 +1,29 @@
 [
   {
-    "issue": 1114,
-    "id": "454109C9",
-    "title": "Plants vs Zombies Garden Warfare",
-    "updated": "2026-05-13T03:12:13Z",
+    "issue": 1115,
+    "id": "58410A78",
+    "title": "Guwange",
+    "updated": "2026-05-14T01:40:31Z",
     "state": "Unknown",
     "labels": {
       "state": [],
       "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1115"
+  },
+  {
+    "issue": 1114,
+    "id": "454109C9",
+    "title": "Plants vs Zombies Garden Warfare",
+    "updated": "2026-05-13T10:34:15Z",
+    "state": "Loads",
+    "labels": {
+      "state": [
+        "state-intro"
+      ],
+      "others": [
+        "crash-always"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1114"
   },
@@ -15,11 +31,15 @@
     "issue": 1113,
     "id": "4B4D0800",
     "title": "Saints Row Gat Out of Hell",
-    "updated": "2026-05-12T19:51:45Z",
-    "state": "Unknown",
+    "updated": "2026-05-13T18:20:27Z",
+    "state": "Loads",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-menus"
+      ],
+      "others": [
+        "xam-live-signin-required"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1113"
   },
@@ -102,7 +122,7 @@
     "issue": 1107,
     "id": "545108AF",
     "title": "Wheel of Fortune",
-    "updated": "2026-05-09T03:50:57Z",
+    "updated": "2026-05-13T15:21:54Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -1406,11 +1426,11 @@
     "issue": 1004,
     "id": "4E4D07F5",
     "title": "Dead to Rights: Retribution",
-    "updated": "2026-02-05T12:09:12Z",
-    "state": "Gameplay",
+    "updated": "2026-05-13T19:46:42Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": []
     },
@@ -4161,11 +4181,11 @@
     "issue": 824,
     "id": "425307F5",
     "title": "Wolfenstein: The New Order",
-    "updated": "2026-05-08T22:44:20Z",
-    "state": "Loads",
+    "updated": "2026-05-14T01:15:37Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-title"
+        "state-gameplay"
       ],
       "others": [
         "gpu-drawing-corrupt",
@@ -5124,13 +5144,15 @@
     "issue": 760,
     "id": "4541099D",
     "title": "Dead Space 3",
-    "updated": "2026-01-19T16:32:37Z",
+    "updated": "2026-05-13T19:58:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-occlusion-query"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/760"
   },
@@ -5185,13 +5207,15 @@
     "issue": 756,
     "id": "434307EC",
     "title": "Dead Rising 2",
-    "updated": "2026-04-29T13:05:16Z",
+    "updated": "2026-05-13T20:01:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "apu-garbage"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/756"
   },
@@ -5199,14 +5223,16 @@
     "issue": 755,
     "id": "434307D2",
     "title": "Dead Rising",
-    "updated": "2026-04-29T11:27:49Z",
+    "updated": "2026-05-13T20:02:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt"
+        "gpu-drawing-corrupt",
+        "apu-garbage",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/755"
@@ -5294,14 +5320,15 @@
     "issue": 749,
     "id": "4E4D0859",
     "title": "Tekken Tag Tournament 2",
-    "updated": "2026-05-08T21:41:49Z",
+    "updated": "2026-05-13T20:03:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage"
+        "apu-garbage",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/749"
@@ -5438,13 +5465,15 @@
     "issue": 739,
     "id": "415607D4",
     "title": "Tony Hawk's American Wasteland",
-    "updated": "2025-08-04T19:54:32Z",
+    "updated": "2026-05-13T20:06:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "vsync-off-speedup"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/739"
   },
@@ -6478,7 +6507,7 @@
     "issue": 666,
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
-    "updated": "2026-05-12T12:19:49Z",
+    "updated": "2026-05-13T20:10:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6540,7 +6569,7 @@
     "issue": 662,
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "updated": "2026-05-07T21:18:35Z",
+    "updated": "2026-05-13T20:13:01Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6649,13 +6678,15 @@
     "issue": 655,
     "id": "475007D4",
     "title": "Section 8",
-    "updated": "2025-07-08T05:42:03Z",
+    "updated": "2026-05-13T20:13:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-occlusion-query"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/655"
   },
@@ -7820,7 +7851,7 @@
     "issue": 573,
     "id": "454108B4",
     "title": "Need for Speed Shift",
-    "updated": "2025-05-23T13:43:56Z",
+    "updated": "2026-05-14T02:25:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12057,7 +12088,7 @@
     "issue": 319,
     "id": "45410813",
     "title": "Skate.",
-    "updated": "2026-02-14T17:27:51Z",
+    "updated": "2026-05-13T17:24:47Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13539,7 +13570,7 @@
     "issue": 232,
     "id": "415608CB",
     "title": "Call Of Duty: Modern Warfare 3",
-    "updated": "2026-05-08T13:06:04Z",
+    "updated": "2026-05-14T02:14:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15037,7 +15068,7 @@
     "issue": 136,
     "id": "534507E3",
     "title": "Phantasy Star Universe",
-    "updated": "2024-09-26T11:29:47Z",
+    "updated": "2026-05-13T13:46:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15213,13 +15244,14 @@
     "issue": 122,
     "id": "4E4D07D8",
     "title": "Afro Samurai",
-    "updated": "2024-09-26T11:19:57Z",
+    "updated": "2026-05-13T13:36:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "apu-garbage",
         "vsync-off-speedup"
       ]
     },
@@ -15477,7 +15509,7 @@
     "issue": 103,
     "id": "555308B6",
     "title": "Tom Clancy's Splinter Cell: Blacklist",
-    "updated": "2024-09-26T10:29:48Z",
+    "updated": "2026-05-13T12:54:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15539,7 +15571,7 @@
     "issue": 98,
     "id": "41560855",
     "title": "Call of Duty: Black Ops",
-    "updated": "2026-05-08T10:54:59Z",
+    "updated": "2026-05-14T02:19:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15622,7 +15654,7 @@
     "issue": 87,
     "id": "55530825",
     "title": "Naruto: The Broken Bond",
-    "updated": "2024-09-21T12:56:26Z",
+    "updated": "2026-05-13T11:46:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15633,7 +15665,8 @@
         "apu-slow",
         "apu-garbage",
         "cpu-jit-problems",
-        "tech-engine-jade"
+        "tech-engine-jade",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/87"
@@ -15697,7 +15730,7 @@
     "issue": 81,
     "id": "45410821",
     "title": "Tiger Woods PGA Tour 08",
-    "updated": "2024-09-26T10:16:54Z",
+    "updated": "2026-05-13T11:59:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15705,7 +15738,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "apu-silent",
         "marketplace-nodownload",
         "gpu-readback"
       ]
@@ -15886,14 +15918,13 @@
     "issue": 65,
     "id": "545407D8",
     "title": "Bioshock",
-    "updated": "2024-09-26T08:06:14Z",
+    "updated": "2026-05-13T13:14:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage",
         "tech-engine-unreal"
       ]
     },
@@ -16114,7 +16145,7 @@
     "issue": 48,
     "id": "394F07D4",
     "title": "Diablo III: Reaper Of Souls",
-    "updated": "2025-06-16T01:36:23Z",
+    "updated": "2026-05-13T16:30:25Z",
     "state": "Playable",
     "labels": {
       "state": [
