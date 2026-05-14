@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "d1e5876",
+    "target_commitish": "d1e587617ad0ce5f45edfd18bea3cbf01beaf2ea",
+    "published_at": "2026-05-14T05:42:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d1e5876",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d1e587617ad0ce5f45edfd18bea3cbf01beaf2ea",
+    "changelog": {
+      "title": "d1e5876_canary_experimental",
+      "changes": "- [UI] Fallback to default button for XamShowMessageBoxUI (`d1e5876`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/331ddf7...d1e5876"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d1e5876/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d1e5876/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "331ddf7",
     "target_commitish": "331ddf79bf96e294702ecf310f62a618dd65ef63",
     "published_at": "2026-05-13T18:37:59Z",
