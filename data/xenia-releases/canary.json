@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "cebbdb6",
+    "target_commitish": "cebbdb6cacbb1916a1830a43cb156fa15b233761",
+    "published_at": "2026-05-14T21:26:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/cebbdb6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/cebbdb6cacbb1916a1830a43cb156fa15b233761",
+    "changelog": {
+      "title": "cebbdb6_canary_experimental",
+      "changes": "- [Kernel] Implemented XeCryptHmacShaInit, XeCryptHmacShaUpdate and XeCryptHmacShaFinal (`cebbdb6`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/fdbaaab...cebbdb6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cebbdb6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cebbdb6/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "fdbaaab",
+    "target_commitish": "fdbaaaba2146d056ada5f4f8952e52f311010945",
+    "published_at": "2026-05-14T20:33:11Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/fdbaaab",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/fdbaaaba2146d056ada5f4f8952e52f311010945",
+    "changelog": {
+      "title": "fdbaaab_canary_experimental",
+      "changes": "- [Kernel] Replace SHIM version of kernel strings with exports (`fdbaaab`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b575c68...fdbaaab"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fdbaaab/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fdbaaab/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "b575c68",
+    "target_commitish": "b575c684187d6a77a91cb8ff3297173326206a58",
+    "published_at": "2026-05-14T19:26:37Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b575c68",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b575c684187d6a77a91cb8ff3297173326206a58",
+    "changelog": {
+      "title": "b575c68_canary_experimental",
+      "changes": "- [XMA] Enhances the existing XmaContextNew implementation with one derived from the AC6_recomp RexGlue SDK. Key fixes versus the previous implementation: (`b575c68`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d1e5876...b575c68"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b575c68/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b575c68/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "d1e5876",
     "target_commitish": "d1e587617ad0ce5f45edfd18bea3cbf01beaf2ea",
     "published_at": "2026-05-14T05:42:24Z",
