@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "c2674b1",
+    "target_commitish": "c2674b19d2221a14023df7f16376c3a524b6f059",
+    "published_at": "2026-05-15T13:21:22Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c2674b1",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c2674b19d2221a14023df7f16376c3a524b6f059",
+    "changelog": {
+      "title": "c2674b1_canary_experimental",
+      "changes": "- [Vulkan] Drop vertex buffer residency cache, hoist global lock like D3D12 (`c2674b1`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b15fcc7...c2674b1"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c2674b1/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c2674b1/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "b15fcc7",
     "target_commitish": "b15fcc73e65e733df53be99b5f7da5e3f960b932",
     "published_at": "2026-05-15T08:49:45Z",
