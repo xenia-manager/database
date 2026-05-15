@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "b15fcc7",
+    "target_commitish": "b15fcc73e65e733df53be99b5f7da5e3f960b932",
+    "published_at": "2026-05-15T08:49:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b15fcc7",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b15fcc73e65e733df53be99b5f7da5e3f960b932",
+    "changelog": {
+      "title": "b15fcc7_canary_experimental",
+      "changes": "- [Vulkan] Route guest oDepth through gl_FragDepth in FBO and into FSI depth test (`b15fcc7`)\n- [XAM] Fixed XEX swap failing to remove prefix (`6181160`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/562aa0d...b15fcc7"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b15fcc7/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b15fcc7/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "562aa0d",
+    "target_commitish": "562aa0dd917b3773f41d6e41aba8840ace8e6991",
+    "published_at": "2026-05-15T07:27:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/562aa0d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/562aa0dd917b3773f41d6e41aba8840ace8e6991",
+    "changelog": {
+      "title": "562aa0d_canary_experimental",
+      "changes": "- [Vulkan] Only declare the clip-distance or cull-distance array that is written (`562aa0d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/02a2591...562aa0d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/562aa0d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/562aa0d/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "02a2591",
+    "target_commitish": "02a25912951c76637674fff40c9509d3055827fc",
+    "published_at": "2026-05-15T06:56:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/02a2591",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/02a25912951c76637674fff40c9509d3055827fc",
+    "changelog": {
+      "title": "02a2591_canary_experimental",
+      "changes": "- [Vulkan] Port ac6_ground_fix vertex-fetch nudge to SPIR-V (`02a2591`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/cebbdb6...02a2591"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/02a2591/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/02a2591/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "cebbdb6",
     "target_commitish": "cebbdb6cacbb1916a1830a43cb156fa15b233761",
     "published_at": "2026-05-14T21:26:15Z",
