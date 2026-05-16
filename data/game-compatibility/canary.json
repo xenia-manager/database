@@ -1,5 +1,35 @@
 [
   {
+    "issue": 1117,
+    "id": "DEADBEEF",
+    "title": "Justice League Arcade",
+    "updated": "2026-05-16T01:19:32Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "marketplace-unreleased"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1117"
+  },
+  {
+    "issue": 1116,
+    "id": "5841080C",
+    "title": "Space Giraffe",
+    "updated": "2026-05-15T18:25:11Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1116"
+  },
+  {
     "issue": 1115,
     "id": "58410A78",
     "title": "Guwange",
@@ -768,14 +798,15 @@
     "issue": 1059,
     "id": "5345085C",
     "title": "BINARY DOMAIN",
-    "updated": "2026-05-04T06:01:16Z",
+    "updated": "2026-05-15T23:28:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1059"
@@ -1070,14 +1101,15 @@
     "issue": 1033,
     "id": "465607F4",
     "title": "Disorder6",
-    "updated": "2026-03-30T06:35:50Z",
+    "updated": "2026-05-15T23:29:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1033"
@@ -2088,14 +2120,15 @@
     "issue": 957,
     "id": "4B4E0820",
     "title": "Def Jam: Rapstar",
-    "updated": "2025-11-14T13:57:53Z",
+    "updated": "2026-05-15T23:31:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/957"
@@ -2566,14 +2599,15 @@
     "issue": 926,
     "id": "4B5907E6",
     "title": "DARK",
-    "updated": "2026-03-28T21:05:00Z",
+    "updated": "2026-05-15T23:29:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/926"
@@ -2813,7 +2847,7 @@
     "issue": 910,
     "id": "45410830",
     "title": "Left 4 Dead",
-    "updated": "2026-05-09T00:02:45Z",
+    "updated": "2026-05-15T17:37:36Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5858,7 +5892,7 @@
     "issue": 713,
     "id": "584109AA",
     "title": "Islands of WAKFU",
-    "updated": "2026-02-03T18:46:19Z",
+    "updated": "2026-05-15T15:37:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6532,14 +6566,15 @@
     "issue": 666,
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
-    "updated": "2026-05-13T20:10:35Z",
+    "updated": "2026-05-15T23:26:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/666"
@@ -6562,14 +6597,15 @@
     "issue": 664,
     "id": "415608B2",
     "title": "Spider Man: Edge Of Time",
-    "updated": "2025-07-08T05:44:04Z",
+    "updated": "2026-05-15T23:32:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/664"
@@ -6594,14 +6630,15 @@
     "issue": 662,
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "updated": "2026-05-13T20:13:01Z",
+    "updated": "2026-05-15T23:26:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/662"
@@ -6610,14 +6647,15 @@
     "issue": 661,
     "id": "41560905",
     "title": "The Amazing Spider-Man 2",
-    "updated": "2026-05-07T21:20:17Z",
+    "updated": "2026-05-15T23:27:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/661"
@@ -6626,7 +6664,7 @@
     "issue": 660,
     "id": "5345082A",
     "title": "Aliens vs Predator",
-    "updated": "2026-02-03T18:48:34Z",
+    "updated": "2026-05-15T23:29:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6634,7 +6672,8 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "gpu-shader-errors"
+        "gpu-shader-errors",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/660"
@@ -7610,7 +7649,7 @@
     "issue": 593,
     "id": "45410934",
     "title": "Shift 2: Unleashed",
-    "updated": "2025-09-24T17:32:29Z",
+    "updated": "2026-05-15T23:31:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7618,7 +7657,8 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "backwards-compatibility-unsupported"
+        "backwards-compatibility-unsupported",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/593"
@@ -7875,7 +7915,7 @@
     "issue": 573,
     "id": "454108B4",
     "title": "Need for Speed Shift",
-    "updated": "2026-05-14T02:25:46Z",
+    "updated": "2026-05-15T23:25:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7884,7 +7924,8 @@
       "others": [
         "gpu-drawing-corrupt",
         "gpu-drawing-missing",
-        "backwards-compatibility-unsupported"
+        "backwards-compatibility-unsupported",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/573"
@@ -8224,7 +8265,7 @@
     "issue": 552,
     "id": "4D5309B1",
     "title": "Halo: Combat Evolved Anniversary",
-    "updated": "2026-05-12T17:11:39Z",
+    "updated": "2026-05-15T07:05:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9411,7 +9452,7 @@
     "issue": 477,
     "id": "5454086C",
     "title": "L.A. Noire - The Complete Edition",
-    "updated": "2026-05-08T11:43:09Z",
+    "updated": "2026-05-15T23:27:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9422,7 +9463,8 @@
         "gpu-drawing-missing",
         "tech-middleware-havok",
         "backwards-compatibility-unsupported",
-        "crash-always"
+        "crash-always",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/477"
@@ -10501,11 +10543,11 @@
     "issue": 413,
     "id": "4D5307D1",
     "title": "Project Gotham Racing 3",
-    "updated": "2026-04-07T17:27:35Z",
-    "state": "Gameplay",
+    "updated": "2026-05-15T16:52:00Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": []
     },
@@ -11467,7 +11509,7 @@
     "issue": 356,
     "id": "58410B3A",
     "title": "I Am Alive",
-    "updated": "2025-11-17T04:53:31Z",
+    "updated": "2026-05-15T23:30:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11478,7 +11520,8 @@
         "gpu-drawing-missing",
         "tech-engine-unreal",
         "tech-middleware-havok",
-        "tech-middleware-wwise"
+        "tech-middleware-wwise",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/356"
@@ -14051,7 +14094,7 @@
     "issue": 203,
     "id": "415607E2",
     "title": "Spider-Man 3",
-    "updated": "2025-11-21T14:39:42Z",
+    "updated": "2026-05-16T02:14:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14148,7 +14191,7 @@
     "issue": 196,
     "id": "5553080B",
     "title": "Tom Clancy\u2019s Splinter Cell: Conviction",
-    "updated": "2026-04-08T08:13:06Z",
+    "updated": "2026-05-15T23:28:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14158,7 +14201,8 @@
         "gpu-drawing-missing",
         "tech-engine-unreal",
         "tech-middleware-havok",
-        "tech-middleware-scaleform"
+        "tech-middleware-scaleform",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/196"
@@ -14447,7 +14491,7 @@
     "issue": 172,
     "id": "555307D7",
     "title": "Splinter Cell Double Agent",
-    "updated": "2026-04-04T10:31:13Z",
+    "updated": "2026-05-15T07:59:32Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14694,14 +14738,15 @@
     "issue": 157,
     "id": "58410A54",
     "title": "Radiant Silvergun",
-    "updated": "2024-09-27T05:57:17Z",
+    "updated": "2026-05-15T23:32:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/157"
@@ -15479,7 +15524,7 @@
     "issue": 103,
     "id": "555308B6",
     "title": "Tom Clancy's Splinter Cell: Blacklist",
-    "updated": "2026-05-13T12:54:54Z",
+    "updated": "2026-05-15T23:27:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15489,7 +15534,8 @@
         "gpu-drawing-missing",
         "tech-engine-unreal",
         "tech-kinect-optional",
-        "tech-middleware-havok"
+        "tech-middleware-havok",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/103"
@@ -15575,7 +15621,7 @@
     "issue": 92,
     "id": "FFFE07D1",
     "title": "Xbox 360 Dashboard",
-    "updated": "2025-10-28T18:06:51Z",
+    "updated": "2026-05-15T10:17:51Z",
     "state": "Unknown",
     "labels": {
       "state": [],
@@ -16214,7 +16260,7 @@
     "issue": 42,
     "id": "5454086B",
     "title": "Max Payne 3",
-    "updated": "2026-02-22T21:10:39Z",
+    "updated": "2026-05-15T23:30:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16223,7 +16269,8 @@
       "others": [
         "gpu-drawing-missing",
         "tech-engine-rage",
-        "tech-middleware-euphoria"
+        "tech-middleware-euphoria",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/42"
