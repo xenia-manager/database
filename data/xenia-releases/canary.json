@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "4c396fe",
+    "target_commitish": "4c396fe611b7feb580846d0f9b232d6a941a9152",
+    "published_at": "2026-05-17T09:09:08Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4c396fe",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/4c396fe611b7feb580846d0f9b232d6a941a9152",
+    "changelog": {
+      "title": "4c396fe_canary_experimental",
+      "changes": "- [XAM] Implemented XamGetLanguageLocaleFallbackString and XamGetLanguageTypeface (`4c396fe`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/dc4db67...4c396fe"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4c396fe/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4c396fe/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "dc4db67",
     "target_commitish": "dc4db67f9c4f4143adea3cdd05435476a7129652",
     "published_at": "2026-05-16T22:19:20Z",
