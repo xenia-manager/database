@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1118,
+    "id": "584109FF",
+    "title": "Plants vs Zombies",
+    "updated": "2026-05-16T07:43:19Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1118"
+  },
+  {
     "issue": 1117,
     "id": "DEADBEEF",
     "title": "Justice League Arcade",
@@ -1339,8 +1353,8 @@
   {
     "issue": 1015,
     "id": "504787D8",
-    "title": "PopCap Collection: Plants vs. Zombies",
-    "updated": "2026-05-08T17:42:06Z",
+    "title": "PopCap Collection",
+    "updated": "2026-05-16T16:12:48Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -1816,14 +1830,15 @@
     "issue": 978,
     "id": "55538899",
     "title": "Rayman Origins Demo",
-    "updated": "2025-12-24T21:39:40Z",
+    "updated": "2026-05-16T16:45:09Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "tech-engine-ubiart"
+        "tech-engine-ubiart",
+        "supports-1080p"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/978"
@@ -6630,7 +6645,7 @@
     "issue": 662,
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "updated": "2026-05-15T23:26:52Z",
+    "updated": "2026-05-16T07:34:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6664,7 +6679,7 @@
     "issue": 660,
     "id": "5345082A",
     "title": "Aliens vs Predator",
-    "updated": "2026-05-15T23:29:52Z",
+    "updated": "2026-05-16T10:28:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6672,8 +6687,7 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "gpu-shader-errors",
-        "gpu-drawing-black"
+        "gpu-shader-errors"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/660"
@@ -8248,11 +8262,11 @@
     "issue": 553,
     "id": "465607D1",
     "title": "Ketsui Kizuna Jigoku Tachi Extra",
-    "updated": "2025-04-27T20:24:21Z",
-    "state": "Loads",
+    "updated": "2026-05-16T04:00:20Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
         "kernel-save-file-errors",
@@ -9920,11 +9934,11 @@
     "issue": 450,
     "id": "4D5707D2",
     "title": "Stranglehold",
-    "updated": "2026-01-27T08:43:06Z",
-    "state": "Gameplay",
+    "updated": "2026-05-17T03:21:38Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-unreal",
@@ -12876,7 +12890,7 @@
     "issue": 277,
     "id": "584B8842",
     "title": "Xbox 360 Experience Disc Version 5.0 (Kiosk)(2009)",
-    "updated": "2024-10-28T18:01:54Z",
+    "updated": "2026-05-17T00:06:15Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -14191,7 +14205,7 @@
     "issue": 196,
     "id": "5553080B",
     "title": "Tom Clancy\u2019s Splinter Cell: Conviction",
-    "updated": "2026-05-15T23:28:47Z",
+    "updated": "2026-05-16T08:52:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14491,7 +14505,7 @@
     "issue": 172,
     "id": "555307D7",
     "title": "Splinter Cell Double Agent",
-    "updated": "2026-05-15T07:59:32Z",
+    "updated": "2026-05-16T09:08:53Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14500,8 +14514,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "tech-engine-unreal",
-        "tech-middleware-demonware",
-        "kernel-xex-switching"
+        "tech-middleware-demonware"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/172"

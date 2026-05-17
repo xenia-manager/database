@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "dc4db67",
+    "target_commitish": "dc4db67f9c4f4143adea3cdd05435476a7129652",
+    "published_at": "2026-05-16T22:19:20Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/dc4db67",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/dc4db67f9c4f4143adea3cdd05435476a7129652",
+    "changelog": {
+      "title": "dc4db67_canary_experimental",
+      "changes": "- [Kernel] - Change OddObj to X_DISPATCH_HEADER (`dc4db67`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c2674b1...dc4db67"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dc4db67/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dc4db67/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "c2674b1",
     "target_commitish": "c2674b19d2221a14023df7f16376c3a524b6f059",
     "published_at": "2026-05-15T13:21:22Z",
