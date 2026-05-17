@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "482629a",
+    "target_commitish": "482629a3b15f0a4c2f16e8085f54633ac1b6936a",
+    "published_at": "2026-05-17T15:57:36Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/482629a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/482629a3b15f0a4c2f16e8085f54633ac1b6936a",
+    "changelog": {
+      "title": "482629a_canary_experimental",
+      "changes": "- [XAM] Fixed issue with different param count in XamFormatDateString and XamFormatTimeString (`482629a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a261b83...482629a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/482629a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/482629a/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "a261b83",
+    "target_commitish": "a261b83def46351bb48c4ef30316872f008e9433",
+    "published_at": "2026-05-17T10:25:07Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a261b83",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a261b83def46351bb48c4ef30316872f008e9433",
+    "changelog": {
+      "title": "a261b83_canary_experimental",
+      "changes": "- [APP] Flush log & save config on quick exit (`a261b83`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4c396fe...a261b83"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a261b83/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a261b83/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "4c396fe",
     "target_commitish": "4c396fe611b7feb580846d0f9b232d6a941a9152",
     "published_at": "2026-05-17T09:09:08Z",
