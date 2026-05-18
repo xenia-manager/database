@@ -1,5 +1,37 @@
 [
   {
+    "issue": 1120,
+    "id": "4B4F07D5",
+    "title": "SAMURAI WARRIORS 2",
+    "updated": "2026-05-18T00:46:08Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "crash-always"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1120"
+  },
+  {
+    "issue": 1119,
+    "id": "4D530888",
+    "title": "Lips",
+    "updated": "2026-05-17T20:40:22Z",
+    "state": "Loads",
+    "labels": {
+      "state": [
+        "state-intro"
+      ],
+      "others": [
+        "tech-microphone-required"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1119"
+  },
+  {
     "issue": 1118,
     "id": "584109FF",
     "title": "Plants vs Zombies",
@@ -80,7 +112,7 @@
     "issue": 1113,
     "id": "4B4D0800",
     "title": "Saints Row Gat Out of Hell",
-    "updated": "2026-05-13T18:20:27Z",
+    "updated": "2026-05-18T01:52:38Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -313,7 +345,7 @@
     "issue": 1094,
     "id": "4541083A",
     "title": "Command & Conquer 3: Kane's Wrath",
-    "updated": "2026-05-08T11:12:00Z",
+    "updated": "2026-05-17T20:20:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -654,7 +686,7 @@
     "issue": 1071,
     "id": "555307D3",
     "title": "Peter Jacksons King Kong",
-    "updated": "2026-05-10T00:09:07Z",
+    "updated": "2026-05-17T20:45:07Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -1101,7 +1133,7 @@
     "issue": 1036,
     "id": "4541093E",
     "title": "Kingdoms of Amalur Reckoning",
-    "updated": "2026-03-30T06:36:20Z",
+    "updated": "2026-05-17T20:20:59Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1304,7 +1336,7 @@
     "issue": 1019,
     "id": "545408B6",
     "title": "WWE 2K15",
-    "updated": "2026-03-30T06:15:43Z",
+    "updated": "2026-05-17T20:55:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1431,7 +1463,7 @@
     "issue": 1009,
     "id": "434307FC",
     "title": "Ultra Street Fighter IV",
-    "updated": "2026-01-27T01:15:40Z",
+    "updated": "2026-05-17T20:23:31Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -1725,13 +1757,15 @@
     "issue": 988,
     "id": "535107DB",
     "title": "Infinite Undiscovery",
-    "updated": "2026-02-24T09:09:02Z",
+    "updated": "2026-05-17T20:54:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "cpu-jit-problems"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/988"
   },
@@ -2862,7 +2896,7 @@
     "issue": 910,
     "id": "45410830",
     "title": "Left 4 Dead",
-    "updated": "2026-05-15T17:37:36Z",
+    "updated": "2026-05-17T22:29:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4000,7 +4034,7 @@
     "issue": 839,
     "id": "425307D5",
     "title": "Fallout 3",
-    "updated": "2025-12-01T13:08:44Z",
+    "updated": "2026-05-17T20:19:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4863,7 +4897,7 @@
     "issue": 785,
     "id": "5553088C",
     "title": "Far Cry 3",
-    "updated": "2026-04-02T10:26:57Z",
+    "updated": "2026-05-17T21:32:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5509,8 +5543,8 @@
   {
     "issue": 741,
     "id": "5841124A",
-    "title": "Tony Hawk's PS HD",
-    "updated": "2025-08-04T19:55:06Z",
+    "title": "Tony Hawk's Pro Skater HD",
+    "updated": "2026-05-17T21:38:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5585,7 +5619,7 @@
     "issue": 736,
     "id": "4D5307DE",
     "title": "Too Human",
-    "updated": "2026-05-07T08:41:17Z",
+    "updated": "2026-05-17T21:40:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6439,13 +6473,15 @@
     "issue": 676,
     "id": "584109B2",
     "title": "Bomberman Battlefest",
-    "updated": "2025-07-20T19:07:51Z",
+    "updated": "2026-05-17T21:44:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "apu-silent"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/676"
   },
@@ -6581,7 +6617,7 @@
     "issue": 666,
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
-    "updated": "2026-05-15T23:26:22Z",
+    "updated": "2026-05-17T21:46:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6598,7 +6634,7 @@
     "issue": 665,
     "id": "415607FA",
     "title": "Spider-Man: Friend or Foe",
-    "updated": "2025-09-02T19:46:38Z",
+    "updated": "2026-05-17T21:45:57Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -6645,7 +6681,7 @@
     "issue": 662,
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "updated": "2026-05-16T07:34:57Z",
+    "updated": "2026-05-17T21:47:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6662,7 +6698,7 @@
     "issue": 661,
     "id": "41560905",
     "title": "The Amazing Spider-Man 2",
-    "updated": "2026-05-15T23:27:29Z",
+    "updated": "2026-05-17T21:47:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7283,7 +7319,7 @@
     "issue": 618,
     "id": "5841148E",
     "title": "Monster Jam Battlegrounds",
-    "updated": "2025-06-24T06:36:29Z",
+    "updated": "2026-05-17T22:01:41Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -7318,7 +7354,7 @@
     "issue": 616,
     "id": "58410A71",
     "title": "Dorito's Crash Course",
-    "updated": "2025-10-19T04:34:01Z",
+    "updated": "2026-05-17T22:00:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7497,7 +7533,7 @@
     "issue": 605,
     "id": "45410828",
     "title": "Mercenaries 2: World in Flames",
-    "updated": "2026-03-17T01:37:07Z",
+    "updated": "2026-05-17T22:04:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7795,7 +7831,7 @@
     "issue": 582,
     "id": "425607ED",
     "title": "Tron: Evolution",
-    "updated": "2026-05-14T12:47:35Z",
+    "updated": "2026-05-17T22:10:09Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -7968,7 +8004,7 @@
     "issue": 571,
     "id": "584108FF",
     "title": "Geometry Wars Retro Evolved\u00b2",
-    "updated": "2025-10-11T16:38:35Z",
+    "updated": "2026-05-17T22:13:43Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -7999,7 +8035,7 @@
     "issue": 569,
     "id": "545407E5",
     "title": "Civilization Revolution",
-    "updated": "2026-03-25T04:02:29Z",
+    "updated": "2026-05-17T22:15:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8140,7 +8176,7 @@
     "issue": 560,
     "id": "4F4807D1",
     "title": "NASCAR '15",
-    "updated": "2025-05-28T03:31:03Z",
+    "updated": "2026-05-17T22:17:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8197,7 +8233,7 @@
     "issue": 557,
     "id": "415608FA",
     "title": "Cabela's African Adventures",
-    "updated": "2025-05-06T06:14:29Z",
+    "updated": "2026-05-17T22:18:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8279,7 +8315,7 @@
     "issue": 552,
     "id": "4D5309B1",
     "title": "Halo: Combat Evolved Anniversary",
-    "updated": "2026-05-15T07:05:00Z",
+    "updated": "2026-05-17T22:19:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8317,7 +8353,7 @@
     "issue": 550,
     "id": "534507EE",
     "title": "Virtua Fighter 5",
-    "updated": "2025-08-25T23:12:14Z",
+    "updated": "2026-05-17T22:24:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8402,7 +8438,7 @@
     "issue": 545,
     "id": "584109E2",
     "title": "Earthworm Jim HD",
-    "updated": "2025-04-27T20:43:54Z",
+    "updated": "2026-05-17T22:25:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8435,7 +8471,7 @@
     "issue": 543,
     "id": "454107F8",
     "title": "Army of Two",
-    "updated": "2026-03-08T16:57:41Z",
+    "updated": "2026-05-17T22:24:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8517,7 +8553,7 @@
     "issue": 538,
     "id": "4D530805",
     "title": "Alan Wake",
-    "updated": "2026-03-23T08:39:11Z",
+    "updated": "2026-05-17T22:31:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8536,8 +8572,8 @@
   {
     "issue": 537,
     "id": "45410819",
-    "title": "Harry Potter OOTP",
-    "updated": "2025-03-27T07:38:47Z",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "updated": "2026-05-17T22:30:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8613,7 +8649,7 @@
     "issue": 532,
     "id": "545407E2",
     "title": "NBA 2K6",
-    "updated": "2025-03-23T18:30:44Z",
+    "updated": "2026-05-17T22:31:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9111,7 +9147,7 @@
     "issue": 501,
     "id": "4156084E",
     "title": "PROTOTYPE",
-    "updated": "2025-05-19T08:51:47Z",
+    "updated": "2026-05-17T22:41:53Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9289,7 +9325,7 @@
     "issue": 490,
     "id": "58410957",
     "title": "Call of Duty Classic",
-    "updated": "2026-05-09T16:22:26Z",
+    "updated": "2026-05-17T22:52:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9466,7 +9502,7 @@
     "issue": 477,
     "id": "5454086C",
     "title": "L.A. Noire - The Complete Edition",
-    "updated": "2026-05-15T23:27:57Z",
+    "updated": "2026-05-17T22:54:19Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9518,7 +9554,7 @@
     "issue": 474,
     "id": "545408A7",
     "title": "Grand Theft Auto V",
-    "updated": "2026-05-14T17:51:26Z",
+    "updated": "2026-05-18T02:02:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9614,7 +9650,7 @@
     "issue": 469,
     "id": "4E4D083D",
     "title": "Soulcalibur V",
-    "updated": "2025-10-02T20:06:49Z",
+    "updated": "2026-05-17T22:56:08Z",
     "state": "Unplayable",
     "labels": {
       "state": [
@@ -9645,7 +9681,7 @@
     "issue": 467,
     "id": "4E4D07E0",
     "title": "Soulcalibur IV",
-    "updated": "2025-10-02T20:05:51Z",
+    "updated": "2026-05-17T22:55:56Z",
     "state": "Unplayable",
     "labels": {
       "state": [
@@ -9694,11 +9730,11 @@
     "issue": 464,
     "id": "555307D5",
     "title": "Tom Clancy's Ghost Recon: Advanced Warfighter",
-    "updated": "2026-05-08T17:48:23Z",
-    "state": "Gameplay",
+    "updated": "2026-05-17T23:01:27Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt",
@@ -9802,7 +9838,7 @@
     "issue": 458,
     "id": "545407DF",
     "title": "Rockstar Games Presents Table Tennis",
-    "updated": "2026-04-22T02:28:10Z",
+    "updated": "2026-05-17T23:05:30Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -9834,7 +9870,7 @@
     "issue": 456,
     "id": "534507EF",
     "title": "Condemned 2: Bloodshot",
-    "updated": "2026-01-11T21:04:10Z",
+    "updated": "2026-05-17T23:06:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9951,7 +9987,7 @@
     "issue": 449,
     "id": "565507DA",
     "title": "TimeShift",
-    "updated": "2025-06-16T22:15:22Z",
+    "updated": "2026-05-17T23:08:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10078,11 +10114,11 @@
     "issue": 442,
     "id": "58410930",
     "title": "The Warriors: SB",
-    "updated": "2025-11-01T08:25:36Z",
-    "state": "Gameplay",
+    "updated": "2026-05-17T23:09:07Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "backwards-compatibility-unsupported"
@@ -10232,7 +10268,7 @@
     "issue": 433,
     "id": "4E4D07E4",
     "title": "Eternal Sonata",
-    "updated": "2026-04-07T17:22:13Z",
+    "updated": "2026-05-17T23:10:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10385,8 +10421,8 @@
   {
     "issue": 424,
     "id": "575207FD",
-    "title": "MKKE (Mortal Kombat Komplete Edition)",
-    "updated": "2026-01-31T22:31:11Z",
+    "title": "Mortal Kombat Komplete Edition",
+    "updated": "2026-05-17T23:18:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10457,7 +10493,7 @@
     "issue": 420,
     "id": "4541087F",
     "title": "Skate 2",
-    "updated": "2026-04-07T17:26:42Z",
+    "updated": "2026-05-17T23:24:36Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -10622,7 +10658,7 @@
     "issue": 409,
     "id": "4D53084D",
     "title": "Forza Motorsport 3",
-    "updated": "2025-12-24T08:58:40Z",
+    "updated": "2026-05-17T23:29:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10636,7 +10672,7 @@
     "issue": 408,
     "id": "4D5307EA",
     "title": "Forza Motorsport 2",
-    "updated": "2026-02-06T22:44:11Z",
+    "updated": "2026-05-17T23:30:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10667,7 +10703,7 @@
     "issue": 406,
     "id": "555307DC",
     "title": "Far Cry: Instincts Predator",
-    "updated": "2026-04-11T20:48:05Z",
+    "updated": "2026-05-17T23:32:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10683,7 +10719,7 @@
     "issue": 405,
     "id": "454109F4",
     "title": "FIFA 17",
-    "updated": "2026-03-10T02:15:42Z",
+    "updated": "2026-05-17T23:32:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10913,7 +10949,7 @@
     "issue": 393,
     "id": "4B4D07F5",
     "title": "Metro Last Light",
-    "updated": "2026-03-08T16:58:25Z",
+    "updated": "2026-05-17T23:33:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11016,7 +11052,7 @@
     "issue": 387,
     "id": "54510842",
     "title": "Metro 2033",
-    "updated": "2026-05-07T21:21:41Z",
+    "updated": "2026-05-17T23:34:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11316,7 +11352,7 @@
     "issue": 369,
     "id": "454108A8",
     "title": "Battlefield: Bad Company 2",
-    "updated": "2026-05-08T11:00:17Z",
+    "updated": "2026-05-17T23:36:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11398,7 +11434,7 @@
     "issue": 364,
     "id": "454109A9",
     "title": "Tiger Woods PGA Tour 14: Masters Historic Edition",
-    "updated": "2025-11-23T04:41:18Z",
+    "updated": "2026-05-17T23:37:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11636,7 +11672,7 @@
     "issue": 349,
     "id": "454108E6",
     "title": "Skate 3",
-    "updated": "2025-12-08T21:38:01Z",
+    "updated": "2026-05-17T23:39:23Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -11857,7 +11893,7 @@
     "issue": 337,
     "id": "434307D4",
     "title": "Resident Evil 5",
-    "updated": "2026-04-20T21:58:58Z",
+    "updated": "2026-05-17T23:41:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11877,11 +11913,11 @@
     "issue": 336,
     "id": "58410B7A",
     "title": "Bloodforge",
-    "updated": "2025-11-08T17:21:46Z",
-    "state": "Gameplay",
+    "updated": "2026-05-17T23:41:58Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-unreal",
@@ -11983,14 +12019,13 @@
     "issue": 329,
     "id": "573607E3",
     "title": "Rugby World Cup 2015",
-    "updated": "2024-12-25T21:34:58Z",
+    "updated": "2026-05-17T23:43:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-silent",
         "cpu-unimplemented-instruction",
         "tech-engine-unity",
         "backwards-compatibility-unsupported"
@@ -12036,7 +12071,7 @@
     "issue": 326,
     "id": "434D0819",
     "title": "DiRT 2",
-    "updated": "2026-05-07T21:17:59Z",
+    "updated": "2026-05-17T23:44:45Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12108,7 +12143,7 @@
     "issue": 322,
     "id": "41560914",
     "title": "Call of Duty: Advanced Warfare",
-    "updated": "2026-02-04T03:49:26Z",
+    "updated": "2026-05-17T23:45:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12208,7 +12243,7 @@
     "issue": 316,
     "id": "534507D2",
     "title": "Condemned: Criminal Origins",
-    "updated": "2025-06-21T22:45:53Z",
+    "updated": "2026-05-17T23:49:30Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12222,7 +12257,7 @@
     "issue": 315,
     "id": "434D07D8",
     "title": "ICC Cricket 2007",
-    "updated": "2024-12-02T14:26:42Z",
+    "updated": "2026-05-17T23:49:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12426,7 +12461,7 @@
     "issue": 303,
     "id": "54510850",
     "title": "SpongeBob's Truth or Square",
-    "updated": "2025-12-04T08:01:36Z",
+    "updated": "2026-05-17T23:51:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12651,7 +12686,7 @@
     "issue": 291,
     "id": "45410820",
     "title": "NHL 08",
-    "updated": "2025-08-15T05:58:13Z",
+    "updated": "2026-05-17T23:52:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13026,7 +13061,7 @@
     "issue": 269,
     "id": "4B4E07E6",
     "title": "PES 2008: Pro Evolution Soccer",
-    "updated": "2024-10-30T11:54:35Z",
+    "updated": "2026-05-17T23:54:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13127,11 +13162,11 @@
     "issue": 263,
     "id": "5345085E",
     "title": "Alien: Isolation",
-    "updated": "2026-04-29T00:08:25Z",
-    "state": "Loads",
+    "updated": "2026-05-17T20:54:35Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-intro"
+        "state-gameplay"
       ],
       "others": [
         "kernel-unimplemented-feature",
@@ -13239,7 +13274,7 @@
     "issue": 257,
     "id": "454109E0",
     "title": "Battlefield Hardline",
-    "updated": "2026-05-08T22:47:35Z",
+    "updated": "2026-05-17T23:57:40Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -13260,7 +13295,7 @@
     "issue": 256,
     "id": "454107E9",
     "title": "The Godfather",
-    "updated": "2026-05-07T23:35:43Z",
+    "updated": "2026-05-17T23:58:19Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13319,7 +13354,7 @@
     "issue": 253,
     "id": "5841095A",
     "title": "Trials HD",
-    "updated": "2026-05-08T10:56:37Z",
+    "updated": "2026-05-17T23:59:29Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13401,7 +13436,7 @@
     "issue": 248,
     "id": "454107EC",
     "title": "Need for Speed: Carbon",
-    "updated": "2026-05-09T13:46:25Z",
+    "updated": "2026-05-17T21:04:43Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13562,7 +13597,7 @@
     "issue": 236,
     "id": "4C4107F3",
     "title": "LEGO Star Wars III - The Clone Wars",
-    "updated": "2026-01-05T12:20:08Z",
+    "updated": "2026-05-18T00:01:21Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -13581,7 +13616,7 @@
     "issue": 235,
     "id": "4541080F",
     "title": "The Orange Box",
-    "updated": "2026-03-29T22:55:05Z",
+    "updated": "2026-05-18T00:02:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13603,7 +13638,7 @@
     "issue": 234,
     "id": "494707D4",
     "title": "Test Drive Unlimited",
-    "updated": "2026-05-12T15:17:42Z",
+    "updated": "2026-05-18T00:03:50Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13620,7 +13655,7 @@
     "issue": 233,
     "id": "415608EC",
     "title": "Deadpool",
-    "updated": "2026-05-14T12:39:46Z",
+    "updated": "2026-05-18T00:04:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13678,7 +13713,7 @@
     "issue": 229,
     "id": "545407EE",
     "title": "The Darkness",
-    "updated": "2026-04-28T17:59:15Z",
+    "updated": "2026-05-18T00:05:39Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13692,11 +13727,11 @@
     "issue": 228,
     "id": "415608AA",
     "title": "X-Men - Destiny",
-    "updated": "2025-05-12T20:43:53Z",
-    "state": "Gameplay",
+    "updated": "2026-05-18T00:06:29Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": []
     },
@@ -13757,7 +13792,7 @@
     "issue": 224,
     "id": "54510848",
     "title": "Cars Race O Rama",
-    "updated": "2026-03-11T19:25:10Z",
+    "updated": "2026-05-18T00:08:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13765,7 +13800,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-shader-errors"
+        "gpu-shader-errors",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/224"
@@ -13824,7 +13860,7 @@
     "issue": 220,
     "id": "4E4D0801",
     "title": "Inversion",
-    "updated": "2026-05-15T01:21:01Z",
+    "updated": "2026-05-18T00:10:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13844,7 +13880,7 @@
     "issue": 219,
     "id": "45410809",
     "title": "The Simpsons Game",
-    "updated": "2026-05-14T17:37:07Z",
+    "updated": "2026-05-18T00:13:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13862,7 +13898,7 @@
     "issue": 218,
     "id": "584107F8",
     "title": "Lumines Live!",
-    "updated": "2025-05-15T07:41:38Z",
+    "updated": "2026-05-18T00:14:01Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13878,7 +13914,7 @@
     "issue": 217,
     "id": "425307DB",
     "title": "WET",
-    "updated": "2026-05-11T20:36:21Z",
+    "updated": "2026-05-18T00:14:55Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13915,7 +13951,7 @@
     "issue": 215,
     "id": "4D530877",
     "title": "Halo 3: ODST",
-    "updated": "2026-04-04T18:06:53Z",
+    "updated": "2026-05-18T00:18:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14965,7 +15001,7 @@
     "issue": 145,
     "id": "545407F8",
     "title": "Midnight Club: Los Angeles",
-    "updated": "2026-05-12T00:08:04Z",
+    "updated": "2026-05-17T20:49:20Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14986,14 +15022,15 @@
     "issue": 143,
     "id": "535107E4",
     "title": "Final Fantasy XIII",
-    "updated": "2024-09-28T04:42:30Z",
+    "updated": "2026-05-17T16:00:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-crystaltools"
+        "tech-engine-crystaltools",
+        "gpu-driver-issues-amd"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/143"
@@ -15634,7 +15671,7 @@
     "issue": 92,
     "id": "FFFE07D1",
     "title": "Xbox 360 Dashboard",
-    "updated": "2026-05-15T10:17:51Z",
+    "updated": "2026-05-17T11:50:30Z",
     "state": "Unknown",
     "labels": {
       "state": [],
@@ -15722,7 +15759,7 @@
     "issue": 85,
     "id": "5451085D",
     "title": "WWE Smackdown VS Raw 2011",
-    "updated": "2026-04-18T03:12:41Z",
+    "updated": "2026-05-17T16:20:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16239,7 +16276,7 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-05-08T14:15:42Z",
+    "updated": "2026-05-17T22:01:50Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16636,7 +16673,7 @@
     "issue": 14,
     "id": "545407F2",
     "title": "Grand Theft Auto IV",
-    "updated": "2026-03-08T11:46:49Z",
+    "updated": "2026-05-17T20:16:54Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16766,7 +16803,7 @@
     "issue": 4,
     "id": "4D5307FA",
     "title": "Lost Odyssey",
-    "updated": "2026-02-27T14:03:08Z",
+    "updated": "2026-05-18T02:10:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
