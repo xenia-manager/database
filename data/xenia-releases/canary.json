@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "99ea6da",
+    "target_commitish": "99ea6da18a8902efd2644ce4789f09f39dd3db99",
+    "published_at": "2026-05-19T06:12:27Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/99ea6da",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/99ea6da18a8902efd2644ce4789f09f39dd3db99",
+    "changelog": {
+      "title": "99ea6da_canary_experimental",
+      "changes": "- [XConfig] Implementation of XConfig (`99ea6da`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f88bfbe...99ea6da"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/99ea6da/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/99ea6da/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "f88bfbe",
     "target_commitish": "f88bfbe41edf93a13d7835dd54ce167e14886357",
     "published_at": "2026-05-18T19:08:56Z",
