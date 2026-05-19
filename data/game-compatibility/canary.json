@@ -3,7 +3,7 @@
     "issue": 1120,
     "id": "4B4F07D5",
     "title": "SAMURAI WARRIORS 2",
-    "updated": "2026-05-18T00:46:08Z",
+    "updated": "2026-05-18T20:32:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7454,14 +7454,17 @@
   {
     "issue": 610,
     "id": "41560834",
-    "title": "Transformers 2 (Revenge Of The Fallen)",
-    "updated": "2026-03-28T08:51:25Z",
+    "title": "Transformers Revenge Of The Fallen",
+    "updated": "2026-05-18T23:23:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/610"
   },
@@ -10784,7 +10787,7 @@
     "issue": 402,
     "id": "4156089C",
     "title": "Transformers: Fall of Cybertron",
-    "updated": "2026-05-14T12:49:35Z",
+    "updated": "2026-05-18T21:57:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10796,7 +10799,8 @@
         "tech-middleware-demonware",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "gpu-occlusion-query",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/402"

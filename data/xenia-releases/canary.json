@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "f88bfbe",
+    "target_commitish": "f88bfbe41edf93a13d7835dd54ce167e14886357",
+    "published_at": "2026-05-18T19:08:56Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f88bfbe",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f88bfbe41edf93a13d7835dd54ce167e14886357",
+    "changelog": {
+      "title": "f88bfbe_canary_experimental",
+      "changes": "- [Xam/Content] - Implement XamContentCreateEnumeratorInternal (`f88bfbe`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/ef67d1c...f88bfbe"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f88bfbe/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f88bfbe/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "ef67d1c",
+    "target_commitish": "ef67d1ca3f0c63ec3e47ee43fd278d0ab83de6ad",
+    "published_at": "2026-05-18T18:20:16Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/ef67d1c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/ef67d1ca3f0c63ec3e47ee43fd278d0ab83de6ad",
+    "changelog": {
+      "title": "ef67d1c_canary_experimental",
+      "changes": "- [SMC] Removed std::bind usage in favor of lambda (`ef67d1c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/482629a...ef67d1c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ef67d1c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ef67d1c/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "482629a",
     "target_commitish": "482629a3b15f0a4c2f16e8085f54633ac1b6936a",
     "published_at": "2026-05-17T15:57:36Z",
