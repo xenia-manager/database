@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "a11908f",
+    "target_commitish": "a11908fa76eecef7ae7405e0e3ca8f25e622fc81",
+    "published_at": "2026-05-19T21:52:04Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a11908f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a11908fa76eecef7ae7405e0e3ca8f25e622fc81",
+    "changelog": {
+      "title": "a11908f_canary_experimental",
+      "changes": "- [XAM] Enable storing IPTV name. (`a11908f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/072ef7e...a11908f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a11908f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a11908f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "072ef7e",
+    "target_commitish": "072ef7eff7e152e2276342f8472dfa49228cac74",
+    "published_at": "2026-05-19T21:01:32Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/072ef7e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/072ef7eff7e152e2276342f8472dfa49228cac74",
+    "changelog": {
+      "title": "072ef7e_canary_experimental",
+      "changes": "- [XAM] Implemented XamGetOnlineLanguageAndCountry (`072ef7e`)\n- [UI] Listed extended languages (`9ce91e5`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/99ea6da...072ef7e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/072ef7e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/072ef7e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "99ea6da",
     "target_commitish": "99ea6da18a8902efd2644ce4789f09f39dd3db99",
     "published_at": "2026-05-19T06:12:27Z",
