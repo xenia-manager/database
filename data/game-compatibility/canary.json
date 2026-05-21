@@ -17,7 +17,7 @@
     "issue": 1120,
     "id": "4B4F07D5",
     "title": "SAMURAI WARRIORS 2",
-    "updated": "2026-05-19T09:44:31Z",
+    "updated": "2026-05-20T05:54:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -625,7 +625,7 @@
     "issue": 1076,
     "id": "584107ED",
     "title": "Geometry Wars Evolved",
-    "updated": "2026-05-04T06:14:40Z",
+    "updated": "2026-05-21T01:42:08Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -838,6 +838,23 @@
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1063"
   },
   {
+    "issue": 1062,
+    "id": "4156081A",
+    "title": "Guitar Hero World Tour",
+    "updated": "2026-05-21T00:50:48Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "apu-slow",
+        "apu-garbage"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1062"
+  },
+  {
     "issue": 1061,
     "id": "4B5607D4",
     "title": "Ninja Gaiden 3",
@@ -875,7 +892,7 @@
     "issue": 1058,
     "id": "4B5607E8",
     "title": "Dead or Alive 5 Ultimate",
-    "updated": "2026-05-10T10:39:15Z",
+    "updated": "2026-05-21T01:42:39Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -1002,6 +1019,20 @@
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1049"
+  },
+  {
+    "issue": 1048,
+    "id": "464F07D8",
+    "title": "Naughty Bear",
+    "updated": "2026-05-21T00:51:55Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1048"
   },
   {
     "issue": 1047,
@@ -1535,7 +1566,7 @@
     "issue": 1004,
     "id": "4E4D07F5",
     "title": "Dead to Rights: Retribution",
-    "updated": "2026-05-13T19:46:42Z",
+    "updated": "2026-05-21T01:43:16Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -4066,7 +4097,7 @@
     "issue": 838,
     "id": "4B4F07D7",
     "title": "Fatal Inertia",
-    "updated": "2026-01-25T21:09:57Z",
+    "updated": "2026-05-20T21:11:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4074,7 +4105,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "cpu-timing",
         "tech-engine-unreal",
         "backwards-compatibility-unsupported"
       ]
@@ -4930,14 +4960,13 @@
     "issue": 784,
     "id": "4541080E",
     "title": "Command & Conquer 3: Tiberium Wars",
-    "updated": "2025-08-06T00:30:22Z",
+    "updated": "2026-05-20T16:33:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-silent",
         "apu-garbage"
       ]
     },
@@ -7519,7 +7548,7 @@
     "issue": 607,
     "id": "415608FC",
     "title": "Call of Duty: Ghosts",
-    "updated": "2026-05-08T17:33:24Z",
+    "updated": "2026-05-20T22:51:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7665,7 +7694,7 @@
     "issue": 597,
     "id": "4E4D083A",
     "title": "Dark Souls",
-    "updated": "2025-06-13T00:37:55Z",
+    "updated": "2026-05-21T01:55:22Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -7673,7 +7702,8 @@
       ],
       "others": [
         "tech-middleware-havok",
-        "gpu-readback"
+        "gpu-readback",
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/597"
@@ -7766,17 +7796,17 @@
     "issue": 587,
     "id": "4156081F",
     "title": "James Bond 007 Blood Stone",
-    "updated": "2026-02-17T07:44:25Z",
+    "updated": "2026-05-20T21:31:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-shader-errors",
         "tech-engine-bespoke",
         "gpu-readback",
-        "backwards-compatibility-unsupported"
+        "backwards-compatibility-unsupported",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/587"
@@ -7848,7 +7878,7 @@
     "issue": 582,
     "id": "425607ED",
     "title": "Tron: Evolution",
-    "updated": "2026-05-17T22:10:09Z",
+    "updated": "2026-05-21T01:56:34Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -8071,7 +8101,7 @@
     "issue": 568,
     "id": "464507DD",
     "title": "Bound by Flame",
-    "updated": "2025-10-30T10:19:18Z",
+    "updated": "2026-05-20T21:19:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8079,7 +8109,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "cpu-jit-problems",
         "tech-engine-phyre",
         "tech-physics-physx"
       ]
@@ -8506,7 +8535,7 @@
     "issue": 542,
     "id": "4C4107D4",
     "title": "Fracture",
-    "updated": "2025-04-27T12:46:42Z",
+    "updated": "2026-05-21T02:00:19Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -8924,13 +8953,15 @@
     "issue": 516,
     "id": "454108CF",
     "title": "Dante's Inferno",
-    "updated": "2026-05-07T20:49:46Z",
+    "updated": "2026-05-21T02:02:33Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-missing"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/516"
   },
@@ -9342,7 +9373,7 @@
     "issue": 490,
     "id": "58410957",
     "title": "Call of Duty Classic",
-    "updated": "2026-05-17T22:52:37Z",
+    "updated": "2026-05-20T19:10:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9413,7 +9444,7 @@
     "issue": 485,
     "id": "425607D3",
     "title": "Turok",
-    "updated": "2026-01-25T21:10:26Z",
+    "updated": "2026-05-20T21:14:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9421,7 +9452,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "cpu-timing",
         "tech-engine-unreal",
         "backwards-compatibility-unsupported"
       ]
@@ -9502,15 +9532,16 @@
     "issue": 478,
     "id": "454107F7",
     "title": "NBA Street Homecourt",
-    "updated": "2026-03-10T19:13:15Z",
-    "state": "Unknown",
+    "updated": "2026-05-20T23:00:36Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": [
         "gpu-shader-errors",
         "backwards-compatibility-unsupported",
-        "supports-1080p",
-        "gpu-driver-issues-nvidia"
+        "supports-1080p"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/478"
@@ -9747,7 +9778,7 @@
     "issue": 464,
     "id": "555307D5",
     "title": "Tom Clancy's Ghost Recon: Advanced Warfighter",
-    "updated": "2026-05-17T23:01:27Z",
+    "updated": "2026-05-21T02:04:25Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -10610,7 +10641,7 @@
     "issue": 413,
     "id": "4D5307D1",
     "title": "Project Gotham Racing 3",
-    "updated": "2026-05-15T16:52:00Z",
+    "updated": "2026-05-21T02:14:03Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -11690,7 +11721,7 @@
     "issue": 349,
     "id": "454108E6",
     "title": "Skate 3",
-    "updated": "2026-05-17T23:39:23Z",
+    "updated": "2026-05-21T02:20:38Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -11837,7 +11868,7 @@
     "issue": 341,
     "id": "58410B52",
     "title": "Warhammer 40,000: Kill Team",
-    "updated": "2026-02-11T12:26:51Z",
+    "updated": "2026-05-20T21:14:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11845,7 +11876,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "cpu-timing",
         "tech-middleware-havok",
         "backwards-compatibility-unsupported",
         "vsync-off-speedup"
@@ -12161,7 +12191,7 @@
     "issue": 322,
     "id": "41560914",
     "title": "Call of Duty: Advanced Warfare",
-    "updated": "2026-05-17T23:45:48Z",
+    "updated": "2026-05-20T22:48:03Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12216,7 +12246,7 @@
     "issue": 319,
     "id": "45410813",
     "title": "Skate.",
-    "updated": "2026-05-13T17:24:47Z",
+    "updated": "2026-05-21T02:22:25Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13372,7 +13402,7 @@
     "issue": 253,
     "id": "5841095A",
     "title": "Trials HD",
-    "updated": "2026-05-17T23:59:29Z",
+    "updated": "2026-05-21T02:30:09Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13656,16 +13686,13 @@
     "issue": 234,
     "id": "494707D4",
     "title": "Test Drive Unlimited",
-    "updated": "2026-05-18T00:03:50Z",
+    "updated": "2026-05-20T21:37:06Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": [
-        "gpu-drawing-corrupt",
-        "gpu-shader-errors"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/234"
   },
@@ -14120,7 +14147,7 @@
     "issue": 207,
     "id": "544307D1",
     "title": "DEAD OR ALIVE 4",
-    "updated": "2026-03-31T09:34:51Z",
+    "updated": "2026-05-21T02:39:18Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14162,14 +14189,14 @@
     "issue": 203,
     "id": "415607E2",
     "title": "Spider-Man 3",
-    "updated": "2026-05-16T02:14:43Z",
+    "updated": "2026-05-20T21:50:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-shader-errors"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/203"
@@ -14380,7 +14407,7 @@
     "issue": 188,
     "id": "454107F9",
     "title": "Battlefield: Bad Company",
-    "updated": "2026-05-08T13:16:49Z",
+    "updated": "2026-05-21T02:43:21Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14438,7 +14465,7 @@
     "issue": 180,
     "id": "534507E6",
     "title": "Sega Rally (Sega Rally Revo)",
-    "updated": "2026-05-07T23:34:10Z",
+    "updated": "2026-05-21T02:45:04Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14559,7 +14586,7 @@
     "issue": 172,
     "id": "555307D7",
     "title": "Splinter Cell Double Agent",
-    "updated": "2026-05-16T09:08:53Z",
+    "updated": "2026-05-21T02:47:35Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14577,7 +14604,7 @@
     "issue": 171,
     "id": "58410A7A",
     "title": "Castlevania: Harmony of Despair",
-    "updated": "2026-04-08T01:26:46Z",
+    "updated": "2026-05-21T02:48:35Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14856,7 +14883,7 @@
     "issue": 154,
     "id": "4D5307E8",
     "title": "Mass Effect",
-    "updated": "2026-05-14T12:38:23Z",
+    "updated": "2026-05-21T02:49:09Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15099,15 +15126,13 @@
     "issue": 140,
     "id": "415607E6",
     "title": "Call of Duty 4: Modern Warfare",
-    "updated": "2026-05-08T13:32:27Z",
+    "updated": "2026-05-20T21:44:15Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-shader-errors",
         "tech-engine-iw",
         "tech-middleware-demonware"
       ]
@@ -15221,7 +15246,7 @@
     "issue": 130,
     "id": "53450812",
     "title": "Sonic Unleashed",
-    "updated": "2024-11-19T23:00:48Z",
+    "updated": "2026-05-20T21:22:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16053,18 +16078,16 @@
     "issue": 62,
     "id": "415608D8",
     "title": "007 Legends",
-    "updated": "2026-02-11T22:47:11Z",
+    "updated": "2026-05-20T21:46:40Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
-        "gpu-shader-errors",
         "tech-engine-iw",
-        "marketplace-nodownload"
+        "marketplace-nodownload",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/62"
@@ -16229,7 +16252,7 @@
     "issue": 48,
     "id": "394F07D4",
     "title": "Diablo III: Reaper Of Souls",
-    "updated": "2026-05-13T16:30:25Z",
+    "updated": "2026-05-21T02:51:53Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16259,7 +16282,7 @@
     "issue": 46,
     "id": "4D53082D",
     "title": "Gears of War 2",
-    "updated": "2026-05-08T14:13:39Z",
+    "updated": "2026-05-21T02:54:06Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16294,7 +16317,7 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-05-17T22:01:50Z",
+    "updated": "2026-05-21T02:55:39Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16486,7 +16509,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-05-19T19:12:13Z",
+    "updated": "2026-05-21T03:13:08Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16525,7 +16548,7 @@
     "issue": 28,
     "id": "454107D9",
     "title": "Need for Speed Most Wanted (2005)",
-    "updated": "2026-03-22T03:38:13Z",
+    "updated": "2026-05-20T21:24:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16600,7 +16623,7 @@
     "issue": 20,
     "id": "545107D1",
     "title": "Saints Row",
-    "updated": "2026-05-19T20:14:35Z",
+    "updated": "2026-05-21T03:17:11Z",
     "state": "Playable",
     "labels": {
       "state": [
