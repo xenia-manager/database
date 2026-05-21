@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "b2aa8b2",
+    "target_commitish": "b2aa8b200a1ca74f410a8c6ac6d710f2d24e36d5",
+    "published_at": "2026-05-21T06:05:21Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b2aa8b2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b2aa8b200a1ca74f410a8c6ac6d710f2d24e36d5",
+    "changelog": {
+      "title": "b2aa8b2_canary_experimental",
+      "changes": "- [BASE] Use FlushAllSinks instead of inline loop (`b2aa8b2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a11908f...b2aa8b2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b2aa8b2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b2aa8b2/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "a11908f",
     "target_commitish": "a11908fa76eecef7ae7405e0e3ca8f25e622fc81",
     "published_at": "2026-05-19T21:52:04Z",
