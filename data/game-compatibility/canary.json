@@ -3,13 +3,15 @@
     "issue": 1121,
     "id": "464F07D7",
     "title": "MorphX",
-    "updated": "2026-05-20T00:52:18Z",
+    "updated": "2026-05-22T01:47:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-shader-errors"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1121"
   },
@@ -2658,11 +2660,11 @@
     "issue": 929,
     "id": "555308D0",
     "title": "Rabbids Invasion: The Interactive TV Show",
-    "updated": "2026-01-21T06:39:10Z",
+    "updated": "2026-05-21T16:55:21Z",
     "state": "Loads",
     "labels": {
       "state": [
-        "state-load"
+        "state-intro"
       ],
       "others": [
         "tech-engine-unity",
@@ -3073,11 +3075,11 @@
     "issue": 902,
     "id": "5841096D",
     "title": "Texas Cheat'em",
-    "updated": "2025-10-11T16:34:10Z",
+    "updated": "2026-05-21T16:55:32Z",
     "state": "Loads",
     "labels": {
       "state": [
-        "state-load"
+        "state-intro"
       ],
       "others": [
         "tech-middleware-gamebryo",
@@ -3157,7 +3159,7 @@
     "issue": 897,
     "id": "58410982",
     "title": "Invincible Tiger",
-    "updated": "2026-01-21T06:35:08Z",
+    "updated": "2026-05-21T21:01:53Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4065,11 +4067,11 @@
     "issue": 840,
     "id": "454109AB",
     "title": "Army of Two: The Devil's Cartel",
-    "updated": "2026-05-14T12:59:38Z",
+    "updated": "2026-05-21T16:55:41Z",
     "state": "Loads",
     "labels": {
       "state": [
-        "state-load"
+        "state-intro"
       ],
       "others": []
     },
@@ -7245,14 +7247,15 @@
     "issue": 626,
     "id": "5451080D",
     "title": "Red Faction: Guerrilla",
-    "updated": "2025-11-27T14:17:28Z",
+    "updated": "2026-05-21T13:04:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-shader-errors"
+        "gpu-shader-errors",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/626"
@@ -8241,7 +8244,7 @@
     "issue": 559,
     "id": "545408B5",
     "title": "NBA 2K15",
-    "updated": "2025-05-18T08:48:35Z",
+    "updated": "2026-05-21T17:05:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8251,7 +8254,8 @@
         "gpu-drawing-corrupt",
         "apu-garbage",
         "cpu-jit-problems",
-        "backwards-compatibility-unsupported"
+        "backwards-compatibility-unsupported",
+        "crash-always"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/559"
@@ -8953,14 +8957,15 @@
     "issue": 516,
     "id": "454108CF",
     "title": "Dante's Inferno",
-    "updated": "2026-05-21T02:02:33Z",
+    "updated": "2026-05-21T13:19:03Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/516"
@@ -9760,11 +9765,11 @@
     "issue": 465,
     "id": "555307F0",
     "title": "Tom Clancy's Ghost Recon: Advanced Warfighter 2",
-    "updated": "2026-05-10T21:29:49Z",
-    "state": "Gameplay",
+    "updated": "2026-05-21T11:43:09Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-yeti",
@@ -10035,13 +10040,14 @@
     "issue": 449,
     "id": "565507DA",
     "title": "TimeShift",
-    "updated": "2026-05-17T23:08:00Z",
+    "updated": "2026-05-21T13:05:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-saber3d",
         "gpu-occlusion-query"
       ]
@@ -13268,7 +13274,7 @@
     "issue": 260,
     "id": "454107E6",
     "title": "2006 FIFA World Cup",
-    "updated": "2026-05-08T12:58:59Z",
+    "updated": "2026-05-21T16:40:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13645,7 +13651,7 @@
     "issue": 236,
     "id": "4C4107F3",
     "title": "LEGO Star Wars III - The Clone Wars",
-    "updated": "2026-05-18T00:01:21Z",
+    "updated": "2026-05-21T11:27:46Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -14975,7 +14981,7 @@
     "issue": 149,
     "id": "454107D2",
     "title": "Madden NFL 06",
-    "updated": "2026-05-14T11:41:56Z",
+    "updated": "2026-05-21T16:39:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15299,7 +15305,7 @@
     "issue": 127,
     "id": "454107D7",
     "title": "FIFA 06: Road to FIFA World Cup",
-    "updated": "2026-05-08T12:58:53Z",
+    "updated": "2026-05-21T16:39:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15388,14 +15394,13 @@
     "issue": 120,
     "id": "45410811",
     "title": "UEFA Champions League 2006\u20132007",
-    "updated": "2026-05-08T13:44:55Z",
+    "updated": "2026-05-22T03:39:01Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "regression",
         "crash-random"
       ]
     },
@@ -15857,11 +15862,11 @@
     "issue": 78,
     "id": "4D5307F9",
     "title": "Project Gotham Racing 4",
-    "updated": "2026-03-07T19:18:14Z",
-    "state": "Gameplay",
+    "updated": "2026-05-21T13:22:24Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-uses-xmp"
@@ -16233,7 +16238,7 @@
     "issue": 49,
     "id": "454107F1",
     "title": "NBA LIVE 07",
-    "updated": "2026-02-11T13:20:41Z",
+    "updated": "2026-05-21T18:24:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16317,7 +16322,7 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-05-21T02:55:39Z",
+    "updated": "2026-05-21T09:04:16Z",
     "state": "Playable",
     "labels": {
       "state": [
