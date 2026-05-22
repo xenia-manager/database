@@ -73,6 +73,7 @@ def fetch_xenia_manager_data():
         },
     }
 
+
 # ----- Canary (read from canary.json) -----
 def fetch_latest_canary(old_version=None):
     """Read the latest canary release from canary.json (already fetched by canary.py)."""
@@ -214,12 +215,13 @@ def fetch_mousehook_versions():
             "url": url,
         }
 
-    standard_rel = next(
-        (r for r in releases if "netplay" not in r["tag_name"].lower()), None
-    )
-    netplay_rel = next(
-        (r for r in releases if "netplay" in r["tag_name"].lower()), None
-    )
+    def is_netplay(rel):
+        tag = rel.get("tag_name", "").lower()
+        commitish = rel.get("target_commitish", "").lower()
+        return "netplay" in tag or "netplay" in commitish
+
+    standard_rel = next((r for r in releases if not is_netplay(r)), None)
+    netplay_rel = next((r for r in releases if is_netplay(r)), None)
     return {"standard": fmt(standard_rel), "netplay": fmt(netplay_rel)}
 
 
