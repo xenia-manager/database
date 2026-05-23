@@ -2,9 +2,9 @@ name: Database Updater
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at 00:00 (all updates)
-    - cron: "0 8 * * *" # Daily at 08:00 (version update only)
-    - cron: "0 16 * * *" # Daily at 16:00 (version update only)
+    - cron: "0 0 * * *" # Daily at 00:00
+    - cron: "0 8 * * *" # Daily at 08:00
+    - cron: "0 16 * * *" # Daily at 16:00
   workflow_dispatch:
     inputs:
       update_version:
@@ -43,70 +43,104 @@ env:
   XENIA_NETPLAY_REPO: AdrianCassar/Xenia-WebServices
 
 jobs:
-  update-database:
-    name: Update Database
+  canary-releases:
+    name: Canary Releases
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    if: |
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_canary_releases == 'true')
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           token: ${{ secrets.COMMIT_TOKEN }}
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
-
-      - name: Cache Python dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
-      - name: Install dependencies
-        run: |
+          python-version: "3.x"
+      - run: |
           python -m pip install --upgrade pip
-          pip install requests 'crawlee[all]'
-
-      - name: Update Xenia Canary Releases
-        if: |
-          github.event_name == 'schedule' ||
-          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_canary_releases == 'true')
+          pip install requests
+      - name: Update Canary Releases
         env:
           AUTH_TOKEN: ${{ secrets.CANARY_TOKEN }}
-        run: |
-          set -e
-          python scripts/releases-parser/canary.py
+        run: python scripts/releases-parser/canary.py
+      - uses: actions/upload-artifact@v7
+        with:
+          name: canary-releases
+          path: data/xenia-releases/canary.json
+          retention-days: 1
 
-      - name: Update Xenia & Xenia Manager Version
-        if: |
-          github.event_name == 'schedule' ||
-          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_version == 'true')
+  update-version:
+    name: Update Version
+    runs-on: ubuntu-latest
+    needs: canary-releases
+    if: |
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_version == 'true')
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+      - uses: actions/download-artifact@v8
+        with:
+          name: canary-releases
+      - run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      - name: Update Version
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: python scripts/update_versions.py
+      - uses: actions/upload-artifact@v7
+        with:
+          name: version-update
+          path: data/version.json
+          retention-days: 1
 
-      - name: Update Game Compatibility Database
-        if: |
-          (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
-          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_compatibility == 'true')
-        run: |
-          python scripts/game_compatibility.py --complete --debug
-          # Only run stable version on manual dispatch
-          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
-            python scripts/game_compatibility.py --stable --complete --debug
-          fi
+  update-compatibility:
+    name: Game Compatibility
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_compatibility == 'true')
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+      - run: |
+          python -m pip install --upgrade pip
+          pip install requests 'crawlee[all]'
+      - name: Update Canary Compatibility
         env:
           TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
+        run: python scripts/game_compatibility.py --complete --debug
+      - name: Update Stable Compatibility
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
+        run: python scripts/game_compatibility.py --stable --complete --debug
+      - uses: actions/upload-artifact@v7
+        with:
+          name: compatibility-update
+          path: data/game-compatibility/
+          retention-days: 1
 
-      - name: Update Game Patches
-        if: |
-          (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
-          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_patches == 'true')
+  update-patches:
+    name: Game Patches
+    runs-on: ubuntu-latest
+    if: |
+      (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_patches == 'true')
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+      - name: Fetch Patches
         env:
           AUTH_TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
         run: |
@@ -156,108 +190,150 @@ jobs:
             "https://api.github.com/repos/${{ env.XENIA_NETPLAY_REPO }}/contents/patches" \
             "data/patches/netplay.json" \
             "netplay"
+      - uses: actions/upload-artifact@v7
+        with:
+          name: patches-update
+          path: data/patches/
+          retention-days: 1
 
-      - name: Update SDL GameControllerDB
-        if: |
-          (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
-          (github.event_name == 'workflow_dispatch' && github.event.inputs.update_gamecontrollerdb == 'true')
-        run: |
+  update-gamecontrollerdb:
+    name: SDL GameControllerDB
+    runs-on: ubuntu-latest
+    if: |
+      (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_gamecontrollerdb == 'true')
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+      - run: |
           mkdir -p data
           curl -sSL "https://raw.githubusercontent.com/mdqinc/SDL_GameControllerDB/master/gamecontrollerdb.txt" -o data/gamecontrollerdb.txt
+      - uses: actions/upload-artifact@v7
+        with:
+          name: gamecontrollerdb-update
+          path: data/gamecontrollerdb.txt
+          retention-days: 1
 
+  update-launchbox-metadata:
+    name: Launchbox Metadata
+    runs-on: windows-latest
+    if: |
+      (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_launchbox_metadata == 'true')
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+      - run: pip install requests 'crawlee[all]'
+      - shell: pwsh
+        run: Invoke-WebRequest -Uri "https://gamesdb.launchbox-app.com/Metadata.zip" -OutFile "Metadata.zip"
+      - shell: pwsh
+        run: Expand-Archive -Path "Metadata.zip" -DestinationPath "Metadata" -Force
+      - run: python scripts/launchbox_metadata.py --debug
+      - uses: actions/upload-artifact@v7
+        with:
+          name: launchbox-update
+          path: data/metadata/launchbox/
+          retention-days: 1
+      - shell: pwsh
+        run: |
+          Remove-Item -Path "Metadata.zip" -Force
+          Remove-Item -Path "Metadata" -Recurse -Force
+
+  commit-changes:
+    name: Commit Changes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    needs:
+      - canary-releases
+      - update-version
+      - update-compatibility
+      - update-patches
+      - update-gamecontrollerdb
+      - update-launchbox-metadata
+    if: |
+      always() && (
+        needs.canary-releases.result == 'success' ||
+        needs.update-version.result == 'success' ||
+        needs.update-compatibility.result == 'success' ||
+        needs.update-patches.result == 'success' ||
+        needs.update-gamecontrollerdb.result == 'success' ||
+        needs.update-launchbox-metadata.result == 'success'
+      )
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+      - uses: actions/download-artifact@v8
+        if: needs.canary-releases.result == 'success'
+        with:
+          name: canary-releases
+          path: data/xenia-releases/
+      - uses: actions/download-artifact@v8
+        if: needs.update-version.result == 'success'
+        with:
+          name: version-update
+          path: data/
+      - uses: actions/download-artifact@v8
+        if: needs.update-compatibility.result == 'success'
+        with:
+          name: compatibility-update
+          path: data/game-compatibility/
+      - uses: actions/download-artifact@v8
+        if: needs.update-patches.result == 'success'
+        with:
+          name: patches-update
+          path: data/patches/
+      - uses: actions/download-artifact@v8
+        if: needs.update-gamecontrollerdb.result == 'success'
+        with:
+          name: gamecontrollerdb-update
+          path: data/
+      - uses: actions/download-artifact@v8
+        if: needs.update-launchbox-metadata.result == 'success'
+        with:
+          name: launchbox-update
+          path: data/metadata/launchbox/
       - name: Setup Git config
         run: |
           git config --global user.name 'xeniamanager-ci'
           git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
-
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git add .
           if git diff --cached --quiet; then
             echo "No changes detected, skipping commit"
             exit 0
           fi
-
-          # Generate a comprehensive commit message
           echo "chore: Update database files" > commit_message.txt
           echo "" >> commit_message.txt
-
-          # Check what files changed and add to commit message
           CHANGED_FILES=$(git diff --cached --name-only)
+          CANARY_RELEASES=false VERSION=false COMPAT_CANARY=false COMPAT_STABLE=false PATCHES_CANARY=false PATCHES_NETPLAY=false GAMEPAD=false LAUNCHBOX=false
           for file in $CHANGED_FILES; do
-            echo "- Updated $file" >> commit_message.txt
+            case "$file" in
+              data/xenia-releases/canary.json)      CANARY_RELEASES=true ;;
+              data/version.json)                     VERSION=true ;;
+              data/game-compatibility/canary.json)   COMPAT_CANARY=true ;;
+              data/game-compatibility/stable.json)   COMPAT_STABLE=true ;;
+              data/patches/canary.json)              PATCHES_CANARY=true ;;
+              data/patches/netplay.json)              PATCHES_NETPLAY=true ;;
+              data/gamecontrollerdb.txt)             GAMEPAD=true ;;
+              data/metadata/launchbox/*)             LAUNCHBOX=true ;;
+            esac
           done
-
-          echo "Generated commit message:"
-          cat commit_message.txt
-
+          [ "$CANARY_RELEASES" = true ] && echo "- Updated Xenia Canary releases" >> commit_message.txt
+          [ "$VERSION" = true ] && echo "- Updated Xenia Manager & Xenia versions" >> commit_message.txt
+          [ "$COMPAT_CANARY" = true ] && echo "- Updated Canary game compatibility" >> commit_message.txt
+          [ "$COMPAT_STABLE" = true ] && echo "- Updated Stable game compatibility" >> commit_message.txt
+          [ "$PATCHES_CANARY" = true ] && echo "- Updated Canary game patches" >> commit_message.txt
+          [ "$PATCHES_NETPLAY" = true ] && echo "- Updated Netplay game patches" >> commit_message.txt
+          [ "$GAMEPAD" = true ] && echo "- Updated SDL GameControllerDB" >> commit_message.txt
+          [ "$LAUNCHBOX" = true ] && echo "- Updated Launchbox database" >> commit_message.txt
           git commit -F commit_message.txt
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "${GITHUB_REF_NAME}"
-
-  update-launchbox-metadata:
-    name: Update Launchbox Database Metadata
-    if: |
-      (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
-      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_launchbox_metadata == 'true')
-    runs-on: windows-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.COMMIT_TOKEN }}
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Cache Python dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~\AppData\Local\pip\Cache
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
-      - name: Download Metadata
-        shell: pwsh
-        run: Invoke-WebRequest -Uri "https://gamesdb.launchbox-app.com/Metadata.zip" -OutFile "Metadata.zip"
-
-      - name: Extract Metadata
-        shell: pwsh
-        run: Expand-Archive -Path "Metadata.zip" -DestinationPath "Metadata" -Force
-
-      - name: Parse Metadata
-        run: python scripts/launchbox_metadata.py --debug
-
-      - name: Setup Git config
-        shell: pwsh
-        run: |
-          git config --global user.name "xeniamanager-ci"
-          git config --global user.email "214508751+xeniamanager-ci@users.noreply.github.com"
-
-      - name: Commit and push changes
-        shell: pwsh
-        run: |
-          git add data/metadata/launchbox/
-          if (-not (git diff --cached --quiet)) {
-            echo "Changes detected in Launchbox metadata, committing..."
-            echo "chore: Update Launchbox Metadata" | Out-File -FilePath "commit_message.txt" -Encoding ASCII
-            echo "" | Out-File -FilePath "commit_message.txt" -Append -Encoding ASCII
-            echo "- Updated Launchbox game metadata" | Out-File -FilePath "commit_message.txt" -Append -Encoding ASCII
-
-            Get-Content "commit_message.txt"
-
-            git commit -F "commit_message.txt"
-            git pull --rebase origin $env:GITHUB_REF_NAME
-            git push origin $env:GITHUB_REF_NAME
-          } else {
-            echo "No changes detected in Launchbox metadata"
-          }
-
-      - name: Cleanup temporary files
-        shell: pwsh
-        run: |
-          Remove-Item -Path "Metadata.zip" -Force
-          Remove-Item -Path "Metadata" -Recurse -Force
