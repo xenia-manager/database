@@ -1,5 +1,14 @@
 {
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "3640478220",
+        "FileName": "r2_b73eecb6-b9a1-4076-be5b-54281343f439.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_b73eecb6-b9a1-4076-be5b-54281343f439.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -17,6 +26,13 @@
           "Region": "Germany",
           "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_ff543c3d-39ac-46b1-9767-3c6517575d6c.jpg"
+        },
+        {
+          "CRC32": "1918838582",
+          "FileName": "r2_c4424166-870d-42c8-b89f-a4128cd61836.jpg",
+          "Region": "Spain",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_c4424166-870d-42c8-b89f-a4128cd61836.jpg"
         }
       ],
       "Front": [
@@ -40,6 +56,13 @@
           "Region": "North America",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a7718fde-22de-41fb-ac60-19e53f8e75a0.jpg"
+        },
+        {
+          "CRC32": "1641589844",
+          "FileName": "r2_2ea674cb-eb89-4a02-8cc1-d804fb4f8a0e.jpg",
+          "Region": "Spain",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_2ea674cb-eb89-4a02-8cc1-d804fb4f8a0e.jpg"
         }
       ]
     },
@@ -54,17 +77,18 @@
     ],
     "Other": [
       {
-        "CRC32": "1553218194",
-        "FileName": "125bddd0-d458-49bb-9984-808f6d7e9641.png",
-        "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/125bddd0-d458-49bb-9984-808f6d7e9641.png"
-      },
-      {
         "CRC32": "1702700337",
         "FileName": "0bd4aeb4-dedc-46f7-a14b-42c4363fadc1.png",
         "Region": "Spain",
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/0bd4aeb4-dedc-46f7-a14b-42c4363fadc1.png"
+      },
+      {
+        "CRC32": "1553218194",
+        "FileName": "125bddd0-d458-49bb-9984-808f6d7e9641.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/125bddd0-d458-49bb-9984-808f6d7e9641.png"
       }
     ]
   },

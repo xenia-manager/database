@@ -8089,10 +8089,12 @@
     "issue": 570,
     "id": "544F07D1",
     "title": "Zoids Infinity EX Neo",
-    "updated": "2025-05-23T13:46:28Z",
-    "state": "Unknown",
+    "updated": "2026-05-23T16:44:01Z",
+    "state": "Loads",
     "labels": {
-      "state": [],
+      "state": [
+        "state-menus"
+      ],
       "others": [
         "xam-input-problems"
       ]
@@ -9432,12 +9434,15 @@
     "issue": 487,
     "id": "415608E1",
     "title": "The Walking Dead: Survival Instinct",
-    "updated": "2025-10-04T22:40:49Z",
-    "state": "Unknown",
+    "updated": "2026-05-23T12:31:16Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": [
         "gpu-shader-errors",
+        "apu-silent",
         "tech-engine-infernal",
         "tech-middleware-wwise",
         "backwards-compatibility-unsupported"
@@ -10892,10 +10897,12 @@
     "issue": 400,
     "id": "58410870",
     "title": "Teenage Mutant Ninja Turtles (1989) - Classic Arcade",
-    "updated": "2025-05-31T20:08:00Z",
-    "state": "Unknown",
+    "updated": "2026-05-23T12:15:09Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": [
         "tech-emulator",
         "backwards-compatibility-unsupported",
@@ -11780,10 +11787,12 @@
     "issue": 347,
     "id": "45410998",
     "title": "FIFA 13",
-    "updated": "2026-02-11T13:09:34Z",
-    "state": "Unknown",
+    "updated": "2026-05-23T12:31:33Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": [
         "tech-kinect-optional",
         "tech-engine-impact",
@@ -12652,10 +12661,12 @@
     "issue": 297,
     "id": "434307DF",
     "title": "Devil May Cry 4",
-    "updated": "2026-03-07T19:23:12Z",
-    "state": "Unknown",
+    "updated": "2026-05-23T12:31:45Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": [
         "gpu-drawing-corrupt",
         "regression",
@@ -12670,11 +12681,11 @@
     "issue": 296,
     "id": "4B4E07E5",
     "title": "Silent Hill Homecoming",
-    "updated": "2026-01-10T09:18:26Z",
-    "state": "Gameplay",
+    "updated": "2026-05-23T12:20:14Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-slayer"
@@ -12914,7 +12925,7 @@
     "issue": 282,
     "id": "454107D8",
     "title": "NBA LIVE 06",
-    "updated": "2026-05-23T03:06:17Z",
+    "updated": "2026-05-23T11:50:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13782,7 +13793,7 @@
     "issue": 229,
     "id": "545407EE",
     "title": "The Darkness",
-    "updated": "2026-05-18T00:05:39Z",
+    "updated": "2026-05-23T16:05:44Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16410,7 +16421,7 @@
     "issue": 40,
     "id": "565707D0",
     "title": "Lollipop Chainsaw",
-    "updated": "2026-05-22T11:12:47Z",
+    "updated": "2026-05-23T12:24:51Z",
     "state": "Playable",
     "labels": {
       "state": [
