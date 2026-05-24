@@ -2216,16 +2216,17 @@
     "issue": 958,
     "id": "58411202",
     "title": "Sonic Adventure 2",
-    "updated": "2025-11-14T14:04:07Z",
-    "state": "Gameplay",
+    "updated": "2026-05-23T18:09:06Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt",
         "tech-middleware-criware",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/958"
@@ -15334,7 +15335,7 @@
     "issue": 127,
     "id": "454107D7",
     "title": "FIFA 06: Road to FIFA World Cup",
-    "updated": "2026-05-21T16:39:43Z",
+    "updated": "2026-05-23T21:59:59Z",
     "state": "Gameplay",
     "labels": {
       "state": [

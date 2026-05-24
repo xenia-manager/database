@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "a7e13e1",
+    "target_commitish": "a7e13e195ba04921185f986e1d3bd1fc23f7eaee",
+    "published_at": "2026-05-23T18:43:07Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a7e13e1",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a7e13e195ba04921185f986e1d3bd1fc23f7eaee",
+    "changelog": {
+      "title": "a7e13e1_canary_experimental",
+      "changes": "- [Xam/Content] - Implement XamContentResolveInternal (`a7e13e1`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/09dbe2c...a7e13e1"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a7e13e1/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a7e13e1/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "09dbe2c",
     "target_commitish": "09dbe2cd3605dbbb51a4ab38b5c40df4f7d968a8",
     "published_at": "2026-05-21T19:16:53Z",
