@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "02a0d69",
+    "target_commitish": "02a0d697cb88f63169aa27dad3f2412440f9d7b2",
+    "published_at": "2026-05-24T20:57:43Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/02a0d69",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/02a0d697cb88f63169aa27dad3f2412440f9d7b2",
+    "changelog": {
+      "title": "02a0d69_canary_experimental",
+      "changes": "- [Base] Added option to recursively search for file (`02a0d69`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c48e0f2...02a0d69"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/02a0d69/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/02a0d69/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "c48e0f2",
+    "target_commitish": "c48e0f29e5ce4ff9740dfc24e2d2a294283312b0",
+    "published_at": "2026-05-24T18:40:28Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c48e0f2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c48e0f29e5ce4ff9740dfc24e2d2a294283312b0",
+    "changelog": {
+      "title": "c48e0f2_canary_experimental",
+      "changes": "- [XAM] Implemented XUserAwardGamerPicture (`c48e0f2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a7e13e1...c48e0f2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c48e0f2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c48e0f2/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "a7e13e1",
     "target_commitish": "a7e13e195ba04921185f986e1d3bd1fc23f7eaee",
     "published_at": "2026-05-23T18:43:07Z",
