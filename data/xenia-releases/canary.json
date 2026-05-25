@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "505697f",
+    "target_commitish": "505697f980d34af2d515eaabea5e1fb2419e462a",
+    "published_at": "2026-05-25T10:14:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/505697f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/505697f980d34af2d515eaabea5e1fb2419e462a",
+    "changelog": {
+      "title": "505697f_canary_experimental",
+      "changes": "- [APU] XmaContextNew: refine output buffer invalidation (`505697f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/02a0d69...505697f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/505697f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/505697f/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "02a0d69",
     "target_commitish": "02a0d697cb88f63169aa27dad3f2412440f9d7b2",
     "published_at": "2026-05-24T20:57:43Z",
