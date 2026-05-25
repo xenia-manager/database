@@ -2200,14 +2200,15 @@
     "issue": 959,
     "id": "58410AC2",
     "title": "SEGA Rally Online Arcade",
-    "updated": "2025-12-24T06:40:31Z",
+    "updated": "2026-05-25T17:09:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "kernel-unimplemented-feature"
+        "kernel-unimplemented-feature",
+        "gpu-slow"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/959"
@@ -2762,13 +2763,14 @@
     "issue": 923,
     "id": "58411430",
     "title": "Slender: The Arrival",
-    "updated": "2025-10-26T04:59:46Z",
+    "updated": "2026-05-25T16:47:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "cpu-unimplemented-instruction",
         "tech-engine-unity",
         "vsync-off-speedup"
       ]
@@ -2779,7 +2781,7 @@
     "issue": 922,
     "id": "58411289",
     "title": "Pid",
-    "updated": "2025-10-25T18:05:14Z",
+    "updated": "2026-05-25T16:46:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2796,7 +2798,7 @@
     "issue": 921,
     "id": "5841142B",
     "title": "The Bluecoats: North & South",
-    "updated": "2025-10-25T18:05:11Z",
+    "updated": "2026-05-25T16:47:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2813,7 +2815,7 @@
     "issue": 920,
     "id": "58411222",
     "title": "Alien Spidy",
-    "updated": "2025-10-25T18:05:08Z",
+    "updated": "2026-05-25T16:47:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11186,11 +11188,11 @@
     "issue": 384,
     "id": "534307E0",
     "title": "Kane & Lynch: Dead Men",
-    "updated": "2026-01-27T08:43:50Z",
-    "state": "Gameplay",
+    "updated": "2026-05-25T14:18:01Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-middleware-havok",
@@ -13721,7 +13723,7 @@
     "issue": 234,
     "id": "494707D4",
     "title": "Test Drive Unlimited",
-    "updated": "2026-05-20T21:37:06Z",
+    "updated": "2026-05-25T14:03:24Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14500,11 +14502,11 @@
     "issue": 180,
     "id": "534507E6",
     "title": "Sega Rally (Sega Rally Revo)",
-    "updated": "2026-05-21T02:45:04Z",
-    "state": "Playable",
+    "updated": "2026-05-25T17:08:29Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-playable"
+        "state-gameplay"
       ],
       "others": [
         "gpu-slow"
