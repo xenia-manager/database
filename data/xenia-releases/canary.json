@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "7a5cb96",
+    "target_commitish": "7a5cb96c2eb39b1e1655b7734a17582da8edf37d",
+    "published_at": "2026-05-26T17:57:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7a5cb96",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7a5cb96c2eb39b1e1655b7734a17582da8edf37d",
+    "changelog": {
+      "title": "7a5cb96_canary_experimental",
+      "changes": "- [XAM/INFO] - IPTV Initialization Setting (`7a5cb96`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7e98ae6...7a5cb96"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7a5cb96/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7a5cb96/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "7e98ae6",
+    "target_commitish": "7e98ae6de3be29ba793bf0da37382e2954e97f97",
+    "published_at": "2026-05-26T07:49:19Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7e98ae6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7e98ae6de3be29ba793bf0da37382e2954e97f97",
+    "changelog": {
+      "title": "7e98ae6_canary_experimental",
+      "changes": "- [XMA] Invalidate output buffer if there is nothing to process (`7e98ae6`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/505697f...7e98ae6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7e98ae6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7e98ae6/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "505697f",
     "target_commitish": "505697f980d34af2d515eaabea5e1fb2419e462a",
     "published_at": "2026-05-25T10:14:47Z",
