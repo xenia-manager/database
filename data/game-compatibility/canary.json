@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1123,
+    "id": "58410841",
+    "title": "3D Ultra Minigolf",
+    "updated": "2026-05-25T18:42:01Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "vsync-off-speedup"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1123"
+  },
+  {
     "issue": 1122,
     "id": "584109D8",
     "title": "NBA 2K10: Draft Combine",
@@ -1368,14 +1384,15 @@
     "issue": 1022,
     "id": "575207E6",
     "title": "LEGO Harry Potter Years 1-4",
-    "updated": "2026-03-30T06:16:50Z",
+    "updated": "2026-05-25T22:45:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage"
+        "apu-garbage",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1022"
@@ -2236,7 +2253,7 @@
     "issue": 957,
     "id": "4B4E0820",
     "title": "Def Jam: Rapstar",
-    "updated": "2026-05-15T23:31:24Z",
+    "updated": "2026-05-25T23:05:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2244,6 +2261,7 @@
       ],
       "others": [
         "gpu-drawing-missing",
+        "tech-microphone-required",
         "gpu-drawing-black"
       ]
     },
@@ -6781,7 +6799,7 @@
     "issue": 660,
     "id": "5345082A",
     "title": "Aliens vs Predator",
-    "updated": "2026-05-16T10:28:35Z",
+    "updated": "2026-05-25T19:29:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6789,7 +6807,8 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "gpu-shader-errors"
+        "gpu-shader-errors",
+        "apu-garbage"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/660"
@@ -13795,7 +13814,7 @@
     "issue": 229,
     "id": "545407EE",
     "title": "The Darkness",
-    "updated": "2026-05-25T08:41:00Z",
+    "updated": "2026-05-26T00:16:21Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14274,14 +14293,15 @@
     "issue": 200,
     "id": "4B4E0845",
     "title": "Silent Hill 2 (HD Collection)",
-    "updated": "2024-09-21T11:04:49Z",
+    "updated": "2026-05-25T22:48:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage"
+        "apu-garbage",
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/200"
@@ -15857,7 +15877,7 @@
     "issue": 82,
     "id": "5345085D",
     "title": "Sonic & All-Stars Racing Transformed",
-    "updated": "2024-12-07T02:47:06Z",
+    "updated": "2026-05-25T19:48:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
