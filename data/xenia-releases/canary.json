@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "29311dd",
+    "target_commitish": "29311ddcdd79c0de0817cb74c31e4f80565bbc24",
+    "published_at": "2026-05-26T21:21:17Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/29311dd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/29311ddcdd79c0de0817cb74c31e4f80565bbc24",
+    "changelog": {
+      "title": "29311dd_canary_experimental",
+      "changes": "- [APU] Replaced min-max with clamp for queued frames (`29311dd`)\n- [CPU] XexModule: Removed unused class member (`c5113ac`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7a5cb96...29311dd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/29311dd/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/29311dd/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "7a5cb96",
     "target_commitish": "7a5cb96c2eb39b1e1655b7734a17582da8edf37d",
     "published_at": "2026-05-26T17:57:51Z",
