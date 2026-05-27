@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1126,
+    "id": "58410A5A",
+    "title": "Super Meat Boy",
+    "updated": "2026-05-27T15:07:30Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1126"
+  },
+  {
     "issue": 1125,
     "id": "58410B90",
     "title": "BurgerTime World Tour",
@@ -12240,14 +12254,13 @@
     "issue": 323,
     "id": "455607D7",
     "title": "Venetica",
-    "updated": "2024-12-24T02:31:39Z",
+    "updated": "2026-05-27T17:41:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage",
         "tech-physics-physx",
         "tech-engine-ogre",
         "tech-middleware-scaleform",
@@ -12595,7 +12608,7 @@
     "issue": 302,
     "id": "415608D2",
     "title": "NASCAR The Game: Inside Line",
-    "updated": "2024-11-14T17:34:31Z",
+    "updated": "2026-05-27T17:22:01Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14123,14 +14136,13 @@
     "issue": 212,
     "id": "5841125A",
     "title": "Counter-Strike: GO",
-    "updated": "2024-09-26T11:40:14Z",
+    "updated": "2026-05-27T15:01:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-source",
         "cpu-unimplemented-instruction",
         "tech-middleware-havok",
@@ -15230,7 +15242,7 @@
     "issue": 137,
     "id": "58410983",
     "title": "Crimson Alliance",
-    "updated": "2024-09-26T11:31:03Z",
+    "updated": "2026-05-27T14:39:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15768,15 +15780,13 @@
     "issue": 94,
     "id": "4B5107D3",
     "title": "Radirgy Noa Massive",
-    "updated": "2024-09-26T10:23:45Z",
+    "updated": "2026-05-27T17:32:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "apu-silent"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/94"
   },
@@ -16336,13 +16346,14 @@
     "issue": 47,
     "id": "464507D6",
     "title": "Divinity II The Dragon Knight Saga",
-    "updated": "2024-09-21T11:00:29Z",
+    "updated": "2026-05-27T13:50:53Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "gpu-drawing-missing"
       ]
     },
