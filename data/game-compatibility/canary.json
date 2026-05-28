@@ -9677,44 +9677,6 @@
     "url": "https://github.com/xenia-canary/game-compatibility/issues/475"
   },
   {
-    "issue": 474,
-    "id": "545408A7",
-    "title": "Grand Theft Auto V",
-    "updated": "2026-05-18T02:02:04Z",
-    "state": "Gameplay",
-    "labels": {
-      "state": [
-        "state-gameplay"
-      ],
-      "others": [
-        "kernel-unimplemented-feature",
-        "gpu-drawing-corrupt",
-        "tech-engine-rage",
-        "tech-middleware-euphoria",
-        "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "requires_hdd_install",
-        "gpu-occlusion-query",
-        "gpu-viz-query"
-      ]
-    },
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/474"
-  },
-  {
-    "issue": 473,
-    "id": "00000000",
-    "title": "Dolphin example",
-    "updated": "2025-05-14T05:38:43Z",
-    "state": "Playable",
-    "labels": {
-      "state": [
-        "state-playable"
-      ],
-      "others": []
-    },
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/473"
-  },
-  {
     "issue": 472,
     "id": "584107D1",
     "title": "Hexic HD",
@@ -9912,7 +9874,7 @@
     "issue": 461,
     "id": "4B4E0861",
     "title": "PES 2016",
-    "updated": "2025-01-23T05:20:39Z",
+    "updated": "2026-05-27T23:43:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10966,11 +10928,11 @@
     "issue": 399,
     "id": "58411412",
     "title": "Halo Spartan Assault",
-    "updated": "2026-05-14T12:45:40Z",
-    "state": "Gameplay",
+    "updated": "2026-05-28T01:32:39Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-middleware-havok",
