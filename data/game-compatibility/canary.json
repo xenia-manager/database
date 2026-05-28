@@ -7215,11 +7215,11 @@
     "issue": 633,
     "id": "575207D3",
     "title": "F.E.A.R 2 - Project Origin",
-    "updated": "2026-03-02T11:54:23Z",
-    "state": "Gameplay",
+    "updated": "2026-05-28T11:16:10Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": []
     },
@@ -7287,11 +7287,11 @@
     "issue": 628,
     "id": "565507D9",
     "title": "F.E.A.R: First Encounter Assault Recon",
-    "updated": "2026-02-22T10:56:32Z",
-    "state": "Gameplay",
+    "updated": "2026-05-28T11:15:41Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": []
     },
@@ -7799,7 +7799,7 @@
     "issue": 595,
     "id": "5841125E",
     "title": "Joy Ride Turbo",
-    "updated": "2025-06-16T19:47:27Z",
+    "updated": "2026-05-28T07:58:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9576,14 +9576,16 @@
     "issue": 481,
     "id": "465607DE",
     "title": "Phantom Breaker",
-    "updated": "2026-03-28T21:53:59Z",
-    "state": "Loads",
+    "updated": "2026-05-28T11:18:36Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
-        "backwards-compatibility-unsupported"
+        "backwards-compatibility-unsupported",
+        "vsync-off-speedup",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/481"
@@ -10761,11 +10763,11 @@
     "issue": 408,
     "id": "4D5307EA",
     "title": "Forza Motorsport 2",
-    "updated": "2026-05-17T23:30:23Z",
-    "state": "Gameplay",
+    "updated": "2026-05-28T11:13:57Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "kernel-KeSetCurrentStackPointers",
@@ -11127,11 +11129,11 @@
     "issue": 388,
     "id": "5351081C",
     "title": "Hitman HD Trilogy (Disk 1 - Hitman 2: Silent Assassin and Hitman: Contracts)",
-    "updated": "2026-02-25T09:21:22Z",
-    "state": "Gameplay",
+    "updated": "2026-05-28T11:15:57Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-glacier",
@@ -15414,7 +15416,7 @@
     "issue": 121,
     "id": "4E4D07F0",
     "title": "Splatterhouse",
-    "updated": "2026-05-22T11:37:13Z",
+    "updated": "2026-05-28T08:13:45Z",
     "state": "Playable",
     "labels": {
       "state": [
