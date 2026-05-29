@@ -1,5 +1,22 @@
 [
   {
+    "issue": 1128,
+    "id": "435A07D7",
+    "title": "\u866b\u59eb\u3055\u307e\u3075\u305f\u308a (Mushihimesama Futari)",
+    "updated": "2026-05-29T15:45:31Z",
+    "state": "Loads",
+    "labels": {
+      "state": [
+        "state-menus"
+      ],
+      "others": [
+        "regression",
+        "requires_protect_zero_false"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1128"
+  },
+  {
     "issue": 1127,
     "id": "584107F6",
     "title": "Texas Hold'em",
@@ -6159,11 +6176,11 @@
     "issue": 707,
     "id": "584108A1",
     "title": "Golf Tee It Up!",
-    "updated": "2025-07-08T05:56:18Z",
-    "state": "Gameplay",
+    "updated": "2026-05-29T18:04:02Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": []
     },
