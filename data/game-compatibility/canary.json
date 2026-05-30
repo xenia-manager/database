@@ -1,5 +1,24 @@
 [
   {
+    "issue": 1130,
+    "id": "53450814",
+    "title": "Virtua Tennis 2009",
+    "updated": "2026-05-30T04:32:09Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "apu-silent",
+        "gpu-readback",
+        "vsync-off-speedup",
+        "crash-random"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1130"
+  },
+  {
     "issue": 1128,
     "id": "435A07D7",
     "title": "\u866b\u59eb\u3055\u307e\u3075\u305f\u308a (Mushihimesama Futari)",
@@ -16151,7 +16170,7 @@
     "issue": 63,
     "id": "415608AF",
     "title": "Goldeneye: 007 Reloaded",
-    "updated": "2026-04-19T09:07:48Z",
+    "updated": "2026-05-30T09:57:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
