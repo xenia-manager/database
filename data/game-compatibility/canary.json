@@ -566,13 +566,14 @@
     "issue": 1087,
     "id": "58411411",
     "title": "SOULCALIBUR II HD",
-    "updated": "2026-05-04T06:20:20Z",
+    "updated": "2026-05-29T21:49:19Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
+        "vsync-off-speedup",
         "gpu-occlusion-query"
       ]
     },
@@ -668,7 +669,7 @@
     "issue": 1080,
     "id": "584108BC",
     "title": "Mr. DRILLER Online",
-    "updated": "2026-05-04T06:15:39Z",
+    "updated": "2026-05-29T23:09:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -696,13 +697,16 @@
     "issue": 1078,
     "id": "58410904",
     "title": "SOULCALIBUR",
-    "updated": "2026-05-04T06:15:09Z",
+    "updated": "2026-05-29T22:54:59Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-missing",
+        "vsync-off-speedup"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1078"
   },
@@ -5160,7 +5164,7 @@
     "issue": 777,
     "id": "415608F8",
     "title": "Destiny",
-    "updated": "2026-04-15T15:34:27Z",
+    "updated": "2026-05-29T21:44:41Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -6864,7 +6868,7 @@
     "issue": 660,
     "id": "5345082A",
     "title": "Aliens vs Predator",
-    "updated": "2026-05-25T19:29:29Z",
+    "updated": "2026-05-30T02:26:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6872,8 +6876,7 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "gpu-shader-errors",
-        "apu-garbage"
+        "gpu-shader-errors"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/660"
@@ -10534,7 +10537,7 @@
     "issue": 425,
     "id": "45410923",
     "title": "Syndicate",
-    "updated": "2026-03-15T20:45:23Z",
+    "updated": "2026-05-29T21:09:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13847,7 +13850,7 @@
     "issue": 229,
     "id": "545407EE",
     "title": "The Darkness",
-    "updated": "2026-05-26T00:16:21Z",
+    "updated": "2026-05-29T20:46:20Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15337,7 +15340,7 @@
     "issue": 130,
     "id": "53450812",
     "title": "Sonic Unleashed",
-    "updated": "2026-05-20T21:22:30Z",
+    "updated": "2026-05-30T00:14:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15975,7 +15978,7 @@
     "issue": 75,
     "id": "4D530910",
     "title": "Forza Motorsport 4",
-    "updated": "2026-05-28T19:26:46Z",
+    "updated": "2026-05-29T21:24:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16389,13 +16392,14 @@
     "issue": 45,
     "id": "4D530A26",
     "title": "Gears of War: Judgment",
-    "updated": "2026-02-05T10:31:30Z",
-    "state": "Gameplay",
+    "updated": "2026-05-29T21:22:23Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "gpu-occlusion-query"
       ]
@@ -16492,11 +16496,11 @@
     "issue": 39,
     "id": "4D5308AB",
     "title": "Gears of War 3",
-    "updated": "2026-04-08T08:11:27Z",
-    "state": "Gameplay",
+    "updated": "2026-05-29T20:58:33Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-unreal",
@@ -16561,8 +16565,8 @@
   {
     "issue": 32,
     "id": "545408B2",
-    "title": "WWE 2k14",
-    "updated": "2026-04-27T03:14:35Z",
+    "title": "WWE 2K14",
+    "updated": "2026-05-29T20:39:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16571,6 +16575,7 @@
       "others": [
         "tech-middleware-havok",
         "tech-middleware-wwise",
+        "vsync-off-speedup",
         "gpu-invalid-fetch-constants"
       ]
     },
@@ -16580,7 +16585,7 @@
     "issue": 31,
     "id": "454107DC",
     "title": "Burnout Revenge",
-    "updated": "2026-04-26T17:33:19Z",
+    "updated": "2026-05-29T21:59:19Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16589,6 +16594,7 @@
       "others": [
         "apu-silent",
         "tech-engine-renderware",
+        "vsync-off-speedup",
         "tech-uses-xmp"
       ]
     },
@@ -16914,7 +16920,7 @@
     "issue": 5,
     "id": "535107DA",
     "title": "The Last Remnant",
-    "updated": "2026-01-31T22:39:16Z",
+    "updated": "2026-05-29T21:12:03Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16933,7 +16939,7 @@
     "issue": 4,
     "id": "4D5307FA",
     "title": "Lost Odyssey",
-    "updated": "2026-05-18T02:10:04Z",
+    "updated": "2026-05-29T21:20:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
