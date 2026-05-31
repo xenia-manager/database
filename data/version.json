@@ -13,9 +13,9 @@
   },
   "xenia": {
     "canary": {
-      "tag_name": "29311dd",
-      "date": "2026-05-26T21:21:17Z",
-      "url": "https://github.com/xenia-canary/xenia-canary/releases/download/29311dd/xenia_canary_windows.zip"
+      "tag_name": "fbd620c",
+      "date": "2026-05-30T17:47:04Z",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fbd620c/xenia_canary_windows.zip"
     },
     "netplay": {
       "stable": {
@@ -24,9 +24,9 @@
         "url": "https://github.com/AdrianCassar/xenia-canary/releases/download/v5.0.0/xenia_canary_netplay_windows.zip"
       },
       "nightly": {
-        "tag_name": "d88c6ab",
-        "commit_sha": "d88c6ab995909b4b93ffcc439b1eee19b085758d",
-        "date": "2026-05-29T12:07:28Z",
+        "tag_name": "cd57e92",
+        "commit_sha": "cd57e92da83cc88825909a0ded75eaffaa7bd3e0",
+        "date": "2026-05-30T20:44:29Z",
         "url": "https://nightly.link/AdrianCassar/xenia-canary/workflows/Windows_build/netplay_canary_experimental/xenia_canary_netplay_windows.zip"
       }
     },

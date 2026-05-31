@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "fbd620c",
+    "target_commitish": "fbd620c22b44638b66a70bba80d6f30d55a10924",
+    "published_at": "2026-05-30T17:47:04Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/fbd620c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/fbd620c22b44638b66a70bba80d6f30d55a10924",
+    "changelog": {
+      "title": "fbd620c_canary_experimental",
+      "changes": "- [GPU] Implement ZPD occlusion queries (`fbd620c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/29311dd...fbd620c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fbd620c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fbd620c/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "29311dd",
     "target_commitish": "29311ddcdd79c0de0817cb74c31e4f80565bbc24",
     "published_at": "2026-05-26T21:21:17Z",
