@@ -15008,7 +15008,7 @@
     "issue": 154,
     "id": "4D5307E8",
     "title": "Mass Effect",
-    "updated": "2026-05-21T02:49:09Z",
+    "updated": "2026-06-01T00:35:07Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15017,7 +15017,8 @@
       "others": [
         "gpu-drawing-missing",
         "apu-garbage",
-        "tech-engine-unreal"
+        "tech-engine-unreal",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/154"
