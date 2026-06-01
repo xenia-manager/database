@@ -1,12 +1,30 @@
 [
   {
+    "issue": 1132,
+    "id": "435A07D8",
+    "title": "ESPGALUDA2",
+    "updated": "2026-06-01T11:19:46Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1132"
+  },
+  {
     "issue": 1131,
     "id": "413307D6",
     "title": "Air Conflicts Pacific Carriers",
-    "updated": "2026-05-30T17:08:31Z",
-    "state": "Unknown",
+    "updated": "2026-06-01T11:18:12Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
+      "state": [
+        "state-gameplay"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1131"
@@ -272,7 +290,7 @@
     "issue": 1112,
     "id": "425307D1",
     "title": "Elder Scrolls IV: Oblivion",
-    "updated": "2026-05-14T11:14:23Z",
+    "updated": "2026-06-01T12:45:03Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -2001,7 +2019,7 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-05-14T11:13:45Z",
+    "updated": "2026-06-01T13:10:00Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -2009,7 +2027,8 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "tech-engine-blam"
+        "tech-engine-blam",
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/981"
@@ -3082,7 +3101,7 @@
     "issue": 910,
     "id": "45410830",
     "title": "Left 4 Dead",
-    "updated": "2026-05-17T22:29:43Z",
+    "updated": "2026-06-01T13:16:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3981,7 +4000,7 @@
     "issue": 853,
     "id": "4541096E",
     "title": "Fuse",
-    "updated": "2026-05-28T22:32:01Z",
+    "updated": "2026-06-01T12:50:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4668,7 +4687,7 @@
     "issue": 810,
     "id": "5841147C",
     "title": "Life is Strange",
-    "updated": "2025-08-11T06:55:47Z",
+    "updated": "2026-06-01T13:18:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5023,7 +5042,7 @@
     "issue": 788,
     "id": "58410B42",
     "title": "Battle: Los Angeles",
-    "updated": "2025-08-04T20:21:57Z",
+    "updated": "2026-06-01T12:28:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5082,7 +5101,7 @@
     "issue": 785,
     "id": "5553088C",
     "title": "Far Cry 3",
-    "updated": "2026-05-17T21:32:55Z",
+    "updated": "2026-06-01T12:47:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5413,7 +5432,7 @@
     "issue": 761,
     "id": "57520802",
     "title": "Batman: Arkham City",
-    "updated": "2026-05-14T12:48:09Z",
+    "updated": "2026-06-01T12:27:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5435,7 +5454,7 @@
     "issue": 760,
     "id": "4541099D",
     "title": "Dead Space 3",
-    "updated": "2026-05-13T19:58:38Z",
+    "updated": "2026-06-01T12:37:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6064,7 +6083,7 @@
     "issue": 717,
     "id": "584113CF",
     "title": "God Mode",
-    "updated": "2026-05-28T22:30:33Z",
+    "updated": "2026-06-01T12:58:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6916,7 +6935,7 @@
     "issue": 659,
     "id": "43430830",
     "title": "Lost Planet 3",
-    "updated": "2026-05-08T11:32:39Z",
+    "updated": "2026-06-01T13:18:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7957,7 +7976,7 @@
     "issue": 586,
     "id": "4D5308BC",
     "title": "Crackdown 2",
-    "updated": "2026-02-26T02:19:59Z",
+    "updated": "2026-06-01T12:35:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8056,7 +8075,7 @@
     "issue": 579,
     "id": "54510846",
     "title": "Homefront",
-    "updated": "2025-05-21T06:35:36Z",
+    "updated": "2026-06-01T13:13:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8076,7 +8095,7 @@
     "issue": 578,
     "id": "425307E3",
     "title": "Dishonored",
-    "updated": "2026-05-28T22:30:06Z",
+    "updated": "2026-06-01T12:40:18Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -8507,7 +8526,7 @@
     "issue": 552,
     "id": "4D5309B1",
     "title": "Halo: Combat Evolved Anniversary",
-    "updated": "2026-05-28T22:30:59Z",
+    "updated": "2026-06-01T13:01:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8647,7 +8666,7 @@
     "issue": 544,
     "id": "454108D8",
     "title": "Army of Two: The 40th Day",
-    "updated": "2025-04-27T20:20:51Z",
+    "updated": "2026-06-01T12:26:19Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8746,7 +8765,7 @@
     "issue": 538,
     "id": "4D530805",
     "title": "Alan Wake",
-    "updated": "2026-05-17T22:31:05Z",
+    "updated": "2026-06-01T12:24:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8908,7 +8927,7 @@
     "issue": 528,
     "id": "454108EF",
     "title": "Bulletstorm",
-    "updated": "2026-03-08T11:45:07Z",
+    "updated": "2026-06-01T12:29:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9083,7 +9102,7 @@
     "issue": 517,
     "id": "45410850",
     "title": "Mirror's Edge",
-    "updated": "2026-05-12T16:23:21Z",
+    "updated": "2026-06-01T13:32:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9398,7 +9417,7 @@
     "issue": 498,
     "id": "4541095D",
     "title": "Mass Effect 3",
-    "updated": "2026-05-14T12:39:22Z",
+    "updated": "2026-06-01T13:24:34Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -10822,7 +10841,7 @@
     "issue": 409,
     "id": "4D53084D",
     "title": "Forza Motorsport 3",
-    "updated": "2026-05-17T23:29:09Z",
+    "updated": "2026-06-01T12:48:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10867,7 +10886,7 @@
     "issue": 406,
     "id": "555307DC",
     "title": "Far Cry: Instincts Predator",
-    "updated": "2026-05-17T23:32:02Z",
+    "updated": "2026-06-01T12:46:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11116,7 +11135,7 @@
     "issue": 393,
     "id": "4B4D07F5",
     "title": "Metro Last Light",
-    "updated": "2026-05-17T23:33:27Z",
+    "updated": "2026-06-01T13:27:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11219,7 +11238,7 @@
     "issue": 387,
     "id": "54510842",
     "title": "Metro 2033",
-    "updated": "2026-05-17T23:34:34Z",
+    "updated": "2026-06-01T13:28:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11783,7 +11802,7 @@
     "issue": 353,
     "id": "58411233",
     "title": "Alan Wake's American Nightmare",
-    "updated": "2025-11-15T18:18:50Z",
+    "updated": "2026-06-01T12:23:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13294,7 +13313,7 @@
     "issue": 265,
     "id": "454108CE",
     "title": "Mass Effect 2",
-    "updated": "2026-05-14T12:24:02Z",
+    "updated": "2026-06-01T13:25:46Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13641,7 +13660,7 @@
     "issue": 246,
     "id": "5454085D",
     "title": "BioShock Infinite",
-    "updated": "2026-05-14T12:44:56Z",
+    "updated": "2026-06-01T12:28:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13823,7 +13842,7 @@
     "issue": 233,
     "id": "415608EC",
     "title": "Deadpool",
-    "updated": "2026-05-18T00:04:14Z",
+    "updated": "2026-06-01T12:37:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13992,7 +14011,7 @@
     "issue": 222,
     "id": "55530804",
     "title": "Dark Messiah: Might and Magic Elements",
-    "updated": "2024-11-08T15:32:07Z",
+    "updated": "2026-06-01T12:36:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14120,7 +14139,7 @@
     "issue": 215,
     "id": "4D530877",
     "title": "Halo 3: ODST",
-    "updated": "2026-05-18T00:18:38Z",
+    "updated": "2026-06-01T13:05:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14139,7 +14158,7 @@
     "issue": 214,
     "id": "4D5307E6",
     "title": "Halo 3",
-    "updated": "2026-05-08T11:06:16Z",
+    "updated": "2026-06-01T13:07:34Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14177,7 +14196,7 @@
     "issue": 212,
     "id": "5841125A",
     "title": "Counter-Strike: GO",
-    "updated": "2026-05-27T15:01:31Z",
+    "updated": "2026-06-01T12:34:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14605,7 +14624,7 @@
     "issue": 179,
     "id": "454108D4",
     "title": "Left 4 Dead 2",
-    "updated": "2026-05-08T13:18:11Z",
+    "updated": "2026-06-01T13:15:59Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15065,7 +15084,7 @@
     "issue": 151,
     "id": "545407E6",
     "title": "Mafia II",
-    "updated": "2026-05-08T13:28:49Z",
+    "updated": "2026-06-01T13:22:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15172,7 +15191,7 @@
     "issue": 145,
     "id": "545407F8",
     "title": "Midnight Club: Los Angeles",
-    "updated": "2026-05-17T20:49:20Z",
+    "updated": "2026-06-01T13:30:16Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15184,7 +15203,8 @@
         "apu-garbage",
         "regression",
         "tech-engine-rage",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/145"
@@ -15762,7 +15782,7 @@
     "issue": 102,
     "id": "4D5307DC",
     "title": "Crackdown",
-    "updated": "2026-05-14T12:30:54Z",
+    "updated": "2026-06-01T12:35:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16010,7 +16030,7 @@
     "issue": 75,
     "id": "4D530910",
     "title": "Forza Motorsport 4",
-    "updated": "2026-05-29T21:24:46Z",
+    "updated": "2026-06-01T12:48:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16166,7 +16186,7 @@
     "issue": 64,
     "id": "5553083B",
     "title": "Assassin's Creed II",
-    "updated": "2026-05-08T11:07:26Z",
+    "updated": "2026-06-01T12:25:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16183,7 +16203,7 @@
     "issue": 63,
     "id": "415608AF",
     "title": "Goldeneye: 007 Reloaded",
-    "updated": "2026-05-31T00:18:03Z",
+    "updated": "2026-06-01T13:00:09Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16202,7 +16222,7 @@
     "issue": 62,
     "id": "415608D8",
     "title": "007 Legends",
-    "updated": "2026-05-20T21:46:40Z",
+    "updated": "2026-06-01T12:22:34Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16341,7 +16361,7 @@
     "issue": 50,
     "id": "4D5307D2",
     "title": "Kameo: Elements of Power",
-    "updated": "2026-04-30T10:13:33Z",
+    "updated": "2026-06-01T13:14:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16407,7 +16427,7 @@
     "issue": 46,
     "id": "4D53082D",
     "title": "Gears of War 2",
-    "updated": "2026-05-21T02:54:06Z",
+    "updated": "2026-06-01T12:55:40Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16425,7 +16445,7 @@
     "issue": 45,
     "id": "4D530A26",
     "title": "Gears of War: Judgment",
-    "updated": "2026-05-29T21:22:23Z",
+    "updated": "2026-06-01T12:53:54Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16443,7 +16463,7 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-05-21T09:04:16Z",
+    "updated": "2026-06-01T12:57:05Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16513,14 +16533,15 @@
     "issue": 40,
     "id": "565707D0",
     "title": "Lollipop Chainsaw",
-    "updated": "2026-05-23T12:24:51Z",
+    "updated": "2026-06-01T13:17:29Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "tech-engine-unreal"
+        "tech-engine-unreal",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/40"
@@ -16529,7 +16550,7 @@
     "issue": 39,
     "id": "4D5308AB",
     "title": "Gears of War 3",
-    "updated": "2026-05-29T20:58:33Z",
+    "updated": "2026-06-01T12:54:46Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16637,7 +16658,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-05-21T03:13:08Z",
+    "updated": "2026-06-01T12:49:03Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16697,7 +16718,7 @@
     "issue": 27,
     "id": "415607E1",
     "title": "Call of Duty 3",
-    "updated": "2026-05-09T23:38:52Z",
+    "updated": "2026-06-01T12:33:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
