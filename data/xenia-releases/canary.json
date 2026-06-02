@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "be6e53e",
+    "target_commitish": "be6e53e383050a50dee578b86aa58b126fc30e46",
+    "published_at": "2026-06-02T18:57:55Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/be6e53e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/be6e53e383050a50dee578b86aa58b126fc30e46",
+    "changelog": {
+      "title": "be6e53e_canary_experimental",
+      "changes": "- [XAM] Fixed missing CreateFolder in XamWriteGamerTile (`be6e53e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/73945c0...be6e53e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/be6e53e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/be6e53e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "73945c0",
+    "target_commitish": "73945c06d7bcf4b049cd1cc9f1cc8b1540a9901f",
+    "published_at": "2026-06-02T18:30:32Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/73945c0",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/73945c06d7bcf4b049cd1cc9f1cc8b1540a9901f",
+    "changelog": {
+      "title": "73945c0_canary_experimental",
+      "changes": "- [GPU] Simplify ZPD cvars (`73945c0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/fbd620c...73945c0"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/73945c0/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/73945c0/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "fbd620c",
     "target_commitish": "fbd620c22b44638b66a70bba80d6f30d55a10924",
     "published_at": "2026-05-30T17:47:04Z",

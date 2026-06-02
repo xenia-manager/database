@@ -1,5 +1,36 @@
 [
   {
+    "issue": 1134,
+    "id": "5553083C",
+    "title": "James Cameron\u2019s Avatar: The Game",
+    "updated": "2026-06-02T19:25:30Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "apu-silent",
+        "gpu-occlusion-query",
+        "crash-random"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1134"
+  },
+  {
+    "issue": 1133,
+    "id": "584108B3",
+    "title": "Rez HD",
+    "updated": "2026-06-02T18:42:40Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1133"
+  },
+  {
     "issue": 1132,
     "id": "435A07D8",
     "title": "ESPGALUDA2",
@@ -52,7 +83,7 @@
     "issue": 1128,
     "id": "435A07D7",
     "title": "\u866b\u59eb\u3055\u307e\u3075\u305f\u308a (Mushihimesama Futari)",
-    "updated": "2026-05-29T15:45:31Z",
+    "updated": "2026-06-02T16:12:52Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -3101,11 +3132,11 @@
     "issue": 910,
     "id": "45410830",
     "title": "Left 4 Dead",
-    "updated": "2026-06-01T18:34:17Z",
-    "state": "Gameplay",
+    "updated": "2026-06-02T19:25:06Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-source",
@@ -5182,11 +5213,11 @@
     "issue": 779,
     "id": "454109BE",
     "title": "NHL 14",
-    "updated": "2026-02-11T12:55:40Z",
-    "state": "Loads",
+    "updated": "2026-06-02T16:01:14Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
         "marketplace-delisted"
@@ -8096,7 +8127,7 @@
     "issue": 578,
     "id": "425307E3",
     "title": "Dishonored",
-    "updated": "2026-06-01T12:40:18Z",
+    "updated": "2026-06-02T17:24:25Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13410,7 +13441,7 @@
     "issue": 260,
     "id": "454107E6",
     "title": "2006 FIFA World Cup",
-    "updated": "2026-06-01T23:23:11Z",
+    "updated": "2026-06-02T15:26:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
