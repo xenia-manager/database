@@ -24206,7 +24206,7 @@
         }
       ]
     },
-    "CommunityRating": "3.22247190957659",
+    "CommunityRating": "3.21444444391463",
     "DatabaseID": "7581",
     "Developer": "Sonic Team",
     "ESRB": "E10+ - Everyone 10+",
@@ -31755,7 +31755,7 @@
         }
       ]
     },
-    "CommunityRating": "4.07536231607631",
+    "CommunityRating": "4.08857142584665",
     "DatabaseID": "8480",
     "Developer": "Sonic Team",
     "ESRB": "E10+ - Everyone 10+",
@@ -35882,7 +35882,7 @@
         }
       ]
     },
-    "CommunityRating": "4.08974358974359",
+    "CommunityRating": "4.1125",
     "DatabaseID": "8888",
     "Developer": "Sonic Team",
     "ESRB": "E - Everyone",
@@ -85808,12 +85808,12 @@
   },
   {
     "Artwork": {
-      "Background": [
+      "Banner": [
         {
           "CRC32": "2725725496",
           "FileName": "r2_5bc55be1-8d7d-4f5b-b7e7-fbc04565dc2d.png",
           "Region": "North America",
-          "Type": "Fanart - Background",
+          "Type": "Banner",
           "URL": "http://images.launchbox-app.com/r2_5bc55be1-8d7d-4f5b-b7e7-fbc04565dc2d.png"
         }
       ],
@@ -101587,7 +101587,7 @@
         }
       ]
     },
-    "CommunityRating": "2.65000000596046",
+    "CommunityRating": "2.9111111164093",
     "DatabaseID": "15786",
     "Developer": "Sonic Team",
     "ESRB": "E - Everyone",
@@ -103146,7 +103146,7 @@
         }
       ]
     },
-    "CommunityRating": "3.77777777777778",
+    "CommunityRating": "3.9",
     "DatabaseID": "15896",
     "Developer": "Rockstar San Diego",
     "ESRB": "T - Teen",
@@ -129715,6 +129715,24 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "4199411941",
+          "FileName": "r2_2c702dbf-66fc-49fc-ac6b-2005d571f477.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_2c702dbf-66fc-49fc-ac6b-2005d571f477.jpg"
+        }
+      ],
+      "Banner": [
+        {
+          "CRC32": "4029476260",
+          "FileName": "r2_b7215a4a-07cc-4033-8fba-2fb9e176c8bf.png",
+          "Region": "World",
+          "Type": "Banner",
+          "URL": "http://images.launchbox-app.com/r2_b7215a4a-07cc-4033-8fba-2fb9e176c8bf.png"
+        }
+      ],
       "Box": {
         "3D": [
           {
@@ -152250,9 +152268,19 @@
     "Artwork": {
       "Background": [
         {
+          "CRC32": "2618925605",
+          "FileName": "r2_e5a552c2-4fbc-4d4e-9bfd-858e31215b1a.png",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_e5a552c2-4fbc-4d4e-9bfd-858e31215b1a.png"
+        }
+      ],
+      "Banner": [
+        {
           "CRC32": "2630136287",
           "FileName": "c32d1cfa-8c13-4ebd-bb1b-d6fc31f863b7.jpg",
-          "Type": "Fanart - Background",
+          "Region": "World",
+          "Type": "Banner",
           "URL": "http://images.launchbox-app.com/c32d1cfa-8c13-4ebd-bb1b-d6fc31f863b7.jpg"
         }
       ],
@@ -164687,35 +164715,24 @@
     "Artwork": {
       "Background": [
         {
-          "CRC32": "2070968475",
-          "FileName": "43dd1898-cf27-439d-8a2e-ea6193f714b1.jpg",
-          "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/43dd1898-cf27-439d-8a2e-ea6193f714b1.jpg"
-        },
-        {
-          "CRC32": "1924521715",
-          "FileName": "44da8232-f881-4bd7-bc23-ee8062c95200.jpg",
-          "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/44da8232-f881-4bd7-bc23-ee8062c95200.jpg"
-        },
-        {
-          "CRC32": "1104987630",
-          "FileName": "578d2d78-bb27-483c-9866-ad6fa67689ae.jpg",
-          "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/578d2d78-bb27-483c-9866-ad6fa67689ae.jpg"
-        },
-        {
           "CRC32": "4091602623",
           "FileName": "cbc8fbde-eaf6-4ed7-a7cd-7f75ff0aa0c3.jpg",
           "Type": "Fanart - Background",
           "URL": "http://images.launchbox-app.com/cbc8fbde-eaf6-4ed7-a7cd-7f75ff0aa0c3.jpg"
         },
         {
-          "CRC32": "2719325928",
-          "FileName": "b81c442d-bacf-4998-bd57-6ced1b058c4f.jpg",
-          "Region": "Spain",
+          "CRC32": "2070968475",
+          "FileName": "43dd1898-cf27-439d-8a2e-ea6193f714b1.jpg",
+          "Region": "World",
           "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/b81c442d-bacf-4998-bd57-6ced1b058c4f.jpg"
+          "URL": "http://images.launchbox-app.com/43dd1898-cf27-439d-8a2e-ea6193f714b1.jpg"
+        },
+        {
+          "CRC32": "1104987630",
+          "FileName": "578d2d78-bb27-483c-9866-ad6fa67689ae.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/578d2d78-bb27-483c-9866-ad6fa67689ae.jpg"
         }
       ],
       "Banner": [
@@ -164724,6 +164741,20 @@
           "FileName": "2bd7bccd-7ee5-44fa-abda-f193c1f05452.png",
           "Type": "Banner",
           "URL": "http://images.launchbox-app.com/2bd7bccd-7ee5-44fa-abda-f193c1f05452.png"
+        },
+        {
+          "CRC32": "2719325928",
+          "FileName": "b81c442d-bacf-4998-bd57-6ced1b058c4f.jpg",
+          "Region": "Spain",
+          "Type": "Banner",
+          "URL": "http://images.launchbox-app.com/b81c442d-bacf-4998-bd57-6ced1b058c4f.jpg"
+        },
+        {
+          "CRC32": "1924521715",
+          "FileName": "44da8232-f881-4bd7-bc23-ee8062c95200.jpg",
+          "Region": "World",
+          "Type": "Banner",
+          "URL": "http://images.launchbox-app.com/44da8232-f881-4bd7-bc23-ee8062c95200.jpg"
         }
       ],
       "Box": {
@@ -257634,6 +257665,7 @@
         }
       ]
     },
+    "CommunityRating": "4",
     "DatabaseID": "471606",
     "Developer": "Wans Zai",
     "ESRB": "Not Rated",
@@ -257697,6 +257729,7 @@
         }
       ]
     },
+    "CommunityRating": "4",
     "DatabaseID": "472523",
     "Developer": "Wans Zai",
     "ESRB": "Not Rated",

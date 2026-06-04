@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "9478cda",
+    "target_commitish": "9478cda5d643f31ce5eddaa3a698282887515439",
+    "published_at": "2026-06-03T21:08:48Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9478cda",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9478cda5d643f31ce5eddaa3a698282887515439",
+    "changelog": {
+      "title": "9478cda_canary_experimental",
+      "changes": "- [Kernel] Fixed issue with titles not booting due to lack of title id (`9478cda`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/be6e53e...9478cda"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9478cda/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9478cda/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "be6e53e",
     "target_commitish": "be6e53e383050a50dee578b86aa58b126fc30e46",
     "published_at": "2026-06-02T18:57:55Z",
