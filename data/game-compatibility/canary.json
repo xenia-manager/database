@@ -214,7 +214,7 @@
     "issue": 1119,
     "id": "4D530888",
     "title": "Lips",
-    "updated": "2026-06-01T22:40:01Z",
+    "updated": "2026-06-04T17:27:15Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -5465,7 +5465,7 @@
     "issue": 761,
     "id": "57520802",
     "title": "Batman: Arkham City",
-    "updated": "2026-06-03T14:47:56Z",
+    "updated": "2026-06-04T13:17:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8010,14 +8010,15 @@
     "issue": 586,
     "id": "4D5308BC",
     "title": "Crackdown 2",
-    "updated": "2026-06-02T20:21:10Z",
+    "updated": "2026-06-04T12:47:01Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-renderware"
+        "tech-engine-renderware",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/586"
@@ -16395,14 +16396,15 @@
     "issue": 50,
     "id": "4D5307D2",
     "title": "Kameo: Elements of Power",
-    "updated": "2026-06-02T20:24:11Z",
+    "updated": "2026-06-04T12:46:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "cpu-timing"
+        "cpu-timing",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/50"
