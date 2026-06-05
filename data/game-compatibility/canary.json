@@ -214,7 +214,7 @@
     "issue": 1119,
     "id": "4D530888",
     "title": "Lips",
-    "updated": "2026-06-04T17:27:15Z",
+    "updated": "2026-06-04T23:50:14Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -1237,7 +1237,7 @@
     "issue": 1046,
     "id": "494707EE",
     "title": "The Chronicles Of Riddick Assault On Dark Athena",
-    "updated": "2026-06-01T13:41:37Z",
+    "updated": "2026-06-04T20:14:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4522,7 +4522,7 @@
     "issue": 824,
     "id": "425307F5",
     "title": "Wolfenstein: The New Order",
-    "updated": "2026-06-01T14:01:52Z",
+    "updated": "2026-06-04T21:52:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4535,6 +4535,7 @@
         "backwards-compatibility-unsupported",
         "vsync-off-speedup",
         "requires_mount_cache",
+        "gpu-driver-issues-nvidia",
         "requires_hdd_install",
         "no-disc-install",
         "gpu-occlusion-querybatch"
@@ -7875,13 +7876,17 @@
     "issue": 598,
     "id": "55530801",
     "title": "Beowulf",
-    "updated": "2025-06-13T00:37:13Z",
+    "updated": "2026-06-04T20:46:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "apu-silent",
+        "regression",
+        "gpu-occlusion-query"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/598"
   },
@@ -8561,11 +8566,11 @@
     "issue": 552,
     "id": "4D5309B1",
     "title": "Halo: Combat Evolved Anniversary",
-    "updated": "2026-06-01T13:01:35Z",
-    "state": "Gameplay",
+    "updated": "2026-06-04T21:04:19Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-blam",
@@ -12664,7 +12669,7 @@
     "issue": 304,
     "id": "534307F6",
     "title": "Batman: Arkham Asylum",
-    "updated": "2026-05-09T16:09:30Z",
+    "updated": "2026-06-05T02:11:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13537,7 +13542,7 @@
     "issue": 255,
     "id": "425307F4",
     "title": "The Evil Within",
-    "updated": "2026-06-01T13:58:20Z",
+    "updated": "2026-06-04T21:52:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13549,6 +13554,7 @@
         "tech-engine-idtech",
         "tech-middleware-havok",
         "backwards-compatibility-unsupported",
+        "gpu-driver-issues-nvidia",
         "requires_hdd_install",
         "crash-random"
       ]
@@ -13935,13 +13941,15 @@
     "issue": 229,
     "id": "545407EE",
     "title": "The Darkness",
-    "updated": "2026-06-01T13:57:34Z",
+    "updated": "2026-06-04T22:27:49Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": []
+      "others": [
+        "gpu-occlusion-query"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/229"
   },
@@ -14643,7 +14651,7 @@
     "issue": 180,
     "id": "534507E6",
     "title": "Sega Rally (Sega Rally Revo)",
-    "updated": "2026-05-25T17:08:29Z",
+    "updated": "2026-06-04T18:55:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14900,7 +14908,7 @@
     "issue": 163,
     "id": "425307EC",
     "title": "RAGE",
-    "updated": "2026-06-01T13:38:56Z",
+    "updated": "2026-06-04T21:51:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14909,7 +14917,9 @@
       "others": [
         "gpu-drawing-missing",
         "tech-engine-idtech",
+        "gpu-readback",
         "vsync-off-speedup",
+        "gpu-driver-issues-nvidia",
         "gpu-occlusion-querybatch"
       ]
     },
@@ -16084,14 +16094,15 @@
     "issue": 74,
     "id": "4D5307F1",
     "title": "Fable 2",
-    "updated": "2026-05-31T16:03:18Z",
+    "updated": "2026-06-04T20:11:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt"
+        "gpu-drawing-corrupt",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/74"
@@ -16808,7 +16819,7 @@
     "issue": 20,
     "id": "545107D1",
     "title": "Saints Row",
-    "updated": "2026-06-04T11:13:19Z",
+    "updated": "2026-06-04T20:43:15Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16817,7 +16828,8 @@
       "others": [
         "tech-middleware-havok",
         "tech-middleware-demonware",
-        "requires_protect_zero_false"
+        "requires_protect_zero_false",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/20"
