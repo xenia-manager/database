@@ -171,13 +171,20 @@ def _fetch_canary_from_api(old_version=None):
 
 
 # ----- Netplay stable -----
-def fetch_netplay_stable():
+def fetch_netplay_stable(old_netplay_stable=None):
     rel = gh_get(f"{GITHUB_API}/AdrianCassar/xenia-canary/releases/latest")
     assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
+    if not assets:
+        debug("No windows zip asset found in netplay stable release, preserving old entry")
+        return (
+            old_netplay_stable
+            if old_netplay_stable
+            else {"tag_name": None, "date": None, "url": None}
+        )
     return {
         "tag_name": rel.get("tag_name")[:7] if rel.get("tag_name") else None,
         "date": rel.get("published_at") or rel.get("created_at"),
-        "url": assets[0].get("browser_download_url") if assets else None,
+        "url": assets[0].get("browser_download_url"),
     }
 
 
@@ -244,7 +251,9 @@ fetched_data = {
     "xenia": {
         "canary": fetch_latest_canary(old_canary),
         "netplay": {
-            "stable": fetch_netplay_stable(),
+            "stable": fetch_netplay_stable(
+                old_data.get("xenia", {}).get("netplay", {}).get("stable")
+            ),
             "nightly": fetch_netplay_nightly(),
         },
         "mousehook": fetch_mousehook_versions(),
