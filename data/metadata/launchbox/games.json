@@ -19875,16 +19875,17 @@
           "URL": "http://images.launchbox-app.com/8c571fbd-b5dd-44c1-9d70-64f4fe478c9e.png"
         },
         {
-          "CRC32": "1633786037",
-          "FileName": "b649e043-6482-4cf0-b744-543e3158834a.jpg",
-          "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/b649e043-6482-4cf0-b744-543e3158834a.jpg"
-        },
-        {
           "CRC32": "2563409714",
           "FileName": "bc2d9fd8-dada-4f3c-8b4b-b9d147b54329.jpg",
           "Type": "Fanart - Background",
           "URL": "http://images.launchbox-app.com/bc2d9fd8-dada-4f3c-8b4b-b9d147b54329.jpg"
+        },
+        {
+          "CRC32": "1633786037",
+          "FileName": "r2_d4046379-35b5-422d-b7b0-5c7c81da2ae2.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_d4046379-35b5-422d-b7b0-5c7c81da2ae2.jpg"
         }
       ],
       "Box": {
@@ -41300,12 +41301,29 @@
             "URL": "http://images.launchbox-app.com/12abda1f-87a2-4f41-8dde-9389c906892d.png"
           }
         ],
+        "Back": [
+          {
+            "CRC32": "147950243",
+            "FileName": "r2_806df3c0-1fc8-4438-87ae-53500e76c84d.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_806df3c0-1fc8-4438-87ae-53500e76c84d.jpg"
+          }
+        ],
         "Front": [
           {
             "CRC32": "4131479852",
             "FileName": "3fd20024-0a1b-40f4-a1e8-a152005ab927.jpg",
+            "Region": "Europe",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/3fd20024-0a1b-40f4-a1e8-a152005ab927.jpg"
+          },
+          {
+            "CRC32": "4090287182",
+            "FileName": "r2_715d28f5-a93b-4661-a5a0-609b2c2a0f4a.jpg",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_715d28f5-a93b-4661-a5a0-609b2c2a0f4a.jpg"
           }
         ]
       },
@@ -41313,6 +41331,7 @@
         {
           "CRC32": "172319946",
           "FileName": "49dc8113-3d1b-4095-a98b-f9e9d9703f9c.png",
+          "Region": "Europe",
           "Type": "Disc",
           "URL": "http://images.launchbox-app.com/49dc8113-3d1b-4095-a98b-f9e9d9703f9c.png"
         },
@@ -41334,9 +41353,10 @@
       "Other": [
         {
           "CRC32": "807315088",
-          "FileName": "15ae3fbe-7fc9-49d5-97e0-0c96ead6eec1.png",
+          "FileName": "r2_2783a1f8-7a40-444c-9933-804e0524ed99.png",
+          "Region": "World",
           "Type": "Clear Logo",
-          "URL": "http://images.launchbox-app.com/15ae3fbe-7fc9-49d5-97e0-0c96ead6eec1.png"
+          "URL": "http://images.launchbox-app.com/r2_2783a1f8-7a40-444c-9933-804e0524ed99.png"
         }
       ]
     },
@@ -41345,7 +41365,7 @@
     "Developer": "CD Projekt RED",
     "ESRB": "M - Mature",
     "Genres": "Action; Role-Playing",
-    "Name": "The Witcher 2: Assassins of Kings: Enhanced Edition",
+    "Name": "The Witcher 2: Assassins of Kings — Enhanced Edition",
     "Overview": "The second installment in the RPG saga about the Witcher, Geralt of Rivia, features a thoroughly engrossing, mature storyline defining new standards for thought-provoking, non-linear game narration. In addition to an epic story, the game features an original, brutal combat system that uniquely combines tactical elements with dynamic action. A new, modern game engine, responsible for beautiful visuals and sophisticated game mechanics puts players in the most lively and believable world ever created in an RPG game. A captivating story, dynamic combat system, beautiful graphics, and everything else that made the original Witcher such a great game are now executed in a much more advanced and sophisticated way.",
     "Publisher": "Atari",
     "ReleaseDate": "2012-04-17T00:00:00+00:00",
@@ -44499,11 +44519,12 @@
   },
   {
     "Artwork": {
-      "Background": [
+      "Banner": [
         {
           "CRC32": "3003423074",
           "FileName": "a942e748-925b-40e8-a48b-644843c74423.jpg",
-          "Type": "Fanart - Background",
+          "Region": "World",
+          "Type": "Banner",
           "URL": "http://images.launchbox-app.com/a942e748-925b-40e8-a48b-644843c74423.jpg"
         }
       ],
@@ -58039,7 +58060,8 @@
     "Name": "DiRT",
     "Overview": "Become the king of off-road racing!  Race rally and hill climb events as well as multi-car rally raid, rally cross and Corr buggy and truck racing.  Unprecedented next-gen racing visuals and devastating car damage.  100 player online mode.",
     "Publisher": "Codemasters",
-    "ReleaseDate": "2007-06-19T00:00:00+00:00"
+    "ReleaseDate": "2007-06-19T00:00:00+00:00",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Colin_McRae:_Dirt"
   },
   {
     "Artwork": {
@@ -63193,7 +63215,7 @@
         }
       ]
     },
-    "CommunityRating": "3.5625",
+    "CommunityRating": "3.72222222222222",
     "DatabaseID": "12783",
     "Developer": "Codemasters",
     "ESRB": "E10+ - Everyone 10+",
@@ -81926,10 +81948,10 @@
       "Background": [
         {
           "CRC32": "881022880",
-          "FileName": "r2_06212676-5172-40c5-9952-8c3fd52e696b.jpg",
+          "FileName": "r2_c2c72445-7d7c-4c77-9bfe-1888509c620c.jpg",
           "Region": "World",
           "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/r2_06212676-5172-40c5-9952-8c3fd52e696b.jpg"
+          "URL": "http://images.launchbox-app.com/r2_c2c72445-7d7c-4c77-9bfe-1888509c620c.jpg"
         }
       ],
       "Banner": [
@@ -100733,6 +100755,20 @@
           "Region": "World",
           "Type": "Fanart - Background",
           "URL": "http://images.launchbox-app.com/r2_7e81c0fc-6616-407a-b277-8c17c8052c50.jpg"
+        },
+        {
+          "CRC32": "1491085024",
+          "FileName": "r2_a48bd62a-8cb3-4f02-88f6-5e0e7f3ca932.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_a48bd62a-8cb3-4f02-88f6-5e0e7f3ca932.jpg"
+        },
+        {
+          "CRC32": "1491085024",
+          "FileName": "r2_a6ca813e-90e3-424f-8ede-3322c23c3c5a.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_a6ca813e-90e3-424f-8ede-3322c23c3c5a.jpg"
         }
       ],
       "Banner": [
@@ -103193,7 +103229,7 @@
         }
       ]
     },
-    "CommunityRating": "3.9",
+    "CommunityRating": "4",
     "DatabaseID": "15896",
     "Developer": "Rockstar San Diego",
     "ESRB": "T - Teen",
@@ -121530,7 +121566,7 @@
         }
       ]
     },
-    "CommunityRating": "3.8625",
+    "CommunityRating": "3.91666666666667",
     "DatabaseID": "19579",
     "Developer": "The Behemoth",
     "ESRB": "T - Teen",
@@ -129786,6 +129822,13 @@
     "Artwork": {
       "Background": [
         {
+          "CRC32": "2540125329",
+          "FileName": "r2_2508d994-3482-4cc1-a555-0ac7d90bcecf.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_2508d994-3482-4cc1-a555-0ac7d90bcecf.jpg"
+        },
+        {
           "CRC32": "4199411941",
           "FileName": "r2_2c702dbf-66fc-49fc-ac6b-2005d571f477.jpg",
           "Region": "World",
@@ -137172,11 +137215,12 @@
   },
   {
     "Artwork": {
-      "Background": [
+      "Banner": [
         {
           "CRC32": "2481867201",
           "FileName": "fa6e0d60-9271-4631-b4cf-a275f3ef5b2a.jpg",
-          "Type": "Fanart - Background",
+          "Region": "World",
+          "Type": "Banner",
           "URL": "http://images.launchbox-app.com/fa6e0d60-9271-4631-b4cf-a275f3ef5b2a.jpg"
         }
       ],
@@ -152897,12 +152941,6 @@
           "URL": "http://images.launchbox-app.com/278e6497-3694-4768-8e14-f706a5be6844.jpg"
         },
         {
-          "CRC32": "3033283962",
-          "FileName": "32d47fbd-9572-4770-8af0-d39e0cea8844.png",
-          "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/32d47fbd-9572-4770-8af0-d39e0cea8844.png"
-        },
-        {
           "CRC32": "500442985",
           "FileName": "98a0b4e0-35bf-481e-b13f-92279e7d6891.png",
           "Type": "Fanart - Background",
@@ -152921,6 +152959,13 @@
           "FileName": "b58bc512-484c-4d61-8ba9-6b2c29c5a8ea.png",
           "Type": "Banner",
           "URL": "http://images.launchbox-app.com/b58bc512-484c-4d61-8ba9-6b2c29c5a8ea.png"
+        },
+        {
+          "CRC32": "3033283962",
+          "FileName": "32d47fbd-9572-4770-8af0-d39e0cea8844.png",
+          "Region": "World",
+          "Type": "Banner",
+          "URL": "http://images.launchbox-app.com/32d47fbd-9572-4770-8af0-d39e0cea8844.png"
         }
       ],
       "Box": {
@@ -189518,6 +189563,15 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "277831562",
+          "FileName": "r2_bd2c63cd-ba17-4562-bec0-3f529866c523.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_bd2c63cd-ba17-4562-bec0-3f529866c523.jpg"
+        }
+      ],
       "Box": {
         "Back": [
           {
@@ -190620,6 +190674,13 @@
   {
     "Artwork": {
       "Background": [
+        {
+          "CRC32": "639343820",
+          "FileName": "r2_04a6210a-80e8-49b0-9cdd-044a4e9021e4.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_04a6210a-80e8-49b0-9cdd-044a4e9021e4.jpg"
+        },
         {
           "CRC32": "2104154341",
           "FileName": "r2_6e5374eb-73a7-4bab-abd2-c4cfdbcaa060.jpg",
@@ -194757,6 +194818,15 @@
           "Region": "World",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/r2_bdaef377-7d49-4df4-8d55-132218d2089c.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "3671930679",
+          "FileName": "r2_e8fed584-6e87-401d-9e69-189de0265b51.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_e8fed584-6e87-401d-9e69-189de0265b51.png"
         }
       ]
     },

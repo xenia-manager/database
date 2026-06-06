@@ -85,7 +85,7 @@
     "issue": 1128,
     "id": "435A07D7",
     "title": "\u866b\u59eb\u3055\u307e\u3075\u305f\u308a (Mushihimesama Futari)",
-    "updated": "2026-06-02T16:12:52Z",
+    "updated": "2026-06-05T21:40:23Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -1237,7 +1237,7 @@
     "issue": 1046,
     "id": "494707EE",
     "title": "The Chronicles Of Riddick Assault On Dark Athena",
-    "updated": "2026-06-05T14:34:48Z",
+    "updated": "2026-06-06T02:53:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11613,15 +11613,17 @@
     "issue": 367,
     "id": "454108F7",
     "title": "Medal of Honor",
-    "updated": "2025-01-10T03:57:01Z",
+    "updated": "2026-06-05T20:08:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-unreal",
-        "tech-engine-frostbite"
+        "tech-engine-frostbite",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/367"
