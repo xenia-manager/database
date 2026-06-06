@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "49c700b",
+    "target_commitish": "49c700b9c56b5f5cde8f80de066a9aab10613afe",
+    "published_at": "2026-06-06T09:20:07Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/49c700b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/49c700b9c56b5f5cde8f80de066a9aab10613afe",
+    "changelog": {
+      "title": "49c700b_canary_experimental",
+      "changes": "- [XMP] Return success for XMPGetMediaSources with 0 sources (`49c700b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/99fd19d...49c700b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/49c700b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/49c700b/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "99fd19d",
     "target_commitish": "99fd19d02598e45121a665053c56fa46b2e06f09",
     "published_at": "2026-06-05T14:34:27Z",
