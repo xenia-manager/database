@@ -1,9 +1,25 @@
 [
   {
+    "issue": 1135,
+    "id": "465307E4",
+    "title": "Dark Souls II",
+    "updated": "2026-06-06T17:23:04Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "crash-random"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1135"
+  },
+  {
     "issue": 1134,
     "id": "5553083C",
     "title": "James Cameron\u2019s Avatar: The Game",
-    "updated": "2026-06-06T03:59:56Z",
+    "updated": "2026-06-06T21:31:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -85,7 +101,7 @@
     "issue": 1128,
     "id": "435A07D7",
     "title": "\u866b\u59eb\u3055\u307e\u3075\u305f\u308a (Mushihimesama Futari)",
-    "updated": "2026-06-05T21:40:23Z",
+    "updated": "2026-06-07T02:46:23Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -10913,13 +10929,15 @@
     "issue": 407,
     "id": "444507D2",
     "title": "Indianapolis 500: Evolution",
-    "updated": "2025-01-12T14:33:32Z",
+    "updated": "2026-06-06T19:54:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "apu-garbage"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/407"
   },
@@ -16078,7 +16096,7 @@
     "issue": 75,
     "id": "4D530910",
     "title": "Forza Motorsport 4",
-    "updated": "2026-06-01T19:34:27Z",
+    "updated": "2026-06-07T04:10:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
