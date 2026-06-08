@@ -3,13 +3,14 @@
     "issue": 1135,
     "id": "465307E4",
     "title": "Dark Souls II",
-    "updated": "2026-06-06T17:23:04Z",
+    "updated": "2026-06-07T23:04:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-occlusion-query",
         "crash-random"
       ]
     },
@@ -230,11 +231,11 @@
     "issue": 1119,
     "id": "4D530888",
     "title": "Lips",
-    "updated": "2026-06-07T13:18:55Z",
+    "updated": "2026-06-07T20:04:50Z",
     "state": "Loads",
     "labels": {
       "state": [
-        "state-intro"
+        "state-menus"
       ],
       "others": [
         "tech-microphone-required"
@@ -1253,7 +1254,7 @@
     "issue": 1046,
     "id": "494707EE",
     "title": "The Chronicles Of Riddick Assault On Dark Athena",
-    "updated": "2026-06-07T15:53:23Z",
+    "updated": "2026-06-08T02:44:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2902,7 +2903,7 @@
     "issue": 926,
     "id": "4B5907E6",
     "title": "DARK",
-    "updated": "2026-05-15T23:29:18Z",
+    "updated": "2026-06-07T21:21:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2936,7 +2937,7 @@
     "issue": 924,
     "id": "58410A7C",
     "title": "Spare Parts",
-    "updated": "2026-01-21T23:21:33Z",
+    "updated": "2026-06-07T21:22:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3568,7 +3569,7 @@
     "issue": 885,
     "id": "5451080B",
     "title": "WWE SmackDown vs. Raw 2008",
-    "updated": "2025-11-25T01:48:12Z",
+    "updated": "2026-06-07T21:23:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4275,7 +4276,7 @@
     "issue": 840,
     "id": "454109AB",
     "title": "Army of Two: The Devil's Cartel",
-    "updated": "2026-05-21T16:55:41Z",
+    "updated": "2026-06-07T19:16:17Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -4504,7 +4505,7 @@
     "issue": 826,
     "id": "475007D5",
     "title": "Velvet Assassin",
-    "updated": "2026-05-11T21:05:02Z",
+    "updated": "2026-06-07T21:28:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4581,7 +4582,7 @@
     "issue": 820,
     "id": "534507F1",
     "title": "The Incredible Hulk",
-    "updated": "2026-03-05T20:17:04Z",
+    "updated": "2026-06-07T19:17:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4595,7 +4596,7 @@
     "issue": 819,
     "id": "4B4D07DF",
     "title": "Dead Island",
-    "updated": "2026-01-04T15:42:33Z",
+    "updated": "2026-06-07T19:18:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4682,7 +4683,7 @@
     "issue": 813,
     "id": "58410AFA",
     "title": "Beyond Good & Evil HD",
-    "updated": "2025-10-31T18:58:37Z",
+    "updated": "2026-06-07T19:19:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4690,7 +4691,10 @@
       ],
       "others": [
         "marketplace-delisted",
-        "tech-engine-jade"
+        "tech-engine-jade",
+        "gpu-readback",
+        "vsync-off-speedup",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/813"
@@ -5203,14 +5207,16 @@
     "issue": 781,
     "id": "425607E5",
     "title": "Toy Story 3",
-    "updated": "2025-08-04T20:17:13Z",
+    "updated": "2026-06-07T23:43:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt"
+        "gpu-drawing-corrupt",
+        "gpu-occlusion-query",
+        "gpu-ext-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/781"
@@ -6612,7 +6618,7 @@
     "issue": 684,
     "id": "424107DD",
     "title": "Culdcept SAGA",
-    "updated": "2026-03-08T16:55:46Z",
+    "updated": "2026-06-07T19:42:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7063,13 +7069,15 @@
     "issue": 654,
     "id": "55530888",
     "title": "Just Dance 3",
-    "updated": "2025-07-08T05:41:54Z",
-    "state": "Gameplay",
+    "updated": "2026-06-07T20:04:10Z",
+    "state": "Loads",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-menus"
       ],
-      "others": []
+      "others": [
+        "tech-kinect-required"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/654"
   },
@@ -7141,13 +7149,15 @@
     "issue": 649,
     "id": "454107D6",
     "title": "Tiger Woods PGA Tour06",
-    "updated": "2025-07-03T08:37:14Z",
+    "updated": "2026-06-07T19:50:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/649"
   },
@@ -9386,7 +9396,7 @@
     "issue": 503,
     "id": "4D5307ED",
     "title": "Banjo-Kazooie: Nuts & Bolts",
-    "updated": "2026-02-05T02:50:08Z",
+    "updated": "2026-06-07T23:03:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9394,7 +9404,8 @@
       ],
       "others": [
         "tech-middleware-havok",
-        "splitscreen-working"
+        "splitscreen-working",
+        "gpu-ext-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/503"
@@ -15704,7 +15715,7 @@
     "issue": 111,
     "id": "4D530AA4",
     "title": "Forza Horizon 2",
-    "updated": "2026-06-03T11:57:26Z",
+    "updated": "2026-06-07T23:42:53Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15714,7 +15725,8 @@
         "kernel-unimplemented-feature",
         "tech-kinect-optional",
         "requires_mount_cache",
-        "gpu-viz-query"
+        "gpu-viz-query",
+        "gpu-ext-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/111"
@@ -15872,7 +15884,7 @@
     "issue": 99,
     "id": "5451087D",
     "title": "UFC Undisputed 3",
-    "updated": "2026-04-04T10:29:49Z",
+    "updated": "2026-06-08T02:55:51Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16495,7 +16507,7 @@
     "issue": 46,
     "id": "4D53082D",
     "title": "Gears of War 2",
-    "updated": "2026-06-07T06:19:23Z",
+    "updated": "2026-06-08T02:19:18Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16531,7 +16543,7 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-06-07T07:55:04Z",
+    "updated": "2026-06-07T18:50:24Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16726,7 +16738,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-06-01T12:49:03Z",
+    "updated": "2026-06-07T23:42:38Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16738,7 +16750,8 @@
         "gpu-shader-errors",
         "tech-kinect-optional",
         "requires_mount_cache",
-        "gpu-viz-query"
+        "gpu-viz-query",
+        "gpu-ext-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/30"
@@ -16786,7 +16799,7 @@
     "issue": 27,
     "id": "415607E1",
     "title": "Call of Duty 3",
-    "updated": "2026-06-01T12:33:26Z",
+    "updated": "2026-06-07T21:00:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16796,6 +16809,7 @@
         "gpu-drawing-corrupt",
         "gpu-drawing-missing",
         "tech-middleware-demonware",
+        "gpu-readback",
         "gpu-viz-query"
       ]
     },
