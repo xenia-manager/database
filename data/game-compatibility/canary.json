@@ -10136,8 +10136,8 @@
   {
     "issue": 455,
     "id": "504307D4",
-    "title": "Infernal",
-    "updated": "2025-01-22T11:00:54Z",
+    "title": "Infernal: Hell's Vengeance",
+    "updated": "2026-06-08T14:24:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10894,14 +10894,15 @@
     "issue": 410,
     "id": "415607F0",
     "title": "Tony Hawk's Proving Ground",
-    "updated": "2025-01-21T04:17:18Z",
+    "updated": "2026-06-08T14:09:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/410"
