@@ -5097,7 +5097,7 @@
     "issue": 788,
     "id": "58410B42",
     "title": "Battle: Los Angeles",
-    "updated": "2026-06-01T12:28:20Z",
+    "updated": "2026-06-08T07:52:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5108,7 +5108,8 @@
         "gpu-readback",
         "backwards-compatibility-unsupported",
         "requires_protect_zero_false",
-        "gpu-occlusion-query"
+        "gpu-occlusion-query",
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/788"
@@ -10120,11 +10121,11 @@
     "issue": 456,
     "id": "534507EF",
     "title": "Condemned 2: Bloodshot",
-    "updated": "2026-05-17T23:06:33Z",
-    "state": "Gameplay",
+    "updated": "2026-06-08T11:53:18Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-lithtech"
@@ -10956,14 +10957,16 @@
     "issue": 406,
     "id": "555307DC",
     "title": "Far Cry: Instincts Predator",
-    "updated": "2026-06-01T12:46:02Z",
+    "updated": "2026-06-08T06:31:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-cry"
+        "tech-engine-cry",
+        "gpu-occlusion-query",
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/406"
@@ -13712,7 +13715,7 @@
     "issue": 247,
     "id": "5451082C",
     "title": "Warhammer 40,000: Space Marine",
-    "updated": "2026-06-01T14:01:17Z",
+    "updated": "2026-06-08T08:46:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13724,6 +13727,7 @@
         "tech-middleware-wwise",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
+        "gpu-viz-query",
         "gpu-occlusion-querybatch"
       ]
     },
@@ -16108,7 +16112,7 @@
     "issue": 75,
     "id": "4D530910",
     "title": "Forza Motorsport 4",
-    "updated": "2026-06-07T04:10:54Z",
+    "updated": "2026-06-08T06:26:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16118,7 +16122,8 @@
         "gpu-drawing-corrupt",
         "tech-kinect-optional",
         "marketplace-nodownload",
-        "gpu-occlusion-query"
+        "gpu-occlusion-query",
+        "gpu-ext-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/75"
@@ -16543,7 +16548,7 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-06-07T18:50:24Z",
+    "updated": "2026-06-08T08:07:00Z",
     "state": "Playable",
     "labels": {
       "state": [
