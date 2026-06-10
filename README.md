@@ -12,7 +12,7 @@ The `data` folder contains several JSON files and subfolders, organized as follo
   - `stable.json` — Xenia Stable Compatibility List  
   - `canary.json` — Xenia Canary Compatibility List
 
-- `metadata` — scrapped games metadata
+- `metadata` — scraped games metadata
   - `launchbox` - processed Launchbox Database metadata (Daily)
     - `games.json` - full metadata for every game
     - `search.json` - short metadata used to search
