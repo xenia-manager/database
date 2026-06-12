@@ -15165,15 +15165,14 @@
     "issue": 151,
     "id": "545407E6",
     "title": "Mafia II",
-    "updated": "2026-06-01T13:22:15Z",
+    "updated": "2026-06-12T11:13:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-occlusion-query",
-        "crash-random"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/151"
@@ -15455,16 +15454,15 @@
     "issue": 132,
     "id": "589F5137",
     "title": "Call Of Duty: World At War",
-    "updated": "2026-05-08T14:48:52Z",
-    "state": "Gameplay",
+    "updated": "2026-06-12T11:09:28Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-iw",
-        "tech-middleware-demonware",
-        "crash-always"
+        "tech-middleware-demonware"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/132"
@@ -16270,15 +16268,15 @@
     "issue": 64,
     "id": "5553083B",
     "title": "Assassin's Creed II",
-    "updated": "2026-06-02T10:42:46Z",
+    "updated": "2026-06-12T11:20:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-anvil",
-        "crash-random"
+        "apu-silent",
+        "tech-engine-anvil"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/64"
