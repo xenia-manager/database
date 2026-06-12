@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "30ac9d7",
+    "target_commitish": "30ac9d7be69bf7d9e9cc5d92d126cc62c58b8f48",
+    "published_at": "2026-06-11T19:34:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/30ac9d7",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/30ac9d7be69bf7d9e9cc5d92d126cc62c58b8f48",
+    "changelog": {
+      "title": "30ac9d7_canary_experimental",
+      "changes": "- [CPU] fix correct partial vector stores (`30ac9d7`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2027f50...30ac9d7"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/30ac9d7/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/30ac9d7/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
+    "tag_name": "2027f50",
+    "target_commitish": "2027f50b6e59adb251309c9b686edca08ec7d216",
+    "published_at": "2026-06-11T19:01:28Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2027f50",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2027f50b6e59adb251309c9b686edca08ec7d216",
+    "changelog": {
+      "title": "2027f50_canary_experimental",
+      "changes": "- [Xam/User_profile] - Add missing filenames & device types (`2027f50`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/49c700b...2027f50"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2027f50/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2027f50/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "49c700b",
     "target_commitish": "49c700b9c56b5f5cde8f80de066a9aab10613afe",
     "published_at": "2026-06-06T09:20:07Z",
