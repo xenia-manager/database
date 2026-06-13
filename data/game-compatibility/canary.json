@@ -3,15 +3,17 @@
     "issue": 1135,
     "id": "465307E4",
     "title": "Dark Souls II",
-    "updated": "2026-06-07T23:04:31Z",
-    "state": "Gameplay",
+    "updated": "2026-06-13T02:19:39Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "gpu-occlusion-query",
-        "crash-random"
+        "gpu-drawing-corrupt",
+        "gpu-readback",
+        "vsync-off-speedup",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1135"
@@ -5559,7 +5561,7 @@
     "issue": 757,
     "id": "4B4D07F6",
     "title": "Saints Row IV",
-    "updated": "2026-05-12T20:17:25Z",
+    "updated": "2026-06-12T20:54:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16110,7 +16112,7 @@
     "issue": 75,
     "id": "4D530910",
     "title": "Forza Motorsport 4",
-    "updated": "2026-06-08T06:26:44Z",
+    "updated": "2026-06-13T00:48:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
