@@ -38,7 +38,7 @@
     "issue": 1134,
     "id": "5553083C",
     "title": "James Cameron\u2019s Avatar: The Game",
-    "updated": "2026-06-10T22:40:23Z",
+    "updated": "2026-06-13T17:50:41Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -47,8 +47,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "apu-silent",
-        "gpu-occlusion-query",
-        "crash-random"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1134"
@@ -512,7 +511,7 @@
     "issue": 1098,
     "id": "5841097E",
     "title": "Battlefield 1943",
-    "updated": "2026-05-08T11:01:05Z",
+    "updated": "2026-06-13T17:57:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -521,8 +520,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "xam-live-signin-required",
-        "tech-engine-frostbite",
-        "crash-random"
+        "tech-engine-frostbite"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1098"
@@ -1400,7 +1398,7 @@
     "issue": 1036,
     "id": "4541093E",
     "title": "Kingdoms of Amalur Reckoning",
-    "updated": "2026-05-17T20:20:59Z",
+    "updated": "2026-06-14T00:37:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2360,14 +2358,14 @@
     "issue": 962,
     "id": "555307D4",
     "title": "Assassin's Creed",
-    "updated": "2026-05-08T10:56:22Z",
-    "state": "Loads",
+    "updated": "2026-06-13T20:00:35Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
-        "crash-random"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/962"
@@ -7791,13 +7789,14 @@
     "issue": 607,
     "id": "415608FC",
     "title": "Call of Duty: Ghosts",
-    "updated": "2026-05-20T22:51:10Z",
-    "state": "Gameplay",
+    "updated": "2026-06-14T02:40:04Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-iw",
         "tech-middleware-umbra"
       ]
@@ -9810,7 +9809,7 @@
     "issue": 477,
     "id": "5454086C",
     "title": "L.A. Noire - The Complete Edition",
-    "updated": "2026-05-17T22:54:19Z",
+    "updated": "2026-06-13T20:09:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9821,7 +9820,6 @@
         "gpu-drawing-missing",
         "tech-middleware-havok",
         "backwards-compatibility-unsupported",
-        "crash-always",
         "gpu-drawing-black"
       ]
     },
@@ -13849,7 +13847,7 @@
     "issue": 241,
     "id": "41560817",
     "title": "Call of Duty: Modern Warfare 2",
-    "updated": "2025-12-20T14:50:52Z",
+    "updated": "2026-06-14T03:14:35Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13960,15 +13958,14 @@
     "issue": 232,
     "id": "415608CB",
     "title": "Call Of Duty: Modern Warfare 3",
-    "updated": "2026-05-14T02:14:35Z",
+    "updated": "2026-06-13T23:47:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-shader-errors",
-        "crash-random"
+        "gpu-shader-errors"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/232"
@@ -14565,19 +14562,18 @@
     "issue": 193,
     "id": "415608C3",
     "title": "Call of Duty: Black Ops II",
-    "updated": "2026-06-07T14:49:24Z",
-    "state": "Loads",
+    "updated": "2026-06-13T20:08:43Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
         "gpu-drawing-corrupt",
         "tech-engine-iw",
         "tech-middleware-demonware",
         "tech-xboxlivevision-optional",
-        "supports-3d",
-        "crash-random"
+        "supports-3d"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/193"
@@ -15183,7 +15179,7 @@
     "issue": 151,
     "id": "545407E6",
     "title": "Mafia II",
-    "updated": "2026-06-12T11:13:23Z",
+    "updated": "2026-06-13T17:42:53Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15472,7 +15468,7 @@
     "issue": 132,
     "id": "589F5137",
     "title": "Call Of Duty: World At War",
-    "updated": "2026-06-12T11:09:28Z",
+    "updated": "2026-06-13T18:53:56Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15880,7 +15876,7 @@
     "issue": 102,
     "id": "4D5307DC",
     "title": "Crackdown",
-    "updated": "2026-06-02T20:20:58Z",
+    "updated": "2026-06-13T18:56:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15923,16 +15919,17 @@
     "issue": 98,
     "id": "41560855",
     "title": "Call of Duty: Black Ops",
-    "updated": "2026-05-14T02:19:16Z",
-    "state": "Gameplay",
+    "updated": "2026-06-13T18:54:05Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-iw",
-        "supports-3d",
-        "crash-random"
+        "gpu-occlusion-query",
+        "supports-3d"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/98"
@@ -16721,7 +16718,7 @@
     "issue": 32,
     "id": "545408B2",
     "title": "WWE 2K14",
-    "updated": "2026-05-29T20:39:56Z",
+    "updated": "2026-06-14T04:24:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
