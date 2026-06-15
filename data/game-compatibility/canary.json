@@ -3,11 +3,18 @@
     "issue": 1137,
     "id": "584111E8",
     "title": "State of Decay",
-    "updated": "2026-06-14T17:07:55Z",
-    "state": "Unknown",
+    "updated": "2026-06-14T20:18:46Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-missing",
+        "gpu-shader-errors",
+        "tech-engine-cry",
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1137"
   },
@@ -244,7 +251,7 @@
     "issue": 1120,
     "id": "4B4F07D5",
     "title": "SAMURAI WARRIORS 2",
-    "updated": "2026-05-20T05:54:18Z",
+    "updated": "2026-06-15T02:03:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8467,7 +8474,7 @@
     "issue": 561,
     "id": "454109C6",
     "title": "Need For Speed Rivals",
-    "updated": "2026-04-28T21:12:15Z",
+    "updated": "2026-06-15T00:15:11Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -9821,7 +9828,7 @@
     "issue": 477,
     "id": "5454086C",
     "title": "L.A. Noire - The Complete Edition",
-    "updated": "2026-06-13T20:09:29Z",
+    "updated": "2026-06-14T22:33:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9930,13 +9937,16 @@
     "issue": 469,
     "id": "4E4D083D",
     "title": "Soulcalibur V",
-    "updated": "2026-05-17T22:56:08Z",
-    "state": "Unplayable",
+    "updated": "2026-06-14T17:43:45Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-nothing"
+        "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-readback",
+        "vsync-off-speedup"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/469"
   },
@@ -13218,7 +13228,7 @@
     "issue": 277,
     "id": "584B8842",
     "title": "Xbox 360 Experience Disc Version 5.0 (Kiosk)(2009)",
-    "updated": "2026-05-17T00:06:15Z",
+    "updated": "2026-06-14T17:22:43Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -15657,7 +15667,7 @@
     "issue": 119,
     "id": "454107ED",
     "title": "Superman Returns",
-    "updated": "2026-06-03T16:40:45Z",
+    "updated": "2026-06-15T03:19:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15727,7 +15737,7 @@
     "issue": 112,
     "id": "4D5308D6",
     "title": "Fable III",
-    "updated": "2026-05-08T13:50:12Z",
+    "updated": "2026-06-14T21:44:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
