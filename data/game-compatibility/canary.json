@@ -3,7 +3,7 @@
     "issue": 1137,
     "id": "584111E8",
     "title": "State of Decay",
-    "updated": "2026-06-14T20:18:46Z",
+    "updated": "2026-06-15T06:35:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2327,14 +2327,15 @@
     "issue": 965,
     "id": "555308AE",
     "title": "Assassin's Creed III",
-    "updated": "2026-05-08T11:18:57Z",
+    "updated": "2026-06-15T13:34:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "crash-random"
+        "gpu-drawing-corrupt",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/965"
@@ -2361,14 +2362,14 @@
     "issue": 963,
     "id": "55530879",
     "title": "Assassin's Creed: Revelations",
-    "updated": "2026-05-08T11:19:48Z",
+    "updated": "2026-06-15T12:57:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "crash-random"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/963"
@@ -9561,16 +9562,16 @@
     "issue": 496,
     "id": "5553085D",
     "title": "Assassins Creed Brotherhood",
-    "updated": "2026-05-08T11:41:17Z",
-    "state": "Loads",
+    "updated": "2026-06-15T12:29:52Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
         "kernel-threading-stalls",
         "tech-engine-anvil",
-        "crash-random"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/496"
@@ -9828,7 +9829,7 @@
     "issue": 477,
     "id": "5454086C",
     "title": "L.A. Noire - The Complete Edition",
-    "updated": "2026-06-14T22:33:17Z",
+    "updated": "2026-06-15T12:05:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9971,13 +9972,15 @@
     "issue": 467,
     "id": "4E4D07E0",
     "title": "Soulcalibur IV",
-    "updated": "2026-05-17T22:55:56Z",
-    "state": "Unplayable",
+    "updated": "2026-06-15T13:50:25Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-nothing"
+        "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/467"
   },
@@ -13980,11 +13983,11 @@
     "issue": 232,
     "id": "415608CB",
     "title": "Call Of Duty: Modern Warfare 3",
-    "updated": "2026-06-13T23:47:28Z",
-    "state": "Gameplay",
+    "updated": "2026-06-15T13:07:49Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-shader-errors"
@@ -15667,7 +15670,7 @@
     "issue": 119,
     "id": "454107ED",
     "title": "Superman Returns",
-    "updated": "2026-06-15T03:19:40Z",
+    "updated": "2026-06-15T06:11:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
