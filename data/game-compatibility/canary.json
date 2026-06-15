@@ -3,7 +3,7 @@
     "issue": 1137,
     "id": "584111E8",
     "title": "State of Decay",
-    "updated": "2026-06-15T06:35:58Z",
+    "updated": "2026-06-15T17:37:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2294,11 +2294,11 @@
     "issue": 967,
     "id": "45410993",
     "title": "Medal of Honor: Warfighter",
-    "updated": "2026-05-15T01:16:54Z",
+    "updated": "2026-06-15T16:20:23Z",
     "state": "Loads",
     "labels": {
       "state": [
-        "state-menus"
+        "state-intro"
       ],
       "others": [
         "tech-engine-frostbite",
@@ -2311,14 +2311,15 @@
     "issue": 966,
     "id": "555308C2",
     "title": "Assassin's Creed IV: Black Flag",
-    "updated": "2026-05-08T14:57:35Z",
-    "state": "Loads",
+    "updated": "2026-06-15T16:11:44Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
-        "crash-always"
+        "gpu-drawing-corrupt",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/966"
@@ -2327,7 +2328,7 @@
     "issue": 965,
     "id": "555308AE",
     "title": "Assassin's Creed III",
-    "updated": "2026-06-15T13:34:20Z",
+    "updated": "2026-06-15T14:47:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2362,7 +2363,7 @@
     "issue": 963,
     "id": "55530879",
     "title": "Assassin's Creed: Revelations",
-    "updated": "2026-06-15T12:57:50Z",
+    "updated": "2026-06-15T14:47:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2651,13 +2652,15 @@
     "issue": 945,
     "id": "315A07D1",
     "title": "NBA 2K16",
-    "updated": "2026-01-21T06:32:01Z",
-    "state": "Loads",
+    "updated": "2026-06-15T17:23:27Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-slow"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/945"
   },
@@ -2665,13 +2668,15 @@
     "issue": 944,
     "id": "54540894",
     "title": "NBA 2K12",
-    "updated": "2026-03-18T04:14:33Z",
-    "state": "Loads",
+    "updated": "2026-06-15T14:32:08Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-slow"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/944"
   },
@@ -4313,7 +4318,7 @@
     "issue": 840,
     "id": "454109AB",
     "title": "Army of Two: The Devil's Cartel",
-    "updated": "2026-06-07T19:16:17Z",
+    "updated": "2026-06-15T14:09:10Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -9453,13 +9458,14 @@
     "issue": 502,
     "id": "545408B0",
     "title": "NBA 2K14",
-    "updated": "2025-03-20T08:14:54Z",
-    "state": "Loads",
+    "updated": "2026-06-15T14:44:42Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
+        "gpu-slow",
         "marketplace-delisted"
       ]
     },
@@ -9548,13 +9554,15 @@
     "issue": 497,
     "id": "545408A2",
     "title": "NBA 2K13",
-    "updated": "2025-02-23T15:33:11Z",
-    "state": "Loads",
+    "updated": "2026-06-15T14:38:35Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-slow"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/497"
   },
@@ -9562,7 +9570,7 @@
     "issue": 496,
     "id": "5553085D",
     "title": "Assassins Creed Brotherhood",
-    "updated": "2026-06-15T12:29:52Z",
+    "updated": "2026-06-15T14:48:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9972,7 +9980,7 @@
     "issue": 467,
     "id": "4E4D07E0",
     "title": "Soulcalibur IV",
-    "updated": "2026-06-15T13:50:25Z",
+    "updated": "2026-06-15T13:58:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14589,7 +14597,7 @@
     "issue": 193,
     "id": "415608C3",
     "title": "Call of Duty: Black Ops II",
-    "updated": "2026-06-13T20:08:43Z",
+    "updated": "2026-06-15T19:35:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
