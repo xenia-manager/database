@@ -1,24 +1,5 @@
 [
   {
-    "issue": 1137,
-    "id": "584111E8",
-    "title": "State of Decay",
-    "updated": "2026-06-15T17:37:37Z",
-    "state": "Gameplay",
-    "labels": {
-      "state": [
-        "state-gameplay"
-      ],
-      "others": [
-        "gpu-drawing-missing",
-        "gpu-shader-errors",
-        "tech-engine-cry",
-        "gpu-readback"
-      ]
-    },
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/1137"
-  },
-  {
     "issue": 1136,
     "id": "424907D4",
     "title": "WSC Real 2011",
@@ -653,8 +634,8 @@
   {
     "issue": 1090,
     "id": "4E4D085C",
-    "title": "Naruto Shippuuden : Narutimate Storm 3",
-    "updated": "2026-05-04T06:23:25Z",
+    "title": "Naruto Shippuden : Ultimate Ninja Storm 3",
+    "updated": "2026-06-15T23:18:20Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -1217,7 +1198,7 @@
     "issue": 1051,
     "id": "4E4D0803",
     "title": "Dragon Ball : Raging Blast",
-    "updated": "2026-05-07T06:18:19Z",
+    "updated": "2026-06-16T00:49:48Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -3096,7 +3077,7 @@
     "issue": 917,
     "id": "58411279",
     "title": "Defense Technica",
-    "updated": "2026-06-06T05:09:35Z",
+    "updated": "2026-06-16T01:44:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4624,7 +4605,7 @@
     "issue": 820,
     "id": "534507F1",
     "title": "The Incredible Hulk",
-    "updated": "2026-06-07T19:17:44Z",
+    "updated": "2026-06-16T01:44:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7238,13 +7219,17 @@
     "issue": 646,
     "id": "5454087C",
     "title": "Borderlands 2",
-    "updated": "2026-02-03T18:48:28Z",
+    "updated": "2026-06-16T00:32:19Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback",
+        "gpu-occlusion-query"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/646"
   },
@@ -11311,7 +11296,7 @@
     "issue": 390,
     "id": "464F0800",
     "title": "PayDay 2",
-    "updated": "2025-10-13T01:38:47Z",
+    "updated": "2026-06-16T03:29:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12454,7 +12439,7 @@
     "issue": 322,
     "id": "41560914",
     "title": "Call of Duty: Advanced Warfare",
-    "updated": "2026-05-20T22:48:03Z",
+    "updated": "2026-06-15T20:08:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12754,7 +12739,7 @@
     "issue": 304,
     "id": "534307F6",
     "title": "Batman: Arkham Asylum",
-    "updated": "2026-06-05T11:14:25Z",
+    "updated": "2026-06-15T20:26:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13609,7 +13594,7 @@
     "issue": 256,
     "id": "454107E9",
     "title": "The Godfather",
-    "updated": "2026-05-17T23:58:19Z",
+    "updated": "2026-06-15T22:26:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14597,14 +14582,15 @@
     "issue": 193,
     "id": "415608C3",
     "title": "Call of Duty: Black Ops II",
-    "updated": "2026-06-15T19:35:02Z",
-    "state": "Gameplay",
+    "updated": "2026-06-15T19:55:17Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt",
+        "apu-silent",
         "tech-engine-iw",
         "tech-middleware-demonware",
         "tech-xboxlivevision-optional",
@@ -14822,7 +14808,7 @@
     "issue": 174,
     "id": "53510823",
     "title": "Rise of the Tomb Raider",
-    "updated": "2026-05-08T00:52:26Z",
+    "updated": "2026-06-16T01:45:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14830,6 +14816,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
+        "gpu-readback",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported"
       ]
