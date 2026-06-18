@@ -391,14 +391,14 @@
     "issue": 1111,
     "id": "5553082F",
     "title": "Shaun White Skateboarding",
-    "updated": "2026-05-12T15:37:10Z",
+    "updated": "2026-06-18T15:44:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "crash-random"
+        "gpu-drawing-corrupt"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1111"
@@ -888,11 +888,11 @@
     "issue": 1074,
     "id": "4D4B07D2",
     "title": "Alien Breed Trilogy",
-    "updated": "2026-05-14T14:10:01Z",
+    "updated": "2026-06-18T15:37:01Z",
     "state": "Loads",
     "labels": {
       "state": [
-        "state-menus"
+        "state-load"
       ],
       "others": [
         "marketplace-delisted",
@@ -2309,7 +2309,7 @@
     "issue": 966,
     "id": "555308C2",
     "title": "Assassin's Creed IV: Black Flag",
-    "updated": "2026-06-15T16:11:44Z",
+    "updated": "2026-06-18T15:52:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4674,7 +4674,7 @@
     "issue": 817,
     "id": "415607D6",
     "title": "Quake 2 (Quake 4 Bonus Content)",
-    "updated": "2026-05-08T22:47:09Z",
+    "updated": "2026-06-18T12:40:19Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4682,7 +4682,6 @@
       ],
       "others": [
         "tech-engine-idtech",
-        "kernel-xex-switching",
         "backwards-compatibility-unsupported",
         "supports-1080p",
         "no-disc-install"
@@ -5511,7 +5510,7 @@
     "issue": 762,
     "id": "57520828",
     "title": "Batman: Arkham Origins",
-    "updated": "2026-01-04T20:57:10Z",
+    "updated": "2026-06-18T16:19:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5523,7 +5522,6 @@
         "tech-physics-physx",
         "tech-middleware-wwise",
         "gpu-readback",
-        "kernel-xex-switching",
         "tech-middleware-scaleform",
         "gpu-occlusion-query"
       ]
@@ -15309,14 +15307,13 @@
     "issue": 146,
     "id": "4343081E",
     "title": "Devil May Cry HD Colletion",
-    "updated": "2026-05-08T13:30:39Z",
+    "updated": "2026-06-18T12:46:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "kernel-xex-switching",
         "backwards-compatibility-unsupported",
         "vsync-off-speedup",
         "requires_clear_memory_page_state_true"
