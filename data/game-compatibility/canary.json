@@ -1,5 +1,23 @@
 [
   {
+    "issue": 1140,
+    "id": "545408A7",
+    "title": "Grand Theft Auto V",
+    "updated": "2026-06-18T19:26:43Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "tech-engine-rage",
+        "gpu-readback",
+        "gpu-occlusion-query"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1140"
+  },
+  {
     "issue": 1138,
     "id": "465307D7",
     "title": "Tenchu Z",
@@ -2104,7 +2122,7 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-06-17T00:16:46Z",
+    "updated": "2026-06-18T19:14:38Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -2113,7 +2131,8 @@
       "others": [
         "gpu-drawing-missing",
         "tech-engine-blam",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/981"
@@ -9641,7 +9660,7 @@
     "issue": 492,
     "id": "544307D5",
     "title": "NINJA GAIDEN II",
-    "updated": "2026-05-07T23:15:54Z",
+    "updated": "2026-06-18T20:07:02Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -10881,7 +10900,7 @@
     "issue": 414,
     "id": "415607DD",
     "title": "Tony Hawk's Project 8",
-    "updated": "2025-09-14T00:32:44Z",
+    "updated": "2026-06-18T22:09:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16567,7 +16586,7 @@
     "issue": 46,
     "id": "4D53082D",
     "title": "Gears of War 2",
-    "updated": "2026-06-18T04:18:29Z",
+    "updated": "2026-06-18T21:28:36Z",
     "state": "Playable",
     "labels": {
       "state": [
