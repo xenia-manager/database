@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "d55670e",
+    "target_commitish": "d55670e40b1016cc36cca5111c821b3e7c9a85b8",
+    "published_at": "2026-06-19T06:26:16Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d55670e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d55670e40b1016cc36cca5111c821b3e7c9a85b8",
+    "changelog": {
+      "title": "d55670e_canary_experimental",
+      "changes": "- [GPU] Rolls back ZPD cache erasure on guest BEGIN. Only affects kFast. (`d55670e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/269ee61...d55670e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d55670e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d55670e/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "269ee61",
     "target_commitish": "269ee6184595d35979136993174c0109efae5c5f",
     "published_at": "2026-06-18T11:50:01Z",
