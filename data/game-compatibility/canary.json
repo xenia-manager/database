@@ -546,7 +546,7 @@
     "issue": 1098,
     "id": "5841097E",
     "title": "Battlefield 1943",
-    "updated": "2026-06-13T17:57:28Z",
+    "updated": "2026-06-19T21:28:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -555,7 +555,8 @@
       "others": [
         "gpu-drawing-corrupt",
         "xam-live-signin-required",
-        "tech-engine-frostbite"
+        "tech-engine-frostbite",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1098"
@@ -8800,7 +8801,7 @@
     "issue": 544,
     "id": "454108D8",
     "title": "Army of Two: The 40th Day",
-    "updated": "2026-06-01T12:26:19Z",
+    "updated": "2026-06-19T20:57:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8808,7 +8809,8 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "marketplace-nodownload"
+        "marketplace-nodownload",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/544"
@@ -14014,7 +14016,7 @@
     "issue": 232,
     "id": "415608CB",
     "title": "Call Of Duty: Modern Warfare 3",
-    "updated": "2026-06-19T15:52:27Z",
+    "updated": "2026-06-19T20:54:30Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15737,7 +15739,7 @@
     "issue": 116,
     "id": "4541094A",
     "title": "Need For Speed The Run",
-    "updated": "2026-05-22T11:34:29Z",
+    "updated": "2026-06-20T01:53:57Z",
     "state": "Loads",
     "labels": {
       "state": [

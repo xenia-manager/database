@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "e7d0e45",
+    "target_commitish": "e7d0e45095776f7de5312977d2e5b5f3ca5ab2f6",
+    "published_at": "2026-06-19T18:26:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e7d0e45",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e7d0e45095776f7de5312977d2e5b5f3ca5ab2f6",
+    "changelog": {
+      "title": "e7d0e45_canary_experimental",
+      "changes": "- [XAM] Fixed returning error in XamLoaderGetLaunchDataSize (`e7d0e45`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d55670e...e7d0e45"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e7d0e45/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e7d0e45/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "d55670e",
     "target_commitish": "d55670e40b1016cc36cca5111c821b3e7c9a85b8",
     "published_at": "2026-06-19T06:26:16Z",
