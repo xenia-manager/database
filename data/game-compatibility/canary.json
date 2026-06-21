@@ -3,11 +3,16 @@
     "issue": 1143,
     "id": "455607DB",
     "title": "Test Drive: Ferrari Racing Legends",
-    "updated": "2026-06-21T09:36:02Z",
-    "state": "Unknown",
+    "updated": "2026-06-21T12:26:27Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-missing",
+        "gpu-drawing-black"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1143"
   },
