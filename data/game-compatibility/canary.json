@@ -1,5 +1,39 @@
 [
   {
+    "issue": 1142,
+    "id": "54510839",
+    "title": "Disney\u00b7Pixar UP",
+    "updated": "2026-06-21T04:12:31Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "apu-garbage"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1142"
+  },
+  {
+    "issue": 1141,
+    "id": "5752084F",
+    "title": "Lego Marvel Avengers",
+    "updated": "2026-06-20T21:05:04Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-missing",
+        "gpu-readback",
+        "gpu-drawing-black"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1141"
+  },
+  {
     "issue": 1140,
     "id": "545408A7",
     "title": "Grand Theft Auto V",
@@ -7258,7 +7292,7 @@
     "issue": 646,
     "id": "5454087C",
     "title": "Borderlands 2",
-    "updated": "2026-06-16T00:32:19Z",
+    "updated": "2026-06-20T22:54:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
