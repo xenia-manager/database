@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "0f281b6",
+    "target_commitish": "0f281b6cb647171f986ea9c84e78f61947045b2e",
+    "published_at": "2026-06-22T08:27:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0f281b6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0f281b6cb647171f986ea9c84e78f61947045b2e",
+    "changelog": {
+      "title": "0f281b6_canary_experimental",
+      "changes": "- [CPU] fix vector store tests (`0f281b6`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b268292...0f281b6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0f281b6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0f281b6/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "b268292",
     "target_commitish": "b2682920467c15f9bca516c5b664e52ab0a286ac",
     "published_at": "2026-06-21T16:13:09Z",
