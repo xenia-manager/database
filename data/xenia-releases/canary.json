@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "9c8e34b",
+    "target_commitish": "9c8e34b29e276320a319a0a46f7713de60efa50c",
+    "published_at": "2026-06-22T20:56:21Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9c8e34b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9c8e34b29e276320a319a0a46f7713de60efa50c",
+    "changelog": {
+      "title": "9c8e34b_canary_experimental",
+      "changes": "- [Kernel] Moved kernel memory allocation to proper location. (`9c8e34b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/0f281b6...9c8e34b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9c8e34b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9c8e34b/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "0f281b6",
     "target_commitish": "0f281b6cb647171f986ea9c84e78f61947045b2e",
     "published_at": "2026-06-22T08:27:51Z",
