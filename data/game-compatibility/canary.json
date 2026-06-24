@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1147,
+    "id": "43430817",
+    "title": "Asura's Wrath",
+    "updated": "2026-06-23T18:58:46Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1147"
+  },
+  {
     "issue": 1146,
     "id": "584112B0",
     "title": "Call of Juarez: Gunslinger",
@@ -3313,13 +3329,16 @@
     "issue": 909,
     "id": "475007D3",
     "title": "Legendary",
-    "updated": "2026-02-03T18:49:31Z",
+    "updated": "2026-06-23T18:53:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-occlusion-query"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/909"
   },
@@ -11108,7 +11127,7 @@
     "issue": 406,
     "id": "555307DC",
     "title": "Far Cry: Instincts Predator",
-    "updated": "2026-06-23T07:59:17Z",
+    "updated": "2026-06-23T19:57:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11762,7 +11781,7 @@
     "issue": 369,
     "id": "454108A8",
     "title": "Battlefield: Bad Company 2",
-    "updated": "2026-05-17T23:36:29Z",
+    "updated": "2026-06-23T22:13:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16935,7 +16954,7 @@
     "issue": 28,
     "id": "454107D9",
     "title": "Need for Speed Most Wanted (2005)",
-    "updated": "2026-06-20T10:10:51Z",
+    "updated": "2026-06-23T19:50:03Z",
     "state": "Gameplay",
     "labels": {
       "state": [

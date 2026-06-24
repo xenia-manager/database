@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "2771366",
+    "target_commitish": "2771366b8bb92d32d475b18a4fe9241c5aa691a4",
+    "published_at": "2026-06-23T19:24:03Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2771366",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2771366b8bb92d32d475b18a4fe9241c5aa691a4",
+    "changelog": {
+      "title": "2771366_canary_experimental",
+      "changes": "- [XAM] Simplified loader_data structure. (`2771366`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9c8e34b...2771366"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2771366/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.zip",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2771366/xenia_canary_windows.zip"
+      }
+    ]
+  },
+  {
     "tag_name": "9c8e34b",
     "target_commitish": "9c8e34b29e276320a319a0a46f7713de60efa50c",
     "published_at": "2026-06-22T20:56:21Z",
