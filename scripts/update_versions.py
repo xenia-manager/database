@@ -6,6 +6,9 @@ GITHUB_API = "https://api.github.com/repos"
 # Base directory (project root)
 BASE_DIR = Path(__file__).parent.parent
 
+# Set to None to allow any extension
+ALLOWED_EXTENSIONS = (".zip",)
+
 
 def debug(msg):
     print(f"[DEBUG] {msg}", file=sys.stderr)
@@ -92,29 +95,23 @@ def fetch_latest_canary(old_version=None):
             debug("No releases in canary.json, using old version")
             return old_version
 
-        # First release is the newest (already sorted by canary.py)
-        latest = releases[0]
-        tag_name = latest.get("tag_name")
-        target_commitish = latest.get("target_commitish", "")
-        published_at = latest.get("published_at")
-        assets = latest.get("assets", [])
+        # Releases are sorted newest first by canary.py; find the latest with a Windows .zip asset
+        for rel in releases:
+            tag_name = rel.get("tag_name")
+            published_at = rel.get("published_at")
+            assets = rel.get("assets", [])
 
-        # Find Windows asset
-        windows_asset = None
-        for asset in assets:
-            if "windows" in asset.get("name", "").lower():
-                windows_asset = asset
-                break
+            for asset in assets:
+                name_lower = asset.get("name", "").lower()
+                if "windows" in name_lower and (not ALLOWED_EXTENSIONS or name_lower.endswith(ALLOWED_EXTENSIONS)):
+                    return {
+                        "tag_name": tag_name,
+                        "date": published_at,
+                        "url": asset.get("url"),
+                    }
 
-        if not windows_asset:
-            debug("No Windows asset found in canary.json, using old version")
-            return old_version
-
-        return {
-            "tag_name": tag_name,
-            "date": published_at,
-            "url": windows_asset.get("url"),
-        }
+        debug("No release with Windows .zip asset found in canary.json, using old version")
+        return old_version
     except Exception as e:
         debug(f"Error reading canary.json: {e}, falling back to API fetch")
         return _fetch_canary_from_api(old_version)
@@ -145,7 +142,8 @@ def _fetch_canary_from_api(old_version=None):
             if tag == "experimental":
                 continue
             assets = [
-                a for a in rel.get("assets", []) if "windows" in a["name"].lower()
+                a for a in rel.get("assets", [])
+                if "windows" in a["name"].lower() and (not ALLOWED_EXTENSIONS or a["name"].lower().endswith(ALLOWED_EXTENSIONS))
             ]
             if assets:
                 asset = assets[0]
@@ -173,7 +171,10 @@ def _fetch_canary_from_api(old_version=None):
 # ----- Netplay stable -----
 def fetch_netplay_stable(old_netplay_stable=None):
     rel = gh_get(f"{GITHUB_API}/AdrianCassar/xenia-canary/releases/latest")
-    assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
+    assets = [
+        a for a in rel.get("assets", [])
+        if "windows" in a["name"].lower() and (not ALLOWED_EXTENSIONS or a["name"].lower().endswith(ALLOWED_EXTENSIONS))
+    ]
     if not assets:
         debug("No windows zip asset found in netplay stable release, preserving old entry")
         return (
@@ -213,8 +214,12 @@ def fetch_mousehook_versions():
     def fmt(rel):
         if not rel:
             return {"tag_name": None, "url": None, "date": None}
+        zip_assets = [
+            a for a in (rel.get("assets") or [])
+            if not ALLOWED_EXTENSIONS or a.get("name", "").lower().endswith(ALLOWED_EXTENSIONS)
+        ]
         url = (
-            rel["assets"][0].get("browser_download_url") if rel.get("assets") else None
+            zip_assets[0].get("browser_download_url") if zip_assets else None
         )
         return {
             "tag_name": rel.get("tag_name"),
@@ -266,3 +271,4 @@ with open("data/version.json", "w", encoding="utf-8") as f:
 
 print(json.dumps(fetched_data, indent=2))
 print("✅ version.json updated with latest releases")
+
