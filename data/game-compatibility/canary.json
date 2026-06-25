@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1148,
+    "id": "58411489",
+    "title": "JUJU",
+    "updated": "2026-06-25T16:38:46Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1148"
+  },
+  {
     "issue": 1147,
     "id": "43430817",
     "title": "Asura's Wrath",
@@ -548,7 +564,7 @@
     "issue": 1108,
     "id": "584108A9",
     "title": "Bean (GoldenEye 007 XBLA)",
-    "updated": "2026-05-09T13:37:23Z",
+    "updated": "2026-06-25T11:47:59Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17168,14 +17184,13 @@
     "issue": 8,
     "id": "425307F1",
     "title": "DOOM 3 BFG Edition",
-    "updated": "2024-10-26T15:49:36Z",
+    "updated": "2026-06-25T17:24:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "xam-input-problems",
         "gpu-drawing-corrupt",
         "tech-engine-idtech",
         "marketplace-delisted",
