@@ -5740,7 +5740,7 @@
     "issue": 757,
     "id": "4B4D07F6",
     "title": "Saints Row IV",
-    "updated": "2026-06-12T20:54:47Z",
+    "updated": "2026-06-26T18:04:36Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5748,7 +5748,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-readback"
+        "gpu-readback",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/757"
@@ -9925,7 +9926,7 @@
     "issue": 481,
     "id": "465607DE",
     "title": "Phantom Breaker",
-    "updated": "2026-05-28T11:18:36Z",
+    "updated": "2026-06-27T00:49:12Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9933,8 +9934,7 @@
       ],
       "others": [
         "backwards-compatibility-unsupported",
-        "vsync-off-speedup",
-        "crash-random"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/481"
