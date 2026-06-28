@@ -7,7 +7,7 @@ GITHUB_API = "https://api.github.com/repos"
 BASE_DIR = Path(__file__).parent.parent
 
 # Set to None to allow any extension
-ALLOWED_EXTENSIONS = (".zip",)
+ALLOWED_EXTENSIONS = (".zip", ".7z")
 
 
 def debug(msg):
