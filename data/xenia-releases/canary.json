@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "8b948d5",
+    "target_commitish": "8b948d503f5f7c96f95b6c7016bb2ce165b1f9f6",
+    "published_at": "2026-06-28T05:34:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8b948d5",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8b948d503f5f7c96f95b6c7016bb2ce165b1f9f6",
+    "changelog": {
+      "title": "8b948d5_canary_experimental",
+      "changes": "- [CI] Upgrade cache action to v6 (`8b948d5`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1e7c1f6...8b948d5"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8b948d5/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8b948d5/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "1e7c1f6",
     "target_commitish": "1e7c1f6773b2eee245de3975c8736308c96b7298",
     "published_at": "2026-06-26T22:29:41Z",
