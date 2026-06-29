@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "9781a75",
+    "target_commitish": "9781a75a22ba789124d7f34c6bdb4a85c78b2532",
+    "published_at": "2026-06-29T08:38:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9781a75",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9781a75a22ba789124d7f34c6bdb4a85c78b2532",
+    "changelog": {
+      "title": "9781a75_canary_experimental",
+      "changes": "- [GPU] Avoid stale texture state after invalidation (`9781a75`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a421f8d...9781a75"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9781a75/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9781a75/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "a421f8d",
+    "target_commitish": "a421f8da524ef5d099f21d0222d8c12b9a922142",
+    "published_at": "2026-06-29T07:38:53Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a421f8d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a421f8da524ef5d099f21d0222d8c12b9a922142",
+    "changelog": {
+      "title": "a421f8d_canary_experimental",
+      "changes": "- [Xam/Info] - Implement XGetOverlappedExtendedError (`a421f8d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8b948d5...a421f8d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a421f8d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a421f8d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "8b948d5",
     "target_commitish": "8b948d503f5f7c96f95b6c7016bb2ce165b1f9f6",
     "published_at": "2026-06-28T05:34:58Z",
