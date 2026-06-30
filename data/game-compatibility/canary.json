@@ -1,5 +1,17 @@
 [
   {
+    "issue": 1150,
+    "id": "4D530910",
+    "title": "Forza Motorsport 4",
+    "updated": "2026-06-29T23:13:05Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1150"
+  },
+  {
     "issue": 1149,
     "id": "58410847",
     "title": "Castlevania Symphony of the Night (SOTN)",
@@ -472,7 +484,7 @@
     "issue": 1115,
     "id": "58410A78",
     "title": "Guwange",
-    "updated": "2026-06-29T14:36:32Z",
+    "updated": "2026-06-29T23:36:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7528,7 +7540,7 @@
     "issue": 637,
     "id": "43430822",
     "title": "Resident Evil Code: Veronica X",
-    "updated": "2026-06-17T01:05:02Z",
+    "updated": "2026-06-29T22:28:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16091,7 +16103,7 @@
     "issue": 99,
     "id": "5451087D",
     "title": "UFC Undisputed 3",
-    "updated": "2026-06-08T02:55:51Z",
+    "updated": "2026-06-30T01:40:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16839,7 +16851,7 @@
     "issue": 39,
     "id": "4D5308AB",
     "title": "Gears of War 3",
-    "updated": "2026-06-21T07:25:26Z",
+    "updated": "2026-06-29T22:46:05Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16847,6 +16859,7 @@
       ],
       "others": [
         "tech-engine-unreal",
+        "tech-middleware-scaleform",
         "gpu-occlusion-query",
         "supports-3d"
       ]
