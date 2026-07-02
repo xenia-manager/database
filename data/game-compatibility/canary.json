@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1152,
+    "id": "534E07DC",
+    "title": "The King Of Fighters XIII",
+    "updated": "2026-07-02T00:53:32Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1152"
+  },
+  {
     "issue": 1149,
     "id": "58410847",
     "title": "Castlevania Symphony of the Night (SOTN)",
@@ -5924,14 +5938,16 @@
     "issue": 748,
     "id": "4541098E",
     "title": "Crysis 3",
-    "updated": "2026-04-10T05:59:45Z",
+    "updated": "2026-07-01T18:01:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt"
+        "gpu-drawing-corrupt",
+        "tech-engine-cry",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/748"
