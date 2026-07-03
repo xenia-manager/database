@@ -10099,6 +10099,13 @@
         ],
         "Back": [
           {
+            "CRC32": "2250434544",
+            "FileName": "r2_665b28d9-aa86-4bc7-8abb-959887079c01.jpg",
+            "Region": "Germany",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_665b28d9-aa86-4bc7-8abb-959887079c01.jpg"
+          },
+          {
             "CRC32": "2483582641",
             "FileName": "r2_a25d5650-cf1a-47bb-a069-353f42069440.png",
             "Region": "Korea",
@@ -10158,6 +10165,13 @@
           }
         ],
         "Spine": [
+          {
+            "CRC32": "4156936973",
+            "FileName": "r2_d06a3805-9147-418b-87f1-3d381cbc5f90.jpg",
+            "Region": "Germany",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_d06a3805-9147-418b-87f1-3d381cbc5f90.jpg"
+          },
           {
             "CRC32": "389336307",
             "FileName": "r2_476ebfdf-be14-449c-8e9f-8f5cca359119.png",
@@ -111476,7 +111490,7 @@
         }
       ]
     },
-    "CommunityRating": "3.625",
+    "CommunityRating": "3.65384615384615",
     "DatabaseID": "16717",
     "Developer": "Kojima Productions",
     "ESRB": "M - Mature",
@@ -114514,12 +114528,6 @@
     "Artwork": {
       "Background": [
         {
-          "CRC32": "407779311",
-          "FileName": "03ce2c08-6c77-4b78-876b-53ff901d5153.jpg",
-          "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/03ce2c08-6c77-4b78-876b-53ff901d5153.jpg"
-        },
-        {
           "CRC32": "4177216823",
           "FileName": "23850bde-47c5-44b1-918f-8f6cb89092b0.jpg",
           "Type": "Fanart - Background",
@@ -114527,6 +114535,13 @@
         }
       ],
       "Banner": [
+        {
+          "CRC32": "407779311",
+          "FileName": "03ce2c08-6c77-4b78-876b-53ff901d5153.jpg",
+          "Region": "World",
+          "Type": "Banner",
+          "URL": "http://images.launchbox-app.com/03ce2c08-6c77-4b78-876b-53ff901d5153.jpg"
+        },
         {
           "CRC32": "3639877191",
           "FileName": "r2_73d65a34-e809-45bb-b9d5-dc05e0860324.png",
@@ -166858,6 +166873,13 @@
       "Box": {
         "Back": [
           {
+            "CRC32": "3038538007",
+            "FileName": "r2_53fc80fc-bf84-4d68-bd79-7ad437de4dd6.jpg",
+            "Region": "Germany",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_53fc80fc-bf84-4d68-bd79-7ad437de4dd6.jpg"
+          },
+          {
             "CRC32": "3913705252",
             "FileName": "r2_86432b01-b8a1-4c8a-8c46-eb39ae58cfab.jpg",
             "Region": "North America",
@@ -166866,6 +166888,13 @@
           }
         ],
         "Front": [
+          {
+            "CRC32": "3089815299",
+            "FileName": "r2_e057b316-bbbb-44f4-bf82-e62c9535cf96.jpg",
+            "Region": "Germany",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_e057b316-bbbb-44f4-bf82-e62c9535cf96.jpg"
+          },
           {
             "CRC32": "4251658933",
             "FileName": "r2_fb6157bd-a9eb-4573-942c-5c9c836920c7.jpg",
@@ -166880,6 +166909,15 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_ab55594f-f7d2-454c-bd9d-ffc4a3cbd1bb.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1140584575",
+            "FileName": "r2_fc047707-b877-478c-a83e-d4e7fc77c3e8.jpg",
+            "Region": "Germany",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_fc047707-b877-478c-a83e-d4e7fc77c3e8.jpg"
+          }
         ]
       },
       "Disc": [
@@ -166889,6 +166927,13 @@
           "Region": "Europe",
           "Type": "Disc",
           "URL": "http://images.launchbox-app.com/r2_211b5086-4c96-4085-96f0-9b48e09eba97.png"
+        },
+        {
+          "CRC32": "2821580971",
+          "FileName": "r2_6230418b-c90a-432d-a2e6-3cb04ba91cbe.png",
+          "Region": "Germany",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_6230418b-c90a-432d-a2e6-3cb04ba91cbe.png"
         }
       ]
     },
@@ -180531,7 +180576,7 @@
           {
             "CRC32": "3303605174",
             "FileName": "c7651a1b-1932-492b-b2b5-3a0bf5f66b76.jpg",
-            "Region": "United States",
+            "Region": "World",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/c7651a1b-1932-492b-b2b5-3a0bf5f66b76.jpg"
           },
@@ -258660,5 +258705,15 @@
     "Name": "Dirt Dash",
     "Overview": "This is an arcade emulator designed to run Namco's Dirt Dash on Xbox 360 hardware at full speed in HD with native 16:9 rendering.\n\nDirt Dash is a solo only game, there is no multiplayer at all in this game. The usual options apply; widescreen/4:3 toggle, Controller/Steering Wheel toggle, customisable controls etc.",
     "ReleaseDate": "2026-06-05T00:00:00+00:00"
+  },
+  {
+    "DatabaseID": "475057",
+    "Developer": "Criterion Games",
+    "ESRB": "T - Teen",
+    "Genres": "Racing",
+    "Name": "Burnout Paradise: The Ultimate Box",
+    "Overview": "Burnout Paradise: The Ultimate Box is the definitive edition of Criterion Games' acclaimed open-world racing game. Set in the sprawling streets of Paradise City, players can compete in high-speed races, Road Rage events, Stunt Runs, and Marked Man challenges while freely exploring the city and discovering shortcuts, jumps, and hidden secrets.\n\nThe Ultimate Box includes the original Burnout Paradise experience along with major content updates, including the Cagney update, Bikes expansion, and Party Pack. Players can take to the streets in a wide variety of cars and motorcycles, earning new vehicles by winning events and taking down rivals. Online multiplayer supports up to eight players in Freeburn challenges, while Party Pack adds local pass-the-controller multiplayer for up to eight participants.\n\nFeaturing spectacular crashes, intense takedowns, and seamless open-world gameplay, Burnout Paradise: The Ultimate Box delivers one of the most exciting arcade racing experiences ever released.",
+    "Publisher": "Electronic Arts.",
+    "ReleaseDate": "2009-02-05T00:00:00+00:00"
   }
 ]
