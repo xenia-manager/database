@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "2c94e46",
+    "target_commitish": "2c94e46727b8595060cdd80fb36dd9da7a48f607",
+    "published_at": "2026-07-03T16:47:12Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2c94e46",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2c94e46727b8595060cdd80fb36dd9da7a48f607",
+    "changelog": {
+      "title": "2c94e46_canary_experimental",
+      "changes": "- [GPU] Reduce log spam from D3D12 pipeline (`2c94e46`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9588ce2...2c94e46"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2c94e46/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2c94e46/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "9588ce2",
     "target_commitish": "9588ce244dc2684d1573736a717a5d234bf7c2bb",
     "published_at": "2026-06-29T21:13:43Z",
