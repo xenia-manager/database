@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "35c513b",
+    "target_commitish": "35c513bfa2f0652c8178be2aa43afb7ce4cc46de",
+    "published_at": "2026-07-04T13:09:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/35c513b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/35c513bfa2f0652c8178be2aa43afb7ce4cc46de",
+    "changelog": {
+      "title": "35c513b_canary_experimental",
+      "changes": "- [XAM] Fixed UserData reading incorrect variant type (`35c513b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2c94e46...35c513b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/35c513b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/35c513b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "2c94e46",
     "target_commitish": "2c94e46727b8595060cdd80fb36dd9da7a48f607",
     "published_at": "2026-07-03T16:47:12Z",
