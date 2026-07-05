@@ -1,5 +1,41 @@
 [
   {
+    "issue": 1155,
+    "id": "58410975",
+    "title": "3 on 3 NHL Arcade",
+    "updated": "2026-07-05T16:10:35Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "vsync-off-speedup"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1155"
+  },
+  {
+    "issue": 1154,
+    "id": "425307D9",
+    "title": "Brink",
+    "updated": "2026-07-05T14:48:46Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "apu-silent",
+        "tech-engine-idtech",
+        "gpu-readback",
+        "crash-always"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1154"
+  },
+  {
     "issue": 1152,
     "id": "534E07DC",
     "title": "The King Of Fighters XIII",
@@ -2221,7 +2257,7 @@
     "issue": 988,
     "id": "535107DB",
     "title": "Infinite Undiscovery",
-    "updated": "2026-06-27T04:57:07Z",
+    "updated": "2026-07-05T16:23:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12172,7 +12208,7 @@
     "issue": 349,
     "id": "454108E6",
     "title": "Skate 3",
-    "updated": "2026-05-21T02:20:38Z",
+    "updated": "2026-07-05T11:19:11Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16224,7 +16260,7 @@
     "issue": 87,
     "id": "55530825",
     "title": "Naruto: The Broken Bond",
-    "updated": "2026-05-13T11:46:55Z",
+    "updated": "2026-07-05T11:00:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
