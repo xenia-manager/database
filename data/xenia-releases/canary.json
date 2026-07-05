@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "573cce0",
+    "target_commitish": "573cce0fe2724cbdcab38a22153009275c26672e",
+    "published_at": "2026-07-04T19:19:06Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/573cce0",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/573cce0fe2724cbdcab38a22153009275c26672e",
+    "changelog": {
+      "title": "573cce0_canary_experimental",
+      "changes": "- [Xam/Locale] - Implement XTLGetLanguageV2 (`573cce0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e45c25c...573cce0"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/573cce0/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/573cce0/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "e45c25c",
+    "target_commitish": "e45c25c4c9569ed0a0d5dd565e70d63cb27c6341",
+    "published_at": "2026-07-04T18:49:11Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e45c25c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e45c25c4c9569ed0a0d5dd565e70d63cb27c6341",
+    "changelog": {
+      "title": "e45c25c_canary_experimental",
+      "changes": "- [XAM] Added check for UserSetting max ID (`e45c25c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/35c513b...e45c25c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e45c25c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e45c25c/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "35c513b",
     "target_commitish": "35c513bfa2f0652c8178be2aa43afb7ce4cc46de",
     "published_at": "2026-07-04T13:09:51Z",
