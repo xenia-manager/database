@@ -14434,16 +14434,14 @@
     "issue": 219,
     "id": "45410809",
     "title": "The Simpsons Game",
-    "updated": "2026-06-10T05:10:19Z",
+    "updated": "2026-07-07T10:39:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "apu-garbage",
-        "gpu-occlusion-query"
+        "gpu-drawing-corrupt"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/219"
