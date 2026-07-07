@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "d119505",
+    "target_commitish": "d119505289d540f61ae3d4ba6168f1145625277a",
+    "published_at": "2026-07-06T19:15:13Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d119505",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d119505289d540f61ae3d4ba6168f1145625277a",
+    "changelog": {
+      "title": "d119505_canary_experimental",
+      "changes": "- [GPU] Texture integer scaling fetches; 8_8_8_8_GAMMA resolve (`d119505`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/573cce0...d119505"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d119505/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d119505/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "573cce0",
     "target_commitish": "573cce0fe2724cbdcab38a22153009275c26672e",
     "published_at": "2026-07-04T19:19:06Z",

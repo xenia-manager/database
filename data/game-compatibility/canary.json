@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1156,
+    "id": "555307FB",
+    "title": "Pure Football",
+    "updated": "2026-07-06T23:50:10Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1156"
+  },
+  {
     "issue": 1155,
     "id": "58410975",
     "title": "3 on 3 NHL Arcade",
@@ -289,13 +303,15 @@
     "issue": 1133,
     "id": "584108B3",
     "title": "Rez HD",
-    "updated": "2026-07-06T04:57:14Z",
+    "updated": "2026-07-06T20:29:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-driver-issues-nvidia"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1133"
   },
@@ -946,7 +962,7 @@
     "issue": 1085,
     "id": "58410A1B",
     "title": "ilomilo",
-    "updated": "2026-05-09T00:43:56Z",
+    "updated": "2026-07-06T21:40:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3282,7 +3298,7 @@
     "issue": 919,
     "id": "41560922",
     "title": "The Peanuts Movie: Snoopy's Grand Adventure",
-    "updated": "2025-10-26T04:58:19Z",
+    "updated": "2026-07-06T20:58:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8300,11 +8316,11 @@
     "issue": 587,
     "id": "4156081F",
     "title": "James Bond 007 Blood Stone",
-    "updated": "2026-05-20T21:31:56Z",
-    "state": "Gameplay",
+    "updated": "2026-07-06T21:36:54Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-bespoke",
