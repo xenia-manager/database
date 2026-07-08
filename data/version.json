@@ -13,9 +13,9 @@
   },
   "xenia": {
     "canary": {
-      "tag_name": "d119505",
-      "date": "2026-07-06T19:15:13Z",
-      "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d119505/xenia_canary_windows.7z"
+      "tag_name": "d804cf8",
+      "date": "2026-07-08T10:09:14Z",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d804cf8/xenia_canary_windows.7z"
     },
     "netplay": {
       "stable": {
@@ -32,14 +32,14 @@
     },
     "mousehook": {
       "standard": {
-        "tag_name": "june-14-2026",
-        "date": "2026-06-15T09:33:40Z",
-        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/june-14-2026/xenia-canary-mousehook.zip"
+        "tag_name": "july-6-2026",
+        "date": "2026-07-08T09:14:26Z",
+        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/july-6-2026/xenia_canary_mousehook_windows.7z"
       },
       "netplay": {
-        "tag_name": "netplay-xam-fixed-missing-createfolder-in-xamwritegamertile",
-        "date": "2026-06-08T11:40:41Z",
-        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/netplay-xam-fixed-missing-createfolder-in-xamwritegamertile/xenia_canary_netplay.zip"
+        "tag_name": "netplay-check-existing-friend-in-addfriend",
+        "date": "2026-07-08T09:55:05Z",
+        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/netplay-check-existing-friend-in-addfriend/xenia_canary_netplay.zip"
       }
     }
   }
