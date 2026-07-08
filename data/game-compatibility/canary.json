@@ -161,15 +161,15 @@
     "issue": 1143,
     "id": "455607DB",
     "title": "Test Drive: Ferrari Racing Legends",
-    "updated": "2026-06-21T12:26:27Z",
+    "updated": "2026-07-08T14:09:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
-        "gpu-drawing-black"
+        "gpu-drawing-corrupt",
+        "tech-engine-madness"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1143"
@@ -758,7 +758,7 @@
     "issue": 1100,
     "id": "425307E6",
     "title": "Elder Scrolls V: Skyrim",
-    "updated": "2026-05-08T10:58:12Z",
+    "updated": "2026-07-08T13:26:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -766,7 +766,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
         "gpu-readback",
         "crash-random"
       ]
@@ -1360,15 +1359,14 @@
     "issue": 1059,
     "id": "5345085C",
     "title": "BINARY DOMAIN",
-    "updated": "2026-05-15T23:28:20Z",
+    "updated": "2026-07-08T13:52:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
-        "gpu-drawing-black"
+        "tech-microphone-optional"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1059"
@@ -1617,15 +1615,13 @@
     "issue": 1039,
     "id": "415608A7",
     "title": "Prototype 2",
-    "updated": "2026-05-07T23:48:43Z",
+    "updated": "2026-07-08T14:58:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-drawing-missing"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1039"
   },
@@ -2560,14 +2556,14 @@
     "issue": 966,
     "id": "555308C2",
     "title": "Assassin's Creed IV: Black Flag",
-    "updated": "2026-06-18T15:52:52Z",
+    "updated": "2026-07-08T13:45:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
+        "gpu-readback",
         "gpu-occlusion-query"
       ]
     },
@@ -2577,7 +2573,7 @@
     "issue": 965,
     "id": "555308AE",
     "title": "Assassin's Creed III",
-    "updated": "2026-06-15T14:47:32Z",
+    "updated": "2026-07-08T13:44:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4407,15 +4403,14 @@
   {
     "issue": 850,
     "id": "425307E0",
-    "title": "Fallout: New Vegas - Ultimate Edition",
-    "updated": "2026-05-12T04:12:00Z",
+    "title": "Fallout: New Vegas",
+    "updated": "2026-07-08T16:57:12Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "gpu-viz-query"
       ]
     },
@@ -4591,15 +4586,14 @@
     "issue": 839,
     "id": "425307D5",
     "title": "Fallout 3",
-    "updated": "2026-05-17T20:19:45Z",
-    "state": "Gameplay",
+    "updated": "2026-07-08T13:28:03Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
         "tech-middleware-gamebryo"
       ]
     },
@@ -5380,14 +5374,13 @@
     "issue": 789,
     "id": "545107DE",
     "title": "MX vs. ATV: Untamed",
-    "updated": "2026-06-01T13:35:54Z",
+    "updated": "2026-07-08T14:40:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-occlusion-query"
       ]
     },
@@ -5843,14 +5836,15 @@
     "issue": 758,
     "id": "53510811",
     "title": "Sleeping Dogs",
-    "updated": "2026-02-03T18:47:04Z",
+    "updated": "2026-07-08T16:34:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt"
+        "gpu-readback",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/758"
@@ -5859,7 +5853,7 @@
     "issue": 757,
     "id": "4B4D07F6",
     "title": "Saints Row IV",
-    "updated": "2026-06-26T18:04:36Z",
+    "updated": "2026-07-08T16:57:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6007,14 +6001,13 @@
     "issue": 748,
     "id": "4541098E",
     "title": "Crysis 3",
-    "updated": "2026-07-01T18:01:45Z",
+    "updated": "2026-07-08T14:17:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-cry",
         "gpu-readback"
       ]
@@ -7214,7 +7207,7 @@
     "issue": 664,
     "id": "415608B2",
     "title": "Spider Man: Edge Of Time",
-    "updated": "2026-05-26T07:14:03Z",
+    "updated": "2026-07-08T16:15:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7222,7 +7215,7 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "gpu-drawing-black"
+        "gpu-shader-errors"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/664"
@@ -7632,7 +7625,7 @@
     "issue": 637,
     "id": "43430822",
     "title": "Resident Evil Code: Veronica X",
-    "updated": "2026-07-07T13:33:17Z",
+    "updated": "2026-07-08T16:59:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8283,7 +8276,7 @@
     "issue": 593,
     "id": "45410934",
     "title": "Shift 2: Unleashed",
-    "updated": "2026-05-15T23:31:52Z",
+    "updated": "2026-07-08T13:36:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8292,7 +8285,8 @@
       "others": [
         "gpu-drawing-missing",
         "backwards-compatibility-unsupported",
-        "gpu-drawing-black"
+        "gpu-drawing-black",
+        "tech-engine-madness"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/593"
@@ -8551,14 +8545,15 @@
     "issue": 573,
     "id": "454108B4",
     "title": "Need for Speed Shift",
-    "updated": "2026-07-08T00:35:04Z",
+    "updated": "2026-07-08T13:35:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "backwards-compatibility-unsupported"
+        "backwards-compatibility-unsupported",
+        "tech-engine-madness"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/573"
@@ -9622,14 +9617,13 @@
     "issue": 508,
     "id": "454108E3",
     "title": "Crysis 2",
-    "updated": "2025-03-06T03:40:36Z",
+    "updated": "2026-07-08T14:08:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-engine-cry"
       ]
     },
@@ -10096,19 +10090,17 @@
   {
     "issue": 477,
     "id": "5454086C",
-    "title": "L.A. Noire - The Complete Edition",
-    "updated": "2026-06-15T12:05:39Z",
+    "title": "L.A. Noire",
+    "updated": "2026-07-08T16:35:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-drawing-missing",
         "tech-middleware-havok",
-        "backwards-compatibility-unsupported",
-        "gpu-drawing-black"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/477"
@@ -11002,7 +10994,7 @@
     "issue": 423,
     "id": "4541088F",
     "title": "The Saboteur",
-    "updated": "2025-01-30T10:29:21Z",
+    "updated": "2026-07-08T16:58:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14207,13 +14199,15 @@
     "issue": 234,
     "id": "494707D4",
     "title": "Test Drive Unlimited",
-    "updated": "2026-05-25T14:03:24Z",
+    "updated": "2026-07-08T13:29:51Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": []
+      "others": [
+        "tech-uses-xmp"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/234"
   },
@@ -15286,7 +15280,7 @@
     "issue": 161,
     "id": "5451086D",
     "title": "Saints Row: The Third",
-    "updated": "2024-10-01T16:24:36Z",
+    "updated": "2026-07-08T17:07:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15300,7 +15294,8 @@
         "tech-middleware-wwise",
         "gpu-readback",
         "requires_protect_zero_false",
-        "gpu-occlusion-query"
+        "gpu-occlusion-query",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/161"
@@ -16346,15 +16341,13 @@
     "issue": 82,
     "id": "5345085D",
     "title": "Sonic & All-Stars Racing Transformed",
-    "updated": "2026-05-25T19:48:27Z",
+    "updated": "2026-07-08T17:17:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-shader-errors",
         "tech-middleware-criware"
       ]
     },
@@ -16882,17 +16875,16 @@
     "issue": 42,
     "id": "5454086B",
     "title": "Max Payne 3",
-    "updated": "2026-07-03T09:12:56Z",
+    "updated": "2026-07-08T14:37:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-engine-rage",
         "tech-middleware-euphoria",
-        "gpu-drawing-black"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/42"
