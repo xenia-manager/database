@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "6e5b832",
+    "target_commitish": "6e5b8324f4101464de0f8c2334edb03cac8826c4",
+    "published_at": "2026-07-08T17:46:23Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6e5b832",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6e5b8324f4101464de0f8c2334edb03cac8826c4",
+    "changelog": {
+      "title": "6e5b832_canary_experimental",
+      "changes": "- [APU] Pace audio subsystem (`6e5b832`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d804cf8...6e5b832"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6e5b832/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6e5b832/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "d804cf8",
     "target_commitish": "d804cf828abe36db97b533d514a5c99adbb35204",
     "published_at": "2026-07-08T10:09:14Z",
