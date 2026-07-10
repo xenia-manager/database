@@ -7240,7 +7240,7 @@
     "issue": 662,
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "updated": "2026-07-08T18:11:00Z",
+    "updated": "2026-07-09T17:57:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7248,7 +7248,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-viz-query"
+        "gpu-viz-query",
+        "gpu-occlusion-querybatch"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/662"
@@ -9629,7 +9630,7 @@
     "issue": 507,
     "id": "45410968",
     "title": "Crysis",
-    "updated": "2026-07-09T17:05:04Z",
+    "updated": "2026-07-09T22:40:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
