@@ -4405,13 +4405,17 @@
     "issue": 850,
     "id": "425307E0",
     "title": "Fallout: New Vegas",
-    "updated": "2026-07-08T16:57:12Z",
-    "state": "Gameplay",
+    "updated": "2026-07-11T13:15:09Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
+        "tech-middleware-gamebryo",
+        "gpu-readback",
+        "vsync-off-speedup",
         "gpu-viz-query"
       ]
     },
@@ -10781,7 +10785,7 @@
     "issue": 435,
     "id": "454109D4",
     "title": "2014 FIFA World Cup Brazil",
-    "updated": "2026-07-04T14:12:04Z",
+    "updated": "2026-07-11T13:23:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
