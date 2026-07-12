@@ -246,17 +246,16 @@
     "issue": 1137,
     "id": "584111E8",
     "title": "State of Decay",
-    "updated": "2026-07-01T10:13:40Z",
+    "updated": "2026-07-11T19:13:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
-        "gpu-shader-errors",
         "tech-engine-cry",
-        "gpu-readback"
+        "gpu-readback",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1137"
@@ -4152,7 +4151,7 @@
     "issue": 866,
     "id": "58411446",
     "title": "Guacamelee! Super Turbo Championship Edition",
-    "updated": "2025-10-03T15:06:10Z",
+    "updated": "2026-07-11T19:12:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5893,7 +5892,7 @@
     "issue": 755,
     "id": "434307D2",
     "title": "Dead Rising",
-    "updated": "2026-05-13T20:02:09Z",
+    "updated": "2026-07-11T20:44:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13401,7 +13400,7 @@
     "issue": 282,
     "id": "454107D8",
     "title": "NBA LIVE 06",
-    "updated": "2026-05-23T11:50:26Z",
+    "updated": "2026-07-11T18:50:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15335,14 +15334,16 @@
     "issue": 158,
     "id": "494707E4",
     "title": "Race Pro",
-    "updated": "2025-10-16T18:31:48Z",
+    "updated": "2026-07-11T22:08:31Z",
     "state": "Loads",
     "labels": {
       "state": [
         "state-menus"
       ],
       "others": [
-        "backwards-compatibility-unsupported"
+        "kernel-save-file-errors",
+        "backwards-compatibility-unsupported",
+        "tech-uses-xmp"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/158"
@@ -16834,7 +16835,7 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-06-08T08:07:00Z",
+    "updated": "2026-07-11T18:00:43Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16850,7 +16851,7 @@
     "issue": 43,
     "id": "415608A4",
     "title": "Transformers Dark of The Moon",
-    "updated": "2026-05-14T12:40:41Z",
+    "updated": "2026-07-11T20:32:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
