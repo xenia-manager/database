@@ -1,5 +1,22 @@
 [
   {
+    "issue": 1161,
+    "id": "57520824",
+    "title": "The Witcher 2: Assassins of Kings - Enhanced Edition",
+    "updated": "2026-07-13T14:28:52Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1161"
+  },
+  {
     "issue": 1160,
     "id": "4D53087E",
     "title": "Fable 2 Limited Edition Bonus Disc",
@@ -11025,7 +11042,7 @@
     "issue": 423,
     "id": "4541088F",
     "title": "The Saboteur",
-    "updated": "2026-07-08T16:58:00Z",
+    "updated": "2026-07-13T13:00:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11035,6 +11052,7 @@
         "gpu-drawing-corrupt",
         "tech-middleware-havok",
         "tech-middleware-wwise",
+        "gpu-readback",
         "backwards-compatibility-unsupported",
         "gpu-occlusion-query"
       ]
@@ -16953,7 +16971,7 @@
     "issue": 39,
     "id": "4D5308AB",
     "title": "Gears of War 3",
-    "updated": "2026-06-30T07:30:46Z",
+    "updated": "2026-07-13T16:27:31Z",
     "state": "Playable",
     "labels": {
       "state": [
