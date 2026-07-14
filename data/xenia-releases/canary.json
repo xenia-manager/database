@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "bad3467",
+    "target_commitish": "bad346717a64972f54025af26806d105c3c73369",
+    "published_at": "2026-07-14T10:48:57Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/bad3467",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/bad346717a64972f54025af26806d105c3c73369",
+    "changelog": {
+      "title": "bad3467_canary_experimental",
+      "changes": "- [xb] Skip aarch64 submodule for x64 target (`bad3467`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/22d91c8...bad3467"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/bad3467/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/bad3467/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "22d91c8",
     "target_commitish": "22d91c86e81092bcaa361529b7a6e84a0fef2092",
     "published_at": "2026-07-10T21:17:23Z",
