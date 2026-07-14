@@ -1,9 +1,23 @@
 [
   {
+    "issue": 1162,
+    "id": "58410B16",
+    "title": "SF3: Online Edition",
+    "updated": "2026-07-14T01:00:28Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1162"
+  },
+  {
     "issue": 1161,
     "id": "57520824",
     "title": "The Witcher 2: Assassins of Kings - Enhanced Edition",
-    "updated": "2026-07-13T14:28:52Z",
+    "updated": "2026-07-13T21:21:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11,7 +25,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-readback"
+        "gpu-readback",
+        "tech-engine-red"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1161"
