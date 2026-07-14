@@ -32,6 +32,11 @@ on:
         required: false
         default: true
         type: boolean
+      update_netplay_compatibility:
+        description: "Update Netplay Compatibility List"
+        required: false
+        default: true
+        type: boolean
       update_gamecontrollerdb:
         description: "Update SDL GameControllerDB"
         required: false
@@ -197,6 +202,30 @@ jobs:
           path: data/patches/
           retention-days: 1
 
+  update-netplay-compatibility:
+    name: Netplay Compatibility
+    runs-on: ubuntu-latest
+    if: |
+      (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_netplay_compatibility == 'true')
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+      - run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      - name: Update Netplay Compatibility
+        run: python scripts/netplay_compatibility.py
+      - uses: actions/upload-artifact@v7
+        with:
+          name: netplay-compatibility-update
+          path: data/game-compatibility/netplay.json
+          retention-days: 1
+
   update-gamecontrollerdb:
     name: SDL GameControllerDB
     runs-on: ubuntu-latest
@@ -255,6 +284,7 @@ jobs:
       - update-version
       - update-compatibility
       - update-patches
+      - update-netplay-compatibility
       - update-gamecontrollerdb
       - update-launchbox-metadata
     if: |
@@ -263,6 +293,7 @@ jobs:
         needs.update-version.result == 'success' ||
         needs.update-compatibility.result == 'success' ||
         needs.update-patches.result == 'success' ||
+        needs.update-netplay-compatibility.result == 'success' ||
         needs.update-gamecontrollerdb.result == 'success' ||
         needs.update-launchbox-metadata.result == 'success'
       )
@@ -291,6 +322,11 @@ jobs:
           name: patches-update
           path: data/patches/
       - uses: actions/download-artifact@v8
+        if: needs.update-netplay-compatibility.result == 'success'
+        with:
+          name: netplay-compatibility-update
+          path: data/game-compatibility/
+      - uses: actions/download-artifact@v8
         if: needs.update-gamecontrollerdb.result == 'success'
         with:
           name: gamecontrollerdb-update
@@ -314,15 +350,16 @@ jobs:
           echo "chore: Update database files" > commit_message.txt
           echo "" >> commit_message.txt
           CHANGED_FILES=$(git diff --cached --name-only)
-          CANARY_RELEASES=false VERSION=false COMPAT_CANARY=false COMPAT_STABLE=false PATCHES_CANARY=false PATCHES_NETPLAY=false GAMEPAD=false LAUNCHBOX=false
+          CANARY_RELEASES=false VERSION=false COMPAT_CANARY=false COMPAT_STABLE=false PATCHES_CANARY=false PATCHES_NETPLAY=false COMPAT_NETPLAY=false GAMEPAD=false LAUNCHBOX=false
           for file in $CHANGED_FILES; do
             case "$file" in
               data/xenia-releases/canary.json)      CANARY_RELEASES=true ;;
               data/version.json)                     VERSION=true ;;
               data/game-compatibility/canary.json)   COMPAT_CANARY=true ;;
               data/game-compatibility/stable.json)   COMPAT_STABLE=true ;;
+              data/game-compatibility/netplay.json)  COMPAT_NETPLAY=true ;;
               data/patches/canary.json)              PATCHES_CANARY=true ;;
-              data/patches/netplay.json)              PATCHES_NETPLAY=true ;;
+              data/patches/netplay.json)             PATCHES_NETPLAY=true ;;
               data/gamecontrollerdb.txt)             GAMEPAD=true ;;
               data/metadata/launchbox/*)             LAUNCHBOX=true ;;
             esac
@@ -331,6 +368,7 @@ jobs:
           [ "$VERSION" = true ] && echo "- Updated Xenia Manager & Xenia versions" >> commit_message.txt
           [ "$COMPAT_CANARY" = true ] && echo "- Updated Canary game compatibility" >> commit_message.txt
           [ "$COMPAT_STABLE" = true ] && echo "- Updated Stable game compatibility" >> commit_message.txt
+          [ "$COMPAT_NETPLAY" = true ] && echo "- Updated Netplay game compatibility" >> commit_message.txt
           [ "$PATCHES_CANARY" = true ] && echo "- Updated Canary game patches" >> commit_message.txt
           [ "$PATCHES_NETPLAY" = true ] && echo "- Updated Netplay game patches" >> commit_message.txt
           [ "$GAMEPAD" = true ] && echo "- Updated SDL GameControllerDB" >> commit_message.txt
