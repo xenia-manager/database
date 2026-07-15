@@ -3,13 +3,15 @@
     "issue": 1162,
     "id": "58410B16",
     "title": "Street Fighter III: Online Edition",
-    "updated": "2026-07-14T11:18:37Z",
+    "updated": "2026-07-14T17:09:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "vsync-off-speedup"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1162"
   },
@@ -17,7 +19,7 @@
     "issue": 1161,
     "id": "57520824",
     "title": "The Witcher 2: Assassins of Kings - Enhanced Edition",
-    "updated": "2026-07-13T21:21:25Z",
+    "updated": "2026-07-14T21:08:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7679,13 +7681,15 @@
     "issue": 638,
     "id": "4343081D",
     "title": "Resident Evil: ORC (Operation Raccoon City)",
-    "updated": "2026-02-03T18:48:06Z",
+    "updated": "2026-07-14T18:20:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/638"
   },
@@ -7823,13 +7827,15 @@
     "issue": 627,
     "id": "43430819",
     "title": "Resident Evil 6",
-    "updated": "2025-07-03T08:14:04Z",
+    "updated": "2026-07-14T17:10:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-corrupt"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/627"
   },

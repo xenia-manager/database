@@ -23837,7 +23837,7 @@
         }
       ]
     },
-    "CommunityRating": "2",
+    "CommunityRating": "3",
     "DatabaseID": "7575",
     "Developer": "TimeGate Studios",
     "ESRB": "T - Teen",
@@ -95518,10 +95518,12 @@
     },
     "CommunityRating": "4.1",
     "DatabaseID": "15311",
+    "Developer": "Papaya Studio",
     "ESRB": "E10+ - Everyone 10+",
-    "Genres": null,
+    "Genres": "Action; Adventure",
     "Name": "Ben 10: Ultimate Alien Cosmic Destruction",
     "Overview": "Ben 10: Ultimate Alien-Cosmic Destruction is a video game based on Ben 10: Ultimate Alien and is the fifth game in the Ben 10 video games series.\n\nThe game was panned by reviews, being criticized by its limited length, game mechanics, as well as several gameplay and design concepts.",
+    "Publisher": "D3Publisher",
     "ReleaseDate": "2010-10-19T00:00:00+00:00"
   },
   {
@@ -101073,7 +101075,7 @@
         }
       ]
     },
-    "CommunityRating": "4.5",
+    "CommunityRating": "4.48913043478261",
     "DatabaseID": "15695",
     "Developer": "4J Studios",
     "ESRB": "M - Mature",
@@ -182153,9 +182155,9 @@
     "ESRB": "T - Teen",
     "Genres": "Fighting",
     "Name": "Fatal Fury Special",
-    "Overview": "Fatal Fury Special, known as Garō Densetsu Special (餓狼伝説SPECIAL, Hungry Wolf Legend Special) in Japan, is a 1993 fighting game developed and published by SNK and originally released for the Neo Geo arcade and home platforms. It is an updated version of Fatal Fury 2 (1992), adding four CPU-only bosses as playable characters, featuring three characters from its predecessor, and introducing combos while further balancing the gameplay. In addition, it featured Ryo Sakazaki as a secret boss character at the end of the single-player mode; the inclusion of Ryo inspired SNK to create The King of Fighters series.\n\nGameplay\nFatal Fury Special is an updated version of Fatal Fury 2. It features many of the same graphics and gameplay, although some slight changes were made to the system, including faster game speed and an all new combo system. Unlike the previous Fatal Fury games, Special allows the player to combine their attacks. When an attack lands, the player will have a brief moment of invincibility. The number of Line Move Attacks have also increased; pressing the Light Punch or Light Kick button while the opponent is on an opposite line will perform a Low Line Jump Attack.\n\nIn single-player mode, the player fights all of the playable characters, beginning with the eight regular characters from the previous game, as well as Tung and Duck; the player gets to choose their first opponent. After the first ten opponents, the player will fight against Billy, Axel, Laurence, Geese, and Krauser, respectively. If the player wins every match in two rounds, they will be challenged by Ryo in a special \"Dream Match\".\n\nCharacters\nThe character roster of Fatal Fury 2 returns. The four AI-only characters from the previous game (Billy Kane, Axel Hawk, Laurence Blood, and Wolfgang Krauser) can now be controlled by the player, and three characters from the original Fatal Fury (Tung Fu Rue, Duck King, and Geese Howard) return, increasing the number of playable characters to fifteen. Ryo Sakazaki, the protagonist of Art of Fighting, appears as a hidden opponent at the end of the Single Player Mode and is playable in the home versions. This cross-over inspired SNK to create The King of Fighters series. The first installment of this series, The King of Fighters '94, was released a year after Fatal Fury Special.\n\nRelease\nHome versions\nIn addition to the home versions of the Neo Geo and Neo Geo CD, conversions of Fatal Fury Special were made for the Super Nintendo Entertainment System (with Playmates Interactive Entertainment handling distribution), Sega CD and Game Gear, as well as the PC Engine game console (in CD-ROM² format), and the X68000 and FM Towns computer platforms in Japan between 1994 and 1996. The game is included in 2007's Fatal Fury: Battle Archives Volume 1 for the PlayStation 2.\n\nFatal Fury Special for the Neo Geo was later released on the Wii Virtual Console in 2010. An emulation of the Neo Geo arcade game was also released for the Xbox Live Arcade in 2007. Furthermore, mobile versions were released for Android and iOS-based devices. It was later ported to Nintendo Switch in July 2017 by Japanese game publisher Hamster Corporation. The Super NES version was re-released on the Nintendo Classics service on October 9, 2025.",
+    "Overview": "The grandmother of all fighting games is here, with FATAL FURY SPECIAL™, a unique adaptation of the original 1993 arcade smash Garou Densetsu Special. Experience all the great fighting game action, with added network play and high-definition display, now available on Xbox LIVE® Arcade. Fifteen fighters (plus a special guest), gather for the match of the millennium. Can you beat them all?\n\n• Fifteen (plus one) unique characters: All your favorite characters are here, including Terry Bogard, Billy Kane, Wolfgang Krauser, and a special hidden character.\n• Classic fighting arcade action updated: The classic game has all the original features of the arcade smash, but has been updated for high-definition displays.\n• Twelve unique achievements: Twelve new achievements, ranging from easy such as beating a fighter without sustaining any damage, to difficult, such as taking 10 straight wins on Xbox LIVE, are presented for you to master.\n• Four leaderboards: Four ways to track your overall performance in the game.",
     "Publisher": "SNK Playmore",
-    "ReleaseDate": "2009-12-04T00:00:00+00:00",
+    "ReleaseDate": "2007-09-05T00:00:00+00:00",
     "WikipediaURL": "https://en.wikipedia.org/wiki/Fatal_Fury_Special"
   },
   {
@@ -187319,6 +187321,15 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "3725386124",
+          "FileName": "r2_c30dc3fe-3f66-473f-bd14-43f928123fa2.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_c30dc3fe-3f66-473f-bd14-43f928123fa2.jpg"
+        }
+      ],
       "Box": {
         "Front": [
           {
@@ -259105,5 +259116,10 @@
     "Overview": "Virtua Racing ported to Xbox 360, via Sega Model 1 emulator optimized for Xbox 360.\n\nFeatures:\n\n* 60fps HD Widescreen.\n* Force Feedback racing wheel.\n* Rumble on controller.",
     "ReleaseDate": "2026-06-17T00:00:00+00:00",
     "VideoURL": "https://www.youtube.com/watch?v=IcRh2dPk4xM"
+  },
+  {
+    "DatabaseID": "476161",
+    "Genres": null,
+    "Name": "Oddballers"
   }
 ]

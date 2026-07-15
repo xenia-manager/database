@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "e20f269",
+    "target_commitish": "e20f26963fbebd57209b8356ec6da0f27343e333",
+    "published_at": "2026-07-14T19:29:16Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e20f269",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e20f26963fbebd57209b8356ec6da0f27343e333",
+    "changelog": {
+      "title": "e20f269_canary_experimental",
+      "changes": "- [GPU] Initialize GPU registers to hardware reset defaults (`e20f269`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/bad3467...e20f269"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e20f269/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e20f269/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "bad3467",
     "target_commitish": "bad346717a64972f54025af26806d105c3c73369",
     "published_at": "2026-07-14T10:48:57Z",
