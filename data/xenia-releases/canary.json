@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "2799234",
+    "target_commitish": "2799234fbb1635e9d37007979a383807fcf1b56c",
+    "published_at": "2026-07-15T07:42:28Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2799234",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2799234fbb1635e9d37007979a383807fcf1b56c",
+    "changelog": {
+      "title": "2799234_canary_experimental",
+      "changes": "- [Xam/XMP] - Stub XMPGetNumSongsInTitlePlaylist (`2799234`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e20f269...2799234"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2799234/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2799234/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "e20f269",
     "target_commitish": "e20f26963fbebd57209b8356ec6da0f27343e333",
     "published_at": "2026-07-14T19:29:16Z",
