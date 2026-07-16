@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "7ff152a",
+    "target_commitish": "7ff152a5a7f69390c1a625d3fdc57681d5ccb7e9",
+    "published_at": "2026-07-15T21:50:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7ff152a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7ff152a5a7f69390c1a625d3fdc57681d5ccb7e9",
+    "changelog": {
+      "title": "7ff152a_canary_experimental",
+      "changes": "- [X64] MAX_V128/MIN_V128 Proper NaN handling. (`7ff152a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5132212...7ff152a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ff152a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ff152a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "5132212",
+    "target_commitish": "51322122a58f6953a7f08842d556e78370bf6f44",
+    "published_at": "2026-07-15T18:18:57Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5132212",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/51322122a58f6953a7f08842d556e78370bf6f44",
+    "changelog": {
+      "title": "5132212_canary_experimental",
+      "changes": "- [Xam/Info] - Implement XamFeatureEnabled (`5132212`)\n- [CI] Fixed CI failure caused by incorrect variable check (`deaf21e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2799234...5132212"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5132212/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5132212/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "2799234",
     "target_commitish": "2799234fbb1635e9d37007979a383807fcf1b56c",
     "published_at": "2026-07-15T07:42:28Z",
