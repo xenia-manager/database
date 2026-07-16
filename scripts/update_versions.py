@@ -203,7 +203,7 @@ def fetch_netplay_nightly():
         "commit_sha": sha_full or None,
         "date": date,
         "url": "https://nightly.link/AdrianCassar/xenia-canary/workflows/"
-        "Windows_build/netplay_canary_experimental/xenia_canary_netplay_windows.zip",
+        "Orchestrator/netplay_canary_experimental/xenia_canary_netplay_windows.zip",
     }
 
 
