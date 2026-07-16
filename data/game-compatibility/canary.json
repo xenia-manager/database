@@ -1,5 +1,22 @@
 [
   {
+    "issue": 1163,
+    "id": "53450839",
+    "title": "Resonance of Fate",
+    "updated": "2026-07-16T15:24:30Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "apu-silent",
+        "apu-garbage"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1163"
+  },
+  {
     "issue": 1162,
     "id": "58410B16",
     "title": "Street Fighter III: Online Edition",
@@ -9423,13 +9440,14 @@
     "issue": 525,
     "id": "555307EA",
     "title": "Brothers in Arms: HH",
-    "updated": "2025-03-14T03:21:53Z",
+    "updated": "2026-07-16T12:10:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-unreal"
       ]
     },
@@ -14315,15 +14333,13 @@
     "issue": 232,
     "id": "415608CB",
     "title": "Call Of Duty: Modern Warfare 3",
-    "updated": "2026-06-19T20:54:30Z",
+    "updated": "2026-07-16T16:33:11Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": [
-        "gpu-shader-errors"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/232"
   },
@@ -16480,11 +16496,11 @@
     "issue": 75,
     "id": "4D530910",
     "title": "Forza Motorsport 4",
-    "updated": "2026-07-16T10:05:55Z",
-    "state": "Gameplay",
+    "updated": "2026-07-16T12:38:33Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt",
@@ -16500,7 +16516,7 @@
     "issue": 74,
     "id": "4D5307F1",
     "title": "Fable 2",
-    "updated": "2026-06-10T23:21:16Z",
+    "updated": "2026-07-16T11:20:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
