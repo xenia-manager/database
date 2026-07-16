@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "44e1a64",
+    "target_commitish": "44e1a64f3510622c1ed4650b8563990d809d11b5",
+    "published_at": "2026-07-16T09:41:22Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/44e1a64",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/44e1a64f3510622c1ed4650b8563990d809d11b5",
+    "changelog": {
+      "title": "44e1a64_canary_experimental",
+      "changes": "- [XAM] Extend UI delay on close. Added delay to headless after notification sent. (`44e1a64`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c2650c6...44e1a64"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/44e1a64/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/44e1a64/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "c2650c6",
+    "target_commitish": "c2650c6e588e6c582adb6eba9dd7251905591c37",
+    "published_at": "2026-07-16T09:09:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c2650c6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c2650c6e588e6c582adb6eba9dd7251905591c37",
+    "changelog": {
+      "title": "c2650c6_canary_experimental",
+      "changes": "- [Testing] Define full test paths, unify test results of vectors to unsigned type (`c2650c6`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7ff152a...c2650c6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c2650c6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c2650c6/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "7ff152a",
     "target_commitish": "7ff152a5a7f69390c1a625d3fdc57681d5ccb7e9",
     "published_at": "2026-07-15T21:50:35Z",
