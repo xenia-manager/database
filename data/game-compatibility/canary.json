@@ -1821,7 +1821,7 @@
     "issue": 1029,
     "id": "464F07EC",
     "title": "Top Gun: Hard Lock",
-    "updated": "2026-07-09T01:06:18Z",
+    "updated": "2026-07-17T00:16:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1929,7 +1929,7 @@
     "issue": 1021,
     "id": "415607E8",
     "title": "Shrek the Third",
-    "updated": "2026-03-30T06:16:15Z",
+    "updated": "2026-07-17T00:47:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2433,7 +2433,7 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-06-18T19:14:38Z",
+    "updated": "2026-07-16T18:30:46Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -7844,14 +7844,15 @@
     "issue": 627,
     "id": "43430819",
     "title": "Resident Evil 6",
-    "updated": "2026-07-14T17:10:11Z",
+    "updated": "2026-07-16T21:27:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt"
+        "gpu-drawing-corrupt",
+        "apu-garbage"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/627"
@@ -12897,13 +12898,15 @@
     "issue": 316,
     "id": "534507D2",
     "title": "Condemned: Criminal Origins",
-    "updated": "2026-05-17T23:49:30Z",
+    "updated": "2026-07-16T21:24:23Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": []
+      "others": [
+        "apu-silent"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/316"
   },
@@ -14273,7 +14276,7 @@
     "issue": 235,
     "id": "4541080F",
     "title": "The Orange Box",
-    "updated": "2026-06-12T13:35:14Z",
+    "updated": "2026-07-16T22:23:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [

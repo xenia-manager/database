@@ -28479,7 +28479,7 @@
         }
       ]
     },
-    "CommunityRating": "3.73684210526316",
+    "CommunityRating": "3.71052631578947",
     "DatabaseID": "7709",
     "Developer": "Raven Software",
     "ESRB": "M - Mature",
@@ -134789,9 +134789,15 @@
     },
     "CommunityRating": "4",
     "DatabaseID": "24787",
+    "Developer": "EA Canada",
+    "ESRB": "E10+ - Everyone 10+",
     "Genres": "Sports",
     "Name": "NHL 15",
-    "Overview": "NHL 15 is an ice hockey video game developed by EA Canada and published by EA Sports. It is the 24th installment of the NHL series and was released on September 9, 2014 in North America then three days later in Europe, Australia and New Zealand.[1] The game serves as the debut entry in the series for eighth generation consoles, receiving releases on the PlayStation 4 and the Xbox One. Patrice Bergeron of the Boston Bruins is the official cover athlete. Votes were taken and were advertised for on many NHL team's websites, stating, \"Help your favorite player become the EA Sports NHL 15 Cover Athlete!\""
+    "Overview": "NHL 15 is an ice hockey video game developed by EA Canada and published by EA Sports. It is the 24th installment of the NHL series and was released on September 9, 2014 in North America then three days later in Europe, Australia and New Zealand. The game serves as the debut entry in the series for eighth generation consoles, receiving releases on the PlayStation 4 and the Xbox One. Patrice Bergeron of the Boston Bruins is the official cover athlete. Votes were taken and were advertised for on many NHL team's websites, stating, \"Help your favorite player become the EA Sports NHL 15 Cover Athlete!\"",
+    "Publisher": "EA Sports",
+    "ReleaseDate": "2014-09-09T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=3BO1QrUaTXk",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/NHL_15"
   },
   {
     "Artwork": {
@@ -166321,7 +166327,7 @@
         }
       ]
     },
-    "CommunityRating": "2.75",
+    "CommunityRating": "2.6",
     "DatabaseID": "173662",
     "Developer": "WayForward Technologies",
     "ESRB": "E10+ - Everyone 10+",
@@ -182124,6 +182130,7 @@
         {
           "CRC32": "709047021",
           "FileName": "d7d25ba0-6ea2-405d-88e4-67e6c1a5137d.jpg",
+          "Region": "World",
           "Type": "Fanart - Background",
           "URL": "http://images.launchbox-app.com/d7d25ba0-6ea2-405d-88e4-67e6c1a5137d.jpg"
         }
@@ -182142,12 +182149,21 @@
           {
             "CRC32": "4113537298",
             "FileName": "6696919b-77a0-4b80-a8dd-34873701b1d9.jpg",
-            "Region": "United States",
+            "Region": "World",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/6696919b-77a0-4b80-a8dd-34873701b1d9.jpg"
           }
         ]
-      }
+      },
+      "Other": [
+        {
+          "CRC32": "2719527510",
+          "FileName": "r2_f11d8b2c-456f-4386-a9ea-0edac36249f9.png",
+          "Region": "World",
+          "Type": "Clear Logo",
+          "URL": "http://images.launchbox-app.com/r2_f11d8b2c-456f-4386-a9ea-0edac36249f9.png"
+        }
+      ]
     },
     "CommunityRating": "3.07142857142857",
     "DatabaseID": "209375",
@@ -259130,5 +259146,341 @@
     "DatabaseID": "476161",
     "Genres": null,
     "Name": "Oddballers"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "909141002",
+            "FileName": "52d92be5-6fac-40b3-81cb-dd2909f94cca.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/52d92be5-6fac-40b3-81cb-dd2909f94cca.jpg"
+          }
+        ]
+      },
+      "Screenshots": [
+        {
+          "CRC32": "2101520168",
+          "FileName": "db7ab037-a3f0-4942-b819-7764ef9e701d.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Game Over",
+          "URL": "http://images.launchbox-app.com/db7ab037-a3f0-4942-b819-7764ef9e701d.jpg"
+        },
+        {
+          "CRC32": "809071942",
+          "FileName": "b0532923-ddc8-4e9a-b5a3-aa3134cdd575.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/b0532923-ddc8-4e9a-b5a3-aa3134cdd575.jpg"
+        },
+        {
+          "CRC32": "1451151616",
+          "FileName": "8321c78b-e778-4019-81ad-0952038fe8ad.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/8321c78b-e778-4019-81ad-0952038fe8ad.jpg"
+        },
+        {
+          "CRC32": "2809457785",
+          "FileName": "6cf427aa-e888-41f1-a1a7-6fa85f93b4d6.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/6cf427aa-e888-41f1-a1a7-6fa85f93b4d6.jpg"
+        },
+        {
+          "CRC32": "1704355924",
+          "FileName": "ae229095-6106-4c91-bc9b-a1c8b122b6b7.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/ae229095-6106-4c91-bc9b-a1c8b122b6b7.jpg"
+        }
+      ]
+    },
+    "DatabaseID": "476230",
+    "Developer": "Kobingo",
+    "Genres": "Shooter",
+    "Name": "Ladybird Galaxy",
+    "Overview": "Ladybird Galaxy is a fixed-screen arcade game. The player controls a space ship which collects gems in order to achieve a high score. A combo multiplier starts after collecting stars which allows to earn even more points. It runs out after some time, but this can be prevented by collecting more stars. Ladybirds which move over the screen but don't actively chase the player cause the loss of a life when touched. This is made more difficult by the big turning arc of the ship. Revenge is only possible after collecting special stars which allow the space ship to briefly shoot. Occasionally laser beams appear which have to be dodged by utilizing the fact that the ship appears on the opposite site after leaving the screen. After enough points are earned, the difficulty level rises and the game ends after all lives are gone.",
+    "Publisher": "Kobingo",
+    "ReleaseDate": "2008-12-05T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=veApxe98BQg"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "3263550903",
+            "FileName": "d957a473-75eb-4204-b562-e8a21cd860a6.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/d957a473-75eb-4204-b562-e8a21cd860a6.jpg"
+          }
+        ]
+      },
+      "Screenshots": [
+        {
+          "CRC32": "2282628415",
+          "FileName": "51f4dcb6-f319-44ed-a81f-7565fbd08c42.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/51f4dcb6-f319-44ed-a81f-7565fbd08c42.jpg"
+        }
+      ]
+    },
+    "DatabaseID": "476231",
+    "Developer": "Going Loud Studios",
+    "Genres": "Action",
+    "Name": "Lair of the Evildoer",
+    "Overview": "Lair of the Evildoer is a top-down shooter set in a closed environment that consists of 20 floors. The player has to descend and clear the floors off enemies to reach Dr. Odious who locked up the character in his lair. It is primarily an action game but also contains a number of RPG elements.\n\nThe character can be moved around and aim in any direction. Enemies can be destroyed using melee attacks or long-ranged weapons. Only two ranged weapons can be carried at any time. Guns need to be reloaded and have a limited amount of ammo. When a new weapon is discovered, the statistics can be compared to decide whether to swap or not. Ranged weapons are defined through damage, force, firing speed, damage per second, spread, clip size, ammo consumption and reload time.\n\nBy destroying opponents the character gains experience and can level up. Points can be assigned to dexterity (primary damage, sidearm damage, and accuracy), strength (melee damage and max ammo), vitality (max XP and regeneration rate), and defense (defense and mass). Enemies have health bars and often appear in large numbers. Pick-ups include weapons, ammo, and health. The levels are procedurally generated and that way they are different for each playthrough. The game contains 30 enemy types and 25 weapons with additional variations.",
+    "Publisher": "Going Loud Studios",
+    "ReleaseDate": "2011-06-16T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=POBSY7ajKeY"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2902100642",
+            "FileName": "7db575b6-aca7-4805-91c0-68156cab75bf.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/7db575b6-aca7-4805-91c0-68156cab75bf.jpg"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "476233",
+    "Developer": "Team Shuriken",
+    "Genres": "Adventure",
+    "Name": "Labyrinth X",
+    "Overview": "Explore a mystic labyrinth filled with strange and sexy creatures.",
+    "Publisher": "Team Shuriken",
+    "ReleaseDate": "2013-02-02T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=0GC1V8vRJy8"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2074448974",
+            "FileName": "65fa5253-e420-4b77-9c41-a802fd280355.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/65fa5253-e420-4b77-9c41-a802fd280355.jpg"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "476234",
+    "Developer": "Subtle Abberation",
+    "Genres": "Adventure",
+    "Name": "Labyrinth",
+    "Overview": "Step into the strange world of the Labyrinth as Amelia, a young woman with no memories of who she is, or why she is trapped here. All she knows is that she must travel deeper, towards the tall Black Tower.\n\nShe will learn that even darker secrets await her in the deeper layers of the Labyrinth. She wants to escape and regain her memories, but the Labyrinth is more than just a maze.",
+    "Publisher": "Subtle Abberation",
+    "ReleaseDate": "2011-07-09T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=35eaPhfa_Qk"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1538095503",
+            "FileName": "bccfcf90-a196-4355-b76b-15720f993d31.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/bccfcf90-a196-4355-b76b-15720f993d31.jpg"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "476235",
+    "Developer": "OneManBandStudios",
+    "Genres": "Platform",
+    "Name": "Lab Rabbit",
+    "Overview": "You are a worthless rabbit. However you have the privilege of helping further science. What lies before you are a series of experiments. They will test you speed, your agility and the effects of high powered lasers on rabbits.\n\nWhy you may ask? SCIENCE!",
+    "Publisher": "OneManBandStudios",
+    "ReleaseDate": "2010-10-17T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=E505l2-ta9k"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "469614199",
+            "FileName": "1ae6eb63-0830-464f-b177-a864962dfafd.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/1ae6eb63-0830-464f-b177-a864962dfafd.jpg"
+          }
+        ]
+      },
+      "Screenshots": [
+        {
+          "CRC32": "2115214514",
+          "FileName": "7d98fa61-d017-4399-a62b-ac5c2d03a509.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/7d98fa61-d017-4399-a62b-ac5c2d03a509.jpg"
+        },
+        {
+          "CRC32": "3126617687",
+          "FileName": "ba3a555d-c033-4cdc-b17b-b6fcad191324.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/ba3a555d-c033-4cdc-b17b-b6fcad191324.jpg"
+        },
+        {
+          "CRC32": "1119788972",
+          "FileName": "e2ce01ee-a779-454c-96b8-6b4366a5decc.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/e2ce01ee-a779-454c-96b8-6b4366a5decc.jpg"
+        },
+        {
+          "CRC32": "272675991",
+          "FileName": "ea1e11f0-8edc-4bfe-827d-0c7e625d3443.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/ea1e11f0-8edc-4bfe-827d-0c7e625d3443.jpg"
+        }
+      ]
+    },
+    "DatabaseID": "476236",
+    "Developer": "Takarotashi",
+    "Genres": "Action",
+    "Name": "Lamingtons Zero",
+    "Overview": "Hordes of delicious but evil coconut and chocolate covered treats are trying to take over the world! Grab your guns and fight back! Or you can team up with a friend and fight together!",
+    "Publisher": "Takarotashi",
+    "ReleaseDate": "2010-05-16T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=TqFdJfgIe20"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1981652004",
+            "FileName": "92d29eda-143b-42d0-bc7e-838d72e5ea64.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/92d29eda-143b-42d0-bc7e-838d72e5ea64.jpg"
+          }
+        ]
+      },
+      "Screenshots": [
+        {
+          "CRC32": "2846833061",
+          "FileName": "b2206442-7022-4bc8-8e0a-4b740d958514.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Game Over",
+          "URL": "http://images.launchbox-app.com/b2206442-7022-4bc8-8e0a-4b740d958514.jpg"
+        },
+        {
+          "CRC32": "416391046",
+          "FileName": "703a73e4-6f37-4e97-8084-727d521d02b9.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/703a73e4-6f37-4e97-8084-727d521d02b9.jpg"
+        },
+        {
+          "CRC32": "2953604597",
+          "FileName": "22111a2e-fd32-419d-aa89-fd1d58fcf7f0.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/22111a2e-fd32-419d-aa89-fd1d58fcf7f0.jpg"
+        },
+        {
+          "CRC32": "3521120780",
+          "FileName": "c5d53cfa-bdab-4fea-84fd-f0d38c2d625e.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/c5d53cfa-bdab-4fea-84fd-f0d38c2d625e.jpg"
+        }
+      ]
+    },
+    "DatabaseID": "476237",
+    "Developer": "Twisted Dragon Media",
+    "Genres": "Puzzle",
+    "Name": "Landmark",
+    "Overview": "Landmark is a concentration variant. The player is confronted with a number of tiles concealed tiles. During each turn, two of them are chosen and revealed. If they have the same picture, they stay open - otherwise they become concealed again. The goal is to open up all tiles. The game features four difficulty modes which differ in number of tiles (six or nine pairs) and rotation (the playfield either does not rotate, rotates after each wrong guess, rotates after every turn or rotates continuously).",
+    "Publisher": "Twisted Dragon Media",
+    "ReleaseDate": "2009-01-04T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=ncBPWoScwPg"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "304982680",
+            "FileName": "46f15b94-bfab-49ac-8e6a-53e864b57ef5.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/46f15b94-bfab-49ac-8e6a-53e864b57ef5.jpg"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "476238",
+    "Developer": "hotshot 10101",
+    "Genres": "Action",
+    "Name": "Lander Mania",
+    "Overview": "Welcome to Lander Mania, an exciting single or multi-player game, where each player racks up points by landing their ship safely. Rotate your ship and fire your thrusters to get the perfect speed and angle or you will crash! Battle your friends for the top of the scoreboard, by bashing into them and getting to the landing pads first!",
+    "Publisher": "hotshot 10101",
+    "ReleaseDate": "2009-09-27T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=I8l1MnxsMV8"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "3967602065",
+            "FileName": "4ec39d3c-183c-43e5-a6a1-3c68becc1ddb.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/4ec39d3c-183c-43e5-a6a1-3c68becc1ddb.jpg"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "476239",
+    "Developer": "Justin Sallo",
+    "Genres": "Action",
+    "Name": "Larry's Loot",
+    "Overview": "Try to collect as many money bags as you can, while avoiding baddies. Up to 3 friends can join you to help you collect more money and find the exit to win!\n\nA very addicting and fun game, which is randomly generated, so you will never play the same game twice!",
+    "Publisher": "Justin Sallo",
+    "ReleaseDate": "2013-04-17T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=T2iZTmGUy7s"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1604821256",
+            "FileName": "82f748d4-2c94-4237-b310-b17b868cfa8b.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/82f748d4-2c94-4237-b310-b17b868cfa8b.jpg"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "476240",
+    "Developer": "GGGamers",
+    "Genres": "Action",
+    "Name": "Laser Fry",
+    "Overview": "Use the lasers to zap the different colored orbs, but be careful not to zap yourself!\n\nTry to complete all of the challenges as you rave on.",
+    "Publisher": "GGGamers",
+    "ReleaseDate": "2013-02-20T00:00:00+00:00",
+    "VideoURL": "https://www.youtube.com/watch?v=gmJ2S22k98s"
   }
 ]
