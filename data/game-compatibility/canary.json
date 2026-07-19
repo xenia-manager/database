@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1165,
+    "id": "58410A91",
+    "title": "From Dust",
+    "updated": "2026-07-18T20:08:08Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1165"
+  },
+  {
     "issue": 1164,
     "id": "415607F5",
     "title": "DreamWorks Bee Movie Game",
@@ -11081,13 +11095,14 @@
     "issue": 424,
     "id": "575207FD",
     "title": "Mortal Kombat Komplete Edition",
-    "updated": "2026-05-17T23:18:48Z",
-    "state": "Gameplay",
+    "updated": "2026-07-19T00:00:54Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "apu-silent",
         "tech-engine-unreal",
         "tech-physics-physx",
         "vsync-off-speedup"
@@ -14987,13 +15002,14 @@
     "issue": 191,
     "id": "58410968",
     "title": "OutRun Online Arcade",
-    "updated": "2026-04-19T22:13:36Z",
+    "updated": "2026-07-19T00:03:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "apu-garbage",
         "marketplace-delisted"
       ]
     },
@@ -16510,7 +16526,7 @@
     "issue": 75,
     "id": "4D530910",
     "title": "Forza Motorsport 4",
-    "updated": "2026-07-16T12:38:33Z",
+    "updated": "2026-07-18T23:12:38Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16520,6 +16536,7 @@
         "gpu-drawing-corrupt",
         "tech-kinect-optional",
         "marketplace-nodownload",
+        "gpu-readback",
         "gpu-occlusion-query",
         "gpu-ext-query"
       ]
