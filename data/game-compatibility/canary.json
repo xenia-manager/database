@@ -1,5 +1,22 @@
 [
   {
+    "issue": 1166,
+    "id": "57520835",
+    "title": "LEGO Marvel Super Heroes",
+    "updated": "2026-07-19T13:29:03Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-occlusion-query"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1166"
+  },
+  {
     "issue": 1165,
     "id": "58410A91",
     "title": "From Dust",
@@ -302,8 +319,8 @@
   {
     "issue": 1141,
     "id": "5752084F",
-    "title": "Lego Marvel Avengers",
-    "updated": "2026-06-20T21:05:04Z",
+    "title": "LEGO Marvel Avengers",
+    "updated": "2026-07-19T13:24:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2551,8 +2568,8 @@
   {
     "issue": 974,
     "id": "57520841",
-    "title": "The Lego Movie Video Game",
-    "updated": "2026-07-09T01:09:42Z",
+    "title": "The LEGO Movie Video Game",
+    "updated": "2026-07-19T13:24:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10351,14 +10368,15 @@
     "issue": 467,
     "id": "4E4D07E0",
     "title": "Soulcalibur IV",
-    "updated": "2026-06-15T13:58:16Z",
-    "state": "Gameplay",
+    "updated": "2026-07-19T11:27:24Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "gpu-readback"
+        "gpu-readback",
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/467"
@@ -16388,7 +16406,7 @@
     "issue": 88,
     "id": "584111F7",
     "title": "Minecraft Xbox 360 Edition",
-    "updated": "2026-05-19T20:22:26Z",
+    "updated": "2026-07-19T14:33:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
