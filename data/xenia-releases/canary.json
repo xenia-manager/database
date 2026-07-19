@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "a635ac6",
+    "target_commitish": "a635ac64f5ca37c0b789e8b4166b53dc673b213f",
+    "published_at": "2026-07-19T08:36:05Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a635ac6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a635ac64f5ca37c0b789e8b4166b53dc673b213f",
+    "changelog": {
+      "title": "a635ac6_canary_experimental",
+      "changes": "- [GPU] Scaled resolve readback through downscale CS (`a635ac6`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/23b79f2...a635ac6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a635ac6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a635ac6/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "23b79f2",
     "target_commitish": "23b79f2a9740ad8aa796f1facb957546cb9878a1",
     "published_at": "2026-07-18T17:47:20Z",
