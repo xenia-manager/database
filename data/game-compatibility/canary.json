@@ -2054,13 +2054,15 @@
     "issue": 1014,
     "id": "415607D3",
     "title": "Gun",
-    "updated": "2026-04-03T08:36:42Z",
+    "updated": "2026-07-20T15:53:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
+        "apu-garbage",
         "vsync-off-speedup"
       ]
     },
@@ -6263,13 +6265,14 @@
     "issue": 739,
     "id": "415607D4",
     "title": "Tony Hawk's American Wasteland",
-    "updated": "2026-05-13T20:06:18Z",
+    "updated": "2026-07-20T15:48:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "vsync-off-speedup"
       ]
     },
@@ -10336,7 +10339,7 @@
     "issue": 469,
     "id": "4E4D083D",
     "title": "Soulcalibur V",
-    "updated": "2026-07-05T23:51:28Z",
+    "updated": "2026-07-20T14:04:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12107,14 +12110,14 @@
     "issue": 366,
     "id": "545407D5",
     "title": "Top Spin 2",
-    "updated": "2025-01-10T03:57:01Z",
+    "updated": "2026-07-20T11:43:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-readback",
+        "gpu-drawing-corrupt",
         "vsync-off-speedup"
       ]
     },
@@ -12232,7 +12235,7 @@
     "issue": 358,
     "id": "54540859",
     "title": "Top Spin 4",
-    "updated": "2025-01-10T03:57:31Z",
+    "updated": "2026-07-20T11:17:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12240,7 +12243,8 @@
       ],
       "others": [
         "marketplace-delisted",
-        "tech-middleware-havok"
+        "tech-middleware-havok",
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/358"
@@ -12249,13 +12253,15 @@
     "issue": 357,
     "id": "545407FF",
     "title": "Top Spin 3",
-    "updated": "2025-01-10T03:57:31Z",
+    "updated": "2026-07-20T11:56:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "vsync-off-speedup"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/357"
   },
@@ -17513,7 +17519,7 @@
     "issue": 4,
     "id": "4D5307FA",
     "title": "Lost Odyssey",
-    "updated": "2026-07-12T17:13:02Z",
+    "updated": "2026-07-20T16:48:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
