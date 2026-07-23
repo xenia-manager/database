@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "ed4540a",
+    "target_commitish": "ed4540a641acd9f0a65132eac143322ee34c174b",
+    "published_at": "2026-07-23T15:22:26Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/ed4540a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/ed4540a641acd9f0a65132eac143322ee34c174b",
+    "changelog": {
+      "title": "ed4540a_canary_experimental",
+      "changes": "- [XAM] Remove XMP polling throttle sleeps (`ed4540a`)\n- [XAM] Limit guest UI to only one instance (`913ec6b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/74db632...ed4540a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ed4540a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ed4540a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "74db632",
+    "target_commitish": "74db632ab32e179dd0d6858b51caae07fc444949",
+    "published_at": "2026-07-23T12:40:44Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/74db632",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/74db632ab32e179dd0d6858b51caae07fc444949",
+    "changelog": {
+      "title": "74db632_canary_experimental",
+      "changes": "- [GPU] draw_resolution_scale_threshold for host render targets (`74db632`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/536900e...74db632"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/74db632/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/74db632/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "536900e",
+    "target_commitish": "536900e76b3ee5f0991fde407e0bd2f1790a9e1a",
+    "published_at": "2026-07-23T11:55:09Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/536900e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/536900e76b3ee5f0991fde407e0bd2f1790a9e1a",
+    "changelog": {
+      "title": "536900e_canary_experimental",
+      "changes": "- [XAM] Cleanup XamGetCachedTitleName (`536900e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a635ac6...536900e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/536900e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/536900e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "a635ac6",
     "target_commitish": "a635ac64f5ca37c0b789e8b4166b53dc673b213f",
     "published_at": "2026-07-19T08:36:05Z",
