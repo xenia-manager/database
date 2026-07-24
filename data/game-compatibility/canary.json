@@ -3,7 +3,7 @@
     "issue": 1166,
     "id": "57520835",
     "title": "LEGO Marvel Super Heroes",
-    "updated": "2026-07-19T13:29:03Z",
+    "updated": "2026-07-23T23:23:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11,6 +11,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
+        "gpu-readback",
         "gpu-occlusion-query"
       ]
     },
@@ -320,16 +321,14 @@
     "issue": 1141,
     "id": "5752084F",
     "title": "LEGO Marvel Avengers",
-    "updated": "2026-07-19T13:24:17Z",
+    "updated": "2026-07-24T00:02:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
-        "gpu-readback",
-        "gpu-drawing-black"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1141"
@@ -2683,7 +2682,7 @@
     "issue": 966,
     "id": "555308C2",
     "title": "Assassin's Creed IV: Black Flag",
-    "updated": "2026-07-08T13:45:52Z",
+    "updated": "2026-07-24T01:12:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5304,7 +5303,7 @@
     "issue": 802,
     "id": "584111F2",
     "title": "Sonic the Hedgehog 4: Episode II",
-    "updated": "2026-07-23T06:14:13Z",
+    "updated": "2026-07-24T00:04:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5988,7 +5987,7 @@
     "issue": 757,
     "id": "4B4D07F6",
     "title": "Saints Row IV",
-    "updated": "2026-07-23T14:39:09Z",
+    "updated": "2026-07-23T20:28:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5997,7 +5996,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "gpu-readback",
-        "crash-random"
+        "requires_protect_zero_false"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/757"
@@ -10051,14 +10050,13 @@
     "issue": 490,
     "id": "58410957",
     "title": "Call of Duty Classic",
-    "updated": "2026-07-21T10:56:07Z",
+    "updated": "2026-07-23T23:05:14Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "kernel-save-file-errors",
         "tech-engine-idtech",
         "kernel-xex-switching",
         "backwards-compatibility-unsupported",
@@ -15429,7 +15427,7 @@
     "issue": 161,
     "id": "5451086D",
     "title": "Saints Row: The Third",
-    "updated": "2026-07-23T11:48:23Z",
+    "updated": "2026-07-23T20:29:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15443,8 +15441,7 @@
         "tech-middleware-wwise",
         "gpu-readback",
         "requires_protect_zero_false",
-        "gpu-occlusion-query",
-        "crash-random"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/161"
@@ -16284,7 +16281,7 @@
     "issue": 103,
     "id": "555308B6",
     "title": "Tom Clancy's Splinter Cell: Blacklist",
-    "updated": "2026-07-10T10:05:36Z",
+    "updated": "2026-07-24T00:10:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16295,6 +16292,8 @@
         "tech-engine-unreal",
         "tech-kinect-optional",
         "tech-middleware-havok",
+        "gpu-readback",
+        "gpu-occlusion-query",
         "gpu-drawing-black"
       ]
     },
@@ -17074,7 +17073,7 @@
     "issue": 39,
     "id": "4D5308AB",
     "title": "Gears of War 3",
-    "updated": "2026-07-13T16:27:31Z",
+    "updated": "2026-07-24T00:32:14Z",
     "state": "Playable",
     "labels": {
       "state": [
