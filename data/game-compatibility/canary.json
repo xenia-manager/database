@@ -1,5 +1,42 @@
 [
   {
+    "issue": 1173,
+    "id": "584113FB",
+    "title": "Fireburst",
+    "updated": "2026-07-25T15:57:46Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "tech-engine-unreal",
+        "vsync-off-speedup"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1173"
+  },
+  {
+    "issue": 1172,
+    "id": "545407DC",
+    "title": "Don King Presents: Prizefighter",
+    "updated": "2026-07-25T11:39:41Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "apu-garbage",
+        "kernel-save-file-errors",
+        "crash-random",
+        "crash-always"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1172"
+  },
+  {
     "issue": 1171,
     "id": "58410A02",
     "title": "Rocket Knight",
@@ -1984,13 +2021,15 @@
     "issue": 1025,
     "id": "454108D9",
     "title": "G.I Joe: The Rise of Cobra",
-    "updated": "2026-04-08T08:15:08Z",
+    "updated": "2026-07-25T16:10:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "vsync-off-speedup"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1025"
   },
@@ -2659,7 +2698,7 @@
     "issue": 973,
     "id": "494607D7",
     "title": "\u30af\u30ed\u30b9\u30a8\u30c3\u30b8 \u30c0\u30c3\u30b7\u30e5 (X Edge Dash)",
-    "updated": "2025-12-24T21:37:47Z",
+    "updated": "2026-07-25T10:55:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10425,7 +10464,7 @@
     "issue": 468,
     "id": "5841122F",
     "title": "Darkstalkers Resurrection",
-    "updated": "2026-04-08T08:06:11Z",
+    "updated": "2026-07-25T09:50:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13535,13 +13574,14 @@
     "issue": 287,
     "id": "454108C1",
     "title": "NBA LIVE 10",
-    "updated": "2026-02-11T13:21:13Z",
+    "updated": "2026-07-25T11:00:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "apu-silent",
         "backwards-compatibility-unsupported"
       ]
     },
@@ -15623,7 +15663,7 @@
     "issue": 154,
     "id": "4D5307E8",
     "title": "Mass Effect",
-    "updated": "2026-07-09T00:53:42Z",
+    "updated": "2026-07-25T12:29:33Z",
     "state": "Playable",
     "labels": {
       "state": [
