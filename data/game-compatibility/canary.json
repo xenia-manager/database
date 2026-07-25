@@ -1,5 +1,49 @@
 [
   {
+    "issue": 1170,
+    "id": "584109BC",
+    "title": "RAYSTORM HD",
+    "updated": "2026-07-24T23:26:28Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "vsync-off-speedup"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1170"
+  },
+  {
+    "issue": 1169,
+    "id": "00000000",
+    "title": "Aurora Dashboard",
+    "updated": "2026-07-24T23:26:33Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1169"
+  },
+  {
+    "issue": 1168,
+    "id": "41560844",
+    "title": "DJ Hero",
+    "updated": "2026-07-24T20:44:06Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "apu-garbage"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1168"
+  },
+  {
     "issue": 1167,
     "id": "575207E9",
     "title": "Green Lantern",
@@ -5366,7 +5410,7 @@
     "issue": 799,
     "id": "45410916",
     "title": "Alice: Madness Returns",
-    "updated": "2025-08-11T06:34:32Z",
+    "updated": "2026-07-24T23:14:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6132,14 +6176,13 @@
     "issue": 749,
     "id": "4E4D0859",
     "title": "Tekken Tag Tournament 2",
-    "updated": "2026-05-13T20:03:15Z",
-    "state": "Gameplay",
+    "updated": "2026-07-25T02:49:13Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "apu-garbage",
         "gpu-readback"
       ]
     },
@@ -16150,7 +16193,7 @@
     "issue": 112,
     "id": "4D5308D6",
     "title": "Fable III",
-    "updated": "2026-07-15T20:51:15Z",
+    "updated": "2026-07-24T21:35:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17526,26 +17569,6 @@
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/5"
-  },
-  {
-    "issue": 4,
-    "id": "4D5307FA",
-    "title": "Lost Odyssey",
-    "updated": "2026-07-21T12:46:13Z",
-    "state": "Gameplay",
-    "labels": {
-      "state": [
-        "state-gameplay"
-      ],
-      "others": [
-        "gpu-drawing-corrupt",
-        "apu-garbage",
-        "tech-engine-unreal",
-        "vsync-off-speedup",
-        "gpu-occlusion-query"
-      ]
-    },
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/4"
   },
   {
     "issue": 3,
