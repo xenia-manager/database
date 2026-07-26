@@ -1,18 +1,32 @@
 [
   {
+    "issue": 1174,
+    "id": "58410B8F",
+    "title": "Voltron",
+    "updated": "2026-07-25T23:46:10Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1174"
+  },
+  {
     "issue": 1173,
     "id": "584113FB",
     "title": "Fireburst",
-    "updated": "2026-07-25T15:57:46Z",
+    "updated": "2026-07-25T21:07:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-driver-issues-amd"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1173"
@@ -7452,7 +7466,7 @@
     "issue": 664,
     "id": "415608B2",
     "title": "Spider Man: Edge Of Time",
-    "updated": "2026-07-08T16:15:32Z",
+    "updated": "2026-07-25T21:01:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
