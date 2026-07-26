@@ -14801,13 +14801,14 @@
     "issue": 214,
     "id": "4D5307E6",
     "title": "Halo 3",
-    "updated": "2026-06-05T13:04:12Z",
+    "updated": "2026-07-26T12:09:50Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-blam",
         "gpu-readback",
         "kernel-KeSetCurrentStackPointers",
@@ -16537,7 +16538,7 @@
     "issue": 88,
     "id": "584111F7",
     "title": "Minecraft Xbox 360 Edition",
-    "updated": "2026-07-19T17:24:37Z",
+    "updated": "2026-07-26T15:20:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
