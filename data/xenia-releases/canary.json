@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "888b9ad",
+    "target_commitish": "888b9ad2588f432f2ab87c293f371ae6ca20ea2b",
+    "published_at": "2026-07-27T20:06:56Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/888b9ad",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/888b9ad2588f432f2ab87c293f371ae6ca20ea2b",
+    "changelog": {
+      "title": "888b9ad_canary_experimental",
+      "changes": "- [Kernel] Added cvar for loading XDBM (`888b9ad`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/0c6dc9b...888b9ad"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/888b9ad/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/888b9ad/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "0c6dc9b",
+    "target_commitish": "0c6dc9b628e399484129d94e69ecfb3d619346cf",
+    "published_at": "2026-07-27T19:27:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0c6dc9b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0c6dc9b628e399484129d94e69ecfb3d619346cf",
+    "changelog": {
+      "title": "0c6dc9b_canary_experimental",
+      "changes": "- [Kernel] Initial XMP Notifications (`0c6dc9b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7d8be7f...0c6dc9b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0c6dc9b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0c6dc9b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "7d8be7f",
     "target_commitish": "7d8be7f17e3e868a0a9f97c6f89f44981c6d1ae0",
     "published_at": "2026-07-27T09:08:47Z",
