@@ -51,15 +51,15 @@
     "issue": 1172,
     "id": "545407DC",
     "title": "Don King Presents: Prizefighter",
-    "updated": "2026-07-25T11:39:41Z",
+    "updated": "2026-07-29T13:50:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "kernel-threading-stalls",
         "apu-garbage",
-        "kernel-save-file-errors",
         "crash-random",
         "crash-always"
       ]
@@ -5519,8 +5519,8 @@
   {
     "issue": 798,
     "id": "58411488",
-    "title": "Game of Thrones",
-    "updated": "2025-08-11T06:34:18Z",
+    "title": "Game of Thrones: A Telltale Games Series",
+    "updated": "2026-07-29T13:28:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10134,14 +10134,13 @@
     "issue": 496,
     "id": "5553085D",
     "title": "Assassin's Creed: Brotherhood",
-    "updated": "2026-07-28T14:59:28Z",
+    "updated": "2026-07-29T14:15:59Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "kernel-threading-stalls",
         "tech-engine-anvil",
         "gpu-occlusion-query"
       ]
@@ -14186,7 +14185,7 @@
     "issue": 256,
     "id": "454107E9",
     "title": "The Godfather",
-    "updated": "2026-07-29T09:44:37Z",
+    "updated": "2026-07-29T11:40:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14716,13 +14715,14 @@
     "issue": 222,
     "id": "55530804",
     "title": "Dark Messiah: Might and Magic Elements",
-    "updated": "2026-06-01T12:36:14Z",
+    "updated": "2026-07-29T14:07:12Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-source",
         "tech-middleware-havok",
         "gpu-readback",
@@ -16923,7 +16923,7 @@
     "issue": 63,
     "id": "415608AF",
     "title": "Goldeneye: 007 Reloaded",
-    "updated": "2026-06-07T05:37:04Z",
+    "updated": "2026-07-29T14:54:22Z",
     "state": "Playable",
     "labels": {
       "state": [
