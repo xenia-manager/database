@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "2585d3c",
+    "target_commitish": "2585d3cd69cc6344c107c07c7e99b121878af745",
+    "published_at": "2026-07-30T08:17:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2585d3c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2585d3cd69cc6344c107c07c7e99b121878af745",
+    "changelog": {
+      "title": "2585d3c_canary_experimental",
+      "changes": "- [XAM/NET] - Stub XampXAuth functions (`2585d3c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1807da0...2585d3c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2585d3c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2585d3c/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "1807da0",
+    "target_commitish": "1807da06db181c17c657a09a6614b6fa1a913e29",
+    "published_at": "2026-07-30T07:18:49Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1807da0",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1807da06db181c17c657a09a6614b6fa1a913e29",
+    "changelog": {
+      "title": "1807da0_canary_experimental",
+      "changes": "- [Kernel] Added usage of X_DISPATCHER_FLAGS (`1807da0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2ddc5ef...1807da0"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1807da0/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1807da0/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "2ddc5ef",
+    "target_commitish": "2ddc5ef737db3f409ec4ad3b202c256e612f18b9",
+    "published_at": "2026-07-30T05:58:49Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2ddc5ef",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2ddc5ef737db3f409ec4ad3b202c256e612f18b9",
+    "changelog": {
+      "title": "2ddc5ef_canary_experimental",
+      "changes": "- [GPU] 8_8_8_8_GAMMA resolve update; fix unsigned-biased fetch scaling (`2ddc5ef`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/888b9ad...2ddc5ef"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2ddc5ef/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2ddc5ef/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "888b9ad",
     "target_commitish": "888b9ad2588f432f2ab87c293f371ae6ca20ea2b",
     "published_at": "2026-07-27T20:06:56Z",
