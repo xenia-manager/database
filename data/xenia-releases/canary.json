@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "e4f28f6",
+    "target_commitish": "e4f28f6984af68640e0230192fafae1e56979efd",
+    "published_at": "2026-07-30T15:19:34Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e4f28f6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e4f28f6984af68640e0230192fafae1e56979efd",
+    "changelog": {
+      "title": "e4f28f6_canary_experimental",
+      "changes": "- [Kernel] Fixed object type (`e4f28f6`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2585d3c...e4f28f6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e4f28f6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e4f28f6/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "2585d3c",
     "target_commitish": "2585d3cd69cc6344c107c07c7e99b121878af745",
     "published_at": "2026-07-30T08:17:29Z",
