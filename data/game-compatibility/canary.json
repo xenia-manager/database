@@ -1422,7 +1422,7 @@
     "issue": 1073,
     "id": "415607DA",
     "title": "Marvel Ultimate Alliance",
-    "updated": "2026-07-27T17:59:11Z",
+    "updated": "2026-07-29T21:25:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1430,7 +1430,8 @@
       ],
       "others": [
         "apu-garbage",
-        "requires_protect_zero_false"
+        "requires_protect_zero_false",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1073"
@@ -1580,11 +1581,11 @@
     "issue": 1063,
     "id": "5345083F",
     "title": "Anarchy Reigns",
-    "updated": "2026-05-04T06:04:45Z",
-    "state": "Gameplay",
+    "updated": "2026-07-29T21:34:06Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "vsync-off-speedup"
@@ -11532,7 +11533,7 @@
     "issue": 409,
     "id": "4D53084D",
     "title": "Forza Motorsport 3",
-    "updated": "2026-07-27T03:15:13Z",
+    "updated": "2026-07-29T19:25:58Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14472,15 +14473,15 @@
     "issue": 237,
     "id": "4343081C",
     "title": "Resident Evil 4",
-    "updated": "2026-01-04T19:44:26Z",
+    "updated": "2026-07-30T01:54:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-middleware-criware",
-        "tech-engine-mt",
         "vsync-off-speedup"
       ]
     },
