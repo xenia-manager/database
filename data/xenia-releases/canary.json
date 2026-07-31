@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "7010c86",
+    "target_commitish": "7010c86fb14f118ee598d3f76010dc0759b9502a",
+    "published_at": "2026-07-30T18:28:02Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7010c86",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7010c86fb14f118ee598d3f76010dc0759b9502a",
+    "changelog": {
+      "title": "7010c86_canary_experimental",
+      "changes": "- Revert \"[Kernel] Initial XMP Notifications\" (`7010c86`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e4f28f6...7010c86"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7010c86/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7010c86/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "e4f28f6",
     "target_commitish": "e4f28f6984af68640e0230192fafae1e56979efd",
     "published_at": "2026-07-30T15:19:34Z",

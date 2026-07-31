@@ -7499,7 +7499,7 @@
     "issue": 664,
     "id": "415608B2",
     "title": "Spider Man: Edge Of Time",
-    "updated": "2026-07-27T17:52:03Z",
+    "updated": "2026-07-30T21:22:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7507,7 +7507,6 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "gpu-shader-errors",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -8069,7 +8068,7 @@
     "issue": 626,
     "id": "5451080D",
     "title": "Red Faction: Guerrilla",
-    "updated": "2026-05-21T13:04:38Z",
+    "updated": "2026-07-30T18:17:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8077,6 +8076,7 @@
       ],
       "others": [
         "gpu-shader-errors",
+        "gpu-occlusion-query",
         "gpu-drawing-black"
       ]
     },
@@ -10510,7 +10510,7 @@
     "issue": 469,
     "id": "4E4D083D",
     "title": "Soulcalibur V",
-    "updated": "2026-07-30T12:39:44Z",
+    "updated": "2026-07-30T22:19:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14473,16 +14473,17 @@
     "issue": 237,
     "id": "4343081C",
     "title": "Resident Evil 4",
-    "updated": "2026-07-30T01:54:17Z",
-    "state": "Gameplay",
+    "updated": "2026-07-30T18:01:44Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt",
         "tech-middleware-criware",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/237"
@@ -15693,15 +15694,13 @@
     "issue": 157,
     "id": "58410A54",
     "title": "Radiant Silvergun",
-    "updated": "2026-07-30T06:28:59Z",
+    "updated": "2026-07-30T21:21:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-shader-errors"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/157"
   },
@@ -16978,7 +16977,7 @@
     "issue": 56,
     "id": "4B4E0806",
     "title": "Tornado Outbreak",
-    "updated": "2026-07-30T03:21:55Z",
+    "updated": "2026-07-30T19:30:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
