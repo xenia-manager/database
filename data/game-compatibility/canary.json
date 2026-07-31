@@ -8848,13 +8848,14 @@
     "issue": 573,
     "id": "454108B4",
     "title": "Need for Speed Shift",
-    "updated": "2026-07-27T17:59:29Z",
-    "state": "Gameplay",
+    "updated": "2026-07-31T15:35:44Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-readback",
         "backwards-compatibility-unsupported",
         "tech-engine-madness"
       ]
