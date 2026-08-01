@@ -2630,7 +2630,7 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-07-16T18:30:46Z",
+    "updated": "2026-07-31T20:21:53Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -2639,6 +2639,7 @@
       "others": [
         "gpu-drawing-missing",
         "tech-engine-blam",
+        "gpu-readback",
         "vsync-off-speedup",
         "gpu-occlusion-query"
       ]
@@ -6073,7 +6074,7 @@
     "issue": 761,
     "id": "57520802",
     "title": "Batman: Arkham City",
-    "updated": "2026-07-08T19:10:17Z",
+    "updated": "2026-07-31T18:01:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8577,7 +8578,7 @@
     "issue": 593,
     "id": "45410934",
     "title": "Shift 2: Unleashed",
-    "updated": "2026-07-27T18:17:12Z",
+    "updated": "2026-08-01T00:59:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8848,7 +8849,7 @@
     "issue": 573,
     "id": "454108B4",
     "title": "Need for Speed Shift",
-    "updated": "2026-07-31T15:35:44Z",
+    "updated": "2026-07-31T17:48:16Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -8857,6 +8858,7 @@
       "others": [
         "gpu-readback",
         "backwards-compatibility-unsupported",
+        "gpu-occlusion-query",
         "tech-engine-madness"
       ]
     },
@@ -10220,7 +10222,7 @@
     "issue": 490,
     "id": "58410957",
     "title": "Call of Duty Classic",
-    "updated": "2026-07-27T16:16:50Z",
+    "updated": "2026-07-31T22:51:02Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14247,18 +14249,16 @@
     "issue": 253,
     "id": "5841095A",
     "title": "Trials HD",
-    "updated": "2026-06-12T01:56:14Z",
+    "updated": "2026-07-31T17:48:51Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "cpu-timing",
         "tech-physics-bullet",
         "gpu-readback",
-        "gpu-viz-query",
-        "crash-random"
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/253"
@@ -14864,7 +14864,7 @@
     "issue": 214,
     "id": "4D5307E6",
     "title": "Halo 3",
-    "updated": "2026-07-27T18:49:28Z",
+    "updated": "2026-07-31T20:22:22Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15337,7 +15337,7 @@
     "issue": 179,
     "id": "454108D4",
     "title": "Left 4 Dead 2",
-    "updated": "2026-06-29T06:32:33Z",
+    "updated": "2026-07-31T20:25:50Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16734,11 +16734,11 @@
     "issue": 77,
     "id": "4D5307D3",
     "title": "PERFECT DARK ZERO",
-    "updated": "2026-07-14T16:45:17Z",
-    "state": "Gameplay",
+    "updated": "2026-08-01T01:27:24Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": []
     },
