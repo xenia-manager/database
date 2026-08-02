@@ -1,17 +1,31 @@
 [
   {
-    "issue": 1178,
-    "id": "58410A69",
-    "title": "Deadliest Warriors",
-    "updated": "2026-08-02T00:28:28Z",
+    "issue": 1179,
+    "id": "58410AF9",
+    "title": "Galaga Legions DX",
+    "updated": "2026-08-02T15:09:24Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-shader-errors"
+        "vsync-off-speedup"
       ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1179"
+  },
+  {
+    "issue": 1178,
+    "id": "58410A69",
+    "title": "Deadliest Warriors",
+    "updated": "2026-08-02T16:28:07Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1178"
   },
@@ -19,15 +33,13 @@
     "issue": 1177,
     "id": "58410B5C",
     "title": "Deadliest Warrior: Legends",
-    "updated": "2026-08-01T22:47:22Z",
+    "updated": "2026-08-02T16:28:49Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": [
-        "gpu-shader-errors"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1177"
   },
@@ -998,15 +1010,13 @@
     "issue": 1107,
     "id": "545108AF",
     "title": "Wheel of Fortune",
-    "updated": "2026-05-13T15:21:54Z",
+    "updated": "2026-08-02T16:29:50Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": [
-        "gpu-shader-errors"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1107"
   },
@@ -1723,7 +1733,7 @@
     "issue": 1054,
     "id": "45410961",
     "title": "Need For Speed Most Wanted (2012)",
-    "updated": "2026-08-01T22:49:34Z",
+    "updated": "2026-08-02T16:10:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8590,7 +8600,7 @@
     "issue": 595,
     "id": "5841125E",
     "title": "Joy Ride Turbo",
-    "updated": "2026-05-28T07:58:48Z",
+    "updated": "2026-08-02T16:50:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8598,7 +8608,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-shader-errors",
+        "vsync-off-speedup",
         "tech-avatar-required"
       ]
     },
@@ -15329,7 +15339,7 @@
     "issue": 186,
     "id": "454108C5",
     "title": "Br\u00fctal Legend",
-    "updated": "2024-09-26T12:12:33Z",
+    "updated": "2026-08-02T12:08:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16358,7 +16368,7 @@
     "issue": 112,
     "id": "4D5308D6",
     "title": "Fable III",
-    "updated": "2026-07-27T18:29:27Z",
+    "updated": "2026-08-02T11:57:12Z",
     "state": "Gameplay",
     "labels": {
       "state": [

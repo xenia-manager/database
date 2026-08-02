@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "da47dfa",
+    "target_commitish": "da47dfaacfae1134b238af9083a7f3d413c6cbbe",
+    "published_at": "2026-08-02T16:29:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/da47dfa",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/da47dfaacfae1134b238af9083a7f3d413c6cbbe",
+    "changelog": {
+      "title": "da47dfa_canary_experimental",
+      "changes": "- [GPU/DXBC] Fix signed round bias breaking memexport (`da47dfa`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7010c86...da47dfa"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/da47dfa/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/da47dfa/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "7010c86",
     "target_commitish": "7010c86fb14f118ee598d3f76010dc0759b9502a",
     "published_at": "2026-07-30T18:28:02Z",
