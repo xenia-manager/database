@@ -1,5 +1,37 @@
 [
   {
+    "issue": 1178,
+    "id": "58410A69",
+    "title": "Deadliest Warriors",
+    "updated": "2026-08-02T00:28:28Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "gpu-shader-errors"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1178"
+  },
+  {
+    "issue": 1177,
+    "id": "58410B5C",
+    "title": "Deadliest Warrior: Legends",
+    "updated": "2026-08-01T22:47:22Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "gpu-shader-errors"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1177"
+  },
+  {
     "issue": 1175,
     "id": "534507F5",
     "title": "SEGA Superstars Tennis",
@@ -781,7 +813,7 @@
     "issue": 1119,
     "id": "4D530888",
     "title": "Lips",
-    "updated": "2026-07-10T10:30:59Z",
+    "updated": "2026-08-01T20:57:52Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -1691,14 +1723,15 @@
     "issue": 1054,
     "id": "45410961",
     "title": "Need For Speed Most Wanted (2012)",
-    "updated": "2026-08-01T09:56:51Z",
+    "updated": "2026-08-01T22:49:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-readback"
+        "gpu-readback",
+        "crash-always"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1054"
@@ -1871,15 +1904,15 @@
     "issue": 1040,
     "id": "57520817",
     "title": "LEGO Batman 2 DC Super Heroes",
-    "updated": "2026-07-09T01:05:32Z",
+    "updated": "2026-08-01T17:39:53Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "apu-garbage",
+        "gpu-readback",
         "crash-always"
       ]
     },
@@ -3326,7 +3359,7 @@
     "issue": 936,
     "id": "584114C6",
     "title": "Minecraft Story Mode 2",
-    "updated": "2026-07-15T07:00:21Z",
+    "updated": "2026-08-01T17:43:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3334,7 +3367,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
         "tech-engine-telltaletool",
         "backwards-compatibility-unsupported"
       ]
@@ -4484,15 +4516,13 @@
     "issue": 861,
     "id": "464F07E8",
     "title": "Sniper Elite V2",
-    "updated": "2026-07-27T17:49:11Z",
+    "updated": "2026-08-01T17:45:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
         "tech-engine-asura",
         "requires_render_target_rov_fsi"
       ]
@@ -10316,18 +10346,15 @@
     "issue": 484,
     "id": "464F0803",
     "title": "Sniper Elite 3: Ultimate Edition",
-    "updated": "2026-07-27T17:47:10Z",
+    "updated": "2026-08-01T17:53:36Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "cpu-timing",
         "tech-engine-asura",
         "backwards-compatibility-unsupported",
-        "crash-random",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -12449,18 +12476,17 @@
     "issue": 356,
     "id": "58410B3A",
     "title": "I Am Alive",
-    "updated": "2026-07-10T11:09:45Z",
+    "updated": "2026-08-01T17:55:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
         "tech-engine-unreal",
         "tech-middleware-havok",
-        "tech-middleware-wwise"
+        "tech-middleware-wwise",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/356"
@@ -13999,7 +14025,7 @@
     "issue": 266,
     "id": "41560801",
     "title": "Hot Wheels: Beat That!",
-    "updated": "2024-11-06T12:58:18Z",
+    "updated": "2026-08-01T17:59:44Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14007,7 +14033,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "marketplace-delisted"
+        "marketplace-delisted",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/266"
@@ -14550,7 +14577,7 @@
     "issue": 233,
     "id": "415608EC",
     "title": "Deadpool",
-    "updated": "2026-06-01T12:37:09Z",
+    "updated": "2026-08-01T18:07:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15855,14 +15882,13 @@
     "issue": 148,
     "id": "454109F9",
     "title": "FIFA 19",
-    "updated": "2026-07-12T08:58:59Z",
+    "updated": "2026-08-01T18:05:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
@@ -16249,7 +16275,7 @@
     "issue": 120,
     "id": "45410811",
     "title": "UEFA Champions League 2006\u20132007",
-    "updated": "2026-07-08T20:30:12Z",
+    "updated": "2026-08-01T20:00:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17621,7 +17647,7 @@
     "issue": 9,
     "id": "454107DB",
     "title": "Battlefield 2: Modern Combat",
-    "updated": "2026-03-04T14:55:57Z",
+    "updated": "2026-08-01T18:08:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
