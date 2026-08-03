@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "131503f",
+    "target_commitish": "131503f68d4b34811154437ae224960ba15b5007",
+    "published_at": "2026-08-02T20:21:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/131503f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/131503f68d4b34811154437ae224960ba15b5007",
+    "changelog": {
+      "title": "131503f_canary_experimental",
+      "changes": "- [XEX] - add more file signatures (`131503f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8486e97...131503f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/131503f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/131503f/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "8486e97",
+    "target_commitish": "8486e97a06cbbf68da310f16bf18f011d511c528",
+    "published_at": "2026-08-02T19:17:07Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8486e97",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8486e97a06cbbf68da310f16bf18f011d511c528",
+    "changelog": {
+      "title": "8486e97_canary_experimental",
+      "changes": "- [GPU] Sample locked mip unnormalized fetches in the mip's grid (`8486e97`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/364dc1d...8486e97"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8486e97/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8486e97/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "364dc1d",
+    "target_commitish": "364dc1d770f2378c4c9ca7e63b2a8b0630906156",
+    "published_at": "2026-08-02T17:37:09Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/364dc1d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/364dc1d770f2378c4c9ca7e63b2a8b0630906156",
+    "changelog": {
+      "title": "364dc1d_canary_experimental",
+      "changes": "- [XBOXKRNL/IO] - add structs for NtDeviceIoControlFile (`364dc1d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/da47dfa...364dc1d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/364dc1d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/364dc1d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "da47dfa",
     "target_commitish": "da47dfaacfae1134b238af9083a7f3d413c6cbbe",
     "published_at": "2026-08-02T16:29:47Z",

@@ -1656,15 +1656,14 @@
     "issue": 1061,
     "id": "4B5607D4",
     "title": "Ninja Gaiden 3",
-    "updated": "2026-05-14T12:55:10Z",
+    "updated": "2026-08-03T00:20:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "crash-always"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1061"
@@ -1733,7 +1732,7 @@
     "issue": 1054,
     "id": "45410961",
     "title": "Need For Speed Most Wanted (2012)",
-    "updated": "2026-08-02T16:10:02Z",
+    "updated": "2026-08-02T17:17:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4437,7 +4436,7 @@
     "issue": 868,
     "id": "4B4D07D1",
     "title": "Sacred 2: Fallen Angel",
-    "updated": "2025-10-03T15:08:20Z",
+    "updated": "2026-08-02T19:10:14Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -6114,7 +6113,7 @@
     "issue": 761,
     "id": "57520802",
     "title": "Batman: Arkham City",
-    "updated": "2026-07-31T18:01:06Z",
+    "updated": "2026-08-02T22:19:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7797,7 +7796,7 @@
     "issue": 648,
     "id": "4B4E07D1",
     "title": "Rumble Roses XX",
-    "updated": "2026-05-07T23:17:37Z",
+    "updated": "2026-08-03T02:46:25Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -8980,16 +8979,16 @@
     "issue": 568,
     "id": "464507DD",
     "title": "Bound by Flame",
-    "updated": "2026-05-20T21:19:09Z",
+    "updated": "2026-08-02T17:16:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-phyre",
-        "tech-physics-physx"
+        "tech-physics-physx",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/568"
@@ -11826,15 +11825,13 @@
     "issue": 395,
     "id": "58410B39",
     "title": "Backbreaker Vengeance",
-    "updated": "2026-07-12T19:37:20Z",
+    "updated": "2026-08-02T21:02:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "regression",
         "tech-physics-physx",
         "tech-middleware-euphoria",
         "gpu-readback",
@@ -13134,14 +13131,13 @@
     "issue": 318,
     "id": "5841123E",
     "title": "Far Cry Classic",
-    "updated": "2026-03-17T00:13:26Z",
+    "updated": "2026-08-02T17:46:59Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-cry"
       ]
     },
@@ -15174,20 +15170,19 @@
     "issue": 196,
     "id": "5553080B",
     "title": "Tom Clancy\u2019s Splinter Cell: Conviction",
-    "updated": "2026-06-28T00:56:00Z",
+    "updated": "2026-08-03T02:55:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-engine-unreal",
         "tech-middleware-havok",
         "gpu-readback",
         "tech-middleware-scaleform",
         "gpu-occlusion-query",
-        "gpu-drawing-black"
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/196"
@@ -16301,7 +16296,7 @@
     "issue": 119,
     "id": "454107ED",
     "title": "Superman Returns",
-    "updated": "2026-07-10T17:34:43Z",
+    "updated": "2026-08-02T21:42:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16514,20 +16509,18 @@
     "issue": 103,
     "id": "555308B6",
     "title": "Tom Clancy's Splinter Cell: Blacklist",
-    "updated": "2026-07-24T00:10:54Z",
+    "updated": "2026-08-03T02:56:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-engine-unreal",
         "tech-kinect-optional",
         "tech-middleware-havok",
         "gpu-readback",
-        "gpu-occlusion-query",
-        "gpu-drawing-black"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/103"
@@ -17771,14 +17764,13 @@
     "issue": 2,
     "id": "555307E6",
     "title": "Enchanted Arms",
-    "updated": "2025-03-31T17:41:30Z",
+    "updated": "2026-08-02T18:27:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "vsync-off-speedup"
       ]
     },
