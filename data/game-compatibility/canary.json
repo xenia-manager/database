@@ -3,11 +3,15 @@
     "issue": 1180,
     "id": "58410A8D",
     "title": "Dead Rising 2: Case Zero",
-    "updated": "2026-08-03T09:19:53Z",
-    "state": "Unknown",
+    "updated": "2026-08-03T14:21:17Z",
+    "state": "Playable",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "gpu-drawing-corrupt"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1180"
   },
@@ -535,7 +539,7 @@
     "issue": 1140,
     "id": "545408A7",
     "title": "Grand Theft Auto V",
-    "updated": "2026-07-27T21:14:22Z",
+    "updated": "2026-08-03T11:28:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17403,7 +17407,7 @@
     "issue": 31,
     "id": "454107DC",
     "title": "Burnout Revenge",
-    "updated": "2026-05-29T21:59:19Z",
+    "updated": "2026-08-03T15:04:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
