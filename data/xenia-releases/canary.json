@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "0f2980d",
+    "target_commitish": "0f2980de442341788c07b282d6fbd6dc689166de",
+    "published_at": "2026-08-04T08:59:32Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0f2980d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0f2980de442341788c07b282d6fbd6dc689166de",
+    "changelog": {
+      "title": "0f2980d_canary_experimental",
+      "changes": "- [GPU] Apply gradient exponent bias during fetch that's per-axis (`0f2980d`)\n- [Vulkan] Implement vertex kill (oPts.z) in the translator (`090cecd`)\n- [Vulkan] Sample auto-LOD cube fetches with implicit LOD + bias (`3254ac2`)\n- [Vulkan] Disable anisotropy for ineligible texture formats (`658cdbb`)\n- [Vulkan] Barrier consecutive uploads to the same image (`1fdbe56`)\n- [GPU] Host RT polygon offset for Z-fighting decals (`cde5d85`)\n- [Vulkan] Add depth_float24_convert_in_pixel_shader support (`2a6e9f4`)\n- [GPU] Implement wide 1D texture support (`947075f`)\n- [GPU] Honor force_bc_w_to_max: force sampler border color alpha to 1.0 (`d0dd989`)\n- [Vulkan] Use VK_EXT_custom_border_color for YCbCr texture border colors (`084f14e`)\n- [GPU] Fix 20e4 bit span in Depth20e4To32 comments (`ac42250`)\n- [Vulkan] Fix stacked-texture inter-layer lerp base in SampleTexture (`e519d59`)\n- [GPU] Fix mantissa placement in CPU Float7e3To32 (`f3e4260`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/fbdb1f2...0f2980d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0f2980d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0f2980d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "fbdb1f2",
+    "target_commitish": "fbdb1f2817c4c876227cf15c0835994d23731967",
+    "published_at": "2026-08-04T05:44:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/fbdb1f2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/fbdb1f2817c4c876227cf15c0835994d23731967",
+    "changelog": {
+      "title": "fbdb1f2_canary_experimental",
+      "changes": "- [GPU] Handle two component tfetch1D coordinates (`fbdb1f2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/fe40c0d...fbdb1f2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fbdb1f2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fbdb1f2/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "fe40c0d",
     "target_commitish": "fe40c0d68ffb2e1166c4fce329e25b4ac9467b97",
     "published_at": "2026-08-03T19:33:14Z",
