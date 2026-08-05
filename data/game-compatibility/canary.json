@@ -1,13 +1,31 @@
 [
   {
+    "issue": 1184,
+    "id": "554F07D3",
+    "title": "Way of the Samurai 3",
+    "updated": "2026-08-05T00:35:35Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1184"
+  },
+  {
     "issue": 1182,
     "id": "58410B00",
     "title": "Dead Rising 2 : Case West",
-    "updated": "2026-08-04T11:44:00Z",
-    "state": "Unknown",
+    "updated": "2026-08-04T18:43:14Z",
+    "state": "Playable",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "apu-garbage"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1182"
   },
@@ -2943,7 +2961,7 @@
     "issue": 965,
     "id": "555308AE",
     "title": "Assassin's Creed III",
-    "updated": "2026-07-28T06:52:07Z",
+    "updated": "2026-08-05T01:51:42Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -3076,7 +3094,7 @@
     "issue": 957,
     "id": "4B4E0820",
     "title": "Def Jam: Rapstar",
-    "updated": "2026-05-25T23:05:10Z",
+    "updated": "2026-08-05T00:14:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3084,8 +3102,7 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "tech-microphone-required",
-        "gpu-drawing-black"
+        "tech-microphone-required"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/957"
@@ -6934,7 +6951,7 @@
     "issue": 709,
     "id": "58410826",
     "title": "Hexic 2",
-    "updated": "2026-02-03T18:46:48Z",
+    "updated": "2026-08-04T20:14:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7158,7 +7175,7 @@
     "issue": 693,
     "id": "534507D4",
     "title": "Chromehounds",
-    "updated": "2026-02-03T18:46:27Z",
+    "updated": "2026-08-05T01:43:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7483,7 +7500,7 @@
     "issue": 671,
     "id": "584109B7",
     "title": "0 Day Attack on Earth",
-    "updated": "2025-07-08T05:46:53Z",
+    "updated": "2026-08-05T01:43:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9205,7 +9222,7 @@
     "issue": 557,
     "id": "415608FA",
     "title": "Cabela's African Adventures",
-    "updated": "2026-07-30T05:08:53Z",
+    "updated": "2026-08-05T01:43:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9342,7 +9359,7 @@
     "issue": 549,
     "id": "41560845",
     "title": "Blur",
-    "updated": "2026-06-20T09:49:21Z",
+    "updated": "2026-08-05T01:47:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9445,7 +9462,7 @@
     "issue": 543,
     "id": "454107F8",
     "title": "Army of Two",
-    "updated": "2026-05-17T22:24:47Z",
+    "updated": "2026-08-05T01:43:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9625,7 +9642,7 @@
     "issue": 532,
     "id": "545407E2",
     "title": "NBA 2K6",
-    "updated": "2026-05-17T22:31:58Z",
+    "updated": "2026-08-05T01:42:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9641,7 +9658,7 @@
     "issue": 531,
     "id": "4B4E085C",
     "title": "Metal Gear Solid V: Ground Zeroes",
-    "updated": "2026-01-19T04:40:32Z",
+    "updated": "2026-08-05T02:10:53Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9762,7 +9779,7 @@
     "issue": 524,
     "id": "5553087E",
     "title": "Driver: San Francisco",
-    "updated": "2025-06-11T18:36:38Z",
+    "updated": "2026-08-05T02:07:45Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -10167,7 +10184,7 @@
     "issue": 499,
     "id": "454108DF",
     "title": "Dead Space 2",
-    "updated": "2026-07-09T02:51:15Z",
+    "updated": "2026-08-05T01:34:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10241,7 +10258,7 @@
     "issue": 495,
     "id": "5553084C",
     "title": "Child of Eden",
-    "updated": "2026-07-09T01:24:06Z",
+    "updated": "2026-08-05T01:42:36Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10471,7 +10488,7 @@
     "issue": 478,
     "id": "454107F7",
     "title": "NBA Street Homecourt",
-    "updated": "2026-07-02T11:37:33Z",
+    "updated": "2026-08-05T01:42:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11120,7 +11137,7 @@
     "issue": 439,
     "id": "45410845",
     "title": "NASCAR 09",
-    "updated": "2025-01-21T03:44:15Z",
+    "updated": "2026-08-05T01:42:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13129,7 +13146,7 @@
     "issue": 321,
     "id": "4156091D",
     "title": "Call Of Duty: Black Ops III",
-    "updated": "2026-07-15T16:10:02Z",
+    "updated": "2026-08-05T01:42:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13164,7 +13181,7 @@
     "issue": 319,
     "id": "45410813",
     "title": "Skate.",
-    "updated": "2026-05-21T02:22:25Z",
+    "updated": "2026-08-05T01:42:14Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14520,7 +14537,7 @@
     "issue": 242,
     "id": "545107FC",
     "title": "Saints Row 2",
-    "updated": "2026-06-02T19:56:55Z",
+    "updated": "2026-08-05T01:38:43Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14538,7 +14555,7 @@
     "issue": 241,
     "id": "41560817",
     "title": "Call of Duty: Modern Warfare 2",
-    "updated": "2026-06-14T03:14:35Z",
+    "updated": "2026-08-05T01:47:17Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15256,7 +15273,7 @@
     "issue": 193,
     "id": "415608C3",
     "title": "Call of Duty: Black Ops II",
-    "updated": "2026-06-15T19:55:17Z",
+    "updated": "2026-08-05T02:06:33Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15341,7 +15358,7 @@
     "issue": 188,
     "id": "454107F9",
     "title": "Battlefield: Bad Company",
-    "updated": "2026-07-27T18:34:39Z",
+    "updated": "2026-08-05T01:42:01Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16041,7 +16058,7 @@
     "issue": 141,
     "id": "45410912",
     "title": "Portal 2",
-    "updated": "2026-06-03T11:53:44Z",
+    "updated": "2026-08-05T01:41:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16201,7 +16218,7 @@
     "issue": 129,
     "id": "5454082B",
     "title": "Red Dead Redemption",
-    "updated": "2026-06-01T13:39:45Z",
+    "updated": "2026-08-05T02:02:41Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16556,13 +16573,14 @@
     "issue": 103,
     "id": "555308B6",
     "title": "Tom Clancy's Splinter Cell: Blacklist",
-    "updated": "2026-08-03T02:56:04Z",
-    "state": "Gameplay",
+    "updated": "2026-08-05T01:39:44Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-kinect-optional",
         "tech-middleware-havok",
@@ -16759,7 +16777,7 @@
     "issue": 82,
     "id": "5345085D",
     "title": "Sonic & All-Stars Racing Transformed",
-    "updated": "2026-07-27T19:31:43Z",
+    "updated": "2026-08-05T01:41:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17296,7 +17314,7 @@
     "issue": 42,
     "id": "5454086B",
     "title": "Max Payne 3",
-    "updated": "2026-07-14T14:58:26Z",
+    "updated": "2026-08-05T01:57:26Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17517,7 +17535,7 @@
     "issue": 27,
     "id": "415607E1",
     "title": "Call of Duty 3",
-    "updated": "2026-06-07T21:00:22Z",
+    "updated": "2026-08-05T01:40:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17572,7 +17590,7 @@
     "issue": 20,
     "id": "545107D1",
     "title": "Saints Row",
-    "updated": "2026-06-04T20:43:15Z",
+    "updated": "2026-08-05T01:54:23Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17664,7 +17682,7 @@
     "issue": 14,
     "id": "545407F2",
     "title": "Grand Theft Auto IV",
-    "updated": "2026-05-17T20:16:54Z",
+    "updated": "2026-08-05T02:17:03Z",
     "state": "Playable",
     "labels": {
       "state": [
