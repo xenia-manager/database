@@ -1914,15 +1914,13 @@
     "issue": 1046,
     "id": "494707EE",
     "title": "The Chronicles Of Riddick Assault On Dark Athena",
-    "updated": "2026-06-09T01:03:46Z",
+    "updated": "2026-08-06T00:19:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-shader-errors",
-        "gpu-readback",
         "gpu-occlusion-query"
       ]
     },
@@ -6155,7 +6153,7 @@
     "issue": 762,
     "id": "57520828",
     "title": "Batman: Arkham Origins",
-    "updated": "2026-06-18T16:19:52Z",
+    "updated": "2026-08-05T20:45:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6168,7 +6166,8 @@
         "tech-middleware-wwise",
         "gpu-readback",
         "tech-middleware-scaleform",
-        "gpu-occlusion-query"
+        "gpu-occlusion-query",
+        "gpu-async-compile-issues"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/762"
@@ -7572,16 +7571,13 @@
     "issue": 666,
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
-    "updated": "2026-07-09T11:15:05Z",
+    "updated": "2026-08-05T21:52:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-drawing-corrupt",
-        "gpu-drawing-missing"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/666"
   },
@@ -13427,7 +13423,7 @@
     "issue": 304,
     "id": "534307F6",
     "title": "Batman: Arkham Asylum",
-    "updated": "2026-06-15T20:26:10Z",
+    "updated": "2026-08-05T22:35:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13438,7 +13434,8 @@
         "tech-engine-unreal",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "gpu-occlusion-query",
+        "gpu-async-compile-issues"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/304"
@@ -15839,17 +15836,15 @@
     "issue": 154,
     "id": "4D5307E8",
     "title": "Mass Effect",
-    "updated": "2026-07-27T18:11:39Z",
+    "updated": "2026-08-05T20:38:41Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-engine-unreal",
-        "gpu-occlusion-query",
-        "requires_render_target_rov_fsi"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/154"
@@ -17572,16 +17567,15 @@
     "issue": 25,
     "id": "5454084E",
     "title": "Duke Nukem Forever",
-    "updated": "2025-05-23T13:43:05Z",
+    "updated": "2026-08-06T01:48:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
-        "tech-engine-unreal"
+        "tech-engine-unreal",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/25"

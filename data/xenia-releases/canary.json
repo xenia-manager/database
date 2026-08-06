@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "25597a5",
+    "target_commitish": "25597a5465187288d147dabd62bc41a30aa6b7ff",
+    "published_at": "2026-08-05T20:17:57Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/25597a5",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/25597a5465187288d147dabd62bc41a30aa6b7ff",
+    "changelog": {
+      "title": "25597a5_canary_experimental",
+      "changes": "- [GPU] Allow depth clamping instead of clipping (`25597a5`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6ff2a56...25597a5"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/25597a5/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/25597a5/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "6ff2a56",
     "target_commitish": "6ff2a56f6a213446aeb4689389c7b6f74e94e01e",
     "published_at": "2026-08-04T18:01:06Z",
