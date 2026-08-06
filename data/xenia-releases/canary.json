@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "6a45452",
+    "target_commitish": "6a454520877624f35ac5e2c34b4e8317c34f1ab6",
+    "published_at": "2026-08-06T05:06:20Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6a45452",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6a454520877624f35ac5e2c34b4e8317c34f1ab6",
+    "changelog": {
+      "title": "6a45452_canary_experimental",
+      "changes": "- [GPU] Walk the guest swizzle for integer scales; update comments Fixed integer fetches are updated to look widths up through the guest swizzle, so every output channel is scaled by the width it came from. (`6a45452`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/25597a5...6a45452"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6a45452/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6a45452/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "25597a5",
     "target_commitish": "25597a5465187288d147dabd62bc41a30aa6b7ff",
     "published_at": "2026-08-05T20:17:57Z",

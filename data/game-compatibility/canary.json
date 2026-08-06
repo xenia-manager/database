@@ -3,7 +3,7 @@
     "issue": 1184,
     "id": "554F07D3",
     "title": "Way of the Samurai 3",
-    "updated": "2026-08-05T00:35:35Z",
+    "updated": "2026-08-06T09:38:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -607,7 +607,7 @@
     "issue": 1138,
     "id": "465307D7",
     "title": "Tenchu Z",
-    "updated": "2026-06-16T07:44:47Z",
+    "updated": "2026-08-06T08:50:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7856,14 +7856,15 @@
     "issue": 648,
     "id": "4B4E07D1",
     "title": "Rumble Roses XX",
-    "updated": "2026-08-03T02:46:25Z",
+    "updated": "2026-08-06T08:47:53Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-readback"
+        "gpu-readback",
+        "gpu-async-compile-issues"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/648"
