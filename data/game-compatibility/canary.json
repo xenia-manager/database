@@ -3,7 +3,7 @@
     "issue": 1184,
     "id": "554F07D3",
     "title": "Way of the Samurai 3",
-    "updated": "2026-08-06T09:38:48Z",
+    "updated": "2026-08-06T13:50:12Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -142,7 +142,7 @@
     "issue": 1173,
     "id": "584113FB",
     "title": "Fireburst",
-    "updated": "2026-07-25T21:07:49Z",
+    "updated": "2026-08-06T23:52:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -151,7 +151,8 @@
       "others": [
         "tech-engine-unreal",
         "vsync-off-speedup",
-        "gpu-driver-issues-amd"
+        "gpu-driver-issues-amd",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1173"
@@ -2735,7 +2736,7 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-07-31T20:21:53Z",
+    "updated": "2026-08-06T13:37:34Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -2746,7 +2747,8 @@
         "tech-engine-blam",
         "gpu-readback",
         "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "gpu-occlusion-query",
+        "gpu-async-compile-issues"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/981"
@@ -5091,13 +5093,15 @@
     "issue": 832,
     "id": "524C07D9",
     "title": "Crash Time 3",
-    "updated": "2026-04-28T19:59:20Z",
+    "updated": "2026-08-06T14:00:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-async-compile-issues"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/832"
   },
@@ -5105,13 +5109,15 @@
     "issue": 831,
     "id": "445407D9",
     "title": "Crash Time 4",
-    "updated": "2026-04-28T19:57:24Z",
+    "updated": "2026-08-06T14:00:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-async-compile-issues"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/831"
   },
@@ -7962,7 +7968,7 @@
     "issue": 641,
     "id": "4B4E085E",
     "title": "Metal Gear Solid V: The Phantom Pain",
-    "updated": "2026-03-14T14:41:47Z",
+    "updated": "2026-08-06T14:24:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8678,11 +8684,11 @@
     "issue": 593,
     "id": "45410934",
     "title": "Shift 2: Unleashed",
-    "updated": "2026-08-01T11:28:07Z",
-    "state": "Gameplay",
+    "updated": "2026-08-07T01:58:41Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-readback",
@@ -16077,7 +16083,7 @@
     "issue": 140,
     "id": "415607E6",
     "title": "Call of Duty 4: Modern Warfare",
-    "updated": "2026-05-20T21:44:15Z",
+    "updated": "2026-08-07T01:17:54Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16569,7 +16575,7 @@
     "issue": 103,
     "id": "555308B6",
     "title": "Tom Clancy's Splinter Cell: Blacklist",
-    "updated": "2026-08-05T01:39:44Z",
+    "updated": "2026-08-06T18:16:03Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16981,14 +16987,15 @@
     "issue": 65,
     "id": "545407D8",
     "title": "Bioshock",
-    "updated": "2026-05-13T13:14:07Z",
-    "state": "Gameplay",
+    "updated": "2026-08-06T14:39:09Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "tech-engine-unreal"
+        "tech-engine-unreal",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/65"
