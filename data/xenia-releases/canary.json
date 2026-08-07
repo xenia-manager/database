@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "b98037b",
+    "target_commitish": "b98037bed29b14439e7e5978c6333f1e926e5240",
+    "published_at": "2026-08-07T15:37:40Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b98037b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b98037bed29b14439e7e5978c6333f1e926e5240",
+    "changelog": {
+      "title": "b98037b_canary_experimental",
+      "changes": "- [CI] Disable running pipeline for draft PRs (`b98037b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6a45452...b98037b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b98037b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b98037b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "6a45452",
     "target_commitish": "6a454520877624f35ac5e2c34b4e8317c34f1ab6",
     "published_at": "2026-08-06T05:06:20Z",
