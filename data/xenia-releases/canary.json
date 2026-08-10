@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "7d8db5a",
+    "target_commitish": "7d8db5a2cd06373aefba29dc019db74e78d6fb7d",
+    "published_at": "2026-08-10T07:20:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7d8db5a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7d8db5a2cd06373aefba29dc019db74e78d6fb7d",
+    "changelog": {
+      "title": "7d8db5a_canary_experimental",
+      "changes": "- [XBOXKRNL] - Replace lpvoid_t with pointer_t (`7d8db5a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2b3f0cb...7d8db5a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7d8db5a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7d8db5a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "2b3f0cb",
+    "target_commitish": "2b3f0cb456cd29886da6360589a1b72eda805c95",
+    "published_at": "2026-08-10T06:06:55Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2b3f0cb",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2b3f0cb456cd29886da6360589a1b72eda805c95",
+    "changelog": {
+      "title": "2b3f0cb_canary_experimental",
+      "changes": "- [GPU] Select alpha for A8 resolves (`2b3f0cb`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b98037b...2b3f0cb"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2b3f0cb/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2b3f0cb/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "b98037b",
     "target_commitish": "b98037bed29b14439e7e5978c6333f1e926e5240",
     "published_at": "2026-08-07T15:37:40Z",
