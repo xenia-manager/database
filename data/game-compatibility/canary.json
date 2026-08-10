@@ -6316,16 +6316,17 @@
     "issue": 755,
     "id": "434307D2",
     "title": "Dead Rising",
-    "updated": "2026-07-11T20:44:44Z",
-    "state": "Gameplay",
+    "updated": "2026-08-09T18:57:22Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt",
         "apu-garbage",
-        "gpu-readback"
+        "gpu-readback",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/755"
