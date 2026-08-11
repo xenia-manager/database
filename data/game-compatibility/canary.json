@@ -5877,7 +5877,7 @@
     "issue": 785,
     "id": "5553088C",
     "title": "Far Cry 3",
-    "updated": "2026-06-01T12:47:09Z",
+    "updated": "2026-08-10T18:02:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5885,6 +5885,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
+        "apu-silent",
+        "regression",
         "tech-engine-dunia",
         "gpu-readback",
         "gpu-occlusion-query"
@@ -7636,14 +7638,13 @@
     "issue": 664,
     "id": "415608B2",
     "title": "Spider Man: Edge Of Time",
-    "updated": "2026-07-30T21:22:28Z",
+    "updated": "2026-08-10T20:22:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -8206,16 +8207,15 @@
     "issue": 626,
     "id": "5451080D",
     "title": "Red Faction: Guerrilla",
-    "updated": "2026-07-30T18:17:37Z",
+    "updated": "2026-08-10T18:33:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-shader-errors",
-        "gpu-occlusion-query",
-        "gpu-drawing-black"
+        "gpu-drawing-corrupt",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/626"
@@ -16164,7 +16164,7 @@
     "issue": 136,
     "id": "534507E3",
     "title": "Phantasy Star Universe",
-    "updated": "2026-05-13T13:46:22Z",
+    "updated": "2026-08-10T18:49:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16173,7 +16173,8 @@
       "others": [
         "gpu-drawing-missing",
         "tech-middleware-criware",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-drawing-black"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/136"
