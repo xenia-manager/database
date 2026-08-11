@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "12f5084",
+    "target_commitish": "12f5084b9317e4898090263caa18679837b1b092",
+    "published_at": "2026-08-11T05:47:06Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/12f5084",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/12f5084b9317e4898090263caa18679837b1b092",
+    "changelog": {
+      "title": "12f5084_canary_experimental",
+      "changes": "- [XAM] Allow deleting titles with achievements earned from profiles (`12f5084`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/052cb95...12f5084"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/12f5084/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/12f5084/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "052cb95",
     "target_commitish": "052cb95f24abb225c9e5d952b55777b2b67efaac",
     "published_at": "2026-08-10T21:06:21Z",
