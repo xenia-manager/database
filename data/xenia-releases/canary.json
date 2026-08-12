@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "fc48d37",
+    "target_commitish": "fc48d37cdc76c21f20b3dbd8b2e15b035139868d",
+    "published_at": "2026-08-12T07:47:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/fc48d37",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/fc48d37cdc76c21f20b3dbd8b2e15b035139868d",
+    "changelog": {
+      "title": "fc48d37_canary_experimental",
+      "changes": "- [GPU] Remove num_format/decode cvars and dead shader code (`fc48d37`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8c98ef0...fc48d37"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fc48d37/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fc48d37/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "8c98ef0",
     "target_commitish": "8c98ef028087847492f276435c879bdf1fc8afe2",
     "published_at": "2026-08-11T17:48:29Z",
