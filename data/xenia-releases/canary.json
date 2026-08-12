@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "8c98ef0",
+    "target_commitish": "8c98ef028087847492f276435c879bdf1fc8afe2",
+    "published_at": "2026-08-11T17:48:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8c98ef0",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8c98ef028087847492f276435c879bdf1fc8afe2",
+    "changelog": {
+      "title": "8c98ef0_canary_experimental",
+      "changes": "- [XAM] Cleanup XamUserCreateTitlesPlayedEnumerator (`8c98ef0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/367d22d...8c98ef0"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8c98ef0/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8c98ef0/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "367d22d",
     "target_commitish": "367d22d26998f750fc027216d39b0d92c0b25173",
     "published_at": "2026-08-11T10:15:49Z",
