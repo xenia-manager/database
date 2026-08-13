@@ -11736,11 +11736,11 @@
     "issue": 405,
     "id": "454109F4",
     "title": "FIFA 17",
-    "updated": "2026-07-03T14:38:29Z",
-    "state": "Gameplay",
+    "updated": "2026-08-12T19:06:31Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-impact",
@@ -11755,11 +11755,11 @@
     "issue": 404,
     "id": "454109EE",
     "title": "FIFA 16",
-    "updated": "2026-07-03T14:32:25Z",
-    "state": "Gameplay",
+    "updated": "2026-08-12T19:06:18Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-kinect-optional",
@@ -11775,11 +11775,11 @@
     "issue": 403,
     "id": "454109DB",
     "title": "FIFA 15",
-    "updated": "2026-07-02T18:14:47Z",
-    "state": "Gameplay",
+    "updated": "2026-08-12T19:05:53Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-kinect-optional",
@@ -12704,11 +12704,11 @@
     "issue": 348,
     "id": "454109C3",
     "title": "FIFA 14",
-    "updated": "2026-07-11T01:09:02Z",
-    "state": "Gameplay",
+    "updated": "2026-08-12T19:05:24Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-kinect-optional",
@@ -12724,18 +12724,19 @@
     "issue": 347,
     "id": "45410998",
     "title": "FIFA 13",
-    "updated": "2026-07-03T16:51:00Z",
-    "state": "Gameplay",
+    "updated": "2026-08-12T19:05:00Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-kinect-optional",
         "tech-engine-impact",
         "gpu-readback",
         "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "requires_mount_cache",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/347"
@@ -13810,11 +13811,11 @@
     "issue": 285,
     "id": "454108F3",
     "title": "FIFA 11",
-    "updated": "2026-02-11T13:02:11Z",
-    "state": "Gameplay",
+    "updated": "2026-08-12T19:03:16Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-readback",
@@ -13881,11 +13882,11 @@
     "issue": 281,
     "id": "4541085B",
     "title": "FIFA 09",
-    "updated": "2026-02-24T19:16:36Z",
-    "state": "Gameplay",
+    "updated": "2026-08-12T19:00:54Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-readback",
@@ -13898,11 +13899,11 @@
     "issue": 280,
     "id": "454108BC",
     "title": "FIFA 10",
-    "updated": "2026-06-24T13:36:35Z",
-    "state": "Gameplay",
+    "updated": "2026-08-12T19:01:30Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-readback",
@@ -14226,11 +14227,11 @@
     "issue": 261,
     "id": "4541081F",
     "title": "FIFA 08",
-    "updated": "2026-07-27T17:52:49Z",
-    "state": "Gameplay",
+    "updated": "2026-08-12T19:00:32Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-readback",
