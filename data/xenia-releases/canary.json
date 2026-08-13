@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "ec5c875",
+    "target_commitish": "ec5c875122b43a596fd5fd18edfa5e441b8521a8",
+    "published_at": "2026-08-13T05:51:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/ec5c875",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/ec5c875122b43a596fd5fd18edfa5e441b8521a8",
+    "changelog": {
+      "title": "ec5c875_canary_experimental",
+      "changes": "- [CPU/X64] Optimize VMX dot products, vrsqrtefp, partial stores, and permutes (`ec5c875`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e31142b...ec5c875"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ec5c875/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ec5c875/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "e31142b",
     "target_commitish": "e31142bd79a35cfa330530ab8ac59e9592e991cc",
     "published_at": "2026-08-12T15:14:02Z",
