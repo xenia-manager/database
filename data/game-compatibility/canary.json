@@ -1,5 +1,41 @@
 [
   {
+    "issue": 1189,
+    "id": "454109DC",
+    "title": "NHL 15",
+    "updated": "2026-08-13T16:44:52Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback",
+        "backwards-compatibility-unsupported"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1189"
+  },
+  {
+    "issue": 1188,
+    "id": "4541099B",
+    "title": "NHL 13",
+    "updated": "2026-08-13T14:51:41Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback",
+        "backwards-compatibility-unsupported"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1188"
+  },
+  {
     "issue": 1187,
     "id": "454188B7",
     "title": "NFS SHIFT Demo",
@@ -870,16 +906,15 @@
     "issue": 1122,
     "id": "584109D8",
     "title": "NBA 2K10: Draft Combine",
-    "updated": "2026-05-22T18:39:53Z",
+    "updated": "2026-08-13T11:08:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-slow",
-        "marketplace-delisted"
+        "marketplace-delisted",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1122"
@@ -3086,7 +3121,7 @@
     "issue": 959,
     "id": "58410AC2",
     "title": "SEGA Rally Online Arcade",
-    "updated": "2026-05-25T17:09:55Z",
+    "updated": "2026-08-13T15:10:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3282,15 +3317,13 @@
     "issue": 947,
     "id": "545408C0",
     "title": "NBA 2K18",
-    "updated": "2026-06-17T01:18:46Z",
+    "updated": "2026-08-13T14:07:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/947"
   },
@@ -3298,15 +3331,13 @@
     "issue": 946,
     "id": "545408BD",
     "title": "NBA 2K17",
-    "updated": "2026-06-16T11:01:31Z",
+    "updated": "2026-08-13T14:04:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/946"
   },
@@ -3314,15 +3345,13 @@
     "issue": 945,
     "id": "315A07D1",
     "title": "NBA 2K16",
-    "updated": "2026-06-15T17:23:27Z",
+    "updated": "2026-08-13T14:01:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/945"
   },
@@ -3330,15 +3359,13 @@
     "issue": 944,
     "id": "54540894",
     "title": "NBA 2K12",
-    "updated": "2026-06-15T14:32:08Z",
+    "updated": "2026-08-13T11:35:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/944"
   },
@@ -3346,15 +3373,13 @@
     "issue": 943,
     "id": "5454087A",
     "title": "NBA 2K11",
-    "updated": "2026-01-21T06:31:27Z",
+    "updated": "2026-08-13T11:41:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/943"
   },
@@ -3362,15 +3387,13 @@
     "issue": 942,
     "id": "54540852",
     "title": "NBA 2K10",
-    "updated": "2026-01-21T06:30:09Z",
+    "updated": "2026-08-13T11:30:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/942"
   },
@@ -3378,15 +3401,13 @@
     "issue": 941,
     "id": "54540829",
     "title": "NBA 2K9",
-    "updated": "2026-01-21T06:29:55Z",
+    "updated": "2026-08-13T11:27:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/941"
   },
@@ -3394,15 +3415,13 @@
     "issue": 940,
     "id": "5454080C",
     "title": "NBA 2K8",
-    "updated": "2026-01-21T06:29:11Z",
+    "updated": "2026-08-13T11:25:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/940"
   },
@@ -3410,14 +3429,14 @@
     "issue": 939,
     "id": "545407EF",
     "title": "NBA 2K7",
-    "updated": "2026-01-21T06:28:48Z",
+    "updated": "2026-08-13T11:07:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-slow"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/939"
@@ -5875,11 +5894,11 @@
     "issue": 785,
     "id": "5553088C",
     "title": "Far Cry 3",
-    "updated": "2026-08-10T18:02:13Z",
-    "state": "Gameplay",
+    "updated": "2026-08-13T12:02:47Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt",
@@ -9215,18 +9234,14 @@
     "issue": 559,
     "id": "545408B5",
     "title": "NBA 2K15",
-    "updated": "2026-05-21T17:05:48Z",
+    "updated": "2026-08-13T13:25:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "apu-garbage",
-        "cpu-jit-problems",
-        "backwards-compatibility-unsupported",
-        "crash-always"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/559"
@@ -9562,13 +9577,14 @@
     "issue": 539,
     "id": "45410919",
     "title": "NBA Elite 11",
-    "updated": "2026-06-12T00:25:05Z",
+    "updated": "2026-08-13T14:08:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "apu-garbage",
         "marketplace-unreleased"
       ]
     },
@@ -9674,7 +9690,7 @@
     "issue": 532,
     "id": "545407E2",
     "title": "NBA 2K6",
-    "updated": "2026-08-05T01:42:39Z",
+    "updated": "2026-08-13T10:15:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10163,14 +10179,13 @@
     "issue": 502,
     "id": "545408B0",
     "title": "NBA 2K14",
-    "updated": "2026-06-15T14:44:42Z",
+    "updated": "2026-08-13T11:40:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-slow",
         "marketplace-delisted"
       ]
     },
@@ -10257,15 +10272,13 @@
     "issue": 497,
     "id": "545408A2",
     "title": "NBA 2K13",
-    "updated": "2026-06-15T14:38:35Z",
+    "updated": "2026-08-13T11:37:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/497"
   },
@@ -10645,13 +10658,14 @@
     "issue": 469,
     "id": "4E4D083D",
     "title": "Soulcalibur V",
-    "updated": "2026-08-13T03:14:58Z",
-    "state": "Gameplay",
+    "updated": "2026-08-13T11:04:41Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "gpu-readback",
         "vsync-off-speedup"
       ]
