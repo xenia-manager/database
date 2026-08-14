@@ -654,7 +654,7 @@
     "issue": 1140,
     "id": "545408A7",
     "title": "Grand Theft Auto V",
-    "updated": "2026-08-03T11:28:26Z",
+    "updated": "2026-08-13T18:43:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3007,7 +3007,7 @@
     "issue": 966,
     "id": "555308C2",
     "title": "Assassin's Creed IV: Black Flag",
-    "updated": "2026-07-24T01:12:32Z",
+    "updated": "2026-08-13T19:41:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6231,7 +6231,7 @@
     "issue": 761,
     "id": "57520802",
     "title": "Batman: Arkham City",
-    "updated": "2026-08-02T22:19:16Z",
+    "updated": "2026-08-13T20:37:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6244,7 +6244,8 @@
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
         "gpu-occlusion-query",
-        "supports-3d"
+        "supports-3d",
+        "gpu-async-compile-issues"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/761"
@@ -8325,7 +8326,7 @@
     "issue": 619,
     "id": "544307D2",
     "title": "Dead or Alive Xtreme Beach Volleyball 2",
-    "updated": "2026-08-11T23:25:53Z",
+    "updated": "2026-08-13T21:09:51Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15069,7 +15070,7 @@
     "issue": 211,
     "id": "5343080B",
     "title": "Batman: Arkham Asylum GOTY",
-    "updated": "2025-10-30T10:19:02Z",
+    "updated": "2026-08-13T20:39:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15077,7 +15078,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-shader-errors",
         "tech-engine-unreal",
         "marketplace-nodownload",
         "tech-middleware-scaleform",
@@ -15092,13 +15092,14 @@
     "issue": 210,
     "id": "545407E3",
     "title": "NHL 2K6",
-    "updated": "2025-03-14T15:56:57Z",
+    "updated": "2026-08-13T17:26:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "marketplace-delisted"
       ]
     },

@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "907d92b",
+    "target_commitish": "907d92bf8cfad334cb1b83755f48b6bfea391806",
+    "published_at": "2026-08-13T20:17:27Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/907d92b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/907d92bf8cfad334cb1b83755f48b6bfea391806",
+    "changelog": {
+      "title": "907d92b_canary_experimental",
+      "changes": "- [XAM] Fixed potential OOB memory write in copy utils (`907d92b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/92ada8e...907d92b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/907d92b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/907d92b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "92ada8e",
+    "target_commitish": "92ada8ebc0b6618f2c48202b615068c92a6a9252",
+    "published_at": "2026-08-13T18:47:36Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/92ada8e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/92ada8ebc0b6618f2c48202b615068c92a6a9252",
+    "changelog": {
+      "title": "92ada8e_canary_experimental",
+      "changes": "- [GPU] Fix scalar ALU swizzles with three-source vector ops (`92ada8e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/ec5c875...92ada8e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/92ada8e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/92ada8e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "ec5c875",
     "target_commitish": "ec5c875122b43a596fd5fd18edfa5e441b8521a8",
     "published_at": "2026-08-13T05:51:24Z",
