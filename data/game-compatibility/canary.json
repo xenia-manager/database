@@ -9707,14 +9707,17 @@
     "issue": 531,
     "id": "4B4E085C",
     "title": "Metal Gear Solid V: Ground Zeroes",
-    "updated": "2026-08-05T02:10:53Z",
+    "updated": "2026-08-14T16:39:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-fox"
+        "gpu-drawing-corrupt",
+        "apu-silent",
+        "tech-engine-fox",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/531"
