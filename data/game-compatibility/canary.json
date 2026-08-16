@@ -2,14 +2,16 @@
   {
     "issue": 1191,
     "id": "43430821",
-    "title": "Ultimate Marvel vs Capcom",
-    "updated": "2026-08-15T12:15:12Z",
-    "state": "Gameplay",
+    "title": "Ultimate Marvel vs Capcom 3",
+    "updated": "2026-08-16T00:20:10Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
-      "others": []
+      "others": [
+        "vsync-off-speedup"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1191"
   },
@@ -6448,14 +6450,15 @@
     "issue": 749,
     "id": "4E4D0859",
     "title": "Tekken Tag Tournament 2",
-    "updated": "2026-07-25T02:49:13Z",
+    "updated": "2026-08-15T23:24:45Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-readback"
+        "gpu-readback",
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/749"
@@ -10569,7 +10572,7 @@
     "issue": 477,
     "id": "5454086C",
     "title": "L.A. Noire",
-    "updated": "2026-08-04T12:13:25Z",
+    "updated": "2026-08-15T22:46:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11132,14 +11135,14 @@
     "issue": 443,
     "id": "4B4E07F0",
     "title": "PES 2009",
-    "updated": "2025-01-21T03:58:37Z",
+    "updated": "2026-08-15T22:36:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
+        "apu-garbage",
         "gpu-readback",
         "backwards-compatibility-unsupported",
         "vsync-off-speedup"
@@ -16064,7 +16067,7 @@
     "issue": 145,
     "id": "545407F8",
     "title": "Midnight Club: Los Angeles",
-    "updated": "2026-07-09T00:56:00Z",
+    "updated": "2026-08-15T16:23:58Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16122,7 +16125,7 @@
     "issue": 141,
     "id": "45410912",
     "title": "Portal 2",
-    "updated": "2026-08-05T01:41:48Z",
+    "updated": "2026-08-15T23:01:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17541,7 +17544,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-08-03T22:12:58Z",
+    "updated": "2026-08-15T20:41:36Z",
     "state": "Playable",
     "labels": {
       "state": [
