@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "8ffe24e",
+    "target_commitish": "8ffe24e372fb5c137f14d776e9645b03eafc703a",
+    "published_at": "2026-08-17T12:46:08Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8ffe24e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8ffe24e372fb5c137f14d776e9645b03eafc703a",
+    "changelog": {
+      "title": "8ffe24e_canary_experimental",
+      "changes": "- [CPU] Publish JIT entry results under the entry table lock (`8ffe24e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/0d395ce...8ffe24e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8ffe24e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8ffe24e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "0d395ce",
+    "target_commitish": "0d395ce9abf0374ae895d5474bc942dcfbfe7542",
+    "published_at": "2026-08-17T12:17:52Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0d395ce",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0d395ce9abf0374ae895d5474bc942dcfbfe7542",
+    "changelog": {
+      "title": "0d395ce_canary_experimental",
+      "changes": "- [GPU] Move debug cvars to a new TOML block, misc cleanup (`0d395ce`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/907d92b...0d395ce"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0d395ce/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0d395ce/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "907d92b",
     "target_commitish": "907d92bf8cfad334cb1b83755f48b6bfea391806",
     "published_at": "2026-08-13T20:17:27Z",
