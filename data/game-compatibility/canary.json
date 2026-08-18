@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1194,
+    "id": "4156082F",
+    "title": "Marvel Ultimate Alliance 2",
+    "updated": "2026-08-17T22:04:59Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1194"
+  },
+  {
     "issue": 1192,
     "id": "5841123B",
     "title": "Black Knight Sword",
@@ -1627,7 +1641,7 @@
     "issue": 1073,
     "id": "415607DA",
     "title": "Marvel Ultimate Alliance",
-    "updated": "2026-07-29T21:25:52Z",
+    "updated": "2026-08-17T20:48:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6388,13 +6402,14 @@
     "issue": 754,
     "id": "4343081F",
     "title": "Dead Rising 2: Off the Record",
-    "updated": "2026-02-03T18:46:55Z",
+    "updated": "2026-08-17T16:31:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "apu-garbage",
         "kernel-save-file-errors"
       ]
     },
@@ -8870,7 +8885,7 @@
     "issue": 584,
     "id": "4D5307F2",
     "title": "Viva Pi\u00f1ata",
-    "updated": "2026-03-12T12:53:19Z",
+    "updated": "2026-08-18T00:04:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9975,13 +9990,14 @@
     "issue": 517,
     "id": "45410850",
     "title": "Mirror's Edge",
-    "updated": "2026-06-01T13:32:17Z",
+    "updated": "2026-08-17T17:32:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "gpu-occlusion-query"
       ]
@@ -14496,7 +14512,7 @@
     "issue": 249,
     "id": "45410822",
     "title": "Need for Speed: ProStreet",
-    "updated": "2025-12-28T10:43:06Z",
+    "updated": "2026-08-17T20:48:36Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16593,7 +16609,7 @@
     "issue": 106,
     "id": "4E4D0805",
     "title": "Tales of Vesperia",
-    "updated": "2024-09-21T11:01:45Z",
+    "updated": "2026-08-17T22:45:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16627,13 +16643,14 @@
     "issue": 104,
     "id": "5451083B",
     "title": "50 Cent: Blood on the Sand",
-    "updated": "2024-09-26T10:34:16Z",
+    "updated": "2026-08-17T17:34:16Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "apu-garbage",
         "tech-engine-unreal",
         "tech-physics-physx",
@@ -16936,7 +16953,7 @@
     "issue": 74,
     "id": "4D5307F1",
     "title": "Fable 2",
-    "updated": "2026-08-17T04:59:02Z",
+    "updated": "2026-08-17T20:05:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17353,13 +17370,14 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-07-11T18:00:43Z",
+    "updated": "2026-08-17T17:16:03Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-unreal"
       ]
     },
