@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1195,
+    "id": "584107D7",
+    "title": "Marble Blast Ultra",
+    "updated": "2026-08-18T08:49:23Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1195"
+  },
+  {
     "issue": 1194,
     "id": "4156082F",
     "title": "Marvel Ultimate Alliance 2",
@@ -874,16 +888,13 @@
     "issue": 1128,
     "id": "435A07D7",
     "title": "\u866b\u59eb\u3055\u307e\u3075\u305f\u308a (Mushihimesama Futari)",
-    "updated": "2026-07-02T12:56:47Z",
-    "state": "Loads",
+    "updated": "2026-08-18T12:03:59Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-menus"
+        "state-playable"
       ],
-      "others": [
-        "regression",
-        "requires_protect_zero_false"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1128"
   },
@@ -5793,7 +5804,7 @@
     "issue": 794,
     "id": "584111DE",
     "title": "The Walking Dead",
-    "updated": "2026-08-18T07:00:45Z",
+    "updated": "2026-08-18T09:48:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6645,14 +6656,13 @@
     "issue": 738,
     "id": "5841096A",
     "title": "Hydro Thunder Hurricane",
-    "updated": "2026-02-03T23:43:49Z",
+    "updated": "2026-08-18T11:54:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage",
         "gpu-occlusion-query"
       ]
     },
@@ -10712,7 +10722,7 @@
     "issue": 469,
     "id": "4E4D083D",
     "title": "Soulcalibur V",
-    "updated": "2026-08-13T11:04:41Z",
+    "updated": "2026-08-18T09:47:55Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12049,7 +12059,7 @@
     "issue": 392,
     "id": "534307D4",
     "title": "Tomb Raider: Legend",
-    "updated": "2026-06-11T12:29:40Z",
+    "updated": "2026-08-18T10:29:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
