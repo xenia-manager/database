@@ -1,5 +1,89 @@
 [
   {
+    "tag_name": "4cc584f",
+    "target_commitish": "4cc584f47d310c95d3686d8f4c9ffb052ee38fcc",
+    "published_at": "2026-08-18T07:40:21Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4cc584f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/4cc584f47d310c95d3686d8f4c9ffb052ee38fcc",
+    "changelog": {
+      "title": "4cc584f_canary_experimental",
+      "changes": "- [D3D12] Fix constant-alpha blending in the RTV path (`4cc584f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7cd4794...4cc584f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4cc584f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4cc584f/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7cd4794",
+    "target_commitish": "7cd47947b07de30b649fb4224418a659890eab73",
+    "published_at": "2026-08-18T06:56:56Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7cd4794",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7cd47947b07de30b649fb4224418a659890eab73",
+    "changelog": {
+      "title": "7cd4794_canary_experimental",
+      "changes": "- [GPU] Select promoted tfetch1D layouts at runtime (`7cd4794`)\n- [D3D12] Fix over-invalidation of bulk fetch register writes (`95545f8`)\n- [D3D12] Fall back to point sampling for non-filterable formats (`197929d`)\n- [Vulkan] Add spirv_disable_rounding_mode_rte (`61a8aa3`)\n- [Vulkan] Fix draw_resolution_scaled_texture_offsets cancelling itself out (`3116868`)\n- [GPU] Handle tessellated triangle strip and fan draws (`3eab2b8`)\n- [Vulkan] Select back-face stencil ref/mask when culling only front faces (`77597d6`)\n- [Vulkan] Use dedicated alpha blend factor map for alpha srcb/dest blend (`53061c6`)\n- [Vulkan] Clamp stacked-texture layer index for Inf/NaN coords (`2d5b410`)\n- [GPU] Clamp out-of-bounds vertex fetch words to 0 (`9e9d3cd`)\n- [Vulkan] Skip draws with surface_pitch==0 to match D3D12 (`e6bdb0f`)\n- [Vulkan] Fix FSI 2x-as-4x sample mask reading host sample 2 instead of 3 (`654a8ca`)\n- [Vulkan] Apply float controls to geometry shaders to match VS/PS (`0d38781`)\n- [GPU] Load guest-resolved mips from scaled resolve memory (`f25003c`)\n- [Vulkan] Bind shared memory persistently for texture loads and resolves (`7101021`)\n- [Vulkan] Fix 2x MSAA alpha-to-coverage sample layout (`cb24056`)\n- [Vulkan] Clamp scalar maxas/maxasf address register to [0, 255] (`4aeb518`)\n- [GPU] Emulate extended-range float16 in render target pack/unpack (`3ff230d`)\n- [Vulkan] Invalidate user clip plane constants on source registers change (`2b071d9`)\n- [Vulkan] Fix adaptive tessellation issues (`66779fb`)\n- [Memory] Rework guest access resolution and unwatched invalidation (`aed81ca`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/59c08cd...7cd4794"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7cd4794/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7cd4794/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "59c08cd",
+    "target_commitish": "59c08cd46231708b7c13050650192136047a72cb",
+    "published_at": "2026-08-18T06:23:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/59c08cd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/59c08cd46231708b7c13050650192136047a72cb",
+    "changelog": {
+      "title": "59c08cd_canary_experimental",
+      "changes": "- [Kernel] Replaced X_DISPATCHER_FLAGS with X_OBJECT_TYPES (`59c08cd`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/cdd6049...59c08cd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/59c08cd/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/59c08cd/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "cdd6049",
+    "target_commitish": "cdd60494d730502b0476aa9913db7401cbd43d06",
+    "published_at": "2026-08-18T05:50:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/cdd6049",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/cdd60494d730502b0476aa9913db7401cbd43d06",
+    "changelog": {
+      "title": "cdd6049_canary_experimental",
+      "changes": "- [XEX] - Add support for dash 1746 (`cdd6049`)\n- [Misc] C++20'ify Part 1 (`5cf409d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8ffe24e...cdd6049"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cdd6049/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cdd6049/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "8ffe24e",
     "target_commitish": "8ffe24e372fb5c137f14d776e9645b03eafc703a",
     "published_at": "2026-08-17T12:46:08Z",
