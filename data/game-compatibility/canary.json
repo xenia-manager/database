@@ -3,11 +3,15 @@
     "issue": 1197,
     "id": "584108DB",
     "title": "A World of Keflings",
-    "updated": "2026-08-19T04:42:15Z",
-    "state": "Unknown",
+    "updated": "2026-08-19T10:41:24Z",
+    "state": "Loads",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-load"
+      ],
+      "others": [
+        "tech-avatar-required"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1197"
   },
@@ -2049,7 +2053,7 @@
     "issue": 1046,
     "id": "494707EE",
     "title": "The Chronicles Of Riddick Assault On Dark Athena",
-    "updated": "2026-08-06T00:19:48Z",
+    "updated": "2026-08-19T13:07:59Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2821,11 +2825,11 @@
     "issue": 985,
     "id": "4D530808",
     "title": "Halo Wars",
-    "updated": "2026-07-08T18:46:08Z",
-    "state": "Gameplay",
+    "updated": "2026-08-19T11:27:11Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt"
@@ -14857,7 +14861,7 @@
     "issue": 227,
     "id": "5345084C",
     "title": "Virtual-On Force",
-    "updated": "2024-09-21T12:23:37Z",
+    "updated": "2026-08-19T11:46:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14865,7 +14869,8 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "tech-middleware-criware"
+        "tech-middleware-criware",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/227"
