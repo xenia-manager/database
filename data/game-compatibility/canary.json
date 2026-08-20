@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1198,
+    "id": "4E4D0853",
+    "title": "ARMORED CORE V",
+    "updated": "2026-08-19T17:12:55Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1198"
+  },
+  {
     "issue": 1197,
     "id": "584108DB",
     "title": "A World of Keflings",
@@ -6429,15 +6443,14 @@
     "issue": 754,
     "id": "4343081F",
     "title": "Dead Rising 2: Off the Record",
-    "updated": "2026-08-17T16:31:48Z",
-    "state": "Gameplay",
+    "updated": "2026-08-19T17:27:39Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "apu-garbage",
-        "kernel-save-file-errors"
+        "apu-garbage"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/754"
@@ -8878,7 +8891,7 @@
     "issue": 586,
     "id": "4D5308BC",
     "title": "Crackdown 2",
-    "updated": "2026-06-04T12:47:01Z",
+    "updated": "2026-08-19T16:51:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15336,11 +15349,11 @@
     "issue": 198,
     "id": "4C4107D1",
     "title": "LEGO Star Wars II: The Original Trilogy",
-    "updated": "2026-07-27T22:19:38Z",
-    "state": "Playable",
+    "updated": "2026-08-20T00:55:24Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-playable"
+        "state-gameplay"
       ],
       "others": [
         "gpu-drawing-corrupt"
@@ -17525,7 +17538,7 @@
     "issue": 36,
     "id": "485507D2",
     "title": "\u5929\u5916\u9b54\u5883\uff3a\uff29\uff32\uff29\uff21",
-    "updated": "2026-05-05T21:24:14Z",
+    "updated": "2026-08-19T19:46:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
