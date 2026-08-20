@@ -3,7 +3,7 @@
     "issue": 1198,
     "id": "4E4D0853",
     "title": "ARMORED CORE V",
-    "updated": "2026-08-19T17:12:55Z",
+    "updated": "2026-08-20T11:58:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1214,11 +1214,11 @@
     "issue": 1108,
     "id": "584108A9",
     "title": "Bean (GoldenEye 007 XBLA)",
-    "updated": "2026-08-20T08:35:00Z",
-    "state": "Gameplay",
+    "updated": "2026-08-20T10:49:05Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": []
     },
@@ -11342,7 +11342,7 @@
     "issue": 435,
     "id": "454109D4",
     "title": "2014 FIFA World Cup Brazil",
-    "updated": "2026-08-04T17:03:42Z",
+    "updated": "2026-08-20T13:41:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14788,20 +14788,18 @@
     "issue": 233,
     "id": "415608EC",
     "title": "Deadpool",
-    "updated": "2026-08-01T18:07:24Z",
+    "updated": "2026-08-20T11:39:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-physics-physx",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
-        "crash-random"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/233"
