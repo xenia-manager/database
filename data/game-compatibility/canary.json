@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1199,
+    "id": "58410A6B",
+    "title": "Fusion: Genesis",
+    "updated": "2026-08-20T18:51:49Z",
+    "state": "Unplayable",
+    "labels": {
+      "state": [
+        "state-crash-xna-WONTFIX"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1199"
+  },
+  {
     "issue": 1198,
     "id": "4E4D0853",
     "title": "ARMORED CORE V",
@@ -6556,13 +6570,15 @@
     "issue": 747,
     "id": "4E4D07FC",
     "title": "Tekken 6",
-    "updated": "2025-08-04T19:55:58Z",
+    "updated": "2026-08-20T23:34:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-corrupt"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/747"
   },
@@ -16126,7 +16142,7 @@
     "issue": 145,
     "id": "545407F8",
     "title": "Midnight Club: Los Angeles",
-    "updated": "2026-08-15T16:23:58Z",
+    "updated": "2026-08-20T18:53:47Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17535,7 +17551,7 @@
     "issue": 36,
     "id": "485507D2",
     "title": "\u5929\u5916\u9b54\u5883\uff3a\uff29\uff32\uff29\uff21",
-    "updated": "2026-08-20T04:23:52Z",
+    "updated": "2026-08-20T22:31:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
