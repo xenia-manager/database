@@ -4632,15 +4632,16 @@
     "issue": 869,
     "id": "58410B5D",
     "title": "Burnout CRASH!",
-    "updated": "2026-02-08T22:11:23Z",
-    "state": "Loads",
+    "updated": "2026-08-21T11:50:53Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
         "tech-kinect-optional",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/869"
