@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "a5262a9",
+    "target_commitish": "a5262a968a5a7f87f2c9f464da953535b3078c81",
+    "published_at": "2026-08-22T20:28:28Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a5262a9",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a5262a968a5a7f87f2c9f464da953535b3078c81",
+    "changelog": {
+      "title": "a5262a9_canary_experimental",
+      "changes": "- [MISC] - Replace magic numbers with named error codes (`a5262a9`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/cfb81bf...a5262a9"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a5262a9/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a5262a9/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "cfb81bf",
+    "target_commitish": "cfb81bfe546cdfca1a7dd3629e1d169ed204a9eb",
+    "published_at": "2026-08-22T19:56:11Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/cfb81bf",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/cfb81bfe546cdfca1a7dd3629e1d169ed204a9eb",
+    "changelog": {
+      "title": "cfb81bf_canary_experimental",
+      "changes": "- [Linux] use memfd by default, fallback to shm_open, add use_shm_open cvar (`cfb81bf`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a5a18f5...cfb81bf"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cfb81bf/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cfb81bf/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "a5a18f5",
     "target_commitish": "a5a18f5c752d08f8b0d84139b69b16fb370b8cbb",
     "published_at": "2026-08-18T10:04:20Z",
