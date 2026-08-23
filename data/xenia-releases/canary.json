@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "e87321b",
+    "target_commitish": "e87321b067f59a72676f8f881b425bb0e53b79c3",
+    "published_at": "2026-08-23T10:57:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e87321b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e87321b067f59a72676f8f881b425bb0e53b79c3",
+    "changelog": {
+      "title": "e87321b_canary_experimental",
+      "changes": "- [GPU] Fix 2x-as-4x cvar typo (`e87321b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a5262a9...e87321b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e87321b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e87321b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "a5262a9",
     "target_commitish": "a5262a968a5a7f87f2c9f464da953535b3078c81",
     "published_at": "2026-08-22T20:28:28Z",
