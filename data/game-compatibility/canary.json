@@ -794,7 +794,7 @@
     "issue": 1140,
     "id": "545408A7",
     "title": "Grand Theft Auto V",
-    "updated": "2026-08-13T18:43:43Z",
+    "updated": "2026-08-24T03:24:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -804,6 +804,7 @@
         "tech-engine-rage",
         "gpu-readback",
         "gpu-occlusion-query",
+        "gpu-viz-query",
         "crash-random"
       ]
     },
@@ -3275,14 +3276,13 @@
     "issue": 958,
     "id": "58411202",
     "title": "Sonic Adventure 2",
-    "updated": "2026-07-06T11:16:16Z",
+    "updated": "2026-08-24T02:39:08Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-middleware-criware",
         "vsync-off-speedup",
         "gpu-occlusion-querybatch"
@@ -4805,15 +4805,13 @@
     "issue": 859,
     "id": "584108C8",
     "title": "Quake Arena Arcade",
-    "updated": "2026-04-01T09:52:29Z",
+    "updated": "2026-08-24T03:43:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-shader-errors",
         "tech-engine-idtech",
         "vsync-off-speedup"
       ]
@@ -7030,15 +7028,13 @@
     "issue": 717,
     "id": "584113CF",
     "title": "God Mode",
-    "updated": "2026-06-01T12:58:31Z",
+    "updated": "2026-08-24T02:51:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
         "tech-engine-saber3d",
         "gpu-occlusion-querybatch"
       ]
@@ -7828,14 +7824,13 @@
     "issue": 662,
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "updated": "2026-07-27T17:51:21Z",
+    "updated": "2026-08-24T02:37:51Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-viz-query",
         "gpu-occlusion-querybatch",
         "requires_render_target_rov_fsi"
@@ -7847,7 +7842,7 @@
     "issue": 661,
     "id": "41560905",
     "title": "The Amazing Spider-Man 2",
-    "updated": "2026-07-27T17:52:46Z",
+    "updated": "2026-08-24T02:34:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7855,6 +7850,7 @@
       ],
       "others": [
         "gpu-viz-query",
+        "gpu-occlusion-querybatch",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -9492,7 +9488,7 @@
     "issue": 552,
     "id": "4D5309B1",
     "title": "Halo: Combat Evolved Anniversary",
-    "updated": "2026-06-04T21:04:19Z",
+    "updated": "2026-08-24T02:38:43Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -9503,6 +9499,7 @@
         "tech-kinect-optional",
         "tech-engine-saber3d",
         "kernel-KeSetCurrentStackPointers",
+        "gpu-occlusion-query",
         "gpu-viz-query",
         "gpu-occlusion-querybatch"
       ]
@@ -9735,14 +9732,13 @@
     "issue": 538,
     "id": "4D530805",
     "title": "Alan Wake",
-    "updated": "2026-06-01T12:24:14Z",
+    "updated": "2026-08-24T04:10:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-maxfx",
         "gpu-readback",
         "tech-middleware-umbra",
@@ -9847,7 +9843,7 @@
     "issue": 531,
     "id": "4B4E085C",
     "title": "Metal Gear Solid V: Ground Zeroes",
-    "updated": "2026-08-14T18:33:35Z",
+    "updated": "2026-08-24T05:27:44Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -9857,7 +9853,8 @@
         "gpu-drawing-corrupt",
         "apu-silent",
         "tech-engine-fox",
-        "gpu-readback"
+        "gpu-readback",
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/531"
@@ -10803,7 +10800,7 @@
     "issue": 469,
     "id": "4E4D083D",
     "title": "Soulcalibur V",
-    "updated": "2026-08-18T09:47:55Z",
+    "updated": "2026-08-24T07:17:56Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14497,7 +14494,7 @@
     "issue": 255,
     "id": "425307F4",
     "title": "The Evil Within",
-    "updated": "2026-06-04T21:52:54Z",
+    "updated": "2026-08-24T02:50:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14511,7 +14508,8 @@
         "backwards-compatibility-unsupported",
         "gpu-driver-issues-nvidia",
         "requires_hdd_install",
-        "crash-random"
+        "crash-random",
+        "gpu-occlusion-querybatch"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/255"
