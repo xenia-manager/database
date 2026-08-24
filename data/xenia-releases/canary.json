@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "9090088",
+    "target_commitish": "909008870f2941838e2b09f51ddccac1d06bab33",
+    "published_at": "2026-08-23T19:47:25Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9090088",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/909008870f2941838e2b09f51ddccac1d06bab33",
+    "changelog": {
+      "title": "9090088_canary_experimental",
+      "changes": "- [Base] Proper support for non ANSI characters in launch argument (`9090088`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4a863a0...9090088"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9090088/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9090088/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "4a863a0",
+    "target_commitish": "4a863a0e1a69c88591b46564e637b9a817c70a9a",
+    "published_at": "2026-08-23T18:10:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4a863a0",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/4a863a0e1a69c88591b46564e637b9a817c70a9a",
+    "changelog": {
+      "title": "4a863a0_canary_experimental",
+      "changes": "- [GPU] Fix base map selection with a separate mip page (`4a863a0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6b5c323...4a863a0"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4a863a0/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4a863a0/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "6b5c323",
+    "target_commitish": "6b5c3233d5cc97583ae6971d6a0afab3a3ffc9a6",
+    "published_at": "2026-08-23T17:25:51Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6b5c323",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6b5c3233d5cc97583ae6971d6a0afab3a3ffc9a6",
+    "changelog": {
+      "title": "6b5c323_canary_experimental",
+      "changes": "- [MISC] - Swap misplaced error code (`6b5c323`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e87321b...6b5c323"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6b5c323/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6b5c323/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "e87321b",
     "target_commitish": "e87321b067f59a72676f8f881b425bb0e53b79c3",
     "published_at": "2026-08-23T10:57:45Z",
