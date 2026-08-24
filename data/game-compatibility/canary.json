@@ -258,14 +258,13 @@
     "issue": 1180,
     "id": "58410A8D",
     "title": "Dead Rising 2: Case Zero",
-    "updated": "2026-08-03T20:09:04Z",
+    "updated": "2026-08-24T13:06:42Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "apu-garbage"
       ]
     },
@@ -8200,14 +8199,15 @@
     "issue": 638,
     "id": "4343081D",
     "title": "Resident Evil: ORC (Operation Raccoon City)",
-    "updated": "2026-08-22T11:24:38Z",
+    "updated": "2026-08-24T13:31:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-readback"
+        "gpu-readback",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/638"
@@ -8988,14 +8988,13 @@
     "issue": 583,
     "id": "545407D4",
     "title": "Amped 3",
-    "updated": "2026-08-04T10:46:51Z",
+    "updated": "2026-08-24T13:24:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-diesel"
       ]
     },
@@ -15983,14 +15982,13 @@
     "issue": 156,
     "id": "4E4D07D3",
     "title": "Ridge Racer 6",
-    "updated": "2026-08-22T14:42:16Z",
-    "state": "Gameplay",
+    "updated": "2026-08-24T14:07:10Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "apu-garbage",
         "vsync-off-speedup",
         "gpu-driver-issues-nvidia"
       ]
@@ -16936,7 +16934,7 @@
     "issue": 85,
     "id": "5451085D",
     "title": "WWE Smackdown VS Raw 2011",
-    "updated": "2026-05-17T16:20:45Z",
+    "updated": "2026-08-24T13:36:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17058,7 +17056,7 @@
     "issue": 73,
     "id": "4B4E081A",
     "title": "\u30aa\u30c8\u30e1\u30c7\u30a3\u30a6\u30b9\uff38\uff08\u30a8\u30af\u30bb\u30ec\u30f3\u30c8\uff01\uff09 - Otomedius X (Excellent!)",
-    "updated": "2024-09-21T11:01:08Z",
+    "updated": "2026-08-24T09:14:47Z",
     "state": "Playable",
     "labels": {
       "state": [
