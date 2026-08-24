@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "b11458e",
+    "target_commitish": "b11458e49b8d3cac4b920b119169e34e4e8e1d80",
+    "published_at": "2026-08-24T05:56:09Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b11458e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b11458e49b8d3cac4b920b119169e34e4e8e1d80",
+    "changelog": {
+      "title": "b11458e_canary_experimental",
+      "changes": "- [XContent] Allow loading of content directly from packages. (`b11458e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9090088...b11458e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b11458e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b11458e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "9090088",
     "target_commitish": "909008870f2941838e2b09f51ddccac1d06bab33",
     "published_at": "2026-08-23T19:47:25Z",
