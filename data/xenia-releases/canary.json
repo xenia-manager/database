@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "1e834f8",
+    "target_commitish": "1e834f8a8c4033e9848f1a65c57edb8703990e09",
+    "published_at": "2026-08-24T18:34:16Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1e834f8",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1e834f8a8c4033e9848f1a65c57edb8703990e09",
+    "changelog": {
+      "title": "1e834f8_canary_experimental",
+      "changes": "- [Emulator] Fixed regression related to relaunching games introduced in XContent change (`1e834f8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7015473...1e834f8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1e834f8/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1e834f8/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7015473",
+    "target_commitish": "7015473a777156bc92e251986a1f61d15cb3952d",
+    "published_at": "2026-08-24T16:42:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7015473",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7015473a777156bc92e251986a1f61d15cb3952d",
+    "changelog": {
+      "title": "7015473_canary_experimental",
+      "changes": "- Follow the sub-stream skip chain past frameless packets (`7015473`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b11458e...7015473"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7015473/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7015473/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "b11458e",
     "target_commitish": "b11458e49b8d3cac4b920b119169e34e4e8e1d80",
     "published_at": "2026-08-24T05:56:09Z",

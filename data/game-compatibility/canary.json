@@ -1,5 +1,22 @@
 [
   {
+    "issue": 1202,
+    "id": "513107D8",
+    "title": "Ride",
+    "updated": "2026-08-24T23:56:45Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-missing",
+        "tech-middleware-beast"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1202"
+  },
+  {
     "issue": 1201,
     "id": "545107DA",
     "title": "Conan",
@@ -1402,7 +1419,7 @@
     "issue": 1095,
     "id": "555307E0",
     "title": "Tom Clancy's EndWar",
-    "updated": "2026-05-07T22:31:45Z",
+    "updated": "2026-08-25T00:47:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7859,15 +7876,13 @@
     "issue": 660,
     "id": "5345082A",
     "title": "Aliens vs Predator",
-    "updated": "2026-07-27T18:11:05Z",
+    "updated": "2026-08-24T22:57:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
-        "gpu-shader-errors",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -10530,14 +10545,13 @@
     "issue": 488,
     "id": "4B4D07E6",
     "title": "Risen 2: Dark Waters",
-    "updated": "2026-07-27T18:07:21Z",
+    "updated": "2026-08-24T22:52:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-shader-errors",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -10568,14 +10582,13 @@
     "issue": 486,
     "id": "4B4E081F",
     "title": "NeverDead",
-    "updated": "2026-07-27T18:05:56Z",
+    "updated": "2026-08-24T22:58:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-shader-errors",
         "tech-engine-asura",
         "backwards-compatibility-unsupported",
         "requires_render_target_rov_fsi"
@@ -16602,7 +16615,7 @@
     "issue": 112,
     "id": "4D5308D6",
     "title": "Fable III",
-    "updated": "2026-08-17T05:44:34Z",
+    "updated": "2026-08-24T22:54:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16610,7 +16623,6 @@
       ],
       "others": [
         "gpu-drawing-missing",
-        "gpu-shader-errors",
         "tech-middleware-havok",
         "gpu-occlusion-query",
         "crash-random",
@@ -17653,7 +17665,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-08-15T20:41:36Z",
+    "updated": "2026-08-24T22:55:41Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17661,9 +17673,9 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-shader-errors",
         "tech-kinect-optional",
         "requires_mount_cache",
+        "gpu-occlusion-query",
         "gpu-viz-query",
         "gpu-ext-query"
       ]
