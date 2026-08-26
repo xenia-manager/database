@@ -1,5 +1,17 @@
 [
   {
+    "issue": 1203,
+    "id": "465307D6",
+    "title": "Armored Core 4 (WW)",
+    "updated": "2026-08-25T17:26:37Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1203"
+  },
+  {
     "issue": 1202,
     "id": "513107D8",
     "title": "Ride",
@@ -846,7 +858,7 @@
     "issue": 1137,
     "id": "584111E8",
     "title": "State of Decay",
-    "updated": "2026-08-25T07:16:44Z",
+    "updated": "2026-08-25T16:32:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4666,7 +4678,7 @@
     "issue": 871,
     "id": "58410955",
     "title": "Banjo-Tooie",
-    "updated": "2025-10-03T15:09:48Z",
+    "updated": "2026-08-25T23:21:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7783,7 +7795,7 @@
     "issue": 666,
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
-    "updated": "2026-08-05T21:52:47Z",
+    "updated": "2026-08-25T16:33:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15055,7 +15067,7 @@
     "issue": 220,
     "id": "4E4D0801",
     "title": "Inversion",
-    "updated": "2026-07-09T00:49:33Z",
+    "updated": "2026-08-25T23:25:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15064,6 +15076,8 @@
       "others": [
         "tech-engine-saber3d",
         "gpu-readback",
+        "gpu-occlusion-query",
+        "gpu-viz-query",
         "crash-always",
         "gpu-occlusion-querybatch"
       ]
@@ -15996,7 +16010,7 @@
     "issue": 156,
     "id": "4E4D07D3",
     "title": "Ridge Racer 6",
-    "updated": "2026-08-24T14:07:10Z",
+    "updated": "2026-08-25T21:41:27Z",
     "state": "Playable",
     "labels": {
       "state": [

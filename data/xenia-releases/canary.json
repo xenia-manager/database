@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "6bef1fb",
+    "target_commitish": "6bef1fbed17734b0c2d2039d20a15241e026045d",
+    "published_at": "2026-08-25T20:26:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6bef1fb",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6bef1fbed17734b0c2d2039d20a15241e026045d",
+    "changelog": {
+      "title": "6bef1fb_canary_experimental",
+      "changes": "- [XMA] Drain the current frame before ending the XMA work loop (`6bef1fb`)\n- [Kernel] Initial XMP Notifications (`12a0558`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/0da2a16...6bef1fb"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6bef1fb/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6bef1fb/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "0da2a16",
+    "target_commitish": "0da2a161349a3b8582b5a3309fbb2bc47807339e",
+    "published_at": "2026-08-25T19:57:43Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0da2a16",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0da2a161349a3b8582b5a3309fbb2bc47807339e",
+    "changelog": {
+      "title": "0da2a16_canary_experimental",
+      "changes": "- [Kernel] Disable allow_incompatible_title_update by default and log when applied (`0da2a16`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1e834f8...0da2a16"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0da2a16/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0da2a16/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "1e834f8",
     "target_commitish": "1e834f8a8c4033e9848f1a65c57edb8703990e09",
     "published_at": "2026-08-24T18:34:16Z",
