@@ -10538,7 +10538,7 @@
     "issue": 492,
     "id": "544307D5",
     "title": "NINJA GAIDEN II",
-    "updated": "2026-06-18T20:07:02Z",
+    "updated": "2026-08-27T12:14:43Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12742,7 +12742,7 @@
     "issue": 358,
     "id": "54540859",
     "title": "Top Spin 4",
-    "updated": "2026-07-20T11:17:18Z",
+    "updated": "2026-08-27T16:38:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12751,7 +12751,8 @@
       "others": [
         "marketplace-delisted",
         "tech-middleware-havok",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-xps"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/358"
@@ -12760,14 +12761,15 @@
     "issue": 357,
     "id": "545407FF",
     "title": "Top Spin 3",
-    "updated": "2026-07-20T11:56:39Z",
+    "updated": "2026-08-27T16:38:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-xps"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/357"
@@ -15675,7 +15677,7 @@
     "issue": 178,
     "id": "425607FE",
     "title": "Cars 2",
-    "updated": "2026-07-08T23:59:35Z",
+    "updated": "2026-08-27T09:11:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15683,7 +15685,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-drawing-missing"
+        "gpu-drawing-missing",
+        "gpu-occlusion-querybatch"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/178"
@@ -16979,7 +16982,7 @@
     "issue": 85,
     "id": "5451085D",
     "title": "WWE Smackdown VS Raw 2011",
-    "updated": "2026-08-27T05:41:14Z",
+    "updated": "2026-08-27T12:37:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
