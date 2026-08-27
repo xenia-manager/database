@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "9d08d64",
+    "target_commitish": "9d08d64b5deb1167cfdbc383bdd3dc9945c655dc",
+    "published_at": "2026-08-26T18:19:36Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9d08d64",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9d08d64b5deb1167cfdbc383bdd3dc9945c655dc",
+    "changelog": {
+      "title": "9d08d64_canary_experimental",
+      "changes": "- [Patcher] Fixed loading plugin configs on linux (`9d08d64`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/437a728...9d08d64"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9d08d64/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9d08d64/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "437a728",
+    "target_commitish": "437a7280cf95310d518a2f68087aab61403956ac",
+    "published_at": "2026-08-26T17:39:28Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/437a728",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/437a7280cf95310d518a2f68087aab61403956ac",
+    "changelog": {
+      "title": "437a728_canary_experimental",
+      "changes": "- [GPU] Use EDRAM layout with a single sample addressing scheme (`437a728`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6bef1fb...437a728"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/437a728/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/437a728/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "6bef1fb",
     "target_commitish": "6bef1fbed17734b0c2d2039d20a15241e026045d",
     "published_at": "2026-08-25T20:26:14Z",

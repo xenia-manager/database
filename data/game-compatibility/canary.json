@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1204,
+    "id": "4B4E0807",
+    "title": "DanceDanceRevolution",
+    "updated": "2026-08-27T02:50:19Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1204"
+  },
+  {
     "issue": 1203,
     "id": "465307D6",
     "title": "Armored Core 4 (WW)",
@@ -1367,7 +1381,7 @@
     "issue": 1100,
     "id": "425307E6",
     "title": "Elder Scrolls V: Skyrim",
-    "updated": "2026-07-08T19:00:00Z",
+    "updated": "2026-08-27T01:08:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2228,7 +2242,7 @@
     "issue": 1039,
     "id": "415608A7",
     "title": "Prototype 2",
-    "updated": "2026-07-08T14:58:30Z",
+    "updated": "2026-08-26T22:29:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3064,7 +3078,7 @@
     "issue": 974,
     "id": "57520841",
     "title": "The LEGO Movie Video Game",
-    "updated": "2026-07-19T13:24:28Z",
+    "updated": "2026-08-26T23:37:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3210,7 +3224,7 @@
     "issue": 964,
     "id": "555308CE",
     "title": "Assassin's Creed Rogue",
-    "updated": "2026-05-08T11:19:16Z",
+    "updated": "2026-08-26T21:17:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3219,7 +3233,8 @@
       "others": [
         "gpu-drawing-corrupt",
         "gpu-drawing-missing",
-        "crash-random"
+        "crash-random",
+        "gpu-xps"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/964"
@@ -5486,7 +5501,7 @@
     "issue": 820,
     "id": "534507F1",
     "title": "The Incredible Hulk",
-    "updated": "2026-06-16T01:44:45Z",
+    "updated": "2026-08-26T23:00:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7797,7 +7812,7 @@
     "issue": 666,
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
-    "updated": "2026-08-25T16:33:43Z",
+    "updated": "2026-08-26T21:31:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8883,7 +8898,7 @@
     "issue": 595,
     "id": "5841125E",
     "title": "Joy Ride Turbo",
-    "updated": "2026-08-02T16:50:16Z",
+    "updated": "2026-08-26T18:47:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11174,14 +11189,13 @@
     "issue": 449,
     "id": "565507DA",
     "title": "TimeShift",
-    "updated": "2026-07-21T10:23:20Z",
+    "updated": "2026-08-26T18:14:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-saber3d",
         "gpu-occlusion-query"
       ]
@@ -15501,7 +15515,7 @@
     "issue": 192,
     "id": "425607E7",
     "title": "Split/Second",
-    "updated": "2026-07-27T18:34:40Z",
+    "updated": "2026-08-27T01:34:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15511,7 +15525,8 @@
         "gpu-drawing-corrupt",
         "gpu-drawing-missing",
         "gpu-shader-errors",
-        "requires_render_target_rov_fsi"
+        "requires_render_target_rov_fsi",
+        "gpu-xps"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/192"
@@ -16335,7 +16350,7 @@
     "issue": 136,
     "id": "534507E3",
     "title": "Phantasy Star Universe",
-    "updated": "2026-08-10T18:49:56Z",
+    "updated": "2026-08-26T21:17:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16345,7 +16360,8 @@
         "gpu-drawing-missing",
         "tech-middleware-criware",
         "vsync-off-speedup",
-        "gpu-drawing-black"
+        "gpu-drawing-black",
+        "gpu-xps"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/136"
@@ -16963,7 +16979,7 @@
     "issue": 85,
     "id": "5451085D",
     "title": "WWE Smackdown VS Raw 2011",
-    "updated": "2026-08-24T13:36:22Z",
+    "updated": "2026-08-27T05:41:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
