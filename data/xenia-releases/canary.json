@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "ec5e0f4",
+    "target_commitish": "ec5e0f40e750ff1e8c8634bc9fef2951747648c5",
+    "published_at": "2026-08-28T06:55:38Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/ec5e0f4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/ec5e0f40e750ff1e8c8634bc9fef2951747648c5",
+    "changelog": {
+      "title": "ec5e0f4_canary_experimental",
+      "changes": "- [GPU] Don\u2019t drop swizzles from dummy texture headers (`ec5e0f4`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9d08d64...ec5e0f4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ec5e0f4/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ec5e0f4/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "9d08d64",
     "target_commitish": "9d08d64b5deb1167cfdbc383bdd3dc9945c655dc",
     "published_at": "2026-08-26T18:19:36Z",

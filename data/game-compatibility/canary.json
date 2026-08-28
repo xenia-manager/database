@@ -12202,7 +12202,7 @@
     "issue": 392,
     "id": "534307D4",
     "title": "Tomb Raider: Legend",
-    "updated": "2026-08-27T21:53:57Z",
+    "updated": "2026-08-28T08:18:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15178,13 +15178,14 @@
     "issue": 216,
     "id": "4D530919",
     "title": "Halo 4",
-    "updated": "2026-06-26T17:04:25Z",
+    "updated": "2026-08-28T02:57:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "cpu-unimplemented-instruction",
         "tech-engine-blam",
         "gpu-readback",
