@@ -1,5 +1,29 @@
 [
   {
+    "issue": 1207,
+    "id": "4C4107D7",
+    "title": "LEGO Star Wars: The Complete Saga",
+    "updated": "2026-08-27T22:15:16Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1207"
+  },
+  {
+    "issue": 1206,
+    "id": "4C4107DF",
+    "title": "LEGO Indiana Jones: The Original Adventures",
+    "updated": "2026-08-27T22:14:44Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1206"
+  },
+  {
     "issue": 1204,
     "id": "4B4E0807",
     "title": "DanceDanceRevolution",
@@ -909,14 +933,13 @@
     "issue": 1135,
     "id": "465307E4",
     "title": "Dark Souls II",
-    "updated": "2026-07-27T17:53:56Z",
+    "updated": "2026-08-27T19:52:33Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-readback",
         "vsync-off-speedup",
         "gpu-occlusion-query",
@@ -2208,7 +2231,7 @@
     "issue": 1042,
     "id": "465307DA",
     "title": "Armored Core: For Answer",
-    "updated": "2026-05-04T05:40:38Z",
+    "updated": "2026-08-27T21:14:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2934,7 +2957,7 @@
     "issue": 985,
     "id": "4D530808",
     "title": "Halo Wars",
-    "updated": "2026-08-19T11:27:11Z",
+    "updated": "2026-08-27T21:14:39Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -2982,7 +3005,7 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-08-06T13:37:34Z",
+    "updated": "2026-08-27T19:53:29Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -2994,6 +3017,7 @@
         "gpu-readback",
         "vsync-off-speedup",
         "gpu-occlusion-query",
+        "gpu-viz-query",
         "gpu-async-compile-issues"
       ]
     },
@@ -6520,7 +6544,7 @@
     "issue": 755,
     "id": "434307D2",
     "title": "Dead Rising",
-    "updated": "2026-08-12T03:32:31Z",
+    "updated": "2026-08-27T22:56:09Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -8408,7 +8432,7 @@
     "issue": 626,
     "id": "5451080D",
     "title": "Red Faction: Guerrilla",
-    "updated": "2026-08-10T18:33:50Z",
+    "updated": "2026-08-27T23:35:19Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10298,7 +10322,7 @@
     "issue": 506,
     "id": "494707F4",
     "title": "Ghostbusters",
-    "updated": "2025-03-06T03:42:12Z",
+    "updated": "2026-08-27T21:07:12Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11727,7 +11751,7 @@
     "issue": 418,
     "id": "534307EC",
     "title": "Tomb Raider: Underworld",
-    "updated": "2025-09-27T21:42:46Z",
+    "updated": "2026-08-27T21:09:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12178,7 +12202,7 @@
     "issue": 392,
     "id": "534307D4",
     "title": "Tomb Raider: Legend",
-    "updated": "2026-08-23T03:05:57Z",
+    "updated": "2026-08-27T21:53:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16461,7 +16485,7 @@
     "issue": 128,
     "id": "4E4D07D1",
     "title": "Ace Combat 6",
-    "updated": "2026-07-27T18:37:47Z",
+    "updated": "2026-08-27T23:36:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
