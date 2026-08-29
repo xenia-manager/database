@@ -16485,7 +16485,7 @@
     "issue": 128,
     "id": "4E4D07D1",
     "title": "Ace Combat 6",
-    "updated": "2026-08-27T23:36:33Z",
+    "updated": "2026-08-29T04:05:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16495,7 +16495,8 @@
         "gpu-drawing-corrupt",
         "apu-garbage",
         "marketplace-nodownload",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/128"
