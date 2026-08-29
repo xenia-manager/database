@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "0c843ef",
+    "target_commitish": "0c843efb3279341eefe9dcec2a60885fd14937e1",
+    "published_at": "2026-08-28T20:39:23Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0c843ef",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0c843efb3279341eefe9dcec2a60885fd14937e1",
+    "changelog": {
+      "title": "0c843ef_canary_experimental",
+      "changes": "- [GPU] Round normalized unsigned fixed fetches (`0c843ef`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/ec664e0...0c843ef"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0c843ef/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0c843ef/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "ec664e0",
+    "target_commitish": "ec664e0f0c26a001b2287d2dc7123c976ce37373",
+    "published_at": "2026-08-28T20:08:39Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/ec664e0",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/ec664e0f0c26a001b2287d2dc7123c976ce37373",
+    "changelog": {
+      "title": "ec664e0_canary_experimental",
+      "changes": "- [3PP] Compile zlib-ng with HAVE_ATTRIBUTE_ALIGNED (`ec664e0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/ec5e0f4...ec664e0"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ec664e0/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/ec664e0/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "ec5e0f4",
     "target_commitish": "ec5e0f40e750ff1e8c8634bc9fef2951747648c5",
     "published_at": "2026-08-28T06:55:38Z",

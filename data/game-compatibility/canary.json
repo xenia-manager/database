@@ -7689,15 +7689,13 @@
     "issue": 676,
     "id": "584109B2",
     "title": "Bomberman Battlefest",
-    "updated": "2026-08-28T15:55:00Z",
+    "updated": "2026-08-28T23:01:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "apu-silent"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/676"
   },
@@ -9057,13 +9055,14 @@
     "issue": 583,
     "id": "545407D4",
     "title": "Amped 3",
-    "updated": "2026-08-28T11:24:36Z",
-    "state": "Gameplay",
+    "updated": "2026-08-28T22:59:26Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "apu-garbage",
         "tech-engine-diesel"
       ]
     },
@@ -10322,11 +10321,11 @@
     "issue": 506,
     "id": "494707F4",
     "title": "Ghostbusters",
-    "updated": "2026-08-28T15:47:22Z",
-    "state": "Gameplay",
+    "updated": "2026-08-28T23:01:08Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "kernel-unimplemented-feature",
