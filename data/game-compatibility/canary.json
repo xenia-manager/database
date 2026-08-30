@@ -7850,13 +7850,15 @@
     "issue": 666,
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
-    "updated": "2026-08-26T21:31:18Z",
-    "state": "Gameplay",
+    "updated": "2026-08-30T11:47:27Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-corrupt"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/666"
   },
@@ -12217,11 +12219,11 @@
     "issue": 392,
     "id": "534307D4",
     "title": "Tomb Raider: Legend",
-    "updated": "2026-08-29T19:13:16Z",
-    "state": "Gameplay",
+    "updated": "2026-08-30T11:39:00Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-drawing-corrupt",
