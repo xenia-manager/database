@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "3a44f20",
+    "target_commitish": "3a44f20c7bc66db1da583e8a6f0ab740e31908e9",
+    "published_at": "2026-08-31T20:28:53Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/3a44f20",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/3a44f20c7bc66db1da583e8a6f0ab740e31908e9",
+    "changelog": {
+      "title": "3a44f20_canary_experimental",
+      "changes": "- [GPU] Replace AC6 ground hack with scalar approximation rounding (`3a44f20`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2270830...3a44f20"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3a44f20/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3a44f20/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "2270830",
     "target_commitish": "22708301ba76d10aae6f7d7caac8b1cac9e4a8e6",
     "published_at": "2026-08-30T07:31:40Z",
