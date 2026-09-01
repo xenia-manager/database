@@ -11969,7 +11969,7 @@
     "issue": 406,
     "id": "555307DC",
     "title": "Far Cry: Instincts Predator",
-    "updated": "2026-09-01T10:07:43Z",
+    "updated": "2026-09-01T16:48:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11977,6 +11977,7 @@
       ],
       "others": [
         "tech-engine-cry",
+        "gpu-readback",
         "gpu-occlusion-query",
         "gpu-viz-query"
       ]
@@ -12957,7 +12958,7 @@
     "issue": 348,
     "id": "454109C3",
     "title": "FIFA 14",
-    "updated": "2026-08-12T19:05:24Z",
+    "updated": "2026-09-01T16:04:22Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17541,7 +17542,7 @@
     "issue": 45,
     "id": "4D530A26",
     "title": "Gears of War: Judgment",
-    "updated": "2026-09-01T10:02:42Z",
+    "updated": "2026-09-01T16:47:32Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17550,6 +17551,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "tech-engine-unreal",
+        "gpu-readback",
         "gpu-occlusion-query"
       ]
     },
