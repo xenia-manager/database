@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "3494b56",
+    "target_commitish": "3494b56a0b8b60efbcc66e46afa67977787b2c6d",
+    "published_at": "2026-09-02T17:40:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/3494b56",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/3494b56a0b8b60efbcc66e46afa67977787b2c6d",
+    "changelog": {
+      "title": "3494b56_canary_experimental",
+      "changes": "- [Base] Saturate the WinSystemClock to steady_clock conversion (`3494b56`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2226749...3494b56"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3494b56/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3494b56/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "2226749",
+    "target_commitish": "22267491503840047354c7256797e46919f01e86",
+    "published_at": "2026-09-02T15:09:01Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2226749",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/22267491503840047354c7256797e46919f01e86",
+    "changelog": {
+      "title": "2226749_canary_experimental",
+      "changes": "- [Content] Fixed applying multi-disc TUs from packages (`2226749`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/63ea6e2...2226749"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2226749/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2226749/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "63ea6e2",
     "target_commitish": "63ea6e2725085f048dbce5c8e716c3a5e3aa00e4",
     "published_at": "2026-09-02T07:38:18Z",
