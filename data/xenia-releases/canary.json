@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "0d0fadb",
+    "target_commitish": "0d0fadb5e106eccbe7c2d51ee72f90ce3eeb5c78",
+    "published_at": "2026-09-01T19:55:21Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0d0fadb",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0d0fadb5e106eccbe7c2d51ee72f90ce3eeb5c78",
+    "changelog": {
+      "title": "0d0fadb_canary_experimental",
+      "changes": "- [HID] Generic keyboard input driver (`0d0fadb`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/3a44f20...0d0fadb"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0d0fadb/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0d0fadb/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "3a44f20",
     "target_commitish": "3a44f20c7bc66db1da583e8a6f0ab740e31908e9",
     "published_at": "2026-08-31T20:28:53Z",
