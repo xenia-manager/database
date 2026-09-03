@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "f9ed4cd",
+    "target_commitish": "f9ed4cd520642f316518394c1bbad33165447693",
+    "published_at": "2026-09-03T17:08:37Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f9ed4cd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f9ed4cd520642f316518394c1bbad33165447693",
+    "changelog": {
+      "title": "f9ed4cd_canary_experimental",
+      "changes": "- [HID] Check non-case sensitive key bindings (`f9ed4cd`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/01dc16a...f9ed4cd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f9ed4cd/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f9ed4cd/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "01dc16a",
+    "target_commitish": "01dc16a6048e0917ef418e4b46f9d0d200558166",
+    "published_at": "2026-09-03T13:22:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/01dc16a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/01dc16a6048e0917ef418e4b46f9d0d200558166",
+    "changelog": {
+      "title": "01dc16a_canary_experimental",
+      "changes": "- [CPU] Promote VEC128 context values again (`01dc16a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/3494b56...01dc16a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/01dc16a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/01dc16a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "3494b56",
     "target_commitish": "3494b56a0b8b60efbcc66e46afa67977787b2c6d",
     "published_at": "2026-09-02T17:40:14Z",
