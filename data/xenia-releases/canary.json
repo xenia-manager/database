@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "577fb8e",
+    "target_commitish": "577fb8ee17457af7493690a408492d800d53af58",
+    "published_at": "2026-09-04T18:30:03Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/577fb8e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/577fb8ee17457af7493690a408492d800d53af58",
+    "changelog": {
+      "title": "577fb8e_canary_experimental",
+      "changes": "- [CPU] Fix mcrf: copy the CR field instead of comparing it against zero (`577fb8e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4d8b3d6...577fb8e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/577fb8e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/577fb8e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "4d8b3d6",
     "target_commitish": "4d8b3d650e8709f85bb6c6df05e561a5903eca84",
     "published_at": "2026-09-03T20:11:27Z",
