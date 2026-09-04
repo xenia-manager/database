@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "4d8b3d6",
+    "target_commitish": "4d8b3d650e8709f85bb6c6df05e561a5903eca84",
+    "published_at": "2026-09-03T20:11:27Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4d8b3d6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/4d8b3d650e8709f85bb6c6df05e561a5903eca84",
+    "changelog": {
+      "title": "4d8b3d6_canary_experimental",
+      "changes": "- [Kernel] Added some details about XMic. Fixed incorrect return code (`4d8b3d6`)\n- [XCrypt] Leave the padded block in the SHA context (`b0a1f40`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f9ed4cd...4d8b3d6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4d8b3d6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4d8b3d6/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "f9ed4cd",
     "target_commitish": "f9ed4cd520642f316518394c1bbad33165447693",
     "published_at": "2026-09-03T17:08:37Z",

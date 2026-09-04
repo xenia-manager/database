@@ -48,6 +48,6 @@
   "Name": "Hexement",
   "Overview": "Hexement is a falling block puzzle puzzle viewed from a slightly angled top-down perspective. Players rotate and position descending blocks made of connected hexagons, each representing one of three elemental types: land, water, or fire. The interaction between the falling block and the tile it lands on determines the outcome - hexagons may stack or transform. For example, placing water on water adds another layer, while dropping fire on water removes one.\n\nStrategic placement is essential, as terrain evolves dynamically. Volcanos form when fire is placed on fire or when neighboring tiles differ in height by more than four layers. These volcanos erupt after a fixed interval, introducing hazards that can destabilize the field. However, players can prevent eruptions by dropping water directly onto volcanos, which removes them. If no volcanos are present when an eruption is due, one is randomly created on the highest tile layer.\n\nThe game ends if water spills over the edge - triggered by placing water tiles on boundary hexagons - or if the field tilts due to uneven tile distribution. The objective is to survive as long as possible while accumulating points through block",
   "Publisher": "7th Gear Productions",
-  "ReleaseDate": "2009-04-11T00:00:00+00:00",
+  "ReleaseDate": "2009-04-11",
   "VideoURL": "https://youtu.be/nuJARf4_YtU"
 }

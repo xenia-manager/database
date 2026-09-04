@@ -17,6 +17,13 @@
           "Region": "Germany",
           "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_747d6ff1-0cdd-415e-bf5c-c5ce346d23ff.jpg"
+        },
+        {
+          "CRC32": "614327882",
+          "FileName": "r2_79d268a0-4734-40b2-9362-291bbbd70c77.jpg",
+          "Region": "Germany",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_79d268a0-4734-40b2-9362-291bbbd70c77.jpg"
         }
       ],
       "Front": [
@@ -35,15 +42,38 @@
           "URL": "http://images.launchbox-app.com/r2_4693c195-44da-4e90-bae0-fce5082b0fbf.jpg"
         },
         {
+          "CRC32": "1749311736",
+          "FileName": "r2_ee6187ae-9b04-4592-8ac7-63b4416ff366.jpg",
+          "Region": "Germany",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_ee6187ae-9b04-4592-8ac7-63b4416ff366.jpg"
+        },
+        {
           "CRC32": "862077573",
           "FileName": "76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg",
           "Region": "North America",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "3639852425",
+          "FileName": "r2_26a1f601-b52a-4f9a-a4f7-379298c5ce6c.jpg",
+          "Region": "Germany",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_26a1f601-b52a-4f9a-a4f7-379298c5ce6c.jpg"
+        }
       ]
     },
     "Disc": [
+      {
+        "CRC32": "1830918778",
+        "FileName": "r2_2303223b-6c0b-49be-9f72-a34cdf2883b0.png",
+        "Region": "Germany",
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_2303223b-6c0b-49be-9f72-a34cdf2883b0.png"
+      },
       {
         "CRC32": "2814310819",
         "FileName": "23bb33c3-cc96-43e5-bfa3-d81fe362d312.png",
@@ -70,7 +100,7 @@
   "Name": "Dance Central 2",
   "Overview": "The core gameplay in Dance Central 2 is mostly identical to the original Dance Central. Players perform given dance moves, which are tracked by the Kinect. The more accurately the player performs the move, the more points he/she scores. Higher difficulties increase move complexity, and the margin for error is reduced.\nFeatures new to Dance Central 2 include voice control, simultaneous two player gameplay in both cooperative and competitive modes with drop in/drop out functionality, an improved fitness mode, a more in-depth and customizable \"Break it Down\" mode, allowing the player to practice only specific moves in a routine, and a campaign mode featuring dance crews of various styles.",
   "Publisher": "Harmonix Music Systems",
-  "ReleaseDate": "2011-10-25T00:00:00+00:00",
+  "ReleaseDate": "2011-10-25",
   "VideoURL": "https://www.youtube.com/watch?v=kuwB05ASh7E",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Dance_Central_2"
 }
