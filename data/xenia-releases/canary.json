@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "66af56e",
+    "target_commitish": "66af56ed7a3158cf4d020a7038079cda3631d7d7",
+    "published_at": "2026-09-05T18:57:20Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/66af56e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/66af56ed7a3158cf4d020a7038079cda3631d7d7",
+    "changelog": {
+      "title": "66af56e_canary_experimental",
+      "changes": "- Keep the byte vector_shl scratch out of the allocatable registers (`66af56e`)\n- [Kernel] More details about XMic handling (`afd282d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/0e1307b...66af56e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/66af56e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/66af56e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "0e1307b",
     "target_commitish": "0e1307bd2e6bfeeff29635a6b823e72e61c97ce9",
     "published_at": "2026-09-05T05:05:02Z",
