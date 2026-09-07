@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "87c2411",
+    "target_commitish": "87c24112706d95f15f83dfec58e93923bd7ffa07",
+    "published_at": "2026-09-07T18:56:19Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/87c2411",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/87c24112706d95f15f83dfec58e93923bd7ffa07",
+    "changelog": {
+      "title": "87c2411_canary_experimental",
+      "changes": "- [Memory] Round the AllocRange ceiling to the page, not to the alignment (`87c2411`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/80679bc...87c2411"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/87c2411/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/87c2411/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "80679bc",
     "target_commitish": "80679bcadd9804027ecff9724712dde8230685ae",
     "published_at": "2026-09-07T07:02:55Z",
