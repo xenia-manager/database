@@ -1,7 +1,23 @@
 {
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "2437493853",
+        "FileName": "r2_d4883b5f-7eb7-42d9-bb26-1ff3f175acf0.png",
+        "Region": "North America",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_d4883b5f-7eb7-42d9-bb26-1ff3f175acf0.png"
+      }
+    ],
     "Box": {
       "Front": [
+        {
+          "CRC32": "4197904309",
+          "FileName": "r2_7c2f144f-4c4c-4d1d-bfb8-4fded3b55eaa.png",
+          "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_7c2f144f-4c4c-4d1d-bfb8-4fded3b55eaa.png"
+        },
         {
           "CRC32": "876566408",
           "FileName": "6a1f6269-7291-467f-9414-89fe75949dea.png",
@@ -24,7 +40,27 @@
           "URL": "http://images.launchbox-app.com/d42f8aa0-0ade-42ee-95a6-f698957f556c.jpg"
         }
       ]
-    }
+    },
+    "Cart": {
+      "Front": [
+        {
+          "CRC32": "1970255541",
+          "FileName": "r2_1863c28f-5549-4182-a086-48efc87566f5.png",
+          "Region": "North America",
+          "Type": "Cart - Front",
+          "URL": "http://images.launchbox-app.com/r2_1863c28f-5549-4182-a086-48efc87566f5.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "CRC32": "395739932",
+        "FileName": "r2_f913e4b9-a722-4a2c-afe4-173fc6fbe131.png",
+        "Region": "North America",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_f913e4b9-a722-4a2c-afe4-173fc6fbe131.png"
+      }
+    ]
   },
   "DatabaseID": "466627",
   "Developer": "IO Interactive",

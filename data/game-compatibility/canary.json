@@ -1,12 +1,30 @@
 [
   {
+    "issue": 1212,
+    "id": "5841145B",
+    "title": "Trivial Pursuit Live!",
+    "updated": "2026-09-06T21:41:07Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "crash-always"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1212"
+  },
+  {
     "issue": 1211,
     "id": "434D07D5",
     "title": "Overlord",
-    "updated": "2026-09-05T08:42:35Z",
-    "state": "Unknown",
+    "updated": "2026-09-06T21:35:51Z",
+    "state": "Playable",
     "labels": {
-      "state": [],
+      "state": [
+        "state-playable"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1211"
@@ -15,13 +33,15 @@
     "issue": 1209,
     "id": "5451089C",
     "title": "Pictionary: Ultimate Edition",
-    "updated": "2026-08-30T14:11:05Z",
+    "updated": "2026-09-06T21:38:22Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": []
+      "others": [
+        "tech-udraw-required"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1209"
   },
@@ -2086,13 +2106,14 @@
     "issue": 1054,
     "id": "45410961",
     "title": "Need For Speed Most Wanted (2012)",
-    "updated": "2026-08-02T17:17:30Z",
+    "updated": "2026-09-06T21:40:01Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "tech-kinect-optional",
         "gpu-readback",
         "crash-always"
       ]
@@ -2707,7 +2728,7 @@
     "issue": 1005,
     "id": "4B4F07D1",
     "title": "Shin Sangoku Musou 4 Special",
-    "updated": "2026-03-10T16:26:56Z",
+    "updated": "2026-09-06T18:08:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11959,11 +11980,11 @@
     "issue": 406,
     "id": "555307DC",
     "title": "Far Cry: Instincts Predator",
-    "updated": "2026-09-06T16:42:57Z",
-    "state": "Gameplay",
+    "updated": "2026-09-06T23:36:05Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-cry",

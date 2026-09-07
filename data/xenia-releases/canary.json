@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "60b7ea9",
+    "target_commitish": "60b7ea98cffc9420396fdaa2365535760f5f5519",
+    "published_at": "2026-09-06T21:28:56Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/60b7ea9",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/60b7ea98cffc9420396fdaa2365535760f5f5519",
+    "changelog": {
+      "title": "60b7ea9_canary_experimental",
+      "changes": "- [UI] Fixed ImGui error in content list view related to the same name entries (`60b7ea9`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/66af56e...60b7ea9"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/60b7ea9/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/60b7ea9/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "66af56e",
     "target_commitish": "66af56ed7a3158cf4d020a7038079cda3631d7d7",
     "published_at": "2026-09-05T18:57:20Z",
