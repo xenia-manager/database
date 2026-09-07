@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "80679bc",
+    "target_commitish": "80679bcadd9804027ecff9724712dde8230685ae",
+    "published_at": "2026-09-07T07:02:55Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/80679bc",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/80679bcadd9804027ecff9724712dde8230685ae",
+    "changelog": {
+      "title": "80679bc_canary_experimental",
+      "changes": "- [XAM/USER] - Implement XamUserGetSubscriptionType (`80679bc`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6027113...80679bc"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/80679bc/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/80679bc/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "6027113",
+    "target_commitish": "60271139249ea9757157f9a93c08af8a888c5858",
+    "published_at": "2026-09-07T06:34:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6027113",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/60271139249ea9757157f9a93c08af8a888c5858",
+    "changelog": {
+      "title": "6027113_canary_experimental",
+      "changes": "- [UI] Fixed ImGui OnKeyChar (`6027113`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/60b7ea9...6027113"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6027113/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6027113/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "60b7ea9",
     "target_commitish": "60b7ea98cffc9420396fdaa2365535760f5f5519",
     "published_at": "2026-09-06T21:28:56Z",
