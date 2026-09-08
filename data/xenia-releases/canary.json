@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "99b3cca",
+    "target_commitish": "99b3ccad26a933b9b15d46a513460096d0db2086",
+    "published_at": "2026-09-08T09:00:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/99b3cca",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/99b3ccad26a933b9b15d46a513460096d0db2086",
+    "changelog": {
+      "title": "99b3cca_canary_experimental",
+      "changes": "- [XAM/TASK] - Correct params and struct for XamTaskSchedule (`99b3cca`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/87c2411...99b3cca"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/99b3cca/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/99b3cca/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "87c2411",
     "target_commitish": "87c24112706d95f15f83dfec58e93923bd7ffa07",
     "published_at": "2026-09-07T18:56:19Z",
