@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "d8348b4",
+    "target_commitish": "d8348b4f6830a82b68fa2dcbf7bdf3ae643a9c9f",
+    "published_at": "2026-09-10T06:35:19Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d8348b4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d8348b4f6830a82b68fa2dcbf7bdf3ae643a9c9f",
+    "changelog": {
+      "title": "d8348b4_canary_experimental",
+      "changes": "- [Base/POSIX] Fix double join, terminate spin, affinity, NanoSleep and a stale suspend token (`d8348b4`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9da6934...d8348b4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d8348b4/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d8348b4/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "9da6934",
+    "target_commitish": "9da693480d0995326b81c3a14f8b1a4c226066eb",
+    "published_at": "2026-09-10T05:57:07Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9da6934",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9da693480d0995326b81c3a14f8b1a4c226066eb",
+    "changelog": {
+      "title": "9da6934_canary_experimental",
+      "changes": "- [GPU] EDRAM bits respected for color/depth aliases (`9da6934`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/159337d...9da6934"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9da6934/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9da6934/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "159337d",
     "target_commitish": "159337dbba7bddc9b684bd3dded31a12dbc0b62e",
     "published_at": "2026-09-09T21:14:53Z",
