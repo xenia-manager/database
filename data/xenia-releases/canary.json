@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "159337d",
+    "target_commitish": "159337dbba7bddc9b684bd3dded31a12dbc0b62e",
+    "published_at": "2026-09-09T21:14:53Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/159337d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/159337dbba7bddc9b684bd3dded31a12dbc0b62e",
+    "changelog": {
+      "title": "159337d_canary_experimental",
+      "changes": "- [XAM] XamUserGetSubscriptionType: Removed overlap. (`159337d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5d4dc8a...159337d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/159337d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/159337d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "5d4dc8a",
     "target_commitish": "5d4dc8a88abb2965f2933286571f5bfa0b87391d",
     "published_at": "2026-09-08T18:34:12Z",
