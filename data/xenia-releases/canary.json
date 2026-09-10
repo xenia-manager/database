@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "3ba9c86",
+    "target_commitish": "3ba9c86eb02806c7f192c05b4c98c7c5ba9e6c31",
+    "published_at": "2026-09-10T17:22:44Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/3ba9c86",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/3ba9c86eb02806c7f192c05b4c98c7c5ba9e6c31",
+    "changelog": {
+      "title": "3ba9c86_canary_experimental",
+      "changes": "- [XAM/INPUT] - Add missing X_INPUT_CAPABILITIES_EX struct and other changes (`3ba9c86`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8ae1c14...3ba9c86"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3ba9c86/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3ba9c86/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "8ae1c14",
+    "target_commitish": "8ae1c148560be3bd70c04c803c3063b0002c211d",
+    "published_at": "2026-09-10T12:43:16Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8ae1c14",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8ae1c148560be3bd70c04c803c3063b0002c211d",
+    "changelog": {
+      "title": "8ae1c14_canary_experimental",
+      "changes": "- [XAM] Added missing check for content data size during package removal (`8ae1c14`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d8348b4...8ae1c14"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8ae1c14/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8ae1c14/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "d8348b4",
     "target_commitish": "d8348b4f6830a82b68fa2dcbf7bdf3ae643a9c9f",
     "published_at": "2026-09-10T06:35:19Z",
