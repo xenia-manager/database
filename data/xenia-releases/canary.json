@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "8d8ba9b",
+    "target_commitish": "8d8ba9b6f71edeefc95c3bf28c4571de5d588ea7",
+    "published_at": "2026-09-12T14:24:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8d8ba9b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8d8ba9b6f71edeefc95c3bf28c4571de5d588ea7",
+    "changelog": {
+      "title": "8d8ba9b_canary_experimental",
+      "changes": "- [XAM] Added Content data getter to prevent DRY. (`8d8ba9b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d633c5e...8d8ba9b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8d8ba9b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8d8ba9b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "d633c5e",
     "target_commitish": "d633c5e7849feefb511b77748b91ea5b1240f853",
     "published_at": "2026-09-11T20:29:35Z",
