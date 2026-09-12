@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "d633c5e",
+    "target_commitish": "d633c5e7849feefb511b77748b91ea5b1240f853",
+    "published_at": "2026-09-11T20:29:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d633c5e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d633c5e7849feefb511b77748b91ea5b1240f853",
+    "changelog": {
+      "title": "d633c5e_canary_experimental",
+      "changes": "- [XAM] - Implement XamContentSetThumbnailInternal & stub XamLogLocalizationEtx (`d633c5e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6d3efdd...d633c5e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d633c5e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d633c5e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "6d3efdd",
     "target_commitish": "6d3efdd31cea75e32b57f282f9851601bfd367ac",
     "published_at": "2026-09-11T11:31:09Z",
