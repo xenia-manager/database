@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "d9bf601",
+    "target_commitish": "d9bf601e1c349704cdba435b732237ee2168e502",
+    "published_at": "2026-09-12T19:05:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d9bf601",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d9bf601e1c349704cdba435b732237ee2168e502",
+    "changelog": {
+      "title": "d9bf601_canary_experimental",
+      "changes": "- [XAM] - Implement XapipGetLocale, XamProfileGetLiveLegalLocale, and XamReadString (`d9bf601`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8d8ba9b...d9bf601"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d9bf601/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d9bf601/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "8d8ba9b",
     "target_commitish": "8d8ba9b6f71edeefc95c3bf28c4571de5d588ea7",
     "published_at": "2026-09-12T14:24:14Z",
