@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "44cb873",
+    "target_commitish": "44cb87328c5bde6c95d4ff8ff8cddf7ac197ab70",
+    "published_at": "2026-09-13T08:49:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/44cb873",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/44cb87328c5bde6c95d4ff8ff8cddf7ac197ab70",
+    "changelog": {
+      "title": "44cb873_canary_experimental",
+      "changes": "- [App] Build the disc picker on the UI thread, not the guest thread (`44cb873`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d9bf601...44cb873"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/44cb873/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/44cb873/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "d9bf601",
     "target_commitish": "d9bf601e1c349704cdba435b732237ee2168e502",
     "published_at": "2026-09-12T19:05:14Z",
