@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "920f35c",
+    "target_commitish": "920f35c9386e1738b7a80e62f9bf8d484da03320",
+    "published_at": "2026-09-13T21:24:48Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/920f35c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/920f35c9386e1738b7a80e62f9bf8d484da03320",
+    "changelog": {
+      "title": "920f35c_canary_experimental",
+      "changes": "- [CPU/HIR] Fold float vector equality as a float compare (`920f35c`)\n- [X64] Handle a constant vector in EXTRACT and the AVX-512 F2I path (`ca9e079`)\n- [CPU/HIR] Flip the lane index in the constant Extract fold (`5ce7c33`)\n- [X64] Stop two vector sequences clobbering registers they do not own (`9363df7`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/dcf2994...920f35c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/920f35c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/920f35c/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "dcf2994",
+    "target_commitish": "dcf2994ea1d604e841b5553b2bf941b809e36e79",
+    "published_at": "2026-09-13T20:44:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/dcf2994",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/dcf2994ea1d604e841b5553b2bf941b809e36e79",
+    "changelog": {
+      "title": "dcf2994_canary_experimental",
+      "changes": "- [Kernel] Reconcile the guest dispatch header on native object lookup (`dcf2994`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/44cb873...dcf2994"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dcf2994/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dcf2994/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "44cb873",
     "target_commitish": "44cb87328c5bde6c95d4ff8ff8cddf7ac197ab70",
     "published_at": "2026-09-13T08:49:50Z",
