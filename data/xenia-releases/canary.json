@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "6f98405",
+    "target_commitish": "6f9840568bb7dc9f5a9adb94801a99b18a7b2a60",
+    "published_at": "2026-09-14T07:16:21Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6f98405",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6f9840568bb7dc9f5a9adb94801a99b18a7b2a60",
+    "changelog": {
+      "title": "6f98405_canary_experimental",
+      "changes": "- [Base/POSIX] Set O_APPEND only for append-only handles (`6f98405`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/920f35c...6f98405"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6f98405/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6f98405/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "920f35c",
     "target_commitish": "920f35c9386e1738b7a80e62f9bf8d484da03320",
     "published_at": "2026-09-13T21:24:48Z",
