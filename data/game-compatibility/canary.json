@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1213,
+    "id": "58410B11",
+    "title": "X-MEN",
+    "updated": "2026-09-15T11:34:34Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "vsync-off-speedup"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1213"
+  },
+  {
     "issue": 1212,
     "id": "5841145B",
     "title": "Trivial Pursuit Live!",
@@ -1185,7 +1201,7 @@
     "issue": 1120,
     "id": "4B4F07D5",
     "title": "SAMURAI WARRIORS 2",
-    "updated": "2026-09-08T11:22:57Z",
+    "updated": "2026-09-15T12:25:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2728,15 +2744,13 @@
     "issue": 1005,
     "id": "4B4F07D1",
     "title": "Shin Sangoku Musou 4 Special",
-    "updated": "2026-09-08T10:43:44Z",
+    "updated": "2026-09-15T12:48:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "apu-garbage"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1005"
   },
@@ -3805,13 +3819,15 @@
     "issue": 931,
     "id": "45410894",
     "title": "Fight Night Round 4",
-    "updated": "2026-09-13T22:04:23Z",
+    "updated": "2026-09-15T10:47:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "crash-random"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/931"
   },
@@ -4608,7 +4624,7 @@
     "issue": 880,
     "id": "4B4F07D3",
     "title": "Dynasty Warriors 5 Empires",
-    "updated": "2026-09-13T08:40:59Z",
+    "updated": "2026-09-15T12:24:57Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -6829,14 +6845,13 @@
     "issue": 739,
     "id": "415607D4",
     "title": "Tony Hawk's American Wasteland",
-    "updated": "2026-09-15T03:21:10Z",
-    "state": "Gameplay",
+    "updated": "2026-09-15T11:10:53Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "vsync-off-speedup"
       ]
     },
@@ -8561,13 +8576,15 @@
     "issue": 620,
     "id": "445007EA",
     "title": "Onechanbara: Bikini Samurai Squad (vorteX)",
-    "updated": "2026-08-16T02:41:26Z",
+    "updated": "2026-09-15T11:00:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-async-compile-issues"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/620"
   },
@@ -15289,7 +15306,7 @@
     "issue": 213,
     "id": "4E4D07E5",
     "title": "Dynasty Warriors - Gundam",
-    "updated": "2026-09-08T11:41:29Z",
+    "updated": "2026-09-15T12:25:22Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -15886,14 +15903,13 @@
     "issue": 169,
     "id": "4B4F07D9",
     "title": "Warriors Orochi 1",
-    "updated": "2026-09-12T10:48:56Z",
+    "updated": "2026-09-15T12:47:28Z",
     "state": "Loads",
     "labels": {
       "state": [
         "state-menus"
       ],
       "others": [
-        "apu-garbage",
         "backwards-compatibility-unsupported",
         "vsync-off-speedup"
       ]
@@ -17700,13 +17716,15 @@
     "issue": 36,
     "id": "485507D2",
     "title": "\u5929\u5916\u9b54\u5883\uff3a\uff29\uff32\uff29\uff21",
-    "updated": "2026-09-13T23:20:18Z",
+    "updated": "2026-09-15T10:47:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-drawing-missing"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/36"
   },

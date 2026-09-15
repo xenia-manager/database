@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "1b24265",
+    "target_commitish": "1b242658e535fbd12645e4d2c12693771075b738",
+    "published_at": "2026-09-15T10:10:30Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1b24265",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1b242658e535fbd12645e4d2c12693771075b738",
+    "changelog": {
+      "title": "1b24265_canary_experimental",
+      "changes": "- [Vulkan] Lock the binding layout tables during parallel shader translation (`1b24265`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6f98405...1b24265"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1b24265/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1b24265/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "6f98405",
     "target_commitish": "6f9840568bb7dc9f5a9adb94801a99b18a7b2a60",
     "published_at": "2026-09-14T07:16:21Z",
