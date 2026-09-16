@@ -1201,15 +1201,13 @@
     "issue": 1120,
     "id": "4B4F07D5",
     "title": "SAMURAI WARRIORS 2",
-    "updated": "2026-09-15T12:25:54Z",
+    "updated": "2026-09-15T22:34:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "crash-always"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1120"
   },
@@ -4624,11 +4622,11 @@
     "issue": 880,
     "id": "4B4F07D3",
     "title": "Dynasty Warriors 5 Empires",
-    "updated": "2026-09-15T12:24:57Z",
-    "state": "Loads",
+    "updated": "2026-09-15T22:35:37Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
         "marketplace-delisted",
@@ -15306,11 +15304,11 @@
     "issue": 213,
     "id": "4E4D07E5",
     "title": "Dynasty Warriors - Gundam",
-    "updated": "2026-09-15T12:25:22Z",
-    "state": "Loads",
+    "updated": "2026-09-15T22:35:11Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-title"
+        "state-gameplay"
       ],
       "others": [
         "backwards-compatibility-unsupported",
@@ -15903,11 +15901,11 @@
     "issue": 169,
     "id": "4B4F07D9",
     "title": "Warriors Orochi 1",
-    "updated": "2026-09-15T12:47:28Z",
-    "state": "Loads",
+    "updated": "2026-09-15T22:33:53Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-menus"
+        "state-playable"
       ],
       "others": [
         "backwards-compatibility-unsupported",
