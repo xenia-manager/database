@@ -1215,7 +1215,7 @@
     "issue": 1120,
     "id": "4B4F07D5",
     "title": "SAMURAI WARRIORS 2",
-    "updated": "2026-09-15T22:34:33Z",
+    "updated": "2026-09-16T17:43:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6857,13 +6857,14 @@
     "issue": 739,
     "id": "415607D4",
     "title": "Tony Hawk's American Wasteland",
-    "updated": "2026-09-15T11:10:53Z",
+    "updated": "2026-09-16T18:08:45Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
+        "gpu-drawing-missing",
         "vsync-off-speedup"
       ]
     },
@@ -12446,11 +12447,11 @@
     "issue": 382,
     "id": "434D083D",
     "title": "DiRT 3",
-    "updated": "2026-06-05T17:03:41Z",
-    "state": "Gameplay",
+    "updated": "2026-09-16T17:45:27Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-ego",
@@ -15595,7 +15596,7 @@
     "issue": 193,
     "id": "415608C3",
     "title": "Call of Duty: Black Ops II",
-    "updated": "2026-08-05T02:06:33Z",
+    "updated": "2026-09-16T18:54:05Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15603,7 +15604,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "apu-silent",
         "tech-engine-iw",
         "tech-middleware-demonware",
         "tech-xboxlivevision-optional",
@@ -16665,7 +16665,7 @@
     "issue": 120,
     "id": "45410811",
     "title": "UEFA Champions League 2006\u20132007",
-    "updated": "2026-08-02T08:22:57Z",
+    "updated": "2026-09-16T15:07:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17860,15 +17860,13 @@
     "issue": 27,
     "id": "415607E1",
     "title": "Call of Duty 3",
-    "updated": "2026-08-12T13:57:52Z",
-    "state": "Gameplay",
+    "updated": "2026-09-16T18:26:15Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
         "tech-middleware-demonware",
         "gpu-readback",
         "gpu-viz-query"
