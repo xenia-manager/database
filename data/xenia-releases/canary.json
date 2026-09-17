@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "aee0871",
+    "target_commitish": "aee0871dd7a783de7ec61dfbd5e9985977093025",
+    "published_at": "2026-09-16T20:34:37Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/aee0871",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/aee0871dd7a783de7ec61dfbd5e9985977093025",
+    "changelog": {
+      "title": "aee0871_canary_experimental",
+      "changes": "- Count the frame whose header crosses the packet boundary (`aee0871`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f21ebd4...aee0871"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/aee0871/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/aee0871/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "f21ebd4",
     "target_commitish": "f21ebd49e979e44f081f474df78c3fbfee9cb3f2",
     "published_at": "2026-09-15T17:59:34Z",

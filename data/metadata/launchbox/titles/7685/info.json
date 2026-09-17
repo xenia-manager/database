@@ -6,6 +6,13 @@
         "FileName": "579aa5aa-6b66-4e03-8218-a680598b70e3.jpg",
         "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/579aa5aa-6b66-4e03-8218-a680598b70e3.jpg"
+      },
+      {
+        "CRC32": "2963871019",
+        "FileName": "r2_f2971ab9-56e7-474c-a2e8-d79104d31ed7.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_f2971ab9-56e7-474c-a2e8-d79104d31ed7.jpg"
       }
     ],
     "Box": {
@@ -42,9 +49,25 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/51ad379d-06ee-4743-a052-3256fb2a4949.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "4256445928",
+          "FileName": "r2_ae87354f-4cbe-487f-b34f-e51d56d40386.png",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_ae87354f-4cbe-487f-b34f-e51d56d40386.png"
+        }
       ]
     },
     "Disc": [
+      {
+        "CRC32": "4154403714",
+        "FileName": "r2_6ad01ecb-0c05-4075-9ed3-5610646a4c5f.png",
+        "Region": "North America",
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_6ad01ecb-0c05-4075-9ed3-5610646a4c5f.png"
+      },
       {
         "CRC32": "325738438",
         "FileName": "655f1fb2-1d37-47a5-91a0-9c44c9dc83a6.png",
@@ -62,10 +85,47 @@
       },
       {
         "CRC32": "3268303495",
-        "FileName": "be247acc-70e5-4f95-82aa-5afe0e13d085.png",
-        "Region": "United States",
+        "FileName": "r2_c54a816d-de6e-460a-ac80-7babf05fb950.png",
+        "Region": "World",
         "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/be247acc-70e5-4f95-82aa-5afe0e13d085.png"
+        "URL": "http://images.launchbox-app.com/r2_c54a816d-de6e-460a-ac80-7babf05fb950.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3186686222",
+        "FileName": "r2_cb8211f4-6641-4f60-be29-dba9cecddaf7.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_cb8211f4-6641-4f60-be29-dba9cecddaf7.png"
+      },
+      {
+        "CRC32": "2868913960",
+        "FileName": "r2_d1f81267-1e7b-45bc-a355-a33046fb0d22.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_d1f81267-1e7b-45bc-a355-a33046fb0d22.png"
+      },
+      {
+        "CRC32": "863690299",
+        "FileName": "r2_54762ceb-167c-47d4-bbe8-6fa942b94cf0.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_54762ceb-167c-47d4-bbe8-6fa942b94cf0.png"
+      },
+      {
+        "CRC32": "409762107",
+        "FileName": "r2_54d25735-0fc9-4b8d-9524-e8aa86b04601.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_54d25735-0fc9-4b8d-9524-e8aa86b04601.png"
+      },
+      {
+        "CRC32": "197686378",
+        "FileName": "r2_e545ff48-fd5a-4898-bb21-90a982fc2fa4.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_e545ff48-fd5a-4898-bb21-90a982fc2fa4.png"
       }
     ]
   },
@@ -77,5 +137,6 @@
   "Name": "The Godfather: The Game",
   "Overview": "The book by Mario Puzo and the classic film serve as inspiration here, as gamers will join the Corleone family and earn respect through loyalty and fear as they rise through the ranks to become Don in a living 1945-1955 New York. It will be up to the player to carry out orders, earn respect and make New York City their own. Featuring non-linear action-adventure gameplay, The Godfather will offer gamers countless choices for solving the family's problems with brutal violence, skillful diplomacy, or a cunning mixture of both. From mob hits and bank heists to drive-bys and extortion, step deep inside a world where intimidation and negotiation are your tickets to the top, and where decisions made, just like in The Godfather fiction, have lasting consequences.",
   "Publisher": "Electronic Arts",
-  "ReleaseDate": "2006-03-21"
+  "ReleaseDate": "2006-03-21",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/The_Godfather_(2006_video_game)"
 }

@@ -20,13 +20,23 @@
         "URL": "http://images.launchbox-app.com/b9af6cd5-17f7-44bb-9be3-925746499abd.jpg"
       }
     ],
+    "Banner": [
+      {
+        "CRC32": "3241861577",
+        "FileName": "r2_0aecb72d-8223-468b-b51b-478aeba2d26d.jpg",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_0aecb72d-8223-468b-b51b-478aeba2d26d.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
           "CRC32": "1604508006",
-          "FileName": "fb9b2a59-f62c-4305-b9cc-2ea28aaa9344.png",
+          "FileName": "r2_78b6000a-f4a2-445a-807d-865e1393bdee.png",
+          "Region": "North America",
           "Type": "Box - 3D",
-          "URL": "http://images.launchbox-app.com/fb9b2a59-f62c-4305-b9cc-2ea28aaa9344.png"
+          "URL": "http://images.launchbox-app.com/r2_78b6000a-f4a2-445a-807d-865e1393bdee.png"
         }
       ],
       "Back": [
@@ -45,12 +55,6 @@
         }
       ],
       "Front": [
-        {
-          "CRC32": "4182668519",
-          "FileName": "69bcff74-7402-464f-8977-3b55873d8c98.jpg",
-          "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/69bcff74-7402-464f-8977-3b55873d8c98.jpg"
-        },
         {
           "CRC32": "732006025",
           "FileName": "r2_025d28be-06e9-4057-a227-4fd989815d0b.jpg",
@@ -71,6 +75,13 @@
           "Region": "Germany",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_66870c1f-128e-48fb-85fc-d357ecc462c1.jpg"
+        },
+        {
+          "CRC32": "4182668519",
+          "FileName": "r2_ca23a088-4027-442a-976d-bb8dce8376a5.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_ca23a088-4027-442a-976d-bb8dce8376a5.jpg"
         }
       ],
       "Spine": [
@@ -80,6 +91,13 @@
           "Region": "Germany",
           "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_262469b0-2661-4e01-9c64-8551d17b56f6.jpg"
+        },
+        {
+          "CRC32": "128788190",
+          "FileName": "r2_7b5597d5-4dfb-4651-9e0e-fdd4dc3cba04.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_7b5597d5-4dfb-4651-9e0e-fdd4dc3cba04.jpg"
         }
       ]
     },
@@ -107,17 +125,41 @@
         "URL": "http://images.launchbox-app.com/511fb1be-3c44-473d-b8a6-13698e476d40.png"
       },
       {
-        "CRC32": "1825318688",
-        "FileName": "f67caa51-55c1-48e4-963f-2405bfd1cf19.png",
-        "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/f67caa51-55c1-48e4-963f-2405bfd1cf19.png"
-      },
-      {
         "CRC32": "3194015361",
         "FileName": "59a44a4e-7308-498a-b6ea-c79644aefbda.png",
         "Region": "Spain",
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/59a44a4e-7308-498a-b6ea-c79644aefbda.png"
+      },
+      {
+        "CRC32": "1825318688",
+        "FileName": "r2_b4e18947-017b-4821-a039-387a825d2fc6.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_b4e18947-017b-4821-a039-387a825d2fc6.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "2911881580",
+        "FileName": "r2_05ec753e-7cfc-4d18-bea2-33022aab8c7a.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_05ec753e-7cfc-4d18-bea2-33022aab8c7a.png"
+      },
+      {
+        "CRC32": "3114323572",
+        "FileName": "r2_5d1f79b9-7401-42cd-96de-de659aa4cf74.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_5d1f79b9-7401-42cd-96de-de659aa4cf74.png"
+      },
+      {
+        "CRC32": "149441015",
+        "FileName": "r2_cbad0dd2-597e-403d-a6bc-31b77622fb75.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_cbad0dd2-597e-403d-a6bc-31b77622fb75.png"
       }
     ]
   },
@@ -125,7 +167,7 @@
   "DatabaseID": "8167",
   "Developer": "LucasArts",
   "ESRB": "T - Teen",
-  "Genres": "Action",
+  "Genres": "Action; Adventure",
   "Name": "Star Wars: The Force Unleashed",
   "Overview": "The Star Wars saga continues in Star Wars: The Force Unleashed. You are Darth Vader's Secret Apprentice! The Dark Lord of the Sith himself has trained you to use a lightsaber and unleash the power of the Force, but now your destiny is your own. Will you join Vader as the next great Sith, or will you choose to defend peace and justice as a noble Jedi Knight?",
   "Publisher": "LucasArts",

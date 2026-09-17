@@ -1,34 +1,63 @@
 {
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "13067329",
+        "FileName": "r2_c91c2098-9f1a-47b3-8c06-28b16f35281e.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_c91c2098-9f1a-47b3-8c06-28b16f35281e.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "CRC32": "1816520405",
+        "FileName": "r2_93b18ac6-c0a4-41f8-9e77-0cef94f89d6e.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_93b18ac6-c0a4-41f8-9e77-0cef94f89d6e.png"
+      }
+    ],
     "Box": {
-      "Back": [
+      "3D": [
         {
-          "CRC32": "1272897149",
-          "FileName": "6c6f993b-732d-42b2-8438-0317deecc99a.jpg",
-          "Type": "Box - Back",
-          "URL": "http://images.launchbox-app.com/6c6f993b-732d-42b2-8438-0317deecc99a.jpg"
-        },
+          "CRC32": "3858419518",
+          "FileName": "r2_2315f4b9-ba77-4f29-bdd3-bd82a1cff826.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_2315f4b9-ba77-4f29-bdd3-bd82a1cff826.png"
+        }
+      ],
+      "Back": [
         {
           "CRC32": "2365029924",
           "FileName": "r2_6b92f849-9e89-4ebe-9faa-ce6c05a07418.jpg",
           "Region": "Germany",
           "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_6b92f849-9e89-4ebe-9faa-ce6c05a07418.jpg"
+        },
+        {
+          "CRC32": "1272897149",
+          "FileName": "r2_05083581-f613-4a6d-8d82-e5efdb9d5859.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_05083581-f613-4a6d-8d82-e5efdb9d5859.jpg"
         }
       ],
       "Front": [
-        {
-          "CRC32": "3168348918",
-          "FileName": "64d1b7da-f6a1-4df8-83cd-dd4545bfa7c7.jpg",
-          "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/64d1b7da-f6a1-4df8-83cd-dd4545bfa7c7.jpg"
-        },
         {
           "CRC32": "4072796588",
           "FileName": "r2_2290de26-0064-49d8-8c45-16fd60bea3e5.jpg",
           "Region": "Germany",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_2290de26-0064-49d8-8c45-16fd60bea3e5.jpg"
+        },
+        {
+          "CRC32": "3168348918",
+          "FileName": "64d1b7da-f6a1-4df8-83cd-dd4545bfa7c7.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/64d1b7da-f6a1-4df8-83cd-dd4545bfa7c7.jpg"
         }
       ],
       "Spine": [
@@ -38,6 +67,13 @@
           "Region": "Australia",
           "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/314b31ae-4766-41ad-87ff-04d1ed3c8829.jpg"
+        },
+        {
+          "CRC32": "1910757601",
+          "FileName": "r2_d29b0049-8c05-41c9-8b89-b1319ec2a265.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_d29b0049-8c05-41c9-8b89-b1319ec2a265.jpg"
         }
       ]
     },
@@ -59,10 +95,40 @@
       },
       {
         "CRC32": "2560199990",
-        "FileName": "r2_a9b2e87d-e5d6-4cca-ac8a-dcb64b46d647.png",
-        "Region": "United States",
+        "FileName": "r2_10a64790-e19b-4442-b7b2-c383707ccdc3.png",
+        "Region": "World",
         "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/r2_a9b2e87d-e5d6-4cca-ac8a-dcb64b46d647.png"
+        "URL": "http://images.launchbox-app.com/r2_10a64790-e19b-4442-b7b2-c383707ccdc3.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3113303160",
+        "FileName": "r2_9f325346-629f-4191-bcd9-64d40a263add.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_9f325346-629f-4191-bcd9-64d40a263add.png"
+      },
+      {
+        "CRC32": "1997083373",
+        "FileName": "r2_738b65d8-d7fc-404b-b234-1c46fa7eda76.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_738b65d8-d7fc-404b-b234-1c46fa7eda76.png"
+      },
+      {
+        "CRC32": "929422728",
+        "FileName": "r2_7a0e38ae-8175-45d7-8c15-7a1ff6872d59.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_7a0e38ae-8175-45d7-8c15-7a1ff6872d59.png"
+      },
+      {
+        "CRC32": "2740121002",
+        "FileName": "r2_7e4f4c3d-4201-47a1-bb7f-e1356a8a6482.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_7e4f4c3d-4201-47a1-bb7f-e1356a8a6482.png"
       }
     ]
   },
@@ -70,9 +136,10 @@
   "DatabaseID": "8889",
   "Developer": "Beenox",
   "ESRB": "T - Teen",
-  "Genres": null,
+  "Genres": "Action; Adventure",
   "Name": "Spider-Man: Edge of Time",
   "Overview": "Spider-Man: Edge of Time challenges the player to take on the roles of both classic Amazing Spider-Man and Spider-Man 2099 to correct a timestream gone awry and prevent a catastrophic future brought on by the early and untimely death of Peter Parker.",
   "Publisher": "Activision",
-  "ReleaseDate": "2011-10-04"
+  "ReleaseDate": "2011-10-04",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Spider-Man:_Edge_of_Time"
 }
