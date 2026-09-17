@@ -3070,14 +3070,13 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-08-27T19:53:29Z",
+    "updated": "2026-09-17T04:33:35Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-engine-blam",
         "gpu-readback",
         "vsync-off-speedup",
@@ -3429,14 +3428,16 @@
     "issue": 957,
     "id": "4B4E0820",
     "title": "Def Jam: Rapstar",
-    "updated": "2026-09-16T19:23:34Z",
+    "updated": "2026-09-17T04:32:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-microphone-required"
+        "gpu-readback",
+        "tech-microphone-required",
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/957"
@@ -17022,11 +17023,11 @@
     "issue": 88,
     "id": "584111F7",
     "title": "Minecraft Xbox 360 Edition",
-    "updated": "2026-09-17T03:09:58Z",
-    "state": "Gameplay",
+    "updated": "2026-09-17T09:59:28Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "no-disc-install"
