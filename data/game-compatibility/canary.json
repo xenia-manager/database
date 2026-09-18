@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1216,
+    "id": "58411495",
+    "title": "Masquerade: The Baubles of Doom",
+    "updated": "2026-09-18T10:53:41Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1216"
+  },
+  {
     "issue": 1215,
     "id": "415608BE",
     "title": "Cabela's Survival: Shadows of Katmai",
@@ -16394,18 +16408,15 @@
     "issue": 141,
     "id": "45410912",
     "title": "Portal 2",
-    "updated": "2026-08-15T23:01:40Z",
-    "state": "Gameplay",
+    "updated": "2026-09-18T11:59:52Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "kernel-unimplemented-feature",
         "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
         "tech-engine-source",
-        "cpu-unimplemented-instruction",
         "tech-middleware-havok",
         "gpu-readback",
         "gpu-occlusion-query"
