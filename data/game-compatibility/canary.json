@@ -1,15 +1,32 @@
 [
   {
+    "issue": 1217,
+    "id": "58410B92",
+    "title": "HELL YEAH Wrath of the Dead Rabbit",
+    "updated": "2026-09-19T09:30:15Z",
+    "state": "Unplayable",
+    "labels": {
+      "state": [
+        "state-nothing"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1217"
+  },
+  {
     "issue": 1216,
     "id": "58411495",
     "title": "Masquerade: The Baubles of Doom",
-    "updated": "2026-09-18T10:53:41Z",
+    "updated": "2026-09-19T10:24:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "apu-garbage",
+        "crash-random"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1216"
   },
@@ -3407,7 +3424,7 @@
     "issue": 960,
     "id": "58410B66",
     "title": "Bastion",
-    "updated": "2026-01-21T06:37:43Z",
+    "updated": "2026-09-19T09:45:08Z",
     "state": "Unplayable",
     "labels": {
       "state": [
@@ -6904,11 +6921,11 @@
     "issue": 738,
     "id": "5841096A",
     "title": "Hydro Thunder Hurricane",
-    "updated": "2026-09-12T07:20:32Z",
-    "state": "Gameplay",
+    "updated": "2026-09-19T11:03:07Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-occlusion-query"
@@ -9644,7 +9661,7 @@
     "issue": 553,
     "id": "465607D1",
     "title": "Ketsui Kizuna Jigoku Tachi Extra",
-    "updated": "2026-07-10T15:35:59Z",
+    "updated": "2026-09-19T11:18:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
