@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "0bd090d",
+    "target_commitish": "0bd090dbe979bc64959efe519aa320db8e3eb467",
+    "published_at": "2026-09-20T17:03:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0bd090d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0bd090dbe979bc64959efe519aa320db8e3eb467",
+    "changelog": {
+      "title": "0bd090d_canary_experimental",
+      "changes": "- [GPU] Fix 2x & 4x host depth copy sample layout (`0bd090d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/3d233a5...0bd090d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0bd090d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0bd090d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "3d233a5",
+    "target_commitish": "3d233a5b2e94b940825847b70c788951e364bb33",
+    "published_at": "2026-09-20T16:39:54Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/3d233a5",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/3d233a5b2e94b940825847b70c788951e364bb33",
+    "changelog": {
+      "title": "3d233a5_canary_experimental",
+      "changes": "- [GPU] Rewrite ZPD as a running sample counter (`3d233a5`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/aee0871...3d233a5"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3d233a5/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3d233a5/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "aee0871",
     "target_commitish": "aee0871dd7a783de7ec61dfbd5e9985977093025",
     "published_at": "2026-09-16T20:34:37Z",
