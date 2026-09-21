@@ -1,5 +1,14 @@
 {
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "3357563456",
+        "FileName": "r2_f62e52bc-0cbf-4352-96e7-4cc3da97da8d.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_f62e52bc-0cbf-4352-96e7-4cc3da97da8d.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -53,6 +62,15 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_0fc1ae4e-8b0d-4579-ad35-c4f461f4d7f6.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "1764394918",
+          "FileName": "r2_56219b19-a30b-4bac-b9ef-047b33b36ee8.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_56219b19-a30b-4bac-b9ef-047b33b36ee8.jpg"
+        }
       ]
     },
     "Disc": [
@@ -74,10 +92,32 @@
     ],
     "Screenshots": [
       {
+        "CRC32": "1188030610",
+        "FileName": "r2_390934af-92a4-42b8-ae66-92e5e3f32ebf.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_390934af-92a4-42b8-ae66-92e5e3f32ebf.png"
+      },
+      {
+        "CRC32": "2493267659",
+        "FileName": "r2_ac3c4a05-e6a3-42da-850b-1a2068d6cb2a.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_ac3c4a05-e6a3-42da-850b-1a2068d6cb2a.png"
+      },
+      {
         "CRC32": "1120143812",
-        "FileName": "a7a5e664-3226-45ed-b88e-cd06efb6a570.jpg",
+        "FileName": "r2_5c5064fe-c863-4652-9d39-3f72c04633e6.png",
+        "Region": "World",
         "Type": "Screenshot - Gameplay",
-        "URL": "http://images.launchbox-app.com/a7a5e664-3226-45ed-b88e-cd06efb6a570.jpg"
+        "URL": "http://images.launchbox-app.com/r2_5c5064fe-c863-4652-9d39-3f72c04633e6.png"
+      },
+      {
+        "CRC32": "2712476651",
+        "FileName": "r2_cda95927-857a-42db-89eb-541591e6440a.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_cda95927-857a-42db-89eb-541591e6440a.png"
       }
     ]
   },
