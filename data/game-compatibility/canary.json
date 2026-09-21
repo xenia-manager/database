@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1218,
+    "id": "415608DA",
+    "title": "Skylanders: Giants",
+    "updated": "2026-09-21T13:14:06Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "tech-skylanders-portal-required"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1218"
+  },
+  {
     "issue": 1217,
     "id": "58410B92",
     "title": "HELL YEAH Wrath of the Dead Rabbit",
@@ -643,7 +659,7 @@
     "issue": 1166,
     "id": "57520835",
     "title": "LEGO Marvel Super Heroes",
-    "updated": "2026-07-29T05:29:55Z",
+    "updated": "2026-09-21T12:10:30Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -3394,7 +3410,7 @@
     "issue": 962,
     "id": "555307D4",
     "title": "Assassin's Creed",
-    "updated": "2026-08-03T20:34:00Z",
+    "updated": "2026-09-21T10:25:00Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -5099,7 +5115,7 @@
     "issue": 853,
     "id": "4541096E",
     "title": "Fuse",
-    "updated": "2026-07-15T11:20:49Z",
+    "updated": "2026-09-21T12:54:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5107,7 +5123,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "apu-garbage",
         "tech-middleware-havok",
         "tech-middleware-wwise",
         "gpu-readback",
@@ -8008,7 +8023,7 @@
     "issue": 662,
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "updated": "2026-08-25T04:48:03Z",
+    "updated": "2026-09-21T11:45:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8026,7 +8041,7 @@
     "issue": 661,
     "id": "41560905",
     "title": "The Amazing Spider-Man 2",
-    "updated": "2026-08-24T02:34:13Z",
+    "updated": "2026-09-21T11:44:59Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8549,7 +8564,7 @@
     "issue": 626,
     "id": "5451080D",
     "title": "Red Faction: Guerrilla",
-    "updated": "2026-08-27T23:35:19Z",
+    "updated": "2026-09-21T11:07:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9129,7 +9144,7 @@
     "issue": 586,
     "id": "4D5308BC",
     "title": "Crackdown 2",
-    "updated": "2026-08-19T16:51:25Z",
+    "updated": "2026-09-21T10:36:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9250,7 +9265,7 @@
     "issue": 578,
     "id": "425307E3",
     "title": "Dishonored",
-    "updated": "2026-06-06T16:36:51Z",
+    "updated": "2026-09-21T10:52:17Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -9678,7 +9693,7 @@
     "issue": 552,
     "id": "4D5309B1",
     "title": "Halo: Combat Evolved Anniversary",
-    "updated": "2026-08-24T02:38:43Z",
+    "updated": "2026-09-21T10:55:24Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12305,7 +12320,7 @@
     "issue": 393,
     "id": "4B4D07F5",
     "title": "Metro Last Light",
-    "updated": "2026-06-01T13:27:32Z",
+    "updated": "2026-09-21T11:05:51Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12409,7 +12424,7 @@
     "issue": 387,
     "id": "54510842",
     "title": "Metro 2033",
-    "updated": "2026-06-05T14:48:09Z",
+    "updated": "2026-09-21T11:04:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14821,7 +14836,7 @@
     "issue": 247,
     "id": "5451082C",
     "title": "Warhammer 40,000: Space Marine",
-    "updated": "2026-07-27T17:45:48Z",
+    "updated": "2026-09-21T11:11:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14843,7 +14858,7 @@
     "issue": 246,
     "id": "5454085D",
     "title": "Bioshock Infinite",
-    "updated": "2026-06-11T17:03:01Z",
+    "updated": "2026-09-21T10:28:00Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14918,7 +14933,7 @@
     "issue": 242,
     "id": "545107FC",
     "title": "Saints Row 2",
-    "updated": "2026-08-05T01:38:43Z",
+    "updated": "2026-09-21T11:09:43Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15081,7 +15096,7 @@
     "issue": 229,
     "id": "545407EE",
     "title": "The Darkness",
-    "updated": "2026-07-17T22:11:34Z",
+    "updated": "2026-09-21T10:48:39Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16264,7 +16279,7 @@
     "issue": 151,
     "id": "545407E6",
     "title": "Mafia II",
-    "updated": "2026-06-17T20:35:53Z",
+    "updated": "2026-09-21T13:47:29Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16958,7 +16973,7 @@
     "issue": 102,
     "id": "4D5307DC",
     "title": "Crackdown",
-    "updated": "2026-09-06T04:42:19Z",
+    "updated": "2026-09-21T10:35:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17367,7 +17382,7 @@
     "issue": 64,
     "id": "5553083B",
     "title": "Assassin's Creed II",
-    "updated": "2026-06-22T19:54:06Z",
+    "updated": "2026-09-21T10:26:14Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17772,7 +17787,7 @@
     "issue": 36,
     "id": "485507D2",
     "title": "\u5929\u5916\u9b54\u5883\uff3a\uff29\uff32\uff29\uff21",
-    "updated": "2026-09-15T10:47:35Z",
+    "updated": "2026-09-21T08:33:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17956,7 +17971,7 @@
     "issue": 20,
     "id": "545107D1",
     "title": "Saints Row",
-    "updated": "2026-08-05T01:54:23Z",
+    "updated": "2026-09-21T11:09:17Z",
     "state": "Playable",
     "labels": {
       "state": [

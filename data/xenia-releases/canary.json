@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "74c4e4a",
+    "target_commitish": "74c4e4acbad21bb16c2266fcff7d6420c6a8fc19",
+    "published_at": "2026-09-21T06:18:30Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/74c4e4a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/74c4e4acbad21bb16c2266fcff7d6420c6a8fc19",
+    "changelog": {
+      "title": "74c4e4a_canary_experimental",
+      "changes": "- [XAM] - Add missing exports, add missing param name, and more (`74c4e4a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8960929...74c4e4a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/74c4e4a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/74c4e4a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "8960929",
+    "target_commitish": "89609297c7ae25dc5ba404c6a977260b806bb725",
+    "published_at": "2026-09-21T05:15:25Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8960929",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/89609297c7ae25dc5ba404c6a977260b806bb725",
+    "changelog": {
+      "title": "8960929_canary_experimental",
+      "changes": "- [GPU] Fix tiled resolve offsets below 32bpp (`8960929`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/0bd090d...8960929"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8960929/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8960929/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "0bd090d",
     "target_commitish": "0bd090dbe979bc64959efe519aa320db8e3eb467",
     "published_at": "2026-09-20T17:03:50Z",
