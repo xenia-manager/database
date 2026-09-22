@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "c9c8e48",
+    "target_commitish": "c9c8e483b13249ba5f0060fc4b36071da6d67261",
+    "published_at": "2026-09-22T18:12:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c9c8e48",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c9c8e483b13249ba5f0060fc4b36071da6d67261",
+    "changelog": {
+      "title": "c9c8e48_canary_experimental",
+      "changes": "- [GPU] Fix tiled 3D address bounds (`c9c8e48`)\n- [GPU] Fix linear 96bpp mip row pitch (`19da174`)\n- [GPU] Fix array and volume mip layout (`bc6b7a0`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/74c4e4a...c9c8e48"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c9c8e48/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c9c8e48/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "74c4e4a",
     "target_commitish": "74c4e4acbad21bb16c2266fcff7d6420c6a8fc19",
     "published_at": "2026-09-21T06:18:30Z",
