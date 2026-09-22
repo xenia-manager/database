@@ -3,11 +3,15 @@
     "issue": 1221,
     "id": "4156082A",
     "title": "Monsters Vs. Aliens",
-    "updated": "2026-09-21T20:11:44Z",
-    "state": "Unknown",
+    "updated": "2026-09-21T20:24:58Z",
+    "state": "Playable",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "backwards-compatibility-unsupported"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1221"
   },

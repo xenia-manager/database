@@ -4,10 +4,10 @@
       "3D": [
         {
           "CRC32": "1129631821",
-          "FileName": "ff29a161-ecd8-49b4-8d04-6d906f138ac0.png",
-          "Region": "United States",
+          "FileName": "r2_bbd6076a-e1cc-43d6-8e30-65acdb107c3c.png",
+          "Region": "North America",
           "Type": "Box - 3D",
-          "URL": "http://images.launchbox-app.com/ff29a161-ecd8-49b4-8d04-6d906f138ac0.png"
+          "URL": "http://images.launchbox-app.com/r2_bbd6076a-e1cc-43d6-8e30-65acdb107c3c.png"
         }
       ],
       "Back": [
@@ -17,15 +17,16 @@
           "Region": "Europe",
           "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_ea3afd71-8442-4059-bdcb-12537286a413.jpg"
+        },
+        {
+          "CRC32": "177028083",
+          "FileName": "r2_04861b69-5f77-42b9-ac1a-8ba91fcd2bdb.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_04861b69-5f77-42b9-ac1a-8ba91fcd2bdb.jpg"
         }
       ],
       "Front": [
-        {
-          "CRC32": "1703890975",
-          "FileName": "1c7b4f93-5630-40dc-838c-a3739f4ff25b.jpg",
-          "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/1c7b4f93-5630-40dc-838c-a3739f4ff25b.jpg"
-        },
         {
           "CRC32": "2350181778",
           "FileName": "r2_5490c7cd-585b-4669-8a4e-0d41ee430fb8.jpg",
@@ -39,6 +40,13 @@
           "Region": "Germany",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_203365b8-bcd4-47b7-b6c6-7dead90e37b4.jpg"
+        },
+        {
+          "CRC32": "1703890975",
+          "FileName": "1c7b4f93-5630-40dc-838c-a3739f4ff25b.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/1c7b4f93-5630-40dc-838c-a3739f4ff25b.jpg"
         }
       ],
       "Spine": [
@@ -48,6 +56,13 @@
           "Region": "Europe",
           "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_afa6421f-3ae7-49d7-b7ea-0405aaba0c19.jpg"
+        },
+        {
+          "CRC32": "3120465598",
+          "FileName": "r2_2b535708-232f-40a1-80ad-290bb840916c.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_2b535708-232f-40a1-80ad-290bb840916c.jpg"
         }
       ]
     },
@@ -58,14 +73,45 @@
         "Region": "Europe",
         "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_5f07fd30-7cf3-41ec-93e1-3d2424989fd0.png"
+      },
+      {
+        "CRC32": "1211663139",
+        "FileName": "r2_bdc49da8-33e9-47bc-a6e3-7dcf3bba0e90.png",
+        "Region": "North America",
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_bdc49da8-33e9-47bc-a6e3-7dcf3bba0e90.png"
       }
     ],
     "Other": [
       {
         "CRC32": "922092449",
-        "FileName": "c0200bb8-08ee-4e74-8f8d-fa97b9c23b75.png",
+        "FileName": "r2_93e5404e-5ef5-40fe-98a0-c7449ea1171f.png",
+        "Region": "World",
         "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/c0200bb8-08ee-4e74-8f8d-fa97b9c23b75.png"
+        "URL": "http://images.launchbox-app.com/r2_93e5404e-5ef5-40fe-98a0-c7449ea1171f.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1797872189",
+        "FileName": "r2_260408e7-135f-45f0-931a-18f73172793e.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_260408e7-135f-45f0-931a-18f73172793e.png"
+      },
+      {
+        "CRC32": "2650933362",
+        "FileName": "r2_4a15ad81-80df-426b-b7ee-5f0a13a29a95.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_4a15ad81-80df-426b-b7ee-5f0a13a29a95.png"
+      },
+      {
+        "CRC32": "3835301423",
+        "FileName": "r2_c89dc926-94f8-4dae-b079-d3e832efce45.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_c89dc926-94f8-4dae-b079-d3e832efce45.png"
       }
     ]
   },
