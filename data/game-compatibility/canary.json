@@ -79,13 +79,14 @@
     "issue": 1216,
     "id": "58411495",
     "title": "Masquerade: The Baubles of Doom",
-    "updated": "2026-09-19T10:24:05Z",
-    "state": "Gameplay",
+    "updated": "2026-09-23T14:51:45Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "apu-garbage",
         "crash-random"
       ]
@@ -880,7 +881,7 @@
     "issue": 1154,
     "id": "425307D9",
     "title": "Brink",
-    "updated": "2026-07-27T17:51:48Z",
+    "updated": "2026-09-23T18:42:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -888,10 +889,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "apu-silent",
         "tech-engine-idtech",
         "gpu-readback",
-        "crash-always",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -3484,7 +3483,7 @@
     "issue": 960,
     "id": "58410B66",
     "title": "Bastion",
-    "updated": "2026-09-19T09:45:08Z",
+    "updated": "2026-09-23T18:50:21Z",
     "state": "Unplayable",
     "labels": {
       "state": [
@@ -11848,13 +11847,14 @@
     "issue": 423,
     "id": "4541088F",
     "title": "The Saboteur",
-    "updated": "2026-09-14T10:34:07Z",
-    "state": "Gameplay",
+    "updated": "2026-09-23T19:00:41Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-middleware-havok",
         "tech-middleware-wwise",
         "gpu-readback",
