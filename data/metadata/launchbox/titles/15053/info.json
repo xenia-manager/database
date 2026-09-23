@@ -4,6 +4,7 @@
       {
         "CRC32": "2136217101",
         "FileName": "8517e2a7-ae57-43bd-94f7-a3b653515eb5.png",
+        "Region": "World",
         "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/8517e2a7-ae57-43bd-94f7-a3b653515eb5.png"
       },
@@ -32,6 +33,13 @@
           "Region": "Europe",
           "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/df580950-9aec-4329-9214-7e2baebf5dcb.png"
+        },
+        {
+          "CRC32": "1717423329",
+          "FileName": "r2_8b08d507-6b93-4108-9a63-e72559c60f47.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_8b08d507-6b93-4108-9a63-e72559c60f47.png"
         }
       ],
       "Back": [
@@ -76,33 +84,34 @@
       "Spine": [
         {
           "CRC32": "1667876992",
-          "FileName": "5b9f1cda-ed98-4692-b5bb-5b85e2dcd0e2.jpg",
+          "FileName": "r2_b4dc7c49-31ae-4296-95f9-7ec156618906.jpg",
           "Region": "North America",
           "Type": "Box - Spine",
-          "URL": "http://images.launchbox-app.com/5b9f1cda-ed98-4692-b5bb-5b85e2dcd0e2.jpg"
+          "URL": "http://images.launchbox-app.com/r2_b4dc7c49-31ae-4296-95f9-7ec156618906.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "CRC32": "3983957823",
-        "FileName": "32020420-637b-4187-a2bc-8e734fb35c9c.png",
-        "Region": "Europe",
-        "Type": "Disc",
-        "URL": "http://images.launchbox-app.com/32020420-637b-4187-a2bc-8e734fb35c9c.png"
-      },
       {
         "CRC32": "1651507532",
         "FileName": "r2_4e7de678-c8b7-47b2-8f8d-a46d93fcb41e.png",
         "Region": "North America",
         "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_4e7de678-c8b7-47b2-8f8d-a46d93fcb41e.png"
+      },
+      {
+        "CRC32": "3983957823",
+        "FileName": "32020420-637b-4187-a2bc-8e734fb35c9c.png",
+        "Region": "World",
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/32020420-637b-4187-a2bc-8e734fb35c9c.png"
       }
     ],
     "Other": [
       {
         "CRC32": "312169872",
         "FileName": "ce5adc26-08fb-47cf-995d-9eefe4bf6cb3.png",
+        "Region": "World",
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/ce5adc26-08fb-47cf-995d-9eefe4bf6cb3.png"
       }
@@ -138,7 +147,7 @@
   "DatabaseID": "15053",
   "Developer": "Koei",
   "ESRB": "M - Mature",
-  "Genres": "Fighting",
+  "Genres": "Beat 'em Up",
   "Name": "Fist of the North Star: Ken's Rage 2",
   "Overview": "Kenshiro and over twenty other characters from the Fist of the North Star series are ready to unleash rage in another game from Tecmo Koei. Fist of the North Star: Ken's Rage 2 has Legend mode that covers the entire manga storyline from the Raoh Saga to the Land of Shura. Dream Mode has original storylines made just for the game that often focus on minor characters from the Fist of the North Star series.",
   "Publisher": "Koei Tecmo Games",

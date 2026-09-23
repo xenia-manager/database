@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1222,
+    "id": "074B902C",
+    "title": "WALL\u00b7E",
+    "updated": "2026-09-22T20:59:09Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1222"
+  },
+  {
     "issue": 1221,
     "id": "4156082A",
     "title": "Monsters Vs. Aliens",
@@ -10589,14 +10603,13 @@
     "issue": 500,
     "id": "434307ED",
     "title": "Lost Planet 2",
-    "updated": "2026-01-04T14:00:07Z",
+    "updated": "2026-09-22T19:57:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "regression",
         "tech-engine-mt",
         "tech-middleware-havok",
