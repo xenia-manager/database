@@ -1,5 +1,122 @@
 [
   {
+    "issue": 1230,
+    "id": "4C5307D8",
+    "title": "Superstars\u00ae V8 NC",
+    "updated": "2026-09-25T19:44:17Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1230"
+  },
+  {
+    "issue": 1229,
+    "id": "454109F2",
+    "title": "Madden NFL 17",
+    "updated": "2026-09-25T18:46:42Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1229"
+  },
+  {
+    "issue": 1228,
+    "id": "454109EB",
+    "title": "Madden NFL 16",
+    "updated": "2026-09-25T18:38:01Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1228"
+  },
+  {
+    "issue": 1227,
+    "id": "454109D9",
+    "title": "Madden NFL 15",
+    "updated": "2026-09-25T18:27:17Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1227"
+  },
+  {
+    "issue": 1226,
+    "id": "454109C1",
+    "title": "Madden NFL 25",
+    "updated": "2026-09-25T18:12:18Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1226"
+  },
+  {
+    "issue": 1225,
+    "id": "4541098B",
+    "title": "Madden NFL 13",
+    "updated": "2026-09-25T18:00:23Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-readback"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1225"
+  },
+  {
+    "issue": 1224,
+    "id": "4D5707DF",
+    "title": "TNA iMPACT",
+    "updated": "2026-09-25T15:45:47Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "tech-engine-unreal",
+        "crash-always"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1224"
+  },
+  {
     "issue": 1223,
     "id": "555307F9",
     "title": "Surf's Up",
@@ -631,7 +748,7 @@
     "issue": 1172,
     "id": "545407DC",
     "title": "Don King Presents: Prizefighter",
-    "updated": "2026-07-29T13:50:46Z",
+    "updated": "2026-09-25T17:53:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -640,7 +757,6 @@
       "others": [
         "kernel-threading-stalls",
         "apu-garbage",
-        "crash-random",
         "crash-always"
       ]
     },
@@ -6603,14 +6719,13 @@
     "issue": 762,
     "id": "57520828",
     "title": "Batman: Arkham Origins",
-    "updated": "2026-08-05T20:45:40Z",
+    "updated": "2026-09-25T13:31:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-physics-physx",
         "tech-middleware-wwise",
@@ -9651,7 +9766,7 @@
     "issue": 558,
     "id": "45410937",
     "title": "Madden NFL 12",
-    "updated": "2026-02-14T01:27:06Z",
+    "updated": "2026-09-25T17:33:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9659,8 +9774,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "apu-garbage",
-        "cpu-jit-problems",
+        "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
     },
@@ -14072,7 +14186,7 @@
     "issue": 294,
     "id": "454108FE",
     "title": "Madden NFL 11",
-    "updated": "2026-02-11T13:22:52Z",
+    "updated": "2026-09-25T17:32:12Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14081,6 +14195,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "apu-garbage",
+        "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
     },
@@ -14160,15 +14275,14 @@
     "issue": 289,
     "id": "454108C6",
     "title": "Madden NFL 10",
-    "updated": "2026-02-11T13:23:06Z",
+    "updated": "2026-09-25T17:11:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "apu-garbage",
+        "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
     },
@@ -14178,15 +14292,13 @@
     "issue": 288,
     "id": "45410864",
     "title": "Madden NFL 09",
-    "updated": "2026-05-12T17:22:58Z",
+    "updated": "2026-09-25T17:03:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "apu-garbage",
         "backwards-compatibility-unsupported"
       ]
     },
@@ -14247,7 +14359,7 @@
     "issue": 284,
     "id": "4541081D",
     "title": "Madden NFL 08",
-    "updated": "2026-02-11T13:24:19Z",
+    "updated": "2026-09-25T16:47:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14255,8 +14367,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "apu-garbage",
-        "backwards-compatibility-unsupported"
+        "backwards-compatibility-unsupported",
+        "gpu-async-compile-issues"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/284"
@@ -16318,7 +16430,7 @@
     "issue": 152,
     "id": "454107EB",
     "title": "Madden NFL 07",
-    "updated": "2026-05-14T12:40:10Z",
+    "updated": "2026-09-25T17:00:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16326,9 +16438,8 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "apu-slow",
-        "backwards-compatibility-unsupported",
-        "crash-random"
+        "apu-garbage",
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/152"
@@ -16373,7 +16484,7 @@
     "issue": 149,
     "id": "454107D2",
     "title": "Madden NFL 06",
-    "updated": "2026-09-18T16:19:34Z",
+    "updated": "2026-09-25T16:35:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16381,7 +16492,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "apu-garbage",
         "backwards-compatibility-unsupported"
       ]
     },
@@ -17718,7 +17828,7 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-09-13T10:13:31Z",
+    "updated": "2026-09-25T18:22:10Z",
     "state": "Playable",
     "labels": {
       "state": [
