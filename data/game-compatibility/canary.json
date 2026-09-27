@@ -5847,7 +5847,7 @@
     "issue": 824,
     "id": "425307F5",
     "title": "Wolfenstein: The New Order",
-    "updated": "2026-06-04T21:52:07Z",
+    "updated": "2026-09-27T19:02:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17205,15 +17205,14 @@
     "issue": 102,
     "id": "4D5307DC",
     "title": "Crackdown",
-    "updated": "2026-09-21T10:35:08Z",
-    "state": "Gameplay",
+    "updated": "2026-09-27T18:59:51Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "apu-silent",
-        "apu-garbage",
+        "gpu-drawing-corrupt",
         "tech-engine-renderware",
         "tech-middleware-havok",
         "gpu-readback",
