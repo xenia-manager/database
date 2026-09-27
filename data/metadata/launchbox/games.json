@@ -44272,10 +44272,10 @@
           },
           {
             "CRC32": "1103511343",
-            "FileName": "r2_8a50b5e2-f800-421c-8cae-1c412df1c65a.jpg",
+            "FileName": "r2_e71f8383-de00-4d37-a96b-822d1167ffc0.jpg",
             "Region": "North America",
             "Type": "Box - Back",
-            "URL": "http://images.launchbox-app.com/r2_8a50b5e2-f800-421c-8cae-1c412df1c65a.jpg"
+            "URL": "http://images.launchbox-app.com/r2_e71f8383-de00-4d37-a96b-822d1167ffc0.jpg"
           },
           {
             "CRC32": "1031116584",
@@ -44336,6 +44336,13 @@
             "Region": "Germany",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/r2_0ddb75a3-2619-4d19-a215-0e0fd4f808e4.jpg"
+          },
+          {
+            "CRC32": "881855783",
+            "FileName": "r2_41c8f546-9eb0-46ee-9fc9-7d24c0615e8d.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_41c8f546-9eb0-46ee-9fc9-7d24c0615e8d.jpg"
           }
         ]
       },
@@ -44349,10 +44356,10 @@
         },
         {
           "CRC32": "3007860186",
-          "FileName": "b6740f46-8471-4ce1-8288-65ccaf73daa6.jpg",
-          "Region": "World",
+          "FileName": "r2_8831ca31-fe03-41ef-af37-5fc0f34504c9.png",
+          "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/b6740f46-8471-4ce1-8288-65ccaf73daa6.jpg"
+          "URL": "http://images.launchbox-app.com/r2_8831ca31-fe03-41ef-af37-5fc0f34504c9.png"
         }
       ],
       "Other": [
@@ -44377,6 +44384,13 @@
           "FileName": "f6c8f744-17d9-4f07-b3ff-c5acb3be321e.jpg",
           "Type": "Screenshot - Game Title",
           "URL": "http://images.launchbox-app.com/f6c8f744-17d9-4f07-b3ff-c5acb3be321e.jpg"
+        },
+        {
+          "CRC32": "3258291831",
+          "FileName": "r2_922c5683-88f3-4b46-9ca6-a4aa5a76f1a3.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_922c5683-88f3-4b46-9ca6-a4aa5a76f1a3.png"
         }
       ]
     },
@@ -56514,6 +56528,15 @@
   },
   {
     "Artwork": {
+      "Banner": [
+        {
+          "CRC32": "1301081895",
+          "FileName": "r2_e78be87e-b153-4dea-ad4a-88841366622f.png",
+          "Region": "World",
+          "Type": "Banner",
+          "URL": "http://images.launchbox-app.com/r2_e78be87e-b153-4dea-ad4a-88841366622f.png"
+        }
+      ],
       "Box": {
         "3D": [
           {
@@ -56531,6 +56554,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_15f7ada6-2a78-4021-9109-f427974a5a49.jpg"
+          },
+          {
+            "CRC32": "3475731072",
+            "FileName": "r2_05c69bab-6a05-4f76-a651-c5797c05a8e6.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_05c69bab-6a05-4f76-a651-c5797c05a8e6.jpg"
           }
         ],
         "Front": [
@@ -56541,9 +56571,25 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/a877199a-4c29-4625-be29-1cffbb642daa.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "547359796",
+            "FileName": "r2_e88a4a53-dadd-4f07-b7ac-da37347b341d.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_e88a4a53-dadd-4f07-b7ac-da37347b341d.jpg"
+          }
         ]
       },
       "Disc": [
+        {
+          "CRC32": "3525630895",
+          "FileName": "r2_478b9fa3-8faf-44ff-bf59-70da32bef04b.png",
+          "Region": "North America",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_478b9fa3-8faf-44ff-bf59-70da32bef04b.png"
+        },
         {
           "CRC32": "203295120",
           "FileName": "c83f632f-8c21-4035-a6b0-18d2802a23a0.png",
@@ -56555,19 +56601,64 @@
       "Other": [
         {
           "CRC32": "2798707930",
-          "FileName": "f361b595-a95c-48e9-bc7a-b4fe9936128b.png",
+          "FileName": "r2_41969c9d-3851-48dd-8408-54a0bb1a2a9f.png",
+          "Region": "World",
           "Type": "Clear Logo",
-          "URL": "http://images.launchbox-app.com/f361b595-a95c-48e9-bc7a-b4fe9936128b.png"
+          "URL": "http://images.launchbox-app.com/r2_41969c9d-3851-48dd-8408-54a0bb1a2a9f.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "3105267771",
+          "FileName": "r2_32f2bdbb-2fdd-4ce9-b772-0920bc3faa64.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_32f2bdbb-2fdd-4ce9-b772-0920bc3faa64.png"
+        },
+        {
+          "CRC32": "3006847785",
+          "FileName": "r2_ec9d03f8-3093-4ba1-81d9-52b968f04f55.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_ec9d03f8-3093-4ba1-81d9-52b968f04f55.png"
+        },
+        {
+          "CRC32": "2072137175",
+          "FileName": "r2_8e462290-1321-44eb-ab92-9c7782931527.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_8e462290-1321-44eb-ab92-9c7782931527.png"
+        },
+        {
+          "CRC32": "721563022",
+          "FileName": "r2_bb54229d-0924-42cc-a950-10217e63ae51.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_bb54229d-0924-42cc-a950-10217e63ae51.png"
+        },
+        {
+          "CRC32": "995308649",
+          "FileName": "r2_d03221f9-bd4e-4c41-8cfe-23b56a69ae98.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_d03221f9-bd4e-4c41-8cfe-23b56a69ae98.png"
+        },
+        {
+          "CRC32": "2712019036",
+          "FileName": "r2_dab5665c-078d-4c70-9487-5419553af636.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_dab5665c-078d-4c70-9487-5419553af636.png"
         }
       ]
     },
     "CommunityRating": "4.0625",
     "DatabaseID": "12367",
-    "Developer": "Electronic Arts",
+    "Developer": "Electronic Arts Redwood Shores Studio",
     "ESRB": "M - Mature",
-    "Genres": "Action",
+    "Genres": "Action; Shooter",
     "Name": "The Godfather II",
-    "Overview": "After being promoted by Michael Corleone to Don of New York, players expand to new cities, as they build up their families through extorting businesses, monopolizing illegal crime rings and defeating new families in an effort to become the most powerful mob family in America. To help players manage their empire, The Godfather II introduces \"The Don's View\" - an innovative strategy meta-game that allows players to oversee the entire world as they grow the family business. Using the Don's View, players will be able to build, defend and expand their crime rings, while keeping an eye on the movements and plans of the rival families. Players will also learn to master the business of organized crime by building a family of Made Men, hiring crew, handing out orders, and promoting their best men up the ranks. Set in a stunning open-world environment, The Godfather II expands on the popular gameplay mechanics of the first game and doubles down on the series' signature BlackHand control scheme, which now features even more visceral hand-to-hand brutality at your fingertips, introducing a new combo system, pressure tactics and executions. In The Godfather II, players fight alongside their hand-picked crew, who have their own skills and expertise. Each family member specializes in a specific field such as demolitions, arson, engineering, first-aid and more. As The Don you control the family, sending some of your men on missions while heading off into action with others. The combination of strategic organized crime gameplay and brutal BlackHand action promises to set The Godfather II apart from other open-world games. Play The Godfather II online multiplayer modes and become the true Don of Dons. Take your money, weapons, and crew from your single-player experience online and wage mob warfare against up to 16 players from around the world. Play as one of the family's crew specialists and put your best strategies to the test as you take over territory and strike back at rivals. Earn upgrades and money that can be used in your single-player experience.",
+    "Overview": "The Godfather II game goes beyond the film's story by setting players in the world of organized crime in 1960’s Florida, Cuba and New York.\n\nAfter being promoted by Michael Corleone to Don of New York, players expand to new cities, as they build up their families through extorting businesses, monopolizing illegal crime rings and defeating new families in an effort to become the most powerful mob family in America. To help players manage their empire, The Godfather II introduces \"The Don's View\" -- an innovative strategy meta-game that allows players to oversee the entire world as they grow the family business. Using the Don's View, players will be able to build, defend and expand their crime rings, while keeping an eye on the movements and plans of the rival families. Players will also learn to master the business of organized crime by building a family of Made Men, hiring crew, handing out orders, and promoting their best men up the ranks.",
     "Publisher": "Electronic Arts",
     "ReleaseDate": "2009-04-07",
     "VideoURL": "https://en.wikipedia.org/wiki/The_Godfather_II_(video_game)",
@@ -64833,7 +64924,7 @@
         }
       ]
     },
-    "CommunityRating": "3.25",
+    "CommunityRating": "3.30952380952381",
     "DatabaseID": "12736",
     "Developer": "Housemarque",
     "ESRB": "E - Everyone",
@@ -65246,20 +65337,30 @@
     "Artwork": {
       "Background": [
         {
-          "CRC32": "949017363",
-          "FileName": "95a2705f-e09d-4932-be1d-59d2e3dbdc7a.jpg",
-          "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/95a2705f-e09d-4932-be1d-59d2e3dbdc7a.jpg"
-        },
-        {
           "CRC32": "3634163027",
           "FileName": "d207cce2-dee7-4a00-99f5-928eeb8b4974.jpg",
           "Region": "Spain",
           "Type": "Fanart - Background",
           "URL": "http://images.launchbox-app.com/d207cce2-dee7-4a00-99f5-928eeb8b4974.jpg"
+        },
+        {
+          "CRC32": "949017363",
+          "FileName": "r2_f9405945-74a4-45b2-bd75-2dee29d1cbbd.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_f9405945-74a4-45b2-bd75-2dee29d1cbbd.jpg"
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "1222180656",
+            "FileName": "r2_1a7a4c50-f26c-49d4-bc18-bb560f3da03f.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_1a7a4c50-f26c-49d4-bc18-bb560f3da03f.png"
+          }
+        ],
         "Back": [
           {
             "CRC32": "3238904997",
@@ -65277,10 +65378,10 @@
           },
           {
             "CRC32": "46770312",
-            "FileName": "r2_493d4b7d-769e-485f-a474-d43eb7c5d112.jpg",
+            "FileName": "r2_5de16e63-14f9-4eb5-aff9-9fc1f514a267.jpg",
             "Region": "North America",
             "Type": "Box - Back",
-            "URL": "http://images.launchbox-app.com/r2_493d4b7d-769e-485f-a474-d43eb7c5d112.jpg"
+            "URL": "http://images.launchbox-app.com/r2_5de16e63-14f9-4eb5-aff9-9fc1f514a267.jpg"
           }
         ],
         "Front": [
@@ -65305,15 +65406,24 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/df289247-2206-4ad2-9288-0d8911942a2b.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "2559808606",
+            "FileName": "r2_a8f3c23c-7dc2-4d7f-ad64-c18aac5afa62.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_a8f3c23c-7dc2-4d7f-ad64-c18aac5afa62.jpg"
+          }
         ]
       },
       "Disc": [
         {
           "CRC32": "1273070534",
-          "FileName": "1a80bee7-d771-4dc7-84b6-1bc3797ee521.jpg",
-          "Region": "United States",
+          "FileName": "r2_7000bda6-29ab-456d-97ba-de205c1be28a.png",
+          "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/1a80bee7-d771-4dc7-84b6-1bc3797ee521.jpg"
+          "URL": "http://images.launchbox-app.com/r2_7000bda6-29ab-456d-97ba-de205c1be28a.png"
         }
       ],
       "Other": [
@@ -65339,6 +65449,13 @@
       ],
       "Screenshots": [
         {
+          "CRC32": "2775302512",
+          "FileName": "r2_d9c96da0-1974-4b3a-bb22-d3c316349994.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_d9c96da0-1974-4b3a-bb22-d3c316349994.png"
+        },
+        {
           "CRC32": "3511113478",
           "FileName": "f6b12d18-9cac-44d3-99a3-81da93172374.jpg",
           "Type": "Screenshot - Game Title",
@@ -65350,11 +65467,12 @@
     "DatabaseID": "12746",
     "Developer": "Traveller's Tales (UK)",
     "ESRB": "E10+ - Everyone 10+",
-    "Genres": "Action",
+    "Genres": "Action; Adventure",
     "Name": "LEGO Harry Potter: Years 5-7",
     "Overview": "The LEGO version of literary and film sensation Harry Potter comes to a conclusion with Years 5-7, introducing new locales, characters, and challenges to players as they battle the forces of evil. In contrast with the first LEGO Harry Potter, Years 5-7 features more exploration, puzzle-solving sequences, and magic. In addition to Hogwarts, Diagon Alley, and Hogsmeade, players will visit such venues as Grimmauld Place, the Ministry of Magic, and Godric's Hollow as they prepare for the final confrontation with Lord Voldemort. Of course, the LEGO series is known for its humorous spin on familiar events, and players can expect the same whimsical approach to the cinematics and encounters as in previous entries.",
     "Publisher": "Warner Bros. Interactive Entertainment",
-    "ReleaseDate": "2011-11-11"
+    "ReleaseDate": "2011-11-11",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Harry_Potter:_Years_5%E2%80%937"
   },
   {
     "Artwork": {
@@ -66329,14 +66447,31 @@
           "Region": "Germany",
           "Type": "Disc",
           "URL": "http://images.launchbox-app.com/1796c227-fabc-4bdb-b328-5b0d1093eff7.png"
+        },
+        {
+          "CRC32": "310632047",
+          "FileName": "r2_67cced53-2549-432c-a691-2338479e9026.png",
+          "Region": "North America",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_67cced53-2549-432c-a691-2338479e9026.png"
         }
       ],
       "Other": [
         {
           "CRC32": "3961059417",
-          "FileName": "9ef88acc-31ea-4a05-986a-47935da039ca.png",
+          "FileName": "r2_7d6e1086-5502-4ba2-bf53-ed9ed8992aec.png",
+          "Region": "World",
           "Type": "Clear Logo",
-          "URL": "http://images.launchbox-app.com/9ef88acc-31ea-4a05-986a-47935da039ca.png"
+          "URL": "http://images.launchbox-app.com/r2_7d6e1086-5502-4ba2-bf53-ed9ed8992aec.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "400385245",
+          "FileName": "r2_4569dcd5-a4df-4c63-b5bb-dc8cc2df33db.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_4569dcd5-a4df-4c63-b5bb-dc8cc2df33db.png"
         }
       ]
     },
@@ -66344,12 +66479,13 @@
     "DatabaseID": "12773",
     "Developer": "Traveller's Tales",
     "ESRB": "E10+ - Everyone 10+",
-    "Genres": "Action",
+    "Genres": "Action; Adventure",
     "Name": "LEGO Star Wars III: The Clone Wars",
     "Overview": "Lego Star Wars III: The Clone Wars is similar to the previous titles in the series. Up to two players switch between different characters in order to fight enemies, solve puzzles, and progress through various levels. It introduces a few novelties, including scene swap, where players can switch between teams in separate locations to complete multi-part objectives, and boss battles. The game also features some real-time strategy elements, such as commanding large ground armies across battlefields.",
     "Publisher": "LucasArts",
     "ReleaseDate": "2011-03-22",
-    "VideoURL": "http://www.youtube.com/watch?v=njc9TkwoorM"
+    "VideoURL": "http://www.youtube.com/watch?v=njc9TkwoorM",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Star_Wars_III:_The_Clone_Wars"
   },
   {
     "Artwork": {
@@ -67259,10 +67395,10 @@
       "Disc": [
         {
           "CRC32": "308428824",
-          "FileName": "9f476531-b247-46d3-b50d-5c082f1fa195.png",
+          "FileName": "r2_c44ef884-ba9c-4b59-8f9f-3617056df978.png",
           "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/9f476531-b247-46d3-b50d-5c082f1fa195.png"
+          "URL": "http://images.launchbox-app.com/r2_c44ef884-ba9c-4b59-8f9f-3617056df978.png"
         }
       ],
       "Other": [
@@ -69543,6 +69679,15 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/66df5d70-42f6-40d9-a1d1-36b728101194.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "3425369698",
+            "FileName": "r2_be427dd8-37f4-4a7a-9536-dd522474d718.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_be427dd8-37f4-4a7a-9536-dd522474d718.jpg"
+          }
         ]
       },
       "Disc": [
@@ -69555,10 +69700,10 @@
         },
         {
           "CRC32": "3771402712",
-          "FileName": "1a5c1a1b-6131-41ca-9950-26069bb1667c.jpg",
+          "FileName": "r2_fa6929cd-7c15-4520-8266-6ab7d0b64733.png",
           "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/1a5c1a1b-6131-41ca-9950-26069bb1667c.jpg"
+          "URL": "http://images.launchbox-app.com/r2_fa6929cd-7c15-4520-8266-6ab7d0b64733.png"
         }
       ],
       "Other": [
@@ -69575,6 +69720,22 @@
           "Region": "World",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/20de7e8c-d820-41ca-9b51-1bceb58fd78d.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "2175003263",
+          "FileName": "r2_0153282e-8891-4a40-9d11-53f6f71be944.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_0153282e-8891-4a40-9d11-53f6f71be944.png"
+        },
+        {
+          "CRC32": "3629936612",
+          "FileName": "r2_127d87cf-f6ea-488f-a886-169cd218a06f.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_127d87cf-f6ea-488f-a886-169cd218a06f.png"
         }
       ]
     },
@@ -102456,12 +102617,28 @@
             "URL": "http://images.launchbox-app.com/9c36c39f-b879-4e73-9773-06b0562c5a9d.png"
           }
         ],
+        "Back": [
+          {
+            "CRC32": "2766204516",
+            "FileName": "r2_3df7ad18-59f3-4818-bb5c-df0b2ec4d933.jpg",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_3df7ad18-59f3-4818-bb5c-df0b2ec4d933.jpg"
+          }
+        ],
         "Front": [
           {
             "CRC32": "1750512409",
             "FileName": "5ad0ed7a-d320-4b71-9eec-fcc48e14a9e1.jpg",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/5ad0ed7a-d320-4b71-9eec-fcc48e14a9e1.jpg"
+          },
+          {
+            "CRC32": "228324043",
+            "FileName": "r2_8dfb4a1c-cfff-476d-8d4b-7f1a52233ed2.jpg",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_8dfb4a1c-cfff-476d-8d4b-7f1a52233ed2.jpg"
           },
           {
             "CRC32": "1945262350",
@@ -102477,9 +102654,25 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_c404a7e8-fcd6-4325-a9c5-c06c4d876844.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1380414155",
+            "FileName": "r2_ad1309c2-4b5c-4b2e-b095-38ede5f7d2c5.jpg",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_ad1309c2-4b5c-4b2e-b095-38ede5f7d2c5.jpg"
+          }
         ]
       },
       "Disc": [
+        {
+          "CRC32": "1441388345",
+          "FileName": "r2_83e05530-c10c-42e4-8f66-78e5718dfc71.png",
+          "Region": "Europe",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_83e05530-c10c-42e4-8f66-78e5718dfc71.png"
+        },
         {
           "CRC32": "875581066",
           "FileName": "r2_1b3650bd-97d9-4e44-973d-ee58e0466da4.png",
@@ -103674,6 +103867,13 @@
           "FileName": "508e8081-0e75-4036-8d24-3b1203b0376a.png",
           "Type": "Arcade - Controls Information",
           "URL": "http://images.launchbox-app.com/508e8081-0e75-4036-8d24-3b1203b0376a.png"
+        },
+        {
+          "CRC32": "3720811507",
+          "FileName": "r2_84a8aa69-66aa-49a5-9f28-aebad6c1d3c8.jpg",
+          "Region": "World",
+          "Type": "Arcade - Marquee",
+          "URL": "http://images.launchbox-app.com/r2_84a8aa69-66aa-49a5-9f28-aebad6c1d3c8.jpg"
         }
       ],
       "Background": [
@@ -103693,6 +103893,15 @@
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "1024756859",
+            "FileName": "r2_eb003fa6-47d7-4d87-bf54-0209876706fc.png",
+            "Region": "World",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_eb003fa6-47d7-4d87-bf54-0209876706fc.png"
+          }
+        ],
         "Front": [
           {
             "CRC32": "1697917554",
@@ -103700,6 +103909,22 @@
             "Region": "World",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/19f74ce9-2051-4173-87f3-16948c4ddc9a.jpg"
+          },
+          {
+            "CRC32": "44400895",
+            "FileName": "r2_28db2823-3035-483d-bac5-4876da53086a.jpg",
+            "Region": "World",
+            "Type": "Fanart - Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_28db2823-3035-483d-bac5-4876da53086a.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1563517312",
+            "FileName": "r2_673374d2-841c-4a4b-9e54-4312740acdd0.jpg",
+            "Region": "World",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_673374d2-841c-4a4b-9e54-4312740acdd0.jpg"
           }
         ]
       },
@@ -103743,6 +103968,13 @@
           "FileName": "cbcadd2e-861b-48ad-8308-c21b9e4de02a.png",
           "Type": "Screenshot - Game Title",
           "URL": "http://images.launchbox-app.com/cbcadd2e-861b-48ad-8308-c21b9e4de02a.png"
+        },
+        {
+          "CRC32": "600429894",
+          "FileName": "r2_1a2ae076-2a19-4690-8fe2-73528127f54c.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_1a2ae076-2a19-4690-8fe2-73528127f54c.png"
         },
         {
           "CRC32": "1268523220",
@@ -135590,6 +135822,13 @@
             "Region": "Europe",
             "Type": "Box - 3D",
             "URL": "http://images.launchbox-app.com/5a4f6cd8-7940-47d1-8f90-f0649dbe3c1a.png"
+          },
+          {
+            "CRC32": "2404777669",
+            "FileName": "r2_1406b8c2-63d2-467f-8d0e-ef3b0990b5f8.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_1406b8c2-63d2-467f-8d0e-ef3b0990b5f8.png"
           }
         ],
         "Back": [
@@ -135599,6 +135838,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_6c919e0c-7e8c-4f0f-bf9f-e9217ccec55d.jpg"
+          },
+          {
+            "CRC32": "132762497",
+            "FileName": "r2_0ca38f46-8dfb-44e8-b2d4-8f183d20bcb3.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_0ca38f46-8dfb-44e8-b2d4-8f183d20bcb3.jpg"
           }
         ],
         "Front": [
@@ -135630,6 +135876,15 @@
             "Type": "Fanart - Box - Front",
             "URL": "http://images.launchbox-app.com/02dce335-f1bb-4dc5-9685-a04c8d147954.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "2817766264",
+            "FileName": "r2_57d6786e-0f36-412e-a936-daa346af3678.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_57d6786e-0f36-412e-a936-daa346af3678.jpg"
+          }
         ]
       },
       "Disc": [
@@ -135643,30 +135898,55 @@
       ],
       "Other": [
         {
-          "CRC32": "1100457841",
-          "FileName": "76e8c56f-151a-47d7-a96b-11fdba7ba4d5.png",
-          "Type": "Clear Logo",
-          "URL": "http://images.launchbox-app.com/76e8c56f-151a-47d7-a96b-11fdba7ba4d5.png"
-        },
-        {
           "CRC32": "1356090437",
           "FileName": "d12f6047-ebdd-47e7-b287-af459a4aab22.png",
           "Region": "Spain",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/d12f6047-ebdd-47e7-b287-af459a4aab22.png"
+        },
+        {
+          "CRC32": "1100457841",
+          "FileName": "r2_f562cbe1-f05a-40c7-8225-66493e02f21b.png",
+          "Region": "World",
+          "Type": "Clear Logo",
+          "URL": "http://images.launchbox-app.com/r2_f562cbe1-f05a-40c7-8225-66493e02f21b.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "1080308125",
+          "FileName": "r2_3528f282-4ddf-457b-aa62-0c9d84498134.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_3528f282-4ddf-457b-aa62-0c9d84498134.png"
+        },
+        {
+          "CRC32": "4129775502",
+          "FileName": "r2_33b3b9ff-f238-48d9-826a-8a4c55dd934c.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_33b3b9ff-f238-48d9-826a-8a4c55dd934c.png"
+        },
+        {
+          "CRC32": "2312678983",
+          "FileName": "r2_ee691b9e-5989-48f0-b569-99e1b027ebc1.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_ee691b9e-5989-48f0-b569-99e1b027ebc1.png"
         }
       ]
     },
     "CommunityRating": "4",
     "DatabaseID": "22680",
-    "Developer": "Warner Bros. Interactive Entertainment",
+    "Developer": "Traveller's Tales",
     "ESRB": "E10+ - Everyone 10+",
     "Genres": "Action; Adventure",
     "Name": "LEGO Batman 3: Beyond Gotham",
     "Overview": "The best-selling LEGO Batman videogame franchise returns in an out-of-this-world, action-packed adventure! In LEGO Batman 3: Beyond Gotham, the Caped Crusader joins forces with the super heroes of the DC Comics universe and blasts off to outer space to stop the evil Brainiac from destroying Earth. Using the power of the Lantern Rings, Brainiac shrinks worlds to add to his twisted collection of miniature cities from across the universe. Now the greatest super heroes and the most cunning villains must unite and journey to different Lantern Worlds to collect the Lantern Rings and stop Brainiac before it's too late.",
     "Publisher": "Warner Bros. Interactive Entertainment",
     "ReleaseDate": "2014-12-31",
-    "VideoURL": "http://www.youtube.com/watch?v=7bsHsp2WXUI"
+    "VideoURL": "http://www.youtube.com/watch?v=7bsHsp2WXUI",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Batman_3:_Beyond_Gotham"
   },
   {
     "Artwork": {
@@ -170870,28 +171150,28 @@
             "URL": "http://images.launchbox-app.com/r2_b3c2fe3d-6291-497b-8d67-5d76b6cfa7fd.jpg"
           },
           {
-            "CRC32": "3283190727",
-            "FileName": "466de963-568a-4784-99da-51adff08d452.png",
-            "Region": "North America",
-            "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/466de963-568a-4784-99da-51adff08d452.png"
-          },
-          {
             "CRC32": "2772304570",
             "FileName": "63689caa-eaa8-420c-8a0c-53325e291172.png",
             "Region": "North America",
             "Type": "Box - Front - Reconstructed",
             "URL": "http://images.launchbox-app.com/63689caa-eaa8-420c-8a0c-53325e291172.png"
+          },
+          {
+            "CRC32": "3283190727",
+            "FileName": "466de963-568a-4784-99da-51adff08d452.png",
+            "Region": "North America",
+            "Type": "Fanart - Box - Front",
+            "URL": "http://images.launchbox-app.com/466de963-568a-4784-99da-51adff08d452.png"
           }
         ]
       },
       "Disc": [
         {
           "CRC32": "2257357278",
-          "FileName": "d9214034-998b-43fe-88e9-6dbfa585b07a.png",
+          "FileName": "r2_8cb4be75-41d1-4627-ace2-f767090e1dc2.png",
           "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/d9214034-998b-43fe-88e9-6dbfa585b07a.png"
+          "URL": "http://images.launchbox-app.com/r2_8cb4be75-41d1-4627-ace2-f767090e1dc2.png"
         }
       ],
       "Other": [
@@ -170946,7 +171226,8 @@
     "Name": "LEGO Star Wars: The Force Awakens",
     "Overview": "The Force Awakens is the fifth game in the LEGO Star Wars franchise. The story is primarily based on the 2015 movie Star Wars: The Force Awakens, but also includes additional content that introduces a storyline bridging the events of Return of the Jedi and The Force Awakens. That way players get to relive the experiences from The Force Awakens, but also play with a new plot between the final events of the original trilogy and the sequels. As with all TT LEGO adaptations there is also a large amount of humour.\n\nThe Gameplay is similar to previous LEGO Star Wars games where players interact in a LEGO-themed Star Wars universe filled with action, platforming, and puzzle-solving. Over 200 playable characters are available in this game, including Rey, Kylo Ren, Finn, Captain Phasma, Poe Dameron, BB-8, and many more. Each player has their unique abilities for completing the various puzzles you will encounter throughout the campaign, including new ways to incorporate droids and Jedis into these challenges. For example, some droids will manipulate the hardware for moving platforms to allow the other player to advance.\n\nThe levels also alter in theme, from areas relying heavily on the game's platform, puzzle-solving mechanics to large spaceship battles to cover-based shootouts during combat against stormtroopers. The hub world is a galaxy in which each planet is its own world with the chapters, as well as additional missions, some of which add to the storyline of the Star Wars universe, bridging the events between the original trilogy and the sequels, as previously mentioned.",
     "Publisher": "Warner Bros. Interactive Entertainment",
-    "ReleaseDate": "2016-06-28"
+    "ReleaseDate": "2016-06-28",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Force_Awakens"
   },
   {
     "Artwork": {

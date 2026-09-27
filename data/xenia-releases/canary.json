@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "9a0474a",
+    "target_commitish": "9a0474a2f8fa392851279146a86e540496cac006",
+    "published_at": "2026-09-27T00:44:34Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9a0474a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9a0474a2f8fa392851279146a86e540496cac006",
+    "changelog": {
+      "title": "9a0474a_canary_experimental",
+      "changes": "- [XAM] - Add missing X_MARKETPLACE_ENTRYPOINT,  X_MODULE_FLAGS, and more CreateThreadFlags (`9a0474a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d8731ed...9a0474a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9a0474a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9a0474a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "d8731ed",
+    "target_commitish": "d8731edc99ecc438eb4cd1a8754341d7396a061e",
+    "published_at": "2026-09-26T23:54:11Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d8731ed",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d8731edc99ecc438eb4cd1a8754341d7396a061e",
+    "changelog": {
+      "title": "d8731ed_canary_experimental",
+      "changes": "- [GPU] RB_COPY_SURFACE_SLICE for volume resolve slice spacing (`d8731ed`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c9c8e48...d8731ed"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d8731ed/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d8731ed/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "c9c8e48",
     "target_commitish": "c9c8e483b13249ba5f0060fc4b36071da6d67261",
     "published_at": "2026-09-22T18:12:59Z",

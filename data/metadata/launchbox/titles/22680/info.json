@@ -40,6 +40,13 @@
           "Region": "Europe",
           "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/5a4f6cd8-7940-47d1-8f90-f0649dbe3c1a.png"
+        },
+        {
+          "CRC32": "2404777669",
+          "FileName": "r2_1406b8c2-63d2-467f-8d0e-ef3b0990b5f8.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_1406b8c2-63d2-467f-8d0e-ef3b0990b5f8.png"
         }
       ],
       "Back": [
@@ -49,6 +56,13 @@
           "Region": "Germany",
           "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_6c919e0c-7e8c-4f0f-bf9f-e9217ccec55d.jpg"
+        },
+        {
+          "CRC32": "132762497",
+          "FileName": "r2_0ca38f46-8dfb-44e8-b2d4-8f183d20bcb3.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_0ca38f46-8dfb-44e8-b2d4-8f183d20bcb3.jpg"
         }
       ],
       "Front": [
@@ -80,6 +94,15 @@
           "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/02dce335-f1bb-4dc5-9685-a04c8d147954.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "2817766264",
+          "FileName": "r2_57d6786e-0f36-412e-a936-daa346af3678.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_57d6786e-0f36-412e-a936-daa346af3678.jpg"
+        }
       ]
     },
     "Disc": [
@@ -93,28 +116,53 @@
     ],
     "Other": [
       {
-        "CRC32": "1100457841",
-        "FileName": "76e8c56f-151a-47d7-a96b-11fdba7ba4d5.png",
-        "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/76e8c56f-151a-47d7-a96b-11fdba7ba4d5.png"
-      },
-      {
         "CRC32": "1356090437",
         "FileName": "d12f6047-ebdd-47e7-b287-af459a4aab22.png",
         "Region": "Spain",
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/d12f6047-ebdd-47e7-b287-af459a4aab22.png"
+      },
+      {
+        "CRC32": "1100457841",
+        "FileName": "r2_f562cbe1-f05a-40c7-8225-66493e02f21b.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_f562cbe1-f05a-40c7-8225-66493e02f21b.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1080308125",
+        "FileName": "r2_3528f282-4ddf-457b-aa62-0c9d84498134.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_3528f282-4ddf-457b-aa62-0c9d84498134.png"
+      },
+      {
+        "CRC32": "4129775502",
+        "FileName": "r2_33b3b9ff-f238-48d9-826a-8a4c55dd934c.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_33b3b9ff-f238-48d9-826a-8a4c55dd934c.png"
+      },
+      {
+        "CRC32": "2312678983",
+        "FileName": "r2_ee691b9e-5989-48f0-b569-99e1b027ebc1.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_ee691b9e-5989-48f0-b569-99e1b027ebc1.png"
       }
     ]
   },
   "CommunityRating": "4",
   "DatabaseID": "22680",
-  "Developer": "Warner Bros. Interactive Entertainment",
+  "Developer": "Traveller's Tales",
   "ESRB": "E10+ - Everyone 10+",
   "Genres": "Action; Adventure",
   "Name": "LEGO Batman 3: Beyond Gotham",
   "Overview": "The best-selling LEGO Batman videogame franchise returns in an out-of-this-world, action-packed adventure! In LEGO Batman 3: Beyond Gotham, the Caped Crusader joins forces with the super heroes of the DC Comics universe and blasts off to outer space to stop the evil Brainiac from destroying Earth. Using the power of the Lantern Rings, Brainiac shrinks worlds to add to his twisted collection of miniature cities from across the universe. Now the greatest super heroes and the most cunning villains must unite and journey to different Lantern Worlds to collect the Lantern Rings and stop Brainiac before it's too late.",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "ReleaseDate": "2014-12-31",
-  "VideoURL": "http://www.youtube.com/watch?v=7bsHsp2WXUI"
+  "VideoURL": "http://www.youtube.com/watch?v=7bsHsp2WXUI",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Batman_3:_Beyond_Gotham"
 }

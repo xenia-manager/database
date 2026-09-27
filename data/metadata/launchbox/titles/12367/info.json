@@ -1,5 +1,14 @@
 {
   "Artwork": {
+    "Banner": [
+      {
+        "CRC32": "1301081895",
+        "FileName": "r2_e78be87e-b153-4dea-ad4a-88841366622f.png",
+        "Region": "World",
+        "Type": "Banner",
+        "URL": "http://images.launchbox-app.com/r2_e78be87e-b153-4dea-ad4a-88841366622f.png"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -17,6 +26,13 @@
           "Region": "Germany",
           "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_15f7ada6-2a78-4021-9109-f427974a5a49.jpg"
+        },
+        {
+          "CRC32": "3475731072",
+          "FileName": "r2_05c69bab-6a05-4f76-a651-c5797c05a8e6.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_05c69bab-6a05-4f76-a651-c5797c05a8e6.jpg"
         }
       ],
       "Front": [
@@ -27,9 +43,25 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/a877199a-4c29-4625-be29-1cffbb642daa.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "547359796",
+          "FileName": "r2_e88a4a53-dadd-4f07-b7ac-da37347b341d.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_e88a4a53-dadd-4f07-b7ac-da37347b341d.jpg"
+        }
       ]
     },
     "Disc": [
+      {
+        "CRC32": "3525630895",
+        "FileName": "r2_478b9fa3-8faf-44ff-bf59-70da32bef04b.png",
+        "Region": "North America",
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_478b9fa3-8faf-44ff-bf59-70da32bef04b.png"
+      },
       {
         "CRC32": "203295120",
         "FileName": "c83f632f-8c21-4035-a6b0-18d2802a23a0.png",
@@ -41,19 +73,64 @@
     "Other": [
       {
         "CRC32": "2798707930",
-        "FileName": "f361b595-a95c-48e9-bc7a-b4fe9936128b.png",
+        "FileName": "r2_41969c9d-3851-48dd-8408-54a0bb1a2a9f.png",
+        "Region": "World",
         "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/f361b595-a95c-48e9-bc7a-b4fe9936128b.png"
+        "URL": "http://images.launchbox-app.com/r2_41969c9d-3851-48dd-8408-54a0bb1a2a9f.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3105267771",
+        "FileName": "r2_32f2bdbb-2fdd-4ce9-b772-0920bc3faa64.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_32f2bdbb-2fdd-4ce9-b772-0920bc3faa64.png"
+      },
+      {
+        "CRC32": "3006847785",
+        "FileName": "r2_ec9d03f8-3093-4ba1-81d9-52b968f04f55.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_ec9d03f8-3093-4ba1-81d9-52b968f04f55.png"
+      },
+      {
+        "CRC32": "2072137175",
+        "FileName": "r2_8e462290-1321-44eb-ab92-9c7782931527.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_8e462290-1321-44eb-ab92-9c7782931527.png"
+      },
+      {
+        "CRC32": "721563022",
+        "FileName": "r2_bb54229d-0924-42cc-a950-10217e63ae51.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_bb54229d-0924-42cc-a950-10217e63ae51.png"
+      },
+      {
+        "CRC32": "995308649",
+        "FileName": "r2_d03221f9-bd4e-4c41-8cfe-23b56a69ae98.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_d03221f9-bd4e-4c41-8cfe-23b56a69ae98.png"
+      },
+      {
+        "CRC32": "2712019036",
+        "FileName": "r2_dab5665c-078d-4c70-9487-5419553af636.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_dab5665c-078d-4c70-9487-5419553af636.png"
       }
     ]
   },
   "CommunityRating": "4.0625",
   "DatabaseID": "12367",
-  "Developer": "Electronic Arts",
+  "Developer": "Electronic Arts Redwood Shores Studio",
   "ESRB": "M - Mature",
-  "Genres": "Action",
+  "Genres": "Action; Shooter",
   "Name": "The Godfather II",
-  "Overview": "After being promoted by Michael Corleone to Don of New York, players expand to new cities, as they build up their families through extorting businesses, monopolizing illegal crime rings and defeating new families in an effort to become the most powerful mob family in America. To help players manage their empire, The Godfather II introduces \"The Don's View\" - an innovative strategy meta-game that allows players to oversee the entire world as they grow the family business. Using the Don's View, players will be able to build, defend and expand their crime rings, while keeping an eye on the movements and plans of the rival families. Players will also learn to master the business of organized crime by building a family of Made Men, hiring crew, handing out orders, and promoting their best men up the ranks. Set in a stunning open-world environment, The Godfather II expands on the popular gameplay mechanics of the first game and doubles down on the series' signature BlackHand control scheme, which now features even more visceral hand-to-hand brutality at your fingertips, introducing a new combo system, pressure tactics and executions. In The Godfather II, players fight alongside their hand-picked crew, who have their own skills and expertise. Each family member specializes in a specific field such as demolitions, arson, engineering, first-aid and more. As The Don you control the family, sending some of your men on missions while heading off into action with others. The combination of strategic organized crime gameplay and brutal BlackHand action promises to set The Godfather II apart from other open-world games. Play The Godfather II online multiplayer modes and become the true Don of Dons. Take your money, weapons, and crew from your single-player experience online and wage mob warfare against up to 16 players from around the world. Play as one of the family's crew specialists and put your best strategies to the test as you take over territory and strike back at rivals. Earn upgrades and money that can be used in your single-player experience.",
+  "Overview": "The Godfather II game goes beyond the film's story by setting players in the world of organized crime in 1960’s Florida, Cuba and New York.\n\nAfter being promoted by Michael Corleone to Don of New York, players expand to new cities, as they build up their families through extorting businesses, monopolizing illegal crime rings and defeating new families in an effort to become the most powerful mob family in America. To help players manage their empire, The Godfather II introduces \"The Don's View\" -- an innovative strategy meta-game that allows players to oversee the entire world as they grow the family business. Using the Don's View, players will be able to build, defend and expand their crime rings, while keeping an eye on the movements and plans of the rival families. Players will also learn to master the business of organized crime by building a family of Made Men, hiring crew, handing out orders, and promoting their best men up the ranks.",
   "Publisher": "Electronic Arts",
   "ReleaseDate": "2009-04-07",
   "VideoURL": "https://en.wikipedia.org/wiki/The_Godfather_II_(video_game)",

@@ -2,20 +2,30 @@
   "Artwork": {
     "Background": [
       {
-        "CRC32": "949017363",
-        "FileName": "95a2705f-e09d-4932-be1d-59d2e3dbdc7a.jpg",
-        "Type": "Fanart - Background",
-        "URL": "http://images.launchbox-app.com/95a2705f-e09d-4932-be1d-59d2e3dbdc7a.jpg"
-      },
-      {
         "CRC32": "3634163027",
         "FileName": "d207cce2-dee7-4a00-99f5-928eeb8b4974.jpg",
         "Region": "Spain",
         "Type": "Fanart - Background",
         "URL": "http://images.launchbox-app.com/d207cce2-dee7-4a00-99f5-928eeb8b4974.jpg"
+      },
+      {
+        "CRC32": "949017363",
+        "FileName": "r2_f9405945-74a4-45b2-bd75-2dee29d1cbbd.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_f9405945-74a4-45b2-bd75-2dee29d1cbbd.jpg"
       }
     ],
     "Box": {
+      "3D": [
+        {
+          "CRC32": "1222180656",
+          "FileName": "r2_1a7a4c50-f26c-49d4-bc18-bb560f3da03f.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_1a7a4c50-f26c-49d4-bc18-bb560f3da03f.png"
+        }
+      ],
       "Back": [
         {
           "CRC32": "3238904997",
@@ -33,10 +43,10 @@
         },
         {
           "CRC32": "46770312",
-          "FileName": "r2_493d4b7d-769e-485f-a474-d43eb7c5d112.jpg",
+          "FileName": "r2_5de16e63-14f9-4eb5-aff9-9fc1f514a267.jpg",
           "Region": "North America",
           "Type": "Box - Back",
-          "URL": "http://images.launchbox-app.com/r2_493d4b7d-769e-485f-a474-d43eb7c5d112.jpg"
+          "URL": "http://images.launchbox-app.com/r2_5de16e63-14f9-4eb5-aff9-9fc1f514a267.jpg"
         }
       ],
       "Front": [
@@ -61,15 +71,24 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/df289247-2206-4ad2-9288-0d8911942a2b.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "2559808606",
+          "FileName": "r2_a8f3c23c-7dc2-4d7f-ad64-c18aac5afa62.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_a8f3c23c-7dc2-4d7f-ad64-c18aac5afa62.jpg"
+        }
       ]
     },
     "Disc": [
       {
         "CRC32": "1273070534",
-        "FileName": "1a80bee7-d771-4dc7-84b6-1bc3797ee521.jpg",
-        "Region": "United States",
+        "FileName": "r2_7000bda6-29ab-456d-97ba-de205c1be28a.png",
+        "Region": "North America",
         "Type": "Disc",
-        "URL": "http://images.launchbox-app.com/1a80bee7-d771-4dc7-84b6-1bc3797ee521.jpg"
+        "URL": "http://images.launchbox-app.com/r2_7000bda6-29ab-456d-97ba-de205c1be28a.png"
       }
     ],
     "Other": [
@@ -95,6 +114,13 @@
     ],
     "Screenshots": [
       {
+        "CRC32": "2775302512",
+        "FileName": "r2_d9c96da0-1974-4b3a-bb22-d3c316349994.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_d9c96da0-1974-4b3a-bb22-d3c316349994.png"
+      },
+      {
         "CRC32": "3511113478",
         "FileName": "f6b12d18-9cac-44d3-99a3-81da93172374.jpg",
         "Type": "Screenshot - Game Title",
@@ -106,9 +132,10 @@
   "DatabaseID": "12746",
   "Developer": "Traveller's Tales (UK)",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
+  "Genres": "Action; Adventure",
   "Name": "LEGO Harry Potter: Years 5-7",
   "Overview": "The LEGO version of literary and film sensation Harry Potter comes to a conclusion with Years 5-7, introducing new locales, characters, and challenges to players as they battle the forces of evil. In contrast with the first LEGO Harry Potter, Years 5-7 features more exploration, puzzle-solving sequences, and magic. In addition to Hogwarts, Diagon Alley, and Hogsmeade, players will visit such venues as Grimmauld Place, the Ministry of Magic, and Godric's Hollow as they prepare for the final confrontation with Lord Voldemort. Of course, the LEGO series is known for its humorous spin on familiar events, and players can expect the same whimsical approach to the cinematics and encounters as in previous entries.",
   "Publisher": "Warner Bros. Interactive Entertainment",
-  "ReleaseDate": "2011-11-11"
+  "ReleaseDate": "2011-11-11",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Harry_Potter:_Years_5%E2%80%937"
 }
