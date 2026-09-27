@@ -1,17 +1,31 @@
 [
   {
+    "issue": 1234,
+    "id": "4C5307F1",
+    "title": "SBK Generations",
+    "updated": "2026-09-27T12:20:53Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-readback"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1234"
+  },
+  {
     "issue": 1233,
     "id": "4C5307D3",
     "title": "Superstars\u00ae V8 Racing",
-    "updated": "2026-09-26T13:48:41Z",
-    "state": "Playable",
+    "updated": "2026-09-27T09:09:06Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-playable"
+        "state-gameplay"
       ],
-      "others": [
-        "gpu-occlusion-query"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1233"
   },
@@ -47,13 +61,15 @@
     "issue": 1230,
     "id": "4C5307D8",
     "title": "Superstars\u00ae V8 NC",
-    "updated": "2026-09-25T19:44:17Z",
-    "state": "Gameplay",
+    "updated": "2026-09-27T09:08:48Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
-      "others": []
+      "others": [
+        "gpu-occlusion-query"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1230"
   },
@@ -3319,7 +3335,7 @@
     "issue": 984,
     "id": "5841127D",
     "title": "Naughty Bear: Panic In Paradise",
-    "updated": "2025-12-24T21:41:46Z",
+    "updated": "2026-09-27T07:47:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6809,7 +6825,7 @@
     "issue": 760,
     "id": "4541099D",
     "title": "Dead Space 3",
-    "updated": "2026-09-27T00:24:44Z",
+    "updated": "2026-09-27T12:52:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6817,6 +6833,7 @@
       ],
       "others": [
         "apu-silent",
+        "regression",
         "gpu-occlusion-query"
       ]
     },
