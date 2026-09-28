@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "c332733",
+    "target_commitish": "c332733afd14ed3aeb08b38d0cabffa58d1c8c2f",
+    "published_at": "2026-09-27T19:51:53Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c332733",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c332733afd14ed3aeb08b38d0cabffa58d1c8c2f",
+    "changelog": {
+      "title": "c332733_canary_experimental",
+      "changes": "- [GPU] Find exact tiled 3D upper bounds (`c332733`)\n- [GPU] Use rounded dimensions for packed base slice strides (`81e3dea`)\n- [GPU] Use the base address for level 0 packed mip tails (`ace153c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9a0474a...c332733"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c332733/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c332733/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "9a0474a",
     "target_commitish": "9a0474a2f8fa392851279146a86e540496cac006",
     "published_at": "2026-09-27T00:44:34Z",
