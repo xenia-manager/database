@@ -1897,14 +1897,13 @@
     "issue": 1091,
     "id": "45410852",
     "title": "The Lord of the Rings: Conquest",
-    "updated": "2026-05-08T11:10:19Z",
+    "updated": "2026-09-28T17:42:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-readback",
         "splitscreen-working"
       ]
@@ -2727,14 +2726,13 @@
     "issue": 1031,
     "id": "45410829",
     "title": "Rock Band",
-    "updated": "2026-03-30T06:27:39Z",
+    "updated": "2026-09-28T17:37:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-readback",
         "tech-microphone-optional"
       ]
@@ -2775,14 +2773,13 @@
     "issue": 1028,
     "id": "454108B1",
     "title": "The Beatles: Rock Band",
-    "updated": "2026-03-30T06:26:09Z",
-    "state": "Gameplay",
+    "updated": "2026-09-28T18:32:03Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "apu-slow",
         "tech-microphone-optional"
       ]
     },
@@ -12076,15 +12073,13 @@
     "issue": 421,
     "id": "4B4E0845",
     "title": "Silent Hill 3",
-    "updated": "2025-12-31T17:43:49Z",
+    "updated": "2026-09-28T17:35:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-drawing-corrupt"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/421"
   },
@@ -14194,14 +14189,13 @@
     "issue": 297,
     "id": "434307DF",
     "title": "Devil May Cry 4",
-    "updated": "2026-05-24T19:06:02Z",
+    "updated": "2026-09-28T17:55:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-mt",
         "backwards-compatibility-unsupported",
         "vsync-off-speedup"
