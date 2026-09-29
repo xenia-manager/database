@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "1c5059d",
+    "target_commitish": "1c5059dccfae09a37f35b6719c4493093ec5b60c",
+    "published_at": "2026-09-29T19:44:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1c5059d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1c5059dccfae09a37f35b6719c4493093ec5b60c",
+    "changelog": {
+      "title": "1c5059d_canary_experimental",
+      "changes": "- [XAM/XMP] - Stub XMPGetMediaSource (`1c5059d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/04085ef...1c5059d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1c5059d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1c5059d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "04085ef",
     "target_commitish": "04085efaafcfb8907749f200514c21433db2ebeb",
     "published_at": "2026-09-29T06:57:22Z",
