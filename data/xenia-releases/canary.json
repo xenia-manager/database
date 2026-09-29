@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "04085ef",
+    "target_commitish": "04085efaafcfb8907749f200514c21433db2ebeb",
+    "published_at": "2026-09-29T06:57:22Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/04085ef",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/04085efaafcfb8907749f200514c21433db2ebeb",
+    "changelog": {
+      "title": "04085ef_canary_experimental",
+      "changes": "- [D3D12] Clamp stacked-texture layer index for Inf/NaN coords (`04085ef`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/3390fc2...04085ef"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/04085ef/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/04085ef/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "3390fc2",
+    "target_commitish": "3390fc219b32be4a87777ddd72217259b24dc09e",
+    "published_at": "2026-09-29T05:15:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/3390fc2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/3390fc219b32be4a87777ddd72217259b24dc09e",
+    "changelog": {
+      "title": "3390fc2_canary_experimental",
+      "changes": "- [GPU] Add round-toward-zero cvar for mulsc (`3390fc2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c332733...3390fc2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3390fc2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3390fc2/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "c332733",
     "target_commitish": "c332733afd14ed3aeb08b38d0cabffa58d1c8c2f",
     "published_at": "2026-09-27T19:51:53Z",
