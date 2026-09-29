@@ -1,19 +1,47 @@
 {
   "Artwork": {
     "Box": {
-      "Front": [
+      "3D": [
         {
-          "CRC32": "2770594883",
-          "FileName": "ca727b1c-06de-43de-a34b-7d08542600ef.jpg",
-          "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/ca727b1c-06de-43de-a34b-7d08542600ef.jpg"
-        },
+          "CRC32": "3263584806",
+          "FileName": "r2_170b76c7-593e-435e-b150-50027e720f68.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_170b76c7-593e-435e-b150-50027e720f68.png"
+        }
+      ],
+      "Back": [
+        {
+          "CRC32": "3354537818",
+          "FileName": "r2_8681d45f-ad60-4d22-9443-72ca4b04a268.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_8681d45f-ad60-4d22-9443-72ca4b04a268.jpg"
+        }
+      ],
+      "Front": [
         {
           "CRC32": "3746243065",
           "FileName": "r2_ee193fe3-f128-496e-8381-0e8645e19942.jpg",
           "Region": "Germany",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_ee193fe3-f128-496e-8381-0e8645e19942.jpg"
+        },
+        {
+          "CRC32": "2770594883",
+          "FileName": "r2_42600596-0870-46a8-9e83-dad188f1410c.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_42600596-0870-46a8-9e83-dad188f1410c.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "647446649",
+          "FileName": "r2_0dc7f0e7-2ac2-42c5-9a3a-c44a2fac0d04.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_0dc7f0e7-2ac2-42c5-9a3a-c44a2fac0d04.jpg"
         }
       ]
     },
@@ -24,6 +52,59 @@
         "Region": "Australia",
         "Type": "Disc",
         "URL": "http://images.launchbox-app.com/a8fb86e2-d58f-4a1a-a113-95f297c32352.png"
+      },
+      {
+        "CRC32": "286513165",
+        "FileName": "r2_5b4df814-2e0e-4fac-b84d-84e513225bf4.png",
+        "Region": "North America",
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_5b4df814-2e0e-4fac-b84d-84e513225bf4.png"
+      }
+    ],
+    "Other": [
+      {
+        "CRC32": "1923662926",
+        "FileName": "r2_02006026-491d-43ad-b9be-a1c60077e035.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_02006026-491d-43ad-b9be-a1c60077e035.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1108255149",
+        "FileName": "r2_1c8bc4d3-92cb-479c-8a73-4ab713d41fdc.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_1c8bc4d3-92cb-479c-8a73-4ab713d41fdc.png"
+      },
+      {
+        "CRC32": "2712577836",
+        "FileName": "r2_6a469355-c01e-4b7c-b9db-a4d5b1842500.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_6a469355-c01e-4b7c-b9db-a4d5b1842500.png"
+      },
+      {
+        "CRC32": "2146038180",
+        "FileName": "r2_3ec6d35b-7233-4772-b7e2-7e7c8dc29e2d.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_3ec6d35b-7233-4772-b7e2-7e7c8dc29e2d.png"
+      },
+      {
+        "CRC32": "609123632",
+        "FileName": "r2_45eaa35f-c747-4162-ba75-4fee5524dde8.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_45eaa35f-c747-4162-ba75-4fee5524dde8.png"
+      },
+      {
+        "CRC32": "4098143411",
+        "FileName": "r2_e6ea8ce0-3c18-477e-b8d9-01dc1ac8243f.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_e6ea8ce0-3c18-477e-b8d9-01dc1ac8243f.png"
       }
     ]
   },

@@ -1,13 +1,40 @@
 {
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "3390666739",
+        "FileName": "r2_2e580d33-ae6d-4ef7-86ed-631b23b9f29a.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_2e580d33-ae6d-4ef7-86ed-631b23b9f29a.jpg"
+      }
+    ],
     "Box": {
+      "3D": [
+        {
+          "CRC32": "2562534124",
+          "FileName": "r2_7144707a-994d-4dce-910f-ae8c56320cf0.png",
+          "Region": "World",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_7144707a-994d-4dce-910f-ae8c56320cf0.png"
+        }
+      ],
       "Front": [
         {
           "CRC32": "3858718140",
-          "FileName": "a5327d27-cb8f-49a8-87bb-2d69b122ad98.jpg",
+          "FileName": "r2_2babc8e6-dee4-4c9f-945a-25625d0f9767.jpg",
           "Region": "World",
           "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/a5327d27-cb8f-49a8-87bb-2d69b122ad98.jpg"
+          "URL": "http://images.launchbox-app.com/r2_2babc8e6-dee4-4c9f-945a-25625d0f9767.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "666642035",
+          "FileName": "r2_cbbfc5c2-027d-468a-b101-736142a9bb74.jpg",
+          "Region": "World",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_cbbfc5c2-027d-468a-b101-736142a9bb74.jpg"
         }
       ]
     },
@@ -18,6 +45,36 @@
         "Region": "World",
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/8f612737-784f-49ce-b8f5-97fade84005b.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "700957160",
+        "FileName": "r2_8c32d6af-77ff-4428-8211-d1ec4198599e.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_8c32d6af-77ff-4428-8211-d1ec4198599e.png"
+      },
+      {
+        "CRC32": "1453592862",
+        "FileName": "r2_f0390942-4578-4ee5-8138-a7fb51045ede.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_f0390942-4578-4ee5-8138-a7fb51045ede.png"
+      },
+      {
+        "CRC32": "777780305",
+        "FileName": "r2_892e5a10-e2df-412d-b752-e90cf6ae41f9.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_892e5a10-e2df-412d-b752-e90cf6ae41f9.png"
+      },
+      {
+        "CRC32": "2433151258",
+        "FileName": "r2_e06eda02-9ca0-4f28-b921-df6440c85215.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_e06eda02-9ca0-4f28-b921-df6440c85215.png"
       }
     ]
   },

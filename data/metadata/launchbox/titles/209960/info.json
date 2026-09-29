@@ -1,6 +1,24 @@
 {
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "4199779144",
+        "FileName": "r2_2ed78e67-bb19-42bb-a947-881d1cdb22ba.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_2ed78e67-bb19-42bb-a947-881d1cdb22ba.jpg"
+      }
+    ],
     "Box": {
+      "3D": [
+        {
+          "CRC32": "2824726827",
+          "FileName": "r2_a640a2f9-14ec-4d29-b5f9-45b29755e21b.png",
+          "Region": "World",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_a640a2f9-14ec-4d29-b5f9-45b29755e21b.png"
+        }
+      ],
       "Front": [
         {
           "CRC32": "3067803305",
@@ -8,9 +26,85 @@
           "Region": "World",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1f129892-73dd-4a12-83bc-e3c355882da3.jpg"
+        },
+        {
+          "CRC32": "102578778",
+          "FileName": "r2_7db48b60-9cae-46c3-9d5b-cee7c83360a9.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_7db48b60-9cae-46c3-9d5b-cee7c83360a9.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "124623469",
+          "FileName": "r2_0a2517d8-c3ea-4415-94a2-60b850196b3b.jpg",
+          "Region": "World",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_0a2517d8-c3ea-4415-94a2-60b850196b3b.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "CRC32": "2946651613",
+        "FileName": "r2_0de74904-06dc-42ca-b8ad-d51fe96bac02.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_0de74904-06dc-42ca-b8ad-d51fe96bac02.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "766225546",
+        "FileName": "r2_8b22383f-38d7-4921-a16f-330f0bac6e1e.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Over",
+        "URL": "http://images.launchbox-app.com/r2_8b22383f-38d7-4921-a16f-330f0bac6e1e.png"
+      },
+      {
+        "CRC32": "4103299089",
+        "FileName": "r2_17394646-132c-4a3a-ae77-3c28a31cc7fd.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_17394646-132c-4a3a-ae77-3c28a31cc7fd.png"
+      },
+      {
+        "CRC32": "1134693226",
+        "FileName": "r2_a35b084e-baa6-4dc4-9b99-335ef118381f.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_a35b084e-baa6-4dc4-9b99-335ef118381f.png"
+      },
+      {
+        "CRC32": "2334088649",
+        "FileName": "r2_d7bae335-f4ae-4d93-b47c-1459c1b7d7f8.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_d7bae335-f4ae-4d93-b47c-1459c1b7d7f8.png"
+      },
+      {
+        "CRC32": "776885762",
+        "FileName": "r2_ab470204-f198-47f7-8430-5f82b0ad058d.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_ab470204-f198-47f7-8430-5f82b0ad058d.png"
+      },
+      {
+        "CRC32": "3998680740",
+        "FileName": "r2_dfbe2c03-d20c-4dec-ab8b-d93f9fc9167e.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_dfbe2c03-d20c-4dec-ab8b-d93f9fc9167e.png"
+      },
+      {
+        "CRC32": "3831655574",
+        "FileName": "r2_239a34cf-32c0-4fba-999e-b7909fb70392.png",
+        "Region": "World",
+        "Type": "Screenshot - High Scores",
+        "URL": "http://images.launchbox-app.com/r2_239a34cf-32c0-4fba-999e-b7909fb70392.png"
+      }
+    ]
   },
   "CommunityRating": "3.77272727272727",
   "DatabaseID": "209960",
@@ -20,5 +114,6 @@
   "Name": "Street Fighter II: Hyper Fighting",
   "Overview": "Choose your fighter and defeat all 12 opponents to become world champion! Recognized as one of the best games of all time, Street Fighter® II' Hyper Fighting defined the fighting genre. Now on Xbox Live Arcade, it's completely revamped with HDTV support, Achievements, Leaderboards, and multiplayer over Xbox Live. An all new \"Quarter Match\" mode pays tribute to the title's arcade roots. Upgrade to the full game! Unlock your ability to earn achievements and track your high scores on the Xbox Live Leaderboards.",
   "Publisher": "Capcom",
-  "ReleaseDate": "2009-09-23"
+  "ReleaseDate": "2009-09-23",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Street_Fighter_II_Turbo"
 }

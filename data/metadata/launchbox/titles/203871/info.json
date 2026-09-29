@@ -1,7 +1,23 @@
 {
   "Artwork": {
     "Box": {
+      "Back": [
+        {
+          "CRC32": "3453504956",
+          "FileName": "r2_a78a3973-799e-41b5-b6e5-0f2322efb710.jpg",
+          "Region": "Australia",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_a78a3973-799e-41b5-b6e5-0f2322efb710.jpg"
+        }
+      ],
       "Front": [
+        {
+          "CRC32": "2270682670",
+          "FileName": "r2_a2006fdb-6740-4202-a9e0-1855b61b1db2.jpg",
+          "Region": "Australia",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_a2006fdb-6740-4202-a9e0-1855b61b1db2.jpg"
+        },
         {
           "CRC32": "1486171570",
           "FileName": "397009d7-3357-48fe-8fe9-7b3369044114.png",
@@ -9,8 +25,26 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/397009d7-3357-48fe-8fe9-7b3369044114.png"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "2614210729",
+          "FileName": "r2_eb3ae435-ed9f-4ab1-828d-7553441de04d.jpg",
+          "Region": "Australia",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_eb3ae435-ed9f-4ab1-828d-7553441de04d.jpg"
+        }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "CRC32": "1781975869",
+        "FileName": "r2_955c56d0-afbc-4d5a-94b7-48869d8f6824.png",
+        "Region": "Australia",
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_955c56d0-afbc-4d5a-94b7-48869d8f6824.png"
+      }
+    ]
   },
   "CommunityRating": "3",
   "DatabaseID": "203871",
