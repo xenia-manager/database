@@ -1855,15 +1855,13 @@
     "issue": 1096,
     "id": "4C4107D2",
     "title": "Star Wars: The Force Unleashed",
-    "updated": "2026-05-08T11:13:51Z",
+    "updated": "2026-09-30T20:11:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-drawing-corrupt"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1096"
   },
@@ -8827,14 +8825,13 @@
     "issue": 626,
     "id": "5451080D",
     "title": "Red Faction: Guerrilla",
-    "updated": "2026-09-24T16:53:48Z",
-    "state": "Gameplay",
+    "updated": "2026-09-30T19:55:35Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-occlusion-query"
       ]
     },
@@ -9750,14 +9747,13 @@
     "issue": 565,
     "id": "545407DD",
     "title": "The Bureau: XCOM Declassified",
-    "updated": "2026-05-14T12:46:21Z",
+    "updated": "2026-09-30T19:33:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-middleware-wwise",
         "gpu-readback",
@@ -10164,14 +10160,13 @@
     "issue": 540,
     "id": "53450813",
     "title": "Bayonetta",
-    "updated": "2025-04-03T15:14:20Z",
+    "updated": "2026-09-30T18:33:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-middleware-criware",
         "vsync-off-speedup"
       ]
@@ -14011,7 +14006,7 @@
     "issue": 308,
     "id": "4B4E084D",
     "title": "Castlevania: Lords of Shadow 2",
-    "updated": "2025-10-30T10:19:23Z",
+    "updated": "2026-09-30T19:22:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15653,7 +15648,7 @@
     "issue": 212,
     "id": "5841125A",
     "title": "Counter-Strike: GO",
-    "updated": "2026-09-18T16:52:29Z",
+    "updated": "2026-09-30T19:28:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -18240,15 +18235,15 @@
     "issue": 19,
     "id": "5454081A",
     "title": "Bully Scholarship Edition",
-    "updated": "2024-09-21T10:59:47Z",
+    "updated": "2026-09-30T18:55:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "tech-middleware-gamebryo"
+        "tech-middleware-gamebryo",
+        "gpu-async-compile-issues"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/19"
