@@ -16315,7 +16315,7 @@
     "issue": 163,
     "id": "425307EC",
     "title": "RAGE",
-    "updated": "2026-09-27T21:07:38Z",
+    "updated": "2026-09-30T09:16:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16325,6 +16325,7 @@
         "tech-engine-idtech",
         "gpu-readback",
         "vsync-off-speedup",
+        "gpu-occlusion-query",
         "gpu-occlusion-querybatch"
       ]
     },
