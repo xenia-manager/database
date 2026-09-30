@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "c3cd861",
+    "target_commitish": "c3cd8617b18ef018ea8d638c865e0cced7399846",
+    "published_at": "2026-09-30T00:28:42Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c3cd861",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c3cd8617b18ef018ea8d638c865e0cced7399846",
+    "changelog": {
+      "title": "c3cd861_canary_experimental",
+      "changes": "- [GPU] Snap point sampled fetches to guest texel values and centers (`c3cd861`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/692cd59...c3cd861"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c3cd861/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c3cd861/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "692cd59",
+    "target_commitish": "692cd59cfef6451314666d7f6d0b127ae78b14b3",
+    "published_at": "2026-09-29T20:25:26Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/692cd59",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/692cd59cfef6451314666d7f6d0b127ae78b14b3",
+    "changelog": {
+      "title": "692cd59_canary_experimental",
+      "changes": "- [GPU] Implement VIZ_QUERY (`692cd59`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1c5059d...692cd59"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/692cd59/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/692cd59/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "1c5059d",
     "target_commitish": "1c5059dccfae09a37f35b6719c4493093ec5b60c",
     "published_at": "2026-09-29T19:44:58Z",
