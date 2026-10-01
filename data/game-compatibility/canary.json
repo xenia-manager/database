@@ -2309,14 +2309,15 @@
     "issue": 1067,
     "id": "434D0842",
     "title": "F1 2011",
-    "updated": "2026-05-04T06:09:56Z",
+    "updated": "2026-10-01T16:37:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt"
+        "gpu-drawing-corrupt",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1067"
@@ -5857,16 +5858,14 @@
     "issue": 826,
     "id": "475007D5",
     "title": "Velvet Assassin",
-    "updated": "2026-06-07T21:28:31Z",
+    "updated": "2026-10-01T17:45:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-drawing-missing",
-        "apu-garbage",
         "backwards-compatibility-unsupported"
       ]
     },
@@ -5916,15 +5915,15 @@
     "issue": 821,
     "id": "454108FC",
     "title": "EA SPORTS - MMA",
-    "updated": "2026-04-08T08:04:43Z",
+    "updated": "2026-10-01T16:12:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "marketplace-delisted"
+        "marketplace-delisted",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/821"
@@ -9835,7 +9834,7 @@
     "issue": 560,
     "id": "4F4807D1",
     "title": "NASCAR '15",
-    "updated": "2026-05-17T22:17:45Z",
+    "updated": "2026-10-01T17:06:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -11485,15 +11484,13 @@
     "issue": 457,
     "id": "434307F0",
     "title": "MotoGP 09/10",
-    "updated": "2026-05-08T16:18:01Z",
+    "updated": "2026-10-01T16:48:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-drawing-corrupt"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/457"
   },
@@ -12037,14 +12034,13 @@
     "issue": 425,
     "id": "45410923",
     "title": "Syndicate",
-    "updated": "2026-07-09T01:26:26Z",
+    "updated": "2026-10-01T18:20:36Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "vsync-off-speedup",
         "gpu-occlusion-query"
       ]
@@ -13284,14 +13280,14 @@
     "issue": 351,
     "id": "45410964",
     "title": "NHL 12",
-    "updated": "2026-07-12T09:17:18Z",
+    "updated": "2026-10-01T18:09:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
+        "gpu-drawing-missing",
         "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
@@ -14126,7 +14122,7 @@
     "issue": 302,
     "id": "415608D2",
     "title": "NASCAR The Game: Inside Line",
-    "updated": "2026-05-27T17:22:01Z",
+    "updated": "2026-10-01T17:06:09Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14183,14 +14179,13 @@
     "issue": 299,
     "id": "5752082C",
     "title": "Shadow of Mordor",
-    "updated": "2026-06-26T16:39:15Z",
+    "updated": "2026-10-01T17:36:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-middleware-criware",
         "tech-engine-lithtech",
         "tech-middleware-havok",
@@ -14261,14 +14256,13 @@
     "issue": 295,
     "id": "454108FD",
     "title": "NHL 11",
-    "updated": "2026-02-11T12:54:00Z",
+    "updated": "2026-10-01T16:04:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
@@ -14333,14 +14327,14 @@
     "issue": 291,
     "id": "45410820",
     "title": "NHL 08",
-    "updated": "2026-05-17T23:52:17Z",
+    "updated": "2026-10-01T16:56:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
+        "gpu-drawing-missing",
         "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
@@ -14487,14 +14481,13 @@
     "issue": 282,
     "id": "454107D8",
     "title": "NBA LIVE 06",
-    "updated": "2026-07-11T18:50:20Z",
+    "updated": "2026-10-01T20:35:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "apu-garbage",
         "backwards-compatibility-unsupported"
       ]
@@ -15619,7 +15612,7 @@
     "issue": 214,
     "id": "4D5307E6",
     "title": "Halo 3",
-    "updated": "2026-07-31T20:22:22Z",
+    "updated": "2026-10-01T17:56:46Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17863,7 +17856,7 @@
     "issue": 47,
     "id": "464507D6",
     "title": "Divinity II The Dragon Knight Saga",
-    "updated": "2026-05-27T13:50:53Z",
+    "updated": "2026-10-01T17:26:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17871,7 +17864,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-drawing-missing"
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/47"
