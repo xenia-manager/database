@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "44f5b4a",
+    "target_commitish": "44f5b4a86080189047e9a60f2d2b8041796fcb68",
+    "published_at": "2026-10-01T05:40:32Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/44f5b4a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/44f5b4a86080189047e9a60f2d2b8041796fcb68",
+    "changelog": {
+      "title": "44f5b4a_canary_experimental",
+      "changes": "- [GPU] Pace the vblank heartbeat on a deadline on Linux (`44f5b4a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4a3ecf0...44f5b4a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/44f5b4a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/44f5b4a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "4a3ecf0",
     "target_commitish": "4a3ecf02d58dbfbe27757ef1c8724fbd4696ff02",
     "published_at": "2026-10-01T02:41:50Z",
