@@ -39,6 +39,15 @@
       }
     ],
     "Box": {
+      "3D": [
+        {
+          "CRC32": "3436308757",
+          "FileName": "r2_dfe1d869-72d8-4795-967f-cb219968b69b.png",
+          "Region": "World",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_dfe1d869-72d8-4795-967f-cb219968b69b.png"
+        }
+      ],
       "Front": [
         {
           "CRC32": "2478469184",
@@ -48,11 +57,27 @@
           "URL": "http://images.launchbox-app.com/52be8b16-022b-4f28-bea2-481637e5ce49.jpg"
         },
         {
+          "CRC32": "3374134558",
+          "FileName": "r2_56f11070-c2ea-416e-8ede-d4992f3ea25e.jpg",
+          "Region": "World",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_56f11070-c2ea-416e-8ede-d4992f3ea25e.jpg"
+        },
+        {
           "CRC32": "1209303492",
           "FileName": "r2_f4cb56fa-4ee4-4e15-8f25-b8dbbaaeb9b0.jpg",
           "Region": "World",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_f4cb56fa-4ee4-4e15-8f25-b8dbbaaeb9b0.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "230389019",
+          "FileName": "r2_6ce6ec6a-de98-4844-ada4-8b7382b86359.jpg",
+          "Region": "World",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_6ce6ec6a-de98-4844-ada4-8b7382b86359.jpg"
         }
       ]
     },
@@ -62,13 +87,6 @@
         "FileName": "f04cda01-2038-4522-880c-84d82fb9c7f9.png",
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/f04cda01-2038-4522-880c-84d82fb9c7f9.png"
-      },
-      {
-        "CRC32": "2854930171",
-        "FileName": "r2_1096f091-65ab-430b-924c-6dcdc5e9b4c0.png",
-        "Region": "World",
-        "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/r2_1096f091-65ab-430b-924c-6dcdc5e9b4c0.png"
       },
       {
         "CRC32": "2088755308",
@@ -85,11 +103,55 @@
         "URL": "http://images.launchbox-app.com/r2_4b2d9466-0fe4-4163-bf6e-6306300459b7.png"
       },
       {
+        "CRC32": "2854930171",
+        "FileName": "r2_4b7fb547-30da-41e5-a13f-c09a881804d1.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_4b7fb547-30da-41e5-a13f-c09a881804d1.png"
+      },
+      {
         "CRC32": "848138329",
         "FileName": "r2_6e493d53-99ae-4323-a8b3-556cb84003f2.png",
         "Region": "World",
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_6e493d53-99ae-4323-a8b3-556cb84003f2.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "407871311",
+        "FileName": "r2_72193b31-7101-4d47-b6b7-a28c4eff07a6.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_72193b31-7101-4d47-b6b7-a28c4eff07a6.png"
+      },
+      {
+        "CRC32": "175516515",
+        "FileName": "r2_f835d65f-0d60-4402-a119-6351d2dd1523.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_f835d65f-0d60-4402-a119-6351d2dd1523.png"
+      },
+      {
+        "CRC32": "256145517",
+        "FileName": "r2_01d0241d-3ca6-4fe7-b03c-6c0dfc3a5adc.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_01d0241d-3ca6-4fe7-b03c-6c0dfc3a5adc.png"
+      },
+      {
+        "CRC32": "55840527",
+        "FileName": "r2_05c71e38-765b-464d-b295-2d8625721819.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_05c71e38-765b-464d-b295-2d8625721819.png"
+      },
+      {
+        "CRC32": "1321927863",
+        "FileName": "r2_3eb6ec00-7336-4f5c-b5d6-43815171c25d.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_3eb6ec00-7336-4f5c-b5d6-43815171c25d.png"
       }
     ]
   },
@@ -97,9 +159,9 @@
   "DatabaseID": "129004",
   "Developer": "Opus Studio",
   "ESRB": "E - Everyone",
-  "Genres": "Shooter; Strategy",
+  "Genres": "Action; Role-Playing",
   "Name": "Half-Minute Hero: Super Mega Neo Climax",
-  "Overview": "Half-Minute Hero is a hybrid real-time strategy action role-playing shoot 'em up video game developed by Opus. It was initially released as a PlayStation Portable exclusive in Japan on May 28, 2009, later in North America on October 13, and in Europe on February 19, 2010. It was re-released on the Xbox Live Arcade on June 29, 2011 under the title Half-Minute Hero: Super Mega Neo Climax, and on Microsoft Windows' Steam on September 27, 2012 under the title Half-Minute Hero: Super Mega Neo Climax Ultimate Boy.\n\nA sequel, Yūsha 30 Second, was released in Japan on August 4, 2011. It was localized and released on Steam on April 4, 2014 as Half-Minute Hero: The Second Coming.\n\nGameplay\nHalf-Minute Hero's single player mode features 6 different game modes. Each mode is based on one part of a larger story, and as such, the last three modes are not available until the player has completed the first three modes; these last three modes are then unlocked in order after completing the previous mode. Each mode centers around a mechanic based on a limited amount of time (normally 30 seconds as implied by the game's title) to complete that part of the game.",
+  "Overview": "Half-Minute Hero: Super Mega Neo Climax is an updated re-release of the 2009 PSP title Half-Minute Hero. As in the original, the game is structured roughly like a Japanese RPG, tasking the player with fighting enemies to earn experience and gold, finding information and buying items in towns, completing quests to further the story, joining up with NPCs, and finally defeating the boss. The key difference is that there is a strict 30-second time limit before the world is destroyed. Time can be turned back for a price, but it gets increasingly expensive.\n\nThe largest addition to this new release is the all-new \"Neo Cartoon\" mode which replaces the original sprite graphics with an HD vector graphics makeover, though the game can also still be played with the original PSP graphics. There are also several new missions added to the mission tree, as well as an online multiplayer mode where up to four heroes can race to defeat the boss. However, several of the additional modes from the PSP version have been cut, reducing the Dark Lord 30, Princess 30, and Knight 30 modes to single missions that play much like the main Hero 30 mode. The Goddess' Room from the original game has also been removed.",
   "Publisher": "Marvelous AQL",
   "ReleaseDate": "2012-09-27",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Half-Minute_Hero#Half-Minute_Hero:_Super_Mega_Neo_Climax_Ultimate_Boy"

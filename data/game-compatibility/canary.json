@@ -1,5 +1,22 @@
 [
   {
+    "issue": 1237,
+    "id": "4F5807D1",
+    "title": "PDC World Championship Darts",
+    "updated": "2026-09-30T23:39:30Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-driver-issues-amd",
+        "requires_render_target_rov_fsi"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1237"
+  },
+  {
     "issue": 1236,
     "id": "455607D8",
     "title": "Mayhem 3D",
@@ -4490,7 +4507,7 @@
     "issue": 909,
     "id": "475007D3",
     "title": "Legendary",
-    "updated": "2026-06-23T18:53:17Z",
+    "updated": "2026-09-30T23:03:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4498,6 +4515,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
+        "tech-engine-unreal",
         "gpu-occlusion-query"
       ]
     },
@@ -9317,14 +9335,13 @@
     "issue": 595,
     "id": "5841125E",
     "title": "Joy Ride Turbo",
-    "updated": "2026-08-26T18:47:47Z",
+    "updated": "2026-09-30T21:47:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "vsync-off-speedup",
         "tech-avatar-required"
       ]
@@ -9676,7 +9693,7 @@
     "issue": 569,
     "id": "545407E5",
     "title": "Civilization Revolution",
-    "updated": "2026-05-27T06:15:51Z",
+    "updated": "2026-09-30T22:17:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9686,6 +9703,7 @@
         "gpu-drawing-corrupt",
         "tech-middleware-gamebryo",
         "tech-middleware-scaleform",
+        "requires_protect_zero_false",
         "tech-xboxlivevision-optional"
       ]
     },
@@ -10590,15 +10608,13 @@
     "issue": 514,
     "id": "5841144C",
     "title": "Resident Evil Revelations 2 (XBLA)",
-    "updated": "2025-03-09T08:01:59Z",
+    "updated": "2026-09-30T22:32:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage",
-        "regression",
         "tech-engine-mt",
         "kernel-xex-switching",
         "backwards-compatibility-unsupported"
@@ -10849,20 +10865,18 @@
     "issue": 498,
     "id": "4541095D",
     "title": "Mass Effect 3",
-    "updated": "2026-07-27T18:07:10Z",
+    "updated": "2026-09-30T21:49:07Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-kinect-optional",
         "tech-middleware-wwise",
         "tech-middleware-scaleform",
         "gpu-invalid-fetch-constants",
-        "gpu-driver-issues-nvidia",
         "tech-middleware-umbra",
         "gpu-occlusion-query",
         "requires_render_target_rov_fsi"
@@ -13065,7 +13079,7 @@
     "issue": 364,
     "id": "454109A9",
     "title": "Tiger Woods PGA Tour 14: Masters Historic Edition",
-    "updated": "2026-08-25T04:06:49Z",
+    "updated": "2026-09-30T22:20:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14097,14 +14111,13 @@
     "issue": 303,
     "id": "54510850",
     "title": "SpongeBob's Truth or Square",
-    "updated": "2026-05-17T23:51:47Z",
+    "updated": "2026-09-30T22:54:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-middleware-havok"
       ]
     },
@@ -15648,7 +15661,7 @@
     "issue": 212,
     "id": "5841125A",
     "title": "Counter-Strike: GO",
-    "updated": "2026-09-30T19:28:13Z",
+    "updated": "2026-09-30T20:42:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -18104,7 +18117,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-08-24T22:55:41Z",
+    "updated": "2026-09-30T22:33:29Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -18379,14 +18392,13 @@
     "issue": 7,
     "id": "415608E4",
     "title": "Angry Birds Trilogy",
-    "updated": "2026-07-08T20:38:23Z",
+    "updated": "2026-09-30T22:37:12Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "marketplace-unlisted",
         "tech-kinect-optional",
         "supports-1080p"

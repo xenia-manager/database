@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "4a3ecf0",
+    "target_commitish": "4a3ecf02d58dbfbe27757ef1c8724fbd4696ff02",
+    "published_at": "2026-10-01T02:41:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4a3ecf0",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/4a3ecf02d58dbfbe27757ef1c8724fbd4696ff02",
+    "changelog": {
+      "title": "4a3ecf0_canary_experimental",
+      "changes": "- [Build] Fix xb devenv on Windows x64 when CMAKE_GENERATOR is Ninja (`4a3ecf0`)\n- [VFS] Name a renamed entry by the last part of its guest path (`669c970`)\n- [Vulkan] Keep the barrier between two uploads to the same texture (`c8f214e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f65fda3...4a3ecf0"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4a3ecf0/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4a3ecf0/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "f65fda3",
+    "target_commitish": "f65fda3320b963846bf5c8bb16c1d5f1c6cffb67",
+    "published_at": "2026-10-01T00:50:57Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f65fda3",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f65fda3320b963846bf5c8bb16c1d5f1c6cffb67",
+    "changelog": {
+      "title": "f65fda3_canary_experimental",
+      "changes": "- [Base/POSIX] Classify directory entries from stat, not d_type (`f65fda3`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c3cd861...f65fda3"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f65fda3/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f65fda3/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "c3cd861",
     "target_commitish": "c3cd8617b18ef018ea8d638c865e0cced7399846",
     "published_at": "2026-09-30T00:28:42Z",
