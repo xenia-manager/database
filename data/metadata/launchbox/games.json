@@ -380,7 +380,7 @@
     "DatabaseID": "11",
     "Developer": "Electronic Arts Montreal",
     "ESRB": "M - Mature",
-    "Genres": "Action; Shooter",
+    "Genres": "Shooter",
     "Name": "Army of Two",
     "Overview": "Focusing on cooperative strategies, Army of Two's main feature is the necessity to use coordinated teamwork to accomplish the game's goals. While the game is meant to be played with another human as a partner, a \"Partner Artificial Intelligence\" (PAI) is also included and programmed to follow the player's strategies. Dependence on a partner (whether human or PAI) is so pronounced that most objectives are impossible to complete without it.",
     "Publisher": "Electronic Arts",
@@ -569,7 +569,7 @@
         }
       ]
     },
-    "CommunityRating": "4.34158415841584",
+    "CommunityRating": "4.34653465346535",
     "DatabaseID": "24",
     "Developer": "Epic Games",
     "ESRB": "M - Mature",
@@ -7280,7 +7280,7 @@
     "DatabaseID": "2473",
     "Developer": "THQ",
     "ESRB": "T - Teen",
-    "Genres": "Sports",
+    "Genres": "Fighting; Sports",
     "Name": "WWE All Stars",
     "Overview": "WWE All Stars will deliver one of the greatest rosters ever assembled in a wrestling-centric videogame. Renowned WWE Legends will align with today's most prominent Superstars, inviting players to generate fantasy matches and ultimately determine the greatest competitors of all time. In addition, each Legend and Superstar will boast a distinctive and highly stylized appearance, adding to the overall atmosphere and intrepid attitude exuding from the on-screen action.",
     "Publisher": "THQ",
@@ -26639,6 +26639,15 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "2049840791",
+          "FileName": "r2_057b4a3b-f210-4130-877f-930f090db7ff.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_057b4a3b-f210-4130-877f-930f090db7ff.jpg"
+        }
+      ],
       "Box": {
         "3D": [
           {
@@ -26691,6 +26700,15 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/fef79989-8e29-43fc-ad90-450d6f712c19.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "3013744694",
+          "FileName": "r2_8e406552-674f-434c-ba7e-5901fc16f395.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_8e406552-674f-434c-ba7e-5901fc16f395.png"
+        }
       ]
     },
     "CommunityRating": "3.5",
@@ -26699,10 +26717,11 @@
     "ESRB": "E - Everyone",
     "Genres": "Sports",
     "Name": "The Bigs",
-    "Overview": "The Bigs (stylized as The BIGS) is an arcade-style baseball video game for the Xbox 360, PlayStation 3, PlayStation 2, Wii and PlayStation Portable. It was released in June 2007 in North America, and in October in Europe. A sequel, The Bigs 2, was released on July 7, 2009.",
+    "Overview": "The BIGS is an arcade-style baseball game that is less focused on the intricate details of the game and more on the actual gameplay, proven by the inclusion of power-ups and turbos during gameplay. All 30 teams from MLB and their stadiums are included, as well as their player rosters. The Wii version of this game is controlled by flicking the Wii remote and Nunchuk. These motion controls include drumming the remote and nunchuk when trying to speed up and using the remote as a bat when hitting.\n\nInstead of a traditional season mode as in many other baseball simulations, in The BIGS there is a mode titled Rookie Challenge, where the player creates a ballplayer and tries to lead him and his team to the World Series. Another mode, Home Run Pinball, puts a hitter in the middle of Times Square, New York, with the aim to hit balls into windows and neon lights.",
     "Publisher": "2K Games",
     "ReleaseDate": "2007-06-25",
-    "VideoURL": "http://www.youtube.com/watch?v=LH4Iil971sE"
+    "VideoURL": "http://www.youtube.com/watch?v=LH4Iil971sE",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/The_Bigs"
   },
   {
     "Artwork": {
@@ -32345,7 +32364,7 @@
         }
       ]
     },
-    "CommunityRating": "4.7037037037037",
+    "CommunityRating": "4.69642857142857",
     "DatabaseID": "8256",
     "Developer": "Bethesda Game Studios",
     "ESRB": "M - Mature",
@@ -77867,10 +77886,10 @@
       "Banner": [
         {
           "CRC32": "3602557082",
-          "FileName": "790c5a30-f6aa-4805-b58e-6c0b3473bcc3.jpg",
-          "Region": "North America",
+          "FileName": "r2_ea1c5305-aae7-4bfd-875f-336e2196fb54.jpg",
+          "Region": "World",
           "Type": "Banner",
-          "URL": "http://images.launchbox-app.com/790c5a30-f6aa-4805-b58e-6c0b3473bcc3.jpg"
+          "URL": "http://images.launchbox-app.com/r2_ea1c5305-aae7-4bfd-875f-336e2196fb54.jpg"
         }
       ],
       "Box": {
@@ -77943,9 +77962,61 @@
       "Other": [
         {
           "CRC32": "2365643360",
-          "FileName": "7239427f-636c-470f-9589-5ba76b7b47e4.png",
+          "FileName": "r2_4748e144-10fc-4a3d-9986-b00899bd4a7a.png",
+          "Region": "World",
           "Type": "Clear Logo",
-          "URL": "http://images.launchbox-app.com/7239427f-636c-470f-9589-5ba76b7b47e4.png"
+          "URL": "http://images.launchbox-app.com/r2_4748e144-10fc-4a3d-9986-b00899bd4a7a.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "1410700508",
+          "FileName": "r2_a4df6f54-eb61-4360-a1d3-e04be8da269f.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Over",
+          "URL": "http://images.launchbox-app.com/r2_a4df6f54-eb61-4360-a1d3-e04be8da269f.png"
+        },
+        {
+          "CRC32": "3712198149",
+          "FileName": "r2_8582a78a-a40a-4d04-ab94-288ae6a106a9.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_8582a78a-a40a-4d04-ab94-288ae6a106a9.png"
+        },
+        {
+          "CRC32": "4158596065",
+          "FileName": "r2_b47323af-ea40-4325-bca4-32015d3f218c.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_b47323af-ea40-4325-bca4-32015d3f218c.png"
+        },
+        {
+          "CRC32": "2717329559",
+          "FileName": "r2_c1cb4ea4-5ae7-4d1e-9de4-09225ccf68e5.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_c1cb4ea4-5ae7-4d1e-9de4-09225ccf68e5.png"
+        },
+        {
+          "CRC32": "834077870",
+          "FileName": "r2_27607966-c69c-435a-82bc-4512c3b12a6a.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_27607966-c69c-435a-82bc-4512c3b12a6a.png"
+        },
+        {
+          "CRC32": "4066296738",
+          "FileName": "r2_e4dab19e-adf7-40ad-960e-41616c8f9726.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_e4dab19e-adf7-40ad-960e-41616c8f9726.png"
+        },
+        {
+          "CRC32": "896046399",
+          "FileName": "r2_34e8398d-39ed-4b8a-bfb7-ff714bc8e532.png",
+          "Region": "World",
+          "Type": "Screenshot - High Scores",
+          "URL": "http://images.launchbox-app.com/r2_34e8398d-39ed-4b8a-bfb7-ff714bc8e532.png"
         }
       ]
     },
@@ -77953,9 +78024,9 @@
     "DatabaseID": "13468",
     "Developer": "Capcom",
     "ESRB": "T - Teen",
-    "Genres": "Action; Fighting",
+    "Genres": "Fighting",
     "Name": "Ultimate Marvel Vs. Capcom 3",
-    "Overview": "Ultimate Marvel vs. Capcom 3 (Japanese: アルティメット マーヴル VS. カプコン3 Hepburn: Arutimetto Māvuru bāsasu Kapukon Surī?) is a crossover fighting game developed by Capcom in collaboration with Eighting. It is an updated version of Marvel vs. Capcom 3: Fate of Two Worlds. The game features characters from both Capcom's video game franchises and comic book series published by Marvel Comics. The game was released in November 2011 for the PlayStation 3 and Xbox 360, and was featured as a launch title for the PlayStation Vita in 2012.\n\nIn Ultimate Marvel vs. Capcom 3, players select a team of three characters to engage in combat and attempt to knock out their opponents. As an update, the game utilizes largely identical gameplay mechanics to the original. However, both the aerial combat and X-Factor systems, introduced in Fate of Two Worlds, have received adjustments. In addition to gameplay modifications and new playable characters, the game features several aesthetic changes.\n\nAfter the events of the 2011 Tōhoku earthquake and tsunami disrupted the development schedule for downloadable content for Fate of Two Worlds, the additional content was created into a standalone title, Ultimate Marvel vs. Capcom 3, for a discounted retail price. The game received generally positive reviews upon release; critics praised the expanded character roster and improved online experience, but criticized the lack of new features and game modes.",
+    "Overview": "Ultimate Marvel vs. Capcom 3 is a majored version of Marvel vs. Capcom 3: Fate of Two Worlds. Gameplay is the same as the previous game with a new system called X-Factor, which has added and consists to increase the strength, speed, and health recovery of the characters for a short time and 12 new characters: Frank West, Nemesis, Dr. Strange, Ghost Rider, Hawkeye, and more are added in this game.",
     "Publisher": "Capcom",
     "ReleaseDate": "2011-11-15",
     "VideoURL": "http://www.youtube.com/watch?v=I9OqbiRLaho",
@@ -82100,7 +82171,7 @@
     "DatabaseID": "13781",
     "Developer": "Electronic Arts Montreal",
     "ESRB": "M - Mature",
-    "Genres": "Action; Shooter",
+    "Genres": "Shooter",
     "Name": "Army of Two: The 40th Day",
     "Overview": "When a man-made disaster of epic proportions strikes Shanghai, China, Rios and Salem find themselves right in the middle of it all. Fortunately for you, you’ve got a bigger playbook of features and a new arsenal of co-op moves that either player can perform at any time, opening up fresh strategies and choices for both players. You’ve also got the tools you need to help the Army of TWO™ fight and prevail with an incredibly deep, advanced weapon customization and upgrade system.",
     "Publisher": "Electronic Arts",
@@ -83511,7 +83582,16 @@
             "URL": "http://images.launchbox-app.com/ca9050f5-ba9e-4e33-9874-886857123a64.jpg"
           }
         ]
-      }
+      },
+      "Disc": [
+        {
+          "CRC32": "3565823120",
+          "FileName": "r2_eff215ad-8537-43bf-9c81-a705fe7db36e.png",
+          "Region": "North America",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_eff215ad-8537-43bf-9c81-a705fe7db36e.png"
+        }
+      ]
     },
     "CommunityRating": "5",
     "DatabaseID": "13863",
@@ -83718,6 +83798,13 @@
           "Region": "Australia",
           "Type": "Disc",
           "URL": "http://images.launchbox-app.com/d1ed55cd-d41f-4efa-b915-af3bbd9518b1.png"
+        },
+        {
+          "CRC32": "3436895564",
+          "FileName": "r2_12851e36-fd33-4c0d-911d-bd234b0ae825.png",
+          "Region": "North America",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_12851e36-fd33-4c0d-911d-bd234b0ae825.png"
         }
       ],
       "Other": [
@@ -83726,6 +83813,50 @@
           "FileName": "28f51500-1f0f-4846-ae9f-9f98ecaa4853.png",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/28f51500-1f0f-4846-ae9f-9f98ecaa4853.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "194561277",
+          "FileName": "r2_1891956c-3848-43dc-b233-9adb8d548c2b.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_1891956c-3848-43dc-b233-9adb8d548c2b.png"
+        },
+        {
+          "CRC32": "2463644323",
+          "FileName": "r2_e4e5fe8d-c059-4473-9b47-f6f27e0bcd5f.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_e4e5fe8d-c059-4473-9b47-f6f27e0bcd5f.png"
+        },
+        {
+          "CRC32": "3306973103",
+          "FileName": "r2_8c12edf6-6e02-4932-bca5-cba94eb4bdd2.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_8c12edf6-6e02-4932-bca5-cba94eb4bdd2.png"
+        },
+        {
+          "CRC32": "1540452420",
+          "FileName": "r2_9ef8deb7-7799-451b-ba52-e906653458c2.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_9ef8deb7-7799-451b-ba52-e906653458c2.png"
+        },
+        {
+          "CRC32": "3832325002",
+          "FileName": "r2_cd8d3d62-b9db-4e29-b639-b99ed9e5a039.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_cd8d3d62-b9db-4e29-b639-b99ed9e5a039.png"
+        },
+        {
+          "CRC32": "3739513733",
+          "FileName": "r2_e501374a-98fe-489e-897c-29468ed8990f.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_e501374a-98fe-489e-897c-29468ed8990f.png"
         }
       ]
     },
@@ -111393,6 +111524,15 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "1298991240",
+          "FileName": "r2_e8b18359-d420-4426-9b1e-17359773908f.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_e8b18359-d420-4426-9b1e-17359773908f.jpg"
+        }
+      ],
       "Box": {
         "3D": [
           {
@@ -111403,6 +111543,15 @@
             "URL": "http://images.launchbox-app.com/5881b554-c072-4832-a7d7-3f36b8e303f3.png"
           }
         ],
+        "Back": [
+          {
+            "CRC32": "3904974892",
+            "FileName": "r2_f2ffdcf4-06f8-49f4-90ac-f410c701b1cb.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_f2ffdcf4-06f8-49f4-90ac-f410c701b1cb.jpg"
+          }
+        ],
         "Front": [
           {
             "CRC32": "188561251",
@@ -111411,15 +111560,24 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/e8969bbe-50cd-44a5-8d94-2b79532374ca.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1446172514",
+            "FileName": "r2_b901bbe6-643e-4f93-b089-9f5680488983.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_b901bbe6-643e-4f93-b089-9f5680488983.jpg"
+          }
         ]
       },
       "Disc": [
         {
           "CRC32": "187035037",
-          "FileName": "r2_c395eb34-7c04-46dd-8bfc-1ce30138010e.png",
+          "FileName": "r2_5a228a1d-4df5-439a-8e44-814441046cdb.png",
           "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/r2_c395eb34-7c04-46dd-8bfc-1ce30138010e.png"
+          "URL": "http://images.launchbox-app.com/r2_5a228a1d-4df5-439a-8e44-814441046cdb.png"
         }
       ],
       "Other": [
@@ -111428,6 +111586,36 @@
           "FileName": "9bbf28da-63d5-4eca-9f6f-226ae156ba6d.png",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/9bbf28da-63d5-4eca-9f6f-226ae156ba6d.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "2060374666",
+          "FileName": "r2_e45279be-bd84-406c-9099-d966c40cee17.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_e45279be-bd84-406c-9099-d966c40cee17.png"
+        },
+        {
+          "CRC32": "1408219641",
+          "FileName": "r2_f50c9539-551f-451d-84fa-ed94bfef39af.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_f50c9539-551f-451d-84fa-ed94bfef39af.png"
+        },
+        {
+          "CRC32": "925701436",
+          "FileName": "r2_3aadf10c-b7bb-4433-899c-bcee48d99c6a.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_3aadf10c-b7bb-4433-899c-bcee48d99c6a.png"
+        },
+        {
+          "CRC32": "3587125936",
+          "FileName": "r2_4a2eae18-c050-431f-a1f9-585d717ddcfc.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_4a2eae18-c050-431f-a1f9-585d717ddcfc.png"
         }
       ]
     },
@@ -136754,6 +136942,15 @@
           }
         ]
       },
+      "Disc": [
+        {
+          "CRC32": "2304630414",
+          "FileName": "r2_68272c77-6855-4cd3-a615-a7b4396c04bb.png",
+          "Region": "Europe",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_68272c77-6855-4cd3-a615-a7b4396c04bb.png"
+        }
+      ],
       "Screenshots": [
         {
           "CRC32": "367925632",
@@ -160406,7 +160603,7 @@
         }
       ]
     },
-    "CommunityRating": "2",
+    "CommunityRating": "1.66666666666667",
     "DatabaseID": "162217",
     "Genres": "Pinball",
     "Name": "Williams Pinball Classics",
@@ -174606,18 +174803,18 @@
       "Box": {
         "Back": [
           {
+            "CRC32": "2581540932",
+            "FileName": "c2d461eb-2b65-40d6-afa0-a2cda6fb52fb.jpg",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/c2d461eb-2b65-40d6-afa0-a2cda6fb52fb.jpg"
+          },
+          {
             "CRC32": "2498038704",
             "FileName": "r2_1869fa1a-1ac5-4071-9da5-d720995db935.jpg",
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_1869fa1a-1ac5-4071-9da5-d720995db935.jpg"
-          },
-          {
-            "CRC32": "2581540932",
-            "FileName": "c2d461eb-2b65-40d6-afa0-a2cda6fb52fb.jpg",
-            "Region": "United States",
-            "Type": "Box - Back",
-            "URL": "http://images.launchbox-app.com/c2d461eb-2b65-40d6-afa0-a2cda6fb52fb.jpg"
           }
         ],
         "Front": [
@@ -174639,10 +174836,10 @@
         "Spine": [
           {
             "CRC32": "101657905",
-            "FileName": "548276eb-2c3f-4325-b895-41cfc51acb44.jpg",
-            "Region": "United States",
+            "FileName": "r2_91f64f8c-1352-4be3-ae57-eb936b17fb61.jpg",
+            "Region": "North America",
             "Type": "Box - Spine",
-            "URL": "http://images.launchbox-app.com/548276eb-2c3f-4325-b895-41cfc51acb44.jpg"
+            "URL": "http://images.launchbox-app.com/r2_91f64f8c-1352-4be3-ae57-eb936b17fb61.jpg"
           }
         ]
       },
@@ -174662,17 +174859,41 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/11d8c7d4-6755-4534-85f0-510d7b3bb9d3.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "1652789884",
+          "FileName": "r2_9dc9d142-ee04-4732-8ad4-ca4430e8ea75.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_9dc9d142-ee04-4732-8ad4-ca4430e8ea75.png"
+        },
+        {
+          "CRC32": "1293251574",
+          "FileName": "r2_73746e82-40cc-44ad-a879-12cc4a204879.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_73746e82-40cc-44ad-a879-12cc4a204879.png"
+        },
+        {
+          "CRC32": "768022925",
+          "FileName": "r2_6c16b8c8-cd44-4a65-ae8e-2341276c421f.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_6c16b8c8-cd44-4a65-ae8e-2341276c421f.png"
+        }
       ]
     },
     "CommunityRating": "2.6",
     "DatabaseID": "173662",
     "Developer": "WayForward Technologies",
     "ESRB": "E10+ - Everyone 10+",
-    "Genres": "Action",
+    "Genres": "Platform",
     "Name": "Teenage Mutant Ninja Turtles: Danger of the Ooze",
-    "Overview": "Teenage Mutant Ninja Turtles: Danger of the Ooze is based on the 2012 Nickelodeon TV series. The game sends the four Ninja Turtles out to prevent a canister of super mutagen from falling into the hands of the Shredder and his cronies.\n\nThe game, which uses 3D polygonal graphics for 2D side-scrolling gameplay, is a combination of \"Metroidvania\"-style exploration-based platformer and beat'em up. The turtles' quest will take them through a huge interconnected world, reaching from the sewers to the streets of New York City, the TCRI building and even Dimension X. In typical genre style, only a small part of the world is accessible from the start. New skills or items must be unlocked or found to be able to reach new areas.\n\nStanding in the turtles' way are various goons, reaching from Foot Clan bots over Mouser droids to Kraang soldiers. It is possible to switch between the four turtles at any time. They all use their signature weapons and have a slightly different fighting style and moves. Basic moves are simple attacks and blocks. Landing a hit combo and then pressing attack again sends the turtle's weapon spinning and then pressing a direction launches a \"Shell Kicker\" - an extra powerful move that can knock away an enemy's shield, knock them back, deal extra damage or get the turtle behind the enemy. Defeating enemies gains experience points that allow upgrading of the Shell Kicker attacks. If a turtle is defeated, he is captured by the enemy and it is possible to get him back into the game by rescuing him from where he is held.\n\nNew abilities are earned by finding power-ups or meeting with allies like April or Casey in story sequences. They include double jumps and dashes, as well as the ability to throw various kinds of shuriken or smoke bombs, all of which allow the turtles to gain access to new areas. There are also health upgrades in the form of pizza boxes (for higher maximum health) or pizza pies and slices (for replenishment).\n\nThere are several boss battles against the likes of Rahzar, Baxter Stockman, and of course, the Shredder. The voice actors from the TV series reprise their roles for the game.",
+    "Overview": "Stop Shredder from unleashing the power of the Super Mutagen!\n\nThe Turtles are back in action against the evils of the world! Stop Shredder and his army of mutants as he threatens to unleash the power of a new Super Mutagen that could destroy their beloved NYC. * Play as your favorite Turtle or switch between them on the fly!\n\nBattle NEW enemies from the hit TV show, not yet seen in a TMNT video game! Fight villains with an all NEW combat system to earn EXP and upgrade your characters. Find hidden upgrades as you explore the non-linear world! Discover new locations including the mysterious Dimension X!",
     "Publisher": "Activision",
-    "ReleaseDate": "2014-10-28"
+    "ReleaseDate": "2014-10-28",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Danger_of_the_Ooze"
   },
   {
     "Artwork": {
@@ -183022,7 +183243,23 @@
             "URL": "http://images.launchbox-app.com/e465bc41-a2a8-499d-a8fc-6f22e7c15c2d.jpg"
           }
         ]
-      }
+      },
+      "Disc": [
+        {
+          "CRC32": "2073622863",
+          "FileName": "r2_9b9e75e4-8a15-49c5-a627-675c4c1dd10f.png",
+          "Region": "North America",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_9b9e75e4-8a15-49c5-a627-675c4c1dd10f.png"
+        },
+        {
+          "CRC32": "3688541254",
+          "FileName": "r2_e5052fa1-67b4-4913-b844-7830a22aa450.png",
+          "Region": "North America",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_e5052fa1-67b4-4913-b844-7830a22aa450.png"
+        }
+      ]
     },
     "DatabaseID": "202038",
     "Developer": "Arkane Studios",
@@ -195444,7 +195681,7 @@
         }
       ]
     },
-    "CommunityRating": "3.66666666666667",
+    "CommunityRating": "3.4",
     "DatabaseID": "209787",
     "Developer": "FarSight Studios",
     "ESRB": "E10+ - Everyone 10+",
@@ -199497,6 +199734,15 @@
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "2230410556",
+            "FileName": "r2_a12e8130-52b1-4fbe-9985-bc33a1e8288e.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_a12e8130-52b1-4fbe-9985-bc33a1e8288e.png"
+          }
+        ],
         "Back": [
           {
             "CRC32": "1457408946",
@@ -199504,6 +199750,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_4f467ed6-5568-4ed4-b88c-3297ff24dd6f.jpg"
+          },
+          {
+            "CRC32": "2993968807",
+            "FileName": "r2_a41be14d-3962-4920-91f6-bbd785cbfa6b.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_a41be14d-3962-4920-91f6-bbd785cbfa6b.jpg"
           }
         ],
         "Front": [
@@ -199521,15 +199774,24 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/14c48cdf-78c8-4887-8d40-01e05ec1ae10.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "110840912",
+            "FileName": "r2_e65d5710-362a-4aef-bb41-c3f34cfd34f0.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_e65d5710-362a-4aef-bb41-c3f34cfd34f0.jpg"
+          }
         ]
       },
       "Disc": [
         {
           "CRC32": "1320554041",
-          "FileName": "r2_1a603136-bf2a-42c2-9fe8-fcb3b852f22d.png",
+          "FileName": "r2_e5e443a5-3143-4cdb-b682-1094b44eb631.png",
           "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/r2_1a603136-bf2a-42c2-9fe8-fcb3b852f22d.png"
+          "URL": "http://images.launchbox-app.com/r2_e5e443a5-3143-4cdb-b682-1094b44eb631.png"
         }
       ],
       "Other": [
@@ -199556,6 +199818,27 @@
       ],
       "Screenshots": [
         {
+          "CRC32": "940649602",
+          "FileName": "r2_2cee680e-5ca4-4c28-9f10-ab9ff72b93f8.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_2cee680e-5ca4-4c28-9f10-ab9ff72b93f8.png"
+        },
+        {
+          "CRC32": "198082020",
+          "FileName": "r2_c268eeeb-0891-4109-9195-af27af4be05c.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_c268eeeb-0891-4109-9195-af27af4be05c.png"
+        },
+        {
+          "CRC32": "1300052322",
+          "FileName": "r2_c358e034-7036-477a-80af-ff70d2cf5d63.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_c358e034-7036-477a-80af-ff70d2cf5d63.png"
+        },
+        {
           "CRC32": "1730303677",
           "FileName": "5bf35814-6ed4-445a-a65a-d095b32ba2ff.png",
           "Type": "Screenshot - Gameplay",
@@ -199566,6 +199849,13 @@
           "FileName": "d1f921de-3661-478a-8208-aad395fabcde.jpg",
           "Type": "Screenshot - Gameplay",
           "URL": "http://images.launchbox-app.com/d1f921de-3661-478a-8208-aad395fabcde.jpg"
+        },
+        {
+          "CRC32": "3212691608",
+          "FileName": "r2_b9e5bba2-1df9-4dc2-8a7b-e748d899640c.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_b9e5bba2-1df9-4dc2-8a7b-e748d899640c.png"
         }
       ]
     },
@@ -324083,5 +324373,77 @@
     "Publisher": "ShavedRat",
     "ReleaseDate": "2013-12-15",
     "VideoURL": "https://www.youtube.com/watch?v=vzIP7tqjzcI"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "3590037478",
+            "FileName": "df94c25c-e779-43b7-8e73-b6e724a7501a.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/df94c25c-e779-43b7-8e73-b6e724a7501a.png"
+          }
+        ]
+      }
+    },
+    "CommunityRating": "2.75",
+    "DatabaseID": "481173",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 60: August 2006",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #60 was released alongside Issue 60 of the magazine in July 2006 (bearing the cover date of August 2006). Disc #60 stands as a major historic milestone in the magazine's history: it was the very first OXM demo disc built exclusively for Xbox 360 hardware. It dropped original Xbox executable code entirely, delivering native, high-definition 360 playable demos and Xbox Live Arcade (XLA) trial games:\n\nPrey (mind-bending gravity-defying first-person sci-fi shooter)\nChromehounds (tactical mech-combat simulator)\nMotoGP '06 (high-speed motorcycle racing simulation)\nCloning Clyde (Xbox Live Arcade puzzle-platformer)\nFrogger (Xbox Live Arcade classic arcade remaster)\n\nBecause it was a native Xbox 360 disc, it also included downloadable gamerpics, dashboard themes, and high-definition 720p/1080i video previews for fall 2006 blockbusters like Gears of War, Dead Rising, Saint's Row, and Splinter Cell: Double Agent, alongside OXM's monthly Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2006-08-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "349240953",
+            "FileName": "r2_5f06e226-a3dc-4705-b616-83dc96e33fa2.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_5f06e226-a3dc-4705-b616-83dc96e33fa2.png"
+          }
+        ]
+      }
+    },
+    "CommunityRating": "5",
+    "DatabaseID": "481175",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 65: Holiday 2006",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #65 was released alongside Issue 65 of the magazine in December 2006 (bearing the cover date of Holiday 2006). Disc #65 marks the permanent transition to Xbox 360-exclusive hardware. From this disc forward, original Xbox executable code was completely dropped, and the disc was authored purely for Xbox 360 systems.\n\nThe disc featured native Xbox 360 playable game demos and Xbox Live Arcade (XLA) trials across tactical shooters, sci-fi action, and sports:\n\nTom Clancy's Rainbow Six Vegas (tactical squad-based first-person shooter)\nSuperman Returns (open-world superhero action)\nTony Hawk's Project 8 (skateboarding simulation)\nSmall Arms (Xbox Live Arcade multiplayer platform brawler)\n\nBecause it was a native 360 disc, it also delivered high-definition 720p/1080i video previews and coverage for late-2006 and early-2007 blockbusters—including Gears of War, Mass Effect, Lost Planet: Extreme Condition, and Crackdown—alongside downloadable gamerpics, custom dashboard themes, and OXM's monthly Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2006-12-07"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2370639713",
+            "FileName": "r2_df7d35f8-4afb-49b7-9c0a-d88da10cebb1.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_df7d35f8-4afb-49b7-9c0a-d88da10cebb1.png"
+          }
+        ]
+      }
+    },
+    "CommunityRating": "5",
+    "DatabaseID": "481180",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 66: January 2007",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #66 shipped to subscribers in December 2006 bearing the cover date of January 2007 (Issue 66). Formatted exclusively for Xbox 360 hardware, it featured native high-definition 360 playable demos and Xbox Live Arcade (XLA) games across third-person sci-fi action, naval strategy, street fighting, and arcade shooters:\n\nLost Planet: Extreme Condition (third-person sci-fi mech/alien action shooter)\nBattlestations: Midway (naval and aerial WWII combat strategy/action)\nDef Jam: Icon (hip-hop street brawler / fighting game)\nHeavy Weapon (Xbox Live Arcade side-scrolling shoot-'em-up)\n\nThe disc also included downloadable Xbox 360 themes, gamerpics, backward-compatibility emulation updates, and 720p/1080i video previews for 2007 blockbusters like Halo 3, Mass Effect, Crackdown, and BioShock, alongside OXM's monthly Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2007-01-01"
   }
 ]

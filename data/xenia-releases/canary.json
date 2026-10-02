@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "6579cc2",
+    "target_commitish": "6579cc2a4c8812a101c46fdae2e21df34a8521fd",
+    "published_at": "2026-10-02T04:22:39Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6579cc2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6579cc2a4c8812a101c46fdae2e21df34a8521fd",
+    "changelog": {
+      "title": "6579cc2_canary_experimental",
+      "changes": "- [GPU] Let the host viewport start at a negative coordinate (`6579cc2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/44f5b4a...6579cc2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6579cc2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6579cc2/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "44f5b4a",
     "target_commitish": "44f5b4a86080189047e9a60f2d2b8041796fcb68",
     "published_at": "2026-10-01T05:40:32Z",

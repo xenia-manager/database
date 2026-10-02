@@ -52,11 +52,11 @@
     "issue": 1234,
     "id": "4C5307F1",
     "title": "SBK Generations",
-    "updated": "2026-10-01T12:27:38Z",
-    "state": "Gameplay",
+    "updated": "2026-10-01T21:16:09Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-readback"
@@ -5891,14 +5891,13 @@
     "issue": 824,
     "id": "425307F5",
     "title": "Wolfenstein: The New Order",
-    "updated": "2026-09-27T21:06:14Z",
+    "updated": "2026-10-01T21:21:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-idtech",
         "gpu-readback",
         "backwards-compatibility-unsupported",
@@ -15612,14 +15611,13 @@
     "issue": 214,
     "id": "4D5307E6",
     "title": "Halo 3",
-    "updated": "2026-10-01T17:56:46Z",
+    "updated": "2026-10-01T20:48:47Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-blam",
         "gpu-readback",
         "kernel-KeSetCurrentStackPointers",
@@ -17265,14 +17263,13 @@
     "issue": 98,
     "id": "41560855",
     "title": "Call of Duty: Black Ops",
-    "updated": "2026-09-05T17:33:05Z",
+    "updated": "2026-10-01T21:18:45Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-iw",
         "gpu-occlusion-query",
         "supports-3d"
