@@ -634,14 +634,13 @@
     "issue": 1189,
     "id": "454109DC",
     "title": "NHL 15",
-    "updated": "2026-08-13T16:44:52Z",
+    "updated": "2026-10-02T11:29:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
@@ -652,14 +651,13 @@
     "issue": 1188,
     "id": "4541099B",
     "title": "NHL 13",
-    "updated": "2026-08-13T14:51:41Z",
+    "updated": "2026-10-02T11:20:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "gpu-readback",
         "backwards-compatibility-unsupported"
       ]
@@ -3333,7 +3331,7 @@
     "issue": 989,
     "id": "534307E7",
     "title": "Just Cause 2",
-    "updated": "2026-05-08T11:05:17Z",
+    "updated": "2026-10-02T10:53:51Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -11057,14 +11055,13 @@
     "issue": 485,
     "id": "425607D3",
     "title": "Turok",
-    "updated": "2026-05-20T21:14:48Z",
+    "updated": "2026-10-02T13:39:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "backwards-compatibility-unsupported"
       ]
@@ -11162,14 +11159,13 @@
     "issue": 477,
     "id": "5454086C",
     "title": "L.A. Noire",
-    "updated": "2026-08-15T22:46:55Z",
+    "updated": "2026-10-02T10:44:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-middleware-havok",
         "backwards-compatibility-unsupported"
       ]
@@ -12169,7 +12165,7 @@
     "issue": 417,
     "id": "58410A59",
     "title": "Lara Croft and the Guardian of Light",
-    "updated": "2025-01-14T15:19:05Z",
+    "updated": "2026-10-02T11:59:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12178,7 +12174,8 @@
       "others": [
         "gpu-drawing-corrupt",
         "regression",
-        "tech-engine-crystal"
+        "tech-engine-crystal",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/417"
@@ -12562,15 +12559,14 @@
     "issue": 394,
     "id": "464F07DA",
     "title": "Backbreaker",
-    "updated": "2026-07-12T19:37:03Z",
+    "updated": "2026-10-02T11:37:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "regression",
+        "requires_force_depth_clamp",
         "tech-physics-physx",
         "tech-middleware-euphoria",
         "gpu-readback",
@@ -12583,14 +12579,13 @@
     "issue": 393,
     "id": "4B4D07F5",
     "title": "Metro Last Light",
-    "updated": "2026-09-21T11:05:51Z",
+    "updated": "2026-10-02T14:20:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-4a",
         "tech-physics-physx",
         "backwards-compatibility-unsupported",
@@ -12687,14 +12682,13 @@
     "issue": 387,
     "id": "54510842",
     "title": "Metro 2033",
-    "updated": "2026-09-21T11:04:48Z",
+    "updated": "2026-10-02T14:20:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-4a",
         "tech-physics-physx",
         "backwards-compatibility-unsupported"
@@ -16090,7 +16084,7 @@
     "issue": 178,
     "id": "425607FE",
     "title": "Cars 2",
-    "updated": "2026-08-27T09:11:37Z",
+    "updated": "2026-10-02T14:18:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17310,7 +17304,7 @@
     "issue": 89,
     "id": "454108C0",
     "title": "Dragon Age: Origins",
-    "updated": "2026-08-26T14:19:40Z",
+    "updated": "2026-10-02T14:10:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
