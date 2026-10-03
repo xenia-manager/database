@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "7347cd1",
+    "target_commitish": "7347cd12ef6e3029db3abcf17a0760d9f74f84bd",
+    "published_at": "2026-10-03T18:17:06Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7347cd1",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7347cd12ef6e3029db3abcf17a0760d9f74f84bd",
+    "changelog": {
+      "title": "7347cd1_canary_experimental",
+      "changes": "- [GPU] Support resolve copy command 2 to k_DXT3A_AS_1_1_1_1 (`7347cd1`)\n- [GPU] Swap the bit order of k_DXT3A_AS_1_1_1_1 components (`ac37478`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6260a87...7347cd1"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7347cd1/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7347cd1/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "6260a87",
     "target_commitish": "6260a87b8551d2f5ffb30763573d84652bb9e00e",
     "published_at": "2026-10-03T07:30:35Z",
