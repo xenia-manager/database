@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "6260a87",
+    "target_commitish": "6260a87b8551d2f5ffb30763573d84652bb9e00e",
+    "published_at": "2026-10-03T07:30:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6260a87",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6260a87b8551d2f5ffb30763573d84652bb9e00e",
+    "changelog": {
+      "title": "6260a87_canary_experimental",
+      "changes": "- [GPU] Fix fetching from wide 1D textures at large coordinates (`6260a87`)\n- [GPU] Handle PM4_WAIT_IB_PFD_COMPLETE (`3e9d62f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e1f4a0d...6260a87"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6260a87/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6260a87/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "e1f4a0d",
+    "target_commitish": "e1f4a0d00968ae9ea1d667f28912cc051a5f637f",
+    "published_at": "2026-10-03T05:28:41Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e1f4a0d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e1f4a0d00968ae9ea1d667f28912cc051a5f637f",
+    "changelog": {
+      "title": "e1f4a0d_canary_experimental",
+      "changes": "- [GPU] Put tiling window offsets in EDRAM bases (`e1f4a0d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b083312...e1f4a0d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e1f4a0d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e1f4a0d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "b083312",
     "target_commitish": "b083312b8b18e07e6e410b82104191f126722794",
     "published_at": "2026-10-02T06:09:34Z",
