@@ -6017,6 +6017,7 @@
           {
             "CRC32": "942231500",
             "FileName": "788412ed-8e33-4b69-96bc-a377cf4a4cbd.png",
+            "Region": "North America",
             "Type": "Box - 3D",
             "URL": "http://images.launchbox-app.com/788412ed-8e33-4b69-96bc-a377cf4a4cbd.png"
           }
@@ -6025,23 +6026,25 @@
           {
             "CRC32": "476174746",
             "FileName": "ded70e93-91c9-4ec0-86a8-e07a01750c27.jpg",
+            "Region": "North America",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/ded70e93-91c9-4ec0-86a8-e07a01750c27.jpg"
           }
         ],
         "Front": [
           {
-            "CRC32": "3834069033",
-            "FileName": "b43d8319-36f7-4508-a325-91e81c7c501a.jpg",
-            "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/b43d8319-36f7-4508-a325-91e81c7c501a.jpg"
-          },
-          {
             "CRC32": "1805052198",
             "FileName": "r2_af9a80a3-c3ac-4c28-8db3-f84f04747fc5.jpg",
             "Region": "Germany",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_af9a80a3-c3ac-4c28-8db3-f84f04747fc5.jpg"
+          },
+          {
+            "CRC32": "3834069033",
+            "FileName": "b43d8319-36f7-4508-a325-91e81c7c501a.jpg",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/b43d8319-36f7-4508-a325-91e81c7c501a.jpg"
           }
         ],
         "Spine": [
@@ -6081,14 +6084,14 @@
         {
           "CRC32": "2352333083",
           "FileName": "r2_2728d6f1-7cbc-4495-b5ce-6bc9f5bea20d.jpg",
-          "Region": "United States",
+          "Region": "North America",
           "Type": "Advertisement Flyer - Front",
           "URL": "http://images.launchbox-app.com/r2_2728d6f1-7cbc-4495-b5ce-6bc9f5bea20d.jpg"
         },
         {
           "CRC32": "3699215753",
           "FileName": "r2_6fe9e158-933d-4129-8c18-b1265b1d03c8.jpg",
-          "Region": "United States",
+          "Region": "North America",
           "Type": "Advertisement Flyer - Front",
           "URL": "http://images.launchbox-app.com/r2_6fe9e158-933d-4129-8c18-b1265b1d03c8.jpg"
         },
@@ -36518,6 +36521,13 @@
             "URL": "http://images.launchbox-app.com/996f5c39-b6c5-4bbc-9c22-858077b5a3ea.jpg"
           },
           {
+            "CRC32": "2302148047",
+            "FileName": "r2_89ed929c-22c5-41d2-9529-cd64245944c3.jpg",
+            "Region": "Australia",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_89ed929c-22c5-41d2-9529-cd64245944c3.jpg"
+          },
+          {
             "CRC32": "2744044348",
             "FileName": "r2_ec25b3e8-80ca-41ed-86eb-5d00a7ca4856.jpg",
             "Region": "Europe",
@@ -36533,15 +36543,38 @@
             "URL": "http://images.launchbox-app.com/3447a408-eb64-4f4f-8f9c-fab42807ba80.jpg"
           },
           {
+            "CRC32": "1308607498",
+            "FileName": "r2_a74baa14-7a62-495f-aa3a-cd0541a4d78b.jpg",
+            "Region": "Australia",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_a74baa14-7a62-495f-aa3a-cd0541a4d78b.jpg"
+          },
+          {
             "CRC32": "3098744236",
             "FileName": "r2_c0c45095-15ca-4977-8643-fa9b0a72c7f1.jpg",
             "Region": "Germany",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_c0c45095-15ca-4977-8643-fa9b0a72c7f1.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1206435050",
+            "FileName": "r2_626adb66-fbc1-4ae3-9b58-bc9a00693b8b.jpg",
+            "Region": "Australia",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_626adb66-fbc1-4ae3-9b58-bc9a00693b8b.jpg"
+          }
         ]
       },
       "Disc": [
+        {
+          "CRC32": "1095169922",
+          "FileName": "r2_8c37e618-0480-421f-a293-e0f818aeec66.png",
+          "Region": "Australia",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_8c37e618-0480-421f-a293-e0f818aeec66.png"
+        },
         {
           "CRC32": "543421131",
           "FileName": "r2_889e0a7a-7a00-492c-acdd-a35c951e0813.png",
@@ -46399,9 +46432,25 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_4390b332-4cfd-4346-ab7e-1630e1b8606c.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "3018180495",
+            "FileName": "r2_c8baf832-6463-48ec-a1bc-03529e64bc61.jpg",
+            "Region": "Australia",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_c8baf832-6463-48ec-a1bc-03529e64bc61.jpg"
+          }
         ]
       },
       "Disc": [
+        {
+          "CRC32": "3105983951",
+          "FileName": "r2_fcbee7cc-be8d-4ea7-8cfc-43f0df63b18d.png",
+          "Region": "Australia",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_fcbee7cc-be8d-4ea7-8cfc-43f0df63b18d.png"
+        },
         {
           "CRC32": "4141488819",
           "FileName": "r2_5936c0cf-8f1e-410f-b0a5-ce4165f37a73.png",
@@ -47565,6 +47614,13 @@
         ],
         "Back": [
           {
+            "CRC32": "3226406830",
+            "FileName": "r2_2191c57e-3720-43db-93d9-8cb8ca81d7e1.jpg",
+            "Region": "Australia",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_2191c57e-3720-43db-93d9-8cb8ca81d7e1.jpg"
+          },
+          {
             "CRC32": "164688068",
             "FileName": "r2_7bfa31b1-ed88-4afb-9beb-f49a380c83e5.jpg",
             "Region": "Germany",
@@ -47581,6 +47637,13 @@
         ],
         "Front": [
           {
+            "CRC32": "254226123",
+            "FileName": "r2_340c6b83-a825-4d4c-899b-3ab1f2046a4a.jpg",
+            "Region": "Australia",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_340c6b83-a825-4d4c-899b-3ab1f2046a4a.jpg"
+          },
+          {
             "CRC32": "1475439861",
             "FileName": "r2_63a974d0-4cc7-4ca0-985c-e477d49d07c7.jpg",
             "Region": "Germany",
@@ -47594,9 +47657,25 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/2256f976-e801-48f5-b537-16d03b0c9148.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "2589020",
+            "FileName": "r2_86f1ee36-9688-4ec6-b645-e847b50f6c16.jpg",
+            "Region": "Australia",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_86f1ee36-9688-4ec6-b645-e847b50f6c16.jpg"
+          }
         ]
       },
       "Disc": [
+        {
+          "CRC32": "1411384327",
+          "FileName": "r2_5f3a7071-c090-4081-8fd6-0fcdcca75385.png",
+          "Region": "Australia",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_5f3a7071-c090-4081-8fd6-0fcdcca75385.png"
+        },
         {
           "CRC32": "3229052989",
           "FileName": "9239a9f2-d761-4529-ab9e-491838e13fb9.png",
@@ -51919,6 +51998,13 @@
             "Region": "North America",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/139ae882-6e9c-4494-b447-3ecf4e4ca6ba.jpg"
+          },
+          {
+            "CRC32": "2763604382",
+            "FileName": "r2_6a3af9fe-adf3-46fb-afc2-ced97f7bc15e.jpg",
+            "Region": "United Kingdom",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_6a3af9fe-adf3-46fb-afc2-ced97f7bc15e.jpg"
           }
         ],
         "Front": [
@@ -51944,11 +52030,27 @@
             "URL": "http://images.launchbox-app.com/b77118b5-eaf4-4655-97c3-a2146a4cc0fd.jpg"
           },
           {
+            "CRC32": "2756174878",
+            "FileName": "r2_f38a40a8-1b2e-4fe2-af2e-4b363627ce66.jpg",
+            "Region": "United Kingdom",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_f38a40a8-1b2e-4fe2-af2e-4b363627ce66.jpg"
+          },
+          {
             "CRC32": "873309324",
             "FileName": "04357e71-fb6f-4f2a-ab37-16f55b88fe6c.png",
             "Region": "North America",
             "Type": "Box - Front - Reconstructed",
             "URL": "http://images.launchbox-app.com/04357e71-fb6f-4f2a-ab37-16f55b88fe6c.png"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "3893396169",
+            "FileName": "r2_51d39505-46c0-4896-802d-31119ea61e6f.jpg",
+            "Region": "United Kingdom",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_51d39505-46c0-4896-802d-31119ea61e6f.jpg"
           }
         ]
       },
@@ -52297,6 +52399,15 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "3805586147",
+          "FileName": "r2_d74c4eb0-b878-4f76-b071-3accbc57f3dc.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_d74c4eb0-b878-4f76-b071-3accbc57f3dc.jpg"
+        }
+      ],
       "Banner": [
         {
           "CRC32": "925499810",
@@ -52326,10 +52437,10 @@
           },
           {
             "CRC32": "3384513407",
-            "FileName": "6231786f-14d2-47b1-863f-e0003b4e379c.jpg",
+            "FileName": "r2_dd4bea03-33f2-4d59-b58a-340d7ada3f67.jpg",
             "Region": "North America",
             "Type": "Box - Back",
-            "URL": "http://images.launchbox-app.com/6231786f-14d2-47b1-863f-e0003b4e379c.jpg"
+            "URL": "http://images.launchbox-app.com/r2_dd4bea03-33f2-4d59-b58a-340d7ada3f67.jpg"
           }
         ],
         "Front": [
@@ -52354,6 +52465,15 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/7161e2e3-2974-41d6-9579-1120a506e5ef.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1989079310",
+            "FileName": "r2_c7a9c671-2eaa-41a5-ac58-d8dd6edaa355.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_c7a9c671-2eaa-41a5-ac58-d8dd6edaa355.jpg"
+          }
         ]
       },
       "Disc": [
@@ -52366,10 +52486,10 @@
         },
         {
           "CRC32": "4001695334",
-          "FileName": "16297a2e-d54f-45cb-81a3-cd03a643d697.png",
+          "FileName": "r2_ff461cc7-dcdc-4d7d-a843-1d043ec4a7be.png",
           "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/16297a2e-d54f-45cb-81a3-cd03a643d697.png"
+          "URL": "http://images.launchbox-app.com/r2_ff461cc7-dcdc-4d7d-a843-1d043ec4a7be.png"
         }
       ],
       "Other": [
@@ -52380,13 +52500,43 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/69b80219-f39b-4d1a-814f-c7054ca4b774.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "676256301",
+          "FileName": "r2_15afb444-9532-4f66-a6a6-f52dcaba3179.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_15afb444-9532-4f66-a6a6-f52dcaba3179.png"
+        },
+        {
+          "CRC32": "1522015039",
+          "FileName": "r2_237cc91e-c222-45e2-8c4d-6962b9f3797c.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_237cc91e-c222-45e2-8c4d-6962b9f3797c.png"
+        },
+        {
+          "CRC32": "3235261679",
+          "FileName": "r2_00faa588-47a1-4978-b2cf-62d0a3e58eb9.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_00faa588-47a1-4978-b2cf-62d0a3e58eb9.png"
+        },
+        {
+          "CRC32": "2499733713",
+          "FileName": "r2_ce22cc3e-d2d9-41f0-a9cd-a74b3e81cdc7.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_ce22cc3e-d2d9-41f0-a9cd-a74b3e81cdc7.png"
+        }
       ]
     },
     "CommunityRating": "3.8125",
     "DatabaseID": "12001",
     "Developer": "FromSoftware",
     "ESRB": "M - Mature",
-    "Genres": "Action",
+    "Genres": "Action; Adventure",
     "Name": "Ninja Blade",
     "Overview": "The modern-day ninja has arrived! A contagious parasite is spreading through the streets of Tokyo, mutating the infected into bloodthirsty abominations. Only you can save humankind from extermination. Star in your own action movie as Ninja Blade takes you from the top of Tokyo’s skyscrapers to the bottom of its subways through stunning cinematics and fast-paced battle.\n\nThe player plays as a modern-day ninja, using a katana, twin swords and broad sword as the main weapon to the hostile creatures. The combat system is similar to Ninja Gaiden or Devil May Cry. A chi bar is used up when \"ninja vision\" or ninjutsu is used. The gameplay is highly cinematic, relying on quick time events to finish missions; after attacking a boss until the health bar is empty, the player must perform a finishing move, called the todome.",
     "Publisher": "Microsoft Game Studios",
@@ -69401,9 +69551,17 @@
       "Background": [
         {
           "CRC32": "3392548041",
-          "FileName": "aeb5ea32-5a35-448c-be56-78f124f506ca.jpg",
+          "FileName": "r2_c859a881-bc64-4ce8-9c66-baa211b9fae5.jpg",
+          "Region": "World",
           "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/aeb5ea32-5a35-448c-be56-78f124f506ca.jpg"
+          "URL": "http://images.launchbox-app.com/r2_c859a881-bc64-4ce8-9c66-baa211b9fae5.jpg"
+        },
+        {
+          "CRC32": "1583213600",
+          "FileName": "r2_f1371d0d-b382-4af7-8e64-d7780312878e.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_f1371d0d-b382-4af7-8e64-d7780312878e.jpg"
         }
       ],
       "Box": {
@@ -69413,6 +69571,15 @@
             "FileName": "d277581c-741a-47e6-ba29-6e042beaeffc.png",
             "Type": "Box - 3D",
             "URL": "http://images.launchbox-app.com/d277581c-741a-47e6-ba29-6e042beaeffc.png"
+          }
+        ],
+        "Back": [
+          {
+            "CRC32": "3498172106",
+            "FileName": "r2_c017fe0f-8784-4248-82e4-7e9b0658ba6f.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_c017fe0f-8784-4248-82e4-7e9b0658ba6f.jpg"
           }
         ],
         "Front": [
@@ -69429,6 +69596,15 @@
             "Region": "North America",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_2978a0a3-aaf7-4ba6-8bb9-2daab2766d19.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "2969591999",
+            "FileName": "r2_28fa16a8-3959-4a94-bee8-72c6d78e1e4e.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_28fa16a8-3959-4a94-bee8-72c6d78e1e4e.jpg"
           }
         ]
       },
@@ -69463,6 +69639,34 @@
           "Region": "World",
           "Type": "Screenshot - Game Select",
           "URL": "http://images.launchbox-app.com/r2_2b57b497-50d3-4042-afb4-629811b0afe1.png"
+        },
+        {
+          "CRC32": "2617711861",
+          "FileName": "r2_859d90ab-d86b-44a5-9881-a8499b528358.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_859d90ab-d86b-44a5-9881-a8499b528358.png"
+        },
+        {
+          "CRC32": "944341888",
+          "FileName": "r2_329722e6-7157-43c6-9fd5-14692c20538f.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_329722e6-7157-43c6-9fd5-14692c20538f.png"
+        },
+        {
+          "CRC32": "1918571227",
+          "FileName": "r2_bca050c7-316b-4747-9376-32da3a00bd75.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_bca050c7-316b-4747-9376-32da3a00bd75.png"
+        },
+        {
+          "CRC32": "2169639359",
+          "FileName": "r2_eb60db15-264b-41f1-bdc9-ac67a896acc3.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_eb60db15-264b-41f1-bdc9-ac67a896acc3.png"
         }
       ]
     },
@@ -69474,7 +69678,8 @@
     "Name": "Two Worlds II",
     "Overview": "Originally conceived as an expansion to 2007's action role-playing game, developer Reality Pump's follow-up has evolved into a completely reworked sequel featuring a custom-designed graphics engine and an assortment of new features. The setting takes place in the eastern part of Antaloor, a region featuring deserts, jungles, swamps, and other potentially dangerous locales. Once again players can either journey across the lands to fulfill a main quest or simply explore the monster-infested regions on their own, picking up side quests along the way. Among the improvements to the original game include a more streamlined real-time combat system, revamped horseback riding, interactive environments, and a crafting mechanic that allows characters to forge their own weapons and equipment.",
     "Publisher": "Southpeak Interactive",
-    "ReleaseDate": "2011-01-25"
+    "ReleaseDate": "2011-01-25",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Two_Worlds_II"
   },
   {
     "Artwork": {
@@ -75342,6 +75547,15 @@
           "URL": "http://images.launchbox-app.com/r2_47fa6982-c8cc-4bd5-bc08-98a8b31e07e8.png"
         }
       ],
+      "Other": [
+        {
+          "CRC32": "634633057",
+          "FileName": "r2_26d5ad6c-7a52-4211-a7aa-457e29330c06.png",
+          "Region": "World",
+          "Type": "Clear Logo",
+          "URL": "http://images.launchbox-app.com/r2_26d5ad6c-7a52-4211-a7aa-457e29330c06.png"
+        }
+      ],
       "Screenshots": [
         {
           "CRC32": "2101158223",
@@ -75349,6 +75563,13 @@
           "Region": "World",
           "Type": "Screenshot - Game Select",
           "URL": "http://images.launchbox-app.com/r2_a4ba8525-22a7-44bc-a5e0-b8bbf7a4a140.png"
+        },
+        {
+          "CRC32": "2617711861",
+          "FileName": "r2_bdf35641-15de-460a-b0ae-5386c597e5ec.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_bdf35641-15de-460a-b0ae-5386c597e5ec.png"
         },
         {
           "CRC32": "944341888",
@@ -101753,7 +101974,7 @@
     "CommunityRating": "3.5",
     "DatabaseID": "15370",
     "ESRB": "T - Teen",
-    "Genres": null,
+    "Genres": "Flight Simulator; Shooter",
     "Name": "Combat Wings: The Great Battles of World War II",
     "Overview": "When millions of soldiers and thousands of tanks clashed on the fronts of World War II, an even more dramatic battle was being fought above the blood soaked earth. All across the globe, heroic allied pilots desperately tried to gain air dominance. \n\nDefend Great Britain against the German Luftwaffe, take part in the monumental efforts of the Red Army on the east, or exact revenge on the Japanese air forces as an American pilot over the Pacific. Stay focused, as split-seconds decide victory or death",
     "ReleaseDate": "2012-03-27"
@@ -133905,6 +134126,13 @@
             "URL": "http://images.launchbox-app.com/r2_e5d9c761-3e94-4117-be9b-f70f3341e12b.jpg"
           },
           {
+            "CRC32": "3434346546",
+            "FileName": "r2_13ca623e-a9b5-436e-b533-3bfa251c6e7c.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_13ca623e-a9b5-436e-b533-3bfa251c6e7c.jpg"
+          },
+          {
             "CRC32": "4153726187",
             "FileName": "r2_92b41a7e-a842-4f25-a283-8950b26dd23b.jpg",
             "Region": "Spain",
@@ -133943,10 +134171,10 @@
           },
           {
             "CRC32": "1571373500",
-            "FileName": "60307d86-1dca-4411-9ca7-980d5c2f5753.jpg",
+            "FileName": "r2_9a51d51f-d574-43a1-9b8e-9781b15b7422.jpg",
             "Region": "North America",
             "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/60307d86-1dca-4411-9ca7-980d5c2f5753.jpg"
+            "URL": "http://images.launchbox-app.com/r2_9a51d51f-d574-43a1-9b8e-9781b15b7422.jpg"
           },
           {
             "CRC32": "2455887130",
@@ -133963,23 +134191,30 @@
             "Region": "Australia",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/r2_5ce4ad14-c952-42ee-b13a-af7c7d702f56.jpg"
+          },
+          {
+            "CRC32": "3401746784",
+            "FileName": "r2_53d40160-01b8-40cb-ac50-151a7df1f00d.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_53d40160-01b8-40cb-ac50-151a7df1f00d.jpg"
           }
         ]
       },
       "Disc": [
         {
           "CRC32": "509532431",
-          "FileName": "r2_a552555e-66d7-4a3a-afdc-45c138818f9c.png",
+          "FileName": "r2_17e77e9b-0835-4748-89cf-187443b8187d.png",
           "Region": "Europe",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/r2_a552555e-66d7-4a3a-afdc-45c138818f9c.png"
+          "URL": "http://images.launchbox-app.com/r2_17e77e9b-0835-4748-89cf-187443b8187d.png"
         },
         {
           "CRC32": "2545710836",
-          "FileName": "r2_ad8f1617-74ad-4d9f-88d2-4a72a44be745.png",
+          "FileName": "r2_f7f96741-dadd-4a35-b001-a497b9cb5274.png",
           "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/r2_ad8f1617-74ad-4d9f-88d2-4a72a44be745.png"
+          "URL": "http://images.launchbox-app.com/r2_f7f96741-dadd-4a35-b001-a497b9cb5274.png"
         },
         {
           "CRC32": "3220147328",
@@ -133996,6 +134231,50 @@
           "Region": "World",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/4d4023fd-a3e3-40d7-b4a3-037542dbd893.png"
+        },
+        {
+          "CRC32": "441459242",
+          "FileName": "r2_99f85427-5c01-48c9-9aed-f461b8fc76e6.png",
+          "Region": "World",
+          "Type": "Clear Logo",
+          "URL": "http://images.launchbox-app.com/r2_99f85427-5c01-48c9-9aed-f461b8fc76e6.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "2680940993",
+          "FileName": "r2_7acf92b6-a224-4d84-a939-50fce4e591be.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_7acf92b6-a224-4d84-a939-50fce4e591be.png"
+        },
+        {
+          "CRC32": "3696841761",
+          "FileName": "r2_9754ef8b-02c9-4d3e-9496-8232a691d9c9.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_9754ef8b-02c9-4d3e-9496-8232a691d9c9.png"
+        },
+        {
+          "CRC32": "627278303",
+          "FileName": "r2_67272acb-9700-4c8e-984c-92fe579a5a21.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_67272acb-9700-4c8e-984c-92fe579a5a21.png"
+        },
+        {
+          "CRC32": "1183216305",
+          "FileName": "r2_91ee2444-ee2d-421d-ae80-6ebd7596cb20.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_91ee2444-ee2d-421d-ae80-6ebd7596cb20.png"
+        },
+        {
+          "CRC32": "4108157266",
+          "FileName": "r2_94172314-b45e-4618-8ef9-0c2319ac921e.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_94172314-b45e-4618-8ef9-0c2319ac921e.png"
         }
       ]
     },
@@ -326052,5 +326331,772 @@
     "Overview": "Official Xbox Magazine (OXM) Demo Disc #104 shipped to subscribers in December 2009 (bearing the cover date of Holiday 2009 or January 2010 for Issue 104). Formatted natively for Xbox 360 hardware, Disc #104 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom gamerpics, and exclusive media previews:\n\nBattlefield: Bad Company 2 (tactical squad-based FPS)\nJust Cause 2 (open-world action-adventure)\nSonic & SEGA All-Stars Racing (kart racing)\nDynasty Warriors: Strikeforce (action hack-and-slash)\nMatt Hazard: Blood Bath and Beyond (Xbox Live Arcade side-scrolling shooter)\nDarwinia+ (Xbox Live Arcade real-time strategy/action)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews—featuring coverage for Halo: Reach, Dead Rising 2, and Medal of Honor, alongside OXM's monthly Review Roundup and Top Plays segment.",
     "Publisher": "Future Publishing",
     "ReleaseDate": "2009-12-07"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "708275713",
+            "FileName": "0e670571-54fe-4458-9637-0065bd01e738.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/0e670571-54fe-4458-9637-0065bd01e738.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481247",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 105: January 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #105 shipped to subscribers in December 2009 (bearing the cover date of January 2010 for Issue 105). Formatted natively for Xbox 360 hardware, Disc #105 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, bonus video features, and exclusive media previews:\n\nBayonetta (stylish third-person action hack-and-slash)\nGuitar Hero: Van Halen (rhythm music game)\nNeed for Speed: Shift (racing simulation)\nNBA 2K10 (sports simulation)\nCSI: Crime Scene Investigation: Deadly Intent (mystery adventure)\nSouth Park: Let's Go Tower Defense Play! (Xbox Live Arcade tower defense)\nTower Bloxx Deluxe (Xbox Live Arcade casual puzzle strategy)\nInferno Pool (Xbox Live Arcade arcade physics pool)\nRainbow Islands: Towering Adventure! (Xbox Live Arcade action platformer)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, a 20-minute Sam & Max video spectacular featurette, and high-definition 720p/1080i video previews—featuring coverage for Splinter Cell: Conviction, Halo: Reach, and Mass Effect 2, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-01-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "997173259",
+            "FileName": "e103953e-38ab-48a3-ab9a-7dbdbad689fe.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/e103953e-38ab-48a3-ab9a-7dbdbad689fe.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481248",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 106: February 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #106 shipped to subscribers in January 2010 (bearing the cover date of February 2010 for Issue 106). Formatted natively for Xbox 360 hardware, Disc #106 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nMega Man 10 (Xbox Live Arcade retro action-platformer)\nToy Soldiers (Xbox Live Arcade action-strategy tower defense)\nPerfect Dark (Xbox Live Arcade remastered FPS)\nScrap Metal (Xbox Live Arcade top-down combat racing)\nRayman 2: The Great Escape (Xbox Live Arcade classic platformer port)\nGreed Corp (Xbox Live Arcade turn-based strategy)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews—featuring coverage for Halo: Reach, Gears of War 3, and Portal 2, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-02-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "4193718629",
+            "FileName": "8d7fc6ab-163f-4da4-8e49-a2ec520e45c2.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/8d7fc6ab-163f-4da4-8e49-a2ec520e45c2.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481249",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 101: October 2009",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #101 shipped to subscribers in September 2009 (bearing the cover date of October 2009 for Issue 101). Formatted natively for Xbox 360 hardware, Disc #101 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom gamerpics, and exclusive media previews:\n\nForza Motorsport 3 (racing simulation)\nPro Evolution Soccer 2010 (sports simulation)\nOperation Flashpoint: Dragon Rising (tactical first-person shooter)\nStar Wars The Clone Wars: Republic Heroes (action-adventure)\nSouth Park Let's Go Tower Defense Play! (Xbox Live Arcade tower defense)\nLucidity (Xbox Live Arcade puzzle-platformer)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews—featuring coverage for Call of Duty: Modern Warfare 2, Dragon Age: Origins, and Mass Effect 2, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2009-10-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "861930602",
+            "FileName": "5f441679-daee-4839-9f7a-cee3939a41de.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/5f441679-daee-4839-9f7a-cee3939a41de.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481250",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 109: May 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #109 shipped to subscribers in April 2010 (bearing the cover date of May 2010 for Issue 109). Formatted natively for Xbox 360 hardware, Disc #109 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nPrince of Persia: The Forgotten Sands (action-adventure platformer)\nGreen Day: Rock Band (rhythm music game)\nNaughty Bear (action-adventure stealth comedy)\nSnoopy Flying Ace (Xbox Live Arcade aerial combat)\nBen 10 Alien Force: The Rise of Hex (Xbox Live Arcade action-platformer)\nDoom II (Xbox Live Arcade retro FPS port)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Call of Duty: Black Ops, Batman: Arkham City, and Brink, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-05-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1575310701",
+            "FileName": "87b0bd88-029d-45fe-bcda-27063971001f.png",
+            "Region": "North America",
+            "Type": "Fanart - Box - Front",
+            "URL": "http://images.launchbox-app.com/87b0bd88-029d-45fe-bcda-27063971001f.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481251",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 116: December 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #116 shipped to subscribers in October 2010 (bearing the cover date of December 2010 for Issue 116). Formatted natively for Xbox 360 hardware, Disc #116 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nNeed for Speed: Hot Pursuit (arcade racing)\nSplatterhouse (hack-and-slash beat 'em up)\nMajin and the Forsaken Kingdom (action-adventure puzzle)\nIlomilo (Xbox Live Arcade 3D puzzle-platformer)\nRaskulls (Xbox Live Arcade action puzzle-platformer)\nDeadest Nation (Xbox Live Arcade top-down twin-stick shooter)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Elder Scrolls V: Skyrim, Mass Effect 3, and Gears of War 3, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-12-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "3407451507",
+            "FileName": "153ab7a4-2a25-4126-b769-1d5b96a2f83d.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/153ab7a4-2a25-4126-b769-1d5b96a2f83d.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481252",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 111: July 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #111 shipped to subscribers in June 2010 (bearing the cover date of July 2010 for Issue 111). Formatted natively for Xbox 360 hardware, Disc #111 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nMafia II (open-world action-adventure)\nKane & Lynch 2: Dog Days (third-person shooter)\nMadden NFL 11 (sports simulation)\nLara Croft and the Guardian of Light (Xbox Live Arcade isometric action-adventure)\nCastlevania: Harmony of Despair (Xbox Live Arcade multiplayer action-platformer)\nMonday Night Combat (Xbox Live Arcade third-person shooter MOBA)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring E3 2010 reveals including Kinect, Halo: Reach, Gears of War 3, and Call of Duty: Black Ops, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-07-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2237558281",
+            "FileName": "52ccc1bd-6658-4042-96b3-b0913a6afe08.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/52ccc1bd-6658-4042-96b3-b0913a6afe08.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481253",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 112: August 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #112 shipped to subscribers in July 2010 (bearing the cover date of August 2010 for Issue 112). Formatted natively for Xbox 360 hardware, Disc #112 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nDead Rising 2 (open-world action survival horror)\nEnslaved: Odyssey to the West (tactical action-adventure)\nHawx 2 (arcade flight combat)\nShank (Xbox Live Arcade 2D side-scrolling beat 'em up)\nSpace Invaders Infinity Gene (Xbox Live Arcade arcade shoot 'em up)\nScott Pilgrim vs. The World: The Game (Xbox Live Arcade retro beat 'em up)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Call of Duty: Black Ops, Halo: Reach, and Portal 2, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-08-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2318380408",
+            "FileName": "9b1bec35-1a68-4267-9c19-54175d3569f1.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/9b1bec35-1a68-4267-9c19-54175d3569f1.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481256",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 120: March 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #120 shipped to subscribers in February 2011 (bearing the cover date of March 2011 for Issue 120). Formatted natively for Xbox 360 hardware, Disc #120 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nOperation Flashpoint: Red River (tactical first-person shooter)\nDynasty Warriors 7 (action hack-and-slash)\nTop Spin 4 (sports tennis simulation)\nSection 8: Prejudice (Xbox Live Arcade futuristic FPS)\nNin2-Jump (Xbox Live Arcade action platformer)\nYar's Revenge (Xbox Live Arcade rail shooter)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Gears of War 3, Modern Warfare 3, and Portal 2, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-03-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "67380722",
+            "FileName": "c971e29b-63b4-4d70-819e-c2e2c15b69d3.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/c971e29b-63b4-4d70-819e-c2e2c15b69d3.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481257",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 107: March 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #107 shipped to subscribers in February 2010 (bearing the cover date of March 2010 for Issue 107). Formatted natively for Xbox 360 hardware, Disc #107 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nSplit/Second (arcade racing)\nBlur (power-up arcade racing)\nSupreme Commander 2 (real-time strategy)\nPrison Break: The Conspiracy (action-adventure stealth)\nRoom Boomer (Xbox Live Arcade physics puzzle)\nLazy Raiders (Xbox Live Arcade action-puzzle)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews—featuring coverage for Gears of War 3, Fallout: New Vegas, and Fable III, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-03-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2318510207",
+            "FileName": "852e8fb6-93f2-43c1-beb3-bad9ade1dd11.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/852e8fb6-93f2-43c1-beb3-bad9ade1dd11.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481258",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 110: June 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #110 shipped to subscribers in May 2010 (bearing the cover date of June 2010 for Issue 110). Formatted natively for Xbox 360 hardware, Disc #110 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nTransformers: War for Cybertron (third-person action shooter)\nSingularity (first-person sci-fi shooter)\nNCAA Football 11 (sports simulation)\nLimbo (Xbox Live Arcade puzzle-platformer)\nHydro Thunder Hurricane (Xbox Live Arcade powerboat racing)\nBlacklight: Tango Down (Xbox Live Arcade multiplayer FPS)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring E3 2010 expectations, Call of Duty: Black Ops, and Gears of War 3, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-06-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2795120484",
+            "FileName": "9dd29cda-6af4-4d80-be7b-f7a9f5d0a5cb.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/9dd29cda-6af4-4d80-be7b-f7a9f5d0a5cb.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481259",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 114: October 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #114 shipped to subscribers in September 2010 (bearing the cover date of October 2010 for Issue 114). Formatted natively for Xbox 360 hardware, Disc #114 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nStar Wars: The Force Unleashed II (third-person action-adventure)\nApache: Air Assault (combat flight simulator)\nCSI: Fatal Conspiracy (mystery graphic adventure)\nCostume Quest (Xbox Live Arcade RPG adventure)\nPac-Man Championship Edition DX (Xbox Live Arcade maze action)\nPinball FX 2 (Xbox Live Arcade virtual pinball simulation)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Call of Duty: Black Ops, Need for Speed: Hot Pursuit, and Dragon Age II, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-10-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "3940684667",
+            "FileName": "c33a461e-c0a7-4cdb-8c13-53e97cbfe17a.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/c33a461e-c0a7-4cdb-8c13-53e97cbfe17a.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481260",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 108: April 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #108 shipped to subscribers in March 2010 (bearing the cover date of April 2010 for Issue 108). Formatted natively for Xbox 360 hardware, Disc #108 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nFairytale Fights (hack-and-slash action-adventure)\nJust Cause 2 (open-world action-adventure)\nPrison Break: The Conspiracy (action-adventure stealth)\nScrap Metal (Xbox Live Arcade top-down combat racing)\nRayman 2: The Great Escape (Xbox Live Arcade classic platformer port)\nRoom Boomer (Xbox Live Arcade physics puzzle)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Gears of War 3, Fallout: New Vegas, and Halo: Reach, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-04-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "3809072840",
+            "FileName": "85875abe-ab9b-4307-b589-91c0908ed9fb.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/85875abe-ab9b-4307-b589-91c0908ed9fb.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481261",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 113: September 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #113 shipped to subscribers in August 2010 (bearing the cover date of September 2010 for Issue 113). Formatted natively for Xbox 360 hardware, Disc #113 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nVanquish (third-person sci-fi shooter)\nNBA 2K11 (sports simulation)\nPro Evolution Soccer 2011 (sports simulation)\nSonic the Hedgehog 4: Episode I (Xbox Live Arcade 2D platformer)\nComic Jumper: The Adventures of Captain Smiley (Xbox Live Arcade action-platformer)\nSuper Meat Boy (Xbox Live Arcade precision platformer)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Call of Duty: Black Ops, Halo: Reach, and Assassin's Creed: Brotherhood, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-09-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1809784444",
+            "FileName": "d0ec92ce-8f9b-4349-b8b1-6794426c2099.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/d0ec92ce-8f9b-4349-b8b1-6794426c2099.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481262",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 115: November 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #115 shipped to subscribers in September 2010 (bearing the cover date of November 2010 for Issue 115). Formatted natively for Xbox 360 hardware, Disc #115 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nMafia II (open-world action-adventure)\nFIFA 11 (sports simulation)\nNBA 2K11 (sports simulation)\nPlants vs. Zombies (Xbox Live Arcade tower defense strategy)\nSwarm (Xbox Live Arcade action-puzzle platformer)\nHydrophobia (Xbox Live Arcade survival action-adventure)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable Plants vs. Zombies gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Halo: Reach, Metal Gear Solid: Rising, Red Faction: Armageddon, Castlevania: Lords of Shadow, and Children of Eden, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-11-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2403211630",
+            "FileName": "2b15678e-010e-4f5d-9d08-c9e03ed4daa7.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/2b15678e-010e-4f5d-9d08-c9e03ed4daa7.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481263",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 117: Holiday 2010",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #117 shipped to subscribers in November 2010 (bearing the cover date of Holiday 2010 or January 2011 for Issue 117). Formatted natively for Xbox 360 hardware, Disc #117 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nDead Space 2 (survival horror third-person shooter)\nBulletstorm (first-person shooter)\nRed Faction: Armageddon (third-person action-shooter)\nBionic Commando Rearmed 2 (Xbox Live Arcade side-scrolling platformer)\nTorchlight (Xbox Live Arcade action RPG)\nHard Corps: Uprising (Xbox Live Arcade run-and-gun action)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for The Elder Scrolls V: Skyrim, Batman: Arkham City, and Dragon Age II, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2010-12-07"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "448904778",
+            "FileName": "e3b6f1a7-c12e-47d4-a270-10ebea9c0ee5.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/e3b6f1a7-c12e-47d4-a270-10ebea9c0ee5.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481264",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 118: January 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #118 shipped to subscribers in December 2010 (bearing the cover date of January 2011 for Issue 118). Formatted natively for Xbox 360 hardware, Disc #118 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nCrysis 2 (first-person sci-fi shooter)\nFight Night Champion (sports boxing simulation)\nShift 2: Unleashed (racing simulation)\nBeyond Good & Evil HD (Xbox Live Arcade remastered action-adventure)\nBejeweled 3 (Xbox Live Arcade puzzle)\nFull Ninjas (Xbox Live Arcade action)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for The Elder Scrolls V: Skyrim, Battlefield 3, and Mass Effect 3, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-01-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1299597085",
+            "FileName": "890d8126-9c8e-42fc-8b3a-3db69acd5e85.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/890d8126-9c8e-42fc-8b3a-3db69acd5e85.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481265",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 119: February 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #119 shipped to subscribers in January 2011 (bearing the cover date of February 2011 for Issue 119). Formatted natively for Xbox 360 hardware, Disc #119 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nDragon Age II (action role-playing game)\nLEGO Star Wars III: The Clone Wars (action-adventure platformer)\nHomefront (first-person shooter)\nOutland (Xbox Live Arcade action puzzle-platformer)\nIslands of Wakfu (Xbox Live Arcade tactical action RPG)\nStacking (Xbox Live Arcade adventure puzzle)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for The Elder Scrolls V: Skyrim, Modern Warfare 3, and Batman: Arkham City, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-02-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "4081692123",
+            "FileName": "a4465df8-4240-4e38-8c7f-ef22b1e6e61e.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/a4465df8-4240-4e38-8c7f-ef22b1e6e61e.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481266",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 121: April 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #121 shipped to subscribers in March 2011 (bearing the cover date of April 2011 for Issue 121). Formatted natively for Xbox 360 hardware, Disc #121 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nRed Faction: Armageddon (third-person action-shooter)\nMX vs. ATV Alive (off-road racing simulation)\nVirtua Tennis 4 (sports tennis simulation)\nBangai-O HD: Missile Fury (Xbox Live Arcade tactical bullet-hell shooter)\nMoon Diver (Xbox Live Arcade side-scrolling action-platformer)\nAnomaly: Warzone Earth (Xbox Live Arcade reverse tower defense)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for The Elder Scrolls V: Skyrim, Call of Duty: Modern Warfare 3, and Battlefield 3, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-04-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1428927538",
+            "FileName": "3a24fd36-4596-4e28-8e60-9fd941ea63f5.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/3a24fd36-4596-4e28-8e60-9fd941ea63f5.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481267",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 122: May 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #122 shipped to subscribers in April 2011 (bearing the cover date of May 2011 for Issue 122). Formatted natively for Xbox 360 hardware, Disc #122 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nHunted: The Demon's Forge (co-op action-adventure third-person shooter)\nDungeon Siege III (action role-playing game)\nFEAR 3 (first-person survival horror shooter)\nGatling Gears (Xbox Live Arcade top-down twin-stick shooter)\nTrenched / Iron Brigade (Xbox Live Arcade mecha tower defense action)\nMagic: The Gathering - Duels of the Planeswalkers 2012 (Xbox Live Arcade collectible card game)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring E3 2011 anticipation coverage for Call of Duty: Modern Warfare 3, Gears of War 3, and Mass Effect 3, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-05-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2702948191",
+            "FileName": "310362bc-f03b-475c-a1db-b7dd02166793.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/310362bc-f03b-475c-a1db-b7dd02166793.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481268",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 123: June 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #123 shipped to subscribers in May 2011 (bearing the cover date of June 2011 for Issue 123). Formatted natively for Xbox 360 hardware, Disc #123 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nCaptain America: Super Soldier (third-person action-adventure)\nNCAA Football 12 (sports simulation)\nCall of Juarez: The Cartel (first-person shooter)\nBastion (Xbox Live Arcade action role-playing game)\nFrom Dust (Xbox Live Arcade god simulator puzzle)\nInsanely Twisted Shadow Planet (Xbox Live Arcade side-scrolling action-adventure)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring E3 2011 preview coverage for Halo 4, Gears of War 3, Call of Duty: Modern Warfare 3, and Forza Motorsport 4, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-06-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1388691870",
+            "FileName": "4292a0a9-b8d1-4689-962d-558bb170ee8a.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/4292a0a9-b8d1-4689-962d-558bb170ee8a.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481269",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 125: August 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #125 shipped to subscribers in July 2011 (bearing the cover date of August 2011 for Issue 125). Formatted natively for Xbox 360 hardware, Disc #125 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nEl Shaddai: Ascension of the Metatron (third-person action-adventure)\nDriver: San Francisco (action-driving adventure)\nNHL 12 (sports simulation)\nBloodRayne: Betrayal (Xbox Live Arcade 2D side-scrolling hack-and-slash)\nRenegade Ops (Xbox Live Arcade top-down vehicular combat)\nRadiant Silvergun (Xbox Live Arcade arcade shoot 'em up remaster)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for The Elder Scrolls V: Skyrim, Call of Duty: Modern Warfare 3, and Gears of War 3, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-08-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1282109295",
+            "FileName": "d1e84060-dc5b-4173-a900-043961128503.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/d1e84060-dc5b-4173-a900-043961128503.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481270",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 126: September 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #126 shipped to subscribers in August 2011 (bearing the cover date of September 2011 for Issue 126). Formatted natively for Xbox 360 hardware, Disc #126 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nAce Combat: Assault Horizon (arcade flight combat)\nFIFA 12 (sports simulation)\nPro Evolution Soccer 2012 (sports simulation)\nGuardian Heroes (Xbox Live Arcade 2D side-scrolling beat 'em up remaster)\nOrcs Must Die! (Xbox Live Arcade action tower defense)\nReal Steel (Xbox Live Arcade robot fighting game)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Call of Duty: Modern Warfare 3, Battlefield 3, and Halo: Combat Evolved Anniversary, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-09-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2517028974",
+            "FileName": "be31cbc9-45f6-4a1b-9fa9-008592c33ec7.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/be31cbc9-45f6-4a1b-9fa9-008592c33ec7.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481271",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 127: October 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #127 shipped to subscribers in September 2011 (bearing the cover date of October 2011 for Issue 127). Formatted natively for Xbox 360 hardware, Disc #127 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nSonic Generations (platformer)\nSpider-Man: Edge of Time (action-adventure)\nNBA 2K12 (sports simulation)\nDungeon Defenders (Xbox Live Arcade tower defense action RPG)\nDaytona USA (Xbox Live Arcade arcade racing port)\nPinball FX 2: Marvel Pinball (Xbox Live Arcade virtual pinball expansion)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for The Elder Scrolls V: Skyrim, Mass Effect 3, and BioShock Infinite, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-10-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "690060014",
+            "FileName": "1da11e3f-3bdd-4dc5-bf03-0ecccaafdd72.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/1da11e3f-3bdd-4dc5-bf03-0ecccaafdd72.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481274",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 124: July 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #124 shipped to subscribers in June 2011 (bearing the cover date of July 2011 for Issue 124). Formatted natively for Xbox 360 hardware, Disc #124 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nWarhammer 40,000: Space Marine (third-person action hack-and-slash shooter)\nBodycount (first-person arcade shooter)\nMadden NFL 12 (sports simulation)\nToy Soldiers: Cold War (Xbox Live Arcade action-strategy tower defense)\nFruit Ninja Kinect (Xbox Live Arcade motion action)\nRadiangames Ballistic (Xbox Live Arcade twin-stick shooter)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring E3 2011 recap coverage for Halo 4, Gears of War 3, Call of Duty: Modern Warfare 3, and Forza Motorsport 4, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-07-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "2321201630",
+            "FileName": "c0df2180-ef8b-4a0c-9f3e-bbb70a7a8bce.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/c0df2180-ef8b-4a0c-9f3e-bbb70a7a8bce.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481275",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 128: November 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #128 shipped to subscribers in October 2011 (bearing the cover date of November 2011 for Issue 128). Formatted natively for Xbox 360 hardware, Disc #128 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nNeed for Speed: The Run (arcade racing adventure)\nLEGO Harry Potter: Years 5-7 (action-adventure platformer)\nMotionSports Adrenaline (Kinect sports motion game)\nTrine 2 (Xbox Live Arcade puzzle-platformer)\nJoe Danger Special Edition (Xbox Live Arcade stunt action platformer)\nVoltron: Defender of the Universe (Xbox Live Arcade twin-stick shooter)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring launch coverage for The Elder Scrolls V: Skyrim, Call of Duty: Modern Warfare 3, and Halo: Combat Evolved Anniversary, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-11-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1297824326",
+            "FileName": "ffd5a550-b8bd-4703-ab4d-049e680126c1.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/ffd5a550-b8bd-4703-ab4d-049e680126c1.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481276",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 129: December 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #129 shipped to subscribers in October 2011 (bearing the cover date of December 2011 for Issue 129). Formatted natively for Xbox 360 hardware, Disc #129 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nAsura's Wrath (cinematic action-adventure)\nThe Darkness II (first-person action shooter)\nUFC Undisputed 3 (mixed martial arts simulation)\nAlan Wake's American Nightmare (Xbox Live Arcade action horror)\nWarp (Xbox Live Arcade top-down stealth puzzle)\nChoplifter HD (Xbox Live Arcade action rescue simulation)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Mass Effect 3, Halo 4, and BioShock Infinite, alongside OXM's Game of the Year awards preview, monthly Review Roundup, and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-12-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "749537796",
+            "FileName": "fb8e1026-35e5-49b9-ab7d-a1f37ea69344.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/fb8e1026-35e5-49b9-ab7d-a1f37ea69344.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481277",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 130: Holiday 2011",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #130 shipped to subscribers in November 2011 (bearing the cover date of Holiday 2011 for Issue 130). Formatted natively for Xbox 360 hardware, Disc #130 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nBinary Domain (third-person tactical shooter)\nSyndicate (first-person cyberpunk shooter)\nBirds of Steel (combat flight simulator)\nGotham City Impostors (Xbox Live Arcade multiplayer first-person shooter)\nShank 2 (Xbox Live Arcade 2D side-scrolling beat 'em up)\nNexuiz (Xbox Live Arcade arena first-person shooter)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Mass Effect 3, Halo 4, Ghost Recon: Future Soldier, and Resident Evil 6, alongside OXM's monthly Review Roundup and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2011-12-07"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "238919227",
+            "FileName": "5902e67c-e885-45a3-9251-cd434531d568.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/5902e67c-e885-45a3-9251-cd434531d568.png"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481278",
+    "Developer": "Various",
+    "ESRB": "M - Mature",
+    "Genres": "Compilation",
+    "Name": "Official Xbox Magazine: Volume 131: January 2012",
+    "Overview": "Official Xbox Magazine (OXM) Demo Disc #131 shipped to subscribers in December 2011 (bearing the cover date of January 2012 for Issue 131). Formatted natively for Xbox 360 hardware, Disc #131 featured high-definition 360 playable game demos, Xbox Live Arcade (XLA) trials, custom downloadable content, and exclusive media previews:\n\nSSX (arcade snowboarding)\nNaruto Shippuden: Ultimate Ninja Storm Generations (3D fighting)\nRidge Racer Unbounded (arcade racing)\nTrials Evolution (Xbox Live Arcade physics bike platformer)\nBloodforge (Xbox Live Arcade hack-and-slash action)\nSine Mora (Xbox Live Arcade side-scrolling shoot 'em up)\n\nIn addition to interactive gameplay, the native 360 disc included downloadable gamerpics, offline backward-compatibility emulation updates, and high-definition 720p/1080i video previews--featuring coverage for Halo 4, Max Payne 3, BioShock Infinite, and Borderlands 2, alongside OXM's 2012 Most Wanted awards, monthly Review Roundup, and Top Plays segment.",
+    "Publisher": "Future Publishing",
+    "ReleaseDate": "2012-01-01"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "622179231",
+            "FileName": "0118b8dd-e51e-4e11-97f3-0c8f284b70e4.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/0118b8dd-e51e-4e11-97f3-0c8f284b70e4.jpg"
+          }
+        ]
+      },
+      "Screenshots": [
+        {
+          "CRC32": "4162499992",
+          "FileName": "28257927-214a-4750-9387-748183613660.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/28257927-214a-4750-9387-748183613660.jpg"
+        },
+        {
+          "CRC32": "2998942190",
+          "FileName": "4c74f6c8-796e-4005-8f18-cf4f57c26682.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/4c74f6c8-796e-4005-8f18-cf4f57c26682.jpg"
+        },
+        {
+          "CRC32": "3175368603",
+          "FileName": "7228edbf-0699-4a28-a7fd-a5115107de7d.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/7228edbf-0699-4a28-a7fd-a5115107de7d.jpg"
+        },
+        {
+          "CRC32": "1078544088",
+          "FileName": "f7a81fe1-0eaf-4779-aac8-dd54b7b47b24.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/f7a81fe1-0eaf-4779-aac8-dd54b7b47b24.jpg"
+        }
+      ]
+    },
+    "DatabaseID": "481279",
+    "Developer": "Joel B Christiansen",
+    "Genres": "Shooter",
+    "Name": "Disastr_Blastr",
+    "Overview": "Gather your courage. Calm your nerves. Breathe deep. Then descend into a radical new dimension of abstract minimalist arcade fury in Disastr_Blastr!\n\nBlaze your merciless path of devastation through an expansive non-linear game world with 100+ stages of cortex-shattering cubic mayhem.\n\nTest your guts and reflexes against the unrelenting challenge of a design based on randomness, where no level ever plays out exactly the same way twice.\n\nUnleash hyper-destructive weaponry to achieve ever greater chain combo supremacy and elevate your score to legendary heights.",
+    "Publisher": "Joel B Christiansen",
+    "ReleaseDate": "2015-02-05",
+    "VideoURL": "https://www.youtube.com/watch?v=qHIYKVzUfQA"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "129584731",
+            "FileName": "cd5b960c-46e0-4b31-9708-37bc155af252.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/cd5b960c-46e0-4b31-9708-37bc155af252.jpg"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481295",
+    "Developer": "iNiS",
+    "ESRB": "T - Teen",
+    "Genres": "Action; Music",
+    "Name": "Karaoke",
+    "Overview": "Bring the party to your house and sing to over 8,000 songs from the latest hits to the oldies but goodies! Your avatar will go on stage and sing to your voice with a full complement of stage props and back band. Songs don't require any download and will playback immediately via streaming for a robust karaoke experience. Requires an Xbox 360 Headset, Xbox Wireless Microphone or Xbox 360 compatible USB microphone.",
+    "Publisher": "Microsoft Game Studios",
+    "ReleaseDate": "2012-12-11"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "1273516064",
+            "FileName": "76b29e88-9c4e-4f00-a555-505123b01e57.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/76b29e88-9c4e-4f00-a555-505123b01e57.jpg"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481297",
+    "Developer": "Archifishal Software",
+    "Genres": "Shooter",
+    "Name": "Inferno!",
+    "Overview": "Due to an unexplained freak accident the power plant on TVOD-1 has suddenly gone past its safety point and is nearing meltdown.\n\nAs a crack member of the Allumanian defence unit, you have been drafted in to pilot a lone ship capable of extinguishing the radioactive core on TVOD-1.\n\nGood luck!",
+    "Publisher": "Archifishal Software",
+    "ReleaseDate": "2011-08-16",
+    "VideoURL": "https://www.youtube.com/watch?v=Sr5TEHe9CAk"
+  },
+  {
+    "Artwork": {
+      "Box": {
+        "Front": [
+          {
+            "CRC32": "3206007667",
+            "FileName": "05d92597-d352-4a30-899e-5dd61d6c83e2.jpg",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/05d92597-d352-4a30-899e-5dd61d6c83e2.jpg"
+          }
+        ]
+      }
+    },
+    "DatabaseID": "481300",
+    "Developer": "Good Science Studio",
+    "ESRB": "E - Everyone",
+    "Genres": null,
+    "Name": "Kinect Fun Labs",
+    "Overview": "Explore the leading edge of Kinect innovation! Experiment, play, create, and show off and share with your friends!",
+    "Publisher": "Microsoft Game Studios",
+    "ReleaseDate": "2011-06-06",
+    "VideoURL": "https://www.youtube.com/watch?v=zIsbxyYPd2c"
   }
 ]
