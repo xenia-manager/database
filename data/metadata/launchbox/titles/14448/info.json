@@ -1,22 +1,13 @@
 {
   "Artwork": {
-    "Banner": [
-      {
-        "CRC32": "524738900",
-        "FileName": "356f8f66-51ec-4460-950b-d97eb494083f.jpg",
-        "Region": "North America",
-        "Type": "Banner",
-        "URL": "http://images.launchbox-app.com/356f8f66-51ec-4460-950b-d97eb494083f.jpg"
-      }
-    ],
     "Box": {
       "3D": [
         {
           "CRC32": "2392596780",
-          "FileName": "73defa2c-7c7d-4881-8ce3-239816eff0be.png",
+          "FileName": "r2_5ed3ce70-6ad2-400a-b4b0-3c18376032dc.png",
           "Region": "North America",
           "Type": "Box - 3D",
-          "URL": "http://images.launchbox-app.com/73defa2c-7c7d-4881-8ce3-239816eff0be.png"
+          "URL": "http://images.launchbox-app.com/r2_5ed3ce70-6ad2-400a-b4b0-3c18376032dc.png"
         }
       ],
       "Back": [
@@ -57,6 +48,15 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/0981f33e-3913-4a70-925f-841d0fed55c3.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "524738900",
+          "FileName": "r2_77986cc9-620e-41ee-8eff-5edaf4a4e907.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_77986cc9-620e-41ee-8eff-5edaf4a4e907.jpg"
+        }
       ]
     },
     "Disc": [
@@ -66,29 +66,66 @@
         "Region": "Europe",
         "Type": "Disc",
         "URL": "http://images.launchbox-app.com/7275e506-4fa4-4a5c-a03c-a1a7139b70e9.png"
+      },
+      {
+        "CRC32": "571998211",
+        "FileName": "r2_a855d4e6-5760-4032-a46e-adc8289786cf.png",
+        "Region": "North America",
+        "Type": "Disc",
+        "URL": "http://images.launchbox-app.com/r2_a855d4e6-5760-4032-a46e-adc8289786cf.png"
       }
     ],
     "Other": [
-      {
-        "CRC32": "1705062932",
-        "FileName": "790e31b2-908a-4a3b-9b71-b4d983d12c1b.png",
-        "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/790e31b2-908a-4a3b-9b71-b4d983d12c1b.png"
-      },
       {
         "CRC32": "403880643",
         "FileName": "28d4cb41-3754-4524-b670-ab9d83808823.png",
         "Region": "Spain",
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/28d4cb41-3754-4524-b670-ab9d83808823.png"
+      },
+      {
+        "CRC32": "1705062932",
+        "FileName": "r2_3136f11e-e210-46b4-a19c-6e88b5ee5cf3.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_3136f11e-e210-46b4-a19c-6e88b5ee5cf3.png"
       }
     ],
     "Screenshots": [
       {
-        "CRC32": "1398203689",
-        "FileName": "383f5700-332f-4019-89be-4b4a86640e39.jpg",
+        "CRC32": "3408869280",
+        "FileName": "r2_5abcf787-1007-4a55-b9aa-b2c21ee13ec9.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_5abcf787-1007-4a55-b9aa-b2c21ee13ec9.png"
+      },
+      {
+        "CRC32": "794725037",
+        "FileName": "r2_fb985a6b-666f-4311-81fb-5cfe8f18aa59.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_fb985a6b-666f-4311-81fb-5cfe8f18aa59.png"
+      },
+      {
+        "CRC32": "3219657923",
+        "FileName": "r2_226657ad-eddb-4457-9bc6-d26d1947790f.png",
+        "Region": "World",
         "Type": "Screenshot - Gameplay",
-        "URL": "http://images.launchbox-app.com/383f5700-332f-4019-89be-4b4a86640e39.jpg"
+        "URL": "http://images.launchbox-app.com/r2_226657ad-eddb-4457-9bc6-d26d1947790f.png"
+      },
+      {
+        "CRC32": "1398203689",
+        "FileName": "r2_6c926eba-ed8e-4397-9dbb-281ad7bd606d.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_6c926eba-ed8e-4397-9dbb-281ad7bd606d.png"
+      },
+      {
+        "CRC32": "1143799594",
+        "FileName": "r2_c5fd2f06-7eb7-450a-8986-8e699ab54049.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_c5fd2f06-7eb7-450a-8986-8e699ab54049.png"
       }
     ]
   },
@@ -96,7 +133,7 @@
   "DatabaseID": "14448",
   "Developer": "Étranges Libellules",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": "Action",
+  "Genres": "Action; Adventure",
   "Name": "The Legend of Spyro: Dawn of the Dragon",
   "Overview": "Three long years have passed since Spyro and Cynder were trapped in the crystal, since then Malefor has unleashed his evil onto the world. In this third chapter of the epic Legend of Spyro trilogy, Spyro must fulfill his destiny and face the Dark Master. As evil spreads over the world, Spyro and Cynder must discover new abilities and unlock their true powers to defeat Malefor and stop him from destroying the world.",
   "Publisher": "Activision",

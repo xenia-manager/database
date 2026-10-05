@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "0b0d57a",
+    "target_commitish": "0b0d57a1bc55f62e2bd43516bea96c848a9a6f96",
+    "published_at": "2026-10-05T02:12:49Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0b0d57a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0b0d57a1bc55f62e2bd43516bea96c848a9a6f96",
+    "changelog": {
+      "title": "0b0d57a_canary_experimental",
+      "changes": "- [XAM] Accept Kinect identity callback registration (0x2C009) (`0b0d57a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/0b041cd...0b0d57a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0b0d57a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0b0d57a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "0b041cd",
+    "target_commitish": "0b041cd2a39faf93574489ec2366c275d990f673",
+    "published_at": "2026-10-05T00:13:30Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0b041cd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0b041cd2a39faf93574489ec2366c275d990f673",
+    "changelog": {
+      "title": "0b041cd_canary_experimental",
+      "changes": "- [GPU] - Add RB_HSIO_INTERFACE_ALIGNER_VALUE register (`0b041cd`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7347cd1...0b041cd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0b041cd/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0b041cd/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "7347cd1",
     "target_commitish": "7347cd12ef6e3029db3abcf17a0760d9f74f84bd",
     "published_at": "2026-10-03T18:17:06Z",
