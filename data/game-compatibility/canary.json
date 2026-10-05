@@ -8165,15 +8165,14 @@
     "issue": 672,
     "id": "545107D2",
     "title": "The Outfit",
-    "updated": "2026-07-27T17:58:19Z",
+    "updated": "2026-10-05T20:30:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "apu-silent"
+        "gpu-drawing-corrupt"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/672"
@@ -10493,14 +10492,13 @@
     "issue": 522,
     "id": "5345080C",
     "title": "Aliens: Colonial Marines",
-    "updated": "2026-10-05T13:51:48Z",
+    "updated": "2026-10-05T20:18:19Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-physics-physx",
         "tech-middleware-wwise"
@@ -13436,7 +13434,7 @@
     "issue": 343,
     "id": "58411293",
     "title": "Narco Terror",
-    "updated": "2026-04-03T19:36:34Z",
+    "updated": "2026-10-05T21:31:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13444,7 +13442,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "cpu-jit-problems",
         "tech-physics-bullet",
         "gpu-readback",
         "backwards-compatibility-unsupported",
@@ -15250,15 +15247,13 @@
     "issue": 236,
     "id": "4C4107F3",
     "title": "LEGO Star Wars III - The Clone Wars",
-    "updated": "2026-05-21T11:27:46Z",
-    "state": "Loads",
+    "updated": "2026-10-05T20:01:32Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "apu-garbage",
         "gpu-readback",
         "vsync-off-speedup"
       ]
