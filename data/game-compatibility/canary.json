@@ -14023,14 +14023,13 @@
     "issue": 308,
     "id": "4B4E084D",
     "title": "Castlevania: Lords of Shadow 2",
-    "updated": "2026-09-30T19:22:11Z",
+    "updated": "2026-10-05T22:49:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-physics-physx",
         "tech-engine-mercury"
       ]
@@ -15575,15 +15574,13 @@
     "issue": 216,
     "id": "4D530919",
     "title": "Halo 4",
-    "updated": "2026-08-28T02:57:32Z",
+    "updated": "2026-10-05T22:50:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "cpu-unimplemented-instruction",
         "tech-engine-blam",
         "gpu-readback",
         "kernel-KeSetCurrentStackPointers",
