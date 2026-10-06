@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "22a39ec",
+    "target_commitish": "22a39ec9d679a070cf858dd89134e67300fd0fbe",
+    "published_at": "2026-10-06T05:47:36Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/22a39ec",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/22a39ec9d679a070cf858dd89134e67300fd0fbe",
+    "changelog": {
+      "title": "22a39ec_canary_experimental",
+      "changes": "- [Kernel] Implemented XamUpdateGetCurrentSystemVersion and XamUpdateGetBaseSystemVersion (`22a39ec`)\n- [APU] Give the null audio system a driver that discards frames (`1406d87`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/0b0d57a...22a39ec"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/22a39ec/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/22a39ec/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "0b0d57a",
     "target_commitish": "0b0d57a1bc55f62e2bd43516bea96c848a9a6f96",
     "published_at": "2026-10-05T02:12:49Z",
