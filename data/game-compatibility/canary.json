@@ -1186,7 +1186,7 @@
     "issue": 1148,
     "id": "58411489",
     "title": "JUJU",
-    "updated": "2026-06-27T17:51:37Z",
+    "updated": "2026-10-06T17:39:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2708,7 +2708,7 @@
     "issue": 1038,
     "id": "58411401",
     "title": "Trials Fusion",
-    "updated": "2026-04-14T23:06:09Z",
+    "updated": "2026-10-06T17:11:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2717,6 +2717,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "gpu-drawing-missing",
+        "gpu-readback",
         "gpu-viz-query"
       ]
     },
@@ -2960,7 +2961,7 @@
     "issue": 1017,
     "id": "4D5707DB",
     "title": "Unreal Tournament III",
-    "updated": "2026-02-03T23:42:52Z",
+    "updated": "2026-10-06T20:27:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3538,14 +3539,13 @@
     "issue": 973,
     "id": "494607D7",
     "title": "\u30af\u30ed\u30b9\u30a8\u30c3\u30b8 \u30c0\u30c3\u30b7\u30e5 (X Edge Dash)",
-    "updated": "2026-07-25T10:55:47Z",
+    "updated": "2026-10-06T17:54:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-middleware-criware"
       ]
     },
@@ -4157,15 +4157,13 @@
     "issue": 933,
     "id": "415608BB",
     "title": "NASCAR\u00ae Unleashed",
-    "updated": "2026-02-03T18:46:04Z",
+    "updated": "2026-10-06T15:35:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-drawing-corrupt"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/933"
   },
@@ -6103,14 +6101,13 @@
     "issue": 810,
     "id": "5841147C",
     "title": "Life is Strange",
-    "updated": "2026-06-01T13:18:43Z",
+    "updated": "2026-10-06T16:25:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "backwards-compatibility-unsupported",
         "gpu-occlusion-query"
@@ -7576,15 +7573,13 @@
     "issue": 713,
     "id": "584109AA",
     "title": "Islands of WAKFU",
-    "updated": "2026-05-15T15:37:15Z",
+    "updated": "2026-10-06T17:50:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-drawing-corrupt"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/713"
   },
@@ -10568,14 +10563,13 @@
     "issue": 517,
     "id": "45410850",
     "title": "Mirror's Edge",
-    "updated": "2026-08-17T17:32:43Z",
+    "updated": "2026-10-06T20:40:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "gpu-occlusion-query"
       ]
@@ -11869,19 +11863,17 @@
     "issue": 435,
     "id": "454109D4",
     "title": "2014 FIFA World Cup Brazil",
-    "updated": "2026-08-20T13:41:23Z",
+    "updated": "2026-10-06T18:28:02Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-impact",
         "gpu-readback",
         "backwards-compatibility-unsupported",
-        "requires_mount_cache",
-        "requires_clear_memory_page_state_true"
+        "requires_mount_cache"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/435"
@@ -13267,14 +13259,13 @@
     "issue": 353,
     "id": "58411233",
     "title": "Alan Wake's American Nightmare",
-    "updated": "2026-06-01T12:23:14Z",
+    "updated": "2026-10-06T16:25:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-middleware-havok",
         "tech-engine-maxfx",
         "gpu-readback",
@@ -14039,14 +14030,13 @@
     "issue": 307,
     "id": "584113F3",
     "title": "Final Exam",
-    "updated": "2025-10-30T10:19:44Z",
+    "updated": "2026-10-06T15:41:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "backwards-compatibility-unsupported"
       ]
     },
@@ -16778,14 +16768,15 @@
     "issue": 135,
     "id": "45410962",
     "title": "The Sims 3: Pets",
-    "updated": "2026-05-08T13:33:36Z",
+    "updated": "2026-10-06T17:07:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt"
+        "gpu-readback",
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/135"
@@ -17182,14 +17173,13 @@
     "issue": 104,
     "id": "5451083B",
     "title": "50 Cent: Blood on the Sand",
-    "updated": "2026-08-17T17:34:16Z",
+    "updated": "2026-10-06T20:42:30Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "apu-garbage",
         "tech-engine-unreal",
         "tech-physics-physx",
@@ -17421,7 +17411,7 @@
     "issue": 81,
     "id": "45410821",
     "title": "Tiger Woods PGA Tour 08",
-    "updated": "2026-05-13T11:59:22Z",
+    "updated": "2026-10-06T16:54:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17430,7 +17420,8 @@
       "others": [
         "gpu-drawing-corrupt",
         "marketplace-nodownload",
-        "gpu-readback"
+        "gpu-readback",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/81"
@@ -17470,14 +17461,13 @@
     "issue": 75,
     "id": "4D530910",
     "title": "Forza Motorsport 4",
-    "updated": "2026-07-18T23:12:38Z",
+    "updated": "2026-10-06T17:52:38Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-kinect-optional",
         "marketplace-nodownload",
         "gpu-readback",
@@ -18015,7 +18005,7 @@
     "issue": 37,
     "id": "58410AAD",
     "title": "Trials Evolution",
-    "updated": "2026-06-26T17:29:42Z",
+    "updated": "2026-10-06T17:22:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -18026,6 +18016,7 @@
         "gpu-drawing-missing",
         "gpu-shader-errors",
         "tech-physics-bullet",
+        "gpu-readback",
         "gpu-viz-query"
       ]
     },
@@ -18145,17 +18136,14 @@
     "issue": 28,
     "id": "454107D9",
     "title": "Need for Speed Most Wanted (2005)",
-    "updated": "2026-08-07T05:23:31Z",
-    "state": "Gameplay",
+    "updated": "2026-10-06T18:45:58Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "kernel-unimplemented-feature",
-        "gpu-drawing-corrupt",
-        "cpu-timing",
-        "cpu-jit-problems",
         "marketplace-delisted",
         "gpu-readback"
       ]

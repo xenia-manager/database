@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "cc4981a",
+    "target_commitish": "cc4981a4659086acb1c25a485adebefc3f432ae1",
+    "published_at": "2026-10-06T20:13:03Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/cc4981a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/cc4981a4659086acb1c25a485adebefc3f432ae1",
+    "changelog": {
+      "title": "cc4981a_canary_experimental",
+      "changes": "- [GPU] Rasterize at Xenos MSAA sample positions (`cc4981a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7ba916c...cc4981a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cc4981a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cc4981a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7ba916c",
+    "target_commitish": "7ba916c010f8ea48960bfde377f8fceb6054d754",
+    "published_at": "2026-10-06T16:09:09Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7ba916c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7ba916c010f8ea48960bfde377f8fceb6054d754",
+    "changelog": {
+      "title": "7ba916c_canary_experimental",
+      "changes": "- [XEX] - Expand User Module log (`7ba916c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/22a39ec...7ba916c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ba916c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ba916c/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "22a39ec",
     "target_commitish": "22a39ec9d679a070cf858dd89134e67300fd0fbe",
     "published_at": "2026-10-06T05:47:36Z",
