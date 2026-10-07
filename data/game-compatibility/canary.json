@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1239,
+    "id": "584113E3",
+    "title": "Who Wants To Be A Millionaire?",
+    "updated": "2026-10-06T21:44:05Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "tech-engine-unreal"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1239"
+  },
+  {
     "issue": 1238,
     "id": "45410898",
     "title": "Trivial Pursuit",
@@ -227,16 +243,15 @@
     "issue": 1224,
     "id": "4D5707DF",
     "title": "TNA iMPACT",
-    "updated": "2026-09-25T15:45:47Z",
+    "updated": "2026-10-06T23:07:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
-        "crash-always"
+        "gpu-driver-issues-amd"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1224"
@@ -745,14 +760,13 @@
     "issue": 1181,
     "id": "584108F6",
     "title": "Shadow Complex",
-    "updated": "2026-08-03T20:08:36Z",
+    "updated": "2026-10-06T21:17:38Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "gpu-readback"
       ]
@@ -2275,13 +2289,14 @@
     "issue": 1070,
     "id": "434D0852",
     "title": "F1 2014",
-    "updated": "2026-07-27T17:51:47Z",
+    "updated": "2026-10-07T00:07:19Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "tech-engine-ego",
         "gpu-readback",
         "requires_render_target_rov_fsi"
       ]
@@ -2292,13 +2307,14 @@
     "issue": 1069,
     "id": "434D084F",
     "title": "F1 2013",
-    "updated": "2026-07-27T17:51:46Z",
+    "updated": "2026-10-07T00:07:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "tech-engine-ego",
         "gpu-readback",
         "requires_render_target_rov_fsi"
       ]
@@ -2309,13 +2325,15 @@
     "issue": 1068,
     "id": "434D0847",
     "title": "F1 2012",
-    "updated": "2026-05-04T06:10:07Z",
+    "updated": "2026-10-07T00:07:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "tech-engine-ego"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1068"
   },
@@ -2323,7 +2341,7 @@
     "issue": 1067,
     "id": "434D0842",
     "title": "F1 2011",
-    "updated": "2026-10-01T16:37:47Z",
+    "updated": "2026-10-07T00:07:16Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2331,6 +2349,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
+        "tech-engine-ego",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -2340,13 +2359,15 @@
     "issue": 1066,
     "id": "434D082D",
     "title": "F1 2010",
-    "updated": "2026-05-04T06:06:14Z",
+    "updated": "2026-10-07T00:07:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "tech-engine-ego"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1066"
   },
@@ -2961,14 +2982,13 @@
     "issue": 1017,
     "id": "4D5707DB",
     "title": "Unreal Tournament III",
-    "updated": "2026-10-06T20:27:45Z",
+    "updated": "2026-10-06T21:24:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal"
       ]
     },
@@ -4090,7 +4110,7 @@
     "issue": 937,
     "id": "54510865",
     "title": "de Blob 2",
-    "updated": "2026-04-01T09:51:31Z",
+    "updated": "2026-10-06T23:19:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4519,14 +4539,13 @@
     "issue": 909,
     "id": "475007D3",
     "title": "Legendary",
-    "updated": "2026-09-30T23:03:04Z",
+    "updated": "2026-10-06T20:59:39Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "gpu-occlusion-query"
       ]
@@ -6170,14 +6189,13 @@
     "issue": 806,
     "id": "434D0806",
     "title": "Damnation",
-    "updated": "2025-08-11T06:52:46Z",
+    "updated": "2026-10-06T21:26:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "backwards-compatibility-unsupported"
       ]
@@ -6569,14 +6587,14 @@
     "issue": 781,
     "id": "425607E5",
     "title": "Toy Story 3",
-    "updated": "2026-06-07T23:43:21Z",
+    "updated": "2026-10-06T22:56:07Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
+        "gpu-readback",
         "gpu-occlusion-query",
         "gpu-ext-query"
       ]
@@ -6784,13 +6802,14 @@
     "issue": 765,
     "id": "434D0839",
     "title": "Bodycount",
-    "updated": "2026-08-15T00:43:13Z",
+    "updated": "2026-10-07T00:10:03Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "tech-engine-ego",
         "gpu-occlusion-query"
       ]
     },
@@ -6855,14 +6874,13 @@
     "issue": 761,
     "id": "57520802",
     "title": "Batman: Arkham City",
-    "updated": "2026-08-13T20:37:11Z",
+    "updated": "2026-10-06T21:12:03Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-middleware-wwise",
         "tech-middleware-scaleform",
@@ -10081,14 +10099,13 @@
     "issue": 546,
     "id": "434307E0",
     "title": "Dark Void",
-    "updated": "2025-04-27T21:18:02Z",
+    "updated": "2026-10-06T21:29:53Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "apu-garbage",
         "tech-engine-unreal",
         "tech-physics-ode"
@@ -11362,7 +11379,7 @@
     "issue": 464,
     "id": "555307D5",
     "title": "Tom Clancy's Ghost Recon: Advanced Warfighter",
-    "updated": "2026-09-25T23:33:31Z",
+    "updated": "2026-10-06T22:34:41Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12906,13 +12923,14 @@
     "issue": 374,
     "id": "434D0844",
     "title": "GRID 2",
-    "updated": "2026-06-05T16:34:12Z",
+    "updated": "2026-10-07T00:09:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "tech-engine-ego",
         "gpu-readback"
       ]
     },
@@ -12922,13 +12940,14 @@
     "issue": 373,
     "id": "434D07FF",
     "title": "Race Driver: GRID",
-    "updated": "2026-08-15T10:50:44Z",
+    "updated": "2026-10-07T00:09:27Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
+        "tech-engine-ego",
         "gpu-readback"
       ]
     },
@@ -14081,14 +14100,13 @@
     "issue": 304,
     "id": "534307F6",
     "title": "Batman: Arkham Asylum",
-    "updated": "2026-08-05T22:35:46Z",
+    "updated": "2026-10-06T21:31:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
@@ -14759,7 +14777,7 @@
     "issue": 265,
     "id": "454108CE",
     "title": "Mass Effect 2",
-    "updated": "2026-07-27T18:29:43Z",
+    "updated": "2026-10-06T21:20:03Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15663,14 +15681,13 @@
     "issue": 211,
     "id": "5343080B",
     "title": "Batman: Arkham Asylum GOTY",
-    "updated": "2026-08-13T20:39:14Z",
+    "updated": "2026-10-06T21:13:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "marketplace-nodownload",
         "tech-middleware-scaleform",
@@ -17862,7 +17879,7 @@
     "issue": 46,
     "id": "4D53082D",
     "title": "Gears of War 2",
-    "updated": "2026-09-13T10:40:28Z",
+    "updated": "2026-10-06T20:46:00Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17898,14 +17915,13 @@
     "issue": 44,
     "id": "4D5307D5",
     "title": "Gears of War",
-    "updated": "2026-09-25T18:22:10Z",
+    "updated": "2026-10-06T21:02:45Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal"
       ]
     },

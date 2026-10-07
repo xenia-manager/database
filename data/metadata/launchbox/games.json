@@ -18251,6 +18251,13 @@
             "URL": "http://images.launchbox-app.com/r2_3b3576be-c322-4cc0-be02-d94aeac891de.jpeg"
           },
           {
+            "CRC32": "3532803334",
+            "FileName": "r2_d0ca48e2-9f2b-42e6-bbd3-07598bae9e8a.jpg",
+            "Region": "Germany",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_d0ca48e2-9f2b-42e6-bbd3-07598bae9e8a.jpg"
+          },
+          {
             "CRC32": "3769841710",
             "FileName": "1f20e701-6d39-4cde-86d1-fe93350417b2.jpg",
             "Region": "North America",
@@ -18288,6 +18295,13 @@
             "URL": "http://images.launchbox-app.com/r2_5543f9c0-1556-4161-bb78-91f6850c8f34.jpeg"
           },
           {
+            "CRC32": "3642796632",
+            "FileName": "r2_b4a95366-fe44-467f-a4a9-6b6a63d8ade1.jpg",
+            "Region": "Germany",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_b4a95366-fe44-467f-a4a9-6b6a63d8ade1.jpg"
+          },
+          {
             "CRC32": "1521823712",
             "FileName": "4ef28a92-494f-47f8-8445-bc25d959bc48.jpg",
             "Region": "North America",
@@ -18317,6 +18331,13 @@
             "URL": "http://images.launchbox-app.com/r2_71a9d8d1-9afd-439f-a53f-eba8291e976d.jpg"
           },
           {
+            "CRC32": "4078936338",
+            "FileName": "r2_571a1452-58ce-45cf-9953-59719762a324.jpg",
+            "Region": "Germany",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_571a1452-58ce-45cf-9953-59719762a324.jpg"
+          },
+          {
             "CRC32": "228589138",
             "FileName": "r2_c4bf1626-f8ff-4986-b8a9-d63e7ba005b9.jpg",
             "Region": "Germany",
@@ -18339,6 +18360,13 @@
           "Region": "Europe",
           "Type": "Disc",
           "URL": "http://images.launchbox-app.com/r2_11affa23-60c1-4ec0-af2e-6acf9d1b7600.png"
+        },
+        {
+          "CRC32": "2829835979",
+          "FileName": "r2_587db637-285f-4b7a-b871-5af9d9acd1b4.png",
+          "Region": "Germany",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_587db637-285f-4b7a-b871-5af9d9acd1b4.png"
         },
         {
           "CRC32": "2083105229",
@@ -26048,15 +26076,24 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/e7fdcc5f-6587-4566-9a56-2bb88661b6d9.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "3898665226",
+            "FileName": "r2_d11a76f0-3133-42c6-ba5a-c74bd6b62554.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_d11a76f0-3133-42c6-ba5a-c74bd6b62554.jpg"
+          }
         ]
       },
       "Disc": [
         {
           "CRC32": "3517536289",
-          "FileName": "3c7250f0-c632-40a2-a2ea-3a9863c665d4.png",
+          "FileName": "r2_959c5fdc-07ca-4d08-a333-337de6cce80a.png",
           "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/3c7250f0-c632-40a2-a2ea-3a9863c665d4.png"
+          "URL": "http://images.launchbox-app.com/r2_959c5fdc-07ca-4d08-a333-337de6cce80a.png"
         }
       ],
       "Other": [
@@ -26073,15 +26110,45 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/db4989ea-a28a-4b67-baf9-516d8f704655.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "1437353234",
+          "FileName": "r2_7695baa8-780a-4e74-9fbe-d779b1d4018b.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_7695baa8-780a-4e74-9fbe-d779b1d4018b.png"
+        },
+        {
+          "CRC32": "1608225422",
+          "FileName": "r2_12da8210-e786-4fce-a8b8-a3ffe201f668.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_12da8210-e786-4fce-a8b8-a3ffe201f668.png"
+        },
+        {
+          "CRC32": "1589967064",
+          "FileName": "r2_5fe8bf4f-cff9-4d65-8919-16f11df5f02f.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_5fe8bf4f-cff9-4d65-8919-16f11df5f02f.png"
+        },
+        {
+          "CRC32": "141368200",
+          "FileName": "r2_cca62af3-dccd-4c66-8547-69d7423663d2.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_cca62af3-dccd-4c66-8547-69d7423663d2.png"
+        }
       ]
     },
     "CommunityRating": "3.44444444444444",
     "DatabaseID": "7583",
     "Developer": "Next Level Games",
     "ESRB": "E10+ - Everyone 10+",
-    "Genres": "Adventure; Beat 'em Up",
+    "Genres": "Beat 'em Up",
     "Name": "Spider-Man: Friend or Foe",
-    "Overview": "Spider-Man: Friend or Foe is a Spider-Man video game based on the comic book series and Spider-Man movies. The game was released on October 2, 2007.\n\nSpider-Man: Friend or Foe was originally announced via a promotional page on the back of the Spider-Man 3 video game instruction booklet. The teaser stated that the game would be a \"A new twist on the legend. A new take on the movies.\" The game's website shows a few screenshots of the game and the Green Goblin makes an appearance. The game has a very different engine and style as compared to the previous official film tie-ins.\n\nAccording to the company report, Spider-Man: Friend or Foe is a unique take on the media franchise. Inspired by the movies Spider-Man, Spider-Man 2, and Spider-Man 3, this action/adventure beat 'em up game reinterprets big-screen moments and battles with a humorous twist. Players team up with famous heroes from the Marvel Comics universe to combat villains and then convert them to sidekicks after defeating them in epic boss battles. The game includes a co-op multiplayer mode, as Spider-Man or a sidekick, in locations around the globe, including Tokyo, Egypt, and Nepal.\n\nSpider-Man: Friend or Foe, along with most other games published by Activision that had used the Marvel license, was de-listed and removed from all digital storefronts on January 1, 2014.",
+    "Overview": "In Spider-Man: Friend or Foe, Spider-Man must confront some of his most famous enemies to vanquish an even greater threat. Battle against characters such as Doctor Octopus, Venom and the Green Goblin - then add them to your list of allies. Inspired by events of the movie trilogy, this action game has a humorous twist that allows the player to recruit foes from the webslinger's rogue's gallery and use them in single-player levels or co-op versus modes.",
     "Publisher": "Activision",
     "ReleaseDate": "2007-10-02",
     "VideoURL": "https://www.youtube.com/watch?v=q6DrKOJp5rs",
@@ -28922,10 +28989,10 @@
           },
           {
             "CRC32": "1291042423",
-            "FileName": "43cad3fd-f3c2-4266-826b-353892a1f45b.jpg",
+            "FileName": "r2_06ec5c54-59b5-495e-b707-e75c497fc695.jpg",
             "Region": "North America",
             "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/43cad3fd-f3c2-4266-826b-353892a1f45b.jpg"
+            "URL": "http://images.launchbox-app.com/r2_06ec5c54-59b5-495e-b707-e75c497fc695.jpg"
           },
           {
             "CRC32": "1561348342",
@@ -39187,6 +39254,13 @@
       "Box": {
         "Back": [
           {
+            "CRC32": "453660303",
+            "FileName": "r2_7e1d8162-dde8-443e-ad52-8bbb79e9b26d.jpg",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_7e1d8162-dde8-443e-ad52-8bbb79e9b26d.jpg"
+          },
+          {
             "CRC32": "851909607",
             "FileName": "ed577555-f51c-4782-ba09-5086d15bb9b0.jpg",
             "Region": "North America",
@@ -39196,15 +39270,38 @@
         ],
         "Front": [
           {
+            "CRC32": "3592484127",
+            "FileName": "r2_8c046c00-7eb4-446d-a87c-bb87cab55436.jpg",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_8c046c00-7eb4-446d-a87c-bb87cab55436.jpg"
+          },
+          {
             "CRC32": "678548580",
             "FileName": "525eadfa-33c9-4ae2-a7cd-6abc679f7eef.jpg",
             "Region": "North America",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/525eadfa-33c9-4ae2-a7cd-6abc679f7eef.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1183352529",
+            "FileName": "r2_8415d7da-db2c-47f9-bbd4-4f34cf351e2f.jpg",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_8415d7da-db2c-47f9-bbd4-4f34cf351e2f.jpg"
+          }
         ]
       },
       "Disc": [
+        {
+          "CRC32": "100225922",
+          "FileName": "r2_c86f7d69-bea2-415b-a693-7b0169581a6a.png",
+          "Region": "Europe",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_c86f7d69-bea2-415b-a693-7b0169581a6a.png"
+        },
         {
           "CRC32": "1627305521",
           "FileName": "r2_43e1566b-4855-4e41-bbe2-7050163a385e.png",
@@ -44180,6 +44277,13 @@
         ],
         "Back": [
           {
+            "CRC32": "2891998645",
+            "FileName": "r2_e0e2e3b2-6264-4bf1-9e93-84cb4a36d999.jpg",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_e0e2e3b2-6264-4bf1-9e93-84cb4a36d999.jpg"
+          },
+          {
             "CRC32": "2387008755",
             "FileName": "r2_02eb61fc-b315-41a0-a0db-b632a45f1f23.jpg",
             "Region": "Germany",
@@ -44194,6 +44298,13 @@
             "Region": "Europe",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/3bb987d4-abbd-489a-b26d-78652d0c5fb9.jpg"
+          },
+          {
+            "CRC32": "2497757615",
+            "FileName": "r2_97ac3173-2650-49c4-bd28-59eb2635b2da.jpg",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_97ac3173-2650-49c4-bd28-59eb2635b2da.jpg"
           },
           {
             "CRC32": "3511991730",
@@ -44218,6 +44329,13 @@
           }
         ],
         "Spine": [
+          {
+            "CRC32": "1604259123",
+            "FileName": "r2_bf11693e-fc48-4a38-85c8-1f2fb1858311.jpg",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_bf11693e-fc48-4a38-85c8-1f2fb1858311.jpg"
+          },
           {
             "CRC32": "810294194",
             "FileName": "f40815e2-b563-4698-a318-0d8ff66956a8.jpg",
@@ -53393,6 +53511,13 @@
             "URL": "http://images.launchbox-app.com/4936451c-432e-4f29-ba05-5d32d0b0b126.jpg"
           },
           {
+            "CRC32": "3109905868",
+            "FileName": "r2_205c0ca3-4b29-4031-93ac-f864e11a77b4.jpg",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_205c0ca3-4b29-4031-93ac-f864e11a77b4.jpg"
+          },
+          {
             "CRC32": "428676252",
             "FileName": "19880b4b-4617-422f-8709-1fe4e31dc63b.jpg",
             "Region": "North America",
@@ -53423,6 +53548,13 @@
             "URL": "http://images.launchbox-app.com/d7c5b524-36c6-4a52-a340-491e0f16ced7.jpg"
           },
           {
+            "CRC32": "3632689920",
+            "FileName": "r2_94b0b615-2bfc-49ac-a24e-a932e4eb5d58.jpg",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_94b0b615-2bfc-49ac-a24e-a932e4eb5d58.jpg"
+          },
+          {
             "CRC32": "1437438504",
             "FileName": "1989a5f3-609b-4676-86b4-9277212c8ec2.jpg",
             "Region": "North America",
@@ -53445,6 +53577,13 @@
           }
         ],
         "Spine": [
+          {
+            "CRC32": "2162697566",
+            "FileName": "r2_f703fc23-4a2e-430d-a8be-ae6cf3a64ab8.jpg",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_f703fc23-4a2e-430d-a8be-ae6cf3a64ab8.jpg"
+          },
           {
             "CRC32": "3783049138",
             "FileName": "d8a39184-fb72-49e1-81c3-9256d442f3d6.jpg",
@@ -79001,6 +79140,13 @@
             "URL": "http://images.launchbox-app.com/r2_5b1991cc-d217-49e4-a181-59f6e0c76ee4.png"
           },
           {
+            "CRC32": "3912346956",
+            "FileName": "r2_5d4bc360-0ffc-4bcb-a7e6-fd12473edc02.jpg",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_5d4bc360-0ffc-4bcb-a7e6-fd12473edc02.jpg"
+          },
+          {
             "CRC32": "1610210034",
             "FileName": "239e5dff-e034-40f0-ab61-a78112af34c1.jpg",
             "Region": "North America",
@@ -79015,6 +79161,13 @@
             "Region": "Europe",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_33924023-aba6-4464-bb62-8b4eb1f31cd1.jpg"
+          },
+          {
+            "CRC32": "1876661186",
+            "FileName": "r2_d55c44ea-980b-4984-9121-45627436fc70.jpg",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_d55c44ea-980b-4984-9121-45627436fc70.jpg"
           },
           {
             "CRC32": "97298524",
@@ -79045,6 +79198,13 @@
             "Region": "Europe",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/849bb8ef-a9a7-42c1-a253-9a708aadb99b.jpg"
+          },
+          {
+            "CRC32": "611532672",
+            "FileName": "r2_bfa58180-3564-4464-ab40-b7458d81b090.jpg",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_bfa58180-3564-4464-ab40-b7458d81b090.jpg"
           },
           {
             "CRC32": "1926361858",
@@ -87837,6 +87997,13 @@
         ],
         "Back": [
           {
+            "CRC32": "3013926865",
+            "FileName": "r2_4b8d3566-8d12-4881-8c19-3c033c1fd963.jpg",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_4b8d3566-8d12-4881-8c19-3c033c1fd963.jpg"
+          },
+          {
             "CRC32": "1658395836",
             "FileName": "r2_a8c03a94-a211-4d90-a4bf-dd3d3b12a7a3.jpg",
             "Region": "North America",
@@ -87852,11 +88019,27 @@
             "URL": "http://images.launchbox-app.com/46cf9953-1e8e-4b89-b427-0fcc88dd7a85.png"
           },
           {
+            "CRC32": "3354149544",
+            "FileName": "r2_56b739b6-52ca-49e9-9dff-55a8e2632d75.jpg",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_56b739b6-52ca-49e9-9dff-55a8e2632d75.jpg"
+          },
+          {
             "CRC32": "3006913827",
             "FileName": "r2_97e75245-664e-4bab-9cae-25cc82a4ca03.jpg",
             "Region": "Germany",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_97e75245-664e-4bab-9cae-25cc82a4ca03.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "3254245272",
+            "FileName": "r2_1413df89-a10f-478d-a053-adb3d0e05239.jpg",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_1413df89-a10f-478d-a053-adb3d0e05239.jpg"
           }
         ]
       },
@@ -87881,10 +88064,14 @@
     },
     "CommunityRating": "2.6",
     "DatabaseID": "14108",
+    "Developer": "Hudson Soft",
+    "ESRB": "E - Everyone",
     "Genres": "Music",
     "Name": "Dance Dance Revolution Universe 2",
     "Overview": "Another in the series of the Dance Dance Revolution games, this one is exclusive to the 360 with new songs ranging from the 1970's, 80's and 90's including contemporary artists' songs.\n\nThe standard modes are present (split-screen Multiplayer, Workout)with two new ones: Freestyle that features no arrows and is more of an exhibition type aimed for all ages and skill levels, and Quest Mode where players can create their own character with a variety of customization ranging from clothing and appearances playing in a story-based mode in a series of challenges. Additional costumes can be unlocked through the Quest Mode.\n\nPlayers can also access new songs through Xbox live and compete head-to-head against players in dancing contests. There are editing options where unique dancing sequences can be transposed onto custom background videos.",
-    "ReleaseDate": "2007-12-04"
+    "Publisher": "Konami",
+    "ReleaseDate": "2007-12-04",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution_Universe_2"
   },
   {
     "Artwork": {
@@ -91384,13 +91571,38 @@
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "824079360",
+            "FileName": "r2_cfb5d03d-87a9-41a5-a20d-0afeef6c77d8.png",
+            "Region": "World",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_cfb5d03d-87a9-41a5-a20d-0afeef6c77d8.png"
+          }
+        ],
         "Front": [
+          {
+            "CRC32": "348855028",
+            "FileName": "r2_8dedad2a-e921-4807-8cc7-1cada1bd394a.jpg",
+            "Region": "World",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_8dedad2a-e921-4807-8cc7-1cada1bd394a.jpg"
+          },
           {
             "CRC32": "2673233217",
             "FileName": "362127fd-c3f1-42e7-9df2-bcf69e8b26a1.jpg",
             "Region": "World",
-            "Type": "Box - Front",
+            "Type": "Fanart - Box - Front",
             "URL": "http://images.launchbox-app.com/362127fd-c3f1-42e7-9df2-bcf69e8b26a1.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "2346199336",
+            "FileName": "r2_b5ba9a0f-0354-4738-82f2-2e683badad20.jpg",
+            "Region": "World",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_b5ba9a0f-0354-4738-82f2-2e683badad20.jpg"
           }
         ]
       },
@@ -98142,6 +98354,13 @@
         ],
         "Back": [
           {
+            "CRC32": "236725236",
+            "FileName": "r2_b557da83-bfdb-427d-9607-6b7a2f8d2ee5.jpg",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_b557da83-bfdb-427d-9607-6b7a2f8d2ee5.jpg"
+          },
+          {
             "CRC32": "164725536",
             "FileName": "r2_2f7f87bc-5bed-44d9-abcf-d723efd158ee.jpg",
             "Region": "Germany",
@@ -98170,6 +98389,13 @@
             "Region": "Europe",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/75435d86-1245-4be6-b150-ae232e61cf27.jpg"
+          },
+          {
+            "CRC32": "778306904",
+            "FileName": "r2_23d29350-e518-4b49-aeb7-9875c066face.jpg",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_23d29350-e518-4b49-aeb7-9875c066face.jpg"
           },
           {
             "CRC32": "1333071701",
@@ -98201,6 +98427,13 @@
           }
         ],
         "Spine": [
+          {
+            "CRC32": "3272804775",
+            "FileName": "r2_02fdcc80-39aa-468a-863a-66f97296c25d.jpg",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_02fdcc80-39aa-468a-863a-66f97296c25d.jpg"
+          },
           {
             "CRC32": "4287223891",
             "FileName": "r2_3098da80-4899-41aa-8fbf-e7273b4f5440.jpg",
@@ -103125,6 +103358,13 @@
             "Region": "North America",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/2bd9b596-1667-4a63-ac32-b4765ca3c8ba.jpg"
+          },
+          {
+            "CRC32": "632962938",
+            "FileName": "r2_22c2ac23-e852-4d5c-9ee4-282dc53a44b1.jpg",
+            "Region": "United Kingdom",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_22c2ac23-e852-4d5c-9ee4-282dc53a44b1.jpg"
           }
         ],
         "Front": [
@@ -103143,6 +103383,13 @@
             "URL": "http://images.launchbox-app.com/d3d3042c-2c2b-458d-9b03-af19b65674e9.jpg"
           },
           {
+            "CRC32": "1749763769",
+            "FileName": "r2_ac4ff160-e799-4a90-a984-11f156f58702.jpg",
+            "Region": "United Kingdom",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_ac4ff160-e799-4a90-a984-11f156f58702.jpg"
+          },
+          {
             "CRC32": "1149769388",
             "FileName": "6bf0a93a-f9a1-4545-97d8-00fb7064ad1e.png",
             "Region": "North America",
@@ -103155,6 +103402,15 @@
             "Region": "United Kingdom",
             "Type": "Box - Front - Reconstructed",
             "URL": "http://images.launchbox-app.com/0ae29e27-d3a4-45c3-aa42-d9d0f871812e.png"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "3486351442",
+            "FileName": "r2_5aca49c7-8adb-4e75-bc95-e32496677027.jpg",
+            "Region": "United Kingdom",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_5aca49c7-8adb-4e75-bc95-e32496677027.jpg"
           }
         ]
       },
@@ -105834,7 +106090,7 @@
         }
       ]
     },
-    "CommunityRating": "3.9",
+    "CommunityRating": "3.71428571428571",
     "DatabaseID": "15567",
     "Developer": "Proper Games",
     "ESRB": "T - Teen",
@@ -144115,6 +144371,15 @@
             "URL": "http://images.launchbox-app.com/r2_e7926eba-8c41-4afc-ab3f-138f30988d03.png"
           }
         ],
+        "Back": [
+          {
+            "CRC32": "1817648043",
+            "FileName": "r2_daf2ae8f-d508-46f0-8e68-2c7312c7de7f.jpg",
+            "Region": "Germany",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_daf2ae8f-d508-46f0-8e68-2c7312c7de7f.jpg"
+          }
+        ],
         "Front": [
           {
             "CRC32": "3321274309",
@@ -144122,6 +144387,13 @@
             "Region": "Europe",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/953eae16-eb94-452c-968a-9ede038b4157.jpg"
+          },
+          {
+            "CRC32": "814743838",
+            "FileName": "r2_bf3b754d-9aa4-4cba-ab03-c58d308585de.jpg",
+            "Region": "Germany",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_bf3b754d-9aa4-4cba-ab03-c58d308585de.jpg"
           },
           {
             "CRC32": "386495413",
@@ -144137,9 +144409,25 @@
             "Type": "Fanart - Box - Front",
             "URL": "http://images.launchbox-app.com/r2_2281a79f-deb9-4fd5-8bbb-03eb7a42a9df.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "3766160717",
+            "FileName": "r2_adbb9875-473c-441c-abf1-ed118a6457e1.jpg",
+            "Region": "Germany",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_adbb9875-473c-441c-abf1-ed118a6457e1.jpg"
+          }
         ]
       },
       "Disc": [
+        {
+          "CRC32": "3695083913",
+          "FileName": "r2_b2bf629b-16a6-49c1-a062-852870c9e91b.png",
+          "Region": "Germany",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_b2bf629b-16a6-49c1-a062-852870c9e91b.png"
+        },
         {
           "CRC32": "1429354709",
           "FileName": "r2_b0a94a2d-6855-4265-a941-b4e8056c0691.png",
@@ -147994,7 +148282,7 @@
         }
       ]
     },
-    "CommunityRating": "3.35",
+    "CommunityRating": "3.27272727272727",
     "DatabaseID": "30978",
     "Developer": "SNK Playmore",
     "ESRB": "M - Mature",
@@ -148161,7 +148449,7 @@
         }
       ]
     },
-    "CommunityRating": "3.61111111111111",
+    "CommunityRating": "3.38888888888889",
     "DatabaseID": "30979",
     "Developer": "FromSoftware",
     "ESRB": "T - Teen",
@@ -148387,7 +148675,7 @@
         }
       ]
     },
-    "CommunityRating": "3.75",
+    "CommunityRating": "3.5",
     "DatabaseID": "31114",
     "Developer": "Double Eleven",
     "ESRB": "T - Teen",
@@ -148454,7 +148742,7 @@
         }
       ]
     },
-    "CommunityRating": "4",
+    "CommunityRating": "3.66666666666667",
     "DatabaseID": "31607",
     "Developer": "Cyberconnect2",
     "ESRB": "T - Teen",
@@ -148541,7 +148829,7 @@
         }
       ]
     },
-    "CommunityRating": "4.875",
+    "CommunityRating": "4.25",
     "DatabaseID": "31667",
     "Developer": "PES Productions",
     "ESRB": "E - Everyone",
@@ -148687,7 +148975,7 @@
         }
       ]
     },
-    "CommunityRating": "3.9375",
+    "CommunityRating": "3.8",
     "DatabaseID": "31673",
     "Developer": "Criterion Software",
     "ESRB": "E10+ - Everyone 10+",
@@ -148753,7 +149041,7 @@
         }
       ]
     },
-    "CommunityRating": "3.71428571428571",
+    "CommunityRating": "3.5",
     "DatabaseID": "31715",
     "Developer": "Yuke's",
     "ESRB": "T - Teen",
@@ -148785,7 +149073,7 @@
         }
       ]
     },
-    "CommunityRating": "3.33333333333333",
+    "CommunityRating": "2.875",
     "DatabaseID": "32018",
     "Developer": "Cyberconnect2",
     "ESRB": "T - Teen",
@@ -148875,7 +149163,7 @@
         }
       ]
     },
-    "CommunityRating": "2.25",
+    "CommunityRating": "2.1",
     "DatabaseID": "32130",
     "Developer": "Robomodo",
     "Genres": "Sports",
@@ -148961,7 +149249,7 @@
         }
       ]
     },
-    "CommunityRating": "4.18000001907349",
+    "CommunityRating": "3.73333334922791",
     "DatabaseID": "32256",
     "Developer": "Idea Factory",
     "ESRB": "T - Teen",
@@ -149002,7 +149290,7 @@
         }
       ]
     },
-    "CommunityRating": "2.75",
+    "CommunityRating": "2.83333333333333",
     "DatabaseID": "32386",
     "Developer": "BioWare",
     "ESRB": "M - Mature",
@@ -149161,7 +149449,7 @@
         }
       ]
     },
-    "CommunityRating": "4",
+    "CommunityRating": "3.7",
     "DatabaseID": "32897",
     "Developer": "Fatshark",
     "ESRB": "M - Mature",
