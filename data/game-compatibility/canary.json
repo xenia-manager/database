@@ -2,8 +2,8 @@
   {
     "issue": 1239,
     "id": "584113E3",
-    "title": "Who Wants To Be A Millionaire?",
-    "updated": "2026-10-06T21:44:05Z",
+    "title": "Who Wants To Be A Millionaire? Special Editions",
+    "updated": "2026-10-07T19:14:53Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -508,14 +508,14 @@
     "issue": 1202,
     "id": "513107D8",
     "title": "Ride",
-    "updated": "2026-08-24T23:56:45Z",
+    "updated": "2026-10-07T19:13:45Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
+        "gpu-readback",
         "tech-middleware-beast"
       ]
     },
@@ -8484,13 +8484,15 @@
     "issue": 652,
     "id": "5841123F",
     "title": "Rayman 3 HD",
-    "updated": "2025-07-08T05:41:36Z",
+    "updated": "2026-10-07T20:02:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/652"
   },
@@ -15468,7 +15470,7 @@
     "issue": 222,
     "id": "55530804",
     "title": "Dark Messiah: Might and Magic Elements",
-    "updated": "2026-07-29T14:07:12Z",
+    "updated": "2026-10-07T15:37:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -18434,14 +18436,13 @@
     "issue": 3,
     "id": "584112A5",
     "title": "Brothers",
-    "updated": "2026-07-05T23:01:12Z",
+    "updated": "2026-10-07T15:28:32Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-unreal"
       ]
     },

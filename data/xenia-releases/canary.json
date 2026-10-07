@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "82d0cd1",
+    "target_commitish": "82d0cd1f445ca9712296a10f4e1fbdf18acf0725",
+    "published_at": "2026-10-07T20:04:18Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/82d0cd1",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/82d0cd1f445ca9712296a10f4e1fbdf18acf0725",
+    "changelog": {
+      "title": "82d0cd1_canary_experimental",
+      "changes": "- [XAM] - Implement & stub more ui functions (`82d0cd1`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/19c23eb...82d0cd1"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/82d0cd1/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/82d0cd1/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "19c23eb",
+    "target_commitish": "19c23eb1123f891d44f6548429758b612fe0ae7e",
+    "published_at": "2026-10-07T18:13:52Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/19c23eb",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/19c23eb1123f891d44f6548429758b612fe0ae7e",
+    "changelog": {
+      "title": "19c23eb_canary_experimental",
+      "changes": "- [Base] Fix upper_ascii lowering instead of raising (`19c23eb`)\n- [XAM/NET] - Stub NetDll_XHttpStartup & NetDll_XHttpOpen (`5629c82`)\n- [Base/POSIX] Block a multi-object wait instead of polling it (`6435e79`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/cc4981a...19c23eb"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/19c23eb/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/19c23eb/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "cc4981a",
     "target_commitish": "cc4981a4659086acb1c25a485adebefc3f432ae1",
     "published_at": "2026-10-06T20:13:03Z",
