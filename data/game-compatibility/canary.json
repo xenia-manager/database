@@ -1,5 +1,36 @@
 [
   {
+    "issue": 1241,
+    "id": "464507DA",
+    "title": "Tour De France 2012",
+    "updated": "2026-10-08T00:11:17Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-corrupt",
+        "gpu-xps"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1241"
+  },
+  {
+    "issue": 1240,
+    "id": "4C5307D4",
+    "title": "SBK 09",
+    "updated": "2026-10-07T21:07:36Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1240"
+  },
+  {
     "issue": 1239,
     "id": "584113E3",
     "title": "Who Wants To Be A Millionaire? Special Editions",
@@ -352,14 +383,13 @@
     "issue": 1216,
     "id": "58411495",
     "title": "Masquerade: The Baubles of Doom",
-    "updated": "2026-09-23T14:51:45Z",
+    "updated": "2026-10-07T21:56:26Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "apu-garbage",
         "crash-random"
       ]
