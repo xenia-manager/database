@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "828014b",
+    "target_commitish": "828014b9083714947c145669e1e41bd87567ac7f",
+    "published_at": "2026-10-08T19:08:01Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/828014b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/828014b9083714947c145669e1e41bd87567ac7f",
+    "changelog": {
+      "title": "828014b_canary_experimental",
+      "changes": "- [Kernel] Limit kXNotificationSystemStorageDevicesChanged to dashboard. (`828014b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f41ee57...828014b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/828014b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/828014b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "f41ee57",
+    "target_commitish": "f41ee57bc3af652d9b9163fbea0c45cd01a9d07f",
+    "published_at": "2026-10-08T17:54:38Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f41ee57",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f41ee57bc3af652d9b9163fbea0c45cd01a9d07f",
+    "changelog": {
+      "title": "f41ee57_canary_experimental",
+      "changes": "- [XAM] Add mutex for properties vector (`f41ee57`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/82d0cd1...f41ee57"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f41ee57/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f41ee57/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "82d0cd1",
     "target_commitish": "82d0cd1f445ca9712296a10f4e1fbdf18acf0725",
     "published_at": "2026-10-07T20:04:18Z",

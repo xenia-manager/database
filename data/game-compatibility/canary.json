@@ -12909,15 +12909,14 @@
     "issue": 376,
     "id": "434D07DB",
     "title": "DiRT",
-    "updated": "2026-08-04T11:00:39Z",
+    "updated": "2026-10-08T16:49:51Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "tech-engine-ego",
-        "requires_render_target_rov_fsi"
+        "tech-engine-ego"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/376"
@@ -13389,7 +13388,7 @@
     "issue": 347,
     "id": "45410998",
     "title": "FIFA 13",
-    "updated": "2026-08-12T19:05:00Z",
+    "updated": "2026-10-08T18:32:40Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13400,8 +13399,7 @@
         "tech-engine-impact",
         "gpu-readback",
         "backwards-compatibility-unsupported",
-        "requires_mount_cache",
-        "requires_render_target_rov_fsi"
+        "requires_mount_cache"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/347"
