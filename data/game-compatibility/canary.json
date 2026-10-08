@@ -1179,7 +1179,7 @@
     "issue": 1154,
     "id": "425307D9",
     "title": "Brink",
-    "updated": "2026-09-23T18:42:39Z",
+    "updated": "2026-10-08T10:38:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2726,16 +2726,14 @@
     "issue": 1040,
     "id": "57520817",
     "title": "LEGO Batman 2 DC Super Heroes",
-    "updated": "2026-08-01T17:39:53Z",
+    "updated": "2026-10-08T11:02:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-garbage",
-        "gpu-readback",
-        "crash-always"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1040"
@@ -6246,7 +6244,7 @@
     "issue": 804,
     "id": "415607F7",
     "title": "Guitar Hero III Legends of Rock",
-    "updated": "2026-08-21T21:11:57Z",
+    "updated": "2026-10-08T10:00:42Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9150,16 +9148,14 @@
     "issue": 610,
     "id": "41560834",
     "title": "Transformers Revenge Of The Fallen",
-    "updated": "2026-07-27T18:15:17Z",
+    "updated": "2026-10-08T15:12:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-readback",
-        "requires_render_target_rov_fsi"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/610"
@@ -10226,7 +10222,7 @@
     "issue": 540,
     "id": "53450813",
     "title": "Bayonetta",
-    "updated": "2026-09-30T18:33:29Z",
+    "updated": "2026-10-08T08:12:50Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13015,7 +13011,7 @@
     "issue": 370,
     "id": "45410806",
     "title": "Burnout Paradise",
-    "updated": "2026-08-20T04:58:37Z",
+    "updated": "2026-10-08T09:14:54Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13927,7 +13923,7 @@
     "issue": 316,
     "id": "534507D2",
     "title": "Condemned: Criminal Origins",
-    "updated": "2026-07-16T21:24:23Z",
+    "updated": "2026-10-08T07:46:43Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15386,15 +15382,13 @@
     "issue": 229,
     "id": "545407EE",
     "title": "The Darkness",
-    "updated": "2026-09-21T10:48:39Z",
+    "updated": "2026-10-08T10:50:56Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": [
-        "gpu-occlusion-query"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/229"
   },
@@ -15416,14 +15410,13 @@
     "issue": 227,
     "id": "5345084C",
     "title": "Virtual-On Force",
-    "updated": "2026-08-19T11:46:18Z",
+    "updated": "2026-10-08T11:53:05Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-middleware-criware",
         "requires_render_target_rov_fsi"
       ]
@@ -15500,18 +15493,17 @@
     "issue": 222,
     "id": "55530804",
     "title": "Dark Messiah: Might and Magic Elements",
-    "updated": "2026-10-07T15:37:20Z",
+    "updated": "2026-10-08T12:58:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "tech-engine-source",
         "tech-middleware-havok",
         "gpu-readback",
-        "gpu-occlusion-query"
+        "crash-random"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/222"
@@ -16050,7 +16042,7 @@
     "issue": 187,
     "id": "454109EC",
     "title": "NHL: Legacy Edition",
-    "updated": "2026-10-02T16:42:06Z",
+    "updated": "2026-10-08T12:49:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17297,7 +17289,7 @@
     "issue": 98,
     "id": "41560855",
     "title": "Call of Duty: Black Ops",
-    "updated": "2026-10-01T21:18:45Z",
+    "updated": "2026-10-08T13:49:56Z",
     "state": "Playable",
     "labels": {
       "state": [
