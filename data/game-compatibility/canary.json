@@ -10387,11 +10387,11 @@
     "issue": 530,
     "id": "57520800",
     "title": "F.E.A.R. 3",
-    "updated": "2026-03-01T17:50:48Z",
-    "state": "Gameplay",
+    "updated": "2026-10-09T00:54:41Z",
+    "state": "Loads",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-menus"
       ],
       "others": [
         "gpu-drawing-corrupt"
@@ -10403,7 +10403,7 @@
     "issue": 529,
     "id": "58410954",
     "title": "Banjo-Kazooie",
-    "updated": "2025-08-08T21:45:39Z",
+    "updated": "2026-10-08T22:10:09Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13354,7 +13354,7 @@
     "issue": 349,
     "id": "454108E6",
     "title": "Skate 3",
-    "updated": "2026-07-05T11:19:11Z",
+    "updated": "2026-10-09T05:05:58Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15028,7 +15028,7 @@
     "issue": 253,
     "id": "5841095A",
     "title": "Trials HD",
-    "updated": "2026-07-31T17:48:51Z",
+    "updated": "2026-10-08T23:14:14Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15510,15 +15510,14 @@
     "issue": 221,
     "id": "58410AAC",
     "title": "Toy Soldiers: Cold War",
-    "updated": "2025-06-15T07:30:11Z",
+    "updated": "2026-10-09T00:20:25Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-drawing-missing"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/221"
@@ -15548,7 +15547,7 @@
     "issue": 219,
     "id": "45410809",
     "title": "The Simpsons Game",
-    "updated": "2026-08-21T21:08:18Z",
+    "updated": "2026-10-09T00:37:34Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15676,14 +15675,13 @@
     "issue": 212,
     "id": "5841125A",
     "title": "Counter-Strike: GO",
-    "updated": "2026-10-01T10:53:55Z",
+    "updated": "2026-10-09T00:03:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-engine-source",
         "tech-middleware-havok",
         "gpu-readback",
@@ -16515,14 +16513,13 @@
     "issue": 153,
     "id": "454109F8",
     "title": "FIFA 18",
-    "updated": "2026-02-11T13:02:45Z",
+    "updated": "2026-10-08T23:50:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-missing",
         "tech-engine-eagl",
         "gpu-readback",
         "backwards-compatibility-unsupported"
@@ -16654,18 +16651,18 @@
     "issue": 145,
     "id": "545407F8",
     "title": "Midnight Club: Los Angeles",
-    "updated": "2026-08-20T18:53:47Z",
+    "updated": "2026-10-09T00:06:34Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-missing",
         "apu-silent",
         "apu-garbage",
         "regression",
         "tech-engine-rage",
+        "gpu-readback",
         "vsync-off-speedup",
         "gpu-occlusion-query"
       ]
@@ -17013,7 +17010,7 @@
     "issue": 119,
     "id": "454107ED",
     "title": "Superman Returns",
-    "updated": "2026-08-28T18:50:04Z",
+    "updated": "2026-10-09T05:17:23Z",
     "state": "Gameplay",
     "labels": {
       "state": [
