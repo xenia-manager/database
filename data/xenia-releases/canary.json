@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "04f8541",
+    "target_commitish": "04f85416e0f8ab59808e2275d6e6b05630c3c044",
+    "published_at": "2026-10-10T19:22:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/04f8541",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/04f85416e0f8ab59808e2275d6e6b05630c3c044",
+    "changelog": {
+      "title": "04f8541_canary_experimental",
+      "changes": "- [Kernel] Use guest object types in ObReferenceObjectByHandle (`04f8541`)\n- [XAM/NUI] - Improve NUI (`21faab8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1c81b86...04f8541"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/04f8541/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/04f8541/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "1c81b86",
+    "target_commitish": "1c81b867473806b2845a1946b2d185c9d888a319",
+    "published_at": "2026-10-10T16:17:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1c81b86",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1c81b867473806b2845a1946b2d185c9d888a319",
+    "changelog": {
+      "title": "1c81b86_canary_experimental",
+      "changes": "- [Base] Fix a lost resume of a thread created suspended on POSIX (`1c81b86`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c3ec0ba...1c81b86"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1c81b86/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1c81b86/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "c3ec0ba",
     "target_commitish": "c3ec0ba255e243c93b44ffd75e2f130957b20e22",
     "published_at": "2026-10-10T08:30:55Z",
