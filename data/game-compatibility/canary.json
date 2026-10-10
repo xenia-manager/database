@@ -5019,14 +5019,13 @@
     "issue": 881,
     "id": "4B5907DA",
     "title": "Darkstar One",
-    "updated": "2025-10-03T15:26:45Z",
+    "updated": "2026-10-09T20:47:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "apu-silent",
         "supports-1080p"
       ]
@@ -5223,14 +5222,13 @@
     "issue": 868,
     "id": "4B4D07D1",
     "title": "Sacred 2: Fallen Angel",
-    "updated": "2026-08-02T19:10:14Z",
+    "updated": "2026-10-09T16:34:49Z",
     "state": "Loads",
     "labels": {
       "state": [
         "state-menus"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "supports-1080p",
         "requires_protect_zero_false"
       ]
@@ -6967,7 +6965,7 @@
     "issue": 757,
     "id": "4B4D07F6",
     "title": "Saints Row IV",
-    "updated": "2026-08-28T12:43:10Z",
+    "updated": "2026-10-09T22:47:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -7002,14 +7000,14 @@
     "issue": 755,
     "id": "434307D2",
     "title": "Dead Rising",
-    "updated": "2026-09-19T15:03:30Z",
+    "updated": "2026-10-09T16:40:01Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-drawing-corrupt",
+        "gpu-drawing-missing",
         "apu-garbage",
         "gpu-readback",
         "requires_render_target_rov_fsi"
@@ -10190,7 +10188,7 @@
     "issue": 542,
     "id": "4C4107D4",
     "title": "Fracture",
-    "updated": "2026-07-27T18:23:49Z",
+    "updated": "2026-10-09T15:54:20Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16354,7 +16352,7 @@
     "issue": 162,
     "id": "4E4D083E",
     "title": "Ridge Racer Unbounded",
-    "updated": "2026-07-27T18:04:51Z",
+    "updated": "2026-10-09T15:41:56Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16364,8 +16362,7 @@
         "tech-middleware-wwise",
         "tech-middleware-scaleform",
         "vsync-off-speedup",
-        "gpu-occlusion-query",
-        "requires_render_target_rov_fsi"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/162"
@@ -16374,7 +16371,7 @@
     "issue": 161,
     "id": "5451086D",
     "title": "Saints Row: The Third",
-    "updated": "2026-08-28T18:07:21Z",
+    "updated": "2026-10-09T22:33:18Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16565,7 +16562,7 @@
     "issue": 150,
     "id": "573607E2",
     "title": "WRC 5",
-    "updated": "2026-07-27T18:16:19Z",
+    "updated": "2026-10-09T17:45:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16886,14 +16883,13 @@
     "issue": 128,
     "id": "4E4D07D1",
     "title": "Ace Combat 6",
-    "updated": "2026-08-29T04:05:06Z",
+    "updated": "2026-10-09T16:37:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
         "apu-garbage",
         "marketplace-nodownload",
         "vsync-off-speedup",
