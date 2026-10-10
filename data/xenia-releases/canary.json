@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "c3ec0ba",
+    "target_commitish": "c3ec0ba255e243c93b44ffd75e2f130957b20e22",
+    "published_at": "2026-10-10T08:30:55Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c3ec0ba",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c3ec0ba255e243c93b44ffd75e2f130957b20e22",
+    "changelog": {
+      "title": "c3ec0ba_canary_experimental",
+      "changes": "- [XAM] Implement XamShowNuiMessageBoxUI and XamShowNuiDeviceSelectorUI (`c3ec0ba`)\n- [Base] xb script: Fixed searching for toolset for VS on Windows (`6e2caa5`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/828014b...c3ec0ba"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c3ec0ba/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c3ec0ba/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "828014b",
     "target_commitish": "828014b9083714947c145669e1e41bd87567ac7f",
     "published_at": "2026-10-08T19:08:01Z",
