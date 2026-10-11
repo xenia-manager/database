@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1242,
+    "id": "58410888",
+    "title": "Triggerheart Exelica",
+    "updated": "2026-10-11T00:00:18Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "vsync-off-speedup"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1242"
+  },
+  {
     "issue": 1241,
     "id": "464507DA",
     "title": "Tour De France 2012",
@@ -8694,13 +8710,15 @@
     "issue": 640,
     "id": "43430824",
     "title": "Devil May Cry",
-    "updated": "2025-08-14T16:05:06Z",
+    "updated": "2026-10-10T22:16:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "tech-engine-unreal"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/640"
   },
@@ -12189,7 +12207,7 @@
     "issue": 418,
     "id": "534307EC",
     "title": "Tomb Raider: Underworld",
-    "updated": "2026-10-02T15:57:46Z",
+    "updated": "2026-10-11T04:10:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15593,11 +15611,11 @@
     "issue": 216,
     "id": "4D530919",
     "title": "Halo 4",
-    "updated": "2026-10-05T22:50:26Z",
-    "state": "Gameplay",
+    "updated": "2026-10-11T02:35:52Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-blam",
@@ -16629,8 +16647,8 @@
   {
     "issue": 146,
     "id": "4343081E",
-    "title": "Devil May Cry HD Colletion",
-    "updated": "2026-06-18T12:46:30Z",
+    "title": "Devil May Cry HD Collection",
+    "updated": "2026-10-10T22:14:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
