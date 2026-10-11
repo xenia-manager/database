@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "103257c",
+    "target_commitish": "103257c5aa0a49a0893dc9b93dc1882e129bc165",
+    "published_at": "2026-10-11T07:05:28Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/103257c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/103257c5aa0a49a0893dc9b93dc1882e129bc165",
+    "changelog": {
+      "title": "103257c_canary_experimental",
+      "changes": "- [HID/SDL] Let a slot say what kind of controller it is, and fix a guitar's whammy (`103257c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/04f8541...103257c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/103257c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/103257c/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "04f8541",
     "target_commitish": "04f85416e0f8ab59808e2275d6e6b05630c3c044",
     "published_at": "2026-10-10T19:22:58Z",
