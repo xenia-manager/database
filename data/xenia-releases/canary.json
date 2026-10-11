@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "2372a54",
+    "target_commitish": "2372a54105d9d598ab5bc7ba94a72ef1bea4b271",
+    "published_at": "2026-10-11T19:47:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2372a54",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2372a54105d9d598ab5bc7ba94a72ef1bea4b271",
+    "changelog": {
+      "title": "2372a54_canary_experimental",
+      "changes": "- [APU] Round XMA samples instead of truncating (`2372a54`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/103257c...2372a54"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2372a54/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2372a54/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "103257c",
     "target_commitish": "103257c5aa0a49a0893dc9b93dc1882e129bc165",
     "published_at": "2026-10-11T07:05:28Z",

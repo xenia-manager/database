@@ -161,7 +161,7 @@
     "issue": 1232,
     "id": "445407DE",
     "title": "The Cursed Crusade",
-    "updated": "2026-09-25T23:14:33Z",
+    "updated": "2026-10-11T17:44:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1021,7 +1021,7 @@
     "issue": 1166,
     "id": "57520835",
     "title": "LEGO Marvel Super Heroes",
-    "updated": "2026-09-21T12:10:30Z",
+    "updated": "2026-10-11T17:56:16Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -1030,8 +1030,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "apu-silent",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1166"
@@ -1101,11 +1100,11 @@
     "issue": 1161,
     "id": "57520824",
     "title": "The Witcher 2: Assassins of Kings - Enhanced Edition",
-    "updated": "2026-09-24T11:51:00Z",
-    "state": "Gameplay",
+    "updated": "2026-10-11T17:35:01Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-readback",
@@ -3166,13 +3165,15 @@
     "issue": 1006,
     "id": "545107E6",
     "title": "Darksiders",
-    "updated": "2026-05-11T16:39:47Z",
+    "updated": "2026-10-11T18:18:34Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": []
+      "others": [
+        "tech-engine-phoenix"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1006"
   },
@@ -12497,13 +12498,15 @@
     "issue": 401,
     "id": "54510896",
     "title": "Darksiders II",
-    "updated": "2025-01-10T18:08:02Z",
+    "updated": "2026-10-11T18:18:33Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": []
+      "others": [
+        "tech-engine-phoenix"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/401"
   },
@@ -12675,8 +12678,8 @@
   {
     "issue": 391,
     "id": "534307DB",
-    "title": "Hitman HD Trilogy (Disk 2 - Hitman: Blood Money)",
-    "updated": "2026-05-07T21:06:25Z",
+    "title": "Hitman: Blood Money",
+    "updated": "2026-10-11T19:40:38Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15138,7 +15141,7 @@
     "issue": 247,
     "id": "5451082C",
     "title": "Warhammer 40,000: Space Marine",
-    "updated": "2026-09-21T11:11:21Z",
+    "updated": "2026-10-11T18:20:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15151,7 +15154,8 @@
         "backwards-compatibility-unsupported",
         "gpu-viz-query",
         "gpu-occlusion-querybatch",
-        "requires_render_target_rov_fsi"
+        "requires_render_target_rov_fsi",
+        "tech-engine-phoenix"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/247"
@@ -15611,7 +15615,7 @@
     "issue": 216,
     "id": "4D530919",
     "title": "Halo 4",
-    "updated": "2026-10-11T02:35:52Z",
+    "updated": "2026-10-11T18:46:38Z",
     "state": "Playable",
     "labels": {
       "state": [
