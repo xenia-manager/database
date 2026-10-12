@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1243,
+    "id": "584109D2",
+    "title": "Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled",
+    "updated": "2026-10-11T22:19:45Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1243"
+  },
+  {
     "issue": 1242,
     "id": "58410888",
     "title": "Triggerheart Exelica",
@@ -3195,7 +3209,7 @@
     "issue": 1004,
     "id": "4E4D07F5",
     "title": "Dead to Rights: Retribution",
-    "updated": "2026-05-21T01:43:16Z",
+    "updated": "2026-10-12T02:23:41Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -7132,13 +7146,14 @@
     "issue": 748,
     "id": "4541098E",
     "title": "Crysis 3",
-    "updated": "2026-07-08T14:17:49Z",
-    "state": "Gameplay",
+    "updated": "2026-10-12T01:23:24Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "kernel-save-file-errors",
         "tech-engine-cry",
         "gpu-readback"
       ]
@@ -12348,7 +12363,7 @@
     "issue": 409,
     "id": "4D53084D",
     "title": "Forza Motorsport 3",
-    "updated": "2026-07-30T08:25:28Z",
+    "updated": "2026-10-11T23:32:11Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15615,7 +15630,7 @@
     "issue": 216,
     "id": "4D530919",
     "title": "Halo 4",
-    "updated": "2026-10-11T18:46:38Z",
+    "updated": "2026-10-12T03:26:53Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17028,7 +17043,7 @@
     "issue": 119,
     "id": "454107ED",
     "title": "Superman Returns",
-    "updated": "2026-10-09T07:10:30Z",
+    "updated": "2026-10-11T23:24:24Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17036,7 +17051,8 @@
       ],
       "others": [
         "apu-silent",
-        "crash-random"
+        "crash-random",
+        "gpu-async-compile-issues"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/119"
@@ -18181,7 +18197,7 @@
     "issue": 28,
     "id": "454107D9",
     "title": "Need for Speed Most Wanted (2005)",
-    "updated": "2026-10-06T18:45:58Z",
+    "updated": "2026-10-12T04:59:31Z",
     "state": "Playable",
     "labels": {
       "state": [
