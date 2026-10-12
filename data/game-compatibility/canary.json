@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1244,
+    "id": "5841098E",
+    "title": "Star Trek: D\u00b7A\u00b7C",
+    "updated": "2026-10-12T09:37:10Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1244"
+  },
+  {
     "issue": 1243,
     "id": "584109D2",
     "title": "Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled",
@@ -7146,7 +7160,7 @@
     "issue": 748,
     "id": "4541098E",
     "title": "Crysis 3",
-    "updated": "2026-10-12T01:23:24Z",
+    "updated": "2026-10-12T14:41:15Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -8983,13 +8997,16 @@
     "issue": 622,
     "id": "445007D4",
     "title": "Dark Sector",
-    "updated": "2025-07-03T08:12:45Z",
+    "updated": "2026-10-12T09:44:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "tech-engine-evolution",
+        "tech-physics-physx"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/622"
   },
@@ -16530,7 +16547,7 @@
     "issue": 154,
     "id": "4D5307E8",
     "title": "Mass Effect",
-    "updated": "2026-08-05T20:38:41Z",
+    "updated": "2026-10-12T16:10:46Z",
     "state": "Playable",
     "labels": {
       "state": [
