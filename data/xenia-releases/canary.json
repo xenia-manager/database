@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "97bec07",
+    "target_commitish": "97bec07804e589ea18e80282cdbb876573e1739a",
+    "published_at": "2026-10-13T19:14:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/97bec07",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/97bec07804e589ea18e80282cdbb876573e1739a",
+    "changelog": {
+      "title": "97bec07_canary_experimental",
+      "changes": "- [APU] Log XMA buffer waits at APU level (`97bec07`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/3989ba3...97bec07"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/97bec07/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/97bec07/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "3989ba3",
+    "target_commitish": "3989ba3a1bbc2e197d19685c4447b5a67d847bcb",
+    "published_at": "2026-10-13T18:18:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/3989ba3",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/3989ba3a1bbc2e197d19685c4447b5a67d847bcb",
+    "changelog": {
+      "title": "3989ba3_canary_experimental",
+      "changes": "- [GPU] Reuse sample addresses for MSAA averaging (`3989ba3`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5f55dc7...3989ba3"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3989ba3/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3989ba3/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "5f55dc7",
+    "target_commitish": "5f55dc7ff9cbc0f63263adad0eb4bd294336084d",
+    "published_at": "2026-10-13T17:37:30Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5f55dc7",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/5f55dc7ff9cbc0f63263adad0eb4bd294336084d",
+    "changelog": {
+      "title": "5f55dc7_canary_experimental",
+      "changes": "- [XAM/XMP] - Playback control and settings kept per controller (`5f55dc7`)\n- [Vulkan] Apply depth bias in constant units with VK_EXT_depth_bias_control (`a8d034c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2372a54...5f55dc7"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5f55dc7/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5f55dc7/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "2372a54",
     "target_commitish": "2372a54105d9d598ab5bc7ba94a72ef1bea4b271",
     "published_at": "2026-10-11T19:47:24Z",
