@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "699ad42",
+    "target_commitish": "699ad42f2913a4db2d5e9aa924f24f81e6d93b77",
+    "published_at": "2026-10-14T17:23:40Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/699ad42",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/699ad42f2913a4db2d5e9aa924f24f81e6d93b77",
+    "changelog": {
+      "title": "699ad42_canary_experimental",
+      "changes": "- [APU] Pace silent media playback and recover unavailable audio devices (`699ad42`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/40cee11...699ad42"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/699ad42/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/699ad42/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "40cee11",
     "target_commitish": "40cee11ab14cb9ad4286232dabfe3c69fc32b806",
     "published_at": "2026-10-13T21:38:21Z",
