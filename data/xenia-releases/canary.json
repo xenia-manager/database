@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "b735063",
+    "target_commitish": "b7350635be5a48a1b28b3bcf0e334b7f7c671abd",
+    "published_at": "2026-10-14T23:54:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b735063",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b7350635be5a48a1b28b3bcf0e334b7f7c671abd",
+    "changelog": {
+      "title": "b735063_canary_experimental",
+      "changes": "- [Build] Enable test targets in xb test (`b735063`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/699ad42...b735063"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b735063/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b735063/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "699ad42",
     "target_commitish": "699ad42f2913a4db2d5e9aa924f24f81e6d93b77",
     "published_at": "2026-10-14T17:23:40Z",
