@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "716afa0",
+    "target_commitish": "716afa039ebce6cc5aa6e0a280f9d11c0c0b06fa",
+    "published_at": "2026-10-15T19:10:17Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/716afa0",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/716afa039ebce6cc5aa6e0a280f9d11c0c0b06fa",
+    "changelog": {
+      "title": "716afa0_canary_experimental",
+      "changes": "- [Build] Link the Vulkan trace viewer as a Windows GUI app (`716afa0`)\n- [GPU] Fix GPU trace replay in the trace dumps and trace viewers (`b83593c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b735063...716afa0"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/716afa0/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/716afa0/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "b735063",
     "target_commitish": "b7350635be5a48a1b28b3bcf0e334b7f7c671abd",
     "published_at": "2026-10-14T23:54:31Z",

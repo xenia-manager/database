@@ -2431,14 +2431,15 @@
     "issue": 1066,
     "id": "434D082D",
     "title": "F1 2010",
-    "updated": "2026-10-07T00:07:15Z",
-    "state": "Gameplay",
+    "updated": "2026-10-15T19:17:46Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "tech-engine-ego"
+        "tech-engine-ego",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1066"
@@ -10305,11 +10306,11 @@
     "issue": 538,
     "id": "4D530805",
     "title": "Alan Wake",
-    "updated": "2026-10-15T12:15:29Z",
-    "state": "Gameplay",
+    "updated": "2026-10-15T15:10:42Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-maxfx",
@@ -15666,7 +15667,7 @@
     "issue": 215,
     "id": "4D530877",
     "title": "Halo 3: ODST",
-    "updated": "2026-07-27T18:45:40Z",
+    "updated": "2026-10-15T18:27:39Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15677,8 +15678,7 @@
         "gpu-readback",
         "kernel-KeSetCurrentStackPointers",
         "vsync-off-speedup",
-        "gpu-occlusion-query",
-        "requires_render_target_rov_fsi"
+        "gpu-occlusion-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/215"
@@ -15687,7 +15687,7 @@
     "issue": 214,
     "id": "4D5307E6",
     "title": "Halo 3",
-    "updated": "2026-10-01T20:48:47Z",
+    "updated": "2026-10-15T18:28:14Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15699,8 +15699,7 @@
         "kernel-KeSetCurrentStackPointers",
         "vsync-off-speedup",
         "gpu-occlusion-query",
-        "gpu-viz-query",
-        "requires_render_target_rov_fsi"
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/214"
@@ -16779,7 +16778,7 @@
     "issue": 140,
     "id": "415607E6",
     "title": "Call of Duty 4: Modern Warfare",
-    "updated": "2026-08-07T01:17:54Z",
+    "updated": "2026-10-15T16:47:49Z",
     "state": "Playable",
     "labels": {
       "state": [
