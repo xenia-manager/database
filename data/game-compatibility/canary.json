@@ -1272,14 +1272,15 @@
     "issue": 1148,
     "id": "58411489",
     "title": "JUJU",
-    "updated": "2026-10-06T17:39:50Z",
+    "updated": "2026-10-16T00:54:25Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt"
+        "gpu-drawing-corrupt",
+        "tech-engine-unreal"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1148"
@@ -2397,14 +2398,17 @@
     "issue": 1068,
     "id": "434D0847",
     "title": "F1 2012",
-    "updated": "2026-10-07T00:07:17Z",
+    "updated": "2026-10-16T00:05:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-ego"
+        "regression",
+        "tech-engine-ego",
+        "gpu-readback",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1068"
@@ -2413,7 +2417,7 @@
     "issue": 1067,
     "id": "434D0842",
     "title": "F1 2011",
-    "updated": "2026-10-07T00:07:16Z",
+    "updated": "2026-10-15T23:57:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2421,7 +2425,9 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
+        "regression",
         "tech-engine-ego",
+        "gpu-readback",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -2431,7 +2437,7 @@
     "issue": 1066,
     "id": "434D082D",
     "title": "F1 2010",
-    "updated": "2026-10-15T19:17:46Z",
+    "updated": "2026-10-15T22:58:45Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -2439,6 +2445,7 @@
       ],
       "others": [
         "tech-engine-ego",
+        "gpu-readback",
         "requires_render_target_rov_fsi"
       ]
     },
