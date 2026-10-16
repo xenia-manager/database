@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "583528e",
+    "target_commitish": "583528e8e3d763a86a37aa848a7f4019e579362a",
+    "published_at": "2026-10-16T05:35:34Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/583528e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/583528e8e3d763a86a37aa848a7f4019e579362a",
+    "changelog": {
+      "title": "583528e_canary_experimental",
+      "changes": "- [UI] Bundle a CJK font stb_truetype can load (`583528e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5cda712...583528e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/583528e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/583528e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "5cda712",
+    "target_commitish": "5cda71298ae87db2eed7177beb253ff6ee3e8150",
+    "published_at": "2026-10-16T04:04:34Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5cda712",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/5cda71298ae87db2eed7177beb253ff6ee3e8150",
+    "changelog": {
+      "title": "5cda712_canary_experimental",
+      "changes": "- [CPU/Base] Assert on the main thread in threaded tests (`5cda712`)\n- [GPU] Add trace_gpu_frames to capture frame traces without input (`e735514`)\n- [GPU] Add an option to build GPU trace capture into release builds (`fbd0edf`)\n- [Docs] State the Linux compiler and C++ library requirements (`6d56dd8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/716afa0...5cda712"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5cda712/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5cda712/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "716afa0",
     "target_commitish": "716afa039ebce6cc5aa6e0a280f9d11c0c0b06fa",
     "published_at": "2026-10-15T19:10:17Z",
