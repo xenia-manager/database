@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "976c357",
+    "target_commitish": "976c3578b15c5c60ca9e6ba65b0f76f2095d2473",
+    "published_at": "2026-10-17T10:02:01Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/976c357",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/976c3578b15c5c60ca9e6ba65b0f76f2095d2473",
+    "changelog": {
+      "title": "976c357_canary_experimental",
+      "changes": "- [Kernel] XFile: Check FILE_NO_INTERMEDIATE_BUFFERING (`976c357`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/dac2794...976c357"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/976c357/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/976c357/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "dac2794",
     "target_commitish": "dac2794ca72e20b2cb5e6ca9e765da8811a19d6d",
     "published_at": "2026-10-16T22:08:53Z",
