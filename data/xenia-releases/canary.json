@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "dac2794",
+    "target_commitish": "dac2794ca72e20b2cb5e6ca9e765da8811a19d6d",
+    "published_at": "2026-10-16T22:08:53Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/dac2794",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/dac2794ca72e20b2cb5e6ca9e765da8811a19d6d",
+    "changelog": {
+      "title": "dac2794_canary_experimental",
+      "changes": "- [XAM] Truncate launch data to MAX_LAUNCH_DATA_SIZE (`dac2794`)\n- [XAM] Clear the name buffer for invalid user indices in XamUserGetName (`ec884c8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/cbb34a8...dac2794"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dac2794/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dac2794/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "cbb34a8",
+    "target_commitish": "cbb34a874530ac33d6f8ad97c765f26370992d49",
+    "published_at": "2026-10-16T19:11:12Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/cbb34a8",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/cbb34a874530ac33d6f8ad97c765f26370992d49",
+    "changelog": {
+      "title": "cbb34a8_canary_experimental",
+      "changes": "- [Emulator] Log guest crash dump before pausing (`cbb34a8`)\n- [XAM/INPUT] Report controller connection state while UI is active (`23bb55f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/583528e...cbb34a8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cbb34a8/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cbb34a8/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "583528e",
     "target_commitish": "583528e8e3d763a86a37aa848a7f4019e579362a",
     "published_at": "2026-10-16T05:35:34Z",
