@@ -1,5 +1,17 @@
 [
   {
+    "issue": 1248,
+    "id": "58410981",
+    "title": "Hasbro Family Game Night",
+    "updated": "2026-10-18T15:38:29Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1248"
+  },
+  {
     "issue": 1246,
     "id": "4D4607D5",
     "title": "Heavy Fire: Shattered Spear",
@@ -1565,17 +1577,15 @@
     "issue": 1130,
     "id": "53450814",
     "title": "Virtua Tennis 2009",
-    "updated": "2026-05-30T04:32:09Z",
+    "updated": "2026-10-18T12:41:31Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "apu-silent",
         "gpu-readback",
-        "vsync-off-speedup",
-        "crash-random"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1130"
@@ -9601,7 +9611,7 @@
     "issue": 583,
     "id": "545407D4",
     "title": "Amped 3",
-    "updated": "2026-08-28T22:59:26Z",
+    "updated": "2026-10-18T13:03:16Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17092,7 +17102,7 @@
     "issue": 119,
     "id": "454107ED",
     "title": "Superman Returns",
-    "updated": "2026-10-11T23:24:24Z",
+    "updated": "2026-10-18T12:54:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -18440,7 +18450,7 @@
     "issue": 9,
     "id": "454107DB",
     "title": "Battlefield 2: Modern Combat",
-    "updated": "2026-09-01T23:34:56Z",
+    "updated": "2026-10-18T12:49:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [
