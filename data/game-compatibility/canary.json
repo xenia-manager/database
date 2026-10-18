@@ -16418,7 +16418,7 @@
     "issue": 163,
     "id": "425307EC",
     "title": "RAGE",
-    "updated": "2026-09-30T09:16:44Z",
+    "updated": "2026-10-18T09:58:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -18530,6 +18530,25 @@
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/5"
+  },
+  {
+    "issue": 4,
+    "id": "4D5307FA",
+    "title": "Lost Odyssey",
+    "updated": "2026-10-18T09:20:08Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "apu-garbage",
+        "tech-engine-unreal",
+        "vsync-off-speedup",
+        "gpu-occlusion-query"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/4"
   },
   {
     "issue": 3,
