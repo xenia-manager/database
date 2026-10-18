@@ -1,5 +1,131 @@
 [
   {
+    "tag_name": "50e9c71",
+    "target_commitish": "50e9c715df05e3d93ac18e253d14956900683226",
+    "published_at": "2026-10-18T03:37:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/50e9c71",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/50e9c715df05e3d93ac18e253d14956900683226",
+    "changelog": {
+      "title": "50e9c71_canary_experimental",
+      "changes": "- [Kernel] Don't dereference a null KeDelayExecutionThread interval (`50e9c71`)\n- [CPU] Bounds-check basic compressed XEX blocks (`992836f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f03a9fc...50e9c71"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/50e9c71/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/50e9c71/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "f03a9fc",
+    "target_commitish": "f03a9fcfcb2f30b3b958d0e5a8e6757cc2cf72fb",
+    "published_at": "2026-10-18T02:54:47Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f03a9fc",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f03a9fcfcb2f30b3b958d0e5a8e6757cc2cf72fb",
+    "changelog": {
+      "title": "f03a9fc_canary_experimental",
+      "changes": "- [Kernel] Add NtOpenFile's missing sixth argument (`f03a9fc`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b709f66...f03a9fc"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f03a9fc/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f03a9fc/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "b709f66",
+    "target_commitish": "b709f66556afd507778a0127697ddb9bf56097da",
+    "published_at": "2026-10-18T01:21:57Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b709f66",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b709f66556afd507778a0127697ddb9bf56097da",
+    "changelog": {
+      "title": "b709f66_canary_experimental",
+      "changes": "- [GPU] Make texture point snap optional (`b709f66`)\n- [Kernel] Reject title updates without a delta patch descriptor (`a66d28c`)\n- [XAM] Ensure XamEnumerate item count is zero on failure (`26427bc`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/dd0af5e...b709f66"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b709f66/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b709f66/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "dd0af5e",
+    "target_commitish": "dd0af5eb11427ea1a0c075cbc323abbb8713530b",
+    "published_at": "2026-10-17T20:32:52Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/dd0af5e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/dd0af5eb11427ea1a0c075cbc323abbb8713530b",
+    "changelog": {
+      "title": "dd0af5e_canary_experimental",
+      "changes": "- [Docs] Update dead Free60 wiki links (`dd0af5e`)\n- [Kernel] Don't leak the object created by NtCreateIoCompletion (`b44716e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5a782e4...dd0af5e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dd0af5e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/dd0af5e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "5a782e4",
+    "target_commitish": "5a782e497826739612ac6f8f360c022a7619f884",
+    "published_at": "2026-10-17T20:06:48Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5a782e4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/5a782e497826739612ac6f8f360c022a7619f884",
+    "changelog": {
+      "title": "5a782e4_canary_experimental",
+      "changes": "- [Base] Show an assertion dialog instead of terminating on Linux (`5a782e4`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1d6e2dd...5a782e4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5a782e4/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5a782e4/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "1d6e2dd",
+    "target_commitish": "1d6e2dd59d4fbde67523ed99b92b107adb0d4dc1",
+    "published_at": "2026-10-17T19:38:24Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1d6e2dd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1d6e2dd59d4fbde67523ed99b92b107adb0d4dc1",
+    "changelog": {
+      "title": "1d6e2dd_canary_experimental",
+      "changes": "- [Kernel] Fixed HalOpenCloseODDTray tray state (`1d6e2dd`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/976c357...1d6e2dd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1d6e2dd/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1d6e2dd/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "976c357",
     "target_commitish": "976c3578b15c5c60ca9e6ba65b0f76f2095d2473",
     "published_at": "2026-10-17T10:02:01Z",
