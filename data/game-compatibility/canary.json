@@ -3,11 +3,17 @@
     "issue": 1248,
     "id": "58410981",
     "title": "Hasbro Family Game Night",
-    "updated": "2026-10-18T15:38:29Z",
-    "state": "Unknown",
+    "updated": "2026-10-18T18:41:54Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-drawing-missing",
+        "marketplace-delisted",
+        "tech-avatar-required"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1248"
   },
@@ -2435,14 +2441,13 @@
     "issue": 1068,
     "id": "434D0847",
     "title": "F1 2012",
-    "updated": "2026-10-16T00:05:08Z",
+    "updated": "2026-10-18T20:39:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "regression",
         "tech-engine-ego",
         "gpu-readback",
         "requires_render_target_rov_fsi"
@@ -2454,7 +2459,7 @@
     "issue": 1067,
     "id": "434D0842",
     "title": "F1 2011",
-    "updated": "2026-10-15T23:57:43Z",
+    "updated": "2026-10-18T20:38:55Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2462,7 +2467,6 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "regression",
         "tech-engine-ego",
         "gpu-readback",
         "requires_render_target_rov_fsi"
@@ -17358,7 +17362,7 @@
     "issue": 99,
     "id": "5451087D",
     "title": "UFC Undisputed 3",
-    "updated": "2026-06-30T04:08:21Z",
+    "updated": "2026-10-18T20:30:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [

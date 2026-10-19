@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "c28af11",
+    "target_commitish": "c28af1125d7a50c1cdfc4ba0c7e6c1df5b00f295",
+    "published_at": "2026-10-18T19:59:06Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c28af11",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c28af1125d7a50c1cdfc4ba0c7e6c1df5b00f295",
+    "changelog": {
+      "title": "c28af11_canary_experimental",
+      "changes": "- [XAM] Fixed applying specific DLCs. Hopefully it won't break anything (`c28af11`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4c8482b...c28af11"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c28af11/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c28af11/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "4c8482b",
     "target_commitish": "4c8482b63bfe6273d3a4271168db028a249bacdf",
     "published_at": "2026-10-18T14:13:23Z",
