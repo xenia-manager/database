@@ -8838,13 +8838,15 @@
     "issue": 637,
     "id": "43430822",
     "title": "Resident Evil Code: Veronica X",
-    "updated": "2026-08-25T05:47:31Z",
-    "state": "Gameplay",
+    "updated": "2026-10-19T11:57:09Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
-      "others": []
+      "others": [
+        "vsync-off-speedup"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/637"
   },
