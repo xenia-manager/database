@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "e6cd2e4",
+    "target_commitish": "e6cd2e4bc998609ca25e24a24c8e32b66c5908ad",
+    "published_at": "2026-10-20T19:30:12Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e6cd2e4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e6cd2e4bc998609ca25e24a24c8e32b66c5908ad",
+    "changelog": {
+      "title": "e6cd2e4_canary_experimental",
+      "changes": "- [GPU] Remove the 7 bit guest format case (`e6cd2e4`)\n- [XAM] Return success if title re-request mounting package under the same name (`debbf15`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f42147a...e6cd2e4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e6cd2e4/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e6cd2e4/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "f42147a",
     "target_commitish": "f42147a5b800cb69ce5e9b72021d5f4a041db3cb",
     "published_at": "2026-10-20T09:40:37Z",
