@@ -15560,14 +15560,15 @@
     "issue": 224,
     "id": "54510848",
     "title": "Cars Race O Rama",
-    "updated": "2026-10-22T01:11:25Z",
+    "updated": "2026-10-22T10:44:52Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-readback"
+        "gpu-readback",
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/224"
@@ -17104,15 +17105,13 @@
     "issue": 119,
     "id": "454107ED",
     "title": "Superman Returns",
-    "updated": "2026-10-21T12:49:34Z",
-    "state": "Gameplay",
+    "updated": "2026-10-22T12:09:29Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "apu-silent",
-        "crash-random",
         "gpu-async-compile-issues"
       ]
     },
@@ -17499,7 +17498,7 @@
     "issue": 85,
     "id": "5451085D",
     "title": "WWE Smackdown VS Raw 2011",
-    "updated": "2026-08-27T12:37:21Z",
+    "updated": "2026-10-22T08:58:15Z",
     "state": "Gameplay",
     "labels": {
       "state": [
