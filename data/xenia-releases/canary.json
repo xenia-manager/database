@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "534aeb6",
+    "target_commitish": "534aeb64ea1937361573e3933d121e636463b135",
+    "published_at": "2026-10-23T04:09:14Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/534aeb6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/534aeb64ea1937361573e3933d121e636463b135",
+    "changelog": {
+      "title": "534aeb6_canary_experimental",
+      "changes": "- [GPU] Gamma resolve quantizing after averaging (`534aeb6`)\n- [GPU] Fix packed mip tail addressing and 2x1 offsets (`344fca7`)\n- [GPU] Proper fixed 16 bit EDRAM scaling (`42c2b88`)\n- [GPU] Answer the 8 bit format alias questions (`8322658`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e6cd2e4...534aeb6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/534aeb6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/534aeb6/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "e6cd2e4",
     "target_commitish": "e6cd2e4bc998609ca25e24a24c8e32b66c5908ad",
     "published_at": "2026-10-20T19:30:12Z",
