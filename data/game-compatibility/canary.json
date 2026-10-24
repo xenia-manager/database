@@ -1,5 +1,22 @@
 [
   {
+    "issue": 1249,
+    "id": "54510801",
+    "title": "Cars: Mater-National",
+    "updated": "2026-10-24T15:52:03Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "vsync-off-speedup",
+        "gpu-occlusion-query"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1249"
+  },
+  {
     "issue": 1248,
     "id": "58410981",
     "title": "Hasbro Family Game Night",
@@ -9215,13 +9232,14 @@
     "issue": 612,
     "id": "415607DE",
     "title": "Wolfenstein",
-    "updated": "2026-03-08T16:56:41Z",
-    "state": "Gameplay",
+    "updated": "2026-10-24T14:04:52Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "gpu-drawing-corrupt",
         "tech-engine-idtech",
         "tech-middleware-havok"
       ]
@@ -16556,7 +16574,7 @@
     "issue": 156,
     "id": "4E4D07D3",
     "title": "Ridge Racer 6",
-    "updated": "2026-08-26T04:50:12Z",
+    "updated": "2026-10-24T17:57:49Z",
     "state": "Playable",
     "labels": {
       "state": [

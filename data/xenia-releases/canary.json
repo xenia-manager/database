@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "451f915",
+    "target_commitish": "451f915566d57436555c6eb4ee77bb4717eb01de",
+    "published_at": "2026-10-24T15:43:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/451f915",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/451f915566d57436555c6eb4ee77bb4717eb01de",
+    "changelog": {
+      "title": "451f915_canary_experimental",
+      "changes": "- [XAM] Return an HRESULT and no length from XamContentClose errors (`451f915`)\n- [XAM] Report an unknown device to XamContentGetDeviceState as an HRESULT (`af53787`)\n- [Kernel] Don't signal the overlapped event when a completion routine is set (`ad0d187`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9e03494...451f915"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/451f915/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/451f915/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "9e03494",
     "target_commitish": "9e03494efa73575d0f1b6c2b0ae67f4ed1ace2e1",
     "published_at": "2026-10-23T22:10:37Z",
