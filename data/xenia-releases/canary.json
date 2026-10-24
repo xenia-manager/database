@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "9e03494",
+    "target_commitish": "9e03494efa73575d0f1b6c2b0ae67f4ed1ace2e1",
+    "published_at": "2026-10-23T22:10:37Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9e03494",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9e03494efa73575d0f1b6c2b0ae67f4ed1ace2e1",
+    "changelog": {
+      "title": "9e03494_canary_experimental",
+      "changes": "- [XAM] Fail XamWriteGamerTile past the last user with function failed (`9e03494`)\n- [XAM] Accept gamer tile keys that aren't hex strings (`b5fb869`)\n- [XAM] Fail XamUserCreateTitlesPlayedEnumerator for an empty slot (`793bb72`)\n- [XAM] Complete XamUserContentRestrictionCheckAccess for content type 0 synchronously (`274d8e1`)\n- [XAM] Fail XamUserContentRestrictionGetRating for content type 0 (`b2c9cf3`)\n- [XAM] Fail XamUserGetUserTenure for an empty slot with no such user (`74e2af0`)\n- [XAM] Return HRESULTs from XamUserGetSubscriptionType (`20d6e45`)\n- [XAM] Use the console language and country for profiles without one (`a921bda`)\n- [XAM] Fail profile setting reads for an empty or oversized XUID array (`f099e12`)\n- [XAM] Fail XamUserContentRestrictionGetFlags past the last user (`e711ccf`)\n- [XAM] Fail XamUserGetSigninInfo past the last user with an invalid argument (`85b839a`)\n- [GPU] Convert indexed tessellated triangle strips to lists (`9c30b16`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/534aeb6...9e03494"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9e03494/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9e03494/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "534aeb6",
     "target_commitish": "534aeb64ea1937361573e3933d121e636463b135",
     "published_at": "2026-10-23T04:09:14Z",
