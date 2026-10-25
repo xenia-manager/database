@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1250,
+    "id": "41560816",
+    "title": "X-Men Origins: Wolverine",
+    "updated": "2026-10-25T18:29:44Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "tech-engine-unreal"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1250"
+  },
+  {
     "issue": 1249,
     "id": "54510801",
     "title": "Cars: Mater-National",
@@ -15574,7 +15590,7 @@
     "issue": 224,
     "id": "54510848",
     "title": "Cars Race O Rama",
-    "updated": "2026-10-22T10:44:52Z",
+    "updated": "2026-10-25T15:46:09Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15582,7 +15598,8 @@
       ],
       "others": [
         "gpu-readback",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "splitscreen-working"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/224"
