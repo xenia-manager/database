@@ -15,13 +15,38 @@
       }
     ],
     "Box": {
+      "Back": [
+        {
+          "CRC32": "2656717942",
+          "FileName": "r2_6c6aaf56-2169-46ed-af0b-6961ee642bae.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_6c6aaf56-2169-46ed-af0b-6961ee642bae.jpg"
+        }
+      ],
       "Front": [
+        {
+          "CRC32": "1868951290",
+          "FileName": "r2_9e0398d0-5a0c-447c-8fe8-fb2b7b2921aa.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_9e0398d0-5a0c-447c-8fe8-fb2b7b2921aa.jpg"
+        },
         {
           "CRC32": "436317208",
           "FileName": "489fab3a-cc40-4fc8-9e57-d62a7a5a42ce.jpg",
           "Region": "North America",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/489fab3a-cc40-4fc8-9e57-d62a7a5a42ce.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "1312887793",
+          "FileName": "r2_470427ca-e590-4c30-8e7c-5205eec72184.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_470427ca-e590-4c30-8e7c-5205eec72184.jpg"
         }
       ]
     },
@@ -40,5 +65,6 @@
   "Genres": "Action; Platform",
   "Name": "Skylanders: SuperChargers",
   "Overview": "Kick your adventure into overdrive! The Skylanders SuperChargers Portal Owner’s Pack includes the full video game, works with any Portal of Power from the Skylanders series and includes Instant Spitfire and Instant Hot Streak. Expand your gameplay experience with over 40 Skylanders and vehicles to collect.\n\nSkylands is in peril! Kaos has unleashed his most evil weapon yet - the Doomstation of Ultimate Doomstruction. With all of Skylands on the verge of collapse, a special team called the SuperChargers has been assembled to pilot an unstoppable fleet of incredible vehicles. Now you and the SuperChargers must embark on epic adventures over land, under sea, and through the sky to stop Kaos and save Skylands!",
-  "Publisher": "Activision"
+  "Publisher": "Activision",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Skylanders:_SuperChargers"
 }
