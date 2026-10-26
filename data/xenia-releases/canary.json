@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "291f0c9",
+    "target_commitish": "291f0c9be398a3e0a0e29f378cbd564fa28c55a9",
+    "published_at": "2026-10-26T06:35:12Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/291f0c9",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/291f0c9be398a3e0a0e29f378cbd564fa28c55a9",
+    "changelog": {
+      "title": "291f0c9_canary_experimental",
+      "changes": "- [Kernel] Close handles through guest-defined object types (`291f0c9`)\n- [Kernel/Memory] Query access to committed guest memory ranges (`948f66c`)\n- [GPU] Extended 40MB EDRAM path (`4ae7c9f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/44e17ac...291f0c9"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/291f0c9/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/291f0c9/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "44e17ac",
     "target_commitish": "44e17aca0a88b9dac9441f877ff95f3a000199ab",
     "published_at": "2026-10-25T19:23:51Z",

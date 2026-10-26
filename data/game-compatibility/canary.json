@@ -3682,13 +3682,17 @@
     "issue": 975,
     "id": "54510866",
     "title": "WWE All-Stars",
-    "updated": "2026-05-08T00:41:12Z",
+    "updated": "2026-10-26T13:30:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": []
+      "others": [
+        "tech-engine-unreal",
+        "tech-middleware-havok",
+        "tech-middleware-scaleform"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/975"
   },
@@ -12031,11 +12035,11 @@
     "issue": 435,
     "id": "454109D4",
     "title": "2014 FIFA World Cup Brazil",
-    "updated": "2026-10-06T18:28:02Z",
-    "state": "Gameplay",
+    "updated": "2026-10-26T12:51:24Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-impact",
