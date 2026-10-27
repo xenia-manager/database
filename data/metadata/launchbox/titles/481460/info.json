@@ -1,6 +1,24 @@
 {
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "CRC32": "966638940",
+          "FileName": "r2_9f44ac84-d007-46e7-9ac6-cc54fb9ede22.png",
+          "Region": "World",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_9f44ac84-d007-46e7-9ac6-cc54fb9ede22.png"
+        }
+      ],
+      "Back": [
+        {
+          "CRC32": "1809809128",
+          "FileName": "r2_dfbd606d-0aa1-49bc-9ca3-eb5d3492eaf2.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_dfbd606d-0aa1-49bc-9ca3-eb5d3492eaf2.png"
+        }
+      ],
       "Front": [
         {
           "CRC32": "3710768878",
@@ -9,8 +27,40 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/61160fa3-213a-440d-a2c8-41ea67d1e757.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "1143755777",
+          "FileName": "r2_6aeead10-3264-4fe1-ac46-17dd7146e976.png",
+          "Region": "World",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_6aeead10-3264-4fe1-ac46-17dd7146e976.png"
+        }
       ]
-    }
+    },
+    "Screenshots": [
+      {
+        "CRC32": "693059582",
+        "FileName": "r2_0f7041f3-73a9-4db3-83e0-51edb9bd50f0.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_0f7041f3-73a9-4db3-83e0-51edb9bd50f0.jpg"
+      },
+      {
+        "CRC32": "405573627",
+        "FileName": "r2_2fcff2b9-8fae-4f67-8db2-1d033367d3db.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_2fcff2b9-8fae-4f67-8db2-1d033367d3db.jpg"
+      },
+      {
+        "CRC32": "2526180180",
+        "FileName": "r2_396ff7fa-69f6-40b6-8f21-769cbb4de070.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_396ff7fa-69f6-40b6-8f21-769cbb4de070.jpg"
+      }
+    ]
   },
   "DatabaseID": "481460",
   "Developer": "Andrew Russell",

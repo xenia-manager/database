@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "72c2afa",
+    "target_commitish": "72c2afa3ba2b1b232f89de71577251d6edafb1bd",
+    "published_at": "2026-10-26T23:44:50Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/72c2afa",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/72c2afa3ba2b1b232f89de71577251d6edafb1bd",
+    "changelog": {
+      "title": "72c2afa_canary_experimental",
+      "changes": "- [XCrypt] Free the MD5 context in the MD5 exports (`72c2afa`)\n- [XCrypt] Build XeCryptHmacSha from the HMAC-SHA exports (`67ec7f9`)\n- [XCrypt] Report key sizes and fail invalid reads in XeKeysGetKey (`18131c7`)\n- [XCrypt] Implement XeCryptBnQwBeSigFormat (`251ff46`)\n- [XCrypt] Implement XeCryptBnDwLePkcs1Format and XeCryptBnDwLePkcs1Verify (`fc2aa25`)\n- [XCrypt] Implement XeCryptRotSumSha (`f5ab892`)\n- [XCrypt] Fix bignum division in XeCryptBnQwNeRsaPubCrypt (`fd59b72`)\n- [XCrypt] Replace crypto_utils with the XeCrypt exports (`6e5216e`)\n- [XCrypt] Implement XeCryptHmacMd5 (`b1ad202`)\n- [XCrypt] Implement XeCryptHmacShaVerify (`0f5f851`)\n- [XCrypt] Implement XeCryptDesCbc (`7d4c9df`)\n- [XCrypt] Implement XeCryptSha256 (`feac104`)\n- [XCrypt] Return random bytes from XeCryptRandom (`a42d9da`)\n- [XCrypt] Fix XeCryptDesParity for bytes with bit 0 set (`32ca640`)\n- [XCrypt] Read the SHA-512 state in XeCryptSha512Final (`4e7e1da`)\n- [XCrypt] Truncate long keys in XeCryptHmacSha (`facfad0`)\n- [XCrypt] Pad the whole block in XeCryptHmacShaInit (`9f5eb37`)\n- [XCrypt] Use the key size in XeCryptRc4Key (`90f20c3`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b71ddd7...72c2afa"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/72c2afa/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/72c2afa/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "b71ddd7",
+    "target_commitish": "b71ddd72fae5adbd1182b6ad99b26cda8718a2b8",
+    "published_at": "2026-10-26T22:59:53Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b71ddd7",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b71ddd72fae5adbd1182b6ad99b26cda8718a2b8",
+    "changelog": {
+      "title": "b71ddd7_canary_experimental",
+      "changes": "- [XAM] - Implemented XamGetOnlineCountryFeatures (`b71ddd7`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/291f0c9...b71ddd7"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b71ddd7/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b71ddd7/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "291f0c9",
     "target_commitish": "291f0c9be398a3e0a0e29f378cbd564fa28c55a9",
     "published_at": "2026-10-26T06:35:12Z",
