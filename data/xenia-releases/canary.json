@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "48b318a",
+    "target_commitish": "48b318a2ad7c36f8f3901a94e290ba70ae0ffec5",
+    "published_at": "2026-10-27T18:08:48Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/48b318a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/48b318a2ad7c36f8f3901a94e290ba70ae0ffec5",
+    "changelog": {
+      "title": "48b318a_canary_experimental",
+      "changes": "- [XAM] Fix user flags & stub XamUserIsGuest (`48b318a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1d8489b...48b318a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/48b318a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/48b318a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "1d8489b",
+    "target_commitish": "1d8489b44e08f1e85e69a746f24b0d17a0dd6fe8",
+    "published_at": "2026-10-27T17:38:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1d8489b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1d8489b44e08f1e85e69a746f24b0d17a0dd6fe8",
+    "changelog": {
+      "title": "1d8489b_canary_experimental",
+      "changes": "- [Vulkan] Only write back memexport bytes the draw changed (`1d8489b`)\n- [D3D12] Only write back memexport bytes the draw changed (`0bfc8fa`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/57cddf7...1d8489b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1d8489b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1d8489b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "57cddf7",
+    "target_commitish": "57cddf7d2939b52ed91344718b9afbf4870f4087",
+    "published_at": "2026-10-27T16:20:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/57cddf7",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/57cddf7d2939b52ed91344718b9afbf4870f4087",
+    "changelog": {
+      "title": "57cddf7_canary_experimental",
+      "changes": "- [XCrypt] Leave a partial last block alone in XeCryptAesCbc (`57cddf7`)\n- [XCrypt] Fix the MD5 and AES state layouts and XeKeysGetKey (`4cce0f2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/72c2afa...57cddf7"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/57cddf7/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/57cddf7/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "72c2afa",
     "target_commitish": "72c2afa3ba2b1b232f89de71577251d6edafb1bd",
     "published_at": "2026-10-26T23:44:50Z",
