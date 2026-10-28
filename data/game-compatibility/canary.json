@@ -1833,15 +1833,13 @@
     "issue": 1114,
     "id": "454109C9",
     "title": "Plants vs Zombies Garden Warfare",
-    "updated": "2026-05-13T10:34:15Z",
+    "updated": "2026-10-27T21:46:54Z",
     "state": "Loads",
     "labels": {
       "state": [
         "state-intro"
       ],
-      "others": [
-        "crash-always"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1114"
   },
@@ -17169,11 +17167,11 @@
     "issue": 116,
     "id": "4541094A",
     "title": "Need For Speed The Run",
-    "updated": "2026-08-01T09:53:58Z",
-    "state": "Loads",
+    "updated": "2026-10-27T21:46:22Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
         "xam-live-signin-required",

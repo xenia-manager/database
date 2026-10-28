@@ -1,6 +1,24 @@
 {
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "CRC32": "2878762490",
+          "FileName": "r2_039e4b8d-92c6-4837-9adb-4570ed9419b1.png",
+          "Region": "World",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_039e4b8d-92c6-4837-9adb-4570ed9419b1.png"
+        }
+      ],
+      "Back": [
+        {
+          "CRC32": "1330498792",
+          "FileName": "r2_c6d8fd49-414a-4ef3-9568-391cc1458275.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_c6d8fd49-414a-4ef3-9568-391cc1458275.png"
+        }
+      ],
       "Front": [
         {
           "CRC32": "3206007667",
@@ -8,9 +26,41 @@
           "Region": "North America",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/05d92597-d352-4a30-899e-5dd61d6c83e2.jpg"
+        },
+        {
+          "CRC32": "2411646912",
+          "FileName": "r2_007991bd-42a3-4204-b9ab-fb2290b7d424.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_007991bd-42a3-4204-b9ab-fb2290b7d424.png"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "1204322934",
+          "FileName": "r2_e20ff3a0-c99c-4750-b7d9-2c1bb4593d18.png",
+          "Region": "World",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_e20ff3a0-c99c-4750-b7d9-2c1bb4593d18.png"
         }
       ]
-    }
+    },
+    "Screenshots": [
+      {
+        "CRC32": "2220585998",
+        "FileName": "r2_2d4c5bc8-cf6d-4eec-b19b-36dccd57fc3e.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_2d4c5bc8-cf6d-4eec-b19b-36dccd57fc3e.jpg"
+      },
+      {
+        "CRC32": "1465582904",
+        "FileName": "r2_42950969-cd14-45ad-a879-645762d9ca96.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_42950969-cd14-45ad-a879-645762d9ca96.jpg"
+      }
+    ]
   },
   "DatabaseID": "481300",
   "Developer": "Good Science Studio",

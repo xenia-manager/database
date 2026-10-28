@@ -1,6 +1,24 @@
 {
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "CRC32": "1603812718",
+          "FileName": "r2_2d7195f2-0f9c-460e-aae8-dfeeaccc9deb.png",
+          "Region": "World",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_2d7195f2-0f9c-460e-aae8-dfeeaccc9deb.png"
+        }
+      ],
+      "Back": [
+        {
+          "CRC32": "1977237815",
+          "FileName": "r2_e93e792a-feb9-4449-b5aa-bcc159a64990.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_e93e792a-feb9-4449-b5aa-bcc159a64990.png"
+        }
+      ],
       "Front": [
         {
           "CRC32": "286091364",
@@ -9,8 +27,40 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/ecdd7e5b-f3d2-4812-8d8a-f25d877bf65e.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "438652963",
+          "FileName": "r2_5b561c10-ab0b-44eb-b6fe-f3af750ffe07.png",
+          "Region": "World",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_5b561c10-ab0b-44eb-b6fe-f3af750ffe07.png"
+        }
       ]
-    }
+    },
+    "Screenshots": [
+      {
+        "CRC32": "4142192826",
+        "FileName": "r2_35e45053-7df4-412e-94e2-ae4a712dcb84.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_35e45053-7df4-412e-94e2-ae4a712dcb84.jpg"
+      },
+      {
+        "CRC32": "836273442",
+        "FileName": "r2_7e8b144b-db7e-43ad-a31e-b19ef7743ff1.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_7e8b144b-db7e-43ad-a31e-b19ef7743ff1.jpg"
+      },
+      {
+        "CRC32": "1372163551",
+        "FileName": "r2_8c2b15c8-84f3-4563-af79-83277749482f.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_8c2b15c8-84f3-4563-af79-83277749482f.jpg"
+      }
+    ]
   },
   "DatabaseID": "477549",
   "Developer": "Awesome Games Studio",

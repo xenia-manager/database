@@ -1,6 +1,24 @@
 {
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "CRC32": "1746485428",
+          "FileName": "r2_0a9d359c-3a47-40b1-9108-01f9c5948a18.png",
+          "Region": "World",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_0a9d359c-3a47-40b1-9108-01f9c5948a18.png"
+        }
+      ],
+      "Back": [
+        {
+          "CRC32": "2011029306",
+          "FileName": "r2_230e7880-d020-46df-be1b-f2e35c595bb8.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_230e7880-d020-46df-be1b-f2e35c595bb8.png"
+        }
+      ],
       "Front": [
         {
           "CRC32": "2413849560",
@@ -10,8 +28,39 @@
           "URL": "http://images.launchbox-app.com/7a4ef9b9-6e1c-4937-ab83-81cec08b7a6a.jpg"
         }
       ]
-    }
+    },
+    "Screenshots": [
+      {
+        "CRC32": "1343277737",
+        "FileName": "r2_000c53c3-e3f0-4ee3-9b7c-91d5c842934c.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_000c53c3-e3f0-4ee3-9b7c-91d5c842934c.jpg"
+      },
+      {
+        "CRC32": "1190632337",
+        "FileName": "r2_5ec7c01a-a883-4a31-8b4f-c2b0c8f819b1.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_5ec7c01a-a883-4a31-8b4f-c2b0c8f819b1.jpg"
+      },
+      {
+        "CRC32": "2464123346",
+        "FileName": "r2_8cd1bcd7-4ea7-417f-8d6d-b52d773a0f14.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_8cd1bcd7-4ea7-417f-8d6d-b52d773a0f14.jpg"
+      },
+      {
+        "CRC32": "1540260148",
+        "FileName": "r2_b6b5ebac-1335-4563-99f2-1116c5d1dd67.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_b6b5ebac-1335-4563-99f2-1116c5d1dd67.jpg"
+      }
+    ]
   },
+  "CommunityRating": "0.5",
   "DatabaseID": "477564",
   "Developer": "Awesome Games Studio",
   "Genres": "Action",

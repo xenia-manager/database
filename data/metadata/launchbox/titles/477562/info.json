@@ -1,6 +1,24 @@
 {
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "CRC32": "1275656666",
+          "FileName": "r2_0ca2236e-1726-4401-9290-b25b0c3c29ee.png",
+          "Region": "World",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_0ca2236e-1726-4401-9290-b25b0c3c29ee.png"
+        }
+      ],
+      "Back": [
+        {
+          "CRC32": "2776863149",
+          "FileName": "r2_6f4b06b6-2565-43f4-b683-c1b9e88b98a8.png",
+          "Region": "World",
+          "Type": "Fanart - Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_6f4b06b6-2565-43f4-b683-c1b9e88b98a8.png"
+        }
+      ],
       "Front": [
         {
           "CRC32": "2557113524",
@@ -9,8 +27,33 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/1294cbe4-d7eb-4c9d-99c4-1b0dcdd2c9e5.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "1358617172",
+          "FileName": "r2_40fad7d3-ab2e-4cd4-8933-de3117f33960.png",
+          "Region": "World",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_40fad7d3-ab2e-4cd4-8933-de3117f33960.png"
+        }
       ]
-    }
+    },
+    "Screenshots": [
+      {
+        "CRC32": "1443162386",
+        "FileName": "r2_ca08ce72-3230-432d-9e18-06080081c0f2.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_ca08ce72-3230-432d-9e18-06080081c0f2.jpg"
+      },
+      {
+        "CRC32": "2529993968",
+        "FileName": "r2_e0f0ee37-e78d-4f45-84ee-d11155ff5dd4.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_e0f0ee37-e78d-4f45-84ee-d11155ff5dd4.jpg"
+      }
+    ]
   },
   "DatabaseID": "477562",
   "Developer": "Awesome Games Studio",
