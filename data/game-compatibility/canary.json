@@ -41,7 +41,7 @@
       ],
       "others": [
         "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1249"
@@ -317,7 +317,7 @@
         "state-playable"
       ],
       "others": [
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1230"
@@ -1473,7 +1473,7 @@
     "issue": 1140,
     "id": "545408A7",
     "title": "Grand Theft Auto V",
-    "updated": "2026-10-16T08:12:29Z",
+    "updated": "2026-10-29T16:37:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1483,7 +1483,6 @@
         "tech-engine-rage",
         "gpu-readback",
         "requires_hdd_install",
-        "gpu-occlusion-query",
         "gpu-viz-query",
         "crash-random"
       ]
@@ -1510,7 +1509,7 @@
     "issue": 1137,
     "id": "584111E8",
     "title": "State of Decay",
-    "updated": "2026-09-13T10:18:25Z",
+    "updated": "2026-10-29T17:04:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1519,7 +1518,6 @@
       "others": [
         "tech-engine-cry",
         "gpu-readback",
-        "gpu-occlusion-query",
         "gpu-occlusion-querybatch"
       ]
     },
@@ -1545,7 +1543,7 @@
     "issue": 1135,
     "id": "465307E4",
     "title": "Dark Souls II",
-    "updated": "2026-09-13T13:51:58Z",
+    "updated": "2026-10-29T17:03:46Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -1554,7 +1552,6 @@
       "others": [
         "gpu-readback",
         "vsync-off-speedup",
-        "gpu-occlusion-query",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -1564,7 +1561,7 @@
     "issue": 1134,
     "id": "5553083C",
     "title": "James Cameron\u2019s Avatar: The Game",
-    "updated": "2026-06-17T00:18:41Z",
+    "updated": "2026-10-29T17:16:23Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -1573,8 +1570,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "apu-silent",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1134"
@@ -1877,15 +1873,14 @@
     "issue": 1112,
     "id": "425307D1",
     "title": "Elder Scrolls IV: Oblivion",
-    "updated": "2026-06-05T11:36:43Z",
+    "updated": "2026-10-29T17:17:23Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1112"
@@ -2204,7 +2199,7 @@
       ],
       "others": [
         "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1087"
@@ -2799,7 +2794,7 @@
     "issue": 1046,
     "id": "494707EE",
     "title": "The Chronicles Of Riddick Assault On Dark Athena",
-    "updated": "2026-10-19T18:29:31Z",
+    "updated": "2026-10-29T16:35:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -2807,8 +2802,7 @@
       ],
       "others": [
         "requires_force_depth_clamp",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1046"
@@ -3229,15 +3223,13 @@
     "issue": 1011,
     "id": "534507DD",
     "title": "The Club",
-    "updated": "2026-07-09T01:34:47Z",
+    "updated": "2026-10-29T17:13:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-occlusion-query"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1011"
   },
@@ -3612,7 +3604,7 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-09-17T04:33:35Z",
+    "updated": "2026-10-29T17:03:20Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -3622,7 +3614,6 @@
         "tech-engine-blam",
         "gpu-readback",
         "vsync-off-speedup",
-        "gpu-occlusion-query",
         "gpu-viz-query",
         "gpu-async-compile-issues"
       ]
@@ -3831,7 +3822,7 @@
       ],
       "others": [
         "gpu-readback",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/966"
@@ -3848,7 +3839,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/965"
@@ -3883,7 +3874,7 @@
         "state-gameplay"
       ],
       "others": [
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/963"
@@ -3899,7 +3890,7 @@
         "state-playable"
       ],
       "others": [
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/962"
@@ -3973,7 +3964,7 @@
     "issue": 957,
     "id": "4B4E0820",
     "title": "Def Jam: Rapstar",
-    "updated": "2026-09-25T23:30:58Z",
+    "updated": "2026-10-29T16:56:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3982,8 +3973,7 @@
       "others": [
         "requires_force_depth_clamp",
         "gpu-readback",
-        "tech-microphone-required",
-        "gpu-occlusion-query"
+        "tech-microphone-required"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/957"
@@ -4324,7 +4314,7 @@
       "others": [
         "tech-engine-evolution",
         "tech-physics-physx",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/935"
@@ -4691,7 +4681,7 @@
     "issue": 910,
     "id": "45410830",
     "title": "Left 4 Dead",
-    "updated": "2026-06-02T19:25:06Z",
+    "updated": "2026-10-29T17:18:27Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -4699,8 +4689,7 @@
       ],
       "others": [
         "tech-engine-source",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/910"
@@ -4717,7 +4706,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/909"
@@ -5329,7 +5318,7 @@
     "issue": 871,
     "id": "58410955",
     "title": "Banjo-Tooie",
-    "updated": "2026-09-20T23:09:57Z",
+    "updated": "2026-10-29T17:01:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5337,8 +5326,7 @@
       ],
       "others": [
         "vsync-off-speedup",
-        "supports-1080p",
-        "gpu-occlusion-query"
+        "supports-1080p"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/871"
@@ -5557,7 +5545,7 @@
     "issue": 855,
     "id": "53450841",
     "title": "Vanquish",
-    "updated": "2026-06-01T14:00:46Z",
+    "updated": "2026-10-29T17:18:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5567,8 +5555,7 @@
         "tech-middleware-criware",
         "tech-middleware-havok",
         "gpu-readback",
-        "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/855"
@@ -6226,7 +6213,7 @@
     "issue": 813,
     "id": "58410AFA",
     "title": "Beyond Good & Evil HD",
-    "updated": "2026-06-07T19:19:18Z",
+    "updated": "2026-10-29T17:17:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6236,8 +6223,7 @@
         "marketplace-delisted",
         "tech-engine-jade",
         "gpu-readback",
-        "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/813"
@@ -6262,7 +6248,7 @@
     "issue": 811,
     "id": "53450845",
     "title": "Thor: God of Thunder",
-    "updated": "2026-10-07T14:04:51Z",
+    "updated": "2026-10-29T16:44:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6274,7 +6260,6 @@
         "tech-middleware-scaleform",
         "tech-middleware-beast",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
         "supports-3d"
       ]
     },
@@ -6284,7 +6269,7 @@
     "issue": 810,
     "id": "5841147C",
     "title": "Life is Strange",
-    "updated": "2026-10-06T16:25:37Z",
+    "updated": "2026-10-29T16:49:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6292,8 +6277,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/810"
@@ -6496,7 +6480,7 @@
     "issue": 797,
     "id": "5841141A",
     "title": "Contrast",
-    "updated": "2026-07-27T18:26:27Z",
+    "updated": "2026-10-29T17:41:37Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6504,9 +6488,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "marketplace-unlisted",
         "marketplace-delisted",
-        "gpu-occlusion-query",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -6602,7 +6584,7 @@
     "issue": 790,
     "id": "584113C2",
     "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
-    "updated": "2025-08-04T20:22:31Z",
+    "updated": "2026-10-29T17:22:28Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6611,8 +6593,7 @@
       "others": [
         "cpu-timing",
         "tech-engine-unreal",
-        "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/790"
@@ -6621,15 +6602,13 @@
     "issue": 789,
     "id": "545107DE",
     "title": "MX vs. ATV: Untamed",
-    "updated": "2026-07-08T14:40:33Z",
+    "updated": "2026-10-29T17:13:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-occlusion-query"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/789"
   },
@@ -6637,7 +6616,7 @@
     "issue": 788,
     "id": "58410B42",
     "title": "Battle: Los Angeles",
-    "updated": "2026-06-08T07:52:39Z",
+    "updated": "2026-10-29T17:16:49Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6648,7 +6627,6 @@
         "gpu-readback",
         "backwards-compatibility-unsupported",
         "requires_protect_zero_false",
-        "gpu-occlusion-query",
         "gpu-viz-query"
       ]
     },
@@ -6658,7 +6636,7 @@
     "issue": 787,
     "id": "555308CF",
     "title": "Far Cry 3: Blood Dragon (Disc)",
-    "updated": "2025-08-04T20:21:20Z",
+    "updated": "2026-10-29T17:23:08Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6668,8 +6646,7 @@
         "gpu-drawing-corrupt",
         "tech-engine-dunia",
         "gpu-readback",
-        "kernel-xex-switching",
-        "gpu-occlusion-query"
+        "kernel-xex-switching"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/787"
@@ -6678,7 +6655,7 @@
     "issue": 786,
     "id": "584113BF",
     "title": "Far Cry 3: Blood Dragon (XBLA)",
-    "updated": "2025-08-04T20:20:58Z",
+    "updated": "2026-10-29T17:23:11Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6687,8 +6664,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "tech-engine-dunia",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/786"
@@ -6697,7 +6673,7 @@
     "issue": 785,
     "id": "5553088C",
     "title": "Far Cry 3",
-    "updated": "2026-09-30T00:47:32Z",
+    "updated": "2026-10-29T16:53:15Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -6708,8 +6684,7 @@
         "apu-silent",
         "regression",
         "tech-engine-dunia",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/785"
@@ -6750,7 +6725,7 @@
     "issue": 781,
     "id": "425607E5",
     "title": "Toy Story 3",
-    "updated": "2026-10-06T22:56:07Z",
+    "updated": "2026-10-29T16:47:32Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -6758,7 +6733,6 @@
       ],
       "others": [
         "gpu-readback",
-        "gpu-occlusion-query",
         "gpu-ext-query"
       ]
     },
@@ -6965,15 +6939,14 @@
     "issue": 765,
     "id": "434D0839",
     "title": "Bodycount",
-    "updated": "2026-10-07T00:10:03Z",
+    "updated": "2026-10-29T16:46:51Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-ego",
-        "gpu-occlusion-query"
+        "tech-engine-ego"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/765"
@@ -7027,7 +7000,7 @@
         "tech-middleware-wwise",
         "gpu-readback",
         "tech-middleware-scaleform",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "gpu-async-compile-issues"
       ]
     },
@@ -7048,7 +7021,7 @@
         "tech-middleware-wwise",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "supports-3d",
         "gpu-async-compile-issues"
       ]
@@ -7059,15 +7032,13 @@
     "issue": 760,
     "id": "4541099D",
     "title": "Dead Space 3",
-    "updated": "2026-09-27T23:09:12Z",
+    "updated": "2026-10-29T16:54:44Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-occlusion-query"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/760"
   },
@@ -7089,15 +7060,14 @@
     "issue": 758,
     "id": "53510811",
     "title": "Sleeping Dogs",
-    "updated": "2026-08-26T05:48:04Z",
+    "updated": "2026-10-29T17:07:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/758"
@@ -7405,14 +7375,14 @@
     "issue": 738,
     "id": "5841096A",
     "title": "Hydro Thunder Hurricane",
-    "updated": "2026-09-19T11:03:07Z",
+    "updated": "2026-10-29T17:02:12Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/738"
@@ -7443,7 +7413,7 @@
       ],
       "others": [
         "cpu-jit-problems",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/736"
@@ -8542,15 +8512,13 @@
     "issue": 659,
     "id": "43430830",
     "title": "Lost Planet 3",
-    "updated": "2026-06-01T13:18:15Z",
+    "updated": "2026-10-29T17:19:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-occlusion-query"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/659"
   },
@@ -8609,7 +8577,7 @@
         "state-gameplay"
       ],
       "others": [
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/655"
@@ -8756,7 +8724,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "gpu-readback",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -8868,15 +8836,14 @@
     "issue": 638,
     "id": "4343081D",
     "title": "Resident Evil: ORC (Operation Raccoon City)",
-    "updated": "2026-09-21T16:18:30Z",
+    "updated": "2026-10-29T16:59:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/638"
@@ -9044,7 +9011,7 @@
         "state-playable"
       ],
       "others": [
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/626"
@@ -9210,7 +9177,7 @@
     "issue": 615,
     "id": "425607DF",
     "title": "Disney High School Musical 3 - Senior Year Dance!",
-    "updated": "2025-06-21T00:20:03Z",
+    "updated": "2026-10-29T17:23:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9218,8 +9185,7 @@
       ],
       "others": [
         "gpu-slow",
-        "cpu-timing",
-        "gpu-occlusion-query"
+        "cpu-timing"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/615"
@@ -9426,7 +9392,7 @@
     "issue": 602,
     "id": "5454088D",
     "title": "The Darkness II",
-    "updated": "2026-09-21T18:45:20Z",
+    "updated": "2026-10-29T16:58:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9434,8 +9400,7 @@
       ],
       "others": [
         "tech-engine-evolution",
-        "tech-physics-physx",
-        "gpu-occlusion-query"
+        "tech-physics-physx"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/602"
@@ -9479,7 +9444,7 @@
     "issue": 598,
     "id": "55530801",
     "title": "Beowulf",
-    "updated": "2026-09-12T07:38:42Z",
+    "updated": "2026-10-29T17:05:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9487,8 +9452,7 @@
       ],
       "others": [
         "apu-silent",
-        "regression",
-        "gpu-occlusion-query"
+        "regression"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/598"
@@ -9599,7 +9563,7 @@
     "issue": 587,
     "id": "4156081F",
     "title": "James Bond 007 Blood Stone",
-    "updated": "2026-07-06T21:36:54Z",
+    "updated": "2026-10-29T17:14:23Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -9608,8 +9572,7 @@
       "others": [
         "tech-engine-bespoke",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/587"
@@ -9626,7 +9589,7 @@
       ],
       "others": [
         "tech-engine-renderware",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/586"
@@ -9709,7 +9672,7 @@
         "tech-physics-physx",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -9730,7 +9693,7 @@
         "tech-physics-physx",
         "backwards-compatibility-unsupported",
         "gpu-invalid-fetch-constants",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/579"
@@ -9739,7 +9702,7 @@
     "issue": 578,
     "id": "425307E3",
     "title": "Dishonored",
-    "updated": "2026-09-21T10:52:17Z",
+    "updated": "2026-10-29T16:59:49Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -9750,9 +9713,7 @@
         "tech-physics-physx",
         "tech-middleware-wwise",
         "tech-middleware-scaleform",
-        "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
-        "gpu-occlusion-querybatch"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/578"
@@ -9796,7 +9757,7 @@
     "issue": 574,
     "id": "4C4107F2",
     "title": "Star Wars: The Force Unleashed II",
-    "updated": "2026-09-08T18:53:10Z",
+    "updated": "2026-10-29T17:06:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9809,7 +9770,6 @@
         "gpu-readback",
         "vsync-off-speedup",
         "requires_scribble_heap",
-        "gpu-occlusion-query",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -9819,7 +9779,7 @@
     "issue": 573,
     "id": "454108B4",
     "title": "Need for Speed Shift",
-    "updated": "2026-08-01T11:46:34Z",
+    "updated": "2026-10-29T17:10:35Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -9828,7 +9788,6 @@
       "others": [
         "gpu-readback",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
         "tech-engine-madness"
       ]
     },
@@ -9960,7 +9919,7 @@
     "issue": 565,
     "id": "545407DD",
     "title": "The Bureau: XCOM Declassified",
-    "updated": "2026-09-30T19:33:43Z",
+    "updated": "2026-10-29T16:52:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -9970,8 +9929,7 @@
         "tech-engine-unreal",
         "tech-middleware-wwise",
         "gpu-readback",
-        "tech-middleware-scaleform",
-        "gpu-occlusion-query"
+        "tech-middleware-scaleform"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/565"
@@ -10164,7 +10122,7 @@
     "issue": 552,
     "id": "4D5309B1",
     "title": "Halo: Combat Evolved Anniversary",
-    "updated": "2026-09-21T10:55:24Z",
+    "updated": "2026-10-29T16:59:32Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -10175,9 +10133,7 @@
         "tech-kinect-optional",
         "tech-engine-saber3d",
         "kernel-KeSetCurrentStackPointers",
-        "gpu-occlusion-query",
-        "gpu-viz-query",
-        "gpu-occlusion-querybatch"
+        "gpu-viz-query"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/552"
@@ -10302,7 +10258,7 @@
     "issue": 544,
     "id": "454108D8",
     "title": "Army of Two: The 40th Day",
-    "updated": "2026-06-19T20:57:32Z",
+    "updated": "2026-10-29T17:15:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10310,8 +10266,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "marketplace-nodownload",
-        "gpu-occlusion-query"
+        "marketplace-nodownload"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/544"
@@ -10404,7 +10359,7 @@
     "issue": 538,
     "id": "4D530805",
     "title": "Alan Wake",
-    "updated": "2026-10-15T15:10:42Z",
+    "updated": "2026-10-29T16:38:55Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -10413,8 +10368,7 @@
       "others": [
         "tech-engine-maxfx",
         "gpu-readback",
-        "tech-middleware-umbra",
-        "gpu-occlusion-query"
+        "tech-middleware-umbra"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/538"
@@ -10569,7 +10523,7 @@
     "issue": 528,
     "id": "454108EF",
     "title": "Bulletstorm",
-    "updated": "2026-10-22T17:21:58Z",
+    "updated": "2026-10-29T16:34:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -10577,8 +10531,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/528"
@@ -10756,7 +10709,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/517"
@@ -11067,7 +11020,7 @@
         "tech-middleware-scaleform",
         "gpu-invalid-fetch-constants",
         "tech-middleware-umbra",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -11099,7 +11052,7 @@
       ],
       "others": [
         "tech-engine-anvil",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/496"
@@ -11316,15 +11269,14 @@
     "issue": 480,
     "id": "54540843",
     "title": "Spec Ops: The Line",
-    "updated": "2026-10-22T17:26:03Z",
+    "updated": "2026-10-29T16:34:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-unreal",
-        "gpu-occlusion-query"
+        "tech-engine-unreal"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/480"
@@ -11801,15 +11753,14 @@
     "issue": 449,
     "id": "565507DA",
     "title": "TimeShift",
-    "updated": "2026-08-26T18:14:29Z",
+    "updated": "2026-10-29T17:06:53Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-saber3d",
-        "gpu-occlusion-query"
+        "tech-engine-saber3d"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/449"
@@ -12131,7 +12082,7 @@
     "issue": 430,
     "id": "5841124B",
     "title": "The Expendables 2 Videogame",
-    "updated": "2026-04-03T19:36:49Z",
+    "updated": "2026-10-29T17:22:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12141,8 +12092,7 @@
         "gpu-drawing-corrupt",
         "tech-physics-bullet",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/430"
@@ -12216,15 +12166,14 @@
     "issue": 425,
     "id": "45410923",
     "title": "Syndicate",
-    "updated": "2026-10-01T18:20:36Z",
+    "updated": "2026-10-29T16:51:00Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/425"
@@ -12252,7 +12201,7 @@
     "issue": 423,
     "id": "4541088F",
     "title": "The Saboteur",
-    "updated": "2026-09-24T13:56:08Z",
+    "updated": "2026-10-29T16:58:09Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12263,8 +12212,7 @@
         "tech-middleware-havok",
         "tech-middleware-wwise",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/423"
@@ -12465,7 +12413,7 @@
       ],
       "others": [
         "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/410"
@@ -12474,15 +12422,14 @@
     "issue": 409,
     "id": "4D53084D",
     "title": "Forza Motorsport 3",
-    "updated": "2026-10-11T23:32:11Z",
+    "updated": "2026-10-29T16:41:14Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/409"
@@ -12491,15 +12438,14 @@
     "issue": 408,
     "id": "4D5307EA",
     "title": "Forza Motorsport 2",
-    "updated": "2026-05-28T19:37:20Z",
+    "updated": "2026-10-29T17:20:03Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "kernel-KeSetCurrentStackPointers",
-        "gpu-occlusion-query"
+        "kernel-KeSetCurrentStackPointers"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/408"
@@ -12524,7 +12470,7 @@
     "issue": 406,
     "id": "555307DC",
     "title": "Far Cry: Instincts Predator",
-    "updated": "2026-09-06T23:36:05Z",
+    "updated": "2026-10-29T17:06:46Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12533,7 +12479,6 @@
       "others": [
         "tech-engine-cry",
         "gpu-readback",
-        "gpu-occlusion-query",
         "gpu-viz-query"
       ]
     },
@@ -12602,7 +12547,7 @@
     "issue": 402,
     "id": "4156089C",
     "title": "Transformers: Fall of Cybertron",
-    "updated": "2026-05-18T21:57:25Z",
+    "updated": "2026-10-29T17:20:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12614,7 +12559,6 @@
         "tech-middleware-demonware",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
         "crash-random"
       ]
     },
@@ -12710,7 +12654,7 @@
     "issue": 396,
     "id": "58410B8D",
     "title": "Deadlight",
-    "updated": "2026-04-12T09:04:41Z",
+    "updated": "2026-10-29T17:21:35Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12720,8 +12664,7 @@
         "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-middleware-scaleform",
-        "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/396"
@@ -12779,7 +12722,7 @@
         "tech-engine-4a",
         "tech-physics-physx",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/393"
@@ -13191,7 +13134,7 @@
     "issue": 368,
     "id": "454107F6",
     "title": "Medal of Honor: Airborne",
-    "updated": "2026-10-29T14:57:20Z",
+    "updated": "2026-10-29T14:58:06Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13218,7 +13161,7 @@
         "gpu-drawing-corrupt",
         "tech-engine-unreal",
         "tech-engine-frostbite",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -13444,7 +13387,7 @@
     "issue": 353,
     "id": "58411233",
     "title": "Alan Wake's American Nightmare",
-    "updated": "2026-10-06T16:25:17Z",
+    "updated": "2026-10-29T16:49:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13454,8 +13397,7 @@
         "tech-middleware-havok",
         "tech-engine-maxfx",
         "gpu-readback",
-        "tech-middleware-umbra",
-        "gpu-occlusion-query"
+        "tech-middleware-umbra"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/353"
@@ -13608,7 +13550,7 @@
     "issue": 343,
     "id": "58411293",
     "title": "Narco Terror",
-    "updated": "2026-10-05T21:31:31Z",
+    "updated": "2026-10-29T16:50:47Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13618,8 +13560,7 @@
         "gpu-drawing-corrupt",
         "tech-physics-bullet",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/343"
@@ -14272,7 +14213,7 @@
         "tech-engine-unreal",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "gpu-async-compile-issues"
       ]
     },
@@ -14368,7 +14309,7 @@
         "gpu-readback",
         "backwards-compatibility-unsupported",
         "requires_hdd_install",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/299"
@@ -14377,7 +14318,7 @@
     "issue": 298,
     "id": "555308B7",
     "title": "Watch Dogs",
-    "updated": "2026-09-29T07:27:13Z",
+    "updated": "2026-10-29T16:54:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14388,8 +14329,7 @@
         "tech-middleware-havok",
         "kernel-xex-switching",
         "backwards-compatibility-unsupported",
-        "requires_hdd_install",
-        "gpu-occlusion-query"
+        "requires_hdd_install"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/298"
@@ -14939,7 +14879,7 @@
     "issue": 265,
     "id": "454108CE",
     "title": "Mass Effect 2",
-    "updated": "2026-10-06T21:20:03Z",
+    "updated": "2026-10-29T16:47:48Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -14951,7 +14891,7 @@
         "tech-engine-unreal",
         "kernel-xex-switching",
         "tech-middleware-umbra",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -15286,7 +15226,7 @@
     "issue": 246,
     "id": "5454085D",
     "title": "Bioshock Infinite",
-    "updated": "2026-09-21T10:28:00Z",
+    "updated": "2026-10-29T17:00:09Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15294,8 +15234,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "tech-middleware-wwise",
-        "gpu-occlusion-query"
+        "tech-middleware-wwise"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/246"
@@ -15370,7 +15309,7 @@
       "others": [
         "tech-middleware-havok",
         "requires_protect_zero_false",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/242"
@@ -15431,7 +15370,7 @@
     "issue": 235,
     "id": "4541080F",
     "title": "The Orange Box",
-    "updated": "2026-07-18T00:45:57Z",
+    "updated": "2026-10-29T17:13:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15443,8 +15382,7 @@
         "tech-engine-source",
         "cpu-unimplemented-instruction",
         "tech-middleware-havok",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/235"
@@ -15480,7 +15418,7 @@
         "tech-physics-physx",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/233"
@@ -15736,7 +15674,7 @@
     "issue": 216,
     "id": "4D530919",
     "title": "Halo 4",
-    "updated": "2026-10-12T03:26:53Z",
+    "updated": "2026-10-29T16:40:46Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15746,8 +15684,7 @@
         "tech-engine-blam",
         "gpu-readback",
         "kernel-KeSetCurrentStackPointers",
-        "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/216"
@@ -15756,7 +15693,7 @@
     "issue": 215,
     "id": "4D530877",
     "title": "Halo 3: ODST",
-    "updated": "2026-10-15T18:27:39Z",
+    "updated": "2026-10-29T16:37:56Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15766,8 +15703,7 @@
         "tech-engine-blam",
         "gpu-readback",
         "kernel-KeSetCurrentStackPointers",
-        "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/215"
@@ -15776,7 +15712,7 @@
     "issue": 214,
     "id": "4D5307E6",
     "title": "Halo 3",
-    "updated": "2026-10-20T16:22:50Z",
+    "updated": "2026-10-29T16:34:29Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15788,7 +15724,6 @@
         "kernel-KeSetCurrentStackPointers",
         "vsync-off-speedup",
         "splitscreen-working",
-        "gpu-occlusion-query",
         "gpu-viz-query"
       ]
     },
@@ -15815,7 +15750,7 @@
     "issue": 212,
     "id": "5841125A",
     "title": "Counter-Strike: GO",
-    "updated": "2026-10-09T00:03:46Z",
+    "updated": "2026-10-29T16:43:46Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15824,8 +15759,7 @@
       "others": [
         "tech-engine-source",
         "tech-middleware-havok",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/212"
@@ -15845,7 +15779,7 @@
         "marketplace-nodownload",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "supports-3d"
       ]
     },
@@ -16045,7 +15979,7 @@
         "tech-middleware-havok",
         "gpu-readback",
         "tech-middleware-scaleform",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -16232,7 +16166,7 @@
     "issue": 179,
     "id": "454108D4",
     "title": "Left 4 Dead 2",
-    "updated": "2026-07-31T20:25:50Z",
+    "updated": "2026-10-29T17:10:42Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16242,8 +16176,7 @@
         "tech-engine-source",
         "cpu-unimplemented-instruction",
         "tech-middleware-havok",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/179"
@@ -16474,7 +16407,7 @@
     "issue": 163,
     "id": "425307EC",
     "title": "RAGE",
-    "updated": "2026-10-18T09:58:33Z",
+    "updated": "2026-10-29T16:35:51Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16484,8 +16417,7 @@
         "tech-engine-idtech",
         "gpu-readback",
         "vsync-off-speedup",
-        "gpu-occlusion-query",
-        "gpu-occlusion-querybatch"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/163"
@@ -16494,7 +16426,7 @@
     "issue": 162,
     "id": "4E4D083E",
     "title": "Ridge Racer Unbounded",
-    "updated": "2026-10-09T15:41:56Z",
+    "updated": "2026-10-29T16:42:36Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16503,8 +16435,7 @@
       "others": [
         "tech-middleware-wwise",
         "tech-middleware-scaleform",
-        "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/162"
@@ -16527,7 +16458,7 @@
         "tech-middleware-wwise",
         "gpu-readback",
         "requires_protect_zero_false",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -16643,7 +16574,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/154"
@@ -16688,15 +16619,13 @@
     "issue": 151,
     "id": "545407E6",
     "title": "Mafia II",
-    "updated": "2026-09-24T17:00:54Z",
+    "updated": "2026-10-29T16:57:13Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": [
-        "gpu-occlusion-query"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/151"
   },
@@ -16789,7 +16718,7 @@
     "issue": 145,
     "id": "545407F8",
     "title": "Midnight Club: Los Angeles",
-    "updated": "2026-10-17T11:24:37Z",
+    "updated": "2026-10-29T16:37:32Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16801,8 +16730,7 @@
         "regression",
         "tech-engine-rage",
         "gpu-readback",
-        "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/145"
@@ -16828,7 +16756,7 @@
     "issue": 142,
     "id": "58410960",
     "title": "Portal: Still Alive",
-    "updated": "2026-06-02T19:57:42Z",
+    "updated": "2026-10-29T17:18:06Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16837,8 +16765,7 @@
       "others": [
         "tech-engine-source",
         "tech-middleware-havok",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/142"
@@ -16847,7 +16774,7 @@
     "issue": 141,
     "id": "45410912",
     "title": "Portal 2",
-    "updated": "2026-09-18T14:09:05Z",
+    "updated": "2026-10-29T17:02:37Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16857,8 +16784,7 @@
         "gpu-drawing-corrupt",
         "tech-engine-source",
         "tech-middleware-havok",
-        "gpu-readback",
-        "gpu-occlusion-query"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/141"
@@ -17005,7 +16931,7 @@
     "issue": 129,
     "id": "5454082B",
     "title": "Red Dead Redemption",
-    "updated": "2026-08-05T02:02:41Z",
+    "updated": "2026-10-29T17:09:35Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17014,7 +16940,6 @@
       "others": [
         "tech-engine-rage",
         "tech-middleware-euphoria",
-        "gpu-occlusion-query",
         "gpu-viz-query"
       ]
     },
@@ -17024,7 +16949,7 @@
     "issue": 128,
     "id": "4E4D07D1",
     "title": "Ace Combat 6",
-    "updated": "2026-10-09T16:37:56Z",
+    "updated": "2026-10-29T16:42:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17033,8 +16958,7 @@
       "others": [
         "apu-garbage",
         "marketplace-nodownload",
-        "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/128"
@@ -17052,7 +16976,7 @@
       "others": [
         "gpu-readback",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/127"
@@ -17213,7 +17137,7 @@
     "issue": 112,
     "id": "4D5308D6",
     "title": "Fable III",
-    "updated": "2026-08-24T22:54:40Z",
+    "updated": "2026-10-29T17:07:57Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17222,7 +17146,6 @@
       "others": [
         "gpu-drawing-missing",
         "tech-middleware-havok",
-        "gpu-occlusion-query",
         "crash-random",
         "requires_render_target_rov_fsi"
       ]
@@ -17285,7 +17208,7 @@
     "issue": 107,
     "id": "454107EF",
     "title": "FIFA 07",
-    "updated": "2026-05-08T13:52:23Z",
+    "updated": "2026-10-29T17:20:54Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17294,7 +17217,6 @@
       "others": [
         "cpu-timing",
         "backwards-compatibility-unsupported",
-        "gpu-occlusion-query",
         "crash-random"
       ]
     },
@@ -17369,7 +17291,7 @@
         "tech-kinect-optional",
         "tech-middleware-havok",
         "gpu-readback",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/103"
@@ -17378,7 +17300,7 @@
     "issue": 102,
     "id": "4D5307DC",
     "title": "Crackdown",
-    "updated": "2026-09-27T18:59:51Z",
+    "updated": "2026-10-29T16:55:42Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17391,7 +17313,6 @@
         "gpu-readback",
         "vsync-off-speedup",
         "tech-uses-xmp",
-        "gpu-occlusion-query",
         "no-disc-install"
       ]
     },
@@ -17420,7 +17341,7 @@
     "issue": 98,
     "id": "41560855",
     "title": "Call of Duty: Black Ops",
-    "updated": "2026-10-08T13:49:56Z",
+    "updated": "2026-10-29T16:44:19Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17428,7 +17349,6 @@
       ],
       "others": [
         "tech-engine-iw",
-        "gpu-occlusion-query",
         "supports-3d"
       ]
     },
@@ -17603,7 +17523,7 @@
       ],
       "others": [
         "tech-uses-xmp",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/78"
@@ -17636,7 +17556,7 @@
         "tech-kinect-optional",
         "marketplace-nodownload",
         "gpu-readback",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "gpu-ext-query"
       ]
     },
@@ -17646,15 +17566,14 @@
     "issue": 74,
     "id": "4D5307F1",
     "title": "Fable 2",
-    "updated": "2026-08-17T20:05:50Z",
+    "updated": "2026-10-29T17:08:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "gpu-drawing-corrupt",
-        "gpu-occlusion-query"
+        "gpu-drawing-corrupt"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/74"
@@ -17793,7 +17712,7 @@
       ],
       "others": [
         "tech-engine-anvil",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/64"
@@ -17812,7 +17731,7 @@
         "gpu-drawing-corrupt",
         "tech-engine-iw",
         "marketplace-nodownload",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/63"
@@ -17821,7 +17740,7 @@
     "issue": 62,
     "id": "415608D8",
     "title": "007 Legends",
-    "updated": "2026-06-01T12:22:34Z",
+    "updated": "2026-10-29T17:19:39Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17829,8 +17748,7 @@
       ],
       "others": [
         "tech-engine-iw",
-        "marketplace-nodownload",
-        "gpu-occlusion-query"
+        "marketplace-nodownload"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/62"
@@ -17968,7 +17886,7 @@
       ],
       "others": [
         "cpu-timing",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/50"
@@ -18035,7 +17953,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/46"
@@ -18053,7 +17971,7 @@
       "others": [
         "tech-engine-unreal",
         "gpu-readback",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/45"
@@ -18140,7 +18058,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/40"
@@ -18158,7 +18076,7 @@
       "others": [
         "tech-engine-unreal",
         "tech-middleware-scaleform",
-        "gpu-occlusion-query",
+        "requires_occlusion_query_strict",
         "supports-3d"
       ]
     },
@@ -18259,7 +18177,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-10-28T22:25:17Z",
+    "updated": "2026-10-29T16:32:45Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -18268,7 +18186,6 @@
       "others": [
         "tech-kinect-optional",
         "requires_mount_cache",
-        "gpu-occlusion-query",
         "gpu-viz-query",
         "gpu-ext-query"
       ]
@@ -18358,7 +18275,7 @@
       ],
       "others": [
         "tech-engine-unreal",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/25"
@@ -18377,7 +18294,7 @@
         "tech-middleware-havok",
         "tech-middleware-demonware",
         "requires_protect_zero_false",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/20"
@@ -18413,7 +18330,7 @@
         "gpu-drawing-corrupt",
         "supports-1080p",
         "gpu-driver-issues-nvidia",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/17"
@@ -18597,7 +18514,7 @@
         "apu-garbage",
         "tech-engine-unreal",
         "vsync-off-speedup",
-        "gpu-occlusion-query"
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/4"
