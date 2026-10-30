@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "f448664",
+    "target_commitish": "f448664b6d0eea63ed67a098bd3ca2dd129532a0",
+    "published_at": "2026-10-30T19:09:01Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f448664",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f448664b6d0eea63ed67a098bd3ca2dd129532a0",
+    "changelog": {
+      "title": "f448664_canary_experimental",
+      "changes": "- [XCrypt] - Implement XeCryptBnQw_Copy, XeCryptBnQwNeModInv, XeCryptBnQwNeModMul (`f448664`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/892064b...f448664"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f448664/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f448664/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "892064b",
+    "target_commitish": "892064b92b92aff37c9ee3c3880668146000da6c",
+    "published_at": "2026-10-30T18:12:39Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/892064b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/892064b92b92aff37c9ee3c3880668146000da6c",
+    "changelog": {
+      "title": "892064b_canary_experimental",
+      "changes": "- [Kernel] Return all 64 bits from qword_result_t exports (`892064b`)\n- [Build] Find vswhere with NoDefaultCurrentDirectoryInExePath set (`4794be5`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/48b318a...892064b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/892064b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/892064b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "48b318a",
     "target_commitish": "48b318a2ad7c36f8f3901a94e290ba70ae0ffec5",
     "published_at": "2026-10-27T18:08:48Z",
