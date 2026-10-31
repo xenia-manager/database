@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "44e6489",
+    "target_commitish": "44e6489cf87567b5dc9c982207765d722b71b966",
+    "published_at": "2026-10-31T03:37:10Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/44e6489",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/44e6489cf87567b5dc9c982207765d722b71b966",
+    "changelog": {
+      "title": "44e6489_canary_experimental",
+      "changes": "- [Testing] Copy libdl.dll with the MinGW binutils runtime DLLs (`44e6489`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7ef6c64...44e6489"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/44e6489/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/44e6489/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7ef6c64",
+    "target_commitish": "7ef6c642c563b27c025aca23ae6f86f72c2b3523",
+    "published_at": "2026-10-31T02:57:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7ef6c64",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7ef6c642c563b27c025aca23ae6f86f72c2b3523",
+    "changelog": {
+      "title": "7ef6c64_canary_experimental",
+      "changes": "- [x64] Reverse MMIO reads for loads without a byte swap (`7ef6c64`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f448664...7ef6c64"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ef6c64/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ef6c64/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "f448664",
     "target_commitish": "f448664b6d0eea63ed67a098bd3ca2dd129532a0",
     "published_at": "2026-10-30T19:09:01Z",
