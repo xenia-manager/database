@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "96ce1ac",
+    "target_commitish": "96ce1ac47ee7646deac2a2c9c912351e8ff0edee",
+    "published_at": "2026-11-01T01:24:10Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/96ce1ac",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/96ce1ac47ee7646deac2a2c9c912351e8ff0edee",
+    "changelog": {
+      "title": "96ce1ac_canary_experimental",
+      "changes": "- [XAM/INPUT] Report empty keystroke queue while UI is active (`96ce1ac`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/44e6489...96ce1ac"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/96ce1ac/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/96ce1ac/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "44e6489",
     "target_commitish": "44e6489cf87567b5dc9c982207765d722b71b966",
     "published_at": "2026-10-31T03:37:10Z",

@@ -3,15 +3,16 @@
     "issue": 1252,
     "id": "41560805",
     "title": "The History Channel: Battle for the Pacific",
-    "updated": "2026-10-31T01:40:17Z",
-    "state": "Gameplay",
+    "updated": "2026-11-01T00:13:26Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "gpu-readback",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "gpu-async-compile-issues"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1252"

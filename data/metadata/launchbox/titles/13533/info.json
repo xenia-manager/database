@@ -12,6 +12,13 @@
       ],
       "Back": [
         {
+          "CRC32": "3015895832",
+          "FileName": "r2_3506ce0a-2b47-4c76-b4c2-c870fc6881fe.jpg",
+          "Region": "Europe",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_3506ce0a-2b47-4c76-b4c2-c870fc6881fe.jpg"
+        },
+        {
           "CRC32": "1717606052",
           "FileName": "r2_72245004-6c17-404e-809b-6bfe28af575c.jpg",
           "Region": "Germany",
@@ -20,6 +27,13 @@
         }
       ],
       "Front": [
+        {
+          "CRC32": "2011839976",
+          "FileName": "r2_38fa4ad5-1c0f-4a9d-9553-d9e05df878fb.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_38fa4ad5-1c0f-4a9d-9553-d9e05df878fb.jpg"
+        },
         {
           "CRC32": "4165177312",
           "FileName": "r2_8ca55214-a8c6-4abf-8783-58515375b56a.jpg",
@@ -34,6 +48,15 @@
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/28e0b387-20ce-4575-8ec1-d85dcf926e93.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "CRC32": "3427033180",
+          "FileName": "r2_551034d4-2611-49a4-aa8d-efa1095ddfbd.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_551034d4-2611-49a4-aa8d-efa1095ddfbd.jpg"
+        }
       ]
     },
     "Disc": [
@@ -42,6 +65,15 @@
         "FileName": "3e51de59-a8bb-4c8a-ab18-68aa238a3e78.png",
         "Type": "Disc",
         "URL": "http://images.launchbox-app.com/3e51de59-a8bb-4c8a-ab18-68aa238a3e78.png"
+      }
+    ],
+    "Other": [
+      {
+        "CRC32": "3235793873",
+        "FileName": "r2_0ef45c4a-ae76-48c3-94ea-41686f0ab7d8.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_0ef45c4a-ae76-48c3-94ea-41686f0ab7d8.png"
       }
     ]
   },
@@ -53,5 +85,6 @@
   "Name": "Vancouver 2010",
   "Overview": "Vancouver 2010 is the officially licensed game based on the Winter Olympics 2010. It offers 14 disciplines: Alpine Skiing (four variants), bobsled, freestyle-skiing (two variants), luge, speed skating (two variants), skeleton, ski jumping and snowboard (two variants). These disciplines can be played only individually (training or championship); there is no linking element. The player has also no ways to individualize his athlete besides choosing between one of about 20 nationalities; his look and gender is set for the disciplines, e.g. the luge is only for men. \n\nThe controls depend on rhythmical movements with the input device, e.g. during the bobsled championship the player has to mimic the movements of the both men. Besides these disciplines there are also 30 challenges where the player has to solve certain tasks, e.g. keeping a certain speed or skiing around snowmen.\n\nThe license only apples to the game's name: there are no real athletes or voice commentary. There is one course per discipline.",
   "Publisher": "SEGA Europe",
-  "ReleaseDate": "2010-01-12"
+  "ReleaseDate": "2010-01-12",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Vancouver_2010_(video_game)"
 }
