@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1253,
+    "id": "584111EE",
+    "title": "Realms of Ancient Wars",
+    "updated": "2026-11-02T20:04:00Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "vsync-off-speedup"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1253"
+  },
+  {
     "issue": 1252,
     "id": "41560805",
     "title": "The History Channel: Battle for the Pacific",
@@ -3280,20 +3296,6 @@
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1009"
   },
   {
-    "issue": 1008,
-    "id": "58411452",
-    "title": "Costume Quest 2",
-    "updated": "2026-05-14T14:08:57Z",
-    "state": "Gameplay",
-    "labels": {
-      "state": [
-        "state-gameplay"
-      ],
-      "others": []
-    },
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/1008"
-  },
-  {
     "issue": 1006,
     "id": "545107E6",
     "title": "Darksiders",
@@ -6094,7 +6096,7 @@
     "issue": 824,
     "id": "425307F5",
     "title": "Wolfenstein: The New Order",
-    "updated": "2026-10-27T18:15:12Z",
+    "updated": "2026-11-02T19:08:44Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -6106,6 +6108,7 @@
         "backwards-compatibility-unsupported",
         "vsync-off-speedup",
         "requires_hdd_install",
+        "requires_occlusion_query_strict",
         "no-disc-install"
       ]
     },
@@ -15089,7 +15092,7 @@
     "issue": 255,
     "id": "425307F4",
     "title": "The Evil Within",
-    "updated": "2026-10-27T19:16:10Z",
+    "updated": "2026-11-02T19:08:58Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15100,7 +15103,8 @@
         "tech-engine-idtech",
         "tech-middleware-havok",
         "backwards-compatibility-unsupported",
-        "requires_hdd_install"
+        "requires_hdd_install",
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/255"
@@ -17320,7 +17324,7 @@
     "issue": 102,
     "id": "4D5307DC",
     "title": "Crackdown",
-    "updated": "2026-10-29T16:55:42Z",
+    "updated": "2026-11-02T19:04:53Z",
     "state": "Playable",
     "labels": {
       "state": [

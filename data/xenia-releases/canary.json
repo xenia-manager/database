@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "83457ac",
+    "target_commitish": "83457acd0017f678222cf6cb23e81dba605907c5",
+    "published_at": "2026-11-02T22:54:44Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/83457ac",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/83457acd0017f678222cf6cb23e81dba605907c5",
+    "changelog": {
+      "title": "83457ac_canary_experimental",
+      "changes": "- [Base] Use SDL_OpenURL to open URLs and folders on Linux (`83457ac`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7eee59e...83457ac"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/83457ac/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/83457ac/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7eee59e",
+    "target_commitish": "7eee59e01f6d5ccb831501b6adae198ed835eecc",
+    "published_at": "2026-11-02T22:14:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7eee59e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7eee59e01f6d5ccb831501b6adae198ed835eecc",
+    "changelog": {
+      "title": "7eee59e_canary_experimental",
+      "changes": "- [UI] Marshal Linux GTK paint requests onto the UI thread (`7eee59e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/afecab8...7eee59e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7eee59e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7eee59e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "afecab8",
+    "target_commitish": "afecab890bf6ac658fb4a03097fe5a0b85dea8d0",
+    "published_at": "2026-11-02T19:51:12Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/afecab8",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/afecab890bf6ac658fb4a03097fe5a0b85dea8d0",
+    "changelog": {
+      "title": "afecab8_canary_experimental",
+      "changes": "- [XAM/USER] Implement XamUserRead/WriteUserPreference (`afecab8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/96ce1ac...afecab8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/afecab8/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/afecab8/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "96ce1ac",
     "target_commitish": "96ce1ac47ee7646deac2a2c9c912351e8ff0edee",
     "published_at": "2026-11-01T01:24:10Z",
