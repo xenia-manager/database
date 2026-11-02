@@ -1,6 +1,15 @@
 {
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "CRC32": "2198971251",
+          "FileName": "r2_b10101c6-ad71-4045-8f9e-06a8b7477658.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_b10101c6-ad71-4045-8f9e-06a8b7477658.png"
+        }
+      ],
       "Back": [
         {
           "CRC32": "3075613120",
@@ -12,18 +21,27 @@
       ],
       "Front": [
         {
+          "CRC32": "3407928243",
+          "FileName": "r2_38512aae-ac15-4b04-8b19-c49a4d631e7a.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_38512aae-ac15-4b04-8b19-c49a4d631e7a.jpg"
+        },
+        {
           "CRC32": "3985591178",
           "FileName": "r2_0380f59f-2aae-4493-be51-35df0ed11013.jpg",
           "Region": "Germany",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/r2_0380f59f-2aae-4493-be51-35df0ed11013.jpg"
-        },
+        }
+      ],
+      "Spine": [
         {
-          "CRC32": "3407928243",
-          "FileName": "8b1b6333-bf34-48e8-b33d-8894a7e95c64.jpg",
-          "Region": "North America",
-          "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/8b1b6333-bf34-48e8-b33d-8894a7e95c64.jpg"
+          "CRC32": "3666612627",
+          "FileName": "r2_571bb20d-bd9b-4784-b9c2-82103bc15f4d.jpg",
+          "Region": "Europe",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_571bb20d-bd9b-4784-b9c2-82103bc15f4d.jpg"
         }
       ]
     },
@@ -31,7 +49,7 @@
       {
         "CRC32": "4091069203",
         "FileName": "r2_11dfbb18-dd06-41d0-b612-a25ed7d85999.png",
-        "Region": "Germany",
+        "Region": "World",
         "Type": "Disc",
         "URL": "http://images.launchbox-app.com/r2_11dfbb18-dd06-41d0-b612-a25ed7d85999.png"
       }
@@ -65,5 +83,7 @@
   "Genres": "Racing",
   "Name": "MotoGP 13",
   "Overview": "Speed. Emotion. Innovation. The full 2013 MotoGP season. Graphical excellence. The essential elements mixed with an adrenaline-fueled experience will characterize the brand new MotoGP 13, re-invented by Milestone. With genre-leading redesigned graphics, Milestone's new project will bring players into the 2013 championship through the eyes of a real MotoGP rider. The main game modes are: Official MotoGP will additionally offer players the opportunity to experience the 2013 Worldwide Championship, try the exclusive IRTA Test or prove their ability in a Quick Race. Career, the newly revamped career mode, will put gamers into the shoes of the riders, as it runs from first until the final race of the season. This particular game-mode will mix-in third and first person elements as well. Multiplayer will re-create exciting events - inspired by reality - to MotoGP's classic elements, that will keep fans glued to their sofa",
-  "ReleaseDate": "2013-06-21"
+  "Publisher": "Milestone",
+  "ReleaseDate": "2013-06-21",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/MotoGP_13"
 }

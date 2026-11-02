@@ -3206,7 +3206,7 @@
     "issue": 1014,
     "id": "415607D3",
     "title": "Gun",
-    "updated": "2026-07-20T15:53:15Z",
+    "updated": "2026-11-02T01:27:34Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3622,7 +3622,7 @@
     "issue": 981,
     "id": "4D53085B",
     "title": "Halo Reach",
-    "updated": "2026-10-29T17:03:20Z",
+    "updated": "2026-11-02T00:45:31Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -3632,6 +3632,7 @@
         "tech-engine-blam",
         "gpu-readback",
         "vsync-off-speedup",
+        "splitscreen-working",
         "gpu-viz-query",
         "gpu-async-compile-issues"
       ]
@@ -15692,7 +15693,7 @@
     "issue": 216,
     "id": "4D530919",
     "title": "Halo 4",
-    "updated": "2026-10-29T16:40:46Z",
+    "updated": "2026-11-02T00:45:56Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -15702,7 +15703,8 @@
         "tech-engine-blam",
         "gpu-readback",
         "kernel-KeSetCurrentStackPointers",
-        "vsync-off-speedup"
+        "vsync-off-speedup",
+        "splitscreen-working"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/216"
@@ -18394,7 +18396,7 @@
     "issue": 14,
     "id": "545407F2",
     "title": "Grand Theft Auto IV",
-    "updated": "2026-11-01T09:42:30Z",
+    "updated": "2026-11-01T20:35:59Z",
     "state": "Playable",
     "labels": {
       "state": [
