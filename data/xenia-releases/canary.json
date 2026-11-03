@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "a0e0308",
+    "target_commitish": "a0e0308f7d12eb1df306dd8e3012c171ee7fbde8",
+    "published_at": "2026-11-03T00:58:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a0e0308",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a0e0308f7d12eb1df306dd8e3012c171ee7fbde8",
+    "changelog": {
+      "title": "a0e0308_canary_experimental",
+      "changes": "- [UI] Highlight signed in profiles in profiles menu (`a0e0308`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d7a973d...a0e0308"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a0e0308/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a0e0308/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "d7a973d",
+    "target_commitish": "d7a973dfafb4e47e37a5f3f5c048c12388bc2284",
+    "published_at": "2026-11-03T00:22:12Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d7a973d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d7a973dfafb4e47e37a5f3f5c048c12388bc2284",
+    "changelog": {
+      "title": "d7a973d_canary_experimental",
+      "changes": "- [UI] Show gamerpics for signed out profiles in profiles menu (`d7a973d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a60f068...d7a973d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d7a973d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d7a973d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "a60f068",
+    "target_commitish": "a60f068aadd702d9c1777a9e7ca594349858deca",
+    "published_at": "2026-11-02T23:21:55Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a60f068",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a60f068aadd702d9c1777a9e7ca594349858deca",
+    "changelog": {
+      "title": "a60f068_canary_experimental",
+      "changes": "- [Base] Load SDL2 by its runtime soname on Linux (`a60f068`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/83457ac...a60f068"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a60f068/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a60f068/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "83457ac",
     "target_commitish": "83457acd0017f678222cf6cb23e81dba605907c5",
     "published_at": "2026-11-02T22:54:44Z",
