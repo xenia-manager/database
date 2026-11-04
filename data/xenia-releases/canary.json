@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "6842939",
+    "target_commitish": "684293925e68a05658619722a600f1f02be34dae",
+    "published_at": "2026-11-04T01:31:52Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6842939",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/684293925e68a05658619722a600f1f02be34dae",
+    "changelog": {
+      "title": "6842939_canary_experimental",
+      "changes": "- [XAM/INFO] Handle null module names in GetModuleHandleA (`6842939`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a0e0308...6842939"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6842939/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6842939/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "a0e0308",
     "target_commitish": "a0e0308f7d12eb1df306dd8e3012c171ee7fbde8",
     "published_at": "2026-11-03T00:58:33Z",
