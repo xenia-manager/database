@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "455b988",
+    "target_commitish": "455b9882004af40dbf68e4e8ef5acc14339a88d2",
+    "published_at": "2026-11-04T12:07:00Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/455b988",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/455b9882004af40dbf68e4e8ef5acc14339a88d2",
+    "changelog": {
+      "title": "455b988_canary_experimental",
+      "changes": "- [HID] Fix Windows keyboard modifier state (`455b988`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6842939...455b988"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/455b988/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/455b988/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "6842939",
     "target_commitish": "684293925e68a05658619722a600f1f02be34dae",
     "published_at": "2026-11-04T01:31:52Z",
