@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "838850f",
+    "target_commitish": "838850fed8389bdb28dc38f89bcb73bb43db1494",
+    "published_at": "2026-11-04T16:38:00Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/838850f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/838850fed8389bdb28dc38f89bcb73bb43db1494",
+    "changelog": {
+      "title": "838850f_canary_experimental",
+      "changes": "- [Kernel] Default MmAllocatePhysicalMemoryEx to read/write access (`838850f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/455b988...838850f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/838850f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/838850f/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "455b988",
     "target_commitish": "455b9882004af40dbf68e4e8ef5acc14339a88d2",
     "published_at": "2026-11-04T12:07:00Z",

@@ -1543,7 +1543,7 @@
     "issue": 1137,
     "id": "584111E8",
     "title": "State of Decay",
-    "updated": "2026-10-29T17:04:48Z",
+    "updated": "2026-11-04T18:19:17Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -1551,8 +1551,7 @@
       ],
       "others": [
         "tech-engine-cry",
-        "gpu-readback",
-        "gpu-occlusion-querybatch"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1137"
@@ -3622,15 +3621,13 @@
     "issue": 983,
     "id": "42560816",
     "title": "Disney Epic Mickey 2: The Power of Two",
-    "updated": "2026-07-05T18:41:16Z",
+    "updated": "2026-11-04T18:19:14Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-occlusion-querybatch"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/983"
   },
@@ -3883,7 +3880,7 @@
     "issue": 964,
     "id": "555308CE",
     "title": "Assassin's Creed Rogue",
-    "updated": "2026-09-14T10:51:17Z",
+    "updated": "2026-11-04T18:27:56Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -3892,6 +3889,7 @@
       "others": [
         "gpu-drawing-corrupt",
         "gpu-readback",
+        "requires_occlusion_query_strict",
         "crash-random",
         "gpu-xps"
       ]
@@ -3981,7 +3979,7 @@
     "issue": 958,
     "id": "58411202",
     "title": "Sonic Adventure 2",
-    "updated": "2026-08-24T02:39:08Z",
+    "updated": "2026-11-04T18:18:55Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -3989,8 +3987,7 @@
       ],
       "others": [
         "tech-middleware-criware",
-        "vsync-off-speedup",
-        "gpu-occlusion-querybatch"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/958"
@@ -4450,7 +4447,7 @@
     "issue": 928,
     "id": "535107D4",
     "title": "Project Sylpheed",
-    "updated": "2025-10-24T18:41:41Z",
+    "updated": "2026-11-04T18:33:06Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -4458,8 +4455,7 @@
       ],
       "others": [
         "vsync-off-speedup",
-        "requires_protect_zero_false",
-        "requires_mount_cache"
+        "requires_protect_zero_false"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/928"
@@ -5440,8 +5436,8 @@
   {
     "issue": 865,
     "id": "584113C5",
-    "title": "\u96fb\u8133\u6226\u6a5f\u30d0\u30fc\u30c1\u30e3\u30ed\u30f3",
-    "updated": "2025-10-03T15:02:34Z",
+    "title": "\u96fb\u8133\u6226\u6a5f\u30d0\u30fc\u30c1\u30e3\u30ed\u30f3 (Cyber Troopers: Virtual On)",
+    "updated": "2026-11-04T18:37:26Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5616,7 +5612,7 @@
     "issue": 853,
     "id": "4541096E",
     "title": "Fuse",
-    "updated": "2026-09-21T12:54:20Z",
+    "updated": "2026-11-04T18:17:30Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5628,8 +5624,7 @@
         "tech-middleware-wwise",
         "gpu-readback",
         "backwards-compatibility-unsupported",
-        "vsync-off-speedup",
-        "gpu-occlusion-querybatch"
+        "vsync-off-speedup"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/853"
@@ -7702,15 +7697,14 @@
     "issue": 717,
     "id": "584113CF",
     "title": "God Mode",
-    "updated": "2026-08-24T02:51:30Z",
+    "updated": "2026-11-04T18:18:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-saber3d",
-        "gpu-occlusion-querybatch"
+        "tech-engine-saber3d"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/717"
@@ -8496,7 +8490,7 @@
     "issue": 662,
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "updated": "2026-09-21T11:45:10Z",
+    "updated": "2026-11-04T18:17:41Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8504,7 +8498,6 @@
       ],
       "others": [
         "gpu-viz-query",
-        "gpu-occlusion-querybatch",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -8514,7 +8507,7 @@
     "issue": 661,
     "id": "41560905",
     "title": "The Amazing Spider-Man 2",
-    "updated": "2026-09-21T11:44:59Z",
+    "updated": "2026-11-04T18:18:01Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -8522,7 +8515,6 @@
       ],
       "others": [
         "gpu-viz-query",
-        "gpu-occlusion-querybatch",
         "requires_render_target_rov_fsi"
       ]
     },
@@ -11163,7 +11155,7 @@
     "issue": 490,
     "id": "58410957",
     "title": "Call of Duty Classic",
-    "updated": "2026-07-31T22:51:02Z",
+    "updated": "2026-11-04T18:33:12Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -11172,8 +11164,7 @@
       "others": [
         "tech-engine-idtech",
         "kernel-xex-switching",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/490"
@@ -12012,7 +12003,7 @@
     "issue": 436,
     "id": "4541097B",
     "title": "FIFA Street",
-    "updated": "2026-10-28T14:30:24Z",
+    "updated": "2026-11-04T18:33:33Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12021,8 +12012,7 @@
       "others": [
         "tech-engine-impact",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/436"
@@ -12031,7 +12021,7 @@
     "issue": 435,
     "id": "454109D4",
     "title": "2014 FIFA World Cup Brazil",
-    "updated": "2026-10-26T12:51:24Z",
+    "updated": "2026-11-04T18:33:40Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12040,8 +12030,7 @@
       "others": [
         "tech-engine-impact",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/435"
@@ -12524,7 +12513,7 @@
     "issue": 405,
     "id": "454109F4",
     "title": "FIFA 17",
-    "updated": "2026-08-12T19:06:31Z",
+    "updated": "2026-11-04T18:33:45Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12533,8 +12522,7 @@
       "others": [
         "tech-engine-impact",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/405"
@@ -12543,7 +12531,7 @@
     "issue": 404,
     "id": "454109EE",
     "title": "FIFA 16",
-    "updated": "2026-08-12T19:06:18Z",
+    "updated": "2026-11-04T18:33:48Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12553,8 +12541,7 @@
         "tech-kinect-optional",
         "tech-engine-impact",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/404"
@@ -12563,7 +12550,7 @@
     "issue": 403,
     "id": "454109DB",
     "title": "FIFA 15",
-    "updated": "2026-08-12T19:05:53Z",
+    "updated": "2026-11-04T18:34:08Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -12573,8 +12560,7 @@
         "tech-kinect-optional",
         "tech-engine-impact",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/403"
@@ -13491,7 +13477,7 @@
     "issue": 348,
     "id": "454109C3",
     "title": "FIFA 14",
-    "updated": "2026-09-01T21:34:24Z",
+    "updated": "2026-11-04T18:34:13Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13501,8 +13487,7 @@
         "tech-kinect-optional",
         "tech-engine-impact",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/348"
@@ -13511,7 +13496,7 @@
     "issue": 347,
     "id": "45410998",
     "title": "FIFA 13",
-    "updated": "2026-10-08T18:32:40Z",
+    "updated": "2026-11-04T18:34:18Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -13521,8 +13506,7 @@
         "tech-kinect-optional",
         "tech-engine-impact",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/347"
@@ -13531,7 +13515,7 @@
     "issue": 346,
     "id": "45410967",
     "title": "FIFA 12",
-    "updated": "2026-06-24T23:03:27Z",
+    "updated": "2026-11-04T18:34:22Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13540,8 +13524,7 @@
       "others": [
         "tech-engine-impact",
         "gpu-readback",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/346"
@@ -14954,7 +14937,7 @@
     "issue": 263,
     "id": "5345085E",
     "title": "Alien: Isolation",
-    "updated": "2026-05-17T20:54:35Z",
+    "updated": "2026-11-04T18:34:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -14967,7 +14950,6 @@
         "gpu-readback",
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
-        "requires_mount_cache",
         "requires_hdd_install"
       ]
     },
@@ -15240,7 +15222,7 @@
     "issue": 247,
     "id": "5451082C",
     "title": "Warhammer 40,000: Space Marine",
-    "updated": "2026-10-11T18:20:33Z",
+    "updated": "2026-11-04T18:19:40Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15252,7 +15234,6 @@
         "tech-middleware-scaleform",
         "backwards-compatibility-unsupported",
         "gpu-viz-query",
-        "gpu-occlusion-querybatch",
         "requires_render_target_rov_fsi",
         "tech-engine-phoenix"
       ]
@@ -15643,7 +15624,7 @@
     "issue": 220,
     "id": "4E4D0801",
     "title": "Inversion",
-    "updated": "2026-10-20T20:20:41Z",
+    "updated": "2026-11-04T18:19:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15653,8 +15634,7 @@
         "tech-engine-saber3d",
         "gpu-readback",
         "gpu-viz-query",
-        "crash-always",
-        "gpu-occlusion-querybatch"
+        "crash-always"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/220"
@@ -16150,7 +16130,7 @@
     "issue": 187,
     "id": "454109EC",
     "title": "NHL: Legacy Edition",
-    "updated": "2026-10-08T12:49:04Z",
+    "updated": "2026-11-04T18:34:33Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16159,8 +16139,7 @@
       "others": [
         "gpu-drawing-missing",
         "tech-engine-impact",
-        "backwards-compatibility-unsupported",
-        "requires_mount_cache"
+        "backwards-compatibility-unsupported"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/187"
@@ -16223,7 +16202,7 @@
     "issue": 178,
     "id": "425607FE",
     "title": "Cars 2",
-    "updated": "2026-10-02T14:18:32Z",
+    "updated": "2026-11-04T18:19:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -16231,8 +16210,7 @@
       ],
       "others": [
         "gpu-drawing-corrupt",
-        "gpu-drawing-missing",
-        "gpu-occlusion-querybatch"
+        "gpu-drawing-missing"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/178"
@@ -18215,7 +18193,7 @@
     "issue": 30,
     "id": "4D5309C9",
     "title": "Forza Horizon",
-    "updated": "2026-10-29T16:32:45Z",
+    "updated": "2026-11-04T18:34:37Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -18223,7 +18201,6 @@
       ],
       "others": [
         "tech-kinect-optional",
-        "requires_mount_cache",
         "gpu-viz-query",
         "gpu-ext-query"
       ]
