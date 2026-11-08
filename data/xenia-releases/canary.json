@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "8a14dd6",
+    "target_commitish": "8a14dd699a21bdefe806e898c028a2babdb2b6a8",
+    "published_at": "2026-11-08T15:23:56Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8a14dd6",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8a14dd699a21bdefe806e898c028a2babdb2b6a8",
+    "changelog": {
+      "title": "8a14dd6_canary_experimental",
+      "changes": "- [x64] Default use_fast_dot_product to true (`8a14dd6`)\n- [x64] Skip the single range check for operands known to be in range (`bb8bd54`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d63ce8f...8a14dd6"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8a14dd6/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8a14dd6/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "d63ce8f",
     "target_commitish": "d63ce8f080945e82e16ef0357ff3ec0d91c1f36c",
     "published_at": "2026-11-07T22:04:00Z",
