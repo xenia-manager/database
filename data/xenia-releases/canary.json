@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "d63ce8f",
+    "target_commitish": "d63ce8f080945e82e16ef0357ff3ec0d91c1f36c",
+    "published_at": "2026-11-07T22:04:00Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d63ce8f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d63ce8f080945e82e16ef0357ff3ec0d91c1f36c",
+    "changelog": {
+      "title": "d63ce8f_canary_experimental",
+      "changes": "- [x64] Inline FLOAT16_2 in vpkd3d128 and vupkd3d128 (`d63ce8f`)\n- [x64] Truncate packed half floats and fix unpacking negative zero (`22fef0d`)\n- [x64] Inline vpkuhum and vpkuhus and read pack operands uniformly (`b2e6ef1`)\n- [x64] Fold constant permute controls when emitting (`561618e`)\n- [x64] Remove TODOs that no longer apply (`d21e443`)\n- [x64] Average signed bytes and halfwords without a loop (`38a40c5`)\n- [x64] Inline the vector shifts of vsl and vsr (`d787946`)\n- [Testing] Unskip the vsl, vsr and vmaddfp cases (`e3b5781`)\n- [PPC] Shift each byte by its own count in vsl and vsr (`c3b4393`)\n- [x64] Give vmaddfp the PPC NaN fixup (`223f64e`)\n- [x64] Keep tail labels valid as more tails are added (`ddb0e64`)\n- [x64] Compute vmsum3fp128 and vmsum4fp128 bit-exactly (`f8d431a`)\n- [Testing] Unskip the rest of the CR1 cases (`b9fc9cf`)\n- [PPC] Treat any operand outside the single range like a denormal one (`84aa0dd`)\n- [Testing] Stop reading memory annotations past the end of the string (`4b974dc`)\n- [x64] Load a constant third operand in the integer selects (`b277666`)\n- [Testing] Unskip the fsqrt, fdivs and fctiwz cases that pass (`1638157`)\n- [Testing] Expect VX from fctiwz. of an SNaN (`170a387`)\n- [x64] Give the square root of a negative number PPC's default QNaN (`b1c5f80`)\n- [Testing] Unskip the CR1 cases that pass (`2ecb719`)\n- [PPC] Report inexact, overflow and zero divide in the FPSCR summary (`1b78856`)\n- [x64] Let the float compare-not-equal take a constant (`2d82d5c`)\n- [PPC] Run the OE forms of mulhw, mulhwu, mulhd and mulhdu (`7211edd`)\n- [PPC] Implement vupkhpx and vupklpx (`8692ef2`)\n- [PPC] Implement lswi, lswx, stswi and stswx (`1969607`)\n- [PPC] Keep XER's byte count in mtxer and mfxer (`2d982d5`)\n- [Testing] Unskip the cases that pass and the removed vupkhpx tests (`848eb87`)\n- [Testing] Skip the CR1 cases that need the inexact and underflow flags (`1c2c847`)\n- [PPC] Quiet an SNaN in frsp by using ToSingle (`76c5ef4`)\n- [PPC] Compute adde's carry from a 64-bit sum (`5763867`)\n- [PPC] Splat vspltw with one swizzle (`5136281`)\n- [PPC] Convert fctiw and fctid without a branch for NaN (`f4aec19`)\n- [x64] Inline fres when its result is a normal single (`7e54d41`)\n- [x64] Inline vlogefp and vexptefp with AVX2 table gathers (`b384843`)\n- [PPC] Signal 0 x inf in the multiply-adds when the addend is a QNaN (`3e7137c`)\n- [PPC] Set VSCR[SAT] after saturating vector instructions (`575fab0`)\n- [CPU] Compute vrefp, vlogefp, vexptefp and fres (`e763580`)\n- [PPC] Recompute the FPSCR summaries and set mffs's upper word (`b1b3fd4`)\n- [PPC] Read bracketed FPR test values as bits and fix the wrong ones (`c587181`)\n- [Docs] Various corrections to VMX128 documentation (`5db06db`)\n- [CPU] Back Processor::GuestAtomic* with real guest reservations (`9228032`)\n- [CPU] Rework lwarx/stwcx reservations onto generation counters (`c2795e9`)\n- [CPU/x64] Inline PPC GPR/LR save-restore helpers (`d590849`)\n- [CPU] Judge XER[OV] on the low 32 bits (`6e797a3`)\n- [CPU] Implement mtfsb0 and mtfsb1 (`1e271b1`)\n- [CPU] Implement XER[OV] and XER[SO] for the PPC OE forms (`b2bf086`)\n- [CPU] Skip the rounding to single for a denormal operand (`dedd387`)\n- [CPU] Report FPSCR exceptions from the conversions to integer (`7db36b6`)\n- [CPU] Answer a denormal operand with default QNaN in single-precision (`b49fc05`)\n- [CPU] Return PPC's default QNaN from invalid add, sub, mul and div (`fe09ec0`)\n- [CPU] Set both vcmpbfp bounds bits for a NaN operand (`a1ad74c`)\n- [CPU] Quiet the NaN vmaxfp/vminfp returns (`105452a`)\n- [CPU] Give the multiply-add family PPC NaN semantics (`482aa40`)\n- [CPU] Derive the FPSCR invalid-operation summary for CR1 (`3d3432b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/80cecb7...d63ce8f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d63ce8f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d63ce8f/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "80cecb7",
+    "target_commitish": "80cecb77b9666cb528e7cb81a462ad0b8ad7b109",
+    "published_at": "2026-11-07T21:33:27Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/80cecb7",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/80cecb77b9666cb528e7cb81a462ad0b8ad7b109",
+    "changelog": {
+      "title": "80cecb7_canary_experimental",
+      "changes": "- [XAM/UI] Clear gamertag before renaming a profile (`80cecb7`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7314e8b...80cecb7"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/80cecb7/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/80cecb7/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7314e8b",
+    "target_commitish": "7314e8bffe1f4040c3aaf9733652634a60be299b",
+    "published_at": "2026-11-07T20:34:29Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7314e8b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7314e8bffe1f4040c3aaf9733652634a60be299b",
+    "changelog": {
+      "title": "7314e8b_canary_experimental",
+      "changes": "- [CPU] Merge blocks forwards in ControlFlowSimplificationPass (`7314e8b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/838850f...7314e8b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7314e8b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7314e8b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "838850f",
     "target_commitish": "838850fed8389bdb28dc38f89bcb73bb43db1494",
     "published_at": "2026-11-04T16:38:00Z",
