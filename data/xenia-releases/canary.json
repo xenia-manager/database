@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "cf206a3",
+    "target_commitish": "cf206a3bdc4ffdfb22dbcfda99f777ab8d286f1d",
+    "published_at": "2026-11-09T00:16:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/cf206a3",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/cf206a3bdc4ffdfb22dbcfda99f777ab8d286f1d",
+    "changelog": {
+      "title": "cf206a3_canary_experimental",
+      "changes": "- [APP] Fix crashes on non-ASCII paths (`cf206a3`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/10de207...cf206a3"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cf206a3/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/cf206a3/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "10de207",
+    "target_commitish": "10de20723fb53c483be3064f1ca273a23a5c5f7b",
+    "published_at": "2026-11-08T23:45:00Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/10de207",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/10de20723fb53c483be3064f1ca273a23a5c5f7b",
+    "changelog": {
+      "title": "10de207_canary_experimental",
+      "changes": "- [Base] Fix more crashes on non-ASCII paths (`10de207`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2629e3c...10de207"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/10de207/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/10de207/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "2629e3c",
+    "target_commitish": "2629e3c8f352883b9e3882cd75d143aad23ef970",
+    "published_at": "2026-11-08T20:31:05Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2629e3c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2629e3c8f352883b9e3882cd75d143aad23ef970",
+    "changelog": {
+      "title": "2629e3c_canary_experimental",
+      "changes": "- [VFS] Stop extraction hanging when a file read fails (`2629e3c`)\n- [XCrypt] Pad SHA-256/512 Final in place and fix the SHA-512 count width (`41745dd`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8a14dd6...2629e3c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2629e3c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2629e3c/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "8a14dd6",
     "target_commitish": "8a14dd699a21bdefe806e898c028a2babdb2b6a8",
     "published_at": "2026-11-08T15:23:56Z",
