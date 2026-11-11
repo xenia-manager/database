@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "58df556",
+    "target_commitish": "58df556029109fddb0c28ede7247569e6b84d18d",
+    "published_at": "2026-11-11T17:20:58Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/58df556",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/58df556029109fddb0c28ede7247569e6b84d18d",
+    "changelog": {
+      "title": "58df556_canary_experimental",
+      "changes": "- [UI] Mark every dispatched dialog as active UI (`58df556`)\n- [UI] Paint directly from the UI thread on GTK (`c107eb8`)\n- [UI] Paint the UI along with guest frames while the guest presents (`a056f46`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7a7b089...58df556"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/58df556/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/58df556/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "7a7b089",
     "target_commitish": "7a7b0899342fa61c27ca50402a832e55b0cf9447",
     "published_at": "2026-11-10T22:20:57Z",

@@ -3,11 +3,16 @@
     "issue": 1255,
     "id": "584B083D",
     "title": "Xbox 360 Experience Disc Version 7.1 (Kiosk)(2012)",
-    "updated": "2026-11-11T15:32:29Z",
-    "state": "Unknown",
+    "updated": "2026-11-11T16:14:24Z",
+    "state": "Unplayable",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-nothing"
+      ],
+      "others": [
+        "marketplace-unlisted",
+        "kernel-xex-switching"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1255"
   },
@@ -12854,7 +12859,7 @@
     "issue": 387,
     "id": "54510842",
     "title": "Metro 2033",
-    "updated": "2026-10-02T14:20:52Z",
+    "updated": "2026-11-11T19:07:43Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -12863,7 +12868,8 @@
       "others": [
         "tech-engine-4a",
         "tech-physics-physx",
-        "backwards-compatibility-unsupported"
+        "backwards-compatibility-unsupported",
+        "requires_occlusion_query_strict"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/387"
@@ -14683,7 +14689,7 @@
     "issue": 279,
     "id": "494D87E4",
     "title": "Xbox 360 The Official Xbox Magazine (OXM) - Issue 09 (July 2006)",
-    "updated": "2024-10-28T18:02:59Z",
+    "updated": "2026-11-11T19:29:52Z",
     "state": "Unplayable",
     "labels": {
       "state": [
