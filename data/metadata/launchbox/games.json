@@ -2915,7 +2915,7 @@
         }
       ]
     },
-    "CommunityRating": "4.38461538461539",
+    "CommunityRating": "4.34615384615385",
     "DatabaseID": "108",
     "Developer": "Artificial Mind & Movement",
     "ESRB": "M - Mature",
@@ -4410,7 +4410,7 @@
         }
       ]
     },
-    "CommunityRating": "4.32758620689655",
+    "CommunityRating": "4.33333333333333",
     "DatabaseID": "639",
     "Developer": "Visceral Games",
     "ESRB": "M - Mature",
@@ -6934,7 +6934,7 @@
         }
       ]
     },
-    "CommunityRating": "4.29901960784314",
+    "CommunityRating": "4.30582524271845",
     "DatabaseID": "935",
     "Developer": "Epic Games",
     "ESRB": "M - Mature",
@@ -67783,7 +67783,7 @@
         }
       ]
     },
-    "CommunityRating": "4.6",
+    "CommunityRating": "4.54545454545455",
     "DatabaseID": "12559",
     "Developer": "Codemasters",
     "ESRB": "E - Everyone",
@@ -88963,14 +88963,9 @@
         {
           "CRC32": "1824509469",
           "FileName": "0323fd29-5f03-4f67-8b81-43c6d242dcae.png",
+          "Region": "World",
           "Type": "Banner",
           "URL": "http://images.launchbox-app.com/0323fd29-5f03-4f67-8b81-43c6d242dcae.png"
-        },
-        {
-          "CRC32": "1122982184",
-          "FileName": "924e8623-db67-4c6e-b2eb-7b7910a197db.png",
-          "Type": "Banner",
-          "URL": "http://images.launchbox-app.com/924e8623-db67-4c6e-b2eb-7b7910a197db.png"
         },
         {
           "CRC32": "894970022",
@@ -88978,6 +88973,13 @@
           "Region": "World",
           "Type": "Banner",
           "URL": "http://images.launchbox-app.com/0f5a5ca4-4734-4ebe-b9ec-2c291698917b.png"
+        },
+        {
+          "CRC32": "1122982184",
+          "FileName": "924e8623-db67-4c6e-b2eb-7b7910a197db.png",
+          "Region": "World",
+          "Type": "Banner",
+          "URL": "http://images.launchbox-app.com/924e8623-db67-4c6e-b2eb-7b7910a197db.png"
         }
       ],
       "Box": {
@@ -88985,7 +88987,7 @@
           {
             "CRC32": "2177532947",
             "FileName": "r2_04e242ad-d6f2-4322-9ec1-857284cb8f4f.png",
-            "Region": "World",
+            "Region": "North America",
             "Type": "Box - 3D",
             "URL": "http://images.launchbox-app.com/r2_04e242ad-d6f2-4322-9ec1-857284cb8f4f.png"
           }
@@ -88994,23 +88996,25 @@
           {
             "CRC32": "622159942",
             "FileName": "bf14dd0f-c3fc-44b9-9b61-9e738ea1d37c.jpg",
+            "Region": "North America",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/bf14dd0f-c3fc-44b9-9b61-9e738ea1d37c.jpg"
           }
         ],
         "Front": [
           {
-            "CRC32": "3657450330",
-            "FileName": "80f29d76-382e-4073-90e7-b5862ee861c0.jpg",
-            "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/80f29d76-382e-4073-90e7-b5862ee861c0.jpg"
-          },
-          {
             "CRC32": "198642457",
             "FileName": "r2_3dd7cbb0-20a3-4286-bb0a-8869bc0ca771.jpg",
             "Region": "Germany",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_3dd7cbb0-20a3-4286-bb0a-8869bc0ca771.jpg"
+          },
+          {
+            "CRC32": "3657450330",
+            "FileName": "80f29d76-382e-4073-90e7-b5862ee861c0.jpg",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/80f29d76-382e-4073-90e7-b5862ee861c0.jpg"
           }
         ],
         "Spine": [
@@ -128681,7 +128685,7 @@
         }
       ]
     },
-    "CommunityRating": "4.40625",
+    "CommunityRating": "4.44117647058824",
     "DatabaseID": "16710",
     "Developer": "Moss",
     "ESRB": "E10+ - Everyone 10+",
@@ -161538,7 +161542,8 @@
     "Name": "F1 2013",
     "Overview": "Make history in Formula One! F1 2013 features all the cars, stars and circuits from the 2013 FIA Formula One World Championship plus -- for the first time -- classic content. F1 Classics is an expansive new game mode, introduced by legendary broadcaster Murray Walker, in which you’ll race legendary drivers in famous cars on iconic circuits from the 1980s. This classic content can be played in a range of modes including split-screen and online multiplayer.\n\nF1 2013 also features all of the new drivers, team moves, tyre changes and remodelled handling to recreate the thrill of racing 2013’s stunning roster of Formula One cars. New enhancements, improvements plus new, expanded and returning game modes combine to deliver the most complete simulation of a Formula One season in videogame history.",
     "Publisher": "Codemasters",
-    "ReleaseDate": "2013-10-08"
+    "ReleaseDate": "2013-10-08",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/F1_2013_(video_game)"
   },
   {
     "Artwork": {
@@ -253511,7 +253516,7 @@
     },
     "DatabaseID": "468135",
     "Developer": "Serious Monkey Games",
-    "Genres": "Action; Shooter",
+    "Genres": "Shooter",
     "Name": " Blowball's Adventures",
     "Overview": "Help Blowball to save the world by stopping the evil rose and its allies in this funny Shoot 'Em Up for kids and adults.\n\nEnjoy four different levels, tricky enemies, unique art style and impulsive music!",
     "Publisher": "Serious Monkey Games",
@@ -285655,7 +285660,7 @@
     },
     "DatabaseID": "469994",
     "Developer": "Blacklist Games",
-    "Genres": "Action",
+    "Genres": "Shooter",
     "Name": "Heavy Payload 2",
     "Overview": "Heavy Payload 2 is an aerial shoot 'em up set over the European Theater of World War II. The game has two modes (Arcade and Advanced) with 18 missions and 4 difficulty settings. Heavy Payload 2 has more enemies, faster machine guns, carpet bombing, a new map and other audio/visual enhancements.",
     "Publisher": "William Ulrich",
@@ -318197,7 +318202,7 @@
     },
     "DatabaseID": "478274",
     "Developer": "Progpixel Games",
-    "Genres": "Action",
+    "Genres": "Platform; Shooter",
     "Name": "Rainbow Runner",
     "Overview": "A scrolling shoot 'em up / platformer hybrid. Change colours to match the oncoming enemies or shoot them to survive. Fight relentless bosses in Arcade mode.\n\nFeatures 4 game modes and 5 difficulties.",
     "Publisher": "Progpixel Games",

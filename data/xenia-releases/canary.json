@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "7a7b089",
+    "target_commitish": "7a7b0899342fa61c27ca50402a832e55b0cf9447",
+    "published_at": "2026-11-10T22:20:57Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7a7b089",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7a7b0899342fa61c27ca50402a832e55b0cf9447",
+    "changelog": {
+      "title": "7a7b089_canary_experimental",
+      "changes": "- [XAM] Hide the input that closed a dialog from the game (`7a7b089`)\n- [XAM] Create dialogs on the UI thread with their close callback (`c1aaf7e`)\n- [UI] Redesign the message box and keyboard dialogs (`3c53207`)\n- [UI] Draw a placeholder for titles without an icon (`6e5cf3e`)\n- [UI] Show the gamercard tooltips on disabled buttons (`a0e4af3`)\n- [UI] Scroll the profile list when it doesn't fit the window (`684c6e6`)\n- [UI] Redesign the audio player dialog (`8f5033b`)\n- [UI] Show package filenames on their own row in the content list (`e6f5b82`)\n- [UI] Upload only changed Dear ImGui texture rectangles (`91ecbb7`)\n- [UI] Round notification font sizes, accept UTF-16 surrogate pairs and stop texture retries (`6e008f3`)\n- [UI] Clean up Dear ImGui font loading and text measuring (`dfd5e1c`)\n- [UI] Use Dear ImGui's built-in font as the fallback (`9450ded`)\n- [UI] Fix the gamercard layout with wider fonts (`55ee763`)\n- [UI] Default to the system monospace font on Linux (`a7e4084`)\n- [GPU] Use ImGuiListClipper and SetScrollHereY in trace viewer (`f3f627d`)\n- [UI] Align console settings rows and fix group box spacing (`1f50c1d`)\n- [3PP] Uplift ImGUI to 1.93.0 (`06fb03b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/cf206a3...7a7b089"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7a7b089/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7a7b089/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "cf206a3",
     "target_commitish": "cf206a3bdc4ffdfb22dbcfda99f777ab8d286f1d",
     "published_at": "2026-11-09T00:16:59Z",
