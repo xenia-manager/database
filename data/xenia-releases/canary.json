@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "4f04bc7",
+    "target_commitish": "4f04bc7cc76b89bfcf7327b597d9770eaaddf935",
+    "published_at": "2026-11-12T19:53:35Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4f04bc7",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/4f04bc7cc76b89bfcf7327b597d9770eaaddf935",
+    "changelog": {
+      "title": "4f04bc7_canary_experimental",
+      "changes": "- [UI] Redesign the guest crash dialog (`4f04bc7`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/11bea29...4f04bc7"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4f04bc7/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4f04bc7/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "11bea29",
     "target_commitish": "11bea29fd0a1894c4a806e2ce245780e20099005",
     "published_at": "2026-11-12T03:13:03Z",
