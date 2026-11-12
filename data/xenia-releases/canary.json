@@ -1,5 +1,131 @@
 [
   {
+    "tag_name": "11bea29",
+    "target_commitish": "11bea29fd0a1894c4a806e2ce245780e20099005",
+    "published_at": "2026-11-12T03:13:03Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/11bea29",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/11bea29fd0a1894c4a806e2ce245780e20099005",
+    "changelog": {
+      "title": "11bea29_canary_experimental",
+      "changes": "- [Base] Truncate log messages that exceed the thread buffer (`11bea29`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7ba7acd...11bea29"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/11bea29/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/11bea29/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7ba7acd",
+    "target_commitish": "7ba7acdbd51704bc24d3a7d32f98d4c45f4aec1e",
+    "published_at": "2026-11-12T02:34:22Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7ba7acd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7ba7acdbd51704bc24d3a7d32f98d4c45f4aec1e",
+    "changelog": {
+      "title": "7ba7acd_canary_experimental",
+      "changes": "- [3PP] Uplift SDL2 to SDL3 (`7ba7acd`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1b8e743...7ba7acd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ba7acd/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ba7acd/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "1b8e743",
+    "target_commitish": "1b8e743b099ebef92dd35fabfe268623ace0b0b1",
+    "published_at": "2026-11-12T02:12:54Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1b8e743",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1b8e743b099ebef92dd35fabfe268623ace0b0b1",
+    "changelog": {
+      "title": "1b8e743_canary_experimental",
+      "changes": "- [APU] Remove the ALSA audio system (`1b8e743`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/07839d4...1b8e743"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1b8e743/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1b8e743/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "07839d4",
+    "target_commitish": "07839d4aa72b289893ebf54c9798dc74aa49fbdb",
+    "published_at": "2026-11-12T00:56:10Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/07839d4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/07839d4aa72b289893ebf54c9798dc74aa49fbdb",
+    "changelog": {
+      "title": "07839d4_canary_experimental",
+      "changes": "- [UI] Move the reset window size item to the Display menu (`07839d4`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e3de5e1...07839d4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/07839d4/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/07839d4/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "e3de5e1",
+    "target_commitish": "e3de5e1feeb42fcddf93de5c3b6d73e19c6a938c",
+    "published_at": "2026-11-12T00:19:46Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e3de5e1",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e3de5e1feeb42fcddf93de5c3b6d73e19c6a938c",
+    "changelog": {
+      "title": "e3de5e1_canary_experimental",
+      "changes": "- [UI] Add a HID menu item that resets the window size (`e3de5e1`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/37e830e...e3de5e1"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e3de5e1/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e3de5e1/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "37e830e",
+    "target_commitish": "37e830e9004faf8551092f472ec1a52634f45415",
+    "published_at": "2026-11-11T23:42:38Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/37e830e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/37e830e9004faf8551092f472ec1a52634f45415",
+    "changelog": {
+      "title": "37e830e_canary_experimental",
+      "changes": "- [Build] Skip redundant work in xb setup and devenv (`37e830e`)\n- [UI] Restyle the gamercard and console settings footer buttons (`0e8e517`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/58df556...37e830e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/37e830e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/37e830e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "58df556",
     "target_commitish": "58df556029109fddb0c28ede7247569e6b84d18d",
     "published_at": "2026-11-11T17:20:58Z",
