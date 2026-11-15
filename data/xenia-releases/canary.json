@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "502e573",
+    "target_commitish": "502e573e00d8dfba121454acde05fa0a828fc020",
+    "published_at": "2026-11-15T14:29:42Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/502e573",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/502e573e00d8dfba121454acde05fa0a828fc020",
+    "changelog": {
+      "title": "502e573_canary_experimental",
+      "changes": "- [VFS] Open a device's root by its mount path (`502e573`)\n- [VFS] Create new files under the resolved parent entry (`a02fdf5`)\n- [VFS] Resolve paths to the device with the longest mount path (`2843ba4`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8e168eb...502e573"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/502e573/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/502e573/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "8e168eb",
     "target_commitish": "8e168eb15a31166ffa7ce1a83014ca826cd04fbd",
     "published_at": "2026-11-15T00:48:33Z",
