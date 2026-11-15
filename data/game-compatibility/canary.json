@@ -2,11 +2,13 @@
   {
     "issue": 1262,
     "id": "415608DB",
-    "title": "Cabelas Dangerous Hunts 2013",
-    "updated": "2026-11-15T13:22:53Z",
-    "state": "Unknown",
+    "title": "Cabela's Dangerous Hunts 2013",
+    "updated": "2026-11-15T20:30:07Z",
+    "state": "Playable",
     "labels": {
-      "state": [],
+      "state": [
+        "state-playable"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1262"
@@ -15,10 +17,12 @@
     "issue": 1261,
     "id": "4D538837",
     "title": "Xbox Live Arcade Compilation Disc",
-    "updated": "2026-11-15T12:56:49Z",
-    "state": "Unknown",
+    "updated": "2026-11-15T20:29:19Z",
+    "state": "Loads",
     "labels": {
-      "state": [],
+      "state": [
+        "state-menus"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1261"
@@ -27,10 +31,12 @@
     "issue": 1260,
     "id": "4D5388DC",
     "title": "Xbox Live Arcade Game Pack (November 3, 2009)",
-    "updated": "2026-11-15T12:48:22Z",
-    "state": "Unknown",
+    "updated": "2026-11-15T20:28:39Z",
+    "state": "Loads",
     "labels": {
-      "state": [],
+      "state": [
+        "state-menus"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1260"
@@ -39,10 +45,12 @@
     "issue": 1259,
     "id": "4D5387FC",
     "title": "Xbox Live Arcade Unplugged Volume 1 (September 5, 2006)",
-    "updated": "2026-11-15T12:39:30Z",
-    "state": "Unknown",
+    "updated": "2026-11-15T20:27:55Z",
+    "state": "Unplayable",
     "labels": {
-      "state": [],
+      "state": [
+        "state-nothing"
+      ],
       "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1259"

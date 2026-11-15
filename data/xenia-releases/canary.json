@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "9eedf60",
+    "target_commitish": "9eedf606f0c94749e17a370e683021445caedf26",
+    "published_at": "2026-11-15T15:36:01Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9eedf60",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9eedf606f0c94749e17a370e683021445caedf26",
+    "changelog": {
+      "title": "9eedf60_canary_experimental",
+      "changes": "- [XAM] Remove a deleted package's header (`9eedf60`)\n- [VFS] Report no attributes for a plain host file (`1801b80`)\n- [Kernel] Return page flags as the old protection from NtProtectVirtualMemory (`1b4acfe`)\n- [Kernel] Accept \\??\\ and \\System??\\ names in the file and symbolic link calls (`dc56769`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/502e573...9eedf60"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9eedf60/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9eedf60/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "502e573",
     "target_commitish": "502e573e00d8dfba121454acde05fa0a828fc020",
     "published_at": "2026-11-15T14:29:42Z",
