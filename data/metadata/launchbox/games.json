@@ -7859,32 +7859,34 @@
         ],
         "Back": [
           {
-            "CRC32": "1257561609",
-            "FileName": "f9a21718-7676-4489-a806-dcd6c2be4f70.jpg",
-            "Type": "Box - Back",
-            "URL": "http://images.launchbox-app.com/f9a21718-7676-4489-a806-dcd6c2be4f70.jpg"
-          },
-          {
             "CRC32": "2089516085",
             "FileName": "r2_dadf818e-fc21-4880-a497-d307792f3e70.jpg",
-            "Region": "United Kingdom",
+            "Region": "Europe",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_dadf818e-fc21-4880-a497-d307792f3e70.jpg"
+          },
+          {
+            "CRC32": "1257561609",
+            "FileName": "f9a21718-7676-4489-a806-dcd6c2be4f70.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/f9a21718-7676-4489-a806-dcd6c2be4f70.jpg"
           }
         ],
         "Front": [
-          {
-            "CRC32": "908705133",
-            "FileName": "2e27abb3-5cdc-4899-b65f-67f15b5719cb.jpg",
-            "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/2e27abb3-5cdc-4899-b65f-67f15b5719cb.jpg"
-          },
           {
             "CRC32": "4220774761",
             "FileName": "r2_880cc792-3158-4f1a-9861-09db612e59cd.jpg",
             "Region": "Germany",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_880cc792-3158-4f1a-9861-09db612e59cd.jpg"
+          },
+          {
+            "CRC32": "908705133",
+            "FileName": "2e27abb3-5cdc-4899-b65f-67f15b5719cb.jpg",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/2e27abb3-5cdc-4899-b65f-67f15b5719cb.jpg"
           },
           {
             "CRC32": "33435749",
@@ -7917,6 +7919,7 @@
         {
           "CRC32": "2609122300",
           "FileName": "ddf1f837-3d2a-43a0-bcbc-6f653bef7650.png",
+          "Region": "World",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/ddf1f837-3d2a-43a0-bcbc-6f653bef7650.png"
         },
@@ -7946,12 +7949,14 @@
         {
           "CRC32": "3059072853",
           "FileName": "a1402365-ed80-4859-acd2-b0c15eb361cc.jpg",
+          "Region": "World",
           "Type": "Screenshot - Game Title",
           "URL": "http://images.launchbox-app.com/a1402365-ed80-4859-acd2-b0c15eb361cc.jpg"
         },
         {
           "CRC32": "4053900243",
           "FileName": "f12f0284-72fc-4592-b72e-532d090bb8a1.jpg",
+          "Region": "World",
           "Type": "Screenshot - Gameplay",
           "URL": "http://images.launchbox-app.com/f12f0284-72fc-4592-b72e-532d090bb8a1.jpg"
         },
@@ -25613,7 +25618,7 @@
         }
       ]
     },
-    "CommunityRating": "4.22727272727273",
+    "CommunityRating": "4.26086956521739",
     "DatabaseID": "7564",
     "Developer": "Bizarre Creations",
     "ESRB": "E10+ - Everyone 10+",
@@ -34040,7 +34045,7 @@
         }
       ]
     },
-    "CommunityRating": "3.78571428571429",
+    "CommunityRating": "3.86666666666667",
     "DatabaseID": "8167",
     "Developer": "LucasArts",
     "ESRB": "T - Teen",
@@ -38399,7 +38404,7 @@
         }
       ]
     },
-    "CommunityRating": "3.27272727272727",
+    "CommunityRating": "3.16666666666667",
     "DatabaseID": "8861",
     "Developer": "Spike",
     "ESRB": "T - Teen",
@@ -39017,7 +39022,7 @@
         }
       ]
     },
-    "CommunityRating": "4.32432432432432",
+    "CommunityRating": "4.32894736842105",
     "DatabaseID": "8864",
     "Developer": "Turn 10 Studios",
     "ESRB": "E - Everyone",
@@ -46151,7 +46156,7 @@
         }
       ]
     },
-    "CommunityRating": "3.61111111111111",
+    "CommunityRating": "3.6",
     "DatabaseID": "10608",
     "Developer": "Spike",
     "ESRB": "T - Teen",
@@ -163511,7 +163516,7 @@
         }
       ]
     },
-    "CommunityRating": "3.61111111111111",
+    "CommunityRating": "3.57894736842105",
     "DatabaseID": "34855",
     "Developer": "ArtDink",
     "ESRB": "T - Teen",

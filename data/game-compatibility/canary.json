@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1257,
+    "id": "58410A06",
+    "title": "After Burner Climax",
+    "updated": "2026-11-15T01:01:46Z",
+    "state": "Playable",
+    "labels": {
+      "state": [
+        "state-playable"
+      ],
+      "others": [
+        "vsync-off-speedup"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1257"
+  },
+  {
     "issue": 1256,
     "id": "58410A9A",
     "title": "Rock of Ages",
@@ -4004,15 +4020,14 @@
     "issue": 959,
     "id": "58410AC2",
     "title": "SEGA Rally Online Arcade",
-    "updated": "2026-08-13T15:10:10Z",
+    "updated": "2026-11-14T23:51:38Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "kernel-unimplemented-feature",
-        "gpu-slow"
+        "kernel-unimplemented-feature"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/959"
@@ -11413,15 +11428,13 @@
     "issue": 472,
     "id": "584107D1",
     "title": "Hexic HD",
-    "updated": "2025-10-09T11:02:21Z",
+    "updated": "2026-11-15T00:19:32Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "apu-silent",
-        "apu-garbage",
         "vsync-off-speedup",
         "supports-1080p"
       ]
@@ -16099,14 +16112,13 @@
     "issue": 191,
     "id": "58410968",
     "title": "OutRun Online Arcade",
-    "updated": "2026-07-19T00:03:21Z",
-    "state": "Gameplay",
+    "updated": "2026-11-15T00:08:00Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
-        "apu-garbage",
         "marketplace-delisted"
       ]
     },

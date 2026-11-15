@@ -1,5 +1,110 @@
 [
   {
+    "tag_name": "8e168eb",
+    "target_commitish": "8e168eb15a31166ffa7ce1a83014ca826cd04fbd",
+    "published_at": "2026-11-15T00:48:33Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8e168eb",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8e168eb15a31166ffa7ce1a83014ca826cd04fbd",
+    "changelog": {
+      "title": "8e168eb_canary_experimental",
+      "changes": "- [Kernel] Export XboxKrnlBaseVersion as 2.0.1888.0 (`8e168eb`)\n- [Kernel] Export UsbdDriverLoadRequiredEvent and StfsDeviceErrorEvent (`cd9c57f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6d00e01...8e168eb"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8e168eb/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8e168eb/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "6d00e01",
+    "target_commitish": "6d00e0152995144da05b1e292b2322ef5b38309f",
+    "published_at": "2026-11-15T00:19:05Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6d00e01",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6d00e0152995144da05b1e292b2322ef5b38309f",
+    "changelog": {
+      "title": "6d00e01_canary_experimental",
+      "changes": "- [Kernel] Refuse a spin lock this processor holds in KeTryToAcquireSpinLockAtRaisedIrql without asserting (`6d00e01`)\n- [Kernel] Keep a KAPC's type big-endian (`b666d9c`)\n- [Kernel] Keep the KTHREAD's APC disable count big-endian (`8023413`)\n- [Kernel] Return the previous state from NtSetEvent and KeResetEvent (`d3db6fe`)\n- [Kernel] Clear a semaphore before KeInitializeSemaphore binds it (`ad907a7`)\n- [Kernel] Leave the count alone when NtReleaseSemaphore exceeds the limit (`61bd30d`)\n- [Kernel] Wake a waiting writer when an exclusive read/write lock is released (`e1d024b`)\n- [Kernel] Wait until an absolute time in KeDelayExecutionThread (`3918169`)\n- [Kernel] Refuse timer types past SynchronizationTimer in NtCreateTimer (`b11b975`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f8e4e6b...6d00e01"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6d00e01/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6d00e01/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "f8e4e6b",
+    "target_commitish": "f8e4e6bb5e6f87d75b399d138355594f1e57941a",
+    "published_at": "2026-11-14T23:40:09Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f8e4e6b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f8e4e6bb5e6f87d75b399d138355594f1e57941a",
+    "changelog": {
+      "title": "f8e4e6b_canary_experimental",
+      "changes": "- [Base] Re-arm periodic Windows timers from their previous due time (`f8e4e6b`)\n- [Kernel] Queue timer APCs from the dispatch thread off Windows (`0c6fb0f`)\n- [Base] Keep the high-resolution timer request in effect on Windows 11 (`c5798e9`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d44b582...f8e4e6b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f8e4e6b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f8e4e6b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "d44b582",
+    "target_commitish": "d44b582f04bda38c11a762d84e9891dfe2047f4d",
+    "published_at": "2026-11-14T23:07:25Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d44b582",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d44b582f04bda38c11a762d84e9891dfe2047f4d",
+    "changelog": {
+      "title": "d44b582_canary_experimental",
+      "changes": "- [APU] Play the XMA loop end frame before jumping to the loop start (`d44b582`)\n- [APU] Recreate the XMA decoder when a context is cleared (`f4e27c9`)\n- [APU] Store the XMA work buffer in XMAInitializeContext (`b6d392d`)\n- [APU] Move the XMA loop subframe end to DWORD 1 bits 12-13 (`b2a173e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/3b192f8...d44b582"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d44b582/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d44b582/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "3b192f8",
+    "target_commitish": "3b192f8d47cb53472a33a8eca183a370091b35db",
+    "published_at": "2026-11-14T22:40:40Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/3b192f8",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/3b192f8d47cb53472a33a8eca183a370091b35db",
+    "changelog": {
+      "title": "3b192f8_canary_experimental",
+      "changes": "- [x64] Branch on the flags of a compare across markers (`3b192f8`)\n- [x64] Break the false dependencies in scalar conversions (`a52f517`)\n- [x64] Drop the fences around lwarx and stwcx. (`c110e29`)\n- [x64] Keep the constant byte vector_shl off xmm4 (`66eb368`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4f04bc7...3b192f8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3b192f8/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/3b192f8/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "4f04bc7",
     "target_commitish": "4f04bc7cc76b89bfcf7327b597d9770eaaddf935",
     "published_at": "2026-11-12T19:53:35Z",
