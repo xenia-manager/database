@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "28bc50d",
+    "target_commitish": "28bc50db0923e5fe2a7770e1be80da5fb7b78605",
+    "published_at": "2026-11-16T01:35:22Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/28bc50d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/28bc50db0923e5fe2a7770e1be80da5fb7b78605",
+    "changelog": {
+      "title": "28bc50d_canary_experimental",
+      "changes": "- [x64] Hold the reservation granule while stwcx. stores (`28bc50d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c170582...28bc50d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/28bc50d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/28bc50d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "c170582",
+    "target_commitish": "c170582f1fd619a321dd8b5af0fbd17375f639c6",
+    "published_at": "2026-11-16T00:11:45Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c170582",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c170582f1fd619a321dd8b5af0fbd17375f639c6",
+    "changelog": {
+      "title": "c170582_canary_experimental",
+      "changes": "- [XAM] Mount a root name passed to XamContentResolve (`c170582`)\n- [XAM] Back resolved HDD content paths with the content root (`e141a0f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2072069...c170582"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c170582/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c170582/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "2072069",
+    "target_commitish": "207206948a6538e8e163e6c26546e19a42bd3147",
+    "published_at": "2026-11-15T23:00:26Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2072069",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/207206948a6538e8e163e6c26546e19a42bd3147",
+    "changelog": {
+      "title": "2072069_canary_experimental",
+      "changes": "- [Kernel] Implement the LDI LZX decompression exports (`2072069`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9eedf60...2072069"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2072069/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2072069/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "9eedf60",
     "target_commitish": "9eedf606f0c94749e17a370e683021445caedf26",
     "published_at": "2026-11-15T15:36:01Z",

@@ -1,5 +1,19 @@
 [
   {
+    "issue": 1263,
+    "id": "555308C5",
+    "title": "South Park\u2122: The Stick of Truth",
+    "updated": "2026-11-15T23:50:27Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1263"
+  },
+  {
     "issue": 1262,
     "id": "415608DB",
     "title": "Cabela's Dangerous Hunts 2013",
@@ -45,7 +59,7 @@
     "issue": 1259,
     "id": "4D5387FC",
     "title": "Xbox Live Arcade Unplugged Volume 1 (September 5, 2006)",
-    "updated": "2026-11-15T20:27:55Z",
+    "updated": "2026-11-15T20:57:37Z",
     "state": "Unplayable",
     "labels": {
       "state": [
@@ -449,7 +463,7 @@
     "issue": 1231,
     "id": "415608C5",
     "title": "Family Guy Back To The Multiverse",
-    "updated": "2026-09-26T00:35:18Z",
+    "updated": "2026-11-16T00:25:10Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5741,14 +5755,15 @@
     "issue": 852,
     "id": "454189C7",
     "title": "Battlefield 4",
-    "updated": "2026-11-13T23:12:25Z",
-    "state": "Loads",
+    "updated": "2026-11-16T01:11:03Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-intro"
+        "state-gameplay"
       ],
       "others": [
         "tech-engine-frostbite",
+        "gpu-readback",
         "requires_hdd_install"
       ]
     },
@@ -5758,11 +5773,11 @@
     "issue": 851,
     "id": "45410950",
     "title": "Battlefield 3",
-    "updated": "2026-08-25T13:27:18Z",
-    "state": "Loads",
+    "updated": "2026-11-16T01:11:27Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-intro"
+        "state-gameplay"
       ],
       "others": [
         "tech-engine-frostbite"
@@ -10106,14 +10121,15 @@
     "issue": 561,
     "id": "454109C6",
     "title": "Need For Speed Rivals",
-    "updated": "2026-11-15T06:18:40Z",
-    "state": "Loads",
+    "updated": "2026-11-16T00:25:07Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
         "tech-engine-frostbite",
+        "gpu-readback",
         "requires_hdd_install"
       ]
     },
@@ -16267,15 +16283,13 @@
     "issue": 180,
     "id": "534507E6",
     "title": "SEGA Rally (SEGA Rally Revo)",
-    "updated": "2026-07-27T20:24:17Z",
+    "updated": "2026-11-15T21:37:52Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
-      "others": [
-        "gpu-slow"
-      ]
+      "others": []
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/180"
   },
@@ -17219,7 +17233,7 @@
     "issue": 116,
     "id": "4541094A",
     "title": "Need For Speed The Run",
-    "updated": "2026-10-27T21:46:22Z",
+    "updated": "2026-11-15T23:59:51Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -17228,7 +17242,8 @@
       "others": [
         "xam-live-signin-required",
         "tech-engine-frostbite",
-        "marketplace-nodownload"
+        "marketplace-nodownload",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/116"
@@ -17305,11 +17320,11 @@
     "issue": 108,
     "id": "5841098D",
     "title": "Full House Poker",
-    "updated": "2026-09-20T00:33:48Z",
-    "state": "Loads",
+    "updated": "2026-11-15T22:38:18Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
       "others": [
         "backwards-compatibility-unsupported",
