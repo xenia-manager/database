@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "c7739b2",
+    "target_commitish": "c7739b2ec8e636338fb695cee63d76201a7cdcbf",
+    "published_at": "2026-11-16T20:11:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c7739b2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c7739b2ec8e636338fb695cee63d76201a7cdcbf",
+    "changelog": {
+      "title": "c7739b2_canary_experimental",
+      "changes": "- [Kernel] Report short buffers from NtQuerySymbolicLinkObject (`c7739b2`)\n- [Kernel] Return the missing part's status from NtQueryFullAttributesFile (`0a96434`)\n- [Base] Let a file open on Windows be renamed or deleted (`acc77cb`)\n- [Kernel] Report current file sizes from the file query calls (`c5004be`)\n- [Kernel] Report read-only pages with PAGE_USER_READONLY (`9775b84`)\n- [Kernel] Size reservations without a base in pages (`4a7e3ce`)\n- [Kernel] Return the top of the whole stack from MmCreateKernelStack (`36bc44a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/11689d2...c7739b2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c7739b2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c7739b2/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "11689d2",
+    "target_commitish": "11689d217261e8e1b2db5f6e9cd1faf194c00298",
+    "published_at": "2026-11-16T19:34:16Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/11689d2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/11689d217261e8e1b2db5f6e9cd1faf194c00298",
+    "changelog": {
+      "title": "11689d2_canary_experimental",
+      "changes": "- [CPU] Release a stwcx. granule claim when its store faults (`11689d2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/28bc50d...11689d2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/11689d2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/11689d2/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "28bc50d",
     "target_commitish": "28bc50db0923e5fe2a7770e1be80da5fb7b78605",
     "published_at": "2026-11-16T01:35:22Z",

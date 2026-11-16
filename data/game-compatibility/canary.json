@@ -1,19 +1,17 @@
 [
   {
-    "issue": 1264,
-    "id": "58410AE9",
-    "title": "Happy Wars",
-    "updated": "2026-11-16T17:21:59Z",
-    "state": "Loads",
+    "issue": 1265,
+    "id": "425607D1",
+    "title": "Disney Pirates of the Caribbean: At World's End",
+    "updated": "2026-11-16T20:47:14Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-menus"
+        "state-gameplay"
       ],
-      "others": [
-        "xam-live-signin-required"
-      ]
+      "others": []
     },
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/1264"
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1265"
   },
   {
     "issue": 1263,
@@ -2857,16 +2855,18 @@
     "issue": 1054,
     "id": "45410961",
     "title": "Need For Speed Most Wanted (2012)",
-    "updated": "2026-09-06T21:40:01Z",
+    "updated": "2026-11-16T22:21:48Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
+        "gpu-drawing-corrupt",
+        "requires_force_depth_clamp",
         "tech-kinect-optional",
         "gpu-readback",
-        "crash-always"
+        "gpu-driver-issues-amd"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1054"
@@ -11278,7 +11278,7 @@
     "issue": 492,
     "id": "544307D5",
     "title": "NINJA GAIDEN II",
-    "updated": "2026-10-30T21:08:26Z",
+    "updated": "2026-11-16T19:14:35Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -16203,7 +16203,7 @@
     "issue": 191,
     "id": "58410968",
     "title": "OutRun Online Arcade",
-    "updated": "2026-11-16T17:55:45Z",
+    "updated": "2026-11-16T18:12:25Z",
     "state": "Playable",
     "labels": {
       "state": [
