@@ -1,5 +1,21 @@
 [
   {
+    "issue": 1264,
+    "id": "58410AE9",
+    "title": "Happy Wars",
+    "updated": "2026-11-16T17:21:59Z",
+    "state": "Loads",
+    "labels": {
+      "state": [
+        "state-menus"
+      ],
+      "others": [
+        "xam-live-signin-required"
+      ]
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1264"
+  },
+  {
     "issue": 1263,
     "id": "555308C5",
     "title": "South Park\u2122: The Stick of Truth",
@@ -5755,7 +5771,7 @@
     "issue": 852,
     "id": "454189C7",
     "title": "Battlefield 4",
-    "updated": "2026-11-16T01:11:03Z",
+    "updated": "2026-11-16T17:51:27Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -5773,14 +5789,15 @@
     "issue": 851,
     "id": "45410950",
     "title": "Battlefield 3",
-    "updated": "2026-11-16T01:11:27Z",
+    "updated": "2026-11-16T17:15:04Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "tech-engine-frostbite"
+        "tech-engine-frostbite",
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/851"
@@ -5961,7 +5978,7 @@
     "issue": 840,
     "id": "454109AB",
     "title": "Army of Two: The Devil's Cartel",
-    "updated": "2026-08-01T10:28:52Z",
+    "updated": "2026-11-16T15:50:55Z",
     "state": "Loads",
     "labels": {
       "state": [
@@ -15170,15 +15187,17 @@
     "issue": 257,
     "id": "454109E0",
     "title": "Battlefield Hardline",
-    "updated": "2026-05-17T23:57:40Z",
-    "state": "Loads",
+    "updated": "2026-11-16T17:04:51Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-title"
+        "state-gameplay"
       ],
       "others": [
         "kernel-unimplemented-feature",
+        "gpu-drawing-corrupt",
         "tech-engine-frostbite",
+        "gpu-readback",
         "kernel-xex-switching",
         "backwards-compatibility-unsupported",
         "requires_hdd_install",
@@ -16184,7 +16203,7 @@
     "issue": 191,
     "id": "58410968",
     "title": "OutRun Online Arcade",
-    "updated": "2026-11-15T00:08:00Z",
+    "updated": "2026-11-16T17:55:45Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17320,7 +17339,7 @@
     "issue": 108,
     "id": "5841098D",
     "title": "Full House Poker",
-    "updated": "2026-11-15T22:38:18Z",
+    "updated": "2026-11-16T14:11:13Z",
     "state": "Gameplay",
     "labels": {
       "state": [
