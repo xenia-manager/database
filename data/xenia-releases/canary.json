@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "f9431eb",
+    "target_commitish": "f9431eb953f850e4d566773da0295413a0f8ac03",
+    "published_at": "2026-11-17T02:06:20Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f9431eb",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f9431eb953f850e4d566773da0295413a0f8ac03",
+    "changelog": {
+      "title": "f9431eb_canary_experimental",
+      "changes": "- [GPU] Wait for async pipelines on draws that may not be redone (`f9431eb`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5d8f3ec...f9431eb"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f9431eb/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f9431eb/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "5d8f3ec",
+    "target_commitish": "5d8f3ec9a4f6503797eca49c2d558001a3df297a",
+    "published_at": "2026-11-17T01:37:40Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5d8f3ec",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/5d8f3ec9a4f6503797eca49c2d558001a3df297a",
+    "changelog": {
+      "title": "5d8f3ec_canary_experimental",
+      "changes": "- [VFS] Refuse to delete a folder that isn't empty (`5d8f3ec`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d0d85d4...5d8f3ec"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5d8f3ec/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5d8f3ec/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "d0d85d4",
+    "target_commitish": "d0d85d446108d2f9e77bd6b7cb014a119913c52a",
+    "published_at": "2026-11-17T00:45:25Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d0d85d4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d0d85d446108d2f9e77bd6b7cb014a119913c52a",
+    "changelog": {
+      "title": "d0d85d4_canary_experimental",
+      "changes": "- [VFS] Keep entries alive while files are open on them (`d0d85d4`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c7739b2...d0d85d4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d0d85d4/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d0d85d4/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "c7739b2",
     "target_commitish": "c7739b2ec8e636338fb695cee63d76201a7cdcbf",
     "published_at": "2026-11-16T20:11:59Z",
