@@ -1,5 +1,33 @@
 [
   {
+    "issue": 1267,
+    "id": "4B4E07E7",
+    "title": "Dance Dance Revolution Universe 2",
+    "updated": "2026-11-17T10:57:05Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1267"
+  },
+  {
+    "issue": 1266,
+    "id": "4B4E07DC",
+    "title": "Dance Dance Revolution Universe",
+    "updated": "2026-11-17T10:56:58Z",
+    "state": "Gameplay",
+    "labels": {
+      "state": [
+        "state-gameplay"
+      ],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1266"
+  },
+  {
     "issue": 1265,
     "id": "425607D1",
     "title": "Disney Pirates of the Caribbean: At World's End",
@@ -2811,7 +2839,7 @@
     "issue": 1058,
     "id": "4B5607E8",
     "title": "Dead or Alive 5 Ultimate",
-    "updated": "2026-05-21T01:42:39Z",
+    "updated": "2026-11-17T16:35:52Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -4060,7 +4088,7 @@
     "issue": 962,
     "id": "555307D4",
     "title": "Assassin's Creed",
-    "updated": "2026-11-17T01:06:20Z",
+    "updated": "2026-11-17T16:57:54Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -5978,14 +6006,17 @@
     "issue": 840,
     "id": "454109AB",
     "title": "Army of Two: The Devil's Cartel",
-    "updated": "2026-11-16T15:50:55Z",
-    "state": "Loads",
+    "updated": "2026-11-17T16:54:37Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-intro"
+        "state-gameplay"
       ],
       "others": [
-        "tech-engine-frostbite"
+        "tech-engine-frostbite",
+        "gpu-readback",
+        "splitscreen-working",
+        "requires_render_target_rov_fsi"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/840"
@@ -12975,11 +13006,11 @@
     "issue": 387,
     "id": "54510842",
     "title": "Metro 2033",
-    "updated": "2026-11-11T19:07:43Z",
-    "state": "Gameplay",
+    "updated": "2026-11-17T16:36:54Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
         "tech-engine-4a",
