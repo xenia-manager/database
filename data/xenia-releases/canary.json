@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "27d11a2",
+    "target_commitish": "27d11a29a5f6e32c97d92924b17a13864d1ec238",
+    "published_at": "2026-11-17T18:10:55Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/27d11a2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/27d11a29a5f6e32c97d92924b17a13864d1ec238",
+    "changelog": {
+      "title": "27d11a2_canary_experimental",
+      "changes": "- [Kernel] Keep critical section lock counts big-endian (`27d11a2`)\n- [Base] Keep a wait's due time when Windows restarts it (`b1fa39d`)\n- [Kernel] Stop suspending a thread at a count of 127 (`ca46f6f`)\n- [Kernel] Return KeResumeThread's previous suspend count (`4b544a5`)\n- [Kernel] Convert times from 1601 without the host system clock (`5d1784c`)\n- [Kernel] Set the length when RtlUnicodeStringToAnsiString fills a buffer (`24c339d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f9431eb...27d11a2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/27d11a2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/27d11a2/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "f9431eb",
     "target_commitish": "f9431eb953f850e4d566773da0295413a0f8ac03",
     "published_at": "2026-11-17T02:06:20Z",

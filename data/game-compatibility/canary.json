@@ -2839,13 +2839,15 @@
     "issue": 1058,
     "id": "4B5607E8",
     "title": "Dead or Alive 5 Ultimate",
-    "updated": "2026-11-17T16:35:52Z",
+    "updated": "2026-11-17T22:20:57Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
-      "others": []
+      "others": [
+        "regression"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1058"
   },
