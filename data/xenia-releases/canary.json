@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "79aee12",
+    "target_commitish": "79aee12b4ec2a41a67ab6da095f8b42dd66ccebe",
+    "published_at": "2026-11-18T18:40:07Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/79aee12",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/79aee12b4ec2a41a67ab6da095f8b42dd66ccebe",
+    "changelog": {
+      "title": "79aee12_canary_experimental",
+      "changes": "- [Base] Count the interrupt time in 100 ns units on POSIX (`79aee12`)\n- [Kernel] Fire a timer due at a time that has passed at once (`3cd22b4`)\n- [Kernel] Refuse FileBasicInformation queries without asserting (`d803aa9`)\n- [Kernel] Keep the attributes and times FileBasicInformation sets (`e70915a`)\n- [Kernel] Keep an object's name while it has a handle open (`57346ba`)\n- [Kernel] Report no protection for reserved pages and page-aligned bases (`a078f54`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/27d11a2...79aee12"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/79aee12/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/79aee12/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "27d11a2",
     "target_commitish": "27d11a29a5f6e32c97d92924b17a13864d1ec238",
     "published_at": "2026-11-17T18:10:55Z",
