@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "54386cb",
+    "target_commitish": "54386cbbd36b1e5b9e3c8ea8616f4c7c8f0c56b6",
+    "published_at": "2026-11-19T20:05:38Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/54386cb",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/54386cbbd36b1e5b9e3c8ea8616f4c7c8f0c56b6",
+    "changelog": {
+      "title": "54386cb_canary_experimental",
+      "changes": "- [Kernel] Place TLS slots below the TLS pointer (`54386cb`)\n- [Kernel] Fill in a KTHREAD's state and exit fields (`e1f43b1`)\n- [XAM] Return the wait status from WaitForSingleObjectEx (`2fb4247`)\n- [Kernel] Keep NtRemoveIoCompletion's full timeout (`48d364e`)\n- [Kernel] Suspend the host thread once per guest suspension off Windows (`e5e9c24`)\n- [Kernel] Satisfy alertable waits on signalled objects before APCs (`5404f19`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/79aee12...54386cb"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/54386cb/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/54386cb/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "79aee12",
     "target_commitish": "79aee12b4ec2a41a67ab6da095f8b42dd66ccebe",
     "published_at": "2026-11-18T18:40:07Z",
