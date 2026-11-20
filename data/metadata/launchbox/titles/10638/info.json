@@ -1,13 +1,22 @@
 {
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "2124134678",
+        "FileName": "r2_4affdad6-5360-46b6-a45b-c7950d395ee3.jpg",
+        "Region": "North America",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_4affdad6-5360-46b6-a45b-c7950d395ee3.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
           "CRC32": "2135055735",
-          "FileName": "7e7fd40e-40b8-4377-93e3-7845b996bbcd.png",
+          "FileName": "r2_8a9d148a-194b-4f92-bad9-48b48f2b15d5.png",
           "Region": "North America",
           "Type": "Box - 3D",
-          "URL": "http://images.launchbox-app.com/7e7fd40e-40b8-4377-93e3-7845b996bbcd.png"
+          "URL": "http://images.launchbox-app.com/r2_8a9d148a-194b-4f92-bad9-48b48f2b15d5.png"
         }
       ],
       "Back": [
@@ -24,6 +33,13 @@
           "Region": "Germany",
           "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_79d268a0-4734-40b2-9362-291bbbd70c77.jpg"
+        },
+        {
+          "CRC32": "2232890669",
+          "FileName": "r2_d555b6ab-bd04-40c7-8225-61e6bcb92417.png",
+          "Region": "North America",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_d555b6ab-bd04-40c7-8225-61e6bcb92417.png"
         }
       ],
       "Front": [
@@ -50,10 +66,10 @@
         },
         {
           "CRC32": "862077573",
-          "FileName": "76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg",
+          "FileName": "r2_5b473b38-3683-4bc2-94c8-8531a2814520.png",
           "Region": "North America",
           "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg"
+          "URL": "http://images.launchbox-app.com/r2_5b473b38-3683-4bc2-94c8-8531a2814520.png"
         }
       ],
       "Spine": [
@@ -63,6 +79,13 @@
           "Region": "Germany",
           "Type": "Box - Spine",
           "URL": "http://images.launchbox-app.com/r2_26a1f601-b52a-4f9a-a4f7-379298c5ce6c.jpg"
+        },
+        {
+          "CRC32": "3366225253",
+          "FileName": "r2_d2ec0b20-f487-4d36-b273-aef8e7af128a.png",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_d2ec0b20-f487-4d36-b273-aef8e7af128a.png"
         }
       ]
     },
@@ -90,6 +113,43 @@
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_9059525b-437e-49f0-8942-971a2611e43e.png"
       }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "997438263",
+        "FileName": "r2_076b6094-16de-4139-a9b3-406d9c6a2c7a.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_076b6094-16de-4139-a9b3-406d9c6a2c7a.jpg"
+      },
+      {
+        "CRC32": "575275001",
+        "FileName": "r2_0af83920-f198-40fc-b174-49d2b6fb74d0.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_0af83920-f198-40fc-b174-49d2b6fb74d0.jpg"
+      },
+      {
+        "CRC32": "644072235",
+        "FileName": "r2_48575ca3-ad16-47ce-aaaf-c2bed6997c87.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_48575ca3-ad16-47ce-aaaf-c2bed6997c87.jpg"
+      },
+      {
+        "CRC32": "1166111925",
+        "FileName": "r2_618614bf-0634-45ce-9b4a-b006151f2a0c.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_618614bf-0634-45ce-9b4a-b006151f2a0c.jpg"
+      },
+      {
+        "CRC32": "584945569",
+        "FileName": "r2_8832d1d2-715e-4c3f-8272-478506ca2dd2.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_8832d1d2-715e-4c3f-8272-478506ca2dd2.jpg"
+      }
     ]
   },
   "CommunityRating": "3",
@@ -99,7 +159,7 @@
   "Genres": "Music",
   "Name": "Dance Central 2",
   "Overview": "The core gameplay in Dance Central 2 is mostly identical to the original Dance Central. Players perform given dance moves, which are tracked by the Kinect. The more accurately the player performs the move, the more points he/she scores. Higher difficulties increase move complexity, and the margin for error is reduced.\nFeatures new to Dance Central 2 include voice control, simultaneous two player gameplay in both cooperative and competitive modes with drop in/drop out functionality, an improved fitness mode, a more in-depth and customizable \"Break it Down\" mode, allowing the player to practice only specific moves in a routine, and a campaign mode featuring dance crews of various styles.",
-  "Publisher": "Harmonix Music Systems",
+  "Publisher": "Microsoft Studios",
   "ReleaseDate": "2011-10-25",
   "VideoURL": "https://www.youtube.com/watch?v=kuwB05ASh7E",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Dance_Central_2"

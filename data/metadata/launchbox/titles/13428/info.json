@@ -3,6 +3,13 @@
     "Box": {
       "3D": [
         {
+          "CRC32": "3492247120",
+          "FileName": "r2_a21f7613-312f-41ab-a258-6fdbdb8359a1.png",
+          "Region": "Europe",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_a21f7613-312f-41ab-a258-6fdbdb8359a1.png"
+        },
+        {
           "CRC32": "2597574672",
           "FileName": "3c2418ba-3ea0-4d6e-9350-238337fb4629.png",
           "Region": "North America",
@@ -12,6 +19,13 @@
       ],
       "Back": [
         {
+          "CRC32": "798453784",
+          "FileName": "r2_98f8906e-e333-40cd-ab1b-c0789940a8f1.png",
+          "Region": "Europe",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_98f8906e-e333-40cd-ab1b-c0789940a8f1.png"
+        },
+        {
           "CRC32": "1132106374",
           "FileName": "r2_3cc0a0d7-27a1-4c07-bec0-23dc0fc70fd7.jpg",
           "Region": "Germany",
@@ -20,6 +34,13 @@
         }
       ],
       "Front": [
+        {
+          "CRC32": "1025326377",
+          "FileName": "r2_48d17e16-b02d-4caa-b242-83fa23f5d53a.jpg",
+          "Region": "Europe",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_48d17e16-b02d-4caa-b242-83fa23f5d53a.jpg"
+        },
         {
           "CRC32": "3541527224",
           "FileName": "r2_d1fae469-144a-4fea-9d76-b1cf5034930a.jpg",
@@ -33,6 +54,15 @@
           "Region": "North America",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/5552614c-3840-46d9-ab02-6e87871f4363.png"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "32821059",
+          "FileName": "r2_28c9caab-a065-47a9-bb2c-d1f1c6b0af96.png",
+          "Region": "Europe",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_28c9caab-a065-47a9-bb2c-d1f1c6b0af96.png"
         }
       ]
     },
@@ -60,15 +90,51 @@
         "FileName": "2ff04094-e9a1-49ec-9556-1a2de23bf51e.png",
         "Type": "Screenshot - Game Title",
         "URL": "http://images.launchbox-app.com/2ff04094-e9a1-49ec-9556-1a2de23bf51e.png"
+      },
+      {
+        "CRC32": "2531671214",
+        "FileName": "r2_1046d7aa-9a9f-495b-a594-1513189cbb00.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_1046d7aa-9a9f-495b-a594-1513189cbb00.jpg"
+      },
+      {
+        "CRC32": "3465026568",
+        "FileName": "r2_43bf46a6-f39c-4673-a5b1-7275f90323c5.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_43bf46a6-f39c-4673-a5b1-7275f90323c5.jpg"
+      },
+      {
+        "CRC32": "3086636497",
+        "FileName": "r2_7b402350-25c7-414b-b04b-e7496300e46b.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_7b402350-25c7-414b-b04b-e7496300e46b.jpg"
+      },
+      {
+        "CRC32": "986710869",
+        "FileName": "r2_8713f524-aba0-4512-9f3b-01c0c914562f.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_8713f524-aba0-4512-9f3b-01c0c914562f.jpg"
+      },
+      {
+        "CRC32": "660210606",
+        "FileName": "r2_b4b16ddd-4265-48a6-a51e-e213b7482eda.jpg",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_b4b16ddd-4265-48a6-a51e-e213b7482eda.jpg"
       }
     ]
   },
   "CommunityRating": "0.5",
   "DatabaseID": "13428",
   "Developer": "Zoë Mode",
-  "Genres": null,
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Music; Sports",
   "Name": "Zumba Fitness Core",
-  "Overview": "Rock your core and dance your way to toned, sexy abs with Zumba Fitness Core, featuring 40 new songs and routines, more than 30 international dance styles from around the world and hot new choreography that's designed to sculpt stronger abs through an exhilarating full body workout. Lose yourself in the music as celebrity Zumba instructors guide you through choreography set to contagious new Zumba fitness originals and a broader mix of smash hits from hot artists including Enrique Iglesias and Don Omar (full soundtrack to be announced at a future date).",
+  "Overview": "A Kinect dance-fitness game focused on a full-body workout that targets the core. It includes 40 songs and 33 international dance styles, preset and custom classes, fitness goals, calorie tracking and nutrition tips. Up to 2 local players can exercise together; Kinect is required.",
   "Publisher": "Majesco Entertainment",
   "ReleaseDate": "2012-10-16"
 }

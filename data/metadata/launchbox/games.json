@@ -404,7 +404,7 @@
         }
       ]
     },
-    "CommunityRating": "3.85714285714286",
+    "CommunityRating": "3.85",
     "DatabaseID": "11",
     "Developer": "Electronic Arts Montreal",
     "ESRB": "M - Mature",
@@ -10951,7 +10951,23 @@
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "3952017398",
+            "FileName": "r2_eda751c2-21ee-40c7-b830-49a8439c79c6.png",
+            "Region": "Europe",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_eda751c2-21ee-40c7-b830-49a8439c79c6.png"
+          }
+        ],
         "Back": [
+          {
+            "CRC32": "2387336246",
+            "FileName": "r2_73a4e472-269a-4e0e-baa1-e738b8a769f2.png",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_73a4e472-269a-4e0e-baa1-e738b8a769f2.png"
+          },
           {
             "CRC32": "186992537",
             "FileName": "r2_786239b1-0ff7-4516-85a8-a4bd6f04ec37.jpg",
@@ -10962,11 +10978,27 @@
         ],
         "Front": [
           {
+            "CRC32": "2191900971",
+            "FileName": "r2_18a11b42-675f-4654-b367-a36665a21eac.png",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_18a11b42-675f-4654-b367-a36665a21eac.png"
+          },
+          {
             "CRC32": "2254652797",
             "FileName": "92342d70-35d9-48ce-90ae-2225da23bb61.jpg",
             "Region": "North America",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/92342d70-35d9-48ce-90ae-2225da23bb61.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1517406690",
+            "FileName": "r2_8ea33775-1304-44e7-bb95-e54c2567745f.png",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_8ea33775-1304-44e7-bb95-e54c2567745f.png"
           }
         ]
       },
@@ -11015,6 +11047,27 @@
           "Region": "North America",
           "Type": "Screenshot - Gameplay",
           "URL": "http://images.launchbox-app.com/r2_d5c9abe4-be03-4426-a13f-c3ff2478e2e2.jpg"
+        },
+        {
+          "CRC32": "2645254418",
+          "FileName": "r2_b7025dab-3771-4eb9-aa22-39ed31eb2e64.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_b7025dab-3771-4eb9-aa22-39ed31eb2e64.jpg"
+        },
+        {
+          "CRC32": "286261606",
+          "FileName": "r2_c287e952-8efb-4305-b159-e599b0743289.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_c287e952-8efb-4305-b159-e599b0743289.jpg"
+        },
+        {
+          "CRC32": "845959855",
+          "FileName": "r2_e7530da5-59a5-491c-8ac0-3a2e630182de.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_e7530da5-59a5-491c-8ac0-3a2e630182de.jpg"
         }
       ]
     },
@@ -29584,7 +29637,7 @@
         }
       ]
     },
-    "CommunityRating": "4.02272727272727",
+    "CommunityRating": "4",
     "DatabaseID": "7684",
     "Developer": "Starbreeze Studios",
     "ESRB": "M - Mature",
@@ -32654,7 +32707,7 @@
         }
       ]
     },
-    "CommunityRating": "3.84210526315789",
+    "CommunityRating": "3.85",
     "DatabaseID": "7709",
     "Developer": "Raven Software",
     "ESRB": "M - Mature",
@@ -47041,6 +47094,15 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "3385743069",
+          "FileName": "r2_72edba61-f439-4df1-b7d5-05682efa3cd8.jpg",
+          "Region": "North America",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_72edba61-f439-4df1-b7d5-05682efa3cd8.jpg"
+        }
+      ],
       "Box": {
         "3D": [
           {
@@ -47052,10 +47114,19 @@
           },
           {
             "CRC32": "4137634846",
-            "FileName": "e0b6ff22-acd4-4c8a-922b-2290c182ebc6.png",
+            "FileName": "r2_91333ad3-8c03-4488-9469-151a7c78c8bc.png",
             "Region": "North America",
             "Type": "Box - 3D",
-            "URL": "http://images.launchbox-app.com/e0b6ff22-acd4-4c8a-922b-2290c182ebc6.png"
+            "URL": "http://images.launchbox-app.com/r2_91333ad3-8c03-4488-9469-151a7c78c8bc.png"
+          }
+        ],
+        "Back": [
+          {
+            "CRC32": "1403670789",
+            "FileName": "r2_03a4af3c-5c21-4a45-b283-5c0a1db899ac.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_03a4af3c-5c21-4a45-b283-5c0a1db899ac.jpg"
           }
         ],
         "Front": [
@@ -47072,6 +47143,15 @@
             "Region": "North America",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/0128d634-f9da-4c8d-bd88-4760de250832.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1066428087",
+            "FileName": "r2_46e9f15f-d4f1-476f-b8b0-8d9cc7df6292.png",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_46e9f15f-d4f1-476f-b8b0-8d9cc7df6292.png"
           }
         ]
       },
@@ -47098,6 +47178,41 @@
           "FileName": "6997423f-dd9e-4d34-a9c5-620996ad759e.png",
           "Type": "Screenshot - Game Title",
           "URL": "http://images.launchbox-app.com/6997423f-dd9e-4d34-a9c5-620996ad759e.png"
+        },
+        {
+          "CRC32": "3542176409",
+          "FileName": "r2_817a2fa8-13b1-441a-a760-508f5b4d19d5.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_817a2fa8-13b1-441a-a760-508f5b4d19d5.jpg"
+        },
+        {
+          "CRC32": "640437103",
+          "FileName": "r2_9f2479d3-552c-4065-a748-6b86e1b8c458.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_9f2479d3-552c-4065-a748-6b86e1b8c458.jpg"
+        },
+        {
+          "CRC32": "3420190795",
+          "FileName": "r2_da2eb531-0881-404b-85d8-a9a0237b27c2.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_da2eb531-0881-404b-85d8-a9a0237b27c2.jpg"
+        },
+        {
+          "CRC32": "1145515761",
+          "FileName": "r2_e6a7c30f-9a16-4d37-b6d7-3697ea2d1cf2.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_e6a7c30f-9a16-4d37-b6d7-3697ea2d1cf2.jpg"
+        },
+        {
+          "CRC32": "1573534305",
+          "FileName": "r2_f1c19b06-8e67-411c-8197-cbdf428eb92b.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_f1c19b06-8e67-411c-8197-cbdf428eb92b.jpg"
         }
       ]
     },
@@ -47114,14 +47229,23 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "281043111",
+          "FileName": "r2_491546d0-a3ea-42e0-997b-bb313cda7de2.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_491546d0-a3ea-42e0-997b-bb313cda7de2.jpg"
+        }
+      ],
       "Box": {
         "3D": [
           {
             "CRC32": "1922242484",
-            "FileName": "7918a82e-397d-4bd2-a3c9-166b0e659726.png",
+            "FileName": "r2_02abca36-fa97-4074-b553-75b9c7c15022.png",
             "Region": "North America",
             "Type": "Box - 3D",
-            "URL": "http://images.launchbox-app.com/7918a82e-397d-4bd2-a3c9-166b0e659726.png"
+            "URL": "http://images.launchbox-app.com/r2_02abca36-fa97-4074-b553-75b9c7c15022.png"
           }
         ],
         "Back": [
@@ -47138,6 +47262,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_b05dfbe8-2efa-4526-8cc3-75b430855767.jpg"
+          },
+          {
+            "CRC32": "3665983386",
+            "FileName": "r2_7f265ced-a519-4cde-bf2d-3e231e986537.png",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_7f265ced-a519-4cde-bf2d-3e231e986537.png"
           }
         ],
         "Front": [
@@ -47177,6 +47308,13 @@
             "Region": "Europe",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/r2_7290f268-c5b3-4da4-9237-16b896769a88.jpg"
+          },
+          {
+            "CRC32": "1821400778",
+            "FileName": "r2_9a315d21-046f-418b-90ab-d2ae1e8abb6f.png",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_9a315d21-046f-418b-90ab-d2ae1e8abb6f.png"
           }
         ]
       },
@@ -47204,6 +47342,43 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/r2_073a0ebd-bb83-40ae-99b1-9bd9574fa0ca.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "4013668445",
+          "FileName": "r2_12df4e38-6185-45a0-a556-6a017f932f0e.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_12df4e38-6185-45a0-a556-6a017f932f0e.jpg"
+        },
+        {
+          "CRC32": "356937138",
+          "FileName": "r2_51291bd5-47e0-4ef7-8647-4543d958e919.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_51291bd5-47e0-4ef7-8647-4543d958e919.jpg"
+        },
+        {
+          "CRC32": "3144236992",
+          "FileName": "r2_9ffcd5de-626f-49f6-b799-4c82cdbf6f3b.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_9ffcd5de-626f-49f6-b799-4c82cdbf6f3b.jpg"
+        },
+        {
+          "CRC32": "937888902",
+          "FileName": "r2_a9800577-6239-437c-99ae-00b2fc756e15.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_a9800577-6239-437c-99ae-00b2fc756e15.jpg"
+        },
+        {
+          "CRC32": "2840515503",
+          "FileName": "r2_b514dffe-d901-44d3-9bd1-ef148fec07f1.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_b514dffe-d901-44d3-9bd1-ef148fec07f1.jpg"
+        }
       ]
     },
     "CommunityRating": "3.25",
@@ -47220,14 +47395,23 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "2124134678",
+          "FileName": "r2_4affdad6-5360-46b6-a45b-c7950d395ee3.jpg",
+          "Region": "North America",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_4affdad6-5360-46b6-a45b-c7950d395ee3.jpg"
+        }
+      ],
       "Box": {
         "3D": [
           {
             "CRC32": "2135055735",
-            "FileName": "7e7fd40e-40b8-4377-93e3-7845b996bbcd.png",
+            "FileName": "r2_8a9d148a-194b-4f92-bad9-48b48f2b15d5.png",
             "Region": "North America",
             "Type": "Box - 3D",
-            "URL": "http://images.launchbox-app.com/7e7fd40e-40b8-4377-93e3-7845b996bbcd.png"
+            "URL": "http://images.launchbox-app.com/r2_8a9d148a-194b-4f92-bad9-48b48f2b15d5.png"
           }
         ],
         "Back": [
@@ -47244,6 +47428,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_79d268a0-4734-40b2-9362-291bbbd70c77.jpg"
+          },
+          {
+            "CRC32": "2232890669",
+            "FileName": "r2_d555b6ab-bd04-40c7-8225-61e6bcb92417.png",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_d555b6ab-bd04-40c7-8225-61e6bcb92417.png"
           }
         ],
         "Front": [
@@ -47270,10 +47461,10 @@
           },
           {
             "CRC32": "862077573",
-            "FileName": "76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg",
+            "FileName": "r2_5b473b38-3683-4bc2-94c8-8531a2814520.png",
             "Region": "North America",
             "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg"
+            "URL": "http://images.launchbox-app.com/r2_5b473b38-3683-4bc2-94c8-8531a2814520.png"
           }
         ],
         "Spine": [
@@ -47283,6 +47474,13 @@
             "Region": "Germany",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/r2_26a1f601-b52a-4f9a-a4f7-379298c5ce6c.jpg"
+          },
+          {
+            "CRC32": "3366225253",
+            "FileName": "r2_d2ec0b20-f487-4d36-b273-aef8e7af128a.png",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_d2ec0b20-f487-4d36-b273-aef8e7af128a.png"
           }
         ]
       },
@@ -47310,6 +47508,43 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/r2_9059525b-437e-49f0-8942-971a2611e43e.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "997438263",
+          "FileName": "r2_076b6094-16de-4139-a9b3-406d9c6a2c7a.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_076b6094-16de-4139-a9b3-406d9c6a2c7a.jpg"
+        },
+        {
+          "CRC32": "575275001",
+          "FileName": "r2_0af83920-f198-40fc-b174-49d2b6fb74d0.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_0af83920-f198-40fc-b174-49d2b6fb74d0.jpg"
+        },
+        {
+          "CRC32": "644072235",
+          "FileName": "r2_48575ca3-ad16-47ce-aaaf-c2bed6997c87.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_48575ca3-ad16-47ce-aaaf-c2bed6997c87.jpg"
+        },
+        {
+          "CRC32": "1166111925",
+          "FileName": "r2_618614bf-0634-45ce-9b4a-b006151f2a0c.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_618614bf-0634-45ce-9b4a-b006151f2a0c.jpg"
+        },
+        {
+          "CRC32": "584945569",
+          "FileName": "r2_8832d1d2-715e-4c3f-8272-478506ca2dd2.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_8832d1d2-715e-4c3f-8272-478506ca2dd2.jpg"
+        }
       ]
     },
     "CommunityRating": "3",
@@ -47319,7 +47554,7 @@
     "Genres": "Music",
     "Name": "Dance Central 2",
     "Overview": "The core gameplay in Dance Central 2 is mostly identical to the original Dance Central. Players perform given dance moves, which are tracked by the Kinect. The more accurately the player performs the move, the more points he/she scores. Higher difficulties increase move complexity, and the margin for error is reduced.\nFeatures new to Dance Central 2 include voice control, simultaneous two player gameplay in both cooperative and competitive modes with drop in/drop out functionality, an improved fitness mode, a more in-depth and customizable \"Break it Down\" mode, allowing the player to practice only specific moves in a routine, and a campaign mode featuring dance crews of various styles.",
-    "Publisher": "Harmonix Music Systems",
+    "Publisher": "Microsoft Studios",
     "ReleaseDate": "2011-10-25",
     "VideoURL": "https://www.youtube.com/watch?v=kuwB05ASh7E",
     "WikipediaURL": "https://en.wikipedia.org/wiki/Dance_Central_2"
@@ -47330,9 +47565,10 @@
         "3D": [
           {
             "CRC32": "2533380016",
-            "FileName": "da9943e7-3484-4202-9d9a-6dc5c6825c4f.png",
+            "FileName": "r2_e7a73e12-b0d6-4252-b247-8cd31283c625.png",
+            "Region": "North America",
             "Type": "Box - 3D",
-            "URL": "http://images.launchbox-app.com/da9943e7-3484-4202-9d9a-6dc5c6825c4f.png"
+            "URL": "http://images.launchbox-app.com/r2_e7a73e12-b0d6-4252-b247-8cd31283c625.png"
           }
         ],
         "Back": [
@@ -47342,6 +47578,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_561dc064-aab2-4ef5-beb8-ffda66f488bc.jpg"
+          },
+          {
+            "CRC32": "4073612209",
+            "FileName": "r2_5ae55767-d9e6-4c1d-9c53-b4e2e911ba6d.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_5ae55767-d9e6-4c1d-9c53-b4e2e911ba6d.jpg"
           }
         ],
         "Front": [
@@ -47358,6 +47601,22 @@
             "Region": "North America",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/41c7abf5-1c5d-4379-aa79-bbf9b0a98aae.jpg"
+          },
+          {
+            "CRC32": "2581715668",
+            "FileName": "r2_2f01484e-c7d2-423c-8230-0e5de3462dce.jpg",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_2f01484e-c7d2-423c-8230-0e5de3462dce.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "769830902",
+            "FileName": "r2_aba15c52-f8b8-4764-8f2f-216eb8d0d364.png",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_aba15c52-f8b8-4764-8f2f-216eb8d0d364.png"
           }
         ]
       },
@@ -47377,15 +47636,52 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/28265e0d-d661-4781-a2d8-ed51cd5843e4.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "101772265",
+          "FileName": "r2_0a0b73f2-758d-4aaf-a69a-5527e6c372c1.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_0a0b73f2-758d-4aaf-a69a-5527e6c372c1.jpg"
+        },
+        {
+          "CRC32": "3456277273",
+          "FileName": "r2_368fa77a-9677-4d4e-b8a2-15c4126e3d9a.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_368fa77a-9677-4d4e-b8a2-15c4126e3d9a.jpg"
+        },
+        {
+          "CRC32": "18528324",
+          "FileName": "r2_51d5d997-5d7b-44ea-ab90-61f9c3034d51.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_51d5d997-5d7b-44ea-ab90-61f9c3034d51.jpg"
+        },
+        {
+          "CRC32": "2514929515",
+          "FileName": "r2_bf2872cf-bc95-4ff0-9aad-31c42d855f3c.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_bf2872cf-bc95-4ff0-9aad-31c42d855f3c.jpg"
+        },
+        {
+          "CRC32": "2364066672",
+          "FileName": "r2_eef47e11-0179-4ab1-b67f-854828b3f502.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_eef47e11-0179-4ab1-b67f-854828b3f502.jpg"
+        }
       ]
     },
     "CommunityRating": "4",
     "DatabaseID": "10639",
-    "Developer": "Ubisoft Entertainment",
+    "Developer": "Ubisoft Montreal",
     "ESRB": "E10+ - Everyone 10+",
     "Genres": "Music",
     "Name": "Just Dance 3",
-    "Overview": "Along with solos and duets, Just Dance 3 features quartets which allows 4 players to dance all together, as well as playlists that group songs together. Rewards can be unlocked by dancing, such as new songs, modes, as well as Dance Mashups which combine different dance routines from all three Just Dance games into one. The Wii version has Smart Shuffle, Speed Shuffle, and Non-Stop Shuffle, plus a Hold My Hand dance feature, where up to 8 players can share the 4 Wii Remotes and dance all together.",
+    "Overview": "Just Dance 3 brings more than 40 dance routines to Xbox 360 Kinect. Mirror the on-screen choreography with full-body motion tracking, dance with up to four players simultaneously, build fitness sessions in Just Sweat, and record and share original routines with the Kinect-exclusive Just Create mode.",
     "Publisher": "Ubisoft Entertainment",
     "ReleaseDate": "2011-10-07",
     "VideoURL": "https://www.youtube.com/watch?v=6jGkFunwOK4",
@@ -47566,10 +47862,10 @@
           },
           {
             "CRC32": "746594768",
-            "FileName": "r2_7beeda7b-8f76-4df8-a72d-3069dc03e298.png",
+            "FileName": "r2_92d02e22-1c14-4dcd-be56-c473041097e3.png",
             "Region": "North America",
             "Type": "Box - 3D",
-            "URL": "http://images.launchbox-app.com/r2_7beeda7b-8f76-4df8-a72d-3069dc03e298.png"
+            "URL": "http://images.launchbox-app.com/r2_92d02e22-1c14-4dcd-be56-c473041097e3.png"
           }
         ],
         "Back": [
@@ -47586,6 +47882,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_02eb61fc-b315-41a0-a0db-b632a45f1f23.jpg"
+          },
+          {
+            "CRC32": "3346373141",
+            "FileName": "r2_281f291a-1aaa-4828-9e70-f66b8038e5e5.png",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_281f291a-1aaa-4828-9e70-f66b8038e5e5.png"
           }
         ],
         "Front": [
@@ -47619,10 +47922,10 @@
           },
           {
             "CRC32": "894168863",
-            "FileName": "e259f9e5-8ef4-4782-adf4-31b386699430.jpg",
+            "FileName": "r2_e634cd1f-e039-4534-8109-af8404d91810.png",
             "Region": "North America",
             "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/e259f9e5-8ef4-4782-adf4-31b386699430.jpg"
+            "URL": "http://images.launchbox-app.com/r2_e634cd1f-e039-4534-8109-af8404d91810.png"
           }
         ],
         "Spine": [
@@ -47639,6 +47942,13 @@
             "Region": "Germany",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/f40815e2-b563-4698-a318-0d8ff66956a8.jpg"
+          },
+          {
+            "CRC32": "3837767826",
+            "FileName": "r2_cccfadf2-1000-4fbf-96da-c7cfc0833de1.png",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_cccfadf2-1000-4fbf-96da-c7cfc0833de1.png"
           }
         ]
       },
@@ -47666,6 +47976,43 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/r2_8bf85533-631a-4224-a49d-bc8d2656a488.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "2855100508",
+          "FileName": "r2_07759316-c484-4a10-8aa2-815a273a61b5.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_07759316-c484-4a10-8aa2-815a273a61b5.jpg"
+        },
+        {
+          "CRC32": "2836158057",
+          "FileName": "r2_0b9321fe-4285-4afc-a2b7-c1bcafd5ddc2.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_0b9321fe-4285-4afc-a2b7-c1bcafd5ddc2.jpg"
+        },
+        {
+          "CRC32": "2866990947",
+          "FileName": "r2_3acfba5b-fdbb-470d-9946-1ad8bcfee6e5.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_3acfba5b-fdbb-470d-9946-1ad8bcfee6e5.jpg"
+        },
+        {
+          "CRC32": "1374885224",
+          "FileName": "r2_68a031cf-238b-4934-b6a9-4a557f7ef208.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_68a031cf-238b-4934-b6a9-4a557f7ef208.jpg"
+        },
+        {
+          "CRC32": "1077719058",
+          "FileName": "r2_9775d943-cdaf-4754-9a3b-2dadb6d4204e.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_9775d943-cdaf-4754-9a3b-2dadb6d4204e.jpg"
+        }
       ]
     },
     "CommunityRating": "3.83333333333333",
@@ -47674,8 +48021,8 @@
     "ESRB": "T - Teen",
     "Genres": "Music",
     "Name": "Dance Central 3",
-    "Overview": "Dance Central 3 is a music video game developed and published by Harmonix and co-developed by Backbone Entertainment. It is the third installment of the Dance Central series and was announced at E3 2012 during Microsoft's press conference.[1] The game was released on October 16, 2012 in North & Latin America, & on October 19, 2012 in Europe, Asia, Australia, & Japan.[2]",
-    "Publisher": "Harmonix Music Systems",
+    "Overview": "Dance Central 3 is a dance rhythm game for Kinect on Xbox 360, developed by Harmonix with Backbone Entertainment. It combines full-body choreography, real-time feedback and two-player simultaneous dancing with a time-travelling story and more than 40 songs. Party mode supports up to eight participants, with new games including Make Your Move. Kinect for Xbox 360 is required.",
+    "Publisher": "Microsoft Studios",
     "ReleaseDate": "2012-10-16",
     "VideoURL": "https://www.youtube.com/watch?v=vza3_eAwGcM",
     "WikipediaURL": "https://en.wikipedia.org/wiki/Dance_Central_3"
@@ -82670,9 +83017,10 @@
         "3D": [
           {
             "CRC32": "1316517539",
-            "FileName": "0c55f46d-53ae-4741-b839-f4afce30ab6d.png",
+            "FileName": "r2_690f5a6e-442a-4273-9eb1-3b0db92521c5.png",
+            "Region": "North America",
             "Type": "Box - 3D",
-            "URL": "http://images.launchbox-app.com/0c55f46d-53ae-4741-b839-f4afce30ab6d.png"
+            "URL": "http://images.launchbox-app.com/r2_690f5a6e-442a-4273-9eb1-3b0db92521c5.png"
           }
         ],
         "Back": [
@@ -82682,21 +83030,38 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_9390671e-3ec8-44bc-b6fc-ffb284caa757.jpg"
+          },
+          {
+            "CRC32": "2996626605",
+            "FileName": "r2_6b1574c2-b4cb-40d7-a4f8-f73c3afe9d15.png",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_6b1574c2-b4cb-40d7-a4f8-f73c3afe9d15.png"
           }
         ],
         "Front": [
-          {
-            "CRC32": "1369768152",
-            "FileName": "327829c5-349d-4e6a-9789-0fe453492aae.jpg",
-            "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/327829c5-349d-4e6a-9789-0fe453492aae.jpg"
-          },
           {
             "CRC32": "526921553",
             "FileName": "r2_def81bcc-b04c-4f7f-a955-d1b333e0c5b3.jpg",
             "Region": "Germany",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_def81bcc-b04c-4f7f-a955-d1b333e0c5b3.jpg"
+          },
+          {
+            "CRC32": "1369768152",
+            "FileName": "r2_a225d2f8-80d4-410a-a095-49549d30e41e.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_a225d2f8-80d4-410a-a095-49549d30e41e.png"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1593391501",
+            "FileName": "r2_ab36102f-b998-4b88-a63c-a653d0d2d3c9.png",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_ab36102f-b998-4b88-a63c-a653d0d2d3c9.png"
           }
         ]
       },
@@ -82708,18 +83073,65 @@
           "Type": "Disc",
           "URL": "http://images.launchbox-app.com/29a30c35-7916-4d00-9ec1-f8a290b2bfbb.png"
         }
+      ],
+      "Other": [
+        {
+          "CRC32": "2325987214",
+          "FileName": "r2_c7303204-effc-43d7-b735-2b7c9f5e0741.png",
+          "Region": "North America",
+          "Type": "Clear Logo",
+          "URL": "http://images.launchbox-app.com/r2_c7303204-effc-43d7-b735-2b7c9f5e0741.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "1283144226",
+          "FileName": "r2_05cc9269-b9d4-4934-a1e4-598e1d0cc5d5.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_05cc9269-b9d4-4934-a1e4-598e1d0cc5d5.jpg"
+        },
+        {
+          "CRC32": "1077225614",
+          "FileName": "r2_454995d1-5f23-4e64-9415-22b69d84644b.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_454995d1-5f23-4e64-9415-22b69d84644b.jpg"
+        },
+        {
+          "CRC32": "3000924853",
+          "FileName": "r2_6417a45a-5fef-4c83-8fa8-fb3568d4c641.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_6417a45a-5fef-4c83-8fa8-fb3568d4c641.jpg"
+        },
+        {
+          "CRC32": "4009276712",
+          "FileName": "r2_80182d95-5690-4656-ae27-adad717b2f0b.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_80182d95-5690-4656-ae27-adad717b2f0b.jpg"
+        },
+        {
+          "CRC32": "3569767768",
+          "FileName": "r2_a306e90d-ccba-4905-a578-b378b60ff98f.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_a306e90d-ccba-4905-a578-b378b60ff98f.jpg"
+        }
       ]
     },
     "CommunityRating": "4",
     "DatabaseID": "13290",
-    "Developer": "Ubisoft",
+    "Developer": "Ubisoft Paris",
     "ESRB": "E10+ - Everyone 10+",
     "Genres": "Music",
     "Name": "Just Dance 4",
     "Overview": "Just Dance 4 features more than 40 new tracks, ranging from chart-topping Billboard hits to classic dance party tracks. Whether it's pop, Hip-Hop, rock, R&B, country or funk, there is something for everyone.",
     "Publisher": "Ubisoft",
     "ReleaseDate": "2012-10-09",
-    "VideoURL": "http://www.youtube.com/watch?v=https://fOWsdeqbVE0"
+    "VideoURL": "https://www.youtube.com/watch?v=WwPW6aeX92k",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Just_Dance_4"
   },
   {
     "Artwork": {
@@ -84936,6 +85348,13 @@
       "Box": {
         "3D": [
           {
+            "CRC32": "3492247120",
+            "FileName": "r2_a21f7613-312f-41ab-a258-6fdbdb8359a1.png",
+            "Region": "Europe",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_a21f7613-312f-41ab-a258-6fdbdb8359a1.png"
+          },
+          {
             "CRC32": "2597574672",
             "FileName": "3c2418ba-3ea0-4d6e-9350-238337fb4629.png",
             "Region": "North America",
@@ -84945,6 +85364,13 @@
         ],
         "Back": [
           {
+            "CRC32": "798453784",
+            "FileName": "r2_98f8906e-e333-40cd-ab1b-c0789940a8f1.png",
+            "Region": "Europe",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_98f8906e-e333-40cd-ab1b-c0789940a8f1.png"
+          },
+          {
             "CRC32": "1132106374",
             "FileName": "r2_3cc0a0d7-27a1-4c07-bec0-23dc0fc70fd7.jpg",
             "Region": "Germany",
@@ -84953,6 +85379,13 @@
           }
         ],
         "Front": [
+          {
+            "CRC32": "1025326377",
+            "FileName": "r2_48d17e16-b02d-4caa-b242-83fa23f5d53a.jpg",
+            "Region": "Europe",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_48d17e16-b02d-4caa-b242-83fa23f5d53a.jpg"
+          },
           {
             "CRC32": "3541527224",
             "FileName": "r2_d1fae469-144a-4fea-9d76-b1cf5034930a.jpg",
@@ -84966,6 +85399,15 @@
             "Region": "North America",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/5552614c-3840-46d9-ab02-6e87871f4363.png"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "32821059",
+            "FileName": "r2_28c9caab-a065-47a9-bb2c-d1f1c6b0af96.png",
+            "Region": "Europe",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_28c9caab-a065-47a9-bb2c-d1f1c6b0af96.png"
           }
         ]
       },
@@ -84993,15 +85435,51 @@
           "FileName": "2ff04094-e9a1-49ec-9556-1a2de23bf51e.png",
           "Type": "Screenshot - Game Title",
           "URL": "http://images.launchbox-app.com/2ff04094-e9a1-49ec-9556-1a2de23bf51e.png"
+        },
+        {
+          "CRC32": "2531671214",
+          "FileName": "r2_1046d7aa-9a9f-495b-a594-1513189cbb00.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_1046d7aa-9a9f-495b-a594-1513189cbb00.jpg"
+        },
+        {
+          "CRC32": "3465026568",
+          "FileName": "r2_43bf46a6-f39c-4673-a5b1-7275f90323c5.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_43bf46a6-f39c-4673-a5b1-7275f90323c5.jpg"
+        },
+        {
+          "CRC32": "3086636497",
+          "FileName": "r2_7b402350-25c7-414b-b04b-e7496300e46b.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_7b402350-25c7-414b-b04b-e7496300e46b.jpg"
+        },
+        {
+          "CRC32": "986710869",
+          "FileName": "r2_8713f524-aba0-4512-9f3b-01c0c914562f.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_8713f524-aba0-4512-9f3b-01c0c914562f.jpg"
+        },
+        {
+          "CRC32": "660210606",
+          "FileName": "r2_b4b16ddd-4265-48a6-a51e-e213b7482eda.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_b4b16ddd-4265-48a6-a51e-e213b7482eda.jpg"
         }
       ]
     },
     "CommunityRating": "0.5",
     "DatabaseID": "13428",
     "Developer": "Zoë Mode",
-    "Genres": null,
+    "ESRB": "E10+ - Everyone 10+",
+    "Genres": "Music; Sports",
     "Name": "Zumba Fitness Core",
-    "Overview": "Rock your core and dance your way to toned, sexy abs with Zumba Fitness Core, featuring 40 new songs and routines, more than 30 international dance styles from around the world and hot new choreography that's designed to sculpt stronger abs through an exhilarating full body workout. Lose yourself in the music as celebrity Zumba instructors guide you through choreography set to contagious new Zumba fitness originals and a broader mix of smash hits from hot artists including Enrique Iglesias and Don Omar (full soundtrack to be announced at a future date).",
+    "Overview": "A Kinect dance-fitness game focused on a full-body workout that targets the core. It includes 40 songs and 33 international dance styles, preset and custom classes, fitness goals, calorie tracking and nutrition tips. Up to 2 local players can exercise together; Kinect is required.",
     "Publisher": "Majesco Entertainment",
     "ReleaseDate": "2012-10-16"
   },
@@ -103174,10 +103652,10 @@
           },
           {
             "CRC32": "1331232485",
-            "FileName": "8e27c39d-11c7-4376-a895-e82b733a66ea.png",
+            "FileName": "r2_d3db9fa8-6e24-4f2d-b2b4-12ed34050500.png",
             "Region": "North America",
             "Type": "Box - 3D",
-            "URL": "http://images.launchbox-app.com/8e27c39d-11c7-4376-a895-e82b733a66ea.png"
+            "URL": "http://images.launchbox-app.com/r2_d3db9fa8-6e24-4f2d-b2b4-12ed34050500.png"
           }
         ],
         "Back": [
@@ -103243,10 +103721,10 @@
           },
           {
             "CRC32": "4025992400",
-            "FileName": "2b90dee4-884c-4f73-b28a-791a75ed3be4.jpg",
+            "FileName": "r2_1744da42-1eb5-45d2-a180-f5868fa8fedf.png",
             "Region": "North America",
             "Type": "Box - Spine",
-            "URL": "http://images.launchbox-app.com/2b90dee4-884c-4f73-b28a-791a75ed3be4.jpg"
+            "URL": "http://images.launchbox-app.com/r2_1744da42-1eb5-45d2-a180-f5868fa8fedf.png"
           }
         ]
       },
@@ -103273,12 +103751,49 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/79dd8f86-c91e-4e1e-b35a-88a488c2dd20.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "2633677455",
+          "FileName": "r2_c2a201e3-6faa-47cc-a913-94a41b7aa2ad.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_c2a201e3-6faa-47cc-a913-94a41b7aa2ad.jpg"
+        },
+        {
+          "CRC32": "3738650440",
+          "FileName": "r2_c8c8d417-2ba5-4240-a59c-a660bc8503a0.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_c8c8d417-2ba5-4240-a59c-a660bc8503a0.jpg"
+        },
+        {
+          "CRC32": "2653788098",
+          "FileName": "r2_c941187b-3a15-46b4-bea9-08ff02d42dd7.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_c941187b-3a15-46b4-bea9-08ff02d42dd7.jpg"
+        },
+        {
+          "CRC32": "3429530925",
+          "FileName": "r2_d5770e81-3428-4a43-9a1b-8aef126b8dfa.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_d5770e81-3428-4a43-9a1b-8aef126b8dfa.jpg"
+        },
+        {
+          "CRC32": "667363871",
+          "FileName": "r2_d894d772-2bd1-4519-af87-93d7cd54bc43.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_d894d772-2bd1-4519-af87-93d7cd54bc43.jpg"
+        }
       ]
     },
     "CommunityRating": "4.7",
     "DatabaseID": "14652",
     "Developer": "Eden Games",
-    "ESRB": "E - Everyone",
+    "ESRB": "T - Teen",
     "Genres": "Racing",
     "Name": "Test Drive Unlimited 2",
     "Overview": "Test Drive Unlimited 2 is an open world racing video game developed by Eden Games and published by Atari. It is the tenth installment of the Test Drive series, and the second after Test Drive Unlimited to be marketed under the Unlimited franchise. It is the second game in the series to be based on open world-styled gameplay. It was the final game released by Eden Games before being shut down by Atari in 2013.\n\nTest Drive Unlimited 2 includes a variety of roads, sports cars, and bikes based on models from a handful of manufacturers; it also includes four wheel drive SUVs, a new feature for the series. The plot revolves around an unknown racer, who is offered the chance to enter a series of tournaments and, progressing through the game, to eventually become the winner of a fictional \"Solar Crown Cup\", by defeating a number of NPCs (non-player characters) in various racing events.",
@@ -137537,6 +138052,15 @@
   {
     "Artwork": {
       "Box": {
+        "3D": [
+          {
+            "CRC32": "1412277053",
+            "FileName": "r2_93a73ef5-d334-434e-9597-a3c146574896.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_93a73ef5-d334-434e-9597-a3c146574896.png"
+          }
+        ],
         "Back": [
           {
             "CRC32": "3428920395",
@@ -137554,10 +138078,10 @@
           },
           {
             "CRC32": "3210259710",
-            "FileName": "1d2e4f6c-414a-4f41-8a47-c5f4679c108d.jpg",
+            "FileName": "r2_b680ef37-75ce-4693-b5e3-def1cbe65747.png",
             "Region": "North America",
             "Type": "Box - Back",
-            "URL": "http://images.launchbox-app.com/1d2e4f6c-414a-4f41-8a47-c5f4679c108d.jpg"
+            "URL": "http://images.launchbox-app.com/r2_b680ef37-75ce-4693-b5e3-def1cbe65747.png"
           }
         ],
         "Front": [
@@ -137588,6 +138112,13 @@
             "Region": "North America",
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/152139b9-a86e-4168-b414-d518f9161f41.jpg"
+          },
+          {
+            "CRC32": "1335740884",
+            "FileName": "r2_2e2e9580-8093-471f-9710-f8092fae1fcb.png",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_2e2e9580-8093-471f-9710-f8092fae1fcb.png"
           }
         ],
         "Spine": [
@@ -137597,6 +138128,13 @@
             "Region": "Europe",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/r2_0e9b0b82-bafd-459a-8a8f-8cd38022cbca.jpg"
+          },
+          {
+            "CRC32": "3892019541",
+            "FileName": "r2_f47cb572-70ff-4c2d-bc5d-fbd1d15f20ae.png",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_f47cb572-70ff-4c2d-bc5d-fbd1d15f20ae.png"
           }
         ]
       },
@@ -137638,12 +138176,49 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/7a9946c2-f997-4b8c-aa45-7745f31e8fe1.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "3871267383",
+          "FileName": "r2_46954f19-7fdf-444f-916e-33d3bdd9a50c.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_46954f19-7fdf-444f-916e-33d3bdd9a50c.jpg"
+        },
+        {
+          "CRC32": "3868866192",
+          "FileName": "r2_6c270566-12af-4a23-aa6b-38852de3f0f5.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_6c270566-12af-4a23-aa6b-38852de3f0f5.jpg"
+        },
+        {
+          "CRC32": "550932801",
+          "FileName": "r2_722fcace-2bbd-4260-9965-6cecb6aff1ea.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_722fcace-2bbd-4260-9965-6cecb6aff1ea.jpg"
+        },
+        {
+          "CRC32": "2043877023",
+          "FileName": "r2_a1e01ea3-7a14-4999-a68b-a8af907148b8.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_a1e01ea3-7a14-4999-a68b-a8af907148b8.jpg"
+        },
+        {
+          "CRC32": "3313007496",
+          "FileName": "r2_fe0c546c-0b05-4572-a9aa-97081edf100e.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_fe0c546c-0b05-4572-a9aa-97081edf100e.jpg"
+        }
       ]
     },
     "CommunityRating": "4",
     "DatabaseID": "17859",
-    "Developer": "Ubisoft",
-    "ESRB": "E - Everyone",
+    "Developer": "Ubisoft Paris",
+    "ESRB": "E10+ - Everyone 10+",
     "Genres": "Music",
     "Name": "Just Dance 2014",
     "Overview": "The party is back! Just Dance 2014 brings all new moves with breakthrough features for every motion control platform and over 40 of the hottest tracks and dances. With Just Dance 2014′s fresh list of hot tracks, you control the party! Get friends and family moving with Pitbull ft. Christina Aguilera’s “Feel This Moment,” Psy’s “Gentleman,” or One Direction’s “Kiss You.” Celebrate the throwbacks with legendary songs like Gloria Gaynor’s “I Will Survive.”\nJust Dance 2014 takes the fun to another level this year with all new ways to create the best party ever! Own the spotlight and lead back-up dancers with the new On Stage Mode, dance with anyone anywhere in the world with World Dance Floor, work out to customized Just Sweat experiences on any song — and much more! Bring home the ultimate party starter and join in the fun!",
@@ -146588,7 +147163,7 @@
         }
       ]
     },
-    "CommunityRating": "3.44444444444444",
+    "CommunityRating": "3.5",
     "DatabaseID": "20329",
     "Developer": "Backbone Vancouver",
     "ESRB": "E - Everyone",
@@ -175418,7 +175993,7 @@
         }
       ]
     },
-    "CommunityRating": "4.76271186440678",
+    "CommunityRating": "4.75833333333333",
     "DatabaseID": "156370",
     "Developer": "Rockstar San Diego",
     "ESRB": "M - Mature",
@@ -185860,10 +186435,10 @@
       "Banner": [
         {
           "CRC32": "1884444422",
-          "FileName": "ef92e749-38f7-40f0-aa65-360d024a538d.jpg",
+          "FileName": "r2_23ba8abd-d018-42e6-b1c4-05258fc324f0.jpg",
           "Region": "North America",
           "Type": "Banner",
-          "URL": "http://images.launchbox-app.com/ef92e749-38f7-40f0-aa65-360d024a538d.jpg"
+          "URL": "http://images.launchbox-app.com/r2_23ba8abd-d018-42e6-b1c4-05258fc324f0.jpg"
         }
       ],
       "Box": {
@@ -185886,10 +186461,10 @@
           },
           {
             "CRC32": "117949889",
-            "FileName": "70da32e8-85f5-40fc-a8da-aa90eace2494.jpg",
+            "FileName": "r2_ac672ac2-d52d-4ec3-a409-31637e669732.jpg",
             "Region": "North America",
             "Type": "Box - Back",
-            "URL": "http://images.launchbox-app.com/70da32e8-85f5-40fc-a8da-aa90eace2494.jpg"
+            "URL": "http://images.launchbox-app.com/r2_ac672ac2-d52d-4ec3-a409-31637e669732.jpg"
           }
         ],
         "Front": [
@@ -185909,6 +186484,15 @@
           }
         ]
       },
+      "Disc": [
+        {
+          "CRC32": "3416410470",
+          "FileName": "r2_a14f5bc0-07fd-446a-8960-5ad5fd9f6fa6.png",
+          "Region": "North America",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_a14f5bc0-07fd-446a-8960-5ad5fd9f6fa6.png"
+        }
+      ],
       "Other": [
         {
           "CRC32": "952298399",
@@ -185921,10 +186505,10 @@
       "Screenshots": [
         {
           "CRC32": "2417558684",
-          "FileName": "e88cfee6-806d-4268-a386-6f9475236c63.png",
+          "FileName": "r2_4dd8f465-599a-4ae0-a3bf-34700d4374f4.jpg",
           "Region": "North America",
           "Type": "Screenshot - Game Title",
-          "URL": "http://images.launchbox-app.com/e88cfee6-806d-4268-a386-6f9475236c63.png"
+          "URL": "http://images.launchbox-app.com/r2_4dd8f465-599a-4ae0-a3bf-34700d4374f4.jpg"
         },
         {
           "CRC32": "163459663",
@@ -212124,6 +212708,15 @@
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "592202970",
+            "FileName": "r2_82897566-192a-4355-b69b-e3fa0afdb031.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_82897566-192a-4355-b69b-e3fa0afdb031.png"
+          }
+        ],
         "Front": [
           {
             "CRC32": "4149592696",
@@ -212138,6 +212731,15 @@
             "Region": "North America",
             "Type": "Fanart - Box - Front",
             "URL": "http://images.launchbox-app.com/106d6265-0f77-4d61-9804-a465c3a406b0.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1974112927",
+            "FileName": "r2_9288b109-cec3-4770-acaa-a1ae26b9aafb.png",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_9288b109-cec3-4770-acaa-a1ae26b9aafb.png"
           }
         ]
       },
@@ -212156,6 +212758,78 @@
           "FileName": "3168fdc3-a30c-45bf-9d13-8e2372db73eb.png",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/3168fdc3-a30c-45bf-9d13-8e2372db73eb.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "1882554263",
+          "FileName": "r2_189bf0e1-c884-477d-ba5b-be821c58ba60.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_189bf0e1-c884-477d-ba5b-be821c58ba60.jpg"
+        },
+        {
+          "CRC32": "2410733377",
+          "FileName": "r2_19d7ef6e-8e2e-49c6-a375-a3519644ff3b.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_19d7ef6e-8e2e-49c6-a375-a3519644ff3b.jpg"
+        },
+        {
+          "CRC32": "1017259216",
+          "FileName": "r2_2438a1c5-f1d0-4367-ba99-4819153a04f6.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_2438a1c5-f1d0-4367-ba99-4819153a04f6.jpg"
+        },
+        {
+          "CRC32": "3942506473",
+          "FileName": "r2_3cea143b-39cd-494e-92f4-bf6451016dc8.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_3cea143b-39cd-494e-92f4-bf6451016dc8.jpg"
+        },
+        {
+          "CRC32": "2948562089",
+          "FileName": "r2_4983f3ca-a229-434a-aeb4-90c0c198b94e.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_4983f3ca-a229-434a-aeb4-90c0c198b94e.jpg"
+        },
+        {
+          "CRC32": "3322751695",
+          "FileName": "r2_70140bb5-1af1-4648-973d-2c6c20f9218d.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_70140bb5-1af1-4648-973d-2c6c20f9218d.jpg"
+        },
+        {
+          "CRC32": "313796354",
+          "FileName": "r2_b6b12c3b-4cf7-4655-b269-a83a02d0a112.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_b6b12c3b-4cf7-4655-b269-a83a02d0a112.jpg"
+        },
+        {
+          "CRC32": "456405692",
+          "FileName": "r2_bc24f035-94b3-4108-9435-daad85eea267.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_bc24f035-94b3-4108-9435-daad85eea267.jpg"
+        },
+        {
+          "CRC32": "993915049",
+          "FileName": "r2_eba9fb72-14cb-4d6b-86bb-4955d9d8f63e.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_eba9fb72-14cb-4d6b-86bb-4955d9d8f63e.jpg"
+        },
+        {
+          "CRC32": "2156814855",
+          "FileName": "r2_f59b5036-8ac7-4efe-9cd2-646580b93fcf.jpg",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_f59b5036-8ac7-4efe-9cd2-646580b93fcf.jpg"
         }
       ]
     },
