@@ -1,5 +1,131 @@
 [
   {
+    "tag_name": "a4ef31c",
+    "target_commitish": "a4ef31cdf7ceb5a1890daabd34fa281c9cd58693",
+    "published_at": "2026-11-20T20:09:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a4ef31c",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/a4ef31cdf7ceb5a1890daabd34fa281c9cd58693",
+    "changelog": {
+      "title": "a4ef31c_canary_experimental",
+      "changes": "- [APU] XmaContextNew: skip a decode position's start subframes (`a4ef31c`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1867010...a4ef31c"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a4ef31c/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/a4ef31c/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "1867010",
+    "target_commitish": "186701005224203e0eb9b3237c50767b40fec895",
+    "published_at": "2026-11-20T19:29:19Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1867010",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/186701005224203e0eb9b3237c50767b40fec895",
+    "changelog": {
+      "title": "1867010_canary_experimental",
+      "changes": "- [Kernel] Keep an object header's handle and pointer counts (`1867010`)\n- [Kernel] Point an object's header at its exported object type (`553f9d2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/680e9ae...1867010"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1867010/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1867010/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "680e9ae",
+    "target_commitish": "680e9aef111ad47771cd0ffb2dab6b43eab8acf6",
+    "published_at": "2026-11-20T18:51:52Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/680e9ae",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/680e9aef111ad47771cd0ffb2dab6b43eab8acf6",
+    "changelog": {
+      "title": "680e9ae_canary_experimental",
+      "changes": "- [Kernel] Link loaded modules by InLoadOrderLinks (`680e9ae`)\n- [Kernel] Refuse a title DLL loaded without the title process flag (`f17625d`)\n- [Kernel] Fill in a module's name, sizes, load count and flags (`7088fb6`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/fefed2f...680e9ae"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/680e9ae/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/680e9ae/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "fefed2f",
+    "target_commitish": "fefed2fd5ff360edb94f45d8c4e4e78702119dde",
+    "published_at": "2026-11-20T18:24:02Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/fefed2f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/fefed2fd5ff360edb94f45d8c4e4e78702119dde",
+    "changelog": {
+      "title": "fefed2f_canary_experimental",
+      "changes": "- [Kernel] Queue DPCs until the IRQL drops below DISPATCH_LEVEL (`fefed2f`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d92b4a2...fefed2f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fefed2f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/fefed2f/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "d92b4a2",
+    "target_commitish": "d92b4a2ffea96054ba04b3b44ca9cfbf2c98a83c",
+    "published_at": "2026-11-20T17:58:54Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d92b4a2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/d92b4a2ffea96054ba04b3b44ca9cfbf2c98a83c",
+    "changelog": {
+      "title": "d92b4a2_canary_experimental",
+      "changes": "- [Base] Keep a set manual-reset event's waiters released on POSIX (`d92b4a2`)\n- [Base] Abandon mutants whose owner exits on Linux (`e30cd98`)\n- [Base] End alertable waits and sleeps for user callbacks on Linux (`2c2280b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b16f502...d92b4a2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d92b4a2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/d92b4a2/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "b16f502",
+    "target_commitish": "b16f50290d296907a46cd43d148849d13a6f7d67",
+    "published_at": "2026-11-20T16:48:41Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b16f502",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b16f50290d296907a46cd43d148849d13a6f7d67",
+    "changelog": {
+      "title": "b16f502_canary_experimental",
+      "changes": "- [x64] Continue a guest longjmp in the setjmp function's own frame (`b16f502`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/54386cb...b16f502"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b16f502/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b16f502/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "54386cb",
     "target_commitish": "54386cbbd36b1e5b9e3c8ea8616f4c7c8f0c56b6",
     "published_at": "2026-11-19T20:05:38Z",
