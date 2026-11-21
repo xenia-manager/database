@@ -1,5 +1,89 @@
 [
   {
+    "tag_name": "806e3db",
+    "target_commitish": "806e3db70b1557be5d6e268b58359c7e952dfcf2",
+    "published_at": "2026-11-21T20:39:54Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/806e3db",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/806e3db70b1557be5d6e268b58359c7e952dfcf2",
+    "changelog": {
+      "title": "806e3db_canary_experimental",
+      "changes": "- [x64] Exclude branches inside a callee's frame from longjmp resolution (`806e3db`)\n- [GPU] Handle PM4_EVENT_WRITE_CFL as an EVENT_WRITE_SHD fence write (`28c265e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e6b1dbd...806e3db"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/806e3db/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/806e3db/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "e6b1dbd",
+    "target_commitish": "e6b1dbd10291cc01da94183a426960ed31fe3a04",
+    "published_at": "2026-11-21T17:50:55Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e6b1dbd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e6b1dbd10291cc01da94183a426960ed31fe3a04",
+    "changelog": {
+      "title": "e6b1dbd_canary_experimental",
+      "changes": "- [GPU] Display the guest frame rate in the title and an optional overlay (`e6b1dbd`)\n- [UI] Stop taking input once the last ImGui dialog closes (`8fca96b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8a9d2f1...e6b1dbd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e6b1dbd/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e6b1dbd/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "8a9d2f1",
+    "target_commitish": "8a9d2f119e588f60ac4f417e8434f8cac69d5b92",
+    "published_at": "2026-11-21T17:02:36Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8a9d2f1",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/8a9d2f119e588f60ac4f417e8434f8cac69d5b92",
+    "changelog": {
+      "title": "8a9d2f1_canary_experimental",
+      "changes": "- [Base] Skip the timer throttling opt-out before Windows 11 (`8a9d2f1`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/67b0c76...8a9d2f1"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8a9d2f1/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/8a9d2f1/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "67b0c76",
+    "target_commitish": "67b0c7692c7d564ac8074f442dd8a6417afd89cf",
+    "published_at": "2026-11-21T16:18:42Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/67b0c76",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/67b0c7692c7d564ac8074f442dd8a6417afd89cf",
+    "changelog": {
+      "title": "67b0c76_canary_experimental",
+      "changes": "- [APP] Don't throw on filesystem errors in zar cleanup and content deletion (`67b0c76`)\n- [App] Don't throw when deleting content already removed from disk (`44a79c2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c0ea2c4...67b0c76"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/67b0c76/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/67b0c76/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "c0ea2c4",
     "target_commitish": "c0ea2c4432595648fbc3a663466fd9f0e6464c54",
     "published_at": "2026-11-21T13:03:41Z",
