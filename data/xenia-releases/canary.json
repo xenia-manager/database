@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "c0ea2c4",
+    "target_commitish": "c0ea2c4432595648fbc3a663466fd9f0e6464c54",
+    "published_at": "2026-11-21T13:03:41Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c0ea2c4",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/c0ea2c4432595648fbc3a663466fd9f0e6464c54",
+    "changelog": {
+      "title": "c0ea2c4_canary_experimental",
+      "changes": "- [x64] Pack a NaN as the field's minimum in vpkd3d128 (`c0ea2c4`)\n- [PPC] Set VSCR[SAT] when vpkd3d128 saturates (`6fc314d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1ac5eb8...c0ea2c4"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c0ea2c4/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/c0ea2c4/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "1ac5eb8",
+    "target_commitish": "1ac5eb8c54a7f8e798c66119fed96c5002d00bf9",
+    "published_at": "2026-11-21T12:44:31Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1ac5eb8",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1ac5eb8c54a7f8e798c66119fed96c5002d00bf9",
+    "changelog": {
+      "title": "1ac5eb8_canary_experimental",
+      "changes": "- [PPC] Set srad and sraw CA when every bit is shifted out (`1ac5eb8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5fce020...1ac5eb8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1ac5eb8/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1ac5eb8/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "5fce020",
+    "target_commitish": "5fce020fa61ad8341a28e721781de7caa122458b",
+    "published_at": "2026-11-21T12:13:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5fce020",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/5fce020fa61ad8341a28e721781de7caa122458b",
+    "changelog": {
+      "title": "5fce020_canary_experimental",
+      "changes": "- [Kernel] Read stack arguments from their doubleword's low bytes (`5fce020`)\n- [Vulkan] Submit barriers before resolve readback copy (`a671574`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a4ef31c...5fce020"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5fce020/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5fce020/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "a4ef31c",
     "target_commitish": "a4ef31cdf7ceb5a1890daabd34fa281c9cd58693",
     "published_at": "2026-11-20T20:09:31Z",

@@ -4002,15 +4002,15 @@
     "issue": 967,
     "id": "45410993",
     "title": "Medal of Honor: Warfighter",
-    "updated": "2026-08-01T11:54:51Z",
-    "state": "Loads",
+    "updated": "2026-11-21T13:22:32Z",
+    "state": "Gameplay",
     "labels": {
       "state": [
-        "state-intro"
+        "state-gameplay"
       ],
       "others": [
         "tech-engine-frostbite",
-        "crash-always"
+        "gpu-readback"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/967"
@@ -17285,14 +17285,13 @@
     "issue": 116,
     "id": "4541094A",
     "title": "Need For Speed The Run",
-    "updated": "2026-11-15T23:59:51Z",
+    "updated": "2026-11-21T12:52:35Z",
     "state": "Gameplay",
     "labels": {
       "state": [
         "state-gameplay"
       ],
       "others": [
-        "xam-live-signin-required",
         "tech-engine-frostbite",
         "marketplace-nodownload",
         "gpu-readback"
@@ -18553,7 +18552,7 @@
     "issue": 14,
     "id": "545407F2",
     "title": "Grand Theft Auto IV",
-    "updated": "2026-11-03T07:44:52Z",
+    "updated": "2026-11-21T10:44:46Z",
     "state": "Playable",
     "labels": {
       "state": [
