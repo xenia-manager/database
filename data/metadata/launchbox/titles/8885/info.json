@@ -11,12 +11,6 @@
       ],
       "Back": [
         {
-          "CRC32": "2650832673",
-          "FileName": "86be0666-de94-4ad1-ac51-11459aa0d95e.jpg",
-          "Type": "Box - Back",
-          "URL": "http://images.launchbox-app.com/86be0666-de94-4ad1-ac51-11459aa0d95e.jpg"
-        },
-        {
           "CRC32": "3498196256",
           "FileName": "r2_b3fcd069-bfd0-4b6d-abd0-2f56f3e3a265.jpg",
           "Region": "Europe",
@@ -29,15 +23,16 @@
           "Region": "Germany",
           "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_45a2c14b-8034-4711-9e3e-c930f6571dd9.jpg"
+        },
+        {
+          "CRC32": "2650832673",
+          "FileName": "86be0666-de94-4ad1-ac51-11459aa0d95e.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/86be0666-de94-4ad1-ac51-11459aa0d95e.jpg"
         }
       ],
       "Front": [
-        {
-          "CRC32": "607608898",
-          "FileName": "a0d0d4ea-10b5-4d67-b7ee-bb2ae39c15bd.jpg",
-          "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/a0d0d4ea-10b5-4d67-b7ee-bb2ae39c15bd.jpg"
-        },
         {
           "CRC32": "4134734013",
           "FileName": "r2_b3264090-1480-4ecc-b130-1a5300f9afd7.jpg",
@@ -53,10 +48,17 @@
           "URL": "http://images.launchbox-app.com/r2_67f72c2b-8bc2-4567-acaa-c198c19c9ad0.jpg"
         },
         {
+          "CRC32": "607608898",
+          "FileName": "a0d0d4ea-10b5-4d67-b7ee-bb2ae39c15bd.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/a0d0d4ea-10b5-4d67-b7ee-bb2ae39c15bd.jpg"
+        },
+        {
           "CRC32": "3098992145",
           "FileName": "r2_832a4163-dbb6-4bd8-8b2f-74efcdb038d3.png",
-          "Region": "World",
-          "Type": "Box - Front",
+          "Region": "Europe",
+          "Type": "Fanart - Box - Front",
           "URL": "http://images.launchbox-app.com/r2_832a4163-dbb6-4bd8-8b2f-74efcdb038d3.png"
         }
       ],
@@ -98,8 +100,12 @@
   },
   "CommunityRating": "1.5",
   "DatabaseID": "8885",
-  "Genres": null,
-  "Name": "Raving Rabbids: Alive & Kicking",
-  "Overview": "Raving Rabbids: Alive & Kicking, known as Rabbids: Fuori di schermo in Italy, is a video game which was released by publisher and developer Ubisoft (Ubisoft Paris and Ubisoft Milan[1]) on November 3, 2011 in Australia, November 4, 2011 in Europe and November 8, 2011 in North America for the Xbox 360 video game platform.[2] This is the sixth game from the Raving Rabbids games franchise and it is the only Rabbids game not released on a Nintendo platform. The game was exclusively developed for the Kinect and consists of mini-games with up to 4 players.[3] It was presented at the 15th E3 in Los Angeles, California, United States.[4]",
-  "ReleaseDate": "2011-11-08"
+  "Developer": "Ubisoft Paris Studios",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": "Action; Party; Platform",
+  "Name": "Rabbids: Alive & Kicking",
+  "Overview": "Rabbids: Alive & Kicking is a Kinect activity party game - the sixth game from the Raving Rabbids franchise. The game was exclusively developed for the Kinect and consists of a number of minigames for up to 4 players, featuring Quick Play, Party Games and Raving Rabbids modes.\n\nParty Games mode includes 3 games:\n\n• Forfeit: Challenging friends in a series of minigames. When a player loses a game, he has to perform some sort of crazy behavior.\n• The Kitty: Each player plays a series of minigames to try and amass points and fill the kitty.\n• Carrot Juice: Take turns to spin the wheel and select a game. When the player loses, his avatar drinks a glass of carrot juice.",
+  "Publisher": "Ubisoft Entertainment",
+  "ReleaseDate": "2011-11-04",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Raving_Rabbids:_Alive_%26_Kicking"
 }

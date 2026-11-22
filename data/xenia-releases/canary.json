@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "e8f4be2",
+    "target_commitish": "e8f4be2c867733f7325859ed35485326fd7da0aa",
+    "published_at": "2026-11-22T00:24:12Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e8f4be2",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/e8f4be2c867733f7325859ed35485326fd7da0aa",
+    "changelog": {
+      "title": "e8f4be2_canary_experimental",
+      "changes": "- [Kernel] Reimplement NtAllocateEncryptedMemory and NtFreeEncryptedMemory (`e8f4be2`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4ded40f...e8f4be2"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e8f4be2/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/e8f4be2/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "4ded40f",
+    "target_commitish": "4ded40f2c295ad899dc6e3ffc7bb59de76f51ded",
+    "published_at": "2026-11-21T23:28:48Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4ded40f",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/4ded40f2c295ad899dc6e3ffc7bb59de76f51ded",
+    "changelog": {
+      "title": "4ded40f_canary_experimental",
+      "changes": "- [Kernel] Start VdGlobalDevice null (`4ded40f`)\n- [Kernel] Return INVALID_PARAMETER for a wrong MmQueryStatistics size (`2f5ecff`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/806e3db...4ded40f"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4ded40f/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/4ded40f/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "806e3db",
     "target_commitish": "806e3db70b1557be5d6e268b58359c7e952dfcf2",
     "published_at": "2026-11-21T20:39:54Z",

@@ -625,7 +625,7 @@
         }
       ]
     },
-    "CommunityRating": "4.31553398058252",
+    "CommunityRating": "4.3125",
     "DatabaseID": "24",
     "Developer": "Epic Games",
     "ESRB": "M - Mature",
@@ -2372,7 +2372,7 @@
         }
       ]
     },
-    "CommunityRating": "4.52083333333333",
+    "CommunityRating": "4.51546391752577",
     "DatabaseID": "90",
     "Developer": "Bungie",
     "ESRB": "M - Mature",
@@ -5390,7 +5390,7 @@
         }
       ]
     },
-    "CommunityRating": "4.02777777777778",
+    "CommunityRating": "4.02631578947368",
     "DatabaseID": "846",
     "Developer": "Double Fine Productions",
     "ESRB": "M - Mature",
@@ -5927,7 +5927,7 @@
         }
       ]
     },
-    "CommunityRating": "4.06451612903226",
+    "CommunityRating": "4.078125",
     "DatabaseID": "872",
     "Developer": "Lionhead Studios",
     "ESRB": "M - Mature",
@@ -6934,7 +6934,7 @@
         }
       ]
     },
-    "CommunityRating": "4.30582524271845",
+    "CommunityRating": "4.30288461538461",
     "DatabaseID": "935",
     "Developer": "Epic Games",
     "ESRB": "M - Mature",
@@ -10152,7 +10152,7 @@
         }
       ]
     },
-    "CommunityRating": "3.61904761904762",
+    "CommunityRating": "3.61363636363636",
     "DatabaseID": "3910",
     "Developer": "Capcom",
     "ESRB": "T - Teen",
@@ -12900,7 +12900,7 @@
         }
       ]
     },
-    "CommunityRating": "3.14285714285714",
+    "CommunityRating": "2.8125",
     "DatabaseID": "7148",
     "Developer": "Ubisoft Romania",
     "ESRB": "T - Teen",
@@ -13673,7 +13673,7 @@
         }
       ]
     },
-    "CommunityRating": "4.1969696969697",
+    "CommunityRating": "4.17647058823529",
     "DatabaseID": "7153",
     "Developer": "Mad Doc Software",
     "ESRB": "T - Teen",
@@ -15340,7 +15340,7 @@
         }
       ]
     },
-    "CommunityRating": "3.96551724137931",
+    "CommunityRating": "3.96666666666667",
     "DatabaseID": "7166",
     "Developer": "Monolith Productions",
     "ESRB": "M - Mature",
@@ -15579,7 +15579,7 @@
         }
       ]
     },
-    "CommunityRating": "4.02941176470588",
+    "CommunityRating": "4.01428571428571",
     "DatabaseID": "7167",
     "Developer": "Realtime Worlds",
     "ESRB": "M - Mature",
@@ -17521,7 +17521,7 @@
         }
       ]
     },
-    "CommunityRating": "4.66666666666667",
+    "CommunityRating": "4.6",
     "DatabaseID": "7468",
     "Developer": "Sandlot",
     "ESRB": "T - Teen",
@@ -18839,7 +18839,7 @@
         }
       ]
     },
-    "CommunityRating": "3.95121951219512",
+    "CommunityRating": "3.95238095238095",
     "DatabaseID": "7478",
     "Developer": "Turn 10 Studios",
     "ESRB": "E - Everyone",
@@ -19239,7 +19239,7 @@
         }
       ]
     },
-    "CommunityRating": "4.32242990654206",
+    "CommunityRating": "4.31944444444444",
     "DatabaseID": "7481",
     "Developer": "Epic Games",
     "ESRB": "M - Mature",
@@ -35253,7 +35253,7 @@
         }
       ]
     },
-    "CommunityRating": "4.65789473684211",
+    "CommunityRating": "4.65",
     "DatabaseID": "8183",
     "Developer": "Bethesda Game Studios",
     "ESRB": "M - Mature",
@@ -41006,12 +41006,6 @@
         ],
         "Back": [
           {
-            "CRC32": "2650832673",
-            "FileName": "86be0666-de94-4ad1-ac51-11459aa0d95e.jpg",
-            "Type": "Box - Back",
-            "URL": "http://images.launchbox-app.com/86be0666-de94-4ad1-ac51-11459aa0d95e.jpg"
-          },
-          {
             "CRC32": "3498196256",
             "FileName": "r2_b3fcd069-bfd0-4b6d-abd0-2f56f3e3a265.jpg",
             "Region": "Europe",
@@ -41024,15 +41018,16 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_45a2c14b-8034-4711-9e3e-c930f6571dd9.jpg"
+          },
+          {
+            "CRC32": "2650832673",
+            "FileName": "86be0666-de94-4ad1-ac51-11459aa0d95e.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/86be0666-de94-4ad1-ac51-11459aa0d95e.jpg"
           }
         ],
         "Front": [
-          {
-            "CRC32": "607608898",
-            "FileName": "a0d0d4ea-10b5-4d67-b7ee-bb2ae39c15bd.jpg",
-            "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/a0d0d4ea-10b5-4d67-b7ee-bb2ae39c15bd.jpg"
-          },
           {
             "CRC32": "4134734013",
             "FileName": "r2_b3264090-1480-4ecc-b130-1a5300f9afd7.jpg",
@@ -41048,10 +41043,17 @@
             "URL": "http://images.launchbox-app.com/r2_67f72c2b-8bc2-4567-acaa-c198c19c9ad0.jpg"
           },
           {
+            "CRC32": "607608898",
+            "FileName": "a0d0d4ea-10b5-4d67-b7ee-bb2ae39c15bd.jpg",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/a0d0d4ea-10b5-4d67-b7ee-bb2ae39c15bd.jpg"
+          },
+          {
             "CRC32": "3098992145",
             "FileName": "r2_832a4163-dbb6-4bd8-8b2f-74efcdb038d3.png",
-            "Region": "World",
-            "Type": "Box - Front",
+            "Region": "Europe",
+            "Type": "Fanart - Box - Front",
             "URL": "http://images.launchbox-app.com/r2_832a4163-dbb6-4bd8-8b2f-74efcdb038d3.png"
           }
         ],
@@ -41093,10 +41095,14 @@
     },
     "CommunityRating": "1.5",
     "DatabaseID": "8885",
-    "Genres": null,
-    "Name": "Raving Rabbids: Alive & Kicking",
-    "Overview": "Raving Rabbids: Alive & Kicking, known as Rabbids: Fuori di schermo in Italy, is a video game which was released by publisher and developer Ubisoft (Ubisoft Paris and Ubisoft Milan[1]) on November 3, 2011 in Australia, November 4, 2011 in Europe and November 8, 2011 in North America for the Xbox 360 video game platform.[2] This is the sixth game from the Raving Rabbids games franchise and it is the only Rabbids game not released on a Nintendo platform. The game was exclusively developed for the Kinect and consists of mini-games with up to 4 players.[3] It was presented at the 15th E3 in Los Angeles, California, United States.[4]",
-    "ReleaseDate": "2011-11-08"
+    "Developer": "Ubisoft Paris Studios",
+    "ESRB": "E10+ - Everyone 10+",
+    "Genres": "Action; Party; Platform",
+    "Name": "Rabbids: Alive & Kicking",
+    "Overview": "Rabbids: Alive & Kicking is a Kinect activity party game - the sixth game from the Raving Rabbids franchise. The game was exclusively developed for the Kinect and consists of a number of minigames for up to 4 players, featuring Quick Play, Party Games and Raving Rabbids modes.\n\nParty Games mode includes 3 games:\n\n• Forfeit: Challenging friends in a series of minigames. When a player loses a game, he has to perform some sort of crazy behavior.\n• The Kitty: Each player plays a series of minigames to try and amass points and fill the kitty.\n• Carrot Juice: Take turns to spin the wheel and select a game. When the player loses, his avatar drinks a glass of carrot juice.",
+    "Publisher": "Ubisoft Entertainment",
+    "ReleaseDate": "2011-11-04",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Raving_Rabbids:_Alive_%26_Kicking"
   },
   {
     "Artwork": {
@@ -45355,7 +45361,7 @@
         }
       ]
     },
-    "CommunityRating": "2.66666666666667",
+    "CommunityRating": "2.4375",
     "DatabaseID": "10044",
     "Developer": "Ubisoft Shanghai",
     "ESRB": "M - Mature",
@@ -46546,7 +46552,7 @@
         }
       ]
     },
-    "CommunityRating": "3.66666666666667",
+    "CommunityRating": "3.69230769230769",
     "DatabaseID": "10611",
     "Developer": "Ryu ga Gotoku Studio",
     "ESRB": "M - Mature",
@@ -49548,7 +49554,7 @@
         }
       ]
     },
-    "CommunityRating": "4.18571428571429",
+    "CommunityRating": "4.17142857142857",
     "DatabaseID": "10896",
     "Developer": "Spicy Horse",
     "ESRB": "M - Mature",
@@ -53536,7 +53542,7 @@
         }
       ]
     },
-    "CommunityRating": "3.7",
+    "CommunityRating": "3.72727272727273",
     "DatabaseID": "11614",
     "Developer": "Tequila Works",
     "ESRB": "M - Mature",
@@ -56822,7 +56828,7 @@
         }
       ]
     },
-    "CommunityRating": "4.46913580246914",
+    "CommunityRating": "4.46341463414634",
     "DatabaseID": "11977",
     "Developer": "Playground Games",
     "ESRB": "T - Teen",
@@ -57013,7 +57019,7 @@
         }
       ]
     },
-    "CommunityRating": "3.81081081081081",
+    "CommunityRating": "3.82432432432432",
     "DatabaseID": "11980",
     "Developer": "PlatinumGames",
     "ESRB": "M - Mature",
@@ -58211,7 +58217,7 @@
         }
       ]
     },
-    "CommunityRating": "3.14",
+    "CommunityRating": "3.15384615384615",
     "DatabaseID": "12062",
     "Developer": "Ruffian Games",
     "ESRB": "M - Mature",
@@ -58694,7 +58700,7 @@
         }
       ]
     },
-    "CommunityRating": "3.58333333333333",
+    "CommunityRating": "3.6",
     "DatabaseID": "12108",
     "Developer": "Monolith Productions",
     "ESRB": "M - Mature",
@@ -63562,7 +63568,7 @@
         }
       ]
     },
-    "CommunityRating": "3.96153846153846",
+    "CommunityRating": "3.96428571428571",
     "DatabaseID": "12373",
     "Developer": "Blue Castle Games",
     "ESRB": "M - Mature",
@@ -72390,7 +72396,7 @@
         }
       ]
     },
-    "CommunityRating": "4.5",
+    "CommunityRating": "4.375",
     "DatabaseID": "12741",
     "Developer": "Codemasters",
     "ESRB": "T - Teen",
@@ -80812,7 +80818,7 @@
         }
       ]
     },
-    "CommunityRating": "4.13636363636364",
+    "CommunityRating": "4.04545454545455",
     "DatabaseID": "13193",
     "Developer": "Bugbear Entertainment",
     "ESRB": "T - Teen",
@@ -99356,7 +99362,7 @@
         }
       ]
     },
-    "CommunityRating": "4.15",
+    "CommunityRating": "4.09090909090909",
     "DatabaseID": "14358",
     "Developer": "Cave",
     "ESRB": "T - Teen",
@@ -100503,6 +100509,7 @@
         }
       ]
     },
+    "CommunityRating": "3",
     "DatabaseID": "14412",
     "Developer": "Enigma Software Productions",
     "ESRB": "T - Teen",
@@ -108759,6 +108766,7 @@
         }
       ]
     },
+    "CommunityRating": "3",
     "DatabaseID": "15201",
     "ESRB": "T - Teen",
     "Genres": null,
@@ -114101,7 +114109,7 @@
         }
       ]
     },
-    "CommunityRating": "3.81428571428571",
+    "CommunityRating": "3.8169014084507",
     "DatabaseID": "15490",
     "Developer": "Epic Games",
     "ESRB": "M - Mature",
@@ -115757,7 +115765,7 @@
         }
       ]
     },
-    "CommunityRating": "4.33333333333333",
+    "CommunityRating": "3.58333333333333",
     "DatabaseID": "15586",
     "Developer": "Vanguard Games",
     "ESRB": "E10+ - Everyone 10+",
@@ -117691,6 +117699,15 @@
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "1545707208",
+            "FileName": "r2_19a26dde-6618-4695-915a-576debcce81a.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_19a26dde-6618-4695-915a-576debcce81a.png"
+          }
+        ],
         "Back": [
           {
             "CRC32": "3387039751",
@@ -117698,6 +117715,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_9e0010d6-f777-4728-9943-c0913a847064.jpg"
+          },
+          {
+            "CRC32": "3142499561",
+            "FileName": "r2_ab443b27-5b81-4b22-8f60-252b5f5b1f57.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_ab443b27-5b81-4b22-8f60-252b5f5b1f57.jpg"
           }
         ],
         "Front": [
@@ -117729,6 +117753,15 @@
             "Type": "Box - Front",
             "URL": "http://images.launchbox-app.com/r2_5d36bdbb-b033-4449-baaf-676212b7f02b.jpg"
           }
+        ],
+        "Spine": [
+          {
+            "CRC32": "874946902",
+            "FileName": "r2_69bd09c7-6ef7-48d1-a086-3e973881f58f.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_69bd09c7-6ef7-48d1-a086-3e973881f58f.jpg"
+          }
         ]
       },
       "Disc": [
@@ -117747,6 +117780,43 @@
           "Region": "World",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/r2_a386ade8-2ac4-4d6a-ac1c-3714ba0051b6.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "3846572360",
+          "FileName": "r2_ad72bd98-2b0b-4e7d-ac72-f798f67acb50.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_ad72bd98-2b0b-4e7d-ac72-f798f67acb50.png"
+        },
+        {
+          "CRC32": "3389724975",
+          "FileName": "r2_1ecdadd5-0860-4dba-a4a9-8b44ff80e5a0.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_1ecdadd5-0860-4dba-a4a9-8b44ff80e5a0.png"
+        },
+        {
+          "CRC32": "2167785182",
+          "FileName": "r2_19cb4907-81ff-49f4-a4d2-1aac8df02ec4.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_19cb4907-81ff-49f4-a4d2-1aac8df02ec4.png"
+        },
+        {
+          "CRC32": "1065920372",
+          "FileName": "r2_5a8becbf-117d-4d3d-b174-ac462bf2df70.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_5a8becbf-117d-4d3d-b174-ac462bf2df70.png"
+        },
+        {
+          "CRC32": "1968455713",
+          "FileName": "r2_ead32c9f-f675-496e-a0d0-ce8ead3e2c62.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_ead32c9f-f675-496e-a0d0-ce8ead3e2c62.png"
         }
       ]
     },
@@ -127468,7 +127538,7 @@
         }
       ]
     },
-    "CommunityRating": "4.25",
+    "CommunityRating": "4.23684210526316",
     "DatabaseID": "16544",
     "Developer": "Konami",
     "ESRB": "E10+ - Everyone 10+",
@@ -132078,7 +132148,7 @@
         }
       ]
     },
-    "CommunityRating": "3.79166666666667",
+    "CommunityRating": "3.8",
     "DatabaseID": "17011",
     "Developer": "The Behemoth",
     "ESRB": "T - Teen",
@@ -136508,7 +136578,7 @@
         }
       ]
     },
-    "CommunityRating": "3.65",
+    "CommunityRating": "3.63636363636364",
     "DatabaseID": "17563",
     "Developer": "Microsoft Game Studios",
     "ESRB": "E - Everyone",
@@ -136656,7 +136726,7 @@
         }
       ]
     },
-    "CommunityRating": "3.27777777777778",
+    "CommunityRating": "3.3",
     "DatabaseID": "17602",
     "Developer": "Twisted Pixel Games",
     "ESRB": "T - Teen",
@@ -143657,7 +143727,7 @@
         ]
       }
     },
-    "CommunityRating": "2.71428571428571",
+    "CommunityRating": "2.8125",
     "DatabaseID": "19593",
     "Developer": "Capybara Games",
     "ESRB": "E10+ - Everyone 10+",
@@ -143883,7 +143953,7 @@
         }
       ]
     },
-    "CommunityRating": "3.27777777777778",
+    "CommunityRating": "3.35",
     "DatabaseID": "19682",
     "Developer": "Hidden Path Entertainment",
     "ESRB": "E10+ - Everyone 10+",
@@ -144972,7 +145042,7 @@
         }
       ]
     },
-    "CommunityRating": "4.34",
+    "CommunityRating": "4.36",
     "DatabaseID": "19945",
     "Developer": "Lionhead Studios",
     "ESRB": "M - Mature",
@@ -146538,7 +146608,7 @@
         }
       ]
     },
-    "CommunityRating": "3.5",
+    "CommunityRating": "3.125",
     "DatabaseID": "20314",
     "Developer": "Hello Games",
     "ESRB": "E - Everyone",
@@ -147417,7 +147487,7 @@
         }
       ]
     },
-    "CommunityRating": "4.02380952380952",
+    "CommunityRating": "4.06818181818182",
     "DatabaseID": "20338",
     "Developer": "RedLynx",
     "ESRB": "T - Teen",
@@ -149298,7 +149368,7 @@
         }
       ]
     },
-    "CommunityRating": "4.05555555555556",
+    "CommunityRating": "4.0546875",
     "DatabaseID": "20756",
     "Developer": "Sumo Digital",
     "ESRB": "E10+ - Everyone 10+",
@@ -149488,7 +149558,7 @@
         }
       ]
     },
-    "CommunityRating": "3.125",
+    "CommunityRating": "3.22222222222222",
     "DatabaseID": "20793",
     "Developer": "Certain Affinity",
     "ESRB": "T - Teen",
@@ -154084,7 +154154,7 @@
         }
       ]
     },
-    "CommunityRating": "3.91304347826087",
+    "CommunityRating": "3.89583333333333",
     "DatabaseID": "23408",
     "Developer": "Cave",
     "ESRB": "T - Teen",
@@ -155327,7 +155397,7 @@
         }
       ]
     },
-    "CommunityRating": "3.625",
+    "CommunityRating": "3.6",
     "DatabaseID": "23725",
     "Developer": "Qute",
     "Genres": "Shooter",
@@ -155494,7 +155564,7 @@
         }
       ]
     },
-    "CommunityRating": "2.7",
+    "CommunityRating": "2.75",
     "DatabaseID": "23727",
     "Developer": "Qute",
     "Genres": "Shooter",
@@ -161527,7 +161597,7 @@
     },
     "CommunityRating": "2.25",
     "DatabaseID": "30218",
-    "Genres": null,
+    "Genres": "Platform",
     "Name": "Doodle Jump",
     "Overview": "Doodle Jump is a platforming video game developed and published by Lima Sky, for Windows Phone, iOS, BlackBerry, Android, Java Mobile (J2ME), Nokia Symbian, and Xbox 360 for the Kinect platform.[1] It was released worldwide for iOS on April 6, 2009, and was later released for Android and Blackberry on March 2, 2010, Symbian on May 1, 2010, and Windows Phone 7 on June 1, 2011 (Re-Released August 21, 2013 Windows Phone 8). It was released for the iPad on September 1, 2011.[2] Since its release, the game has been generally well received. The game PapiJump by Sunflat Games inspired the gameplay of Doodle Jump, and characters featured in Doodle Jump were based on Elise Gravel's illustrations.[3] The game is currently available on nine platforms.\n\nDoodle Jump was renowned for its selling rate by App Store standards, which counted 25,000 copies sold daily for 4 consecutive months (later overtaken by Angry Birds). As of December, 2011, the game sold 10 million copies over iTunes and Google Play and reached 15 million downloads across all platforms.[4][5] The game has been developed into a video redemption game for play at video arcades.[6] Croats Igor and Marko Pusenjak are authors of Doodle Jump.[7]",
     "VideoURL": "http://www.youtube.com/watch?v=syVMW5i3OPU"
@@ -165289,7 +165359,7 @@
         }
       ]
     },
-    "CommunityRating": "4.13235294117647",
+    "CommunityRating": "4.12857142857143",
     "DatabaseID": "94367",
     "Developer": "Vector Unit",
     "ESRB": "E10+ - Everyone 10+",
@@ -166161,7 +166231,7 @@
         }
       ]
     },
-    "CommunityRating": "3.63157894736842",
+    "CommunityRating": "3.65",
     "DatabaseID": "95089",
     "Developer": "Digital Eclipse Software",
     "ESRB": "E10+ - Everyone 10+",
@@ -167465,7 +167535,7 @@
         }
       ]
     },
-    "CommunityRating": "4.45",
+    "CommunityRating": "4.45454545454545",
     "DatabaseID": "106328",
     "Developer": "Valve",
     "ESRB": "T - Teen",
@@ -167863,9 +167933,10 @@
         },
         {
           "CRC32": "2831429589",
-          "FileName": "a516e95d-279e-4fca-a0e8-082649804b1f.png",
+          "FileName": "r2_4ae50c4f-fcc2-40d6-8e70-86a51be37e55.jpg",
+          "Region": "World",
           "Type": "Fanart - Background",
-          "URL": "http://images.launchbox-app.com/a516e95d-279e-4fca-a0e8-082649804b1f.png"
+          "URL": "http://images.launchbox-app.com/r2_4ae50c4f-fcc2-40d6-8e70-86a51be37e55.jpg"
         }
       ],
       "Banner": [
@@ -174280,7 +174351,7 @@
         }
       ]
     },
-    "CommunityRating": "3.79166666666667",
+    "CommunityRating": "3.73076923076923",
     "DatabaseID": "155496",
     "Developer": "Taito",
     "ESRB": "E - Everyone",
@@ -174898,7 +174969,7 @@
         }
       ]
     },
-    "CommunityRating": "3.46428571428571",
+    "CommunityRating": "3.43333333333333",
     "DatabaseID": "155669",
     "Developer": "SouthEnd Interactive",
     "ESRB": "E - Everyone",
@@ -182256,7 +182327,7 @@
         }
       ]
     },
-    "CommunityRating": "4.375",
+    "CommunityRating": "4.27777777777778",
     "DatabaseID": "162609",
     "Developer": "Cave",
     "ESRB": "Not Rated",
@@ -184509,7 +184580,7 @@
         }
       ]
     },
-    "CommunityRating": "3.94736842105263",
+    "CommunityRating": "3.925",
     "DatabaseID": "164271",
     "Developer": "Ubisoft Singapore",
     "ESRB": "E10+ - Everyone 10+",
@@ -191915,6 +191986,7 @@
         }
       ]
     },
+    "CommunityRating": "3",
     "DatabaseID": "173351",
     "Developer": "Slitherine",
     "ESRB": "T - Teen",
@@ -192352,7 +192424,7 @@
         }
       ]
     },
-    "CommunityRating": "3.33333333333333",
+    "CommunityRating": "3.5",
     "DatabaseID": "173451",
     "Developer": "The Odd Gentlemen",
     "ESRB": "E10+ - Everyone 10+",
@@ -201884,7 +201956,7 @@
         }
       ]
     },
-    "CommunityRating": "3.25",
+    "CommunityRating": "2.75",
     "DatabaseID": "199453",
     "Developer": "Microsoft Studios",
     "Genres": "Action; Adventure",
@@ -204865,7 +204937,7 @@
         }
       ]
     },
-    "CommunityRating": "3",
+    "CommunityRating": "3.25",
     "DatabaseID": "203829",
     "Developer": "Moss",
     "ESRB": "T - Teen",
@@ -209077,7 +209149,7 @@
         }
       ]
     },
-    "CommunityRating": "4.61111111111111",
+    "CommunityRating": "4.60810810810811",
     "DatabaseID": "209118",
     "Developer": "Lionhead Studios",
     "ESRB": "M - Mature",
@@ -211204,7 +211276,7 @@
         }
       ]
     },
-    "CommunityRating": "3.71428571428571",
+    "CommunityRating": "3.72222222222222",
     "DatabaseID": "209271",
     "Developer": "Wahoo Studios",
     "ESRB": "E10+ - Everyone 10+",
@@ -211639,7 +211711,7 @@
         }
       ]
     },
-    "CommunityRating": "3.21428571428571",
+    "CommunityRating": "3.3125",
     "DatabaseID": "209276",
     "Developer": "SouthEnd Interactive",
     "ESRB": "E10+ - Everyone 10+",
@@ -215863,7 +215935,7 @@
         }
       ]
     },
-    "CommunityRating": "2",
+    "CommunityRating": "1.875",
     "DatabaseID": "209418",
     "Developer": "SouthPeak Interactive",
     "ESRB": "T - Teen",
@@ -216514,7 +216586,7 @@
         ]
       }
     },
-    "CommunityRating": "4.25",
+    "CommunityRating": "3.4",
     "DatabaseID": "209671",
     "Developer": "Playbrains",
     "ESRB": "E10+ - Everyone 10+",
@@ -225232,7 +225304,7 @@
         }
       ]
     },
-    "CommunityRating": "3",
+    "CommunityRating": "3.25",
     "DatabaseID": "218991",
     "Developer": "Gulti",
     "ESRB": "Not Rated",
