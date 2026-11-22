@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "5fe5ffd",
+    "target_commitish": "5fe5ffd3698ac0d010193c0b8c9729b49665a054",
+    "published_at": "2026-11-22T19:32:34Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5fe5ffd",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/5fe5ffd3698ac0d010193c0b8c9729b49665a054",
+    "changelog": {
+      "title": "5fe5ffd_canary_experimental",
+      "changes": "- [Patcher] Fix crashes on patch files with missing or wrong-typed fields (`5fe5ffd`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9197b02...5fe5ffd"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5fe5ffd/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5fe5ffd/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "9197b02",
+    "target_commitish": "9197b02b25f18d5ab47ce33dbaa5a7808cd53be7",
+    "published_at": "2026-11-22T18:20:44Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9197b02",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9197b02b25f18d5ab47ce33dbaa5a7808cd53be7",
+    "changelog": {
+      "title": "9197b02_canary_experimental",
+      "changes": "- [UI] Draw the frame rate overlay in the presenter instead of imgui (`9197b02`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/381ba37...9197b02"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9197b02/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9197b02/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "381ba37",
+    "target_commitish": "381ba37da7c38bfb48196485f8e5425d91f3ad77",
+    "published_at": "2026-11-22T17:39:16Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/381ba37",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/381ba37da7c38bfb48196485f8e5425d91f3ad77",
+    "changelog": {
+      "title": "381ba37_canary_experimental",
+      "changes": "- [x64] Resolve a longjmp only at its function's own frame (`381ba37`)\n- [PPC] End functions at a branch to a declared __restgprlr_* (`e32344a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e8f4be2...381ba37"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/381ba37/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/381ba37/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "e8f4be2",
     "target_commitish": "e8f4be2c867733f7325859ed35485326fd7da0aa",
     "published_at": "2026-11-22T00:24:12Z",
