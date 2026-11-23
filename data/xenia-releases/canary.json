@@ -1,5 +1,68 @@
 [
   {
+    "tag_name": "445ce54",
+    "target_commitish": "445ce5406f05824905f01eef2823e9a513738b9e",
+    "published_at": "2026-11-23T19:28:32Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/445ce54",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/445ce5406f05824905f01eef2823e9a513738b9e",
+    "changelog": {
+      "title": "445ce54_canary_experimental",
+      "changes": "- [CPU] Implement PPCContext::set_cr (`445ce54`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5949696...445ce54"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/445ce54/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/445ce54/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "5949696",
+    "target_commitish": "59496965bc34960f4ad9b042cfdff78321b6399a",
+    "published_at": "2026-11-23T18:58:19Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5949696",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/59496965bc34960f4ad9b042cfdff78321b6399a",
+    "changelog": {
+      "title": "5949696_canary_experimental",
+      "changes": "- [Kernel] Check SetThreadName's parameter count (`5949696`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6fed90b...5949696"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5949696/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/5949696/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "6fed90b",
+    "target_commitish": "6fed90b328f2a12722e240eb8c7947dc3088221a",
+    "published_at": "2026-11-23T18:09:28Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6fed90b",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6fed90b328f2a12722e240eb8c7947dc3088221a",
+    "changelog": {
+      "title": "6fed90b_canary_experimental",
+      "changes": "- [APU] Wake the idle XMA worker when pausing the decoder (`6fed90b`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1c84dca...6fed90b"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6fed90b/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6fed90b/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "1c84dca",
     "target_commitish": "1c84dcac41d0d2afd9410362a06b9772b7181876",
     "published_at": "2026-11-23T01:54:15Z",

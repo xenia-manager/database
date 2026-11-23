@@ -3,11 +3,15 @@
     "issue": 1269,
     "id": "4541094E",
     "title": "NCAA Football 12",
-    "updated": "2026-11-23T06:25:05Z",
-    "state": "Unknown",
+    "updated": "2026-11-23T10:53:37Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1269"
   },
@@ -15,11 +19,15 @@
     "issue": 1268,
     "id": "4541098A",
     "title": "NCAA Football 13",
-    "updated": "2026-11-23T06:12:54Z",
-    "state": "Unknown",
+    "updated": "2026-11-23T10:53:26Z",
+    "state": "Gameplay",
     "labels": {
-      "state": [],
-      "others": []
+      "state": [
+        "state-gameplay"
+      ],
+      "others": [
+        "gpu-readback"
+      ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/1268"
   },
@@ -2907,7 +2915,7 @@
     "issue": 1054,
     "id": "45410961",
     "title": "Need For Speed Most Wanted (2012)",
-    "updated": "2026-11-16T22:21:48Z",
+    "updated": "2026-11-23T13:04:20Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -15172,7 +15180,7 @@
     "issue": 261,
     "id": "4541081F",
     "title": "FIFA 08",
-    "updated": "2026-08-12T19:00:32Z",
+    "updated": "2026-11-23T17:07:59Z",
     "state": "Playable",
     "labels": {
       "state": [
