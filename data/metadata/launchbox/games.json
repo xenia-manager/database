@@ -1637,7 +1637,7 @@
         }
       ]
     },
-    "CommunityRating": "3.6",
+    "CommunityRating": "3.51388888888889",
     "DatabaseID": "52",
     "Developer": "Rare",
     "ESRB": "M - Mature",
@@ -2576,7 +2576,7 @@
         }
       ]
     },
-    "CommunityRating": "3.87142857142857",
+    "CommunityRating": "3.77777777777778",
     "DatabaseID": "95",
     "Developer": "Bizarre Creations",
     "ESRB": "E - Everyone",
@@ -39135,7 +39135,7 @@
         }
       ]
     },
-    "CommunityRating": "4.32894736842105",
+    "CommunityRating": "4.30487804878049",
     "DatabaseID": "8864",
     "Developer": "Turn 10 Studios",
     "ESRB": "E - Everyone",
@@ -41079,9 +41079,10 @@
       "Other": [
         {
           "CRC32": "3192473889",
-          "FileName": "31cee7c6-64c2-4d0e-a99e-8f8e9f4f69f8.png",
+          "FileName": "r2_15df1730-183d-44a3-9863-a00adc5d4644.png",
+          "Region": "World",
           "Type": "Clear Logo",
-          "URL": "http://images.launchbox-app.com/31cee7c6-64c2-4d0e-a99e-8f8e9f4f69f8.png"
+          "URL": "http://images.launchbox-app.com/r2_15df1730-183d-44a3-9863-a00adc5d4644.png"
         }
       ],
       "Screenshots": [
@@ -45451,7 +45452,7 @@
         }
       ]
     },
-    "CommunityRating": "4.02941176470588",
+    "CommunityRating": "4",
     "DatabaseID": "10046",
     "Developer": "Capcom",
     "ESRB": "T - Teen",
@@ -45775,7 +45776,7 @@
         }
       ]
     },
-    "CommunityRating": "3.78571428571429",
+    "CommunityRating": "3.8",
     "DatabaseID": "10391",
     "Developer": "NetherRealm Studios",
     "ESRB": "T - Teen",
@@ -52208,7 +52209,7 @@
         }
       ]
     },
-    "CommunityRating": "3.91176470588235",
+    "CommunityRating": "3.91666666666667",
     "DatabaseID": "10940",
     "Developer": "Epic Games",
     "ESRB": "T - Teen",
@@ -67654,7 +67655,7 @@
         }
       ]
     },
-    "CommunityRating": "1.91666666666667",
+    "CommunityRating": "1.8125",
     "DatabaseID": "12532",
     "Developer": "Team17 Software",
     "ESRB": "M - Mature",
@@ -71569,7 +71570,7 @@
         }
       ]
     },
-    "CommunityRating": "4.47368421052632",
+    "CommunityRating": "4.275",
     "DatabaseID": "12654",
     "Developer": "Namco Tales Studio",
     "ESRB": "T - Teen",
@@ -81749,7 +81750,7 @@
         }
       ]
     },
-    "CommunityRating": "4.68965517241379",
+    "CommunityRating": "4.66666666666667",
     "DatabaseID": "13249",
     "Developer": "Rockstar San Diego",
     "ESRB": "T - Teen",
@@ -82085,7 +82086,7 @@
         }
       ]
     },
-    "CommunityRating": "3.9",
+    "CommunityRating": "3.6875",
     "DatabaseID": "13257",
     "Developer": "Electronic Arts Black Box",
     "ESRB": "E10+ - Everyone 10+",
@@ -87494,13 +87495,40 @@
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "2696578715",
+            "FileName": "r2_e1ace143-03d3-4047-9183-1c5b9d6ac4a6.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_e1ace143-03d3-4047-9183-1c5b9d6ac4a6.png"
+          }
+        ],
+        "Back": [
+          {
+            "CRC32": "1445707374",
+            "FileName": "r2_a315f089-e86f-4916-9de6-d23e1cf9c336.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_a315f089-e86f-4916-9de6-d23e1cf9c336.jpg"
+          }
+        ],
         "Front": [
           {
             "CRC32": "1784168523",
-            "FileName": "2935d5f4-6f29-413c-afca-d0193de6057a.jpg",
+            "FileName": "r2_9b3e14c5-ecf6-4a69-8161-2181dd883646.jpg",
             "Region": "North America",
             "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/2935d5f4-6f29-413c-afca-d0193de6057a.jpg"
+            "URL": "http://images.launchbox-app.com/r2_9b3e14c5-ecf6-4a69-8161-2181dd883646.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "4241831572",
+            "FileName": "r2_c6abffae-a9b8-490b-b5ae-7312313df703.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_c6abffae-a9b8-490b-b5ae-7312313df703.jpg"
           }
         ]
       },
@@ -87520,6 +87548,43 @@
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/c372a869-925d-4efe-ab99-2ce1ebee7ed4.png"
         }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "2884210787",
+          "FileName": "r2_28deae46-2078-4c19-8d09-e185a1486162.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_28deae46-2078-4c19-8d09-e185a1486162.png"
+        },
+        {
+          "CRC32": "2217908427",
+          "FileName": "r2_23c55162-af62-41ea-9822-8f0ae72d3516.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_23c55162-af62-41ea-9822-8f0ae72d3516.png"
+        },
+        {
+          "CRC32": "211705913",
+          "FileName": "r2_5d769967-260d-4df4-98c1-afe61b08f10e.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_5d769967-260d-4df4-98c1-afe61b08f10e.png"
+        },
+        {
+          "CRC32": "2340597235",
+          "FileName": "r2_82236137-16ee-49fd-842b-566e3da3d8c3.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_82236137-16ee-49fd-842b-566e3da3d8c3.png"
+        },
+        {
+          "CRC32": "3025490778",
+          "FileName": "r2_b7fde126-50c9-49b9-b474-5eecc8082525.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_b7fde126-50c9-49b9-b474-5eecc8082525.png"
+        }
       ]
     },
     "CommunityRating": "2.5",
@@ -87528,7 +87593,7 @@
     "ESRB": "E - Everyone",
     "Genres": "Quiz",
     "Name": "Jeopardy!",
-    "Overview": "Join Alex Trebek and play as a contestant on Americas Favorite Quiz Show!\" \n\nTest your knowledge to make it to Final Jeopardy! and the coveted Winners Circle! \n\n-Use your quick wit to play 3,000 clues in Jeopardy!, Double Jeopardy! and Final Jeopardy! \n-The complete Jeopardy! Clue Crew of Jimmy, Kelly and Sarah bring the clues to life the first time in a game format \n-Vibrant HD graphics, improved menu interface and fresh in-game features! \n-Play in single player mode with the Wii U GamePad or connect your Wii U to the TV and play as a family",
+    "Overview": "This 2012 update of the classic Jeopardy! quiz game includes 3,000 clues in the Jeopardy!, Double Jeopardy! and Final Jeopardy! formats. The game also includes the premier of the \"Jeopardy! Clue Crew\" for the first time in a home game format, while also featuring host Alex Trebek and announcer Johnny Gilbert. Between rounds multiplayer mini-games are offered as breaks. Online multiplayer is supported to play against other players.",
     "Publisher": "THQ",
     "ReleaseDate": "2012-10-25"
   },
@@ -99065,7 +99130,7 @@
         }
       ]
     },
-    "CommunityRating": "3",
+    "CommunityRating": "2.75",
     "DatabaseID": "14341",
     "Developer": "Black Rock Studio",
     "ESRB": "E - Everyone",
@@ -99981,7 +100046,7 @@
         }
       ]
     },
-    "CommunityRating": "3.77272727272727",
+    "CommunityRating": "3.5",
     "DatabaseID": "14382",
     "Developer": "RedLynx",
     "ESRB": "E10+ - Everyone 10+",
@@ -124498,7 +124563,7 @@
         }
       ]
     },
-    "CommunityRating": "3.59090909090909",
+    "CommunityRating": "3.625",
     "DatabaseID": "16325",
     "Developer": "Avalanche Studios",
     "ESRB": "T - Teen",
@@ -130489,7 +130554,7 @@
         }
       ]
     },
-    "CommunityRating": "3.47368421052632",
+    "CommunityRating": "3.475",
     "DatabaseID": "16787",
     "Developer": "Sega",
     "ESRB": "T - Teen",
@@ -131880,7 +131945,7 @@
         }
       ]
     },
-    "CommunityRating": "3.85714285714286",
+    "CommunityRating": "3.875",
     "DatabaseID": "16883",
     "Developer": "Pocketwatch Games",
     "ESRB": "T - Teen",
@@ -133948,7 +134013,7 @@
         }
       ]
     },
-    "CommunityRating": "3.25",
+    "CommunityRating": "3",
     "DatabaseID": "17226",
     "Developer": "Ghost Games",
     "ESRB": "E10+ - Everyone 10+",
@@ -140887,7 +140952,7 @@
         }
       ]
     },
-    "CommunityRating": "4.22222222222222",
+    "CommunityRating": "3.85",
     "DatabaseID": "18791",
     "Developer": "Smart Bomb Interactive",
     "ESRB": "E10+ - Everyone 10+",
@@ -149822,7 +149887,7 @@
         }
       ]
     },
-    "CommunityRating": "3.83333333333333",
+    "CommunityRating": "3.84615384615385",
     "DatabaseID": "21023",
     "Developer": "Signal Studios",
     "ESRB": "T - Teen",
@@ -150078,7 +150143,7 @@
         }
       ]
     },
-    "CommunityRating": "3.52",
+    "CommunityRating": "3.55769230769231",
     "DatabaseID": "21143",
     "Developer": "Arc System Works",
     "ESRB": "T - Teen",
@@ -153903,7 +153968,7 @@
         }
       ]
     },
-    "CommunityRating": "4.61111111111111",
+    "CommunityRating": "4.55",
     "DatabaseID": "23242",
     "Developer": "Monolith Productions",
     "ESRB": "M - Mature",
@@ -156647,6 +156712,15 @@
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "147003025",
+            "FileName": "r2_53e7a2e8-73b0-4bb7-9cc6-744941fbec3c.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_53e7a2e8-73b0-4bb7-9cc6-744941fbec3c.png"
+          }
+        ],
         "Back": [
           {
             "CRC32": "4032138472",
@@ -156668,6 +156742,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_cad5da29-15de-4383-bcd3-d5b8c2a68669.jpeg"
+          },
+          {
+            "CRC32": "3584520660",
+            "FileName": "r2_a3014d79-0d2d-4143-a89a-ab2da94e4ce0.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_a3014d79-0d2d-4143-a89a-ab2da94e4ce0.jpg"
           },
           {
             "CRC32": "1780271569",
@@ -156707,6 +156788,13 @@
             "URL": "http://images.launchbox-app.com/e397f437-83aa-47c8-b56a-4e34110fb7fd.jpg"
           },
           {
+            "CRC32": "524452115",
+            "FileName": "r2_d1637ce5-4997-44c3-b9d8-3a615b9e8565.jpg",
+            "Region": "North America",
+            "Type": "Box - Front",
+            "URL": "http://images.launchbox-app.com/r2_d1637ce5-4997-44c3-b9d8-3a615b9e8565.jpg"
+          },
+          {
             "CRC32": "2895952908",
             "FileName": "c5ab14cd-67a4-4317-9ba8-3d47191fa4e9.jpg",
             "Region": "World",
@@ -156721,6 +156809,13 @@
             "Region": "Germany",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/r2_45caf52d-068c-47b8-b769-2bb809107f72.jpg"
+          },
+          {
+            "CRC32": "1427377462",
+            "FileName": "r2_ccf9b6ab-b14d-4213-8fbc-eb163a2c82b9.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_ccf9b6ab-b14d-4213-8fbc-eb163a2c82b9.jpg"
           }
         ]
       },
@@ -156743,9 +156838,40 @@
       "Other": [
         {
           "CRC32": "157293134",
-          "FileName": "68caf386-2df9-4f74-9407-f8cf3cc0691f.png",
+          "FileName": "r2_dbdb51eb-a9bf-454c-9d2d-cd16f5d8cbe3.png",
+          "Region": "World",
           "Type": "Clear Logo",
-          "URL": "http://images.launchbox-app.com/68caf386-2df9-4f74-9407-f8cf3cc0691f.png"
+          "URL": "http://images.launchbox-app.com/r2_dbdb51eb-a9bf-454c-9d2d-cd16f5d8cbe3.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "379545472",
+          "FileName": "r2_0449a5ce-0c40-4874-b431-6d59c12fc686.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_0449a5ce-0c40-4874-b431-6d59c12fc686.png"
+        },
+        {
+          "CRC32": "56602298",
+          "FileName": "r2_85d86905-a9a9-4b05-8e9d-87d7c1aaf80b.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_85d86905-a9a9-4b05-8e9d-87d7c1aaf80b.png"
+        },
+        {
+          "CRC32": "1041526208",
+          "FileName": "r2_af8f4387-a57e-4623-8098-67ec899d5789.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_af8f4387-a57e-4623-8098-67ec899d5789.png"
+        },
+        {
+          "CRC32": "742218958",
+          "FileName": "r2_d2bc5cc3-7ecb-40c5-af55-096a2af43fc8.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_d2bc5cc3-7ecb-40c5-af55-096a2af43fc8.png"
         }
       ]
     },
@@ -176381,7 +176507,7 @@
         }
       ]
     },
-    "CommunityRating": "3.33333333333333",
+    "CommunityRating": "3.35714285714286",
     "DatabaseID": "156696",
     "Developer": "Eiconic Games",
     "ESRB": "E - Everyone",
@@ -176781,7 +176907,7 @@
         }
       ]
     },
-    "CommunityRating": "4.15789473684211",
+    "CommunityRating": "4.175",
     "DatabaseID": "156962",
     "Developer": "Sumo Digital",
     "ESRB": "E - Everyone",
@@ -195950,7 +196076,7 @@
         }
       ]
     },
-    "CommunityRating": "3.1875",
+    "CommunityRating": "3.27777777777778",
     "DatabaseID": "173860",
     "Developer": "Electronic Arts",
     "ESRB": "E10+ - Everyone 10+",
@@ -229050,6 +229176,7 @@
         }
       ]
     },
+    "CommunityRating": "0.5",
     "DatabaseID": "459063",
     "Developer": "Dimps Corporation",
     "ESRB": "Not Rated",

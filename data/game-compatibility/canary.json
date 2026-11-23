@@ -1,5 +1,29 @@
 [
   {
+    "issue": 1269,
+    "id": "4541094E",
+    "title": "NCAA Football 12",
+    "updated": "2026-11-23T06:25:05Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1269"
+  },
+  {
+    "issue": 1268,
+    "id": "4541098A",
+    "title": "NCAA Football 13",
+    "updated": "2026-11-23T06:12:54Z",
+    "state": "Unknown",
+    "labels": {
+      "state": [],
+      "others": []
+    },
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/1268"
+  },
+  {
     "issue": 1267,
     "id": "4B4E07E7",
     "title": "Dance Dance Revolution Universe 2",
@@ -31,11 +55,11 @@
     "issue": 1265,
     "id": "425607D1",
     "title": "Disney Pirates of the Caribbean: At World's End",
-    "updated": "2026-11-16T20:47:14Z",
-    "state": "Gameplay",
+    "updated": "2026-11-23T00:29:30Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": []
     },
@@ -3254,13 +3278,14 @@
     "issue": 1025,
     "id": "454108D9",
     "title": "G.I Joe: The Rise of Cobra",
-    "updated": "2026-11-22T15:33:41Z",
-    "state": "Gameplay",
+    "updated": "2026-11-22T22:20:07Z",
+    "state": "Playable",
     "labels": {
       "state": [
-        "state-gameplay"
+        "state-playable"
       ],
       "others": [
+        "apu-garbage",
         "vsync-off-speedup",
         "requires_render_target_rov_fsi"
       ]
@@ -7837,7 +7862,7 @@
     "issue": 719,
     "id": "58410A23",
     "title": "Pinball FX2",
-    "updated": "2026-11-22T05:49:29Z",
+    "updated": "2026-11-23T01:36:21Z",
     "state": "Gameplay",
     "labels": {
       "state": [
@@ -13381,7 +13406,7 @@
     "issue": 365,
     "id": "4541094D",
     "title": "Tiger Woods PGA Tour 12: The Masters",
-    "updated": "2025-01-10T03:57:00Z",
+    "updated": "2026-11-23T04:50:29Z",
     "state": "Gameplay",
     "labels": {
       "state": [

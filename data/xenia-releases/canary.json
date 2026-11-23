@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "1c84dca",
+    "target_commitish": "1c84dcac41d0d2afd9410362a06b9772b7181876",
+    "published_at": "2026-11-23T01:54:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1c84dca",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/1c84dcac41d0d2afd9410362a06b9772b7181876",
+    "changelog": {
+      "title": "1c84dca_canary_experimental",
+      "changes": "- [Base] Move ConsoleWindow from xenia-ui to xenia-base (`1c84dca`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7132815...1c84dca"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1c84dca/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/1c84dca/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7132815",
+    "target_commitish": "7132815db4523cbcbd9ea371f101d0886decf50c",
+    "published_at": "2026-11-23T01:25:54Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7132815",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7132815db4523cbcbd9ea371f101d0886decf50c",
+    "changelog": {
+      "title": "7132815_canary_experimental",
+      "changes": "- [UI] Implement enable_console on Linux (`7132815`)\n- [Base] Stop leaking file descriptors in AttachConsole on Windows (`639628d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5fe5ffd...7132815"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7132815/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7132815/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "5fe5ffd",
     "target_commitish": "5fe5ffd3698ac0d010193c0b8c9729b49665a054",
     "published_at": "2026-11-22T19:32:34Z",
