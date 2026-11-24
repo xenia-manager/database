@@ -1,5 +1,47 @@
 [
   {
+    "tag_name": "2da2519",
+    "target_commitish": "2da25198960769ccc2baa97529f77485351732fe",
+    "published_at": "2026-11-24T16:32:05Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2da2519",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2da25198960769ccc2baa97529f77485351732fe",
+    "changelog": {
+      "title": "2da2519_canary_experimental",
+      "changes": "- [XAM] Cleanup XamWriteGamerTile (`2da2519`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/057f66e...2da2519"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2da2519/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2da2519/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "057f66e",
+    "target_commitish": "057f66e57d9b327b747f0d4b05a5ad0328efc070",
+    "published_at": "2026-11-24T15:36:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/057f66e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/057f66e57d9b327b747f0d4b05a5ad0328efc070",
+    "changelog": {
+      "title": "057f66e_canary_experimental",
+      "changes": "- [APU] Wait only for in-flight decoding in XMABlockWhileInUse (`057f66e`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/9993c68...057f66e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/057f66e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/057f66e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "9993c68",
     "target_commitish": "9993c688ba33f45b0348b836cbed811b5c4490d0",
     "published_at": "2026-11-24T01:56:30Z",
