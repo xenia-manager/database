@@ -1,5 +1,89 @@
 [
   {
+    "tag_name": "9993c68",
+    "target_commitish": "9993c688ba33f45b0348b836cbed811b5c4490d0",
+    "published_at": "2026-11-24T01:56:30Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/9993c68",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/9993c688ba33f45b0348b836cbed811b5c4490d0",
+    "changelog": {
+      "title": "9993c68_canary_experimental",
+      "changes": "- [Kernel] Name the processor mode in kernel waits (`9993c68`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/19960c8...9993c68"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9993c68/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/9993c68/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "19960c8",
+    "target_commitish": "19960c82f3d98d7dc0fe47daa3038ef6422ebbaf",
+    "published_at": "2026-11-24T00:59:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/19960c8",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/19960c82f3d98d7dc0fe47daa3038ef6422ebbaf",
+    "changelog": {
+      "title": "19960c8_canary_experimental",
+      "changes": "- [Kernel] Compare the DOS device prefixes of a file name as bytes (`19960c8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/f21fc2d...19960c8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/19960c8/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/19960c8/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "f21fc2d",
+    "target_commitish": "f21fc2dc4f3a454122e9a710d9df1f98e34c8602",
+    "published_at": "2026-11-23T23:07:13Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/f21fc2d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/f21fc2dc4f3a454122e9a710d9df1f98e34c8602",
+    "changelog": {
+      "title": "f21fc2d_canary_experimental",
+      "changes": "- [Kernel] Implement guest exception dispatch and stack unwinding (`f21fc2d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/0f9f29d...f21fc2d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f21fc2d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/f21fc2d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "0f9f29d",
+    "target_commitish": "0f9f29ddc53ea5deca8b4a0f0f867208719389ce",
+    "published_at": "2026-11-23T22:37:59Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/0f9f29d",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/0f9f29ddc53ea5deca8b4a0f0f867208719389ce",
+    "changelog": {
+      "title": "0f9f29d_canary_experimental",
+      "changes": "- [Base] Use fourcc_t for four-character signatures (`0f9f29d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/445ce54...0f9f29d"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0f9f29d/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/0f9f29d/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "445ce54",
     "target_commitish": "445ce5406f05824905f01eef2823e9a513738b9e",
     "published_at": "2026-11-23T19:28:32Z",
