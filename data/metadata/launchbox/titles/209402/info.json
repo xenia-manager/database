@@ -10,6 +10,15 @@
       }
     ],
     "Box": {
+      "3D": [
+        {
+          "CRC32": "2651147293",
+          "FileName": "r2_fedb9a49-6c51-4165-88ca-a876a6e9f86e.png",
+          "Region": "World",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_fedb9a49-6c51-4165-88ca-a876a6e9f86e.png"
+        }
+      ],
       "Front": [
         {
           "CRC32": "3687712052",
@@ -27,13 +36,61 @@
         },
         {
           "CRC32": "266465338",
-          "FileName": "r2_cff5fc9b-75a2-4b32-b53c-2cfd52a4ce01.jpg",
+          "FileName": "r2_2e376623-786f-4c4b-ae96-4e54b798df2a.jpg",
           "Region": "World",
           "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/r2_cff5fc9b-75a2-4b32-b53c-2cfd52a4ce01.jpg"
+          "URL": "http://images.launchbox-app.com/r2_2e376623-786f-4c4b-ae96-4e54b798df2a.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "1225683061",
+          "FileName": "r2_8131356d-0cbd-4fde-86e3-94f2fd8db055.jpg",
+          "Region": "World",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_8131356d-0cbd-4fde-86e3-94f2fd8db055.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "CRC32": "2506051585",
+        "FileName": "r2_079be531-c33a-4882-af05-6bae212b2c97.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_079be531-c33a-4882-af05-6bae212b2c97.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3825751566",
+        "FileName": "r2_2b8d0261-3426-45dc-9de1-f6d547ffa1c7.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_2b8d0261-3426-45dc-9de1-f6d547ffa1c7.png"
+      },
+      {
+        "CRC32": "2084485113",
+        "FileName": "r2_6059ff78-bf18-4238-8091-66dc5929868c.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_6059ff78-bf18-4238-8091-66dc5929868c.png"
+      },
+      {
+        "CRC32": "2182722319",
+        "FileName": "r2_003161c9-596c-4741-8a18-3ece241d49d4.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_003161c9-596c-4741-8a18-3ece241d49d4.png"
+      },
+      {
+        "CRC32": "561776306",
+        "FileName": "r2_7aab714f-dd3d-4a02-9fe3-c372d11b7b0f.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_7aab714f-dd3d-4a02-9fe3-c372d11b7b0f.png"
+      }
+    ]
   },
   "CommunityRating": "3.5",
   "DatabaseID": "209402",
@@ -42,6 +99,6 @@
   "Genres": "Shooter",
   "Name": "Hitman: Sniper Challenge",
   "Overview": "Get ready to pull the trigger on a completely new chapter in the award-winning Hitman series. Keep track of your scores and compare them with other players around the globe. Hone your marksman expertise in preparation of Agent 47's toughest and most personal contract yet - Hitman Absolution.",
-  "Publisher": "Square Enix Europe",
+  "Publisher": "Square Enix",
   "ReleaseDate": "2012-05-14"
 }
