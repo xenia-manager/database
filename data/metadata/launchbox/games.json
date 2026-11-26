@@ -6101,7 +6101,7 @@
         }
       ]
     },
-    "CommunityRating": "3.52631578947368",
+    "CommunityRating": "3.55",
     "DatabaseID": "874",
     "Developer": "Namco Bandai Games",
     "ESRB": "M - Mature",
@@ -9640,7 +9640,7 @@
         }
       ]
     },
-    "CommunityRating": "3.88888888888889",
+    "CommunityRating": "3.92105263157895",
     "DatabaseID": "3904",
     "Developer": "Grasshopper Manufacture",
     "ESRB": "M - Mature",
@@ -17784,7 +17784,7 @@
         }
       ]
     },
-    "CommunityRating": "3.25",
+    "CommunityRating": "3.4",
     "DatabaseID": "7470",
     "Developer": "FromSoftware",
     "ESRB": "T - Teen",
@@ -28363,6 +28363,13 @@
           "FileName": "ebc34d74-9790-4faa-bbf7-c2192f1f7975.jpg",
           "Type": "Fanart - Background",
           "URL": "http://images.launchbox-app.com/ebc34d74-9790-4faa-bbf7-c2192f1f7975.jpg"
+        },
+        {
+          "CRC32": "1614483303",
+          "FileName": "r2_b3d8e99e-1f81-4e53-9e2b-d937d663f16c.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_b3d8e99e-1f81-4e53-9e2b-d937d663f16c.jpg"
         }
       ],
       "Banner": [
@@ -28438,6 +28445,13 @@
         ],
         "Spine": [
           {
+            "CRC32": "1384335164",
+            "FileName": "r2_4498148e-81c6-4a45-bf6f-69969f5c9d92.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_4498148e-81c6-4a45-bf6f-69969f5c9d92.jpg"
+          },
+          {
             "CRC32": "915139188",
             "FileName": "r2_f338c7d4-8c68-4016-a140-15417c3aac89.jpg",
             "Region": "United Kingdom",
@@ -28449,38 +28463,56 @@
       "Disc": [
         {
           "CRC32": "4109298852",
-          "FileName": "61b257dd-708b-48df-a12c-81c9e8e537a0.jpg",
-          "Region": "United States",
+          "FileName": "r2_36e23946-4e38-4201-8ad6-534256e3ceab.png",
+          "Region": "North America",
           "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/61b257dd-708b-48df-a12c-81c9e8e537a0.jpg"
+          "URL": "http://images.launchbox-app.com/r2_36e23946-4e38-4201-8ad6-534256e3ceab.png"
         }
       ],
       "Other": [
         {
           "CRC32": "3212499806",
-          "FileName": "0298e789-867f-4f0b-956d-7ac752a8a97b.png",
+          "FileName": "r2_d82567dc-6a61-4b34-adc5-47fcfd3f22f6.png",
+          "Region": "World",
           "Type": "Clear Logo",
-          "URL": "http://images.launchbox-app.com/0298e789-867f-4f0b-956d-7ac752a8a97b.png"
+          "URL": "http://images.launchbox-app.com/r2_d82567dc-6a61-4b34-adc5-47fcfd3f22f6.png"
         }
       ],
       "Screenshots": [
         {
-          "CRC32": "2372801163",
-          "FileName": "1540ae6d-a6d5-4013-8205-15506002205e.jpg",
-          "Type": "Screenshot - Gameplay",
-          "URL": "http://images.launchbox-app.com/1540ae6d-a6d5-4013-8205-15506002205e.jpg"
+          "CRC32": "3576181047",
+          "FileName": "r2_32d333ec-b0c4-4be2-a73e-3e6952733aec.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_32d333ec-b0c4-4be2-a73e-3e6952733aec.png"
         },
         {
-          "CRC32": "1602274122",
-          "FileName": "42d6366c-817f-4254-a6ba-cecd4c38b015.jpg",
-          "Type": "Screenshot - Gameplay",
-          "URL": "http://images.launchbox-app.com/42d6366c-817f-4254-a6ba-cecd4c38b015.jpg"
+          "CRC32": "1102952613",
+          "FileName": "r2_47d7aead-741f-45c5-9afa-85b8dea937a3.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_47d7aead-741f-45c5-9afa-85b8dea937a3.png"
         },
         {
           "CRC32": "2416120677",
-          "FileName": "ee8f7986-c155-4b38-b94c-4c53316b8263.jpg",
+          "FileName": "r2_6d230206-af61-4cf6-b0eb-995808d7432d.png",
+          "Region": "World",
           "Type": "Screenshot - Gameplay",
-          "URL": "http://images.launchbox-app.com/ee8f7986-c155-4b38-b94c-4c53316b8263.jpg"
+          "URL": "http://images.launchbox-app.com/r2_6d230206-af61-4cf6-b0eb-995808d7432d.png"
+        },
+        {
+          "CRC32": "1602274122",
+          "FileName": "r2_6f96bda0-de62-4430-b6ac-c544383e2ed3.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_6f96bda0-de62-4430-b6ac-c544383e2ed3.png"
+        },
+        {
+          "CRC32": "2372801163",
+          "FileName": "r2_a7be14c7-5174-4560-b79e-4814f0b80e3b.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_a7be14c7-5174-4560-b79e-4814f0b80e3b.png"
         }
       ]
     },
@@ -29421,7 +29453,7 @@
         }
       ]
     },
-    "CommunityRating": "3.88888888888889",
+    "CommunityRating": "3.9",
     "DatabaseID": "7683",
     "Developer": "High Moon Studios",
     "ESRB": "T - Teen",
@@ -39172,7 +39204,7 @@
         }
       ]
     },
-    "CommunityRating": "4.30487804878049",
+    "CommunityRating": "4.32142857142857",
     "DatabaseID": "8864",
     "Developer": "Turn 10 Studios",
     "ESRB": "E - Everyone",
@@ -50645,17 +50677,39 @@
           "Region": "Australia",
           "Type": "Disc",
           "URL": "http://images.launchbox-app.com/b8e122b0-951e-4f39-ae87-f6a5d311b74d.png"
+        },
+        {
+          "CRC32": "595982001",
+          "FileName": "r2_2e9d084d-b067-49d2-96e6-03e762568d84.png",
+          "Region": "North America",
+          "Type": "Disc",
+          "URL": "http://images.launchbox-app.com/r2_2e9d084d-b067-49d2-96e6-03e762568d84.png"
         }
       ],
       "Other": [
         {
           "CRC32": "4135847837",
-          "FileName": "71ef9c2e-75f6-4f31-bf61-338a4dea9280.png",
+          "FileName": "r2_512f684c-dd3f-43ce-bf17-2fbc49c54688.png",
+          "Region": "World",
           "Type": "Clear Logo",
-          "URL": "http://images.launchbox-app.com/71ef9c2e-75f6-4f31-bf61-338a4dea9280.png"
+          "URL": "http://images.launchbox-app.com/r2_512f684c-dd3f-43ce-bf17-2fbc49c54688.png"
         }
       ],
       "Screenshots": [
+        {
+          "CRC32": "3036984032",
+          "FileName": "r2_f22b0d2f-7aec-48a9-ae1d-aedb9dc49a5e.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_f22b0d2f-7aec-48a9-ae1d-aedb9dc49a5e.png"
+        },
+        {
+          "CRC32": "2779261292",
+          "FileName": "r2_c70f62df-6b46-402f-9d72-80813e1bbcf8.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_c70f62df-6b46-402f-9d72-80813e1bbcf8.png"
+        },
         {
           "CRC32": "3033282184",
           "FileName": "12a26993-e0ff-4878-800f-7cd93e8ab355.jpg",
@@ -52270,7 +52324,7 @@
         }
       ]
     },
-    "CommunityRating": "3.91666666666667",
+    "CommunityRating": "3.97368421052632",
     "DatabaseID": "10940",
     "Developer": "Epic Games",
     "ESRB": "T - Teen",
@@ -52895,7 +52949,7 @@
         }
       ]
     },
-    "CommunityRating": "4.20689655172414",
+    "CommunityRating": "4.24193548387097",
     "DatabaseID": "11017",
     "Developer": "The Behemoth",
     "ESRB": "T - Teen",
@@ -56890,7 +56944,7 @@
         }
       ]
     },
-    "CommunityRating": "4.46341463414634",
+    "CommunityRating": "4.46951219512195",
     "DatabaseID": "11977",
     "Developer": "Playground Games",
     "ESRB": "T - Teen",
@@ -71645,6 +71699,15 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "1748448911",
+          "FileName": "r2_4c2deff3-a5e0-48b9-a7be-a624c71fee8b.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_4c2deff3-a5e0-48b9-a7be-a624c71fee8b.jpg"
+        }
+      ],
       "Box": {
         "3D": [
           {
@@ -71726,13 +71789,6 @@
       },
       "Disc": [
         {
-          "CRC32": "6342617",
-          "FileName": "r2_8aa7fa20-e92e-4727-a223-6d200d13c7ab.png",
-          "Region": "North America",
-          "Type": "Disc",
-          "URL": "http://images.launchbox-app.com/r2_8aa7fa20-e92e-4727-a223-6d200d13c7ab.png"
-        },
-        {
           "CRC32": "4048866841",
           "FileName": "r2_b65e2c0a-49d4-4e59-bcad-c747f9728a3e.png",
           "Region": "North America",
@@ -71746,6 +71802,36 @@
           "FileName": "81d7184d-c688-4265-bc50-e6103534a86e.png",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/81d7184d-c688-4265-bc50-e6103534a86e.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "1430013898",
+          "FileName": "r2_55c48f7d-2a6b-4942-80cd-85fa5a924339.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_55c48f7d-2a6b-4942-80cd-85fa5a924339.png"
+        },
+        {
+          "CRC32": "154155056",
+          "FileName": "r2_ade67a3b-35fe-4781-b63e-ce3e6c96d46c.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_ade67a3b-35fe-4781-b63e-ce3e6c96d46c.png"
+        },
+        {
+          "CRC32": "54881374",
+          "FileName": "r2_65615b29-bdca-4bf6-baef-8b3774f837db.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_65615b29-bdca-4bf6-baef-8b3774f837db.png"
+        },
+        {
+          "CRC32": "1593126601",
+          "FileName": "r2_cc09dfc7-05fa-4de1-9a2a-9b102d7105da.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_cc09dfc7-05fa-4de1-9a2a-9b102d7105da.png"
         }
       ]
     },
@@ -114580,12 +114666,40 @@
         }
       ],
       "Box": {
+        "3D": [
+          {
+            "CRC32": "611779107",
+            "FileName": "r2_8d9154f4-5a93-4340-8168-b486cee575a5.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_8d9154f4-5a93-4340-8168-b486cee575a5.png"
+          }
+        ],
+        "Back": [
+          {
+            "CRC32": "1913367971",
+            "FileName": "r2_afb3acb7-ef86-446a-8092-790ea7ca946c.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_afb3acb7-ef86-446a-8092-790ea7ca946c.jpg"
+          }
+        ],
         "Front": [
           {
             "CRC32": "890546131",
-            "FileName": "da358dfe-2fb5-4cf2-a710-97ab438d6fed.jpg",
+            "FileName": "r2_f3c93e11-bdcd-44e5-ba98-e7d3168ae81b.jpg",
+            "Region": "North America",
             "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/da358dfe-2fb5-4cf2-a710-97ab438d6fed.jpg"
+            "URL": "http://images.launchbox-app.com/r2_f3c93e11-bdcd-44e5-ba98-e7d3168ae81b.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "3014702062",
+            "FileName": "r2_5bee7a57-9fdb-4bac-aa40-793eae599002.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_5bee7a57-9fdb-4bac-aa40-793eae599002.jpg"
           }
         ]
       },
@@ -114605,6 +114719,50 @@
           "Region": "World",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/r2_e4d06792-58d3-4d15-91e5-d9d31aa1e5a1.png"
+        }
+      ],
+      "Screenshots": [
+        {
+          "CRC32": "588512712",
+          "FileName": "r2_eeb92833-c104-4425-ad31-20f823d7f133.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_eeb92833-c104-4425-ad31-20f823d7f133.png"
+        },
+        {
+          "CRC32": "3859331762",
+          "FileName": "r2_51a55541-8e17-4eef-9c4e-0e282ed04903.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_51a55541-8e17-4eef-9c4e-0e282ed04903.png"
+        },
+        {
+          "CRC32": "3897756907",
+          "FileName": "r2_41559ba9-869d-42ef-b4f8-70b07fafb41e.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_41559ba9-869d-42ef-b4f8-70b07fafb41e.png"
+        },
+        {
+          "CRC32": "3484335985",
+          "FileName": "r2_b3823ee2-b74d-4bce-bfc1-046e8b495049.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_b3823ee2-b74d-4bce-bfc1-046e8b495049.png"
+        },
+        {
+          "CRC32": "2841594287",
+          "FileName": "r2_cb561019-b4b8-4179-b088-d223f03d87f2.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_cb561019-b4b8-4179-b088-d223f03d87f2.png"
+        },
+        {
+          "CRC32": "1575869224",
+          "FileName": "r2_cdcfbe8b-000c-434e-826b-25a73e63d19d.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_cdcfbe8b-000c-434e-826b-25a73e63d19d.png"
         }
       ]
     },
@@ -118559,6 +118717,13 @@
             "Region": "Europe",
             "Type": "Box - 3D",
             "URL": "http://images.launchbox-app.com/347426d4-b6f0-4ecd-8418-b58322ba619f.png"
+          },
+          {
+            "CRC32": "2775776340",
+            "FileName": "r2_9363f2df-f51f-4216-9951-eb19c12815c2.png",
+            "Region": "North America",
+            "Type": "Box - 3D",
+            "URL": "http://images.launchbox-app.com/r2_9363f2df-f51f-4216-9951-eb19c12815c2.png"
           }
         ],
         "Back": [
@@ -118582,6 +118747,13 @@
             "Region": "Germany",
             "Type": "Box - Back",
             "URL": "http://images.launchbox-app.com/r2_e0d82d2c-695f-4bc7-b2ad-bfb4d0c12c55.jpg"
+          },
+          {
+            "CRC32": "3810154627",
+            "FileName": "r2_8316037d-1500-42e0-aec8-87ebcce97281.jpg",
+            "Region": "North America",
+            "Type": "Box - Back",
+            "URL": "http://images.launchbox-app.com/r2_8316037d-1500-42e0-aec8-87ebcce97281.jpg"
           }
         ],
         "Front": [
@@ -118635,6 +118807,13 @@
             "Region": "Europe",
             "Type": "Box - Spine",
             "URL": "http://images.launchbox-app.com/r2_172e7ae2-6942-4d92-b794-1918c461365d.jpg"
+          },
+          {
+            "CRC32": "2901840154",
+            "FileName": "r2_40e2558d-7989-4094-a02c-9d2a925fcc00.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_40e2558d-7989-4094-a02c-9d2a925fcc00.jpg"
           }
         ]
       },
@@ -118648,10 +118827,38 @@
       ],
       "Screenshots": [
         {
+          "CRC32": "137994470",
+          "FileName": "r2_dc4bf9f2-ada3-4412-97a2-311068e0051d.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_dc4bf9f2-ada3-4412-97a2-311068e0051d.png"
+        },
+        {
           "CRC32": "375163382",
           "FileName": "6c4644eb-c01e-482e-920c-5082867c505a.jpg",
           "Type": "Screenshot - Game Title",
           "URL": "http://images.launchbox-app.com/6c4644eb-c01e-482e-920c-5082867c505a.jpg"
+        },
+        {
+          "CRC32": "1395830928",
+          "FileName": "r2_bc7489a0-263e-45d3-926d-3dbc6cc80b19.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_bc7489a0-263e-45d3-926d-3dbc6cc80b19.png"
+        },
+        {
+          "CRC32": "3983779392",
+          "FileName": "r2_e2afb7e4-a429-4008-91e1-a747789f78b8.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_e2afb7e4-a429-4008-91e1-a747789f78b8.png"
+        },
+        {
+          "CRC32": "4084386113",
+          "FileName": "r2_f0b4d8d4-4164-4852-b46b-478761bcf01a.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_f0b4d8d4-4164-4852-b46b-478761bcf01a.png"
         }
       ]
     },
@@ -120115,7 +120322,7 @@
         }
       ]
     },
-    "CommunityRating": "2.16666666666667",
+    "CommunityRating": "2.875",
     "DatabaseID": "15843",
     "ESRB": "E - Everyone",
     "Genres": null,
@@ -147791,7 +147998,7 @@
         }
       ]
     },
-    "CommunityRating": "4.06818181818182",
+    "CommunityRating": "4.10869565217391",
     "DatabaseID": "20338",
     "Developer": "RedLynx",
     "ESRB": "T - Teen",
@@ -152865,7 +153072,7 @@
         }
       ]
     },
-    "CommunityRating": "4",
+    "CommunityRating": "3.83333333333333",
     "DatabaseID": "22678",
     "Developer": "Crytek",
     "ESRB": "M - Mature",
@@ -154865,7 +155072,7 @@
         }
       ]
     },
-    "CommunityRating": "3.94444444444444",
+    "CommunityRating": "3.95",
     "DatabaseID": "23500",
     "Developer": "11 bit studios",
     "ESRB": "E10+ - Everyone 10+",
@@ -176515,7 +176722,7 @@
         }
       ]
     },
-    "CommunityRating": "4.76229508196721",
+    "CommunityRating": "4.76612903225806",
     "DatabaseID": "156370",
     "Developer": "Rockstar San Diego",
     "ESRB": "M - Mature",
@@ -177149,7 +177356,7 @@
         }
       ]
     },
-    "CommunityRating": "4.175",
+    "CommunityRating": "4.19047619047619",
     "DatabaseID": "156962",
     "Developer": "Sumo Digital",
     "ESRB": "E - Everyone",
@@ -230182,6 +230389,15 @@
   },
   {
     "Artwork": {
+      "Background": [
+        {
+          "CRC32": "639906890",
+          "FileName": "r2_ca882d5a-5943-4e45-8908-00354ed42d47.jpg",
+          "Region": "World",
+          "Type": "Fanart - Background",
+          "URL": "http://images.launchbox-app.com/r2_ca882d5a-5943-4e45-8908-00354ed42d47.jpg"
+        }
+      ],
       "Box": {
         "3D": [
           {
@@ -230195,19 +230411,28 @@
         "Back": [
           {
             "CRC32": "2077110445",
-            "FileName": "r2_3b23745d-466b-4cfc-aebd-a0ae0ab5013c.jpg",
+            "FileName": "r2_43ef6da8-8379-4739-9123-c528a7fc7824.jpg",
             "Region": "North America",
             "Type": "Box - Back",
-            "URL": "http://images.launchbox-app.com/r2_3b23745d-466b-4cfc-aebd-a0ae0ab5013c.jpg"
+            "URL": "http://images.launchbox-app.com/r2_43ef6da8-8379-4739-9123-c528a7fc7824.jpg"
           }
         ],
         "Front": [
           {
             "CRC32": "2837021354",
-            "FileName": "0fd5cae2-dbf4-402d-8c14-264d87ceaacc.jpg",
+            "FileName": "r2_62883c9f-9b1f-4ff2-9456-037ae0072938.jpg",
             "Region": "North America",
             "Type": "Box - Front",
-            "URL": "http://images.launchbox-app.com/0fd5cae2-dbf4-402d-8c14-264d87ceaacc.jpg"
+            "URL": "http://images.launchbox-app.com/r2_62883c9f-9b1f-4ff2-9456-037ae0072938.jpg"
+          }
+        ],
+        "Spine": [
+          {
+            "CRC32": "1974202051",
+            "FileName": "r2_c9afe158-de6a-4f9e-ae11-947688918eb8.jpg",
+            "Region": "North America",
+            "Type": "Box - Spine",
+            "URL": "http://images.launchbox-app.com/r2_c9afe158-de6a-4f9e-ae11-947688918eb8.jpg"
           }
         ]
       },
@@ -230217,25 +230442,62 @@
           "FileName": "r2_c6914e84-2fa0-4240-b158-c31a3854ed64.png",
           "Type": "Clear Logo",
           "URL": "http://images.launchbox-app.com/r2_c6914e84-2fa0-4240-b158-c31a3854ed64.png"
+        },
+        {
+          "CRC32": "66639270",
+          "FileName": "r2_3abb4ad3-8081-4141-a778-64e12deebedf.png",
+          "Region": "World",
+          "Type": "Clear Logo",
+          "URL": "http://images.launchbox-app.com/r2_3abb4ad3-8081-4141-a778-64e12deebedf.png"
         }
       ],
       "Screenshots": [
+        {
+          "CRC32": "1131621871",
+          "FileName": "r2_d0f7a41c-e3cb-42a2-88b4-23d71877467f.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Select",
+          "URL": "http://images.launchbox-app.com/r2_d0f7a41c-e3cb-42a2-88b4-23d71877467f.png"
+        },
+        {
+          "CRC32": "3230902063",
+          "FileName": "r2_14311805-8152-4445-841a-66b4e4f1f4d3.png",
+          "Region": "World",
+          "Type": "Screenshot - Game Title",
+          "URL": "http://images.launchbox-app.com/r2_14311805-8152-4445-841a-66b4e4f1f4d3.png"
+        },
         {
           "CRC32": "2855724921",
           "FileName": "91991d56-68ee-4bcc-b5bd-4777a271591e.jpg",
           "Type": "Screenshot - Gameplay",
           "URL": "http://images.launchbox-app.com/91991d56-68ee-4bcc-b5bd-4777a271591e.jpg"
+        },
+        {
+          "CRC32": "3987774920",
+          "FileName": "r2_40cf16f5-d476-428c-8e12-4d2188d026e9.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_40cf16f5-d476-428c-8e12-4d2188d026e9.png"
+        },
+        {
+          "CRC32": "280299138",
+          "FileName": "r2_c43f966f-78f8-4df3-920e-248223fba907.png",
+          "Region": "World",
+          "Type": "Screenshot - Gameplay",
+          "URL": "http://images.launchbox-app.com/r2_c43f966f-78f8-4df3-920e-248223fba907.png"
         }
       ]
     },
     "CommunityRating": "4.5",
     "DatabaseID": "460755",
     "Developer": "Capcom",
+    "ESRB": "T - Teen",
     "Genres": "Shooter",
     "Name": "Lost Planet: Extreme Condition: Colonies Edition",
     "Overview": "Lost Planet: Extreme Condition Colonies Edition provides explosive action for both online and offline players. Gamers who missed the original Lost Planet will have the opportunity to experience the epic gameplay that made the original a global hit with the added bonus of fresh new content and cross platform multi-play all at a great value price. Fans of the Lost Planet's online action will be thrilled at the inclusion of new online modes, maps, weapons, and models.",
     "Publisher": "Capcom",
-    "ReleaseDate": "2008-05-27"
+    "ReleaseDate": "2008-05-27",
+    "WikipediaURL": "https://en.wikipedia.org/wiki/Lost_Planet:_Extreme_Condition"
   },
   {
     "Artwork": {

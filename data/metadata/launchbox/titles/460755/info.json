@@ -1,5 +1,14 @@
 {
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "639906890",
+        "FileName": "r2_ca882d5a-5943-4e45-8908-00354ed42d47.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_ca882d5a-5943-4e45-8908-00354ed42d47.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -13,19 +22,28 @@
       "Back": [
         {
           "CRC32": "2077110445",
-          "FileName": "r2_3b23745d-466b-4cfc-aebd-a0ae0ab5013c.jpg",
+          "FileName": "r2_43ef6da8-8379-4739-9123-c528a7fc7824.jpg",
           "Region": "North America",
           "Type": "Box - Back",
-          "URL": "http://images.launchbox-app.com/r2_3b23745d-466b-4cfc-aebd-a0ae0ab5013c.jpg"
+          "URL": "http://images.launchbox-app.com/r2_43ef6da8-8379-4739-9123-c528a7fc7824.jpg"
         }
       ],
       "Front": [
         {
           "CRC32": "2837021354",
-          "FileName": "0fd5cae2-dbf4-402d-8c14-264d87ceaacc.jpg",
+          "FileName": "r2_62883c9f-9b1f-4ff2-9456-037ae0072938.jpg",
           "Region": "North America",
           "Type": "Box - Front",
-          "URL": "http://images.launchbox-app.com/0fd5cae2-dbf4-402d-8c14-264d87ceaacc.jpg"
+          "URL": "http://images.launchbox-app.com/r2_62883c9f-9b1f-4ff2-9456-037ae0072938.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "1974202051",
+          "FileName": "r2_c9afe158-de6a-4f9e-ae11-947688918eb8.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_c9afe158-de6a-4f9e-ae11-947688918eb8.jpg"
         }
       ]
     },
@@ -35,23 +53,60 @@
         "FileName": "r2_c6914e84-2fa0-4240-b158-c31a3854ed64.png",
         "Type": "Clear Logo",
         "URL": "http://images.launchbox-app.com/r2_c6914e84-2fa0-4240-b158-c31a3854ed64.png"
+      },
+      {
+        "CRC32": "66639270",
+        "FileName": "r2_3abb4ad3-8081-4141-a778-64e12deebedf.png",
+        "Region": "World",
+        "Type": "Clear Logo",
+        "URL": "http://images.launchbox-app.com/r2_3abb4ad3-8081-4141-a778-64e12deebedf.png"
       }
     ],
     "Screenshots": [
+      {
+        "CRC32": "1131621871",
+        "FileName": "r2_d0f7a41c-e3cb-42a2-88b4-23d71877467f.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_d0f7a41c-e3cb-42a2-88b4-23d71877467f.png"
+      },
+      {
+        "CRC32": "3230902063",
+        "FileName": "r2_14311805-8152-4445-841a-66b4e4f1f4d3.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_14311805-8152-4445-841a-66b4e4f1f4d3.png"
+      },
       {
         "CRC32": "2855724921",
         "FileName": "91991d56-68ee-4bcc-b5bd-4777a271591e.jpg",
         "Type": "Screenshot - Gameplay",
         "URL": "http://images.launchbox-app.com/91991d56-68ee-4bcc-b5bd-4777a271591e.jpg"
+      },
+      {
+        "CRC32": "3987774920",
+        "FileName": "r2_40cf16f5-d476-428c-8e12-4d2188d026e9.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_40cf16f5-d476-428c-8e12-4d2188d026e9.png"
+      },
+      {
+        "CRC32": "280299138",
+        "FileName": "r2_c43f966f-78f8-4df3-920e-248223fba907.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_c43f966f-78f8-4df3-920e-248223fba907.png"
       }
     ]
   },
   "CommunityRating": "4.5",
   "DatabaseID": "460755",
   "Developer": "Capcom",
+  "ESRB": "T - Teen",
   "Genres": "Shooter",
   "Name": "Lost Planet: Extreme Condition: Colonies Edition",
   "Overview": "Lost Planet: Extreme Condition Colonies Edition provides explosive action for both online and offline players. Gamers who missed the original Lost Planet will have the opportunity to experience the epic gameplay that made the original a global hit with the added bonus of fresh new content and cross platform multi-play all at a great value price. Fans of the Lost Planet's online action will be thrilled at the inclusion of new online modes, maps, weapons, and models.",
   "Publisher": "Capcom",
-  "ReleaseDate": "2008-05-27"
+  "ReleaseDate": "2008-05-27",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Lost_Planet:_Extreme_Condition"
 }
