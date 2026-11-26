@@ -12650,14 +12650,15 @@
     "issue": 409,
     "id": "4D53084D",
     "title": "Forza Motorsport 3",
-    "updated": "2026-11-26T05:19:29Z",
+    "updated": "2026-11-26T11:14:49Z",
     "state": "Playable",
     "labels": {
       "state": [
         "state-playable"
       ],
       "others": [
-        "gpu-readback"
+        "gpu-readback",
+        "splitscreen-working"
       ]
     },
     "url": "https://github.com/xenia-canary/game-compatibility/issues/409"
@@ -17758,7 +17759,7 @@
     "issue": 75,
     "id": "4D530910",
     "title": "Forza Motorsport 4",
-    "updated": "2026-11-26T05:25:19Z",
+    "updated": "2026-11-26T11:15:08Z",
     "state": "Playable",
     "labels": {
       "state": [
@@ -17768,6 +17769,7 @@
         "tech-kinect-optional",
         "marketplace-nodownload",
         "gpu-readback",
+        "splitscreen-working",
         "requires_occlusion_query_strict",
         "gpu-ext-query"
       ]
