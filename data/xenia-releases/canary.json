@@ -1,5 +1,110 @@
 [
   {
+    "tag_name": "6610380",
+    "target_commitish": "6610380ee9ca6b778c4d170333205c3471f47d2e",
+    "published_at": "2026-11-27T22:51:49Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/6610380",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/6610380ee9ca6b778c4d170333205c3471f47d2e",
+    "changelog": {
+      "title": "6610380_canary_experimental",
+      "changes": "- [Kernel] Place stacks in 4 KB pages (`6610380`)\n- [Kernel] Decommit and release whole pages from inside a range (`38dcf31`)\n- [Kernel] Commit, reserve and reset whole pages at a base (`92bed64`)\n- [Kernel] Refuse negative sizes and bases outside the title's memory (`3c54b53`)\n- [Kernel] Keep a pool block's size in its header (`5f67cb9`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/352b876...6610380"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6610380/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/6610380/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "352b876",
+    "target_commitish": "352b8761db054623bbdc647a008de58a47af8d7b",
+    "published_at": "2026-11-27T22:25:15Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/352b876",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/352b8761db054623bbdc647a008de58a47af8d7b",
+    "changelog": {
+      "title": "352b876_canary_experimental",
+      "changes": "- [Misc] Fix undefined behaviour flagged (`352b876`)\n- [GPU] Use std::bit_cast for float bit manipulation (`f52e711`)\n- [Build] Rename xb premake to xb configure (`863ed9d`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7c20b9a...352b876"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/352b876/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/352b876/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7c20b9a",
+    "target_commitish": "7c20b9a8c9118543153a27d954c97bd8d63b9be7",
+    "published_at": "2026-11-27T21:51:01Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7c20b9a",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7c20b9a8c9118543153a27d954c97bd8d63b9be7",
+    "changelog": {
+      "title": "7c20b9a_canary_experimental",
+      "changes": "- [XB] Support CLion as an alternative IDE on Windows (`7c20b9a`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2eb5992...7c20b9a"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7c20b9a/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7c20b9a/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "2eb5992",
+    "target_commitish": "2eb59926bd75075bc5cfa9f84ccbf8be3d5326f2",
+    "published_at": "2026-11-27T19:12:12Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/2eb5992",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/2eb59926bd75075bc5cfa9f84ccbf8be3d5326f2",
+    "changelog": {
+      "title": "2eb5992_canary_experimental",
+      "changes": "- [Linux] Limit GTK startup to the X11 backend (`2eb5992`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/7ddf9c8...2eb5992"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2eb5992/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/2eb5992/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
+    "tag_name": "7ddf9c8",
+    "target_commitish": "7ddf9c8560c6915bf235239fd644a7f4c8403031",
+    "published_at": "2026-11-27T18:36:16Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/7ddf9c8",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/7ddf9c8560c6915bf235239fd644a7f4c8403031",
+    "changelog": {
+      "title": "7ddf9c8_canary_experimental",
+      "changes": "- [x64] Resolve a longjmp only from a tail return (`7ddf9c8`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/2da2519...7ddf9c8"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ddf9c8/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/7ddf9c8/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "2da2519",
     "target_commitish": "2da25198960769ccc2baa97529f77485351732fe",
     "published_at": "2026-11-24T16:32:05Z",
