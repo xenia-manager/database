@@ -28,6 +28,13 @@
           "Region": "North America",
           "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/a5b0d57a-f47c-4567-a339-9bddb30df40e.png"
+        },
+        {
+          "CRC32": "2043915219",
+          "FileName": "r2_141c3868-b408-47b1-83ba-f9aad8efc035.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_141c3868-b408-47b1-83ba-f9aad8efc035.png"
         }
       ],
       "Back": [
@@ -37,6 +44,13 @@
           "Region": "Germany",
           "Type": "Box - Back",
           "URL": "http://images.launchbox-app.com/r2_2e51332e-a1f0-4a9b-9915-2eb0c1384481.jpg"
+        },
+        {
+          "CRC32": "4243696488",
+          "FileName": "r2_dcf4b1f4-1ee9-4b51-8b3e-f3717e990ee1.jpg",
+          "Region": "North America",
+          "Type": "Box - Back",
+          "URL": "http://images.launchbox-app.com/r2_dcf4b1f4-1ee9-4b51-8b3e-f3717e990ee1.jpg"
         }
       ],
       "Front": [
@@ -67,6 +81,22 @@
           "Region": "North America",
           "Type": "Box - Front",
           "URL": "http://images.launchbox-app.com/33124cc3-7635-48eb-be96-772765164cb9.jpg"
+        },
+        {
+          "CRC32": "4035432140",
+          "FileName": "r2_2af23489-a689-4bde-9558-067cc53abaae.jpg",
+          "Region": "North America",
+          "Type": "Box - Front",
+          "URL": "http://images.launchbox-app.com/r2_2af23489-a689-4bde-9558-067cc53abaae.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "CRC32": "1106151445",
+          "FileName": "r2_4778911f-094d-4f65-ac22-f9fc959e0c65.jpg",
+          "Region": "North America",
+          "Type": "Box - Spine",
+          "URL": "http://images.launchbox-app.com/r2_4778911f-094d-4f65-ac22-f9fc959e0c65.jpg"
         }
       ]
     },
@@ -89,9 +119,47 @@
     "Other": [
       {
         "CRC32": "1453527742",
-        "FileName": "bd39b527-00b6-442e-9908-1c0168ef63df.png",
+        "FileName": "r2_a9c05c26-57fa-4c16-9e27-c6a21ec19992.png",
+        "Region": "World",
         "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/bd39b527-00b6-442e-9908-1c0168ef63df.png"
+        "URL": "http://images.launchbox-app.com/r2_a9c05c26-57fa-4c16-9e27-c6a21ec19992.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "1695837466",
+        "FileName": "r2_80c1290a-3179-4bbe-ab36-d343bff22402.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_80c1290a-3179-4bbe-ab36-d343bff22402.png"
+      },
+      {
+        "CRC32": "3086231814",
+        "FileName": "r2_1eb5ddea-727f-472a-89aa-41aa21bbd76c.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_1eb5ddea-727f-472a-89aa-41aa21bbd76c.png"
+      },
+      {
+        "CRC32": "2399742136",
+        "FileName": "r2_025286ae-166a-4634-99c8-48c065ee8e67.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_025286ae-166a-4634-99c8-48c065ee8e67.png"
+      },
+      {
+        "CRC32": "1246057899",
+        "FileName": "r2_1039cd11-feaa-48cd-a4c9-915dbf64c5db.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_1039cd11-feaa-48cd-a4c9-915dbf64c5db.png"
+      },
+      {
+        "CRC32": "2989342090",
+        "FileName": "r2_f4685356-c094-4ce8-a5c1-a2a760debd39.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_f4685356-c094-4ce8-a5c1-a2a760debd39.png"
       }
     ]
   },
@@ -99,9 +167,10 @@
   "DatabaseID": "17218",
   "Developer": "Volition",
   "ESRB": "M - Mature",
-  "Genres": "Adventure; Racing; Sandbox; Shooter",
+  "Genres": "Racing; Sandbox; Shooter",
   "Name": "Saints Row IV",
   "Overview": "Several years following the events of Saints Row: The Third, the Third Streets Saints leader has been elected as president of the United States. When an alien invasion occurs, the president is sent to a simulation of Steelport, where he/she must use superpowers to fight against the alien invasion.",
   "Publisher": "Deep Silver",
-  "ReleaseDate": "2013-08-20"
+  "ReleaseDate": "2013-08-20",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Saints_Row_IV"
 }
