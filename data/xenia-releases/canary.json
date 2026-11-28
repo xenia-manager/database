@@ -1,5 +1,26 @@
 [
   {
+    "tag_name": "b85977e",
+    "target_commitish": "b85977e21976534e707589614be3730886abc05c",
+    "published_at": "2026-11-28T01:06:22Z",
+    "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b85977e",
+    "commit_url": "https://github.com/xenia-canary/xenia-canary/commit/b85977e21976534e707589614be3730886abc05c",
+    "changelog": {
+      "title": "b85977e_canary_experimental",
+      "changes": "- [Base] Keep the date library out of chrono.h (`b85977e`)\n- [Base] Keep <regex> out of widely included headers (`500ed3b`)\n- [Base] Keep toml++ and cxxopts out of cvar.h (`4df1b7d`)\n- [3PP] Stop building unused SDL3 subsystems on Windows (`ddbc3b0`)\n- [3PP] Stop building unused FFmpeg sources (`50a2e07`)\n\n**Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/6610380...b85977e"
+    },
+    "assets": [
+      {
+        "name": "xenia_canary_linux.AppImage",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b85977e/xenia_canary_linux.AppImage"
+      },
+      {
+        "name": "xenia_canary_windows.7z",
+        "url": "https://github.com/xenia-canary/xenia-canary/releases/download/b85977e/xenia_canary_windows.7z"
+      }
+    ]
+  },
+  {
     "tag_name": "6610380",
     "target_commitish": "6610380ee9ca6b778c4d170333205c3471f47d2e",
     "published_at": "2026-11-27T22:51:49Z",

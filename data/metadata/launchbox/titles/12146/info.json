@@ -1,5 +1,14 @@
 {
   "Artwork": {
+    "Background": [
+      {
+        "CRC32": "3501453351",
+        "FileName": "r2_237fa0c1-40ef-424a-bfba-f6592437ad5d.jpg",
+        "Region": "World",
+        "Type": "Fanart - Background",
+        "URL": "http://images.launchbox-app.com/r2_237fa0c1-40ef-424a-bfba-f6592437ad5d.jpg"
+      }
+    ],
     "Box": {
       "3D": [
         {
@@ -8,6 +17,13 @@
           "Region": "Europe",
           "Type": "Box - 3D",
           "URL": "http://images.launchbox-app.com/7719a4c3-2505-4eb5-859e-57ee5e7fa8e0.png"
+        },
+        {
+          "CRC32": "150889394",
+          "FileName": "r2_d97c7a7a-83c5-4da5-b30e-fc960e3ca913.png",
+          "Region": "North America",
+          "Type": "Box - 3D",
+          "URL": "http://images.launchbox-app.com/r2_d97c7a7a-83c5-4da5-b30e-fc960e3ca913.png"
         }
       ],
       "Back": [
@@ -69,18 +85,49 @@
     "Disc": [
       {
         "CRC32": "3348415182",
-        "FileName": "c16ea8d2-3e10-47f0-abcc-1d286e0e4bfe.png",
+        "FileName": "r2_6eefde28-a32b-46d9-987e-939dfffe2a5a.png",
         "Region": "North America",
         "Type": "Disc",
-        "URL": "http://images.launchbox-app.com/c16ea8d2-3e10-47f0-abcc-1d286e0e4bfe.png"
+        "URL": "http://images.launchbox-app.com/r2_6eefde28-a32b-46d9-987e-939dfffe2a5a.png"
       }
     ],
     "Other": [
       {
         "CRC32": "1204455075",
-        "FileName": "fa389da8-9dcc-471d-9088-1f62e576929c.png",
+        "FileName": "r2_280c7589-f66c-45c8-b9e1-aa3697edd46b.png",
+        "Region": "World",
         "Type": "Clear Logo",
-        "URL": "http://images.launchbox-app.com/fa389da8-9dcc-471d-9088-1f62e576929c.png"
+        "URL": "http://images.launchbox-app.com/r2_280c7589-f66c-45c8-b9e1-aa3697edd46b.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "CRC32": "3049551752",
+        "FileName": "r2_ab6b1e40-9df5-4b71-b891-4fa69f4c5a73.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Select",
+        "URL": "http://images.launchbox-app.com/r2_ab6b1e40-9df5-4b71-b891-4fa69f4c5a73.png"
+      },
+      {
+        "CRC32": "347785519",
+        "FileName": "r2_14254f87-84f6-4801-bd85-0349985994c8.png",
+        "Region": "World",
+        "Type": "Screenshot - Game Title",
+        "URL": "http://images.launchbox-app.com/r2_14254f87-84f6-4801-bd85-0349985994c8.png"
+      },
+      {
+        "CRC32": "3142461875",
+        "FileName": "r2_d3ec5814-006f-4480-96d8-f26bdf404dcf.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_d3ec5814-006f-4480-96d8-f26bdf404dcf.png"
+      },
+      {
+        "CRC32": "2590155694",
+        "FileName": "r2_e021c366-818e-400e-9c3b-db3823767dd7.png",
+        "Region": "World",
+        "Type": "Screenshot - Gameplay",
+        "URL": "http://images.launchbox-app.com/r2_e021c366-818e-400e-9c3b-db3823767dd7.png"
       }
     ]
   },
@@ -92,5 +139,6 @@
   "Name": "Syndicate",
   "Overview": "Set in 2069, Syndicate takes players into a dark, Machiavellian world run without government oversight with many syndicates vying for total dominance of their local market place. With no one to question their intentions or actions, three mega corporations - Eurocorp, Cayman Global, and Aspari - are at the forefront of this brutal war for control of the pivotal American market. In the world of Syndicate, everything is digitally connected, including the people. Players aren't limited to the weapons in their hands. Through DART 6 bio-chip technology implanted in their head, players can slow down time and breach the digital world around them to take down their foes using a variety of upgradable hacking mechanics. Syndicate's blend of fast-paced, futuristic, action shooter settings and story combined with innovative chip breach gameplay instantly immerses players in a unique digital world.",
   "Publisher": "Electronic Arts",
-  "ReleaseDate": "2012-02-21"
+  "ReleaseDate": "2012-02-21",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Syndicate_(2012_video_game)"
 }
